@@ -1,0 +1,3302 @@
+
+p. 1968
+INDEX
+A
+Abandoned property, misappropriation, 1029
+Abandonment
+actus reus and, 615-616
+of conspiracy, 739
+Abolition
+alternatives, 60-61.
+crimes not stemming from structural deprivation, 62
+deep structural change, 61
+defunding police, 8, 20, 67
+democracy and, 57
+foundational vs. incremental change, 61-62
+of incarceration, 5, 56, 59
+of insanity defense, 968-972
+assessment of, 969
+blame as imperative, 969-972
+“hands-off” principle, 969
+state efforts, 969
+terminology, 968-969
+of law enforcement, 5, 59
+overview, 53-54
+of provocation, 489-490
+strategy and tactics, 60
+traditional theories of punishment and, 62-63
+who is abolitionist, 60
+
+ACCA (Armed Career Criminal Act of 1984), 229-230
+Accessories. See Complicity
+Accomplices. See Complicity
+Acoustic separation approach, 315-316
+Acquittal, 140
+Actus reus, 248-284
+abandonment and, 615-616
+attempt, 615-616
+complicity, 685-701. See also Complicity
+conspiracy, 721-728
+attempt vs., 723-724
+complicity vs., 723-724
+overt-act requirement, 726-728
+overview, 721
+excuse and, 1004-1005
+greater culpability of principal actor, 701
+lesser culpability of principal actor, 699-701,
+omissions, 261-284. See also Omissions
+rape, 392-435
+absence of consent, 412-429
+deception, 429-435
+force and coercion, 393-412
+overview, 392-393
+voluntary action requirement, 248-261. See also Voluntary action requirement
+words as acts, 633-637
+Addiction as excuse, 990-992, 1002-1005
+Administrative law, plea bargaining and, 135-139
+Adultery as provocation, 482-485, 491
+Affirmative defenses
+burden of proof, 152-155
+gratuitous defenses, 156
+nongratuitous defenses, 157-158
+
+overview, 141
+strict liability, 346-347
+Age
+alcoholic beverage offenses, strict liability, 339-341
+duress and, 912-913
+mistake of fact, 312-314
+rape, absence of consent, 426
+Agency costs, 120-121
+Agents, criminal liability of, 788-802, See also Corporate criminality
+Aiding and abetting. See Complicity
+p. 1963
+Teen 1864
+Alcoholic beverage offenses, strict liability, 339-341
+Alcoholism as excuse, 992-1001
+Alien and Sedition Acts of 1798, 168
+American Law Institute. See Model Penal Code
+Anti-Riot Act of 1968, 637
+Appointed counsel, 73
+“arbitrary” leniency, 176-177
+Armed Career Criminal Act of 1984 (ACCA), 229-230
+Arson
+causation, 574-576
+felony murder and, 532-534
+Model Penal Code, 1267-1269
+Asportation, 1017-1018
+Assault
+attempt, 616-618, 622
+with intent to rape, 616-618
+Model Penal Code, 1250
+Assisted suicide, 584-589
+Attempt, 601-650. See also specific offense
+
+abandonment, 615-616
+
+actus reus requirement, 615-616
+assault, 616-618, 622
+
+attendant circumstances, 609-610
+burglary, 621
+
+complicity compared, 677-678, 689-690
+confessions and, 619
+
+conspiracy vs., 723-724, 758-759
+dangerous proximity test, 612-614
+drug offenses, 631-632
+equivocality test, 619-621
+
+felony murder, 608-609
+impossibility, 687-650
+
+intent requirement, 606
+manslaughter, 608
+
+mens rea requirement, 604-611
+mere preparation as, 622-623
+Model Penal Code, 629-630, 632-633
+omissions, 633
+
+overview, 601-604
+
+policing measures, 623
+preparation vs., 611-633
+
+proximity test, 612-614
+punishment grading, 601-604
+race and, 618-619
+
+robbery, 612-614, 627-629
+solicitation, 633-637
+
+specific intent, 606-610
+
+stalking, 623-626
+
+statutory reform, 629-630
+substantial step formula, 627-629
+transferred intent and, 609
+
+unprotected sex and, 604-606
+Attendant circumstances
+attempt, 609-610
+complicity, 672-679
+conspiracy, 735-737
+facts essential to criminality, 736-737
+facts increasing gravity of offense, 736
+mens rea, 609-610
+Model Penal Code, 676-677
+Automatism, 981-982
+defendant's option, 981
+sane vs. insane automatism, 981-982
+sleep, 982
+Automobile accidents, causation, 595-599
+Autonomy, causation and, 589-590
+B
+Bail Reform Act of 1984, 81
+Battered woman's syndrome (BWS). See Intimate partner violence
+Battery. See Assault
+Bench trials, 140
+Biased nullification, 177
+Black Lives Matter, 68, 868
+Blackmail, 1049-1059
+First Amendment and, 1054~1055
+Model Penal Code, 1052
+nature of threat, 1051-1052
+practice of law and, 1052
+rationale of, 1058-1059
+victims threatening lawsuits, 1052-1053
+Blameworthy acts, 253-254
+Burden of persuasion, 155-156
+
+Burden of production, 155-156
+Burden of proof
+affirmative defenses, 152-155
+insanity defense, 948-949
+p. 1964
+reasonable doubt standard
+allocation of, 151-159
+discretion, 159
+gratuitous defenses, 156
+nongratuitous defenses, 157-158
+problems, 148
+sentencing enhancements, 158-159
+self-defense, 849
+Burglary
+attempt, 621
+Model Penal Code, 1269-1270
+Business crimes. See Corporate criminality
+BWS (Battered woman's syndrome). See Intimate partner violence
+Bystanders
+benefiting from victim’s peril, 267-268
+duty to report, 272-273
+duty to rescue, 270-271
+in Europe, 271,
+Good Samaritans, 268-270
+indifference, 265-267
+intervention programs, 272
+misprision of felony, 272-273
+c
+California
+
+burglary, 300
+consolidation, 1061
+manslaughter, 464-465
+murder, 463-464
+protection of property, 864
+rape, 387-389
+by deception, 433-434
+robbery, 1022-1023
+Canada
+Charter of Rights and Freedoms, 345, 919, 1001.
+Criminal Code, 919
+Motor Vehicle Act, 345
+Cannabis, medical, 884-885
+Cannibalism, 8-14
+Capacity evidence, 986
+Capital punishment. See Death penalty
+Case-in-chief, 141
+Castle exception to duty to retreat, 855-856
+co-occupants, 856
+guests, 855
+intruders, 855
+Causation, 567-601
+arson, 574-576
+assisted suicide, 584-589
+automobile accidents, 595-599
+autonomy and, 589-590
+coincidence and, 568-584
+complicity and, 679, 689
+drugs, providing, 600
+factual cause, 572-574
+foreseeability and, 568-584, 589-590
+intentional vs. reckless choices, 594
+
+intervening acts, 584-601.
+involuntary choices by subsequent actor, 594-595
+involuntary manslaughter, 595-599
+life support, removing, 591-592
+medical malpractice, 579-580
+Model Penal Code, 583, 600-601
+murder, 568-571, 574-576
+neglect or maltreatment of injury, 579-580
+omissions, 580
+overview, 567-568
+proximate cause, 541, 572-574
+rationale of requirement, 581-582
+reckless or negligent aid, 588-589
+religious beliefs and, 592
+reluctant actor, encouraging, 590-591
+resulting harm, 567-601.
+“Russian roulette,” 599-600
+source of trauma, 591
+specific causal mechanism, 577
+‘subsequent actions intended to produce result, 584-594
+subsequent actions that recklessly risk result, 594-601
+subsequent human actions, 584-601
+subsequent victim behavior and, 590
+suicide, 584-589
+third parties, subsequent acts of, 592-594
+transferred intent, 582-584
+
+attempt and, 609
+
+homicide and, 584
+
+Model Penal Code, 583
+
+p. 1965
+p. 1966
+
+voluntary choices by subsequent actor, 595
+vulnerable victim and, 578-579
+Cautionary instructions, 144-145
+Charging decision. See also Discretion
+alternatives to, 90
+Europe, “compulsory” prosecution in, 100-101
+independent checks, 90, 98-99
+intimate partner violence, 96-97
+judges, prosecutions initiated by, 94-95
+restorative justice and, 97-98
+selective prosecution, 101-106
+disparate patterns, 106
+drug offenses, 102-105
+federalism and, 107
+firearms offenses, 102-105
+race and, 105-106
+transparency and, 107
+victimless crimes, 98
+victim participation in, 95-96
+victims, prosecutions initiated by, 94-95
+Child abuse, 263-265
+Child pornography
+distributing, strict liability, 837-338
+producing, strict liability, 338-339
+Children and minors
+age, mistake of fact, 312-314
+alcoholic beverage offenses, strict liability, 339-341
+child rape, death penalty, 1190
+juvenile offenders
+capital cases, 1189-1190
+death penalty, 1189-1190
+gun possession, 668-669
+
+life without parole, 1160-1161
+restrictions on having, 1111
+sexual abuse, mistake of fact, 319-326
+starving children, economic necessity, 886
+statutory rape
+mistake of fact, 327-329
+strict liability, 327-328
+Choice of lesser evil, 876-896. See also Necessity
+Chokeholds, 868, 873
+Civil rights, jury trials and, 163-164
+Clean hands, necessity and, 882
+Cocaine
+attempt, 631-632
+crack cocaine, reforms, 107-108
+Coercion
+Model Penal Code, 1251-1252
+plea bargaining and, 128-129
+rape, 393-412. See also Rape
+Coincidence, causation and, 568-584
+Common law
+complicity at, 652-653
+legality principle and, 190-191.
+new common-law crimes, 193-194
+old common-law crimes, 193
+Competence to stand trial, 941-942
+Compliance programs, corporations, 785-786
+Complicity, 651-701
+actus reus, 685-701
+accomplice as victim, 698-699
+acquitted principal, 698
+attempted complicity, 689-690
+causation and, 689
+
+culpability, 699-701
+culpable-but-unconvictable principal, 697-698
+encouragement, 685-688
+entrapment, 695-696
+innocent agent doctrine, 696-697
+materiality of aid, 688-691.
+Model Penal Code, 699
+nonculpable principal as innocent agent, 696-697
+omissions and, 690-691
+onlookers, 687
+relationship between liability of parties, 692-701
+shared intent, 694-695
+speech, 687-688
+attempt compared, 677-678, 689-690
+causation and, 679, 689
+at common law, 652-653
+conspiracy as form of complicity liability, 707-721
+actus reus and, 723-724
+overview, 653
+p. 1966
+p. 1967
+Pinkerton doctrine, 707-721. See also Pinkerton doctrine
+culpability, 653-655
+greater culpability of principal actor, 701
+lesser culpability of principal actor, 699-701,
+entrapment and, 695-696
+felony murder, limiting liability for, 542-543
+First Amendment and, 687-688
+innocent agent doctrine, 696-697
+mens rea, 655-685
+accomplice liability based on same mental state as substantive offense, 675-676
+
+actions of principal, 655-672
+advance knowledge, 667-868
+attempt compared, 677-678
+causation and, 679
+criminal facilitation, 668-672
+knowledge vs. purpose, 667
+Model Penal Code, 660-661, 676-877
+natural and probable consequences theory, 680-685
+omissions and, 691
+overview, 655
+purchase, aiding and abetting, 659-660
+results and attendant circumstances, 672-679
+sale, aiding and abetting, 660
+seriousness of substantive offenses, 662-663
+natural and probable consequences theory, 680-685
+Model Penal Code, 685
+Pinkerton doctrine compared, 684-685
+state of law, 683-684
+by omission
+actus reus, 690-691
+mens rea, 691
+punishment, 653-655
+sentencing, 653-655
+shared intent, 694-695,
+statutory provisions, 652-653
+theory of, 651-652
+Concurrence requirement, 258-259
+Confessions, attempt and, 619
+Confidential business information, theft of, 1069-1071
+Conflicts of interest, plea bargaining and, 120
+Consent as defense
+causation and, 584-589
+
+rape, 412-429, See also Rape
+trespassory takings, 1019-1021
+Consolidation, 1060-1061
+Conspiracy, 701-760
+
+abandonment of, 739
+
+actus reus, 721-728
+attempt vs., 723-724
+complicity vs., 723-724
+overt-act requirement, 726-728
+overview, 721
+
+attempt vs., 723-724, 758-759
+
+completion of objectives, 737-738
+
+complicity liability, as form of, 707-721
+actus reus and, 723-724
+overview, 653
+Pinkerton doctrine, 707-721
+
+concealment of objectives, 737-738
+
+consequences of charge, 703-707
+accessory liability, 706-707
+criminalizing non-criminal objectives, 705
+procedural consequences, 703-704
+sentencing, 705-706
+spillover effects, 704-705
+
+criticism of, 759-760
+
+duration of, 737
+
+impossibility, 738-739
+
+as inchoate offense, 701-703
+
+meanings of, 701
+
+mens rea, 728-737
+attendant circumstances, 735-737
+corrupt motive, 735
+facts essential to criminality, 736-737
+
+facts increasing gravity of offense, 736
+felony cases, purpose or knowledge, 733
+p. 1967
+nnn 1868
+Model Penal Code, 706
+multiple objectives, 749-750
+nonreciprocal conspiracy, 749
+overt-act requirement, 726-728
+justifications for, 727-728
+liability without overt act, 726
+statutes requiring overt act, 726-727
+overview, 701-707
+parties to, 752-759
+acquitted co-conspirators, 753
+attempt, 758-759
+Model Penal Code, 754
+modem statutes, 758
+rationale for traditional approach, 758
+traditional conspiracy, 757
+“Wharton's rule,” 753-755
+Pinkerton doctrine, 707-721. See also Pinkerton doctrine
+reassessment of, 759-760
+renunciation of, 739
+sentencing and, 705-706
+single vs. multiple conspiracies, 741-751,
+drug offenses, 749
+insider trading, 749
+Model Penal Code, 741, 750-751
+multiple objectives, 749-750
+nonreciprocal conspiracy, 749
+Sixth Amendment and, 703
+
+withdrawal from, 739-740
+Constitution. See also specific Clause or Amendment
+death penalty, constitutional limitations, 1170-1205. See also Death penalty
+felony murder, constitutional considerations, 544
+rape shield laws, constitutional concerns, 458
+strict liability, constitutionality of, 345
+vagueness, constitutional foundations, 224-225
+Constructive force, rape and, 406
+Contract system, 73
+Contributory fault, duress and, 920-921
+Contributory negligence, homicide and, 510
+Controlled Substances Act of 1970, 900
+Controlled substances offenses. See Drug offenses
+Conversion, strict liability, 831-335
+Co-occupants, castle exception to duty to retreat, 856
+Cooling time, 493-494
+Copies, theft of, 1068-1069
+Corporate criminality, 760-802
+agents, liability of, 788-802
+expansion of responsibilities of officers, 801
+liability of corporate entity for acts of agents, 775-780
+mens rea, 799
+Model Penal Code, 788
+officers, 799-800
+other theories of criminal liability, 801-802
+overview, 788
+powerless defendants and, 796-797
+responsible corporate officer doctrine, 796-797, 799
+severity of penalties, 797
+vicarious liability, 795-796
+compliance programs, 785-786
+corporate entity, liability, 761-783
+
+acts of agents, 775-780
+
+alternatives, 781-782
+
+arguments against, 767-768
+
+arguments for, 766-767
+
+collateral consequences, 768-769
+
+collective knowledge, 774-775
+
+deferred prosecution agreements (DPAs), 772-774
+
+intent to benefit corporation, 770
+
+Model Penal Code, 768, 780-781
+
+non-prosecution agreements (NPAs), 772-774
+
+prosecutorial discretion, 770-772
+
+respondeat superior, 769
+
+tort liability vs. criminal liability, 763
+
+for which crimes, 763
+“death penalty,” 787-788
+deferred prosecution agreements (DPAs), 772-774, 786
+fines, 784-785
+involuntary manslaughter, 576-577
+
+p. 1968
+p. 1969
+
+non-prosecution agreements (NPAs), 772-774, 786
+officers, liability of, 799-800
+
+expansion of responsibilities, 801
+
+other theories of criminal liability, 801-802
+
+responsible corporate officer doctrine, 796-797, 799
+overview, 760-761
+punishment, 783-788
+
+compliance programs, 785-786
+
+“death penalty,” 787-788
+
+deferred prosecution agreements (DPAs), 786
+
+fines, 784-785
+
+judicial review, 786-787
+non-prosecution agreements (NPAs), 786
+overview, 783
+responsible corporate officer doctrine, 796-797, 799
+Corrections. See Incarceration
+Corroboration, rape and, 454-455
+Corruption as theft, 1081-1082
+Corrupt motive, conspiracy and, 735
+Crack cocaine, reforms, 107-108
+Credibility, rape and, 455,
+Crime Control Act of 1994, 1203
+Crime Victims’ Rights Act of 2004, 95
+Criminal case, stages of, 78-83
+dismissal, 79
+diversion, 79
+flow of cases, 82-83
+guilty pleas, 82. See also Guilty pleas
+investigation, 78-79
+pretrial release, 79-82
+sentencing, 82. See also Sentencing
+trials, 82. See also Trials
+Criminal Damage Act (UK), 357
+Criminal facilitation, 668-672
+juvenile gun possession, 668-669
+material support to terrorism, 669-671
+money laundering, 671-672
+as stand-alone crime, 668
+Criminal justice system, 67-75
+defense counsel, 72-73
+appointed counsel, 73
+contract system, 73
+defender system, 73
+
+effective assistance of counsel, 114-115
+indigent defendants, 72-73
+non-indigent defendants, 72
+plea bargaining, role in, 111-112
+discretion in, 68
+high volume of cases, 67
+incarceration, 74-75
+judges, 73-74
+jury trials, effect of, 164
+law enforcement, 71
+legislative reforms, 69
+less serious offenses, 67
+multiple jurisdictions, 69-71
+politicization of, 68
+prosecutors, 71-72
+shortage of resources and personnel, 67
+Criminal mischief, Model Penal Code, 1267-1269
+Cross-examination
+rape, proof of, 455-456
+at trial, 142
+Cruel and unusual punishment
+death penalty, 1171-1177, 1180-1199
+insanity defense and, 942-944
+non-capital cases, sentencing in, 1150-1161
+prison conditions and, 1100
+proportionality and, 237-244, 246-247
+Culpability, 248-375
+actus reus, 248-284. See also Actus reus
+complicity, 653-655
+greater culpability of principal actor, 701
+lesser culpability of principal actor, 699-701
+insanity defense, “volitional prong,” 960-961
+
+involuntary intoxication and, 937
+knowledge. See Knowledge
+mens rea, 284-375. See also Mens rea
+mistake of fact, 312-329. See also Mistake of fact
+p. 1969
+nnn 1870
+mistake of law, 350-375. See also Mistake of law
+Model Penal Code, 189-190
+negligence. See Negligence
+omissions, 261-284. See also Omissions
+proportionality and, 248
+purpose. See Purpose
+rape, culpability vs. punishment, 443
+recklessness. See Recklessness
+strict liability, 329-349. See also Strict liability
+voluntary action requirement, 248-261. See also Voluntary action requirement
+willful blindness, 304-312. See also Willful blindness
+“Cultural defense,” 374-375
+Culture
+guideline sentencing, cultural context, 1146-1147
+mistake of law, “cultural defense,” 374-375
+provocation, reasonable person requirement, 502-503
+self-defense and, 819
+Cyber-stalking, 624-626
+D
+Dangerous proximity test, 612-614
+Date rape, 424, 440, 447
+Deadly force
+deadly threat requirement, 815, 847-848
+defensive force qualifying as, 815
+
+law enforcement’s use of, 867-876
+overview, 815
+self-defense and, 6
+video-recording of, 233
+Death penalty, 1161-1205
+
+bias, 1168-1170
+child rape, 1190
+constitutional limitations, 1170-1205
+corporate “death penalty,” 787-788
+cruel and unusual punishment, 1171-1177, 1180-1199
+current context, 1162-1163
+DNA testing and, 1167
+Eighth Amendment and, 1171-1178, 1180-1199
+experts and, 1190
+Fourteenth Amendment and, 1200
+future applications, 1191.
+independent judgment of court and, 1191.
+individualized capital sentencing, 1178-1180
+insanity defense and, 942-944
+jury trials and
+
+death qualification, 1201
+
+predicting jury's attitude, 1201-1202
+juvenile offenders, 1189-1190
+mentally disabled persons, 1183-1188
+method of execution, 1182-1183
+methodological questions, 1190-1191
+overview, 1170
+plea bargaining and, 108-112, 125
+procedural due process, 1170-1171
+proportionality, 1188-1190
+provisions nature of decisions, 1177-1178
+race and, 1191-1205
+
+constitutional doctrine, 1204-1205
+legislative initiatives, 1203
+local demographics, 1200-1201
+local influences, 1202
+Model Penal Code, 1203-1204
+nature of racial discrimination, 1200-1205
+predicting jury's attitude, 1201-1202
+race of defendants vs. race of victims, 1200
+risk of wrongful conviction, 1168-1170
+risk of wrongful conviction, 1166-1168, 1191-1200
+social consensus and, 1190
+tension in Court jurisprudence, 1180-1182
+theories of punishment, 1163-1166
+Deception
+rape, 429-435
+theft by, felony murder and, 545-546
+p.1970
+nnn 874
+Decoys, 637-639
+Defective consent, 426-429
+Defender system, 73
+Defense counsel, 72-73
+appointed counsel, 73
+contract system, 73
+defender system, 73
+effective assistance of counsel, 114-115
+indigent defendants, 72-73
+non-indigent defendants, 72
+plea bargaining, role in, 111-112
+Defense Production Act of 1950, 789-790
+Defenses
+
+consent as
+causation and, 584-589
+rape, 412-429. See also Rape
+trespassory takings, 1019-1021
+insanity defense, 938-982. See also Insanity defense
+mistake of law as, 357-358
+necessity, 876-896. See also Necessity
+Deferred prosecution agreements (DPAs), 772-774, 786
+Defunding police, 8, 20, 67
+Deific decree exception, 976
+Desert, 15-16
+Deterrence, 18-22
+certainty vs. severity, 20
+death penalty, 1163-1165
+moral influence, 21-22
+rational and well-informed actors, 19-20
+variations in punishment, effect of, 18-19
+Diminished capacity, 982-990
+mens rea, as negating, 985-988
+capacity evidence, 986
+specific intent, 987-988
+state of law, 985-986
+total ban, 986
+mental health and, 982-985
+Model Penal Code, 989-990
+Directed verdicts, 140
+Direct examination, 142
+Discretion, 84-108. See also Charging decision
+burden of proof, 159
+charging decision, alternatives to, 90
+corporate criminality, 770-772
+in criminal justice system, 68
+
+determination of guilt and, 77-78
+discretionary sentencing, 1114-1121
+Due Process Clause and, 1117-1118
+Fourteenth Amendment and, 1115, 1119
+purposes of punishment and, 1119-1121
+recent developments, 1118-1119
+Sixth Amendment and, 1119
+dismissal, alternatives to, 90
+Europe, “compulsory” prosecution in, 100-101
+existence of, 84-85
+federal vs. state prosecution, 88-89
+honest services, theft of, 1084-1085
+independent checks, 90, 98-99
+internal review, 89
+intimate partner violence, 96-97
+investigation, statutory requirement, 90-92
+office design and, 89
+plea bargaining, 108-139. See also Plea bargaining
+restorative justice and, 97-98
+selective prosecution, 101-106
+disparate patterns, 106
+drug offenses, 102-105
+federalism and, 107
+firearms offenses, 102-105
+race and, 105-106
+transparency and, 107
+special prosecutors, 92-94
+standards, 86-88
+victimless crimes, 98
+Discrimination. See Race
+Dismissal
+alternatives to, 90
+
+as stage in criminal case, 79
+Disorderly conduct, Model Penal Code, 1279-1281
+Disparate impact. See also Race
+
+death penalty and, 1191-1205
+
+incarceration and, 2-3
+
+plea bargaining and, 127
+
+selective prosecution and, 106
+
+p.1971
+
+nnn 1872
+District of Columbia, destruction of property statute, 300
+Diversion, 79
+DNA testing, 1167
+Domestic violence. See Intimate partner violence
+DPAs (Deferred prosecution agreements), 772-774, 786
+Drug offenses
+
+attempt, 631-632
+
+causation, providing drugs, 600
+
+crack cocaine, reforms, 107-108
+
+impossibility, 644
+
+mistake of fact, 319
+
+Pinkerton doctrine, 717
+
+proportionality, 237-242, 244-245
+
+selective prosecution, 102-105
+
+single vs. multiple conspiracies, 749
+
+strict liability, 329-331
+Drunk driving
+
+manslaughter and, 528-531.
+
+murder and, 528-531
+Due Process Clause
+
+death penalty, procedural due process, 1170-1171.
+
+discretionary sentencing and, 1117-1118
+
+incarceration and, 1145
+
+official reliance and, 367
+
+reasonable doubt standard and, 146-147
+
+voluntary intoxication and, 932-933
+
+Duress, 906-924
+
+contributory fault, 920-921
+
+guilt, question of, 922-923
+
+imminence requirement, 917-920
+
+mens rea and, 920
+
+Model Penal Code, 910-914, 916
+
+murder, as defense to, 921-922
+defendant's role in offense, 921-922
+felony murder, 921.
+sentencing, 921
+
+nature of threat, 916
+
+necessity compared, 914-915
+
+objective standard, 911-914
+immaturity and, 912-913
+intellectual disability and, 912-913
+intimate partner violence and, 913-914
+post-traumatic stress disorder (PTSD) and, 914
+
+partial vs. complete excuse, 911
+
+positive inducements, 924
+
+possible justification, 923-924
+
+rape, force and coercion, 408
+
+sentencing and
+appropriate sentence, 924
+murder, as defense to, 921
+
+source of threat, 915-916
+
+threats, 906-909
+
+Duty to retreat, 849-858
+castle exception, 855-856
+
+current case law, 851-852
+intimate partner violence, 856-858
+“stand your ground” laws, 852-855
+traditional view, 851
+E
+Economic Espionage Act of 1996 (EEA), 1072-1073
+Economic necessity, 885-887
+direct needs vs. speculative harms, 886-887
+homeless persons, 885-886
+starving children, 886
+EED (Extreme emotional disturbance) test, 499-501.
+Effective assistance of counsel, plea bargaining and, 114-115
+Eighth Amendment
+death penalty, 1171-1178, 1180-1199
+insanity defense and, 942-944
+non-capital cases, sentencing in, 1150-1161
+prison conditions and, 1100
+proportionality and, 237-244, 246-247
+Electric cattle prods, 873
+Elkins Act of 1903, 761,
+Embezzlement
+mens rea, 1089
+as misappropriation, 1025-1027
+Endangering, reckless, Model Penal Code, 1250
+p.1972
+p.1973
+Entrapment
+complicity and, 695-696
+by omission, 373-374
+Environmental deprivation, excuse and, 1005-1012
+
+Epilepsy, voluntary action requirement and, 257-258
+Equal culpability thesis, 308
+Equivocality test, 619-621
+Escape, 880-881,
+legality principle and, 881.
+potential harms of, 880
+Ethics in Government Act of 1978, 93
+Europe
+bystanders in, 271
+“compulsory” prosecution in, 100-101
+European Convention on Human Rights, 1161
+Euthanasia, 896-904
+assessment of, 902-904
+in Oregon, 900-901
+in other countries, 901-902
+overview, 896
+recent developments, 901.
+suicide tourism, 902
+in UK, 902
+Evidence
+cautionary instructions, 144-145
+diminished capacity, capacity evidence, 986
+exclusionary rules, 143-144
+material, 142
+order of proof, 141-142
+overview, 140
+prejudice and, 143-144
+presentation of, 141-146
+privilege and, 143
+probative, 142
+rape, mens rea, 446-447
+relevance, 142-143
+
+Excessive force. See Deadly force; Force
+Exclusionary rules, 143-144
+Exculpation
+diminished capacity, 982-990. See also Diminished capacity
+duress, 906-924. See also Duress
+excuse, 904-1012. See also Excuse
+insanity defense, 938-982. See also Insanity defense
+justification, 804-904. See also Justification
+necessity, 876-896. See also Necessity
+self-defense, 804-861. See also Self-defense
+Excuse, 904-1012
+actus reus and, 1004~1005
+addiction as, 990-992, 1002-1005
+alcoholism as, 992-1001
+changing patterns of, 990-1012
+addiction, 990-992, 1002-1005
+alcoholism, 992-1001
+environmental deprivation, 1005-1012
+homeless persons, 999-1001
+non-criminal incarceration of dangerous persons, 1001-1002
+race and, 1008-1012
+structural deprivation, 1005-1012
+diminished capacity, 982-990. See also Diminished capacity
+duress, 906-924. See also Duress
+environmental deprivation and, 1005-1012
+homeless persons and, 999-1001
+insanity defense, 938-982. See also Insanity defense
+intoxication, 924-937. See also Intoxication
+manslaughter, provocation as partial excuse, 486-487
+mens rea and, 1001
+mental disorder, 938-990. See also Mental disorder
+non-criminal incarceration of dangerous persons, 1001-1002
+
+overview, 803-804, 904-906
+punishment and, 15-16
+race and, 1008-1012
+rationale for, 904-906
+status vs. act, 992
+structural deprivation and, 1005-1012
+Experts, death penalty and, 1190
+Ex Post Facto Clause, 212-215
+Expressive function of punishment, 45
+p.1973
+p. 1974
+Extortion, 1022-1024
+Extreme emotional disturbance (ED) test, 499-501.
+F
+Facilitation. See Criminal facilitation
+Factual cause, 572-574
+Factual impossibility, 641-642
+Fair Sentencing Act of 2010, 107, 1123
+Faith healing, negligent homicide and, 523-524
+False pretenses, theft by
+as fraud, 1046-1048
+mens rea, 1089
+as trespassory taking, 1015-1017
+False promises, 1044
+Family members, omissions and
+de facto family members, 274-276
+duties of, 273-274
+parent as victim, 276-277
+Family offenses, Model Penal Code, 1278
+Federal Death Penalty Abolition Act of 2021 (proposed), 1202
+
+Federalism
+discretion and, 88-89
+official reliance and, 367-368
+plea bargaining and, 139
+selective prosecution and, 107
+Federal Sentencing Guidelines
+corporate criminality, 785
+guideline sentencing, 1128-1132
+Felonies, use of force in law enforcement, 872-873
+Felony murder, 532-536
+arson and, 532-534
+attempt, 608-609
+basic doctrine, 532-544
+causation requirement, 536
+firearms offenses and, 547-549
+first-degree felony murder, 554-555
+“inherently dangerous felony” limitation, 545-551
+abstract approach, 546-551
+committed approach, 549-551.
+degree of danger, 549-550
+how dangerous, 546
+scope of underlying felony, 546-547
+who decides, 550
+judicial reforms, 543-544
+constitutional considerations, 544
+statutory interpretation, 543-544
+merger doctrine, 551-558
+enumerated felonies, 554-555
+indoors vs. outdoors, 554
+non-assaultive and non-independent purposes, 554-555
+non-enumerated felonies, 555-556
+misdemeanor-manslaughter, 541
+
+Model Penal Code, 539-540
+“not in furtherance” of felony, 558-565
+after commission of felony, 558
+implied malice, 563-564
+justifiable homicide, 564
+persons resisting felony, 559-561
+protecting innocent, 564-565
+unrelated to felony, 558-559
+who does killing, 561-563
+who is killed, 564-565
+rationale for, 536-539
+robbery and, 534-535, 551-553, 559-561
+second-degree felony murder, 555-556
+sentencing consequences, 535-536
+shootings, 556-557
+statutory reforms, 542-543
+grading, 542
+limiting complicity liability, 542-543
+limiting eligible felonies, 542
+mens rea requirement, 542
+strict lability, 535
+theft by deception and, 545-546
+Feminist perspectives
+intimate partner violence, 834-835
+stalking statutes, 623-626
+Fetal homicide, 207-212
+FIJA (Fully Informed Jury Association), 179-180
+Fines
+corporations, 784-785
+proportionality, 245-246
+Firearms offenses
+felony murder and, 547-549
+
+juvenile gun possession, 668-669
+legality principle and, 205
+mistake of law, 350-355
+selective prosecution, 102-105
+strict liability, 335-336
+p. 1974
+p. 1975
+Fires, homicide and, 506-509
+First Amendment
+blackmail and, 1054-1055
+complicity and, 687-688
+incarceration and, 1145
+solicitation and, 636-637
+First Step Act of 2018, 32, 107, 1123
+Flow of cases, 82-83
+Floyd, George, 868
+Food, Drug, and Cosmetic Act of 1938, 330, 791-795, 797, 801
+Food and Drugs Act of 1906, 330
+Force. See also Deadly force
+law enforcement, use of force in, 867-876. See also Law enforcement
+rape, 393-412. See also Rape
+Foreign Corrupt Practices Act of 1977, 755
+Foreseeability
+causation and, 568-584, 589-590
+punishment and, 43
+Forfeitures, proportionality, 245-246
+Forgery, Model Penal Code, 1274-1277
+Fourteenth Amendment
+death penalty and, 1200
+discretionary sentencing and, 1115, 1119
+Fourth Amendment
+
+law enforcement, use of force in, 872
+mistake of law and, 356
+Fraud, 1037-1049
+false promises, 1044
+federal statutes, 1044~1045
+intent, 1041
+lying as, 1048-1049
+mail fraud, 1076-1077
+mens rea, 1041
+Model Penal Code, 1274-1277
+overview, 1037-1039
+politics vs. fraud, 1083-1084
+possession vs. ownership, 1041
+rape, 434-435
+securities fraud, 1077-1081
+theft by false pretenses, 1046-1048
+wire fraud, 1077-1081
+Freedom of speech
+complicity and, 687-688
+solicitation and, 636-637
+Fully Informed Jury Association (FIJA), 179-180
+G
+Gangs
+legality principle and, 216-224, 227-228
+Model Penal Code, 228
+vagueness and, 216-224, 227-228
+General intent, 289-291.
+George Floyd Justice in Policing Act of 2021 (proposed), 868
+Good Samaritans, 268-270
+Gratuitous defenses, 156
+Group criminality, 651-802
+
+complicity, 651-701. See also Complicity
+conspiracy, 701-760. See also Conspiracy
+corporate criminality, 760-802. See also Corporate criminality
+Guests, castle exception to duty to retreat, 855,
+Guilty but mentally ill, 946-947
+Guilty pleas. See also Plea bargaining
+knowing and intelligent, 113-114
+procedure, 112-113
+as stage in criminal case, 82
+Gun offenses. See Firearms offenses
+H
+Habit, voluntary action requirement and, 254-255
+“Hands-off” principle, 969
+Harm. See Resulting harm
+Heat of passion, 493, 497-498, 500
+Hinckley trial, 961.
+HIV/AIDS, 604-606
+Hobbs Act of 1946, 755
+Homeless persons
+excuse and, 999-1001.
+necessity and, 885-886
+Homicide, 461-565
+awareness of risk, 514
+civil vs. criminal liability, 506-514
+contributory negligence, 510
+p. 1975
+p.1976
+death penalty. See Death penalty
+felony murder, 532-536. See also Felony murder
+fetal homicide, 207-212
+
+fires, 506-509
+inadvertent murder, 530
+intimate partner violence, 830, 836-842
+involuntary manslaughter
+causation, 595-599
+corporate criminality, 576-577
+failure to provide, 261-262
+statutes, 466
+manslaughter. See Manslaughter
+misdemeanor-manslaughter, 541
+Model Penal Code, 511, 1248-1250
+murder. See Murder
+negligent homicide, 514-524. See also Negligent homicide
+omissions and, 262
+overview, 461-462
+reckless manslaughter, 511-514
+self-defense, 804-861. See also Self-defense
+suicide, 584-589
+assisted suicide, 584-589
+prison conditions, 1101
+suicide tourism, 902
+third parties, subsequent acts of, 592-594
+traditional tests, 509-510
+transferred intent, 584
+unintentional murder, 526-528
+voluntary manslaughter, 466
+Homicide Act 1957 (UK), 988
+Honest services, theft of, 1076-1085
+corruption as theft, 1081-1082
+mail fraud, 1076-1077
+politics vs. fraud, 1083-1084
+prosecutorial discretion, 1084-1085
+
+scope of, 1082-1083
+securities fraud, 1077-1081
+wire fraud, 1077-1081
+Hypnosis, voluntary action requirement and, 255
+I
+Identity theft, 1074-1076
+Ignorantia legis doctrine. See Mistake of law
+Illinois, consolidation statute, 1061
+Immaturity
+duress and, 912-913
+rape, absence of consent, 426
+Imminence requirement
+duress, 917-920
+necessity, 881
+self-defense, imminent danger requirement, 842-847
+defense of another, 844
+Model Penal Code, 845-846
+nonconfrontational self-defense, 842-843
+other contexts, 844-845
+self-defense without imminence, 846-847
+self-defense without necessity, 847
+third persons, turning to, 843-844
+Impeachment, 459
+Implicit biases, 66, 493, 814-815, 876, 1201
+Impossibility, 637-650
+attempt and, 639-641
+conspiracy, 738-739
+drug offenses, 644
+factual impossibility, 641-642
+hypotheticals, 645-650
+legal impossibility, 642
+
+Model Penal Code, 648-650
+receiving stolen property, 637-639
+Imprisonment. See Incarceration
+Inadvertent murder, 530
+Incapacitation, 27-32
+built-in bias, 30
+cost-effective alternatives, 31-32
+crime decline in 1990s and, 30-31
+empirical problems of prediction, 29-30
+estimating benefits, 28-29
+selective incapacitation, 29
+Incapacity, absence of consent to rape and, 426-427
+Incarceration, 1095-1102
+abolition proposed, 5, 56, 59
+causes of high rate of, 3-4
+consequences of high rate of, 4-5
+in criminal justice system, 74-75
+Due Process Clause and, 1145
+p.1976
+p.1977
+First Amendment and, 1145
+insanity defense, commitment vs. incarceration, 968
+non-criminal incarceration of dangerous persons, 1001-1002
+prison conditions
+crowding, 1099-1101
+cruel and unusual punishment and, 1100
+Eighth Amendment and, 1100
+physical location and environment, 1101.
+sexual violence, 1098-1099
+suicide, 1101
+violence and abuse, 1097-1098
+
+public safety and, 4-5
+purposes of punishment and, 1101-1102
+race and, 2-3
+social concentration, 2-3
+social welfare and, 4-5
+statistics, 1-2, 67, 1099
+substantive law reforms, 5-6
+without imprisonment, 1102
+Inchoate crimes
+attempt, 601-650. See also Attempt
+conspiracy, 701-760. See also Conspiracy
+Model Penal Code, 1243-1248
+solicitation, 633-637
+as attempt, 636
+First Amendment and, 636-637
+as independent crime, 636
+murder, 633-634
+Income tax, mistake of law, 360-362
+Inconsistent verdicts, 186-188
+criticism of prevailing acceptance, 187
+problem of, 186-187
+solutions, 186-187
+Incorporation of right to jury trial, 160-164
+Indian Child Welfare Act of 1978, 518
+Information, theft of, 1066-1076
+confidential business information, 1069-1071
+copies, 1068-1069
+identity theft, 1074-1076
+“Official Secrets Act,” 1068
+statutory interpretation, 1072-1073
+statutory reform, 1073
+Informed consent. See Consent as defense
+
+Informers, 637-639
+“inherently dangerous felony” limitation to felony murder, 545-551
+abstract approach, 546-551
+committed approach, 549-551
+degree of danger, 549-550
+how dangerous, 546
+scope of underlying felony, 546-547
+who decides, 550
+Insanity defense, 938-982
+abolition proposed, 968-972
+assessment of, 969
+blame as imperative, 969-972
+“hands-off” principle, 969
+state efforts, 969
+terminology, 968-969
+administering, 944
+automatism, 981-982
+defendant's option, 981.
+sane vs. insane automatism, 981-982
+sleep, 982
+burden of proof, 948-949
+civil commitment, 945-946
+commitment vs. incarceration, 968
+competence to stand trial, 941-942
+competing formulations, 949-972
+cruel and unusual punishment and, 942-944
+death penalty and, 942-944
+deific decree exception, 976
+diminished capacity, 982-990. See also Diminished capacity
+disposition after acquittal, 945-947
+civil commitment, 945-946
+duration of confinement, 946
+
+guilty but mentally ill, 946-947
+effect of different versions, 963
+Eighth Amendment and, 942-944
+frequency of use, 962-963
+guilty but mentally ill, 946-947
+Hinckley trial, 961.
+insanity defined, 968
+involuntary intoxication and, 937
+jury instructions, 947-948
+legislative proposals, 962
+p.1977
+nnn 1878
+meaning of wrong, 972-976
+deific decree exception, 976
+legal vs. moral wrong, 974-975
+“mental disease or defect,” 976-982
+legal definition, 978
+specific applications, 979-980
+“temporary” insanity, 978-979
+mental disturbance not amounting to insanity, 982-990. See also Diminished capacity
+M’Naghten rule, 949-950
+Model Penal Code, 953-955
+overview, 938-940
+psychopaths, 980-981.
+reform prospects, 964
+restricting access to, 961-962
+federal law, 962
+state law, 962
+sentencing altemative, 968
+statistics, 962-963
+success rates, 962-963
+
+“temporary” insanity, 978-979
+terminology, 940-941
+in UK, 949-951.
+“volitional prong,” 959-961
+moral culpability, 960-961
+practical concerns, 959-960
+sexually violent predator (SVP) laws and, 959
+voluntary intoxication and, 934
+who may raise, 944-945
+Insider trading, single vs. multiple conspiracies, 749
+Intangible property, finders of, 1028-1029
+Intent. See Mens rea
+Internet, cyber-stalking and, 624-626
+Intimate partner violence
+charging decision, 96-97
+discretion, 96-97
+feminist perspectives, 623-626
+provocation, reasonable person requirement, 503-504
+self-defense, 820-836
+duty to retreat, 856-858
+female victims, 826-828
+feminist perspectives, 834-835
+homicide, 830, 836-842
+law regarding, 833
+LGBTQ+ persons, 829
+nonpsychological defenses, 836-842
+in other settings, 829
+other syndromes, 835-836
+post-traumatic stress disorder (PTSD), 835-836
+problem of, 825-826
+reasonableness, 830-833
+science regarding, 833-834
+
+Intoxication, 924-937
+involuntary intoxication, 934-937
+culpability and, 937
+insanity defense and, 937
+overview, 934-935
+proof of, 937
+Model Penal Code, 530-531.
+overview, 924-925
+rape, absence of consent, 426-427
+voluntary action requirement and, 248-249
+voluntary intoxication, 925-934
+Due Process Clause and, 932-933
+insanity defense and, 934
+mens rea, as negating, 928-930
+Model Penal Code, 930-931
+recklessness and, 931-932
+as separate offense, 933-934
+treated differently from other relevant evidence, 929-930
+Intruders, castle exception to duty to retreat, 855
+Investigation
+as stage in criminal case, 78-79
+statutory requirement, 90-92
+Involuntary intoxication, 934-937
+culpability and, 937
+insanity defense and, 937
+overview, 934-935
+proof of, 937
+Involuntary manslaughter
+causation, 595-599
+corporate criminality, 576-577
+failure to provide, 261-262
+statutes, 466
+
+J
+Judges
+in criminal justice system, 73-74
+p.1978
+nnn 1879
+plea bargaining, role in, 116-117, 120
+prosecutions initiated by, 94-95
+provocation, role in determining, 501
+Jury instructions
+cautionary instructions, 144-145
+insanity defense, 947-948
+overview, 140
+Jury trials, 160-188
+behavior of jury, 170-171.
+civil rights and, 163-164
+competence of jurors, 165-166
+death penalty and
+death qualification, 1201
+predicting jury's attitude, 1201-1202
+defense interests vs. community interests, 168
+effect on criminal justice system, 164
+factfinding, 1148
+inconsistent verdicts, 186-188
+ctiticism of prevailing acceptance, 187
+problem of, 186-187
+solutions, 186-187
+nullification, 171-183
+“arbitrary” leniency, 176-177
+biased nullification, 177
+constraining, 178-179
+current state of law, 175
+
+desirability of, 175-176
+effects in practice, 174
+legality principle and, 177
+race-based nullification, 181-183
+in other countries, 169-170
+peremptory challenges, 140
+plea bargaining, jury as insufficient check on, 120
+policy considerations, 167-168
+prevalence of, 169
+provocation, role in determining, 501
+representative jury, 165
+scope of right to, 164
+sentencing in, 183-186
+factfinding, 1148
+factual questions shifted from jury to judge, 186
+guideline sentencing, implications for, 1148-1149
+jury sentencing, 184-185
+mandatory minimum sentences, implications for, 1149
+Sixth Amendment and, 1148
+what jury permitted to know, 185-186
+states, incorporation of right to, 160-164
+venire, 140
+voir dire, 140
+Justification, 804-904
+choice of lesser evil, 876-896. See also Necessity
+euthanasia, 896-904. See also Euthanasia
+law enforcement, use of force in, 867-876. See also Law enforcement
+manslaughter, provocation as partial justification, 487-488
+necessity, 876-896. See also Necessity
+overview, 803-804
+prison escape, 880-881
+legality principle and, 881.
+
+potential harms of, 880
+protection of life and person, 804-861. See also Self-defense
+protection of property, 861-867
+other types of property, 866-867
+statutory approaches, 864-865
+punishment and, 15
+self-defense, 804-861. See also Self-defense
+Justification, Model Penal Code, 1229-1238
+Juvenile offenders
+capital cases, 1189-1190
+death penalty, 1189-1190
+gun possession, 668-669
+life without parole, 1160-1161
+K
+Kansas Offender Registration Act, 345
+Kentucky Racial Justice Act (KRJA), 1203
+Kidnapping, Model Penal Code, 1251-1252
+p.1979
+p. 1980
+Knowledge
+complicity
+advance knowledge, 667-868
+knowledge vs. purpose, 667
+conspiracy, felony cases, purpose or knowledge, 733
+corporate criminality, collective knowledge, 774-775
+mistake of law and, 362-363
+Model Penal Code, 298, 301-304
+negligence distinguished, 301-304
+plea bargaining, knowing and intelligent, 113-114
+recklessness distinguished, 301-304
+
+L
+Larceny as trespassory taking, 1015-1017
+Law enforcement
+abolition proposed, 5, 59
+in criminal justice system, 71
+defunding, 8, 20, 67
+too little, 6-8
+use of force in, 867-876
+choke holds, 873
+electric cattle prods, 873
+felonies, 872-873
+flight by misdemeanant, 870-871
+Fourth Amendment and, 872
+intermediate measures, 873
+legal framework, 870
+misdemeanors, 870-872
+night sticks, 873
+overview, 867-869
+Pepper spray, 873
+qualified immunity, 872
+race and, 869, 874-876
+“reasonable” fear, 874-875
+resistance by misdemeanant, 871-872
+statistics, 869
+tasers, 873-874
+Legal duty, 262
+Legal impossibility, 642
+Legality principle, 190-233
+common law and, 190-191.
+new common-law crimes, 193-194
+old common-law crimes, 193
+Ex Post Facto Clause and, 212-215
+
+fetal homicide, 207-212
+firearms offenses and, 205
+gangs and, 216-224, 227-228
+institutional limits of courts, 192
+legislation construed, 194-203
+legislative intent and, 205-206
+lenity, rule of, 203-206
+loitering and, 216-224, 227-228
+Model Penal Code, 189-190
+nulla poena sine lege, 192
+nullification and, 177
+politics and, 206
+prison escape and, 881
+retroactive application of laws and, 212-216
+vagrancy laws, 226-227
+vagueness. See Vagueness
+Legislative intent, 205-206
+Lenity, rule of, 203-206
+Lesser-crime principle, 316
+LGBTQ+ persons
+intimate partner violence, self-defense, 829
+rape, frequency of, 383-384
+‘same-sex advances as provocation, 492-493
+Life without parole
+juvenile offenders, 1160-1161
+other non-capital sentences vs., 1161,
+Loitering, 216-224, 227-228
+Lost property, appropriation of, 1027-1030
+M
+Mail fraud, 1076-1077
+Malice
+
+felony murder, implied malice, 563-564
+mens rea, 288-289
+Malicious Damage Act (UK), 287
+Malicious Injuries to Property Act (UK), 287
+Malum in se, 363
+Malum prohibitum, 363
+Mandatory minimum sentences, 1122-1127, 1149
+Mann Act of 1910, 737, 752-753
+p. 1980
+p. 1981
+Manslaughter
+attempt, 608
+drunk driving and, 528-531.
+involuntary manslaughter
+causation, 595-599
+corporate criminality, 576-577
+failure to provide, 261-262
+statutes, 466
+murder distinguished, 524-532
+drunk driving, 528-531
+inadvertent murder, 530
+intent to inflict great bodily harm, 531-532
+Model Penal Code, 530
+murder by omission, 528
+“Russian roulette,” 524-525
+unintentional murder, 526-528
+provocation, 480-506. See also Provocation
+reckless manslaughter, 511-514
+“Russian roulette,” 599-600
+voluntary manslaughter, 466
+Marijuana, medical, 884-885
+
+Marital rape exemption, 447-449
+harm of marital rape, 448
+institutional concerns, 449
+judicial approaches, 449
+legislative developments, 449
+prevalence of marital rape, 448
+Martin, Trayvon, self-defense by private citizen and, 811-815
+Material evidence, 142
+Medical care, omissions and, 280-284
+Medical malpractice, 579-580
+Medical marijuana, 884-885
+Medical necessity, 884-885
+medical marijuana, 884-885
+slippery slope harms, 884
+Megan's Law, 1104
+Mens rea, 284-375
+attempt, 604-611
+attendant circumstances, 609-610
+complicity, 655-685. See also Complicity
+conspiracy, 728-737
+attendant circumstances, 735-737
+corrupt motive, 735
+facts essential to criminality, 736-737
+facts increasing gravity of offense, 736
+felony cases, purpose or knowledge, 733
+diminished capacity as negating, 985-988
+capacity evidence, 986
+specific intent, 987-988
+state of law, 985-986
+total ban, 986
+distinctions in practice, 304
+duress and, 920
+
+excuse and, 1001.
+felony murder, requiring for, 542
+fraud, 1041
+general intent, 289-291
+knowledge. See Knowledge
+malice
+felony murder, implied malice, 563-564
+mens rea, 288-289
+mistake of fact, 312-329. See also Mistake of fact
+mistake of law, 350-375. See also Mistake of law
+Model Penal Code, 296-304, 1090-1093
+necessity and, 883
+negligence. See Negligence
+objective, 297-298
+overview, 284-285
+presumptions, 291-292
+proof of, 291-292
+rape, 435-447. See also Rape
+recklessness. See Recklessness
+reform, 364
+shared intent, 694-695,
+silence of statutes, 294-296, 299
+specific intent, 289-291
+attempt, 606-610
+diminished capacity, 987-988
+strict liability, 329-349. See also Strict liability
+terminology, 288-292
+theft, 1085-1093
+chattels vs. cash, 1092
+embezzlement, 1089
+exceptions, 1085-1086
+p. 1981
+
+Cnn 1082
+federal law and, 1090
+intent to restore, 1089-1090
+Model Penal Code, 1090-1093
+theft by false pretenses, 1089
+transferred intent, 582-584
+attempt and, 609
+homicide, 584
+Model Penal Code, 583
+unprotected sex and, 604-606
+voluntary intoxication as negating, 928-930
+willful blindness, 304-312. See also Willful blindness
+Mens Rea Reform Act of 2021 (proposed), 364-365
+Mental disorder, 938-990
+competence to stand trial, 941-942
+death penalty and, 1183-1188
+diminished capacity, 982-990
+mens rea, as negating, 985-988
+mental health and, 982-985
+Model Penal Code, 989-990
+duress, intellectual disability and, 912-913
+guilty but mentally ill, 946-947
+insanity defense, 938-982. See also Insanity defense
+mitigation, as ground for, 988-990
+provocation, reasonable person requirement, 504-505
+self-defense and, 818
+Merger doctrine, felony murder and, 551-558
+enumerated felonies, 554-555
+indoors vs. outdoors, 554
+non-assaultive and non-independent purposes, 554-555,
+non-enumerated felonies, 555-556
+
+Minors. See Children and minors
+Misappropriation, 1024-1037
+abandoned property, 1029
+appropriation of lost property, 1027-1030
+embezzlement, 1025-1027
+intangible property, finders of, 1028-1029
+misdelivered property, 1029-1030
+Model Penal Code, 1029-1030, 1033-1035
+property transferred by mistake, 1027-1030
+tangible property, finders of, 1027-1028
+wage theft, 1036-1037
+Misdelivered property, 1029-1030
+Misdemeanor-manslaughter, 541
+Misdemeanors
+law enforcement, use of force in, 870-872
+flight by misdemeanant, 870-871
+resistance by misdemeanant, 871-872
+misdemeanor-manslaughter, 541
+Misprision of felony, 272-273
+Mistake of fact, 312-329
+acoustic separation approach, 315-316
+age, 312-314
+current law, 318-319
+drug offenses, 319
+lesser-crime principle and, 316
+mistake of law distinguished, 355
+Model Penal Code, 316-317
+moral-wrong principle and, 314-315
+property transferred by mistake, 1027-1030
+rape, mens rea, 445
+sexual abuse, 319-326
+statutory rape, 327-329
+
+Mistake of law, 350-375
+“cultural defense,” 374-375
+as defense, 357-358
+entrapment by omission, 373-374
+firearms offenses, 350-355
+Fourth Amendment and, 356
+income tax, 360-362
+“knowingly” construed, 362-363
+mistake of fact distinguished, 355,
+Model Penal Code, 358-359
+no-excuse rule, 358-359
+official reliance
+conflicts within federal courts, 368-370
+Due Process Clause and, 367
+federalism and, 367-368
+p. 1982
+p. 1983
+Model Penal Code, 366
+reasonableness requirement, 367-370
+traditional view, 365-366
+overview, 350
+registration of convicted persons, 370-372
+scope of doctrine, 357-360
+tax offenses, 360-362
+utilitarianism and, 355-356
+“willfully” construed, 362-365
+Mitigation, mental disorder as ground for, 988-990
+Mixed theories of punishment, 4648
+M’Naghten rule, 949-950
+Model Penal Code
+arson, 1267-1269
+
+assault, 1250
+attempt, 629-630, 632-633
+attendant circumstances, 676-877
+blackmail, 1052
+burglary, 1269-1270
+causation, 583, 600-601
+coercion, 1251-1252
+complicity
+actus reus, 699
+attendant circumstances, 676-677
+mens rea, 660-661, 676-877
+natural and probable consequences theory, 685
+consolidation, 1060
+conspiracy, 706
+parties to, 754
+Pinkerton doctrine, 715
+single vs. multiple conspiracies, 741, 749-750
+corporate criminality
+agents, liability of, 788
+corporate entity, liability, 768, 780-781
+criminal mischief, 1267-1269
+culpability, 189-190
+death penalty, 1203-1204
+diminished capacity, 989-990
+disorderly conduct, 1279-1281
+duress, 910-914, 916
+family offenses, 1278
+felony murder, 539-540
+forgery, 1274-1277
+fraud, 1274-1277
+gangs, 228
+general provisions, 1214-1220
+
+homicide, 511, 1248-1250
+impossibility, 648-650
+inchoate crimes, 1243-1248
+insanity defense, 953-955
+intoxication, 530-531
+voluntary intoxication, 930-931
+justification under, 1229-1238
+kidnapping, 1251-1252
+knowledge, 298, 301-304
+legality principle, 189-190
+liability under, 1220-1229
+loitering, 228
+manslaughter
+murder distinguished, 530
+provocation, 496-501
+mens rea, 296-304, 1090-1093
+misappropriation, 1029-1030, 1033-1035
+mistake of fact, 316-317
+mistake of law, 358-359
+official reliance, 366
+motive, 301
+murder
+inadvertent murder, 530
+manslaughter distinguished, 530
+premeditation, 469-470, 480
+natural and probable consequences theory, 685
+necessity, 879-880, 882, 891-892
+negligence, 299, 301-304
+negligent homicide, 522
+objective, 297-298
+official reliance, 366
+origins, 1207-1208
+
+overview, 1207-1208
+Pinkerton doctrine, 715
+premeditation, 469-470, 480
+property damage, 1267-1269
+proportionality, 189-190
+provocation, 496-501
+distinctive features of, 499-501
+1983
+Tene 91888
+extreme emotional disturbance (EED) test, 499-501
+influence of, 499
+judges, role of, 501.
+jury, role of, 501
+reasonable person requirement, 502-505
+public indecency, 1281-1283
+q purpose, 298, 301 >
+rape, 387-388, 392
+absence of consent, 423-424
+force and coercion, 409
+reckless endangering, 1250
+recklessness, 299, 301-304
+responsibility under, 1238-1243
+riot, 1279-1281.
+robbery, 1023, 1270
+self-defense, 860-861.
+imminent danger requirement, 845-846
+sexual offenses, 1252-1267
+strict liability, 349
+text of, 1207-1283
+theft, 1084, 1090-1099, 1270-1274
+threats, 1250
+
+transferred intent, 583
+voluntary intoxication, 930-931
+willful blindness, 307-311
+Money laundering, 671-672
+Moral culpability, 32
+Moral influence, 21-22
+Moral-wrong principle, 314-315
+Motive
+Model Penal Code, 301
+purpose distinguished, 301
+willful blindness and, 310-311
+Motor Carrier Act of 1980, 791.
+Motor vehicle accidents, causation, 595-599
+Multiple jurisdictions, 69-71
+Murder. See also Homicide
+causation, 568-571, 574-576
+drunk driving and, 528-531.
+duress as defense to, 921-922
+defendant's role in offense, 921-922
+felony murder, 921.
+sentencing, 921
+felony murder, 532-536. See also Felony murder
+inadvertent murder, 530
+manslaughter distinguished, 524-532
+drunk driving, 528-531
+inadvertent murder, 530
+intent to inflict great bodily harm, 531-532
+Model Penal Code, 530
+murder by omission, 528
+“Russian roulette,” 524-525
+unintentional murder, 526-528
+by omission, 528
+
+premeditation, 469-480
+brutality of murder and, 479
+intent vs., 477
+Model Penal Code, 469-470, 480
+policy rationales, 478
+proof of, 478-479
+statutory interpretation, 476-477
+self-defense. See Self-defense
+sentencing, duress as defense and, 921.
+solicitation, 633-634
+in UK, 462-463
+unintentional murder, 526-528
+N
+Narcotic Act of 1914, 329
+Narcotics offenses. See Drug offenses
+National Firearms Act of 1986, 335-336
+National Housing Act of 1934, 742
+National Motor Vehicle Theft Act of 1919, 195
+Native American children, negligent homicide and, 517-518
+Natural and probable consequences theory, 680-885
+Model Penal Code, 685
+Pinkerton doctrine compared, 684-685
+state of law, 683-684
+Nebraska, rape statute, 421.
+Necessity, 876-896
+applicable harms, 881,
+clean hands and, 882
+duress compared, 914-915
+economic necessity, 885-887
+direct needs vs. speculative harms, 886-887
+p. 1984
+
+homeless persons, 885-886
+starving children, 886
+imminence requirement, 881.
+medical necessity, 884-885
+medical marijuana, 884-885
+slippery slope harms, 884
+mens rea and, 883,
+Model Penal Code, 879-880, 882, 891-892
+natural events, 881
+overloaded boats, 890-891.
+political justification, 887-889
+prison escape, 880-881
+legality principle and, 881,
+potential harms of, 880
+protecting rights vs. saving lives, 892-896
+self-defense without necessity, 847
+statutory preemption, 881-882
+taking life to save life, 891-892
+Negative retribution, 32, 37
+Negligence
+knowledge distinguished, 301-304
+mens rea, 292-294
+Model Penal Code, 299, 301-304
+negligent homicide, 514-524. See also Negligent homicide
+rape, mens rea
+effects of negligence standard, 444-445
+recklessness vs., 442-443
+recklessness distinguished, 301-304
+reckless or negligent aid, 588-589
+Negligent homicide, 514-524
+
+criminal-negligence standard, 518
+defined, 514
+failure to provide, 515-517
+faith healing, 523-524
+justification, 514
+Native American children, 517-518
+objective standard, 518-522
+absence of subjective awareness, 518-519
+case law, 522
+criticisms, 519-520
+individualization of, 520-522
+Model Penal Code, 522
+New York
+blackmail, 1057
+burglary, 300
+consolidation, 1060-1061
+manslaughter, 467
+murder, 467-468
+rape, 390-391
+consent, 421.
+Night sticks, 873
+No-excuse rule, 358-359
+Nongratuitous defenses, 157-158
+Non-prosecution agreements (NPAs), 772-774, 786
+Nonreciprocal conspiracy, 749
+North Carolina Racial Justice Act, 1203
+“Not in furtherance” of felony, felony murder and, 558-565,
+after commission of felony, 558
+implied malice, 563-564
+justifiable homicide, 564
+persons resisting felony, 559-561
+protecting innocent, 564-565
+
+unrelated to felony, 558-559
+who does killing, 561-563
+who is Killed, 564-565
+NPAs (Non-prosecution agreements), 772-774, 786
+Nullification, 171-183
+“arbitrary” leniency, 176-177
+biased nullification, 177
+constraining, 178-179
+current state of law, 175
+desirability of, 175-176
+effects in practice, 174
+legality principle and, 177
+race-based nullification, 181-183
+°
+Objective, Model Penal Code, 297-298
+Offences against the Person Act 1861 (UK), 285-286
+Officers, criminal liability of, 799-800
+expansion of responsibilities, 801
+other theories of criminal liability, 801-802
+responsible corporate officer doctrine, 796-797, 799
+p. 1985
+p. 1986
+Official reliance
+conflicts within federal courts, 368-370
+Due Process Clause and, 367
+federalism and, 367-368
+Model Penal Code, 366
+reasonableness requirement, 367-370
+traditional view, 365-366
+Omissions, 261-284
+
+acts distinguished, 280-284
+attempt, 633
+bystanders and
+benefiting from victim's peril, 267-268
+duty to report, 272-273
+duty to rescue, 270-271
+in Europe, 271.
+Good Samaritans, 268-270
+indifference, 265-267
+intervention programs, 272
+misprision of felony, 272-273
+causation, 580
+child abuse, 263-265
+complicity by omission
+actus reus, 690-691
+mens rea, 691
+duty of person creating other's peril, 277-279
+entrapment by omission, 373-374
+failure to provide, 261-262
+family members
+de facto family members, 274-276
+duties of, 273-274
+parent as victim, 276-277
+homicide and, 262
+legal duty, 262
+medical care and, 280-284
+murder by omission, 528
+possession as, 279-280
+vicarious liability and, 342-343
+willful blindness and, 309-310
+Onlookers, complicity and, 687
+Oregon
+
+“Death with Dignity Act” (DWDA), 900-901
+euthanasia in, 900-901
+Overbreadth, stalking and, 624
+Overt-act requirement for conspiracy, 726-728
+justifications for, 727-728
+liability without overt act, 726
+statutes requiring overt act, 726-727
+P
+Parents
+omissions, parent as victim, 276-277
+vicarious liability, 341-342
+Parties to conspiracy, 752-759
+acquitted co-conspirators, 753
+attempt, 758-759
+Model Penal Code, 754
+modern statutes, 758
+rationale for traditional approach, 758
+traditional conspiracy, 757
+“Wharton's rule,” 753-755
+Peace officers. See Law enforcement
+Pennsylvania
+involuntary manslaughter, 466
+murder, 465-466
+suicide, 466
+voluntary manslaughter, 466
+Pepper spray, 873
+Peremptory challenges, 140
+Pinkerton doctrine, 707-721
+applications of, 716-720
+controversy regarding, 715-716
+criticisms of, 714-715
+
+drug offenses, 717
+
+expansive application of, 717-718
+
+merits of, 712-714
+
+minor participants and, 720-721.
+
+Model Penal Code, 715
+
+natural and probable consequences theory compared, 684-685,
+
+new conspirator, liability for prior acts of co-conspirators, 716
+
+transitional note, 721.
+
+Plea bargaining, 108-139
+
+administrative law vs. criminal law, 135-139
+
+agency costs, 120-121
+
+cap on penalties, 135,
+
+coercion and, 128-129
+p. 1986
+p. 1987
+
+conflicts of interest, 120
+
+consistency requirement, 135
+
+cooperation, 124
+
+criminal history and, 124-125
+
+death penalty and, 108-112, 125
+
+defense counsel, role of, 111-112
+
+effective assistance of counsel, 114-115
+
+extent of, 115-116
+
+federal vs. state law, 139
+
+freedom of choice and, 125-126
+
+group of defendants, 125
+
+guilty plea procedure, 112-113
+
+honoring bargain, 116
+
+insufficient checks, 120
+
+judges, role of, 116-117, 120
+
+jury, role of, 120,
+
+knowing and intelligent, 113-114
+line-attorney discretion, 133
+necessity of, 121-122
+plea outcomes vs. trial outcomes, 117-120
+policy debate, 121-129
+procedure, 112-113
+propriety of sentencing concessions, 122-124
+prosecutorial caseloads and, 126
+racial bias and, 127
+separation of powers and, 133-134
+structural problems, 126-128
+supervisory role of court, 133-134
+vindictiveness and, 129-132
+voluntariness, 108-111
+Police. See Law enforcement
+Positive inducements, 924
+Positive retribution, 32, 37
+Possession as omission, 279-280
+Post-traumatic stress disorder (PTSD)
+duress and, 914
+self-defense, intimate partner violence, 835-836
+Powell doctrine, 735,
+Practice of law, blackmail and, 1052
+PREA (Prison Rape Elimination Act of 2003), 1098
+Preemption, necessity and, 881-882
+Prejudice, evidence and, 143-144
+Premeditation, 469-480
+brutality of murder and, 479
+intent vs., 477
+Model Penal Code, 469-470, 480
+policy rationales, 478
+proof of, 478-479
+
+statutory interpretation, 476-477
+Presentence reports, 141
+Presumptions
+of innocence, 140
+mens rea, 291-292
+reasonable doubt standard, 159-160
+Pretrial release, 79-82
+Prison abolition, 5, 53-63
+Prison conditions
+crowding, 1099-1101
+cruel and unusual punishment and, 1100
+Eighth Amendment and, 1100
+physical location and environment, 1101.
+sexual violence, 1098-1099
+suicide, 1101.
+violence and abuse, 1097-1098
+Prison escape, 880-881
+legality principle and, 881.
+potential harms of, 880
+Prison Rape Elimination Act of 2003 (PREA), 1098
+Privilege, evidence and, 143
+Probative evidence, 142
+Procedural due process, death penalty and, 1170-1171,
+Property. See also Misappropriation
+damage, Model Penal Code, 1267-1269
+protection of, 861-867
+receiving stolen property, 637-639
+subject to theft, 1062-1085
+Proportionality, 234-248
+cruel and unusual punishment and, 237-244, 246-247
+culpability and, 248
+death penalty, 1188-1190
+
+drug offenses, 237-242, 244-245
+Eighth Amendment and, 237-244, 246-247
+p. 1987
+Cnn 108
+fines and forfeitures, 245-246
+Model Penal Code, 189-190
+overview, 234-237
+punitive damages, 245-246
+purposes of punishment and, 242-243
+recidivism and, 245
+in sentencing, 245-246
+state constitutions, 247-248
+“three strikes” laws, 244
+who should decide, 243-244
+Prosecutors
+charging decision. See Charging decision
+in criminal justice system, 71-72
+discretion, 84-108. See also Discretion
+selective prosecution, 101-106
+disparate patterns, 106
+drug offenses, 102-105
+federalism and, 107
+firearms offenses, 102-105
+race and, 105-106
+transparency and, 107
+special prosecutors, 92-94
+Prostitution, 49-51
+Protection of property, 861-867
+other types of property, 866-867
+statutory approaches, 864-865
+Provocation, 480-506
+
+abolition proposed, 489-490
+cooling time, 493-494
+defendants eliciting provocation, 495
+domestic disputes, 480-482
+heat of passion, 493, 497-498, 500
+legally adequate provocation, 485-486
+Model Penal Code, 496-501.
+distinctive features of, 499-501
+extreme emotional disturbance (EED) test, 499-501
+influence of, 499
+judges, role of, 501
+jury, role of, 501.
+reasonable person requirement, 502-505
+rationale for, 486-489
+as partial excuse, 486-487
+as partial justification, 487-488
+reasonable person requirement, 501-506
+culture and, 502-503
+intimate partner violence and, 503-504
+mental disorder and, 504-505
+Model Penal Code, 502-505
+partial individualization, 504-505
+reforms, 490-491.
+same-sex advances as, 492-493
+sexual infidelity as, 482-485, 491
+victims other than provoker, 494-495
+derivative provocation, 494
+intentionally killing, 494-495
+misdirected reaction, 494
+Proximate cause, 541, 572-574
+Proximity test, 612-614
+Psychopaths, 980-981
+
+PTSD (Post-traumatic stress disorder)
+duress and, 914
+self-defense, intimate partner violence, 835-836
+Public indecency, Model Penal Code, 1281-1283
+Public welfare offenses, strict liability, 343-344
+Punishment
+abolition proposed, 53-63. See also Abolition
+alternatives to
+abolition proposed, 53-63. See also Abolition
+restorative justice as, 64-66
+for cannibalism, 8-14
+children, restrictions on having, 1111,
+civil sanctions, 1102-1104
+complicity, 653-655
+controversial conditions, 1111-1112
+corporate criminality, 783-788
+compliance programs, 785-786
+“death penalty,” 787-788
+deferred prosecution agreements (DPAs), 786
+fines, 784-785
+judicial review, 786-787
+non-prosecution agreements (NPAs), 786
+overview, 783
+“cousins” of retribution, 39-45
+expressive function, 45
+p. 1988
+p. 1989
+retaliation, 32-40
+social cohesion, 43-44
+unexpected harm, 40-41
+vengeance, 39-40
+
+victim-impact statements and, 4142
+culpability, 248-375. See also Culpability
+death penalty. See Death penalty
+defined, 1095
+desert, 15-16
+deterrence, 18-22
+certainty vs. severity, 20
+death penalty, 1163-1165
+moral influence, 21-22
+rational and well-informed actors, 19-20
+variations in punishment, effect of, 18-19
+excuse and, 15-16
+imposition of, 1095-1205
+incapacitation, 27-32
+built-in bias, 30
+cost-effective alternatives, 31-32
+crime decline in 1990s and, 30-31
+empirical problems of prediction, 29-30
+estimating benefits, 28-29
+selective incapacitation, 29
+incarceration, 1095-1102. See also Incarceration
+innocent, punishment of, 17
+justification and, 15
+legality principle, 190-233, See also Legality principle
+mixed theories, 46-48
+overview, 8-9
+proportionality, 234-248. See also Proportionality
+prudential concerns, 14-15
+purposes of, 8-48
+“cousins” of retribution, 39-45
+deterrence, 18-22. See also Deterrence
+discretionary sentencing and, 1119-1121
+
+guideline sentencing and, 1145
+incapacitation, 27-32. See also Incapacitation
+incarceration and, 1101-1102
+mixed theories, 46-48
+proportionality and, 242-243
+rehabilitation, 22-27. See also Rehabilitation
+retribution, 32-38. See also Retribution
+utilitarian view, 16-32, See also Utilitarian view of punishment
+rape, culpability vs. punishment, 443
+rehabilitation, 22-27
+effectiveness of, 24-26
+medical model, 23-24
+non-capital cases, sentencing in, 1119-1120
+residence, restrictions on, 1112-1113
+restorative justice as alternative to, 64-66
+resulting harm as criterion, 581-582, 601-604
+retribution, 32-38
+as constraint, 37-38
+ctiticisms of, 34-37
+defenses of, 34-37
+moral culpability, 32
+negative retribution, 32, 37
+overview, 32-34
+positive retribution, 32, 37
+sentencing. See Sentencing
+sex offender registration, 1104
+sexually violent predator (SVP) laws, 1103
+sex work, 50-53
+shaming, 1104-1111, 1113-1114
+types of, 1104-1114
+utilitarian view, 16-32
+deterrence, 18-22. See also Deterrence
+
+incapacitation, 27-32. See also Incapacitation
+overview, 16-18
+rehabilitation, 22-27. See also Rehabilitation
+what to punish, 48-53
+Punitive damages, proportionality, 245-246
+Purchase of sex services, 49-51.
+p. 1989
+p. 1990
+Purpose
+Model Penal Code, 298, 301
+motive distinguished, 301,
+of punishment, 8-48. See also Punishment
+wish distinguished, 301
+Q
+Qualified immunity, use of force in law enforcement, 872
+R
+Race
+attempt and, 618-619
+death penalty and, 1191-1205
+constitutional doctrine, 1204-1205
+legislative initiatives, 1203
+local demographics, 1200-1201
+local influences, 1202
+Model Penal Code, 1203-1204
+nature of racial discrimination, 1200-1205
+predicting jury's attitude, 1201-1202
+race of defendants vs. race of victims, 1200
+risk of wrongful conviction, 1168-1170
+excuse and, 1008-1012
+incarceration and disparate impact, 2-3
+
+law enforcement, use of force in, 869, 874-876
+plea bargaining and, 127
+race-based nullification, 181-183
+rape and, 385-386
+selective prosecution and, 105-106
+self-defense and, 810-815
+racial profiling, 812-813
+solutions, 814-815
+stereotypes, 812-813
+vagueness and, 232-233
+Racial profiling, 812-813
+Rape, 377-460
+absence of consent, 412-429
+affirmative conduct requirement, 422-423
+alternative conceptions of consent, 419-423
+authority and trust and, 428-429
+consent defined, 417-425
+defective consent, 426-429
+grading of offence, 417-418
+immaturity and, 426
+implicit pressure, 428
+incapacity and, 426-427
+internal state of mind, 420-421
+intoxication and, 426-427
+Model Penal Code, 423-424
+objective approach, 421
+perspectives, 424-425
+replacing force with non-consent, 412-417
+actus reus, 392-435
+absence of consent, 412-429
+deception, 429-435
+force and coercion, 393-412
+
+overview, 392-393
+assault with intent to, 616-618
+child rape, death penalty, 1190
+date rape, 424, 440, 447
+deception, 429-435
+female victims, 382-383
+force and coercion, 393-412
+constructive force, 406
+direct but insufficient physical force, 405,
+disclosure of affair, 409-410
+duress, 408
+financial leverage, 410-412
+force defined, 398
+justifications for requirement, 399-400
+Model Penal Code, 409
+moder justifications for requirement, 399-400
+nonphysical coercion, 407-409
+proof, 400-405
+“reasonable” fear, 406-407
+resistance requirement, 400
+traditional justifications for requirement, 399
+workplace, implicit coercion in, 405,
+fraud, 434-435
+p. 1990
+p. 1991
+frequency of, 381-384
+female victims, 382-383
+LGBTQ+ victims, 383-384
+male victims, 383-384
+harm from, 384-385
+LGBTQ+ victims, 383-384
+
+low-wage workers and, 379-380
+
+male victims, 383-384
+
+marital exemption, 447-449
+harm of marital rape, 448
+institutional concerns, 449
+judicial approaches, 449
+legislative developments, 449
+prevalence of marital rape, 448
+
+mens rea, 435-447
+consent in other crimes, 443-444
+culpability vs. punishment, 443
+effects of negligence standard, 444-445
+evidence, 446-447
+factual claim, 442
+mistake as to consent, 441-447
+pragmatic consequences, 442
+reasonable mistake defense, 445
+reasonableness standard, 445-446
+recklessness vs. negligence, 442-443
+strict liability, 441-442
+
+Model Penal Code, 387-388, 392
+
+overview, 377
+
+perspectives on, 378-386
+
+prison conditions, 1098-1099
+
+proof of, 454-460
+abusive treatment of complainants, 455-456
+corroboration, 454-455
+credibility, 455
+cross-examination and, 455~456
+force and coercion, 400-405
+shield laws and, 455-460
+
+race and, 385-386
+
+rape culture, 378, 380-381
+reasonable disagreement, 386
+reform statutes, 450-453
+alternative remedies, 451-453
+de facto resistance to, 450-451
+impact of, 450
+restorative justice, 453
+transformative justice, 453
+sex offender registration, 1104
+sexually violent predator (SVP) laws, 1103
+shield laws, 455-460
+changing need for, 458-459
+constitutional concerns, 458
+impact of, 458
+prior behavior of defendant, 460
+statutory framework, 386-392
+Rape shield laws, 455-460
+changing need for, 458-459
+constitutional concerns, 458
+impact of, 458
+prior behavior of defendant, 460
+RCRA (Resource Conservation and Recovery Act of 1976), 798-799
+Reasonable doubt standard, 146-160
+basis of, 147-148
+burden of persuasion, 155-156
+burden of production, 155-156
+burden of proof
+allocation of, 151-159
+discretion, 159
+gratuitous defenses, 156
+nongratuitous defenses, 157-158
+problems, 148
+
+sentencing enhancements, 158-159
+Due Process Clause and, 146-147
+explanation of, 149-151.
+as matter of law, 148-149
+presumptions, 159-160
+Reasonableness
+intimate partner violence, 830-833
+official reliance, 367-370
+rape, mens rea, 445-446
+Reasonable person requirement, provocation and, 501-506
+culture and, 502-503
+intimate partner violence and, 503-504
+mental disorder and, 504-505
+Model Penal Code, 502-505
+partial individualization, 504-505
+Rebuttal, 141.
+Receiving stolen property, 637-839
+p. 1991
+p. 1992
+Recidivism, 245
+Reckless endangering, Model Penal Code, 1250
+Reckless manslaughter, 511-514
+Recklessness
+intent vs., 694
+knowledge distinguished, 301-304
+Model Penal Code, 299, 301-304
+negligence distinguished, 301-304
+rape, mens rea, 442-443
+reckless endangering, Model Penal Code, 1250
+reckless manslaughter, 511-514
+‘subsequent actions that recklessly risk result, 594-601
+
+voluntary intoxication and, 931-932
+willful blindness and, 307
+Re-direct examination, 142
+Registration of sex offenders, 1104
+Regulatory offenses, 541.
+Rehabilitation, 22-27
+effectiveness of, 24-26
+medical model, 23-24
+non-capital cases, sentencing in, 1119-1120
+Reintegrative shaming, 1113-1114
+Relevance, 142-143
+Reliance. See Official reliance
+Renunciation of conspiracy, 739
+Rescue, duty to, 270-271
+Resisting arrest, use of force in law enforcement, 871-872
+Resource Conservation and Recovery Act of 1976 (RCRA), 798-799
+Respondeat superior, corporate criminality, 769
+Responsible corporate officer doctrine, 796-797, 799
+Restorative justice
+as alternative to punishment, 64-66
+charging decision and, 97-98
+discretion and, 97-98
+rape, reform statutes, 453
+Resulting harm
+attempt, 601-650. See also Attempt
+causation, 567-601. See also Causation
+significance, 581-582, 601-604
+Retaliation, 39-40
+Retreat, duty to, 849-858
+castle exception, 855-856
+current case law, 851-852
+intimate partner violence, 856-858
+
+“stand your ground” laws, 852-855
+traditional view, 851
+Retribution, 32-38
+as constraint, 37-38
+criticisms of, 34-37
+death penalty, 1165-1166
+defenses of, 34-37
+moral culpability, 32
+negative retribution, 32, 37
+overview, 32-34
+positive retribution, 32, 37
+Retroactive application of laws, 212-216
+Riot, Model Penal Code, 1279-1281
+Robbery
+attempt, 612-614, 627-629
+felony murder and, 534-535, 551-553, 559-561
+Model Penal Code, 1023, 1270
+as trespassory taking, 1015-1017, 1022-1024
+“Russian roulette,” 524-525, 599-600
+s
+‘Same-sex advances as provocation, 492-493
+Sarbanes-Oxley Act of 2002, 196-198, 801.
+Securities fraud, 1077-1081
+Selective incapacitation, 29
+Selective prosecution, 101-106
+disparate patterns, 106
+drug offenses, 102-105
+federalism and, 107
+firearms offenses, 102-105
+race and, 105-106
+transparency and, 107
+
+Self-defense, 804-861
+burden of proof, 849
+castle exception, 855-856
+co-occupants, 856
+guests, 855
+intruders, 855,
+culture and, 819
+p. 1992
+Cnn 18988
+deadly force, 815
+deadly threat requirement, 815, 847-848
+defensive force qualifying as, 815
+deadly threat requirement, 815, 847-848
+defense of another, 844
+duty to retreat, 849-858
+castle exception, 855-856
+current case law, 851-852
+intimate partner violence, 856-858
+“stand your ground” laws, 852-855
+traditional view, 851
+exceptions, 849-855
+grading of offense, 819-820
+imminent danger requirement, 842-847
+defense of another, 844
+Model Penal Code, 845-846
+nonconfrontational self-defense, 842-843
+other contexts, 844-845
+self-defense without imminence, 846-847
+self-defense without necessity, 847
+third persons, turning to, 843-844
+intimate partner violence, 820-836. See also Intimate partner violence
+
+as justification, 805
+mental disability and, 818
+Model Penal Code, 860-861
+nonconfrontational self-defense, 842-843
+nonlethal aggressor, response by, 858-859
+nonpsychological defenses, 836-842
+objective test, qualifications, 817
+past experience and, 819
+physical infirmity and, 818
+race and, 810-815
+racial profiling, 812-813
+solutions, 814-815
+stereotypes, 812-813
+reasonable belief, 805
+risk of injury to others, 848-849
+specifying actor's situation, 817-819
+standards of judgment
+culture and, 819
+grading of offense, 819-820
+mental disability and, 818
+objective test, qualifications, 817
+past experience and, 819
+physical infirmity and, 818
+specifying actor's situation, 817-819
+subjective test, 816
+“stand your ground” laws, 852-855
+protecting rights vs. saving lives, 853,
+unintended consequences, 853-855
+subjective test, 816
+sufficient fault, 859-860
+third persons, turning to, 843-844
+without imminence, 846-847
+
+without necessity, 847
+Sentencing
+
+capital cases, 1161-1205
+bias, 1168-1170
+child rape, 1190
+constitutional limitations, 1170-1205
+cruel and unusual punishment, 1171-1177, 1180-1199
+current context, 1162-1163
+DNA testing and, 1167
+Eighth Amendment, 1171-1178, 1180-1199
+experts and, 1190
+future applications, 1191
+independent judgment of court and, 1191
+individualized capital sentencing, 1178-1180
+juvenile offenders, 1189-1190
+mentally disabled persons, 1183-1188
+method of execution, 1182-1183
+methodological questions, 1190-1191
+overview, 1170
+procedural due process, 1170-1171
+proportionality, 1188-1190
+provisions nature of decisions, 1177-1178
+race and, 1168-1170, 1191-1205
+
+p. 1998
+p. 1994
+
+risk of wrongful conviction, 1166-1168, 1191-1200
+social consensus and, 1190
+tension in Court jurisprudence, 1180-1182
+theories of punishment, 1163-1166
+
+complicity, 653-655
+
+conspiracy and, 705-706
+
+constitutional limitations
+capital cases, 1170-1205
+non-capital cases, 1150-1161
+death penalty, 1161-1205. See also Death penalty
+discretionary sentencing, 1114-1121
+Due Process Clause and, 1117-1118
+Fourteenth Amendment and, 1115, 1119
+purposes of punishment and, 1119-1121
+recent developments, 1118-1119
+Sixth Amendment and, 1119
+duress and
+appropriate sentence, 924
+murder, as defense to, 921
+enhancements, burden of proof, 158-159
+Federal Sentencing Guidelines, 785, 1128-1132
+guideline sentencing, 1127-1149
+advisory vs. mandatory guidelines, 1136-1137
+cultural context, 1146-1147
+dangers of visibility, 1134
+examples, 1138-1144
+family circumstances and, 1145
+Federal Sentencing Guidelines, 785, 1128-1132
+increasing in one area when eliminated in another area, 1134-1135
+individual differences in how punishment is experienced, 1147
+in jury trials, 1148-1149
+personal circumstances and, 1145-1146
+predictability of equity, 1132-1133
+purposes of punishment and, 1145
+social context, 1146-1147
+soft factors, 1133-1134
+insanity defense, sentencing alternative, 968
+in jury trials, 183-186
+
+factfinding, 1148
+factual questions shifted from jury to judge, 186
+guideline sentencing, implications for, 1148-1149
+jury sentencing, 184-185
+mandatory minimum sentences, implications for, 1149
+Sixth Amendment and, 1148
+what jury permitted to know, 185-186
+life without parole
+juvenile offenders, 1160-1161
+other non-capital sentences vs., 1161
+mandatory minimum sentences, 1122-1127, 1149
+murder, duress as defense to, 921
+non-capital cases, 1114-1161
+assessing individual sentences, 1156-1160
+categorical vs. individual challenges, 1159-1160
+constitutional limitations, 1150-1161
+cruel and unusual punishment, 1150-1161
+discretionary sentencing, 1114-1121
+Eighth Amendment, 1150-1161
+juvenile offenders, life without parole, 1160-1161
+life without parole, 1160-1161
+reform, 1121-1151
+rehabilitation and, 1119-1120
+state constitutions, 1161
+“three strikes” laws, 1155-1156
+presentence reports, 141.
+presumptive sentencing, 1127-1149
+proportionality in, 245-246
+reform, 1121-1150
+guideline sentencing, 1127-1149
+p. 1994
+p. 1995
+
+mandatory minimum sentences, 1122-1127, 1149
+overview, 1121-1122
+presumptive sentencing, 1127-1149
+taking second look at sentences, 1149-1150
+as stage in criminal case, 82
+taking second look at sentences, 1149-1150
+Sentencing Reform Act of 1984, 24, 1105, 1108, 1136
+Separation of powers, plea bargaining and, 133-134
+Services, theft of, 1064
+Sex as property, 1066
+Sex offenses
+Model Penal Code, 1252-1267
+prostitution, 49-51
+rape, 377-460. See also Rape
+registration of offenders, 1104
+residence of offenders, restrictions on, 1112-1113
+sexual abuse, mistake of fact and, 319-326
+sexually violent predator (SVP) laws, 959, 1103
+Sexual infidelity as provocation, 482-485, 491
+Sexually violent predator (SVP) laws, 959, 1103
+Sex work, 50-53
+Shaming, 1104-1111, 1113-1114
+Shared intent, 694-695
+Sherman Antitrust Act of 1890, 724, 763-765
+Shield laws, 455~460
+changing need for, 458-459
+constitutional concerns, 458
+impact of, 458
+prior behavior of defendant, 460
+Sixth Amendment
+conspiracy and, 703
+discretionary sentencing and, 1119
+
+jury trials, 160-188. See also Jury trials
+Sleep
+
+automatism and, 982
+
+sleep-related violence, voluntary action requirement, 256-257
+
+somnambulism, voluntary action requirement and, 255-256
+Social cohesion, punishment and, 43-44
+Social concentration of incarceration, 2-3
+Solicitation, 633-637
+
+as attempt, 636
+
+First Amendment and, 636-637
+
+as independent crime, 636
+
+murder, 633-634
+Somnambulism, voluntary action requirement and, 255-256
+Special prosecutors, 92-94
+Specific intent
+
+attempt, 606-610
+
+diminished capacity, 987-988
+
+mens rea, 289-291
+‘Speech. See Freedom of speech
+Speedy Trial Act of 1974, 787
+‘Spouse abuse. See Intimate partner violence
+Stalking, 623-626
+“Stand your ground” laws, 852-855
+
+protecting rights vs. saving lives, 853,
+
+unintended consequences, 853-855
+Starvation, necessity and, 886
+State constitutions
+
+proportionality, 247-248
+
+sentencing, non-capital cases, 1161
+Status crimes, 992-999
+Statutory rape
+
+mistake of fact, 327-329
+
+strict liability, 327-328
+Stop-and-frisk, 231-232
+Strict liability, 329-349
+affirmative defenses, 346-347
+alcoholic beverage offenses, 339-341
+child pornography
+distributing, 337-338
+producing, 338-339
+constitutionality of, 345
+conversion, 331-335
+debate regarding, 347-349
+drug offenses, 329-331
+firearms offenses, 335-336
+Model Penal Code, 349
+p. 1995
+p. 1996
+overview, 329
+public welfare offenses, 343-344
+rape, 441-442
+statutory rape, 327-328
+vicarious liability
+corporate criminality, 795-796
+employers as individuals, 341.
+involuntary acts, 343,
+omissions and, 342-343
+parents, 341-342
+Structural deprivation, excuse and, 1005-1012
+Suicide
+assisted suicide, 584-589
+prison conditions, 1101
+suicide tourism, 902
+
+SVP (sexually violent predator) laws, 959, 1103
+‘Sweden, homicide in, 469
+T
+Tangible property, finders of, 1027-1028
+Tasers, 873-874
+Tax offenses, mistake of law, 360-362
+“Temporary” insanity, 978-979
+Terrorism, material support to, 669-671
+Theft, 1013-1093
+blackmail, 1049-1059. See also Blackmail
+burglary
+attempt, 621
+Model Penal Code, 1269-1270
+consolidation, 1060-1061
+by deception, felony murder and, 545-546
+embezzlement
+mens rea, 1089
+as misappropriation, 1025-1027
+by false pretenses
+as fraud, 1046-1048
+mens rea, 1089
+as trespassory taking, 1015-1017
+fraud, 1037-1049. See also Fraud
+honest services, 1076-1085
+corruption as theft, 1081-1082
+mail fraud, 1076-1077
+politics vs. fraud, 1083-1084
+prosecutorial discretion, 1084-1085
+scope of, 1082-1083
+securities fraud, 1077-1081
+wire fraud, 1077-1081
+
+information, theft of, 1066-1076
+confidential business information, 1069-1071
+copies, 1068-1069
+identity theft, 1074-1076
+“Official Secrets Act,” 1068
+statutory interpretation, 1072-1073
+statutory reform, 1073
+larceny as trespassory taking, 1015-1017
+means of acquisition, 1013-1061.
+blackmail, 1049-1059
+consolidation, 1060-1061
+fraud, 1037-1049
+misappropriation, 1024-1037
+overview, 1013-1014
+trespassory takings, 1014-1024
+mens rea, 1085-1093
+chattels vs. cash, 1092
+embezzlement, 1089
+exceptions, 1085-1086
+federal law and, 1090
+intent to restore, 1089-1090
+Model Penal Code, 1090-1093
+theft by false pretenses, 1089
+misappropriation, 1024-1037
+abandoned property, 1029
+appropriation of lost property, 1027-1030
+embezzlement, 1025-1027
+intangible property, finders of, 1028-1029
+misdelivered property, 1029-1030
+Model Penal Code, 1029-1030, 1033-1035
+property transferred by mistake, 1027-1030
+tangible property, finders of, 1027-1028
+
+wage theft, 1036-1037
+Model Penal Code, 1013-1014, 1064, 1090-1093, 1270-1274
+overview, 1013
+p. 1996
+Tee 1897
+property subject to theft, 1062-1085
+honest services, 1076-1085
+information, theft of, 1066
+theft of information, 1066-1076
+traditional theft, 1062-1066
+receiving stolen property, 637-639
+robbery
+attempt, 612-614, 627-629
+felony murder and, 534-535, 551-553, 559-561
+Model Penal Code, 1023, 1270
+q as trespassory taking, 1015-1017, 1022-1024 p
+services, theft of, 1064
+sex as property, 1066
+theft by false pretenses, 1089
+traditional theft, 1062-1066
+Model Penal Code, 1064
+services, theft of, 1064
+sex as property, 1066
+use of property, theft of, 1065
+trespassory takings, 1014-1024
+asportation, 1017-1018
+consent, 1019-1021
+extortion, 1022-1024
+feigned accomplices, 1021
+larceny, 1015-1017
+robbery, 1015-1017, 1022-1024
+
+theft by false pretenses, 1015-1017
+
+use of property, theft of, 1065
+Theft Act 1968 (UK), 1076, 1088
+Theft by deception, felony murder and, 545-546
+Theft by false pretenses
+
+as fraud, 1046-1048
+
+mens rea, 1089
+
+as trespassory taking, 1015-1017
+Third parties
+
+self-defense and, 843-844
+
+subsequent acts of, 592-594
+Threats, Model Penal Code, 1250
+“Three strikes” laws, 244, 1155-1156
+Torts, corporate criminality vs., 763
+Torture, 1161
+Transferred intent, 582-584
+
+attempt and, 609
+
+homicide, 584
+
+Model Penal Code, 583
+Transformative justice, rape reform and, 453
+Trespassory takings, 1014-1024
+
+asportation, 1017-1018
+
+consent, 1019-1021
+
+extortion, 1022-1024
+
+feigned accomplices, 1021
+
+larceny, 1015-1017
+
+robbery, 1015-1017, 1022-1024
+
+theft by false pretenses, 1015-1017
+Trials, 139-188
+
+acquittal, 140
+
+bench trials, 140
+
+case-in-chief, 141
+
+cross-examination, 142
+directed verdicts, 140
+direct examination, 142
+evidence. See Evidence
+jury trials, 160-188. See also Jury trials
+mistrial, 141
+overview, 139-141
+presumption of innocence, 140
+reasonable doubt standard, 146-160. See also Reasonable doubt standard
+rebuttal, 141
+re-direct examination, 142
+as stage in criminal case, 82
+“True man” doctrine, 851-852
+U
+Unborn Victims of Violence Act of 2004, 211-212
+Unconsciousness, voluntary action requirement and, 251-252
+Unexpected harm, punishment and, 40-41,
+Unintentional murder, 526-528
+United Kingdom
+Criminal Damage Act, 357
+euthanasia in, 902
+Homicide Act 1957, 988
+insanity defense in, 949-951
+Malicious Damage Act, 287
+Malicious Injuries to Property Act, 287
+p. 1997
+p. 1998
+murder in, 462-463
+Offences against the Person Act 1861, 285-286
+Theft Act 1968, 1076, 1088
+
+Unlawful-act doctrine, 541, 579
+Unprotected sex, mens rea and, 604-606
+USA PATRIOT Act of 2001, 669
+Use of force. See Deadly force; Force
+Use of property, theft of, 1065
+Utilitarian view of punishment, 16-32
+death penalty, 1163
+deterrence, 18-22
+certainty vs. severity, 20
+death penalty, 1163-1165
+moral influence, 21-22
+rational and well-informed actors, 19-20
+variations in punishment, effect of, 18-19
+incapacitation, 27-32
+built-in bias, 30
+cost-effective alternatives, 31-32
+crime decline in 1990s and, 30-31
+empirical problems of prediction, 29-30
+estimating benefits, 28-29
+selective incapacitation, 29
+mistake of law and, 355-356
+overview, 16-18
+rehabilitation, 22-27
+effectiveness of, 24-26
+medical model, 23-24
+non-capital cases, sentencing in, 1119-1120
+v
+Vagrancy laws, 226-227
+Vagueness
+challenges for effective crime control, 230-232
+constitutional foundations, 224-225
+
+discriminatory-enforcement prong, 225-226, 228
+Equal Protection Clause and, 225
+gangs and, 216-224, 227-228
+loitering and, 216-224, 227-228
+notice prong, 228-230
+race and, 232-233
+stop-and-frisk and, 231-232
+vagrancy laws, 226-227
+Vengeance, 39-40
+Venire, 140
+Verdicts
+directed verdicts, 140
+inconsistent verdicts, 186-188
+ctiticism of prevailing acceptance, 187
+problem of, 186-187
+solutions, 186-187
+Vermont, duty to rescue, 270
+Vicarious liability
+corporate criminality, 795-796
+employers as individuals, 341
+involuntary acts, 343,
+omissions and, 342-343
+parents, 341-342
+Victim-impact statements, 41-42
+Victimless crimes, 98
+Victims
+accomplice as victim, 698-699
+blackmail, threatening lawsuits as, 1052-1053
+participation in charging decision, 95-96
+prosecutions initiated by, 94-95
+Vindictiveness, plea bargaining and, 129-132
+Voir dire, 140
+
+“VYolitional prong” of insanity defense, 959-961
+
+moral culpability, 960-961
+
+practical concerns, 959-960
+
+sexually violent predator (SVP) laws and, 959
+Voluntary action requirement, 248-261
+
+blameworthy acts distinguished, 253-254
+
+concurrence requirement, 258-259
+
+contemporary applications, 249-251.
+
+culpable thoughts and, 260-261
+
+epilepsy and, 257-258
+
+habit and, 254-255
+
+hypnosis and, 255
+
+intoxication and, 248-249
+
+p. 1998
+
+Cnn 1899
+
+involuntary acts distinguished, 253
+
+rationale of, 252
+
+sleep-related violence, 256-257
+
+somnambulism and, 255-256
+
+traditional rule, 256
+
+unconsciousness and, 251-252
+Voluntary intoxication, 925-934
+
+Due Process Clause and, 932-933
+
+insanity defense and, 934
+
+mens rea, as negating, 928-930
+
+Model Penal Code, 930-931,
+
+recklessness and, 931-932
+
+as separate offense, 933-934
+
+treated differently from other relevant evidence, 929-930
+Voluntary manslaughter, 466
+
+w
+Wage theft, 1036-1037
+Weapons offenses. See Firearms offenses
+“Wharton's rule,” 753-755
+White-collar crime. See Corporate criminality
+Willful blindness, 304-312
+acts vs. omissions, 309-310
+civil litigation, 307
+criminal law applications, 306-307
+deliberate avoidance vs. high probability, 311-312
+equal culpability thesis, 308
+federal law, 307-311.
+Model Penal Code, 307-311.
+motive and, 310-311
+overview, 304
+prevailing law, 312
+recklessness and, 307
+Wire fraud, 1077-1081.
+Wisconsin, rape statute, 391
+Withdrawal from conspiracy, 739-740
+Women
+feminist perspectives
+intimate partner violence, 834-835
+stalking statutes, 623-626
+intimate partner violence victims, self-defense, 826-828
+rape victims, 382-383
+Workplace, implicit coercion and rape in, 405
+p. 1999

@@ -1,0 +1,215 @@
+PREFACE
+
+This edition retains the principal content and pedagogical commitments of the Tenth Edition, along with several changes in organization and emphasis. We have retained nearly all the major cases and have maintained the intellectual
+framework and concrete questions and problems that so many of our colleagues have found helpful for successful teaching. At the same time, an acceptable 21st Century course of study in criminal law must give a prominent place to America’s
+long-overdue reckoning with over-criminalization, mass incarceration, and discriminatory law enforcement. While the Tenth Edition covered those topics, the Eleventh Edition gives more in-depth treatment to those issues, both as standalone ma-
+terial at the outset of the book and where relevant in the discussion of other topics. This Preface discusses the basic goals of the course before turning to the specific changes made for this edition.
+
+Why substantive criminal law? We conceive of a criminal law course as serving the ends of both general legal education and training in the criminal law in particular. Both ends are important, particularly since criminal law is often
+a required course. Many criminal law students will never serve as prosecutors or defense attorneys, but regardless of their field, their practice will presuppose familiarity with foundational concepts and perspectives that the study of criminal law
+provides. Equally important, as citizens and members of the bar, they will be called upon to contribute to discussion of criminal justice policy, and their judgments on matters of criminal responsibility and punishment will influence the fairness and
+effectiveness of society's responses to matters that will always have a high place on the agenda of public concern.
+
+There are, as we see it, three chief ways that the study of criminal law contributes to the education of law students and all practicing lawyers. First, it provides a vehicle for close reading of statutory texts — the Model Penal Code as
+well as state and federal statutes — to help balance the emphasis on case law in the first-year curriculum. Second, criminal law introduces students to the rules and principles that govern our society's efforts to apportion blame and responsibility
+in accordance with moral norms and practical restraints. Concepts of fault, wrongdoing, proportionality, and accountability play an essential role in determining liability throughout the law. Hence mastery of the analytical elements used to assign
+blame and assess justifications and excuses is an indispensable component of any lawyer's legal education, regardless of the field in which she or he will ultimately practice.
+
+Third, the study of criminal law affords insight into the potential and limits of legal processes in general, and criminal law in particular, as instruments of social control. We have in mind the difficulty of giving legal form to the compro-
+mises made necessary when goals conflict; the creation of appropriate institutional arrangements — judicial and administrative; the moral and practical constraints on using law to achieve social ends; the need for individualization and discretion to
+account for meaningful differences in cases while maintaining a commitment to equity and racial justice; and the value and costs of employing criminal sanctions, rather than regulatory or administrative approaches or other social processes, as
+mechanisms for setting norms and inhibiting socially harmful behavior.
+
+Substantive criminal law provides an ideal introduction to these problems that pervade all of the law. The ends criminal law serves involve social and human values of the highest order. Its means, entailing the imposition of brute force
+on the lives of individuals, are potentially the most destructive and abusive to be found within the legal system. The issues it raises and the setting in which it raises them are compelling and vivid. Its institutions are acutely controversial. At its core
+is the foundational dilemma for organized society — the reconciliation of authority and the liberty of the individual. As Professor Herbert Wechsler has written (The Challenge of a Model Penal Code, 65 Harv. L. Rev. 1097, 1087-98 (1952):
+
+[Penal law] is the law on which [people] place their ultimate reliance for protection against all the deepest injuries that human conduct can inflict on individuals and institutions. By the same token, penal law governs the
+
+strongest force that we permit official agencies to bring to bear on individuals. Its promise as an instrument of safety is matched only by its power to destroy. If penal law is weak or ineffective, basic human interests are in
+
+jeopardy. If it is harsh or arbitrary in its impact, it works a gross injustice on those caught within its toils. .. . Nowhere in the entire legal field is more at stake for the community or for the individual.
+
+What of the course's narrower purpose of training students in the criminal law in particular? Here there are two main pedagogical objectives. One is to furnish a solid foundation for those who will, at some point in their careers, partici-
+pate directly in the processes of the criminal law. This foundation does not require mastery of the full range of technical skills and information held by the practicing criminal lawyer, judge, or administrator, but rather the development of confidence
+in handling abstract concepts, principles, and rules — judge-made or statutory — through knowledge about the larger implications of the doctrines and institutions of the criminal law. The second purpose is to give those students who will not
+practice criminal law an understanding of its problems. As influential members of their communities — and more directly as judges, legislators, or teachers — lawyers versed in the principles of criminal law can bring an informed intelligence to the
+challenge of solving some of the most vexing problems of our times.
+
+Revisions for the Eleventh Edition. The next few paragraphs give an overview of revisions for this edition, followed by a more detailed summary of continuity and change in specific chapters.
+
+‘As mentioned, this edition largely maintains the content and approach that have proved successful in previous editions. At the same time, we have made it a priority to add substantial contemporary critiques and reorganize the se-
+quencing of the material to permit classroom discussion, at the outset of the course, of topics
+that are sure to be foremost in the minds of most students — discrimination in law enforcement, overuse of incarceration, and in general America’s often-unthinking reliance on criminal law as a response to real or perceived social problems.
+
+Every student who follows the news comes to law school expecting to discuss issues of criminal justice/social justice/racial justice. To a degree not seen in decades, criminal justice concerns such as mass incarceration, police use of
+deadly force, racial profiling, and the like now occupy center stage in public discussion and political debate.
+
+Too often these issues are treated as matters of criminal procedure that lie beyond the scope of a course devoted to foundational concepts like mens rea and criminal responsibility. We disagree. To be sure, substantive criminal law
+doctrine matters a great deal. Conveying a mastery of its nuances has to be an important goal of any criminal law course, and particularly so for those who expect to be active on the ground in seeking more just case outcomes. But at the same
+time, students expect to learn — and are entitled to know — how these abstract tools relate to the pressing issues that make headlines almost every day. We are convinced that issues of social justice — including policing, incarceration policy, and
+the exercise and control of discretion — are centrally implicated in the doctrinal specifics of criminal law, and that traditional casebook material can be presented in a way that makes those implications salient. The book's increased emphasis on
+these themes permits in-depth classroom discussion and analysis for teachers and students drawn to these issues, while preserving the option of a traditional analytic approach for those who are so inclined.
+
+A second goal, as in the Tenth Edition, has been to insure the accessibility of cases, notes, and questions throughout the book. We keep questions short, provide frequent explanations in the notes, and include frequent roadmaps to
+guide students and highlight the points that the cases and notes illustrate. We also include more problems throughout the book, to provide the basis for classroom discussion and help students assess their understanding of the material.
+
+In addition to revisions related to presentation and clarity, we have updated the material throughout. We have added new principal cases and updated the notes to include the most recent trends in the law as well as prominent decisions
+from the U.S. Supreme Court and other courts on doctrinal issues that are central to the substantive criminal law agenda.
+
+Chapter 1 retains some of the material from the Tenth Edition, but with a renewed emphasis on the larger social justice issues students are eager to discuss as part of their study of American criminal law. It begins by describing and
+analyzing the enormous reach of criminal law in the United States; the disparate impact of punishment on people of color and the poor; and the dilemmas posed by the tensions between over-enforcement (which is often the primary focus of
+criminal-law critiques) and the often overlooked or de-emphasized areas of under-enforcement, such as corporate/white-collar crime, domestic violence, hate crimes, and sexual assault. New questions and comments raise those same themes
+throughout the book. And attention to policing is integrated with the doctrines of substantive criminal law through both a stand-alone section on police use of force in Chapter 8 and new material on policing in connection with discretion, vague-
+ness, and the legality principle in Chapter 3. Racial profiling and other dimensions of disparate impact and implicit bias are explored in connection with jury nullification (Chapter 1),
+
+policing of gangs (Chapter 3), the death penalty (Chapter 10), defenses for the use of deadly force by private citizens in self-defense (the Trayvon Martin case in Chapter 8), and defenses for police use of both deadly and sub-deadly force (tasers)
+{also in Chapter 8).
+
+Chapter 1 also now contains the material on the justifications of punishment that was previously placed in Chapter 2. We have moved this material up so that it can be part of the central organizing themes for professors to explore at the
+outset and then use to critique substantive material that follows. The Chapter includes a new focus issue on criminalization: whether the purchase of sex should continue to be prohibited or instead partially or totally decriminalized. Then, in an es-
+pecially important revision, that section on criminalization is now followed by a substantial body of material and questions for discussion of more radical proposals to rethink criminal punishment, in particular the “abolition” movement to eliminate
+prisons and policing completely and proposals for much greater reliance on restorative justice. We think coupling the traditional justifications of punishment with the more probing critiques of America’s chosen forms of punishment and enforce-
+ment works well at the outset of the book to set the stage for what follows. Finally, Chapter 1 retains material from Chapter 10 describing the key players who administer criminal law in the United States.
+
+Chapter 2 now contains material that previously existed in different chapters of the Tenth Edition that all fall under the umbrella of how cases are processed in America. We begin with an overview of a criminal case that was previously
+in the Tenth Edition's Chapter 1. Chapter 2 also contains the Tenth Edition's Chapter 1 material on the formal trial process but we now put that unit after material (moved forward from the Tenth Edition’s Chapter 10), that gives extensive, in depth
+attention to prosecutorial charging discretion and plea bargaining. This Chapter thus allows a professor to explore what the administration of criminal law looks like on the ground in most cases (lots of charging discretion and plea bargaining) and
+how that world operates against the background of the more formal trial process that can be invoked if a deal is not reached. Teachers who prefer a more traditional approach can defer or skip these sections and move directly into the doctrinal
+material on legality, proportionality, and culpability. But others may prefer to foreground that material with discussion that will sensitize students to the on-the-ground dynamics that shape how criminal law requirements are applied. This material
+poses different teaching challenges than conveying traditional doctrinal information. To help professors highlight why it is so important to understand discretion despite the lack of traditional rules to govern it, we include problems on possible
+charging options so students can see how different facts may pull in different directions and why prosecutorial discretion does so much work in our system.
+
+Chapter 3 largely follows the same format as the prior edition, though with new cases and material throughout. We have moved some of the material on proportionality from the Tenth Edition that was previously in Chapter 3 to a newly
+constituted Chapter 10 that focuses on the imposition of punishment.
+
+Chapter 4, on rape, retains its traditional lead cases but repositions the material to make more readily understandable the major split that now characterizes American law — between states that still require proof of some kind of force
+and those that now make absence of consent sufficient. We also provide more depth for
+discussion of the increasingly important question of what “consent” means, including several of the most recent cases and the new Model Penal Code provisions on rape approved by the ALI membership in June 2021.
+
+Chapter 5 on homicide is updated and refreshed, but otherwise follows the same organizational structure. The major organizational change was to move the material on the death penalty to Chapter 10 so it can be considered alongside
+other forms of punishment.
+
+Chapter 6 similarly retains its basic structure and format, albeit with all the material refreshed and updated. We have cut the Stephenson case because we think the issues of voluntary intervening actors are better explored with more
+recent note cases and discussion.
+
+Chapter 7 includes two new cases on the actus reus of conspiracy — the first in a drug distribution context and the second addressing Apple's strategy for marketing ebooks on its iPad. We think these cases work better than the prior
+featured case (Perry) on agreement from the Tenth Edition.
+
+Chapter 8 has been updated to include the Supreme Court's decision in Kahler, more in-depth treatment of racial profiling and police use of excessive force, and a broader discussion of structural pressures and biases in the context of
+exploring the expansion of excuses.
+
+In Chapter 9, on theft, we highlight for students the continuing relevance of distinctions among the different types of theft offenses in a modem setting (credit card fraud). We have also added the discussion of wage theft so students
+can consider what the law decides to criminalize and what it decides to leave to the civil system (if at all) to be regulated. Throughout the Chapter we have updated examples to reflect current situations, including the ways that theft of information
+has been affected by technological change.
+
+Chapter 10 retains the material from the Tenth Edition on sentencing, but it also now includes material that was scattered throughout the Tenth Edition that is also relevant when considering the imposition of punishment. It thus includes
+a discussion of the Supreme Court's approach to reviewing non-capital cases for proportionality and its capital jurisprudence. In addition, this Chapter also includes the material that was in Chapter 2 of the Tenth Edition on the nature of punish-
+ment in America, and specifically what life is like in prisons and jails. This Chapter also has the material on shaming punishments. This allows an instructor to consider all aspects of punishment in one context (or to pick and choose which topics
+are best suited for their course).
+
+Like prior editions, the eleventh emphasizes the latest empirical research throughout. Chapter 1 provides updated statistics on what the criminal justice system looks like, and updated data and studies, including recent research on the
+relationship between longer sentences and the risk of increased recidivism because of the challenges lengthy sentences pose to reentry. Chapter 4’s materials on rape similarly contain new data on the incidence and prevalence of this offense, in-
+cluding data on the often-overlooked problem of prison rape. Chapter 10's material on sentencing and the death penalty also accounts for recent empirical research and developments.
+
+As in previous editions, the substantive materials continue to focus on imparting an understanding of what is often called the general part of the criminal law — that is, those basic principles and doctrines that come into play across the
+range of specific offenses (for example, actus reus, mens rea, and the various justifications and excuses). We believe that mastery of the detailed elements of many particular crimes is not an appropriate goal for a basic criminal law course.
+Nevertheless, we have found that an understanding of the basic principles is enhanced by testing their applications and interactions in the context of particular offenses. Accordingly, we examine in detail three offense categories: rape (Chapter
+4), homicide (Chapter 5), and theft (Chapter 9). The Chapter on rape provides an opportunity to focus on the definitional elements of a major crime in a context that remains the focus of acute controversy because of changing perceptions and
+changing social values. The theme of the Chapter on homicide is the task of legislative grading of punishment in a particularly challenging area. The Chapter on theft explores the significance of history and the continued impact of old doctrinal cat-
+egories on the resolution of thoroughly modern difficulties in defining the boundaries of the criminal law.
+
+We have paid close attention to the language we use in this edition, striving in our hypotheticals to avoid gender-specific names or pronouns and seeking throughout to avoid pejorative terms that dehumanize the people being de-
+scribed. While we were occasionally obliged to retain problematic language because of its centrality to a case or excerpt — for example the Court's use of “retardation” in its capital jurisprudence — we have been careful to signal to students why
+that language is no longer appropriately used. In discussing sexual assault and intimate-partner violence, we emphasize that these crimes victimize people of all sexual identities; where we preserve material on “violence against women’ and other
+gender-specific language, we note that there is an important substantive debate about the extent to which that terminology should continue to be used as a way to identify a distinctive problem. We always welcome reader feedback on any lan-
+guage that should be changed in future editions.
+
+Use of the materials in diverse teaching formats. Over the years, law schools have experimented with a variety of formats for the basic criminal law course. Although the year-long five- or six-hour course remains common, some
+schools offer criminal law as a four- or even three-hour course, and some schedule the course in the first or second semester or even in the second or third years. Under these circumstances, a short book designed to be taught straight through,
+without adjustments or deletions, is bound to prove unsatisfactory for many users. In preparing the eleventh edition, we have edited the materials to avoid significant surplusage for the average course, without preempting all judgments about inclu-
+sion and exclusion. The book allows teachers to select topics that accord with their own interests and with the curricular arrangements at their own schools. Thus, we have aspired to create a flexible teaching tool, one that reflects the rich diversity
+of the subject. For the five- or six-hour, year-long course, the book can be taught straight through, perhaps with some minor deletions. For a four-hour course, and especially in the case of a three-hour course, substantial omissions will be neces-
+sary. The Teacher's Manual presents detailed suggestions for appropriate coverage and focus, together with specific suggestions for sequencing and class-by-class assignments.
+
+Collateral Reading. There are a number of useful readings for students interested in pursuing questions developed in this casebook. Some of the suggestions that follow may no longer be in print, but they are available in virtually all
+law libraries.
+
+Comprehensive Works: The following publications should be helpful to the student:
+
+American Law Institute, Model Penal Code and Commentaries (1980-1985). This is a six-volume set containing the text and supporting commentaries of the Model Penal Code. The commentaries constitute the most com-
+
+prehensive available examination of the American substantive criminal law.
+
+Encyclopedia of Crime and Justice (J. Dressler ed., 2d ed. 2002). This work contains relatively short treatments, written by experts for the general lay reader, on virtually all the subjects covered in this casebook. It should
+
+prove particularly helpful for orientation and perspective.
+
+Textbooks: There are two books that may be useful for review purposes:
+
+Wayne LaFave, Criminal Law (6th ed. 2017). A widely used hornbook; comprehensive and heavily footnoted.
+
+Joshua Dressler, Understanding Criminal Law (8th ed. 2018). A shorter textbook, available in paperback; its coverage largely focuses on the subjects covered in this casebook but in a more simplified format.
+
+Monographs: The following books deal selectively with aspects of the criminal law:
+
+George Fletcher, Rethinking Criminal Law (1978). A comparative and theoretical treatment of the criminal law that is critical of dominant thinking in the field. See also Fletcher's more recent Basic Concepts of Criminal Law
+
+(1998).
+
+H.LA. Hart, Punishment and Responsibility (1968). A collection of powerfully argued essays that have had a great influence on contemporary thinking concerning issues of punishment and excuse.
+
+Sanford H. Kadish, Blame and Punishment — Essays in the Criminal Law (1987). Authored by one of the editors of this casebook, a collection of essays, most of which grew out of the experience of teaching prior editions.
+
+Herbert Packer, The Limits of the Criminal Sanction (1968). A classic treatment of the problems of criminalization and the theory of punishment.
+
+Style. Citations in the footnotes and text of extracted material have been omitted when they did not seem useful for pedagogical purposes, and we have not used ellipses or other signals to indicate such deletions. Ellipses are used,
+however, to indicate omitted text material. Where we have retained footnotes in readings and quotations, the original footnote numbers are preserved. Our own footnotes to excerpts and quotations from other works are designated by letters, while
+footnotes to our own notes are numbered consecutively throughout each chapter.
+
+Acknowledgements. More than half a century has passed since the first edition of Criminal Law and Its Processes appeared in 1962. This revision and its immediate predecessor were both published since Sandy Kadish died in 2014,
+just short of
+
+p.xl
+
+his ninety-third birthday. The book's initial impact was extraordinary, and over the years it continued to have lasting influence — not only on the teaching of criminal law but as well on the profession's understanding of criminal law's conceptual
+structure and practical dynamics. The realities of penal law administration in the United States and public awareness of those realities both have changed dramatically, especially in the past decade. Those developments inevitably prompt changes
+in emphasis and organization, changes that Sandy himself would have insisted upon. At the same time, those developments have renewed the importance of the book's core commitment: To combine intellectual rigor with realistic awareness of
+the practical dilemmas posed by law's obligation to serve ever-evolving social needs while respecting the rights of the individual. As co-authors, both of us have sought to carry forward the spirit that Sandy Kadish embodied. Stephen Schulhofer
+was exceptionally privileged to work closely with Sandy over the years and to pursue with him the education of several generations of law students, many of them now law teachers themselves, inspired as he was to foster appreciation of the
+essential predicates of a just system of criminal law. Our acknowledgments therefore begin, first and foremost, with our incalculable debt of gratitude to him. It is fitting and accurate that Sandy, though no longer with us in person, remains our lead
+author.
+
+This edition retains the many thoughtful contributions that Carol Steiker made to the eighth and ninth editions, and we remain grateful for all the insights she has added to the book.
+
+Several previous editions drew on Dan Markel’s insightful scholarship pertaining to the philosophy of punishment, and for the ninth edition he generously offered a host of valuable suggestions, many of which continue to influence our
+understanding and approach to that material. His cruel murder in July 2014 deprived the criminal justice community of one of its most kind, intelligent, and energetic colleagues.
+
+The book suffered another enormous loss with the tragic passing of our NYU colleague Jim Jacobs, who died from complications of ALS (Lou Gehrig's disease) in March 2020. Jim was an unfailingly generous mentor to both of us, and
+his constant stream of emails flagging issues, anecdotes, and (yes) deficiencies in the book was a steady source of inspiration and professional rigor. We were grateful to be able to incorporate Jim's suggestions in this edition and to hear his famil-
+iar voice in our ears as we read over those emails.
+
+We are grateful for the many suggestions we have received from other colleagues and users too numerous to acknowledge individually. But we want to express special thanks to several colleagues who have provided particularly
+extensive comments and suggestions over the years: Harry First, David Garland, and Erin Murphy. Two criminal justice colleagues, Alec Walen and Kenneth Simons, deserve special recognition for the exceptional thoughtfulness and care they
+brought to suggestions they offered for dozens of pages in almost every chapter. We are also grateful to Sam Buell and Sharon Dolovich for their close reads and edits. We also want to give a special shoutout to James Forman ur. for allowing us
+to publish remarks he gave on abolition at a workshop and to Randy Kennedy for providing us an early read of his book so we could use excerpts for this edition.
+
+We are particularly grateful to Lara Maraziti for unfailingly helpful and efficient administrative support. For outstanding research assistance, we thank
+
+p.xl
+
+px
+our students at NYU Law School: Julia Bodson, Benjamin Brindis, Carol Chen, Hailey Cunningham, Jemie Fofanah, Andrea Green, Ben Healy, Shona Hemmady, Alexandria Howell, Ben Hoynes, Isaac Inkeles, Shirley LaVarco, Rachel Leslie, Seth
+Massey, Devin McCowan, Safeena Mecklai, Karl Mihm, Jenna Pearlson, Ariel Reiner, Miranda Rosen, Dan Schiano, Naomi Schmidt, Walker Schulte Schneider, Brooks Weinberger, and Taylor Zarth.
+
+Rachel Barkow thanks Tony and Nate Barkow for their unflagging patience and understanding as she worked on this edition in a shared home/work space during the pandemic. Rachel is equally grateful that they humor her whenever
+she is compelled to tell them “just one more thing” that has to make its way into the book. Rachel also thanks Steve for the gift of a lifetime in being able to work on this casebook. For continuing, never-tiring intellectual and moral support Stephen
+Schulhofer thanks Laurie Wohl. And in Rachel, Steve has had the best imaginable collaborator — a gentle but demanding teacher and a patient guide to the shadow realms of real-world criminal law that now occupy such an important place in this
+book.
+
+SUS
+REB
+December 2021
+11, For a fuller discussion of the role ofthe criminal law course in a law school curriculum, see Sanford H. Kadish, Why Substantive Criminal Law-A Dialogue, 29 Clev. St. L. Rev. 1 (1980).
+
+| d
