@@ -1,0 +1,10 @@
+# JetBrains / IntelliJ / PyCharm / WebStorm
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor swap/backup files
+*~
+*.swp
