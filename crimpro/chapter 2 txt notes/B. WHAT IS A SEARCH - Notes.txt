@@ -1,0 +1,69 @@
+﻿What is a Search (Katz and Jones)
+Katz test (privacy-based). A government action is a search if it violates a reasonable expectation of privacy: (1) subjective explanation (whether the person actually expected privacy); (2) objective reasonableness (whether the explanation is one society would recognize as reasonable). Jones test (property/trespass-based). A government action is a search if the government physically intrudes (trespass) on a constitutionally protected area (persons, houses, papers, effects) for the purpose of obtaining information.
+
+
+Exam Move
+If there’s a physical intrusion to get information, you can often decide under Jones without fully resolving the Katz issue. But Katz still matters for non-trespass, tech-heavy surveillance.
+
+
+Katz v. United States
+Issue: Whether electronic eavesdropping of Katz’s conversation from outside the phone booth is a search/seizure under the 4A, even without physical intrusion or trespass; and if it is, whether it was reasonable when conducted without a warrant (and without fitting any recognized exception to the warrant requirement?
+Rule: Government conduct is a search if it violates a person’s reasonable expectation of privacy. Warrantless searches are presumptively unreasonable unless an exception applies. 4A is not about property labels; it’s about protecting individuals from certain government intrusions. Searches conducted without prior approval by a judge or magistrate are per se unreasonable, subject only to a few specifically established and well delineated exceptions.
+Rationale: The government here intruded upon something the person sought to keep private, even if the person is in a location accessible to the public. Electronic surveillance can violate the 4A even when it does not physically penetrate space. The 4A applies beyond tangible seizures; it extends to the recording of oral statements obtained through government conduct that invades protected privacy.
+
+
+Exam Triggers
+The person exhibited an actual (subjective) expectation of privacy, and the expectation is one society is prepared to recognize as reasonable.
+
+
+United States v. Jones
+Facts: FBI suspected Jones of narcotics trafficking and investigated by using visual surveillance, a camera at his nightclub, a pen register and wiretap on his cellphone. Agents physically attached a GPS device to the undercarriage of the Jeep Jones drove. GPS data linked Jones to a stash house containing large quantities of drugs and cash.
+Issue: Does the Government’s physical attachment of a GPS device to monitor the vehicle’s movements on public streets constitute a “search” under the 4A
+Rule: A 4A search occurs when the Government physically intrudes (trespasses) on a constitutionally protected area—persons, houses, papers, and effects—for the purposes of obtaining information. 
+Rationale: Vehicles are “effects.” Therefore, a physical intrusion on a vehicle to obtain information can qualify as a search.
+
+
+Exam Triggers
+(1) If the gov’t physically intrudes on a person’s effects to obtain information, that is a 4A search.
+(2) Katz remains relevant for surveillance methods that do not involve a trespass; Jones does not eliminate Katz, and Katz does not eliminate property-based protections.
+
+
+Open Fields Doctrine
+Open fields are not protected by the 4A.
+Distinction: home + curtilage (protected) vs open fields (not).
+
+
+Oliver v. United States
+Facts: Police received reports Oliver was growing weed on his farm. The cops went to the farm, passed a locked gate and a no trespassing sign, walked onto and about the property, and found pot growing over a mile from the home. Police conceded they had no warrant, no probable cause, and no exception.
+Issue: Post Katz, does a secluded, posted field carry a reasonable expectation of privacy such that a warrantless entry is a search?
+Rule: Entry into and observation of open fields is not a 4A search, even if posted/locked/secluded. 
+Rationale: 4A text focuses on persons, houses, papers, effects, and not open fields. Katz framework does not alter this result because (1) expectations in open fields are not ones society recognizes as reasonable; (2) open fields are not the setting for intimate activities the 4A shelters; and (3) as a practical matter, fences/signs often do not prevent observation/entry, plus lawful aerial surveying exists.
+
+
+Exam Triggers
+If it’s truly an open field, there is no search under 4A even with strong subjective privacy efforts. But if it is curtilage, 4A applies.
+
+
+United States v. Dunn (Curtilage / Open Fields)
+Facts: DEA tracked chemical containers to Dunn’s ranch. Ranch house fenced; barns located 50 yards from fence around the house; 60 yards from the house. DEA entered property, crossed fences, approached the barn, used a flashlight through netting, and saw the suspected drug lab. They later got a warrant and searched.
+Issue: Whether the area near the barn is within the curtilage of the home and thus 4A protected like the home.
+Rule: Curtilage determination uses four factors: (1) proximity of the area to the home; (2) whether the area is included within an enclosure surrounding the home; (3) nature of uses (intimate activities of the home vs other uses); (4) steps taken to protect area from observation by passerby.
+Rationale: The determinative inquiry is whether the area at issue bears such a close and intimate relationship to the home that it properly falls within the home’s protective ambit.
+
+
+California v. Ciraolo (Aerial Searches; Expectations of Privacy)
+Issue: Whether a warrantless aerial observation with the naked eye of fenced curtilage from 1,000 feet constitutes a 4A search.
+Rule: Observation from lawful navigable airspace with the naked eye of what is visible from that vantage point is not a search under the 4A.
+Rationale: Curtilage is protected, but that does not mean police must shield their eyes. If police are in a public vantage point where they have the right to be, and activities are visible, there’s no reasonable expectation of privacy. Any member of the public flying there could see the same.
+
+
+Florida v. Riley (Aerial View 400 Ft. Above)
+Issue: Whether the helicopter surveillance at 400 feet into curtilage structure constitutes a 4A search.
+Rule: If the observation is naked-eye, the area is visible from that vantage point, the flight is within lawful/safe operation, and the altitude is one where the public travels with sufficient regularity such that privacy expectations against that type of observation are not reasonable, especially absent contrary evidence from the defendant, then the activity at issue is not deemed a search within the meaning of the 4A.
+Rationale: The helicopter flight at 400 feet was lawful. Public helicopter flight is routine. No undue interference (noise/wind/dust/threat), and no intimate details observed. Even if the FAA legality may not be the test, the real Katz inquiry is whether the helicopter is at an altitude where the public travels with sufficient regularity such that privacy expectations are unreasonable. In the absence of proof demonstrating that such aerial presence is uncommon, the activity cannot be deemed a search within the meaning of the 4A.
+
+
+CA closely tracks the 4A: protection against unreasonable searches/seizures; warrants require probable cause plus oath plus particularity.
+
+
+CA’s Truth-in-Evidence provision states in substance that relevant evidence shall not be excluded in criminal cases, unless exclusion is required by the U.S. Constitution or by a qualifying statute.
