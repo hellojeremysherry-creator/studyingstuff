@@ -100,7 +100,7 @@ def main():
     use_git = (not args.use_os_rename) and is_git_repo(root)
 
     # Only rename .txt/.json (adjust if you want)
-    files = sorted([p for p in root.iterdir() if p.is_file() and p.suffix.lower() in {".txt", ".json"}])
+    files = sorted([p for p in root.iterdir() if p.is_file() and p.suffix.lower() in {".txt", ".json", ".md"}])
 
     mapping = []
     for f in files:
