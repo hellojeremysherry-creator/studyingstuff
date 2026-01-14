@@ -1,0 +1,115 @@
+Restat 2d of Contracts, § 354
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 2- Enforcement by Award of Damages        
+§ 354 Interest as Damages
+(1) If the breach consists of a failure to pay a definite sum in money or to render a performance with 
+fixed or ascertainable monetary value, interest is recoverable from the time for performance on the 
+amount due less all deductions to which the party in breach is entitled.
+(2) In any other case, such interest may be allowed as justice requires on the amount that would have 
+been just compensation had it been paid when performance was due.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Scope.  This Section deals with an injured party's right to interest as damages in compensation for the 
+deprivation of a promised performance.  Had the performance been rendered when it was due, the injured party 
+would have been able to make use of it.  Interest is a standardized form of compensation to the injured party for 
+the loss of that use, in the absence of agreement to the contrary.  It is payable without compounding at the rate, 
+commonly called the "legal rate," fixed by statute for this purpose.
+This Section does not deal with the injured party's right to interest to compensate him for expenditures 
+occasioned by the breach.  If, following an anticipatory repudiation, he loses the use of money through making 
+reasonable substitute arrangements, he is entitled to interest as incidental damages under the rule stated in § 
+347.  Nor does this Section deal with the injured party's right to interest under the terms of the contract.  If the 
+parties have agreed on the payment of interest, it is payable not as damages but pursuant to a contract duty 
+that is enforceable as is any other such duty, subject to legal restrictions on the rate of interest.  Nor does this 
+Section deal with interest on a judgment once rendered.
+b.  Performance must be due.  Interest is not payable as damages for non-performance until performance is 
+due.  If there is a period of time before performance is due, such as a definite or indefinite period of credit, 
+interest does not begin to run until the period is over.  If the performance is to be rendered on demand, interest 
+does not begin to run until a demand is made, even though an action might be maintained without a demand.  
+See Illustration 3 to § 226.  If the action itself is considered to be the required demand, interest begins to run 
+from the time the action is brought.  If the performance is subject to the occurrence of an event as a condition, 
+interest does not begin to run until that condition occurs or is excused.
+c.  Where amount due is sufficiently definite.  Under the rule stated in Subsection (1), a party is not chargeable 
+with interest on a sum unless its amount is fixed by the contract or he could have determined its amount with 
+reasonable certainty so that he could have made a proper tender.  Unless otherwise agreed, interest is always 
+recoverable for the non-payment of money once payment has become due and there has been a breach.  This 
+rule applies to debts due for money lent, goods sold or services performed, including installments due on a 
+construction contract.  The fact that the breach has spared some expense that is uncertain in amount does not 
+prevent the recovery of interest.  The sum due is sufficiently definite if it is ascertainable from the terms of the 
+contract, as where the contract fixes a price per unit of performance, even though the number of units 
+performed must be proved and is subject to dispute.  The same is true, even if the contract does not of itself 
+create a money debt, if it fixes a money equivalent of the performance.  It is also true, even if the contract does 
+not fix a money equivalent of the performance, if such an equivalent can be determined from established 
+market prices.  The fact that the extent of the performance rendered and the existence of the market price must 
+be proved by evidence extrinsic to the contract does not prevent the application of these rules.
+Illustrations:
+
+§ 354 Interest as Damages
+1.  A lends B $ 10,000 to be repaid in 30 days without interest.  B fails to pay the debt.  A sues B and recovers 
+$ 10,000.  A is also entitled to simple interest on the $ 10,000 at the legal rate from the date of maturity.
+2.  A contracts to sell B goods for $ 10,000 on 30 days credit, nothing being said as to interest.  A delivers the 
+goods but B fails to pay for them at the end of 30 days.  A sues B and recovers $ 10,000.  A is also entitled to 
+simple interest on the $ 10,000 at the legal rate from the expiration of the credit period.
+3.  A contracts to sell B all the berries to be grown on A's farm during one year for $ 5 a quart.  A delivers 2,000 
+quarts.  No part of the price is paid.  B wrongly claims that only 1,000 quarts were delivered and that they were 
+all paid for when received.  A sues B and recovers $ 10,000.  A is also entitled to simple interest on the $ 
+10,000 at the legal rate from the date when payment was due.
+4.  A contracts to sell machinery to B for $ 10,000, the price to be paid by B in wheat at the market price on July 
+1.  A delivers the machinery but B fails to deliver the wheat.  A sues B and recovers $ 10,000.  A is also entitled 
+to simple interest on the $ 10,000 at the legal rate from July 1.  The result would be the same if the price were 
+not expressed in dollars but in terms of 1,000 bushels of wheat to be delivered on July 1 and the market price 
+on that day was $ 10 a bushel.
+5.  On February 1 A makes a contract to sell a ship to B for $ 10,000,000, payment and delivery to be October 
+1.  On September 1, B repudiates the contract and A promptly makes a reasonable contract to resell the ship 
+for $ 8,000,000, payment and delivery to take place on October 1.  A sues B and recovers $ 2,000,000.  A is 
+entitled to simple interest on the $ 2,000,000 at the legal rate from October 1.
+6.  A contracts to cut and deliver to B 1 million feet of lumber from trees on B's land.  Delivery is to be by June 1 
+and the price is $ 100 per thousand feet payable on delivery.  After A has spent $ 30,000 in cutting the timber, 
+but before he has delivered any of it, B repudiates the contract.  As a result of his expenditure, A has $ 1,000 
+worth of materials left over that he can use on other contracts.  It would have cost A an additional $ 60,000 to 
+cut and deliver all of the timber.  A sues B and recovers $ 39,000.  See § 347.  A is entitled to simple interest on 
+the $ 39,000 at the legal rate from June 1.
+7.  A contracts to work for B at a weekly salary of $ 2,000.  B wrongfully discharges A ten weeks before the 
+contract ends and refuses to pay A anything for the four weeks preceding the discharge.  By reasonable efforts, 
+A can find similar work paying $ 1,500 a week for the last ten weeks.  A sues B and recovers $ 2,000 for each 
+of the first four weeks and $ 500 for each of the last ten, or $ 13,000.  A is entitled to simple interest on each 
+instalment at the legal rate from the date that it was payable.
+d.  Discretionary in other cases.  Damages for breach of contract include not only the value of the promised 
+performance but also compensation for consequential loss.  The amount to be awarded for such loss is often 
+very difficult to estimate in advance of trial and cannot be determined by the party in breach with sufficient 
+certainty to enable him to make a proper tender.  In such cases, the award of interest is left to judicial 
+discretion, under the rule stated in Subsection (2), in the light of all the circumstances, including any 
+deficiencies in the performance of the injured party and any unreasonableness in the demands made by him.
+Illustrations:
+8.  A sells seed to B, warranting that it is Bristol cabbage seed.  It is an inferior type of cabbage seed instead, 
+and B suffers a loss of profit.  B sues A and recovers $ 10,000, the difference between the value to B of a crop 
+of Bristol cabbage and the crop actually grown.  That amount was not, however, sufficiently definite to give B a 
+right to interest on it.  The allowance of interest is in the discretion of the court.
+9.  A contracts to build a bungalow for B for $ 30,000.  After completion but before B has paid the final $ 6,000, 
+B occupies the bungalow but refuses to pay the balance because the workmanship and materials are 
+unsatisfactory.  A sues B and recovers only $ 4,000 on the ground that B's claim entitles him to compensation 
+in the amount of $ 2,000.  The sum of $ 4,000 was not sufficiently definite to give A a right to interest on it.  The 
+allowance of interest is within the discretion of the court.  The fact that A was himself in breach will be 
+considered.
+REPORTER'S NOTES
+This Section is based on former § 337.  See 5 Corbin, Contracts § 1045-52 (1964 & Supp. 1980); 11 Williston, 
+Contracts § 1412-17 (3d ed. 1968); Note, 8 Cum. L. Rev. 521 (1977).
+
+§ 354 Interest as Damages
+Comment c.  Illustrations 1 and 2 are based on Illustrations 1 and 2 to former § 337.  Illustration 3 is based on 
+Illustration 3 to former § 337; cf.  Paradise Homes v. Central Sur. & Ins. Co., 84 Nev. 109, 437 P.2d 78 (1968). 
+Illustration 4 is based on Illustrations 4 and 5 to former § 337.  Illustrations 5, 6 and 7 are based on Illustrations 
+6, 7 and 8 to former § 337.
+Comment d.  Illustrations 8 and 9 are based on Illustrations 9 and 10 to former § 337.  See also Hussey Metals 
+Div. v. Lectromelt Furnace Div., 417 F. Supp. 964 (W.D. Pa. 1976), aff'd mem., 556 F.2d 566 (3d Cir. 1977).
+Cross Reference
+ALR Annotations:
+Measure of damages recoverable by loan broker for breach of contract.  67 A.L.R.3d 1069.
+Comment Note. -- Allowance of prejudgment interest on builder's recovery in action for breach of construction 
+contract.  60 A.L.R.3d 487.
+Interest as element of damages recoverable in action for breach of contract for the sale of a commodity.  4 
+A.L.R.2d 1388.
+Digest System Key Numbers:
+Damages 68
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

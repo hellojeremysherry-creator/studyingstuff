@@ -1,0 +1,235 @@
+Restat 2d of Contracts, § 161
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 161 When Non-Disclosure Is Equivalent to an Assertion
+A person's non-disclosure of a fact known to him is equivalent to an assertion that the fact does not 
+exist in the following cases only:
+(a)  where he knows that disclosure of the fact is necessary to prevent some previous assertion from 
+being a misrepresentation or from being fraudulent or material.
+(b)  where he knows that disclosure of the fact would correct a mistake of the other party as to a basic 
+assumption on which that party is making the contract and if non-disclosure of the fact amounts to a 
+failure to act in good faith and in accordance with reasonable standards of fair dealing.
+(c)  where he knows that disclosure of the fact would correct a mistake of the other party as to the 
+contents or effect of a writing, evidencing or embodying an agreement in whole or in part.
+(d)  where the other person is entitled to know the fact because of a relation of trust and confidence 
+between them.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Concealment distinguished.  Like concealment, non-disclosure of a fact may be equivalent to a 
+misrepresentation.  Concealment necessarily involves an element of non-disclosure, but it is the act of 
+preventing another from learning of a fact that is significant and this act is always equivalent to a 
+misrepresentation (§ 160).  Non-disclosure without concealment is equivalent to a misrepresentation only in 
+special situations.  A party making a contract is not expected to tell all that he knows to the other party, even if 
+he knows that the other party lacks knowledge on some aspects of the transaction.  His nondisclosure, as such, 
+has no legal effect except in the situations enumerated in this Section.  He may not, of course, tell half-truths 
+and his assertion of only some of the facts without the inclusion of such additional matters as he knows or 
+believes to be necessary to prevent it from being misleading is itself a misrepresentation.  See Comment a to § 
+159.  In contrast to the rule applicable to liability in tort for misrepresentation, it is not enough, where disclosure 
+is expected, merely to make reasonable efforts to disclose the relevant facts.  Actual disclosure is required.  
+Compare Restatement, Second, Torts § 551, Comment d.
+b.  Fraudulent or material.  In order to make the contract voidable under the rule stated in § 164(1), the non-
+disclosure must be either fraudulent or material.  The notion of disclosure necessarily implies that the fact in 
+question is known to the person expected to disclose it.  But the failure to disclose the fact may be 
+unintentional, as when one forgets to disclose a known fact, and it is then equivalent to an innocent 
+misrepresentation.  Furthermore, one is expected to disclose only such facts as he knows or has reason to 
+know will influence the other in determining his course of action.  See § 162(2).  Therefore, he need not 
+disclose facts that the ordinary person would regard as unimportant unless he knows of some peculiarity of the 
+other person that is likely to lead him to attach importance to them.  There is, however, no such requirement of 
+materiality if it can be shown that the non-disclosure was actually fraudulent.  If a fact is intentionally withheld 
+for the purpose of inducing action, this is equivalent to a fraudulent misrepresentation.
+c.  Failure to correct.  One who has made an assertion that is neither a fraudulent nor a material 
+misrepresentation may subsequently acquire knowledge that bears significantly on his earlier assertion.  He is 
+expected to speak up and correct the earlier assertion in three cases.  First, if his assertion was not a 
+
+§ 161 When Non-Disclosure Is Equivalent to an Assertion
+misrepresentation because it was true, he may later learn that it is no longer true.  See Illustration 1.  Second, 
+his assertion may have been a misrepresentation but may not have been fraudulent.  If this was because he 
+believed that it was true, he may later learn that it was not true.  See Illustration 2.  If this was because he did 
+not intend that it be relied upon, he may later learn that the other is about to rely on it.  See Illustration 3.  Third, 
+if his assertion was a misrepresentation but was not material because he had no reason to know of the other's 
+special characteristics that made reliance likely, he may later learn of such characteristics.  If a person fails to 
+correct his earlier assertion in these situations, the result is the same as it would have been had he had his 
+newly acquired knowledge at the time he made the assertion.  The rule stated in Clause (a), like that stated in 
+Clause (d), extends to non-disclosure by persons who are not parties to the transaction.
+Illustrations:
+1.  A makes to B, a credit rating company, a true statement of his financial condition, intending that its 
+substance be published to B's subscribers.  B summarizes the information and transmits the summary to C, a 
+subscriber.  Shortly thereafter, A's financial condition becomes seriously impaired, but he does not disclose this 
+to B.  C makes a contract to lend money to A.  A's non-disclosure is equivalent to an assertion that his financial 
+condition is not seriously impaired, and this assertion is a misrepresentation.  Whether the contract is voidable 
+by B is determined by the rule stated in § 164.
+2.  A, seeking to induce B to make a contract to buy a thoroughbred mare, tells B that the mare is in foal to a 
+well-known stallion.  Unknown to A, the mare has miscarried.  A learns of the miscarriage but does not disclose 
+it to B.  B makes the contract.  A's non-disclosure is equivalent to an assertion that the mare has not miscarried, 
+and this assertion is a misrepresentation.  Whether the contract is voidable by B is determined by the rule 
+stated in § 164.
+3.  A, in casual conversation with B, tells B that a tract of land owned by A contains thirty acres.  A knows that it 
+contains only twenty-nine acres but misstates its area because he does not regard the figure as important.  A's 
+statement is not fraudulent because it is not made with the intention of inducing B to buy the land (§ 162(1)).  B 
+later offers to buy the tract from A.  A does not disclose its true area to B, for fear that B will not buy it, and 
+accepts B's offer.  A's non-disclosure is equivalent to a new assertion that the tract contains thirty acres, and 
+this assertion is a fraudulent misrepresentation (§ 162(1)).  Whether the contract is voidable by B is determined 
+by the rule stated in § 164.
+d.  Known mistake as to a basic assumption.  In many situations, if one party knows that the other is mistaken 
+as to a basic assumption, he is expected to disclose the fact that would correct the mistake.  A seller of real or 
+personal property is, for example, ordinarily expected to disclose a known latent defect of quality or title that is 
+of such a character as would probably prevent the buyer from buying at the contract price.  An owner is 
+ordinarily expected to disclose a known error in a bid that he has received from a contractor.  See Comment e 
+to § 153.  The mistake must be as to a basic assumption, as is also required by the rules on mistake stated in § 
+152 (see Illustrations 4, 5 and 6) and § 153 (see Illustrations 8 and 9).  The rule stated in Clause (b), is, 
+however, broader than these rules for mistake because it does not require a showing of a material effect on the 
+agreed exchange and is not affected by the fact that the party seeking relief bears the risk of the mistake (§ 
+154).  Nevertheless, a party need not correct all mistakes of the other and is expected only to act in good faith 
+and in accordance with reasonable standards of fair dealing, as reflected in prevailing business ethics.  A party 
+may, therefore, reasonably expect the other to take normal steps to inform himself and to draw his own 
+conclusions.  If the other is indolent, inexperienced or ignorant, or if his judgment is bad or he lacks access to 
+adequate information, his adversary is not generally expected to compensate for these deficiencies.  A buyer of 
+property, for example, is not ordinarily expected to disclose circumstances that make the property more 
+valuable than the seller supposes.  Compare Illustrations 10 and 11.  In contrast to the rules stated in Clauses 
+(a) and (d), that stated in Clause (b) is limited to non-disclosure by a party to the transaction.  Actual knowledge 
+is required for the application of the rule stated in Clause (b).  The case of a party whodoes not know but has 
+reason to know of a mistake is governed by the rule stated in § 153(b).  As to knowledge in the case of an 
+organization, see the analogous rule in Uniform Commercial Code § 1-201(27).
+Illustrations:
+4.  A, seeking to induce B to make a contract to buy land, knows that B does not know that the land has been 
+filled with debris and covered but does not disclose this to B.  B makes the contract.  A's non-disclosure is 
+
+§ 161 When Non-Disclosure Is Equivalent to an Assertion
+equivalent to an assertion that the land has not been filled with debris and covered, and this assertion is a 
+misrepresentation.  Whether the contract is voidable by B is determined by the rule stated in § 164.
+5.  A, seeking to induce B to make a contract to buy A's house, knows that B does not know that the house is 
+riddled with termites but does not disclose this to B.  B makes the contract.  A's non-disclosure is equivalent to 
+an assertion that the house is not riddled with termites, and this assertion is a misrepresentation.  Whether the 
+contract is voidable by B is determined by the rule stated in § 164.
+6.  A, seeking to induce B to make a contract to buy a food-processing business, knows that B does not know 
+that the health department has given repeated warnings that a necessary license will not be renewed unless 
+expensive improvements are made but does not disclose this to B.  B makes the contract.  A's non-disclosure is 
+equivalent to an assertion that no warnings have been given by the health department, and this assertion is a 
+misrepresentation.  Whether the contract is voidable by B is determined by the rule stated in § 164.
+7.  A, seeking to induce B to make a contract to sell land, knows that B does not know that the land has 
+appreciably increased in value because of a proposed shopping center but does not disclose this to B.  B 
+makes the contract.  Since B's mistake is not one as to a basic assumption (see Comment b to § 152 and 
+Comment b to § 261), A's non-disclosure is not equivalent to an assertion that the value of the land has not 
+appreciably increased, and this assertion is not a misrepresentation.  The contract is not voidable by B.  See 
+Illustration 13.
+8.  In response to B's invitation for bids on the construction of a building according to stated specifications, A 
+submits an offer to do the work for $ 150,000.  A believes that this is the total of a column of figures, but he has 
+made an error by inadvertently omitting a $ 5,000 item, and in fact the total is $ 155,000.  B knows this but 
+accepts A's bid without disclosing it.  B's non-disclosure is equivalent to an assertion that no error has been 
+made in the total, and this assertion is a misrepresentation.  Whether the contract is voidable by A is 
+determined by the rule stated in § 164.  See Illustrations 1 and 2 to § 153.  See also Comment a to § 167.
+9.  In answer to an inquiry from "J. B. Smith Company," A offers to sell goods for cash on delivery.  A 
+mistakenly believes that the offeree is John B. Smith, who has an established business of good repute, but in 
+fact it is a business run by his son, with whom A has refused to deal because of previous disputes.  The son 
+learns of A's mistake but accepts A's offer without disclosing his identity.  The son's non-disclosure is equivalent 
+to an assertion that the business is run by the father, and this assertion is a misrepresentation.  Whether the 
+contract is voidable by A is determined by the rule stated in § 164.  See Illustration 11 to § 153.  See also 
+Comment a to § 167.
+10.  A, seeking to induce B to make a contract to sell A land, learns from government surveys that the land 
+contains valuable mineral deposits and knows that B does not know this, but does not disclose this to B.  B 
+makes the contract.  A's non-disclosure does not amount to a failure to act in good faith and in accordance with 
+reasonable standards of fair dealing and is therefore not equivalent to an assertion that the land does not 
+contain valuable mineral deposits.  The contract is not voidable by B.
+11.  The facts being otherwise as stated in Illustration 10, A learns of the valuable mineral deposits from 
+trespassing on B's land and not from government surveys.  A's non-disclosure is equivalent to an assertion that 
+the land does not contain valuable mineral deposits, and this assertion is a misrepresentation.  Whether the 
+contract is voidable by B is determined by the rule stated in § 164.
+e.  Known mistake as to a writing.  One party cannot hold the other to a writing if he knew that the other was 
+mistaken as to its contents or as to its legal effect.  He is expected to correct such mistakes of the other party 
+and his failure to do so is equivalent to a misrepresentation, which may be grounds either for avoidance under § 
+164 or for reformation under § 166.  (Compare the rule on reformation for mistake of both parties as to their 
+written expression stated in § 155.  See Comment a to § 155.) The failure of a party to use care in reading the 
+writing so as to discover the mistake may not preclude such relief (§ 172).  In the case of standardized 
+agreements, these rules supplement that of § 211(3), which applies, regardless of actual knowledge, if there is 
+reason to believe that the other party would not manifest assent if he knew that the writing contained a 
+particular term.  Like the rule stated in Clause (b), that stated in Clause (c) requires actual knowledge and is 
+limited to non-disclosure by a party to the transaction.  See Comment d.
+Illustration:
+
+§ 161 When Non-Disclosure Is Equivalent to an Assertion
+12.  A, seeking to induce B to make a contract to sell a tract of land to A for § 100,000, makes a written offer to 
+B.  A knows that B mistakenly thinks that the offer contains a provision under which A assumes an existing 
+mortgage, and he knows that it does not contain such a provision but does not disclose this to B.  B signs the 
+writing, which is an integrated agreement.  A's non-disclosure is equivalent to an assertion that the writing 
+contains such a provision, and this assertion is a misrepresentation.  Whether the contract is voidable by B is 
+determined by the rule stated in § 164.  Whether, at the request of B, the court will decree that the writing be 
+reformed to add the provision for assumption is determined by the rule stated in § 166.  See Illustration 4 to § 
+166.
+f.  Relation of trust and confidence.  The rule stated in Clause (d) supplements that stated in § 173 with respect 
+to contracts between parties in a fiduciary relation.  Where the latter rule applies, as in the case of a trustee, an 
+agent, a guardian, or an executor or administrator, its more stringent requirements govern.  Even where a party 
+is not, strictly speaking, a fiduciary, he may stand in such a relation of trust and confidence to the other as to 
+give the other the right to expect disclosure.  Such a relationship normally exists between members of the same 
+family and may arise, in other situations as, for example, between physician and patient.  In addition, some 
+types of contracts, such as those of suretyship or guaranty, marine insurance and joint adventure, are 
+recognized as creating in themselves confidential relations and hence as requiring the utmost good faith and 
+full and fair disclosure.  As to contracts of suretyship, see Restatement of Security § 124.
+The rule stated in Clause (d) is not limited to cases in which the non-disclosure is by a party to the transaction.  
+In contrast, the rule stated in § 173 applies only to non-disclosure by a fiduciary who is a party.  Therefore the 
+rule stated in Clause (d) covers the residual case of a fiduciary who is not a party.  As to the duty of a trustee to 
+disclose to his beneficiary matters important for him to know in dealing with others, see Restatement, Second, 
+Trusts § 173, Comment d.  As to the duty of an agent to disclose to his principal matters important for him to 
+know in dealing with others, see Restatement, Second, Agency § 381.
+Illustration:
+13.  A, who is experienced in business, has raised B, a young man, in his household, and B has habitually 
+followed his advice, although A is neither his parent nor his guardian.  A, seeking to induce B to make a 
+contract to sell land to A, knows that the land has appreciably increased in value because of a planned 
+shopping center but does not disclose this to B.  B makes the contract.  A's non-disclosure is equivalent to an 
+assertion that the value of the land has not appreciably increased, and this assertion is a misrepresentation.  
+Whether the contract is voidable by B is determined by the rule stated in § 164.  See Illustration 7.
+REPORTER'S NOTES
+This Section is based on former §§ 471(c) and 472; cf. Restatement, Second, Torts § 551.  See 12 Williston, 
+Contracts §§ 1497-99 (3d ed. 1970); Keeton, Fraud -- Concealment and Non-Disclosure, 15 Tex. L. Rev. 1 
+(1936).
+Comment c.  See James & Gray, Misrepresentation -- Part II, 37 Md. L. Rev. 488, 525-26 n. 13 (1978). 
+Illustration 1 is based on Illustration 2 to Restatement, Second, Torts § 551.  In Bursey v. Clement, 118 N.H. 
+412, 387 A.2d 346 (1978), a real estate contract and conveyance were held subject to rescission when, after a 
+change in a building permit policy, a defendant failed to correct his previously accurate statement that no "no 
+growth" legislation was planned.  Illustration 2 is supported by Illustration 1 to Restatement, Second, Torts § 
+551.  Illustration 3 is based on Illustrations 1 and 3 to former § 472.
+Comment d.  See James & Gray, Misrepresentation -- Part II, 37 Md. L. Rev. 488, 526-27 (1978); Kronman, 
+Mistake, Disclosure, Information, and the Law of Contracts, 7 J. Leg. Studies 1 (1978).  Kronman's thesis is that 
+the right not to disclose socially useful information is a property right and that "the law tends to recognize a right 
+of this sort where the information is the result of a deliberate and costly search and not to recognize it where the 
+information has been casually acquired." Id. at 33.  Kronman, however, does not consider whether it is relevant 
+that the other party may lack the resources for such a "deliberate and costly search." Illustration 4 is based on 
+Clauser v. Taylor, 44 Cal. App.2d 453, 112 P.2d 661 (1941); cf.  Lawson v. Citizens & Southern Nat'l Bank, 255 
+S.C. 517, 180 S.E.2d 206 (1971), appeal after remand, 259 S.C. 477, 193 S.E.2d 124 (1972); Loghry v. Capel, 
+257 Iowa 285, 132 N.W.2d 417 (1965). Illustration 5 is based on Illustration 3 to Restatement, Second, Torts § 
+551; Obde v. Schlemeyer, 56 Wash.2d 449, 353 P.2d 672 (1960); cf.  Weikel v. Sterns, 142 Ky. 513, 134 S.W. 
+908 (1911); Perkins v. Marsh, 179 Wash. 362, 37 P.2d 689 (1934). Contra: Hendrick v. Lynn, 37 Del. Ch. 402, 
+
+§ 161 When Non-Disclosure Is Equivalent to an Assertion
+144 A.2d 147 (1958); Swinton v. Whitinsville Sav. Bank, 311 Mass. 677, 42 N.E.2d 808 (1942). See Annot., 22 
+A.L.R.3d 972 (1968). Illustration 6 is based on Peterson v. Arellono, 289 Minn. 541, 185 N.W.2d 282 (1971); cf.  
+Musgrave v. Lucas, 193 Or. 401, 238 P.2d 780 (1951); Nader v. Allegheny Airlines, 445 F. Supp. 168, 173-76 
+(D.D.C. 1978). Illustration 7 is based on Illustration 4 to former § 472.  Illustration 8 is based on Conlan v. 
+Sullivan, 110 Cal. 624, 42 P. 1081 (1895); Tyra v. Cheney, 129 Minn. 428, 152 N.W. 835 (1915); cf. Illustration 
+2 to former § 472; United States v. Jones, 176 F.2d 278 (9th Cir. 1949); Kemp v. United States, 38 F. Supp. 
+568 (D. Md. 1968). Compare Illustrations 8 and 9 to Restatement of Restitution § 11.  Illustration 9 is based on 
+Boston Ice Co. v. Potter, 123 Mass. 28 (1877); Klein v. Tabatchnick, 418 F. Supp. 1368, 1375-76 (S.D.N.Y. 
+1976); cf. Illustration 4 to former § 471.  Illustration 10 is based on Caples v. Steel, 7 Or. 491 (1879); Harris v. 
+Tyson, 24 Pa. 347 (1855); Neill v. Shamburg, 158 Pa. 263, 27 A. 992 (1893). Cf.  Leitch Gold Mines v. Texas 
+Gulf Sulphur, 1 Ont. 469 (1969); Kronman, supra at 19-22.  Illustration 11 is supported by Phillips v. Homfray, 
+L.R. 6 Ch. Rep. 770 (1871); Keeton, Fraud-- Concealment and Non-Disclosure, 15 Tex. L. Rev. 1, 25-26 
+(1936); 12 Williston, Contracts § 1498 (3d ed. 1970).
+Comment e.  With respect to avoidance, Illustration 12 is supported by Hollywood Credit Clothing Co. v. 
+Gibson, 188 A.2d 348 (D.C. App. 1963); Bixler v. Wright, 116 Me. 133, 100 A. 467 (1917); see also Illustration 5 
+to former § 471.  With respect to reformation, Illustration 12 is supported by Illustration 1 to former § 505; Hugo 
+v. Erickson, 110 Neb. 602, 194 N.W. 723 (1923); Webb v. Culver, 265 Or. 467, 509 P.2d 1173 (1973); cf.  
+Bleyer v. Veeder, 119 N.J. Eq. 398, 183 A.2d 203 (1936). On the "duty" to read, see Reporter's Note to 
+Comment e to § 23.
+Comment f.  See James & Gray, Misrepresentation -- Part II, 37 Md. L. Rev. 488, 524-25 (1978). Illustration 13 
+is based on Illustration 5 to former § 472; cf.  Sellers v. Sellers, 428 P.2d 230 (Okl. 1967). Compare Eaton v. 
+Sontag, 387 A.2d 33 (Me. 1978) (fifteen years' social friendship alone does not create "confidential 
+relationship").
+Cross Reference
+ALR Annotations:
+Fraud predicated on vendor's misrepresentation or concealment of danger or possibility of flooding or other 
+unfavorable water conditions.  90 A.L.R.3d 568.
+Duty of vendor of real estate to give purchaser information as to termite infestation.  22 A.L.R.3d 972.
+Digest System Key Numbers:
+Contracts 94(8)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

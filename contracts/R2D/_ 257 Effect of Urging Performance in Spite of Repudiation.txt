@@ -1,0 +1,42 @@
+Restat 2d of Contracts, § 257
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 3- Effect of Prospective Non-Performance        
+§ 257 Effect of Urging Performance in Spite of Repudiation
+The injured party does not change the effect of a repudiation by urging the repudiator to perform in 
+spite of his repudiation or to retract his repudiation.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Effects of rule.  Although the effects of a repudiation may be nullified as stated in § 256, a repudiation 
+operates until nullified not only as a breach (§ 253(1)), but as a ground for discharge (§ 253(2)) and for excuse 
+of the non-occurrence of a condition (§ 255).  Under the rule stated in this Section, these effects continue 
+although the injured party has urged that the repudiator perform or that he retract his repudiation.  This rule is in 
+accord with that of Uniform Commercial Code § 2-610(b), which allows the injured party to "resort to any 
+remedy for breach . . . even though he has notified the repudiating party that he would await the latter's 
+performance and has urged retraction." Any possibility that the injured party might unfairly mislead the 
+repudiator is avoided by the duty of good faith and fair dealing (§ 205).  An injured party who continues to 
+perform in spite of a repudiation may, however, be precluded under § 350 from claiming damages for loss that 
+he could have avoided.
+Illustration:
+1.  A contracts to sell and B to buy a parcel of land for $ 50,000, delivery of the deed and payment of the price 
+to be on July 1.  On June 1, A repudiates the contract.  B writes A urging him to perform, but A does not reply.  
+B thereupon buys another parcel of land in its place and makes no conditional offer of the $ 50,000 on July 1.  
+A, however, having changed his mind makes a conditional offer of a deed on July 1.  B has a claim against A 
+for damages for total breach.  A has no claim against B.
+REPORTER'S NOTES
+Comment a.  This Section is based on former § 320 and conforms to Uniform Commercial Code § 2-610(b).  
+The justification for the rule is discussed in Bu-Vi-Bar Petroleum Corp. v. Krow, 40 F.2d 488 (10th Cir. 1930), 
+cited with approval in Builder's Concrete Co. v. Fred Faubel and Sons, 58 Ill. App.3d 100, 15 Ill. Dec. 517, 373 
+N.E.2d 863 (1978). See 4 Corbin, Contracts § 981 (1951 & Supp. 1980); 11 Williston, Contracts §§ 1333, 1334 
+(3d ed. 1968).  Illustration 1 is based on Illustration 1 to former § 320.  See William B. Tanner Co. v. WIOO, 
+Inc., 528 F.2d 262, 270-71 (3d Cir. 1975) (citing the Tentative Draft of this Section); Cramer v. White, 546 
+S.W.2d 918 (Tex. Civ. App. 1977), ref. n.r.e.; Sawyer Farmers Coop. v. Linke, 231 N.W.2d 791 (N.D. 1975). 
+See also Rosett, Contract Performance: Promises, Conditions and the Obligation to Communicate, 22 U.C.L.A. 
+L. Rev. 1083 (1975).
+Cross Reference
+Digest System Key Numbers:
+Contracts 316
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+
+§ 257 Effect of Urging Performance in Spite of Repudiation
+End of Document

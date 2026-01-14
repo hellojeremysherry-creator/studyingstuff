@@ -1,0 +1,57 @@
+Restat 2d of Contracts, § 24
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 3- Making of Offers        
+§ 24 Offer Defined
+An offer is the manifestation of willingness to enter into a bargain, so made as to justify another person 
+in understanding that his assent to that bargain is invited and will conclude it.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Offer as promise.  An offer may propose an executed sale or barter rather than a contract, or it may propose 
+the exchange of a promise for a performance or an exchange of promises, or it may propose two or more such 
+transactions in combination or in the alternative.  In the normal case of an offer of an exchange of promises, or 
+in the case of an offer of a promise for an act, the offer itself is a promise, revocable until accepted.  There may 
+also be an offer of a performance, to be exchanged either for a return promise (§ 55) or for a return 
+performance; in such cases the offer is not necessarily a promise, but there are often warranties or other 
+incidental promises.
+Illustration:
+1.  A says to B, "That book you are holding is yours if you promise to pay me $ 5 for it." This is an offer 
+empowering B, by making the requested promise, to make himself owner of the book and thus complete A's 
+performance.  In that event there is also an implied warranty of title made by A.  See Uniform Commercial Code 
+§§ 2-312, 2-401.
+b.  Proposal of contingent gift.  A proposal of a gift is not an offer within the present definition; there must be an 
+element of exchange.  Whether or not a proposal is a promise, it is not an offer unless it specifies a promise or 
+performance by the offeree as the price or consideration to be given by him.  It is not enough that there is a 
+promise performable on a certain contingency.
+Illustration:
+2.  A promises B $ 100 if B goes to college.  If the circumstances give B reason to know that A is not 
+undertaking to pay B to go to college but is promising a gratuity, there is no offer.
+c.  Offer as contract.  A promise made by the offeror as part of his offer may itself be a contract.  Such a 
+contract is commonly called an "option".  See § 25.
+REPORTER'S NOTES
+This Section is rewritten from former § 24.  See 1 Williston, Contracts §§ 24-25 (3d ed. 1957); 1 Corbin, 
+Contracts § 11 (1963 & Supp. 1980); Murray, Contracts § 24 (1977).  See also Goble, The Non-Promissory 
+Offer, 48 Nw. U.L. Rev. 590 (1953).
+Comment a.  That the key concept involves giving the addressee the apparent power to conclude a contract 
+without further action by the other party, see Maryland Supreme Corp. v. Blake Co., 279 Md. 531, 369 A.2d 
+1017 (1977); Coffman Indus. v. Gorman-Taber Co., 521 S.W.2d 763 (Mo. Ct. App. 1975). A proposal of a 
+contract made subject to the approval of the proposer's husband was held not an offer in Dillon v. AFBIC Dev. 
+Corp., 420 F. Supp. 572 (S.D. Ala. 1976), aff'd in part, reversed in part, 597 F.2d 556 (5th Cir. 1979). In 
+Steinberg v. Chicago Medical School, 69 Ill.2d 320, 13 Ill. Dec. 699, 371 N.E.2d 634 (1977), a medical school's 
+brochure was held not an offer, but an application for admission was, with the terms of the offer adopted by 
+implication from the brochure.  For a close case on the borderline between an offer and an invitation to 
+negotiate, see Southworth v. Oliver, 284 Or. 361, 587 P.2d 994 (1978), citing this Section in Tentative Draft.  
+See also cases cited in § 26.  Illustration 1 is based on Illustration 1 to former § 24.
+Comment b.  Illustration 2 is based on Illustration 3 to former § 24.
+
+§ 24 Offer Defined
+Comment c.  For an unsuccessful attempt to turn an offer into an option contract because a seal followed the 
+offeror's signature, see Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 (1966).
+Cross Reference
+ALR Annotations:
+Tenant's rights under unexercised option to purchase as affected by landlord's breach of lease or lease 
+agreement.  12 A.L.R.3d 1128.
+Digest System Key Numbers:
+Contracts 16
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

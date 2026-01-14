@@ -1,0 +1,53 @@
+Restat 2d of Contracts, § 293
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 293 Effect of Performance or Satisfaction on Co-Promisors
+Full or partial performance or other satisfaction of the contractual duty of a promisor discharges the 
+duty to the obligee of each other promisor of the same performance to the extent of the amount or 
+value applied to the discharge of the duty of the promisor who renders it.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  This Section makes explicit what is meant by "promises of the same performance": performance 
+by any one of the promisors discharges the duty of the others.  See § 288.  Satisfaction by the acceptance of a 
+substituted performance (§ 278) has the same effect, since the promisee or beneficiary has a right only to the 
+single performance or to an agreed equivalent.  For this purpose it does not matter whether the promisors are 
+bound jointly, severally, or jointly and severally.  One of the promisors is not permitted by a subsequent 
+agreement with a promisee or beneficiary to confer on him a right against the other promisors to receive more 
+than was originally promised.  A release (§ 284) or contract not to sue (§ 285) is not of itself satisfaction within 
+the meaning of this Section, but is dealt with in §§ 294 and 295.
+Illustrations:
+1.  A borrows $ 100 from D for the common benefit of A, B and C in equal shares, and A, B and C promise that 
+D will be repaid.  A pays $ 25 to D pursuant to an express agreement that it shall apply only to A's duty and 
+shall not limit D's rights against B or C.  D's rights against B and C, as well as his right against A, are reduced 
+by $ 25.
+2.  The facts being otherwise as stated in Illustration 1, A delivers to D a set of books worth $ 25, and D accepts 
+the books in full satisfaction of A's duty.  A, B and C are discharged.
+3.  The facts being otherwise as stated in Illustration 1, A delivers to D a set of books worth $ 200, and D 
+accepts the books in satisfaction of $ 25 of A's duty.  D's rights againstB and C, as well as his right against A, 
+are reduced by $ 25.
+4.  A, B and C are bound jointly, or jointly and severally, to D for the payment of an unliquidated claim.  A and B 
+agree with D to liquidate the claim at $ 100, reserving C's rights.  D subsequently sues C on the claim, recovers 
+a judgment for $ 75 without prejudice to his claim against A and B, and collects $ 75 from C.  The liability of A 
+and B is reduced to $ 25.
+b.  "Obligee."  The word "obligee" is used in this Section and in succeeding sections of this Chapter to include 
+both a promisee and a beneficiary who under the rules of §§ 302-15 has the right to enforce a promise.
+REPORTER'S NOTES
+This Section embodies Subsections (1) and (2) of former § 120, eliminating the provision for contrary 
+agreement in the case of several promisors found in former Subsection (3)(a).  See Reporter's Note to § 294 
+Comment g.  The subject matter of former Subsection (3)(b) is transferred to §§ 294 and 295.
+See Williams, Joint Obligations §§ 42, 45-59 (1949); 2 Williston, Contracts §§ 332, 335, 341 (3d ed. 1959); 4 
+Corbin, Contracts §§ 935-37 (1951); Havighurst, The Effect of a Settlement with One Co-Obligor upon the 
+Obligations of the Others, 45 Cornell L.Q. 1 (1959).
+Comment a.  Illustration 1 is a revision of Illustration 1 to former § 120, and Illustrations 2 and 3 revise and 
+combine Illustrations 2, 3 and 4 to former § 120.  Compare Turner v. Wexler, 14 Wash. App. 143, 538 P.2d 877 
+(1975) (forfeiture of promisors' interest equals performance, and thus discharges co-promisors).  Illustration 4 is 
+
+§ 293 Effect of Performance or Satisfaction on Co-Promisors
+new.  Distinctions between joint duties and several duties are eliminated, and illustrations of valid contrary 
+agreements are transferred to the Comments to Sections 294 and 295.
+Cross Reference
+Digest System Key Numbers:
+Contracts 280
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

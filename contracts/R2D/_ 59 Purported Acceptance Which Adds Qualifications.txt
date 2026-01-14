@@ -1,0 +1,56 @@
+Restat 2d of Contracts, § 59
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 59 Purported Acceptance Which Adds Qualifications
+A reply to an offer which purports to accept it but is conditional on the offeror's assent to terms 
+additional to or different from those offered is not an acceptance but is a counter-offer.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Qualified acceptance.  A qualified or conditional acceptance proposes an exchange different from that 
+proposed by the original offeror.  Such a proposal is a counter-offer and ordinarily terminates the power of 
+acceptance of the original offeree.  See § 39.  The effect of the qualification or condition is to deprive the 
+purported acceptance of effect.  But a definite and seasonable expression of acceptance is operative despite 
+the statement of additional or different terms if the acceptance is not made to depend on assent to the 
+additional or different terms.  See § 61; Uniform Commercial Code § 2-207(1).  The additional or different terms 
+are then to be construed as proposals for modification of the contract.  See Uniform Commercial Code § 2-
+207(2).  Such proposals may sometimes be accepted by the silence of the original offeror.  See § 69.
+Illustration:
+1.  A makes an offer to B, and B in terms accepts but adds, "This acceptance is not effective unless prompt 
+acknowledgement is made of receipt of this letter." There is no contract, but a counter-offer.
+b.  Statement of conditions implied in offer.  To accept, the offeree must assent unconditionally to the offer as 
+made, but the fact that the offeree makes a conditional promise is not sufficient to show that his acceptance is 
+conditional.  The offer itself may either expressly or by implication propose that the offeree make a conditional 
+promise as his part of the exchange.  By assenting to such a proposal the offeree makes a conditional promise, 
+but his acceptance is unconditional.  The offeror's promise may also be conditional on the same or a different 
+fact or event.
+Illustrations:
+2.  A makes a written offer to sell B a patent in exchange for B's promise to pay $ 10,000 if B's adviser X 
+approves the purchase.  B signs the writing in a space labelled "Accepted:" and returns the writing to A.  B has 
+made a conditional promise and an unconditional acceptance.  There is a contract, but B's duty to pay the price 
+is conditional on X's approval.
+3.  A makes a written offer to B to sell him Blackacre.  By usage the offer is understood as promising a 
+marketable title.  B replies, "I accept your offer if you can convey me a marketable title." There is a contract.
+REPORTER'S NOTES
+This Section is based on former § 60.  See 1 Williston, Contracts §§ 77-78 (3d ed. 1957); 1 Corbin, Contracts 
+§§ 82-87 (1963 & Supp. 1980).
+Comment a.  For a statement of the basic "mirror image" rule, see Poel v. Brunswick-Balke-Collender Co., 216 
+N.Y. 310, 110 N.E. 619 (1915), rearg. denied, 216 N.Y. 771, 111 N.E. 1098 (1916); Maddox v. Northern Natural 
+Gas Co., 259 F. Supp. 781 (W.D. Okl. 1966); Kurio v. United States, 429 F. Supp. 42, 66-67 (S.D. Tex. 1970). 
+On the interplay of this rule with Uniform Commercial Code § 2-207, see Dorton v. Collins & Aikman Corp., 453 
+F.2d 1161 (6th Cir. 1972) and authorities cited in that case.  Illustration 1 was Illustration 1 to former § 60, but is 
+modified in the light of Uniform Commercial Code § 2-207.
+Comment b.  Illustration 2 is modified from the facts of Pym v. Campbell, 6 El. & Bl. 370, 119 Eng. Rep. 903 
+(Q.B. 1856); cf. Reporter's Note to § 217.  Illustration 3 is based on Illustration 2 to former § 60.
+
+§ 59 Purported Acceptance Which Adds Qualifications
+Cross Reference
+ALR Annotations:
+Variance between offer and acceptance in regard to title as affecting consummation of contract for sale of real 
+property.  16 A.L.R.3d 1424.
+Difference between offer and acceptance as regards place of payment or of delivery as variance preventing 
+consummation of contract.  3 A.L.R.2d 256.
+Digest System Key Numbers:
+Contracts 23
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

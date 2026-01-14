@@ -1,0 +1,75 @@
+Restat 2d of Contracts, § 223
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 4- Scope as Affected by Usage        
+§ 223 Course of Dealing
+(1)  A course of dealing is a sequence of previous conduct between the parties to an agreement which 
+is fairly to be regarded as establishing a common basis of understanding for interpreting their 
+expressions and other conduct.
+(2)  Unless otherwise agreed, a course of dealing between the parties gives meaning to or supplements 
+or qualifies their agreement.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Relation to other rules.  This Section follows Uniform Commercial Code § 1-205 and states a particular 
+application of the rules stated in §§ 220 and 221.  As to conflict between course of dealing and express terms, 
+course of performance or usage of trade, see § 203.
+b.  Common basis of understanding.  Course of dealing may become part of an agreement either by explicit 
+provision or by tacit recognition, or it may guide the court in supplying an omitted term.  Like usage of trade, it 
+may determine the meaning of language or it may annex an agreed but unstated term.  There is no requirement 
+that an agreement be ambiguous before evidence of a course of dealing can be shown, nor is it required that 
+the course of dealing be consistent with the meaning the agreement would have apart from the course of 
+dealing.
+Illustrations:
+1.  A, a sugar company, enters into a written agreement with B, a grower of sugar beets, by which B agrees to 
+raise and deliver and A to purchase specified quantities of beets during the coming season.  No price is fixed.  
+The agreement is on a standard form used for B and many other growers in prior years.  A's practice is to pay 
+all growers uniformly on a formula based on A's "net return" according to A's established accounting system.  
+Unless otherwise agreed, the established pattern of pricing is part of the agreement.
+2.  A, a manufacturer, sends a price quotation on goods to B, a dealer, together with printed "conditions of 
+sale." B then sends orders to A; and A fills them.  B takes advantage of discount terms of the quotation not 
+referred to in B's orders.  Unless otherwise agreed, the "conditions of sale" are part of each contract.
+REPORTER'S NOTES
+This is a new Section following Uniform Commercial Code § 1-205 (1) and (3).  See 5 Williston, Contracts § 660 
+(3d ed. 1961); 3 Corbin, Contracts §§ 555-56 (1960 & Supp. 1980); 9 Wigmore, Evidence § 2465 (3d ed. 1940).
+Comment b.  Illustration 1 is based on California Lettuce Growers, Inc. v. Union Sugar Co., 45 Cal.2d 474, 289 
+P.2d 785 (1955); see Amerine Nat'l Corp. v. Denver Feed Co., 493 F.2d 1275 (10th Cir. 1974). Illustration 2 is 
+based on D'Orsay Equip. Co. v. United States Rubber Co., 302 F.2d 777 (1st Cir. 1962).
+Cross Reference
+ALR Annotations:
+Requirements contracts under § 2-306(1) of Uniform Commercial Code.  96 A.L.R.3d 1275.
+Construction and effect of tenure provisions of contract or statute governing employment of college or university 
+faculty member.  66 A.L.R.3d 1018.
+
+§ 223 Course of Dealing
+Validity, construction, and effect of clause in franchise contract prohibiting transfer of franchise or contract.  59 
+A.L.R.3d 244.
+Construction and operation of "optional agreement-flat payment" land contract under which optionee has right 
+to take title when periodic payments (otherwise to be treated as rent) equal agreed price.  55 A.L.R.3d 159.
+Validity, construction, and effect of real-estate brokers' multiple-listing agreement.  45 A.L.R.3d 190.
+Construction of provision in real-estate mortgage, land contract, or other security instrument for release of 
+separate parcels of land as payments are made.  41 A.L.R.3d 7.
+Validity, construction, and enforcement of business opportunities or "Finder's Fee" contract.  24 A.L.R.3d 1160.
+Construction and effect of affirmative provision in contract of sale by which purchaser agrees to take article "as 
+is," in the condition in which it is, or equivalent term.  24 A.L.R.3d 465.
+Effect of stipulation, in private building or construction contract, that alterations or extras must be ordered in 
+writing.  2 A.L.R.3d 620.
+Effect of stipulation, in public building or construction contract, that alterations or extras must be ordered in 
+writing.  1 A.L.R.3d 1173.
+Construction and effect of provision in contract for sale of realty by which purchaser agrees to take property "as 
+is" or in the condition in which it is.  97 A.L.R.2d 849.
+Implied obligation of purchaser or lessee to conduct search for, or to develop or work premises for, minerals 
+other than oil and gas.  76 A.L.R.2d 721.
+Conditions printed on confirmation slips as binding on customers of stock or commodity broker.  71 A.L.R.2d 
+1089.
+Construction and effect of contract for sale of commodity or goods wherein quantity is described as "about" or 
+"more or less" than an amount specified.  58 A.L.R.2d 377.
+Place, in absence of written provision in sales contract, where cash consideration for goods purchased is 
+payable.  49 A.L.R.2d 1350.
+What constitutes "accounts receivable" under contract selling, assigning, pledging, or reserving such items.  41 
+A.L.R.2d 1395.
+Validity, construction, and application of "no damage" clause with respect to delay in construction contract.  10 
+A.L.R.2d 801.
+Digest System Key Numbers:
+Contracts 170
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

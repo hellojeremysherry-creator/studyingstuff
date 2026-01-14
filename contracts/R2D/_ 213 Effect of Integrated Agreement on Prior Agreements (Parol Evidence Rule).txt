@@ -1,0 +1,131 @@
+Restat 2d of Contracts, § 213
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 3- Effect of Adoption of a Writing        
+§ 213 Effect of Integrated Agreement on Prior Agreements (Parol Evidence 
+Rule)
+(1)  A binding integrated agreement discharges prior agreements to the extent that it is inconsistent 
+with them.
+(2)  A binding completely integrated agreement discharges prior agreements to the extent that they are 
+within its scope.
+(3)  An integrated agreement that is not binding or that is voidable and avoided does not discharge a 
+prior agreement.  But an integrated agreement, even though not binding, may be effective to render 
+inoperative a term which would have been part of the agreement if it had not been integrated.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Parol evidence rule.  This Section states what is commonly known as the parol evidence rule.  It is not a rule 
+of evidence but a rule of substantive law.  Nor is it a rule of interpretation; it defines the subject matter of 
+interpretation.  It renders inoperative prior written agreements as well as prior oral agreements.  Where writings 
+relating to the same subject matter are assented to as parts of one transaction, both form part of the integrated 
+agreement.  Where an agreement is partly oral and partly written, the writing is at most a partially integrated 
+agreement.  See § 209.
+b.  Inconsistent terms.  Whether a binding agreement is completely integrated or partially integrated, it 
+supersedes inconsistent terms of prior agreements.  To apply this rule, the court must make preliminary 
+determinations that there is an integrated agreement and that it is inconsistent with the term in question.  See § 
+209.  Those determinations are made in accordance with all relevant evidence, and require interpretation both 
+of the integrated agreement and of the prior agreement.  The existence of the prior agreement may be a 
+circumstance which sheds light on the meaning of the integrated agreement, but the integrated agreement must 
+be given a meaning to which its language is reasonably susceptible when read in the light of all the 
+circumstances.  See §§ 212, 214.
+Illustrations:
+1.  D Corporation regularly borrows money from C Bank.  S, the principal stockholder in D, offers to guarantee 
+payment if C will increase the amounts lent.  There is a bank custom to make such loans only on adequate 
+collateral supplied by the borrower, and C promises S to follow the custom.  S then executes a written 
+agreement with C guaranteeing payment of future loans to D "with or without security." If the written agreement 
+is a binding integrated agreement, C's prior promise is discharged.
+2.  A orally agrees to sell a city lot to B.  The city is installing a sidewalk in front of the lot, and A orally agrees to 
+pay the cost to be assessed by the city in an amount not exceeding $ 45.  B then retains a lawyer to draw up a 
+written agreement, and A and B execute it, A without reading it.  The agreement provides that A will pay all 
+costs of the installation of the sidewalk, but does not mention any dollar limit.  If the written agreement is a 
+binding integrated agreement, any agreement for a $ 45 limit is discharged.
+c.  Scope of a completely integrated agreement.  Where the parties have adopted a writing as a complete and 
+exclusive statement of the terms of the agreement, even consistent additional terms are superseded.  See § 
+216.  But there may still be a separate agreement between the same parties which is not affected.  To apply the 
+rule of Subsection (2) the court in addition to determining that there is an integrated agreement and that it is 
+
+§ 213 Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)
+completely integrated, must determine that the asserted prior agreement is within the scope of the integrated 
+agreement.  Those determinations are made in accordancewith all relevant evidence, and require interpretation 
+both of the integrated agreement and of the prior agreement.
+Illustrations:
+3.  In May A and B exchange properties and agree orally that A will make certain repairs on the property to be 
+conveyed by A to B, the repairs to be finished by October 1.  A and B then draw up and sign a memorandum of 
+the repair agreement, specifying all the terms except that the memorandum is silent as to time of performance.  
+If the memorandum is a binding completely integrated agreement, the agreement to finish by October 1 is 
+discharged, and the repairs are to be finished within a reasonable time.  The oral agreement as to October 1 
+may be relevant evidence as to what is a reasonable time.
+4.  A and B make an oral agreement for the sale of land and a hotel thereon, together with the hotel furniture.  
+They employ a lawyer to prepare a written contract.  He does so, and they sign it.  It contains no mention of 
+personal property.  The agreement as to furniture is discharged if there is a binding completely integrated 
+agreement covering the entire transaction, but not if only the part of the agreement relating to real property is 
+integrated.
+d.  Effect of non-binding integration.  An integrated agreement does not supersede prior agreements if it is not 
+binding, for example, by reason of lack of consideration, or if it is voidable and avoided.  The circumstances 
+may, however, show an agreement to discharge a prior agreement without regard to whether the integrated 
+agreement is binding, and such an agreement may be effective.  Moreover, an integrated agreement may be 
+effective to render inoperative an oral term which would have been part of the agreement if it had not been 
+integrated.  The integrated agreement may then be without consideration, even though the inoperative oral term 
+would have furnished consideration.
+Illustrations:
+5.  A and B enter into a contract that B will build a house on A's land for a price.  Later they enter into an oral 
+contract by which B promises to add a porch and A promises to pay an extra $ 2,000.  Still later they enter into 
+an integrated agreement in which B promises to build according to the original plans and A promises to pay the 
+extra $ 2,000.  The integrated agreement is not binding for lack of consideration, and the oral intermediate 
+agreement is not discharged.
+6.  A and B enter into a contract that B will build a house on A's land for a price.  Later B offers to add a porch if 
+A will sign a new contract.  They then enter into an integrated agreement in which B promises to build 
+according to the original plans and A promises to pay an extra $ 2,000.  If the integrated agreement is 
+inconsistent with the porch offer, or if it is a completely integrated agreement and the matter of the porch is 
+within its scope, the integrated agreement is effective to discharge the porch offer but is not binding for lack of 
+consideration.
+REPORTER'S NOTES
+This Section carries forward part of former § 237, but leaves to §§ 214-16 the effect of an integration on 
+contemporaneous oral agreements.
+As to the parol evidence rule generally, see 3 Corbin, Contracts §§ 573-96 (1960 & Supp. 1980); McCormick, 
+Evidence § 233 (2d ed. 1972); Wigmore, Evidence §§ 2429-49 (3d ed. 1940 & Supp. 1979); 4 Williston, 
+Contracts §§ 631-47 (3d ed. 1961); Calamari & Perillo, A Plea for a Uniform Parol Evidence Rule and Principles 
+of Contract Interpretation, 42 Ind. L.J. 333 (1967); Corbin, The Interpretation of Words and the Parol Evidence 
+Rule, 50 Cornell L. Q. 161 (1965); Farnsworth, "Meaning" in the Law of Contracts, 76 Yale L.J. 939 (1967); 
+Murray, The Parol Evidence Rule: A Clarification, 4 Duquesne L. Rev. 337 (1966); Sweet, Contract Making and 
+Parol Evidence: Diagnosis and Treatment of a Sick Rule, 53 Cornell L. Rev. 1036 (1968).
+Comment a.  That the parol evidence rule is a rule of substantive law and not one of evidence or interpretation, 
+see Doyle v. Northrop Corp., 455 F. Supp. 1318, 1332-33 (D.N.J. 1978); David Nassif Assoc. v. United States, 
+214 Ct. Cl. 407, 557 F.2d 249 (1977) (citing this Section in Tentative Draft).  Both opinions emphasize that 
+integration must be found for the rule to apply.
+Comment b.  As to the basic rule that an integrated binding agreement discharges a prior inconsistent one, see, 
+e.g., Conn Organ Corp. v. Walt Whitman Music Studios, 67 A.D.2d 995, 413 N.Y.S.2d 725 (1979). Illustration 1 
+is based on Chase Manhattan Bank v. May, 311 F.2d 117 (3d Cir. 1962), cert. denied, 372 U.S. 930 (1963). 
+
+§ 213 Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)
+Illustration 2 is based on Hanes v. Mitchell, 78 N.D. 341, 49 N.W.2d 606 (1951); cf.  Joseph v. Mahoney Corp., 
+367 S.W.2d 213 (Tex. Civ. App. 1963).
+Comment c.  Illustration 3 is based on Hayden v. Hoadley, 94 Vt. 345, 111 A. 343 (1920). Illustration 4 is based 
+on Brown v. Oliver, 123 Kan. 711, 256 P. 1008 (1927); cf.  Bretto v. Levine, 50 Minn. 168, 52 N.W. 525 (1892). 
+But cf.  Mitchill v. Lath, 247 N.Y. 377, 160 N.E. 646 (1928) (prior oral agreement discharged if parties would 
+"ordinarily be expected to embody" it in the writing).
+Cross Reference
+ALR Annotations:
+Modern status as to duration of employment where contract specifies no term but fixes daily or longer 
+compensation.  93 A.L.R.3d 659.
+Parol exception of fixtures from conveyance or lease.  29 A.L.R.3d 1441.
+What 12-month period constitutes "year" or "calendar year" as used in public enactment, contract, or other 
+written instrument.  5 A.L.R.3d 584.
+Person who signs contract but is not named in body thereof as party to contract and liable thereunder.  94 
+A.L.R.2d 691.
+Admissibility of oral agreement as to specific time for performance where written contract is silent.  85 A.L.R.2d 
+1269.
+Admissibility of parol evidence as to limitation on cost of structure in builder's action on written cost-plus-fee 
+construction contract.  84 A.L.R.2d 1324.
+Admissibility of parol evidence to connect signed and unsigned documents relied upon as memorandum to 
+satisfy statute of frauds.  81 A.L.R.2d 991.
+Admissibility of extrinsic evidence to identify person or persons intended to be designated by the name in which 
+a contract is made.  80 A.L.R.2d 1137.
+What constitutes "accounts receivable" under contract selling, assigning, pledging, or reserving such items.  41 
+A.L.R.2d 1395.
+Meaning of term "radius" employed in contract, statute, or ordinance as descriptive of area, location, or 
+distance.  10 A.L.R.2d 605.
+Digest System Key Numbers:
+Contracts 245
+Evidence 442
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

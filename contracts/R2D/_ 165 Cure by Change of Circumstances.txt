@@ -1,0 +1,37 @@
+Restat 2d of Contracts, § 165
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 165 Cure by Change of Circumstances
+If a contract is voidable because of a misrepresentation and, before notice of an intention to avoid the 
+contract, the facts come into accord with the assertion, the contract is no longer voidable unless the 
+recipient has been harmed by relying on the misrepresentation.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  In general, the recipient of a misrepresentation need not show that he has actually been harmed 
+by relying on it in order to avoid the contract.  If, however, the effect of misrepresentation has been cured 
+because the facts have been brought or have otherwise come into accord with the assertion before he has 
+notified the maker of his intention to avoid the contract, there is ordinarily little likelihood of harm.  The rule 
+stated in this Section precludes avoidance in such a case, unless the recipient shows that he has actually been 
+harmed.  It applies to fraudulent as well as to non-fraudulent misrepresentations.
+Illustrations:
+1.  A, seeking to induce B to make a contract to buy land, tells B that the land is unencumbered.  A knows that 
+the land is subject to a lien.  B is induced by A's statement to make the proposed contract.  A then removes the 
+lien.  If B has not been harmed by the misrepresentation, the contract is no longer voidable by B.
+2.  A, seeking to induce B to make a contract to buy land from C, tells B that he has authority from C to sell 
+land.  A knows that he has no such authority.  B is induced by C's statement to make the proposed contract.  C 
+later ratifies A's sale of the land.  If B has not been harmed by the misrepresentation, the contract is no longer 
+voidable by B.
+REPORTER'S NOTES
+This Section is based on former § 476(2), but has been extended, in accordance with the cases cited below, to 
+cover fraudulent as well as innocent misrepresentations.  Former § 476(3) has been eliminated.
+Comment a.  Illustration 1 is based on Davidson v. Moss, 6 Miss. 673 (1841); Smith v. Johns, 113 Or. 351, 232 
+P. 786 (1925). Illustration 2 is supported by Comment c to Restatement, Second, Agency § 100.
+Cross Reference
+ALR Annotations:
+Proceeding under executory contract after discovering fraud as waiver of right to recover damages for the 
+fraud.  13 A.L.R.2d 807.
+Digest System Key Numbers:
+Contracts 94, 98
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

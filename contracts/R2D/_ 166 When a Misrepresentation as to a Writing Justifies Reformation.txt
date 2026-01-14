@@ -1,0 +1,104 @@
+Restat 2d of Contracts, § 166
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 166 When a Misrepresentation as to a Writing Justifies Reformation
+If a party's manifestation of assent is induced by the other party's fraudulent misrepresentation as to 
+the contents or effect of a writing evidencing or embodying in whole or in part an agreement, the court 
+at the request of the recipient may reform the writing to express the terms of the agreement as 
+asserted,
+(a)  if the recipient was justified in relying on the misrepresentation, and
+(b)  except to the extent that rights of third parties such as good faith purchasers for value will be 
+unfairly affected.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Scope.  Reformation is more broadly available for fraudulent misrepresentation than for mistake.  Compare 
+§ 155.  Reformation for mistake is limited to the situation in which the parties, having already reached an 
+agreement, later fail to express it correctly in a writing.  That limitation, stated in § 155, applies to all cases 
+where both parties are mistaken, including those where one of the mistaken parties has made a non-fraudulent 
+misrepresentation as to the contents or effect of a writing.  Where, however, only one party is mistaken and the 
+other has fraudulently misrepresented the writing's contents or effect, reformation may be granted even though 
+there was no prior agreement.  Compare Comment a to § 155.  The writing must be one that evidences or 
+embodies, at least in part, the agreement of the parties.  Otherwise it will not ordinarily have sufficient legal 
+significance for its reformation to be necessary, and the dispute can be resolved simply in accordance with the 
+general rules applicable to offer and acceptance.  The rule stated in this Section also applies to the case where 
+only one party is mistaken and the other, although aware of the mistake, says nothing to correct it.  In that case 
+his non-disclosure is equivalent to an assertion that the writing is as the other understands it to be (§ 161(c)).  
+(Where only one party is mistaken and the other is not aware of the mistake, the rule stated in § 153, on 
+mistake of only one party, applies.) The misrepresentation must, of course, be certain enough to permit a court 
+to know how the writing should be reformed.  Reformation is not precluded by the mere fact that the party who 
+seeks it failed to exercise reasonable care in reading the writing, but his reliance on the misrepresentation must 
+be justified and the right to reformation is therefore subject to the rule on fault stated in § 172.  This Section, like 
+§ 155, only states the circumstances in which a court "may" grant reformation, and, since the remedy is 
+equitable, a court has the discretion to withhold it, even if it would otherwise be appropriate, on grounds 
+traditionally considered by courts of equity in exercising their discretion.  See Comment d to § 155.
+Illustrations:
+1.  A and B agree that A will buy a tract of land from B for $ 100,000 and will assume an existing mortgage of $ 
+50,000.  In reducing the agreement to writing, A intentionally omits the provision for assumption and tells B that 
+the writing correctly expresses their agreement.  B does not notice the omission and is induced by A's 
+fraudulent misrepresentation to sign the writing, which is an integrated agreement.  At the request of B, the 
+court will reform the writing to add the provision for assumption.  Compare Illustration 3 to § 164.  See 
+Illustration 1 to § 155.
+2.  A, seeking to induce B to make a contract to sell a tract of land to A for $ 100,000, makes a written offer to B 
+and tells B that it includes a provision under which A assumes an existing mortgage.  A knows that the writing 
+does not contain such a provision.  B does not notice the omission and is induced by A's fraudulent 
+
+§ 166 When a Misrepresentation as to a Writing Justifies Reformation
+misrepresentation to sign the writing, which is an integrated agreement.  At the request of B, the court will 
+reform the writing to add the provision for assumption.
+3.  A, seeking to induce B to make a contract to sell a tract of land to A for $ 100,000, makes a written offer to B 
+and tells B that the legal effect of a particular provision is that A assumes an existing mortgage.  A, who is a 
+lawyer, knows that this is not the legal effect of the provision.  B does not realize that the legal effect of the 
+provision is not as asserted and is induced by A's fraudulent misrepresentation to sign the writing, which is an 
+integrated agreement.  See § 170.  At the request of B, the court will reform the writing to add the provision for 
+assumption.
+4.  A, seeking to induce B to make a contract to sell a tract of land to A for $ 100,000, makes a written offer to 
+B.  A knows that B mistakenly thinks that the offer contains a provision under which A assumes an existing 
+mortgage and that it does not contain such a provision, but does not disclose this to B for fear that B will not 
+accept.  B is induced by A's non-disclosure to sign the writing, which is an integrated agreement.  A's non-
+disclosure is equivalent to an assertion that the writing contains such a provision (§ 161(e)) and amounts to a 
+fraudulent misrepresentation.  At the request of B, the court will reform the writing to add the provision for 
+assumption.  See Illustration 13 to § 161.
+b.  Relation to other rules.  The rule stated in this Section applies only to misrepresentations as to the contents 
+or effect of a writing.  If the misrepresentation relates to some other fact, the contract may be voidable under § 
+164, but reformation is not appropriate.  See also § 163.  The availability of reformation based on a fraudulent 
+misrepresentation does not, however, preclude the alternative of avoidance, and the recipient has a choice of 
+remedies.  See Illustration 12 to § 161 and compare Illustration 3 to § 164 with Illustration 1 to the present 
+Section.  This is in contrast to the rule for mutual mistake.  See Introductory Note to Chapter 6 and Comment d 
+to § 152.  In some instances, however, the problem may be merely one of interpretation of the writing, so that 
+neither reformation nor avoidance is appropriate.  See § 20.
+Illustration:
+5.  A, seeking to induce B to make a contract to buy a tract of land at a price of $ 100,000, makes a written offer 
+to B and tells B that the tract contains 100 acres.  A knows that it contains only 90 acres.  B is induced by A's 
+fraudulent misrepresentation to sign the writing.  The court will not, at the request of B, reform the writing 
+because the mistake of the parties was not one as to the contents or effect of the writing.  B's right to avoidance 
+is governed by the rule stated in § 164(1).  See Illustration 1 to § 164 and Illustration 5 to § 155.
+c.  Parol evidence rule and Statute of Frauds.  The parol evidence rule does not preclude proof of a fraudulent 
+misrepresentation to justify reformation.  See § 214(d).  Furthermore, if reformation of a writing is otherwise 
+appropriate, it is not precluded by the fact that the contract is within the Statute of Frauds.  See § 156.
+d.  Protection of innocent third parties.  The right to reformation under the rule stated in this Section is subject to 
+the rights of good faith purchasers for value and other third parties who have similarly relied on the finality of a 
+consensual transaction in which they have acquired an interest in property.  Such other third parties include 
+those who have given value and come within the definition of "purchaser" in Uniform Commercial Code § 1-
+201(33), (32), notably mortgagees, pledgees and other holders of a security interest.  Judgment creditors and 
+trustees in bankruptcy are not included.  This is thesame exception as that under § 155 where third parties 
+have intervened.  See Comment f to § 155 and Illustrations 8 and 9 to that Section.
+REPORTER'S NOTES
+This Section replaces former §§ 491 and 505.  Compare § 155.  See 12 Williston, Contracts § 1525A (3d ed. 
+1970); but see Palmer, The Effect of Misunderstanding on Contract Formation and Reformation Under the 
+Restatement of Contracts Second, 65 Mich. L. Rev. 33, 51-56 (1966). The criticism made by Palmer is met by 
+the court's discretionary power to refuse to grant reformation on equitable grounds.  See Comment a.
+Comment a.  Illustration 1 is based on Illustration 5 to former § 471 and Illustration 1 to former § 491; Volker v. 
+Connecticut Fire Ins. Co., 22 N.J. Super. 314, 91 A.2d 883 (1952); compare Martinez v. John Hancock Life Ins. 
+Co., 145 N.J. Super. 301, 367 A.2d 904 (1976). Illustrations 2 and 4 are based on Illustration 1 to former § 505; 
+Hugo v. Erickson, 110 Neb. 602, 194 N.W. 723 (1923); Webb v. Culver, 265 Or. 467, 509 P.2d 1173 (1973); cf.  
+Bleyer v. Veeder, 119 N.J. Eq. 398, 183 A. 203 (1936). But cf.  Russell v. Shell Petroleum Corp., 66 F.2d 864 
+(10th Cir. 1933).
+
+§ 166 When a Misrepresentation as to a Writing Justifies Reformation
+Comment b.  Illustration 5 is based on Russell v. Shell Petroleum Corp., supra.
+Cross Reference
+Digest System Key Numbers:
+Reformation of Instruments 21
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,112 @@
+Restat 2d of Contracts, § 164
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 164 When a Misrepresentation Makes a Contract Voidable
+(1)  If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation 
+by the other party upon which the recipient is justified in relying, the contract is voidable by the 
+recipient.
+(2)  If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation 
+by one who is not a party to the transaction upon which the recipient is justified in relying, the contract 
+is voidable by the recipient, unless the other party to the transaction in good faith and without reason 
+to know of the misrepresentation either gives value or relies materially on the transaction.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Requirements.  A misrepresentation may make a contract voidable under the rule stated in this Section, 
+even though it does not prevent the formation of a contract under the rule stated in the previous section.  Three 
+requirements must be met in addition to the requirement that there must have been a misrepresentation.  First, 
+the misrepresentation must have been either fraudulent or material.  See Comment b.  Second, the 
+misrepresentation must have induced the recipient to make the contract.  See Comment c.  Third, the recipient 
+must have been justified in relying on the misrepresentation.  See Comment d.  Even if the contract is voidable, 
+exercise of the power of avoidance is subject to the limitations stated in Chapter 16 on remedies.
+b.  Fraudulent and non-fraudulent misrepresentation.  A representation need not be fraudulent in order to make 
+a contract voidable under the rule stated in this Section.  However, a non-fraudulent misrepresentation does not 
+make the contract voidable unless it is material, while materiality is not essential in the case of a fraudulent 
+misrepresentation.  One who makes a non-fraudulent misrepresentation of a seemingly unimportant fact has no 
+reason to suppose that his assertion will induce assent.  But a fraudulent misrepresentation is directed to 
+attaining that very end, and the maker cannot insist on his bargain if it is attained, however unexpectedly, as 
+long as the additional requirements of inducement and justifiable reliance are met.  See Illustration 1.  Compare 
+Restatement, Second, Torts § 538, which limits liability for fraudulent misrepresentation to cases in which the 
+matter misrepresented is material.
+Illustrations:
+1.  A, seeking to induce B to make a contract to buy a tract of land at a price of $ 1,000 an acre, tells B that the 
+tract contains 100 acres.  A knows that it contains only 90 acres.  B is induced by the statement to make the 
+contract.  Because the statement is a fraudulent misrepresentation (§ 162(1)), the contract is voidable by B, 
+regardless of whether the misrepresentation is material.
+2.  The facts being otherwise as stated in Illustration 1, A is mistaken and does not know that the tract contains 
+only 90 acres.  Because the statement is not a fraudulent misrepresentation, the contract is voidable by B only 
+if the misrepresentation is material (§ 162(2)).
+3.  A and B agree that A will buy a tract of land from B for $ 100,000 and will assume an existing mortgage of $ 
+50,000.  In reducing the agreement to writing, A intentionally omits the provision for assumption but tells B that 
+the writing correctly expresses their agreement.  B does not notice the omission and is induced by A's 
+statement to sign the writing.  The misrepresentation is both fraudulent and material, and the contract is 
+voidable by B.  Compare Illustration 1 to § 166 and see Illustration 10 to § 161.
+c.  Inducement.  No legal effect flows from either a non-fraudulent or a fraudulent misrepresentation unless it 
+induces action by the recipient, that is, unless he manifests his assent to the contract in reliance on it.  Whether 
+
+§ 164 When a Misrepresentation Makes a Contract Voidable
+a misrepresentation is an inducement is a question of fact governed by the rule stated in § 167.  In general, the 
+recipient of a misrepresentation need not show that he has actually been harmed by relying on it in order to 
+avoid the contract.  But see § 165.
+d.  Justification.  A misrepresentation, even if relied upon, has no legal effect unless the recipient's reliance on it 
+is justified.  The most significant and troublesome applications of this principle occur in connection with 
+assertions of opinion (§§ 168, 169), assertions as to matters of law (§ 170), assertions of intention (§ 171), and 
+fault (§ 172).  In other situations the requirement of justification is usually met unless, for example, the fact to 
+which the misrepresentation relates is of only peripheral importance to the transaction or is one as to which the 
+maker's assertion would not be expected to be taken seriously.
+e.  Misrepresentation by a third party.  The rule stated in Subsection (2) makes a contract voidable for a 
+misrepresentation by a third party, subject to the general principle of law that if an innocent person has in good 
+faith and without notice given value or changed his position in reliance on the contract, it is not voidable on that 
+ground.  This is the same principle that protects an innocent person who purchases goods or commercial paper 
+in good faith, without notice and for value from one who has obtained them from the original owner by a 
+misrepresentation.  See Uniform Commercial Code §§ 2-403(1), 3-305.  In the cases that fall within Subsection 
+(2), however, the innocent person deals directly with the recipient of the misrepresentation, which is made by 
+one not a party to their contract.  The contract is not voidable by the recipient if the innocent person gives value 
+or relies materially on the transaction before learning or acquiring reason to know of the misrepresentation.  
+The term "value" has the same meaning here as it does under Uniform Commercial Code § 1-201(44), and 
+therefore the consideration given by the innocent party is value for this purpose.  The rule does not protect a 
+person who is responsible under the law of agency for the maker's misrepresentation.  See Restatment, 
+Second, Agency § 259.  Assignees and intended beneficiaries, who derive their rights from a contract that is 
+voidable for misrepresentation, take subject to the right of avoidance under §§ 309, 336.  The rule stated in 
+Subsection (2) does not preclude avoidance for mistake under the rules stated in Chapter 6.
+Illustrations:
+4.  A, who is not C's agent, induces B by a fraudulent misrepresentation to make a contract with C to sell land to 
+C.  C promises to pay the agreed price, not knowing or having reason to know of the fraudulent 
+misrepresentation.  Since C's promise to pay is value, the contract is not voidable by B.  The contract would be 
+voidable by B if C learned or acquired reason to know of the fraudulent misrepresentation before promising to 
+pay the price.
+5.  A, who is not C's agent, induces B by a fraudulent misrepresentation to sign a pledge by which B promises 
+C, a charitable corporation, to contribute a sum of money.  C does not know or have reason to know of the 
+fraudulent representation.  B's promise, although binding under § 90(2), is voidable by B.  B's promise would 
+not be voidable if C materially changed its position in reliance on B's promise before learning or acquiring 
+reason to know of the fraudulent misrepresentation.
+REPORTER'S NOTES
+This Section is based on former §§ 476(1), 477.  See 12 Williston, Contracts §§ 1486, 1490, 1518 (3d ed. 
+1970).
+Comment b.  See James & Gray, Misrepresentation -- Part II, 37 Md. L. Rev. 488, 536-38 (1978). Illustrations 1 
+and 2 are new.  Illustration 2 is supported by Seneca Wire & Mfg. Co. v. A. B. Leach & Co., 247 N.Y. 1, 159 
+N.E. 700 (1928); Stern v. Satra Corp., 539 F.2d 1305 (2d Cir. 1976) (dictum).  Illustration 3 is supported by 
+Hollywood Credit Clothing Co. v. Gibson, 188 A.2d 348 (D.C. Ct. App. 1963); Saylor v. Handley Motor Co., 169 
+A.2d 683 (D.C. Ct. App. 1961); Bixler v. Wright, 116 Me. 133, 100 A. 467 (1917); Providence Jewelry v. Crowe, 
+113 Minn. 209, 129 N.W. 224 (1911). That this Comment may not apply to an attempt by an insurer to avoid an 
+insurance policy, see, e.g., Employers' Liability Assurance Corp. v. Vella, 366 Mass. 651, 321 N.E.2d 910 
+(1975); Sommer v. Guardian Life Ins. Co., 281 N.Y. 508, 24 N.E.2d 308 (1939).
+Comment c.  See Handy v. Beck, 282 Or. 653, 581 P.2d 68 (1978) (false statement in required report to State 
+Engineer is a misrepresentation sufficient to support a fraud action without proof that plaintiffs or their 
+predecessors in interest ever became aware of the false statement; court also makes reference to active 
+concealment by defendants).
+
+§ 164 When a Misrepresentation Makes a Contract Voidable
+Comment d.  Illustration 4 is based on Illustration 1 to former § 477; see also Illustration 2 to former § 477.  
+Illustration 5 is derived from Illustration 1 to former § 476.
+Cross Reference
+ALR Annotations:
+Purchaser's misrepresentations as to intended use of real property as ground for vendor's equitable relief from 
+contract and deed.  35 A.L.R.3d 1369.
+Comment Note. -- "out of pocket" or "benefit of bargain" as proper rule of damages for fraudulent 
+representations inducing contract for the transfer of property.  13 A.L.R.3d 875.
+Necessity of showing damage to establish fraud as defense to action on contract.  91 A.L.R.2d 346.
+Digest System Key Numbers:
+Contracts 94, 98
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

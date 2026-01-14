@@ -1,0 +1,95 @@
+Restat 2d of Contracts, § 288
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 288 Promises of the Same Performance
+(1)  Where two or more parties to a contract make a promise or promises to the same promisee, the 
+manifested intention of the parties determines whether they promise that the same performance or 
+separate performances shall be given.
+(2)  Unless a contrary intention is manifested, a promise by two or more promisors is a promise that the 
+same performance shall be given.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  "Same performance."  Where there are more promisors than one in a contract, some or all of them may 
+promise the same performance.  See § 10.  Thus A and B may both promise that $ 100 lent by C will be repaid, 
+or that certain goods will be delivered to C, or that certain services will be rendered to C.  On the other hand, 
+each promisor may promise a separate performance, which may be similar to that promised by another.  Thus 
+where C lends $ 100 to A and B, A may promise to repay $ 50 and B may promise to repay $ 50.  As used in §§ 
+288-96, "same performance" refers to the first of these two types of situations but not to the second.
+b.  The performance promised.  The question whether two promisors promise the same or separate 
+performances is distinct from the question whether two promisors of the same performance are bound by "joint" 
+or by "several" duties or by both, but the two questions are sometimes confused.  The question what 
+performances are promised is entirely a question of interpretation of the promises, while the distinction between 
+"joint" and "several" duties is primarily remedial and procedural and is substantially abolished by statute in 
+many jurisdictions.
+c.  Presumption that the same performance is promised.  It has often been said that when two or more persons 
+undertake a contractual obligation they are presumed to undertake it jointly and that "words of severance" are 
+necessary to overcome the presumption.  Such statements combine the rule of Subsection (2) with that of § 
+289(2).  Even though the rule of § 289(2) is abolished by statute, the rule of Subsection (2) operates in the rare 
+case of absence of any evidence of intention; it yields to manifestations of contrary intention, whether or not 
+there are "words of severance." The fact that the interests of the promisors are different, that one receives all or 
+most of the consideration, or that one is merely a surety does not necessarily rebut the presumption.  But 
+promises to subscribe for a common purpose sums of money set opposite the names of the promisors are 
+ordinarily promises of separate performances.
+Illustrations:
+1.  A, B and C sign a paper reading "Each of us guarantees to D that he shall be duly repaid $ 100, which he 
+has this day lent E." A, B and C promise the same performance, the payment of the whole sum of $ 100 to D.  
+Performance by one of them discharges the duties of the others to D, though the guarantors who have not paid 
+may be liable for contribution to the one who pays.
+2.  A and B sign a written contract which provides "A and B will take charge of C's plant and provide it with 
+proper management." In the absence of any contrary indication, the quoted words will be taken to mean that A 
+and B promise the same performance and that each is to be fully responsible for the proper management of the 
+plant.
+3.  A and B, "the railroad companies," and C, "the coal company," enter into a written agreement under which 
+"the railway companies hereby purchase" a specified quantity of coal, and "the railroad companies agree to 
+remit" in a specified way.  In the absence of any contrary indication, the quoted words will be taken to mean that 
+
+§ 288 Promises of the Same Performance
+A and B promise the same performance, and that each is to be fully responsible for the price of the coal.  The 
+words "one-half bill to each" would be a sufficient contrary indication.
+4.  A, B and C sign a subscription contract reading "A, B and C hereby undertake to pay the following sums." 
+Opposite the name of each signer is a separate sum.  Each promises only a separate performance, the 
+payment of the sum opposite his name.
+d.  "Several" promises.  The word "several" is used in two different senses with reference to promises and 
+duties.  First, if one party promises one performance, and another promises a different performance, each may 
+be bound independently of the other and the promisee may be entitled to both performances.  The promises 
+and the duties of the promisors may then be described as "several," but this Chapter does not hereafter deal 
+with promises which are "several" in this sense.  Second, in traditional usage promises of the same 
+performance by different promisors are said to create "several" duties if "words of severance" are used, even 
+though performance by any one of the promisors is to discharge the duties of all.  The legal consequences of 
+such promises of the same performance are the subject of §§ 289-96.  Promises of the same performance may 
+be treated as "joint," "several," or "joint and several."
+Illustration:
+5.  A and B sign a written promise "A and B severally promise C $ 100." A and B are each bound to the extent 
+of $ 100, but the quoted words are ambiguous as to whether payment of $ 100 by one is to discharge the duty 
+of the other.
+REPORTER'S NOTES
+This Section deals with part of the subject matter covered in former §§ 111-13.  The subject matter of former § 
+111(2) is now covered in § 297, and the balance of former §§ 111-13 is now covered in § 289.  See 4 Corbin, 
+Contracts §§ 925-27 (1951 & Supp. 1980); 2 Williston, Contracts §§ 316-18A (3d ed. 1959).
+Comment b.  That the changes made by remedial statutes are primarily procedural, and do not affect the 
+substance of the obligation, see Clayman v. Goodman Props., 518 F.2d 1026 (D.C. Cir. 1973). Compare Lithia 
+Lumber Co. v. Lamb, 250 Or. 444, 443 P.2d 647 (1968).
+Comment c.  For an example of the erosion of the requirement of literal words of severance to overcome the 
+presumption that two or more parties undertaking an obligation do so jointly, see Alexander v. Wheeler, 64 
+A.D.2d 837, 407 N.Y.S.2d 319 (4th Dep't 1978).  There, the court cited and applied U.S. Printing & Lithograph 
+Co. v. Powers, 233 N.Y. 143, 152, 135 N.E. 225, 227 (1922), which had required words of severance.  Although 
+the Alexander court found no words of severance, it did not stop at this inquiry, but also examined the testimony 
+to determine whether it was the intention of the parties that any individual signatory undertake a several 
+obligation.  Upon finding no such intention, the court construed the agreement as intending a joint obligation.  
+See also Federal Deposit Ins. Corp. v. Bismarck Inv. Corp., 547 P.2d 212 (Utah 1976). Illustration 1 is based on 
+Illustration 2 to former § 113.  Illustration 2 is based on Alpaugh v. Wood, 53 N.J.L. 638, 23 A. 261 (Ct. Err. & 
+App. 1891); cf.  Welch v. Sherwin, 300 F.2d 716 (D.C. Cir. 1962); Trenton Potteries v. Oliphant, 58 N.J. Eq. 
+507, 43 A. 723 (Ct. Err. & App. 1899).  Illustration 3 is based on Illinois Fuel Co. v. Mobile & O.R.R., 319 Mo. 
+899, 8 S.W.2d 834, cert. denied, 278 U.S. 640 (1928); cf.  Racine Wagon & Carriage Co. v. Legeois, 120 Wis. 
+497, 98 N.W. 218 (1904) ("1/2 bill to each").  Illustration 4 is based on Illustration 1 to former § 113; compare 
+Demas v. Convention Motor Inns, 268 S.C. 186, 232 S.E.2d 724 (1977).
+Comment d.  Illustration 5 was part of Comment a to former § 113; see also Demas v. Convention Motor Inns, 
+supra.
+Cross Reference
+Digest System Key Numbers:
+Contracts 181-184
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+
+§ 288 Promises of the Same Performance
+End of Document

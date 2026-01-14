@@ -1,0 +1,204 @@
+Restat 2d of Contracts, § 311
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 311 Variation of a Duty to a Beneficiary
+(1)  Discharge or modification of a duty to an intended beneficiary by conduct of the promisee or by a 
+subsequent agreement between promisor and promisee is ineffective if a term of the promise creating 
+the duty so provides.
+(2)  In the absence of such a term, the promisor and promisee retain power to discharge or modify the 
+duty by subsequent agreement.
+(3)  Such a power terminates when the beneficiary, before he receives notification of the discharge or 
+modification, materially changes his position in justifiable reliance on the promise or brings suit on it or 
+manifests assent to it at the request of the promisor or promisee.
+(4)  If the promisee receives consideration for an attempted discharge or modification of the promisor's 
+duty which is ineffective against the beneficiary, the beneficiary can assert a right to the consideration 
+so received.  The promisor's duty is discharged to the extent of the amount received by the beneficiary.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  The power to create an irrevocable duty.  The parties to a contract cannot by agreement preclude 
+themselves from varying their duties to each other by subsequent agreement.  Nor can they force a right on an 
+unwilling beneficiary, or prevent the beneficiary from joining with them in an agreement varying the duty to him.  
+Compare Restatement, Second, Trusts § 338.  But they can by agreement create a duty to a beneficiary which 
+cannot be varied without the beneficiary's consent.  Compare § 104; Restatement, Second, Trusts §§ 330, 331.
+b.  Express and implied terms.  Agreements precluding variation of a duty to a beneficiary before the 
+beneficiary knows of the promise are unusual and would often be unwise.  See Comment f.  But the power of 
+the parties to make such an agreement is not restricted by special formal requirements.  The agreement need 
+not be explicit: omission of a standard clause reserving a power of modification may manifest an intention to 
+preclude modification; reservation of a limited power may negate a broader power; usage of trade or course of 
+dealing may supply a term precluding modification.  See § 5, defining "term."
+c.  Life insurance.  Partly on the basis of statutes, the rule was established in a number of states in the latter 
+part of the nineteenth century that the ordinary life insurance policy in the form then in use belonged to the 
+beneficiary the moment it was issued, and that the insured had no power to transfer the right to any other 
+person unless the power was reserved.  That rule was not applied to fraternal benefit insurance, partly again 
+because of statutes and partly because of charter and by-law provisions.  Standard policy forms were revised to 
+avoid the rule by reserving to the insured the power to change the beneficiary.  Modern policies also provide for 
+powers to surrender for cash, to borrow against the policy, and to assign the policy.  Deletion of such a 
+standard provision may manifest an intention that the power is not to exist.
+Illustrations:
+1.  A insures his life for $ 10,000 with the B Insurance Company, designating C as beneficiary but reserving 
+power to change the beneficiary.  The policy provides for surrender of the policy by the insured for a stated 
+cash value.  Subsequently A by appropriate indorsement on the policy irrevocably designates C as beneficiary.  
+A's power to surrender for cash is terminated.
+
+§ 311 Variation of a Duty to a Beneficiary
+2.  A insures his life for $ 10,000 with the B Insurance Company, designating C as beneficiary but reserving 
+power to change the beneficiary.  The policy provides for assignment by the insured, and A assigns it to D as 
+security for a loan.  On A's death C's right is limited to the excess over the amount due to D.
+d.  Infant beneficiaries.  Where the beneficiary has full contractual capacity, a duty to him can be made 
+irrevocable by his assent under Subsection (3). Or he may be made a promisee.  See § 71(4) as to 
+consideration in such cases.  Failure to procure such assent or to make him a promisee may be an indication 
+that the right is to be revocable.  But where the beneficiary lacks capacity, as in the case of an infant, such an 
+inference is less clearly justified.  It is therefore sometimes said that in such a case the infant's assent is 
+"presumed." The true test rests not on fictitious assent but on the manifested intention of the original parties; 
+other circumstances, such as the fact that the consideration for the promise is executory, may rebut the 
+inference that the beneficiary's right is irrevocable.
+Illustrations:
+3.  A is employed by the B corporation, and designates his infant son C as beneficiary of a death benefit under 
+a plan set up by B.  No provision is made for a power to change the beneficiary.  A later notifies B that the 
+designation of C is revoked and that the benefit is to be paid to D, to whom A is newly married.  C's right is not 
+affected.
+4.  A and his wife and his infant son C move onto the farm of A's uncle B under an agreement between A and B 
+that they will care for B and the farm until B dies and that B will pay A good wages and will convey a specified 
+portion of the farm to C when C becomes 21 years old.  B is unable to pay wages and conveys a different 
+portion of the farm to A in satisfaction of his obligations under the original agreement.  C's right is discharged.
+e.  Effect of loss under insurance policy.  The terms of the promise may make the beneficiary's right irrevocable 
+in whole or in part or only upon a condition.  Thus a reserved power to change the beneficiary of a life 
+insurance policy terminates on the death of the insured.  In general the power of promisor and promisee to vary 
+the duty to a beneficiary under other types of insurance policies is understood to be subject to a similar 
+limitation: when an insured loss occurs, the power to vary the terms of the policy with respect to that loss is 
+terminated.
+Illustration:
+5.  A contracts with B for liability insurance covering any person operating A's automobile with A's permission.  
+C incurs liability covered by the policy.  Thereafter A and B agree to rescind the policy.  The attempted 
+rescission does not affect the rights of C or the person to whom he is liable.
+f.  The power to vary.  Under the rule stated in Subsection (1), a promisor and a promisee can by agreement 
+create a duty to a beneficiary which cannot be varied without his consent.  But in the absence of such an 
+agreement the parties retain control over the contractual relation they have created.  Loss of control over a 
+policy of life insurance, for example, may prevent perfectly proper readjustments in the light of misconduct of 
+the beneficiary or the birth of children, or a family financial crisis; the practice of reserving a power to change 
+the beneficiary has therefore become almost universal.  Other types of contracts normally remain subject to 
+variation by the parties without express provision at least until there is some possibility of reliance by the 
+beneficiary.
+Illustrations:
+6.  A contracts with B to pay B $ 200 in return for B's delivery of goods to C as a gift from A.  Before any goods 
+are identified to the contract or any payment is made and before C learns of the contract, A and B rescind it.  
+After learning of the rescission, C has no right against B.
+7.  B contracts with A to pay C $ 200 which A owes C.  Before C learns of this contract, in consideration of a 
+horse worth $ 200, A releases B from his contract.  After learning of the release, C has no right against B.
+8.  A conveys land to B and B assumes and agrees to pay to C a debt owed by A which is secured by a 
+mortgage on the land.  Before C learns of the contract, B resells the land to D, who assumes and agrees to pay 
+the debt.  As part of the transaction between B and D and in consideration thereof, A releases B from his 
+promise to pay C.  After learning of the release, C has no right against B.
+g.  Reliance.  In the absence of some contrary indication, an intended beneficiary is justified in relying on the 
+promise.  It is immaterial whether he learns of the promise from the promisor, the promisee or a third party, and 
+whether the promise is one to satisfy the promisee's duty or is a gift promise or is neither.  If there is a material 
+
+§ 311 Variation of a Duty to a Beneficiary
+change of position in justifiable reliance on the promise, the change of position precludes discharge or 
+modification of the contract without the beneficiary's consent.  In the case of a promise to pay a debt of the 
+promisee or another person, it is not necessary that the beneficiary enter into a novation with the promisor, 
+though a novation would a fortiori be effective.  See § 280.  As to what constitutes receipt of a notification 
+sufficient to preclude reliance, see § 68; compare Uniform Commercial Code § 1-201(26) and (27).
+h.  Assent.  Even though there is no novation and no change of position by the beneficiary, the power of 
+promisor and promisee to vary the promisor's duty to an intended beneficiary is terminated when the beneficiary 
+manifests assent to the promise in a manner invited by the promisor or promisee.  This rule rests in part on an 
+analogy to the law of offer and acceptance and in part on the probability that the beneficiary will rely in ways 
+difficult or impossible to prove.  In the case of a promise to discharge a duty of the promisee or a third person, 
+the latter basis is supported by the analogy of the rule that a creditor gives "value" for rights acquired as 
+security for a pre-existing claim.  See Uniform Commercial Code § 1-201(44).  As to terms of the promise 
+inviting or requiring the beneficiary to manifest assent in a particular way, the law of offer and acceptance 
+provides appropriate analogies.  See §§ 60, 63-67.  Indeed, the promise may in some cases be an offer to the 
+beneficiary by the promisor or promisee or both.  The bringing of suit against the promisor is a sufficient 
+manifestation of assent to preclude discharge or modification.
+Illustrations:
+9.  The facts being otherwise as stated in Illustration 6, 7 or 8, C brings suit against B before receiving 
+notification of the rescission or release.  Judgment should be given for C.
+10.  B contracts with A to pay C $ 200 which A owes C, and A notifies C of the contract by mail.  C mails a letter 
+to A assenting to the contract before receiving notification of a rescission by A and B.  The rescission is 
+ineffective against C.  Compare §§ 42, 63.
+11.  A and B, two affiliated corporations, contract that upon surrender of outstanding bonds issued by A new 
+bonds will be issued, bond for bond, paying less interest but guaranteed by B.  Forty years later, shortly before 
+the old bonds mature, only a small number of the old bonds have been surrendered, and A and B release each 
+other from the contract with respect to any new bonds not yet issued.  The releases are effective against any 
+holder of old bonds who receives notification of the releases before he surrenders his bonds.
+i.  Fraud on creditors.  The rules of Subsections (1) and (2) refer to a subsequent agreement which is otherwise 
+valid, and are subject to the law relating to any invalidating cause.  In particular, a promise for the benefit of a 
+creditor of the promisee is an asset of the promisee.  A release of the promisor may be a fraud on the 
+beneficiary or on other creditors of the promisee if the promisee is insolvent and the release is made without fair 
+consideration, or if the release is made with actual intent to hinder, delay or defraud creditors.  See Uniform 
+Fraudulent Conveyance Act §§ 4, 7.  In that event, even though the beneficiary has not assented or relied, the 
+release is not effective except to the extent that the promisor has innocently given consideration for it.  See 
+Uniform Fraudulent Conveyance Act § 9(2).  Similar considerations may be applicable in a case of a promise to 
+satisfy the duty of another person than the promisee.
+Illustration:
+12.  B contracts with A to pay C $ 200 which A owes C.  Before C learns of this contract, A, in consideration of 
+B's proposing him for admission to a social club, releases B from his contract.  A has no assets other than this 
+contract worth $ 200.  The release does not impair C's right against B.
+j.  The beneficiary's right to proceeds.  Where a promise creates rights in a beneficiary, the promisee may retain 
+power to discharge or modify the promisor's duty.  Whether the exercise of such a power is rightful or wrongful 
+may depend on facts other than the promise.  If it is wrongful, the promisee is under a duty of restitution to the 
+beneficiary for any amount received by him therefor.  See Restatement of Restitution §§ 131, 165.  Subsection 
+(4) applies a similar principle to cases where the beneficiary's right against the promisor is not discharged or 
+modified.  In the latter type of case, the promisor may also have a right of restitution.  Compare Restatement of 
+Restitution §§ 124, 126.  Which right prevails in the event of conflict and the extent to which assertion of the 
+right against the promisee bars a claim against the promisor depends on what is equitable in the 
+circumstances.
+REPORTER'S NOTES
+
+§ 311 Variation of a Duty to a Beneficiary
+This Section consolidates the subject matter of former §§ 142 and 143.  Former § 142 stated that the duty to a 
+donee beneficiary was irrevocable unless power to vary it was reserved.  The Comment then stated a contrary 
+rule for fraternal benefit insurance, and former § 143 stated a rule similar to that stated in Subsection (3) but 
+limited to creditor beneficiaries.  See 2 Williston, Contracts §§ 396-97 (3d ed. 1959); 4 Corbin, Contracts §§ 
+813-15 (1951).
+The weight of authority is opposed to a distinction between donee beneficiaries and creditor beneficiaries with 
+respect to the power of promisor and promisee to vary; the weight of authority supports termination of that 
+power by either assent or reliance by the beneficiary.  See Spates v. Spates, 267 Md. 72, 296 A.2d 581 (1972), 
+citing and discussing the Tentative Draft of this Section; Page, The Power of the Contracting Parties to Alter a 
+Contract for Rendering a Performance to a Third Person, 12 Wis. L. Rev. 141 (1937); Note, 57 Colum. L. Rev. 
+406 (1957); Annots., 21 A.L.R. 439 (1922), 47 A.L.R. 339 (1927), 81 A.L.R. 1271 (1932), 148 A.L.R. 359 
+(1944), 44 A.L.R.2d 1270 (1955), 97 A.L.R.2d 1262 (1964), 85 A.L.R.3d 8 (1978).
+Accordingly, the power to vary is here made to turn primarily on the terms of the promise, as explained in 
+Comments a and b.  In the absence of a controlling term, the rule stated in former § 143 is extended to all 
+intended beneficiaries.  Assent by the beneficiary is added to the events which terminate the power to vary, and 
+the effect of fraud on creditors is left to Comment i.  Subsection (4) eliminates the rigid rule requiring an election 
+by the beneficiary stated in former § 142, and Comment j refers instead to what is equitable in the 
+circumstances.
+Comment c.  See Vance, The Beneficiary's Interest in a Life Insurance Policy, 31 Yale L.J. 343 (1922); Annot., 
+60 A.L.R. 191 (1929). Illustration 1 is based on Morse v. Commissioner, 100 F.2d 593 (7th Cir. 1938). 
+Illustration 2 is based on Davis v. Modern Indus. Bank, 279 N.Y. 405, 18 N.E.2d 639 (1939); see Annot., 135 
+A.L.R. 1040 (1941).
+Comment d.  Illustration 3 is based on Rhodes v. Rhodes, 266 S.W.2d 790 (Ky. 1953); see also Spates v. 
+Spates, 267 Md. 72, 296 A.2d 581 (1972); compare Plunkett v. Atkins, 371 P.2d 727 (Okl. 1962). Illustration 4 
+is based on Lehman v. Stout, 261 Minn. 384, 112 N.W.2d 640 (1961).
+Comment e.  Illustration 5 is based on State Farm Mut. Auto. Ins. Co. v. Kendall, 104 Ga. App. 481, 122 S.E.2d 
+139 (1961); Womack v. Allstate Ins. Co., 156 Tex. 467, 296 S.W.2d 233 (1956); see Iowa Home Mut. Cas. Co. 
+v. Farmers Mut. Hail Ins. Co., 247 Iowa 183, 73 N.W.2d 22 (1955) (modification before accident valid); 
+Winchester v. Sipp, 252 Iowa 156, 106 N.W.2d 55 (1960) (same).  But cf.  Walton v. Glens Falls Indem. Co., 
+192 F.2d 189 (5th Cir. 1951).
+Several cases have raised the issue whether an insurance agent or broker placing liability insurance owes a 
+duty of care to persons who are later injured, so that the agent or broker may be held liable for negligently 
+failing to effect coverage over these potential claims.  Determination of the issue requires analysis whether the 
+purpose of the liability insurance is only to protect the insured from loss, or whether it is also intended to provide 
+compensation for future victims, see Keeton, Insurance Law -- Basic Text -- § 4.8(a) (1971).  Compare Pappas 
+v. Jack O.A. Nelsen Agency, 81 Wis.2d 863, 260 N.W.2d 721 (1978) and Mercado v. Mitchell, 83 Wis.2d 17, 
+264 N.W.2d 532 (1978) (both finding a duty) with Khalaf v. Bankers & Shippers Ins. Co., 404 Mich. 134, 273 
+N.W.2d 811 (1978) (not reaching the merits).  A key factor may be whether the insurance is required by law or 
+another contract.  On the role of government contracts see § 313.
+Comment f.  Illustration 7 is based on part of Illustration 1 to former § 143.  Illustration 8 is based on Copeland 
+v. Beard, 217 Ala. 216, 115 So. 389 (1928).
+Comment g.  See Wiley v. Berg, 282 Or. 9, 578 P.2d 384 (1978), citing this Comment in Tentative Draft.
+Comment h.  On manifesting assent, see Gautreau v. Security Indus. Ins. Co., 347 So.2d 1295 (La. Ct. App.), 
+application denied, 350 So.2d 1219 (1977). Illustration 9 is based in part on Illustration 1 to former § 143.  The 
+analogy to offer and acceptance, illustrated in Illustration 10, is based on the opinion in Copeland v. Beard, 217 
+Ala. 216, 115 So. 389 (1928). Illustration 11 is based on McCulloch v. Canadian Pac. Ry., 53 F. Supp. 534 (D. 
+Minn. 1943); cf.  Wolosoff v. Gadsden Land & Bldg. Corp., 245 Ala. 628, 18 So.2d 568 (1944).
+Comment i.  Illustration 12 was Illustration 2 to former § 143.
+Cross Reference
+
+§ 311 Variation of a Duty to a Beneficiary
+Digest System Key Numbers:
+Contracts 269
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

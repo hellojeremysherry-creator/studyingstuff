@@ -1,0 +1,154 @@
+Restat 2d of Contracts, § 224
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 5- Conditions and Similar Events        
+§ 224 Condition Defined
+A condition is an event, not certain to occur, which must occur, unless its non-occurrence is excused, 
+before performance under a contract becomes due.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  "Condition" limited to event.  "Condition" is used in this Restatement to denote an event which qualifies a 
+duty under a contract.  See the Introductory Note to this Topic.  It is recognized that "condition" is used with a 
+wide variety of other meanings in legal discourse.  Sometimes it is used to denote an event that limits or 
+qualifies a transfer of property.  In the law of trusts, for example, it is used to denote an event such as the death 
+of the settlor that qualifies his disposition of property in trust.  See Restatement, Second, Trusts § 360.  See 
+also the rules on "conditional" delivery (§ 103) and "conditional" assignment (§§ 103, 331).  Sometimes it is 
+used to refer to a term (§ 5) in an agreement that makes an event a condition, or more broadly to refer to any 
+term in an agreement (e.g., "standard conditions of sale").  For the sake of precision, "condition" is not used 
+here in these other senses.
+Illustration:
+1.  A contracts to sell and B to buy goods pursuant to a writing which provides, under the heading "Conditions 
+of Sale," that "the obligations of the parties are conditional on B obtaining from X Bank by June 30 a letter of 
+credit" on stated terms.  The quoted language is a term of the agreement (§ 5), not a condition.  The event 
+referred to by the term, obtaining the letter of credit by June 30, is a condition.
+b.  Uncertainty of event.  Whether the reason for making an event a condition is to shift to the obligee the risk of 
+its non-occurrence, or whether it is to induce the obligee to cause the event to occur (see Introductory Note to 
+this Topic), there is inherent in the concept of condition some degree of uncertainty as to the occurrence of the 
+event.  Therefore, the mere passage of time, as to which there is no uncertainty, is not a condition and a duty is 
+unconditional if nothing but the passage of time is necessary to give rise to a duty of performance.  Moreover, 
+an event is not a condition, even though its occurrence is uncertain, if it is referred to merely to measure the 
+passage of time after which an obligor is to perform.  See Comment b to § 227.  Performance under a contract 
+becomes due when all necessary events, including any conditions and the passage of any required time, have 
+occurred so that a failure of performance will be a breach.  See §§ 231-43.
+The event need not, in order to be a condition, be one that is to occur after the making of the contract, although 
+that is commonly the case.  It may relate to the present or even to the past, as is the case where a marine 
+policy insures against a loss that may already have occurred.  Furthermore, a duty may be conditioned upon 
+the failure of something to happen rather than upon its happening, and in that case its failure to happen is the 
+event that is the condition.
+Illustrations:
+2.  A tells B, "If you will paint my house, I will pay you $ 1,000 on condition that 30 days have passed after you 
+have finished." B paints A's house.  Although A is not under a duty to pay B $ 1,000 until 30 days have passed, 
+the passage of that time is not a condition of A's duty to pay B $ 1,000.
+3.  A contracts to sell and B to buy goods to be shipped "C.I.F.," payment to be "on arrival of goods." Risk of 
+loss of the goods passes from A to B when A, having otherwise complied with the C.I.F. term of the contract, 
+puts the goods in the possession of the carrier (Uniform Commercial Code § 2-320(2)).  If the goods are lost in 
+
+§ 224 Condition Defined
+transit, B is under a duty to pay the price when the goods should have arrived (Uniform Commercial Code §§ 2-
+709(1)(a), 2-321(3)).  The arrival of the goods is not a condition of B's duty to pay for the goods.
+c.  Necessity of a contract.  In order for an event to be a condition, it must qualify a duty under an existing 
+contract.  Events which are part of the process of formation of a contract, such as offer and acceptance, are 
+therefore excluded under the definition in this section.  It is not customary to call such events conditions.  But cf. 
+§ 36(2) ("condition of acceptance").  For the most part, they are required by law and may not be dispensed with 
+by the parties, while conditions are the result of, or at least subject to, agreement.  Where, however, an offer 
+has become an option contract, e.g., by the payment of a dollar (§ 87), the acceptance is a condition under the 
+definition in this section.
+Illustration:
+4.  A tells B, "I promise to pay you $ 1,000 if you paint my house." B begins to paint A's house.  Since B's 
+beginning of the invited performance gives rise to an option contract, B's completion of performance is a 
+condition of A's duty under that contract to pay B $ 1,000.  See § 45.
+d.  Relationship of conditions.  A duty may be subject to any number of conditions, which may be related to 
+each other in various ways.  They may be cumulative so that performance will not become due unless all of 
+them occur.  They may be alternative so that performance may become due if any one of them occurs.  Or 
+some may be cumulative and some alternative.  Furthermore, a condition may qualify the duties of both parties.  
+Cf. § 217.
+Illustrations:
+5.  A, as the result of financial reverses, sells B a valuable painting for $ 1,000,000, but reserves a right to 
+repurchase it by tendering the same price on or before August 18 if he again finds himself in such a financial 
+condition that he can keep it for his personal enjoyment.  A's tender of $ 1,000,000 by August 18 and his being 
+in such financial condition that he can keep the painting for his personal enjoyment are cumulative conditions 
+and redelivery of the painting does not become due unless both of them occur.
+6.  A purchases land from Mrs. B, who is unable to get Mr. B to join her in signing the deed because they are 
+engaged in divorce proceedings.  A takes possession under a deed signed by Mrs. B, pays Mrs. B $ 10,000 
+and promises to pay an additional $ 5,000 "if, within one year, (1) Mr. and Mrs. B execute a quitclaim deed to A, 
+or (2) Mrs. B furnishes A with a certificate of the death of Mr. B with Mrs. B surviving him, or (3) Mrs. B as a 
+single person executes a quitclaim deed to A after having been awarded the land following the entry of a final 
+decree of divorce from Mr. B." The three enumerated events are alternative conditions and A's payment of $ 
+5,000 to Mrs. B becomes due if any of them occurs.
+7.  A and B contract to merge their corporate holdings into a single new company.  It is agreed that the project 
+is not to be operative unless the parties raise $ 600,000 additional capital.  The raising of the additional capital 
+is a condition of the duties of both A and B.  If it is not raised, neither A's nor B's performance becomes due.
+e.  Occurrence of event as discharge.  Parties sometimes provide that the occurrence of an event, such as the 
+failure of one of them to commence an action within a prescribed time, will extinguish a duty after performance 
+has become due, along with any claim for breach.  Such an event has often been called a "condition 
+subsequent," while an event of the kind defined in this section has been called a "condition precedent." This 
+terminology is not followed here.  Since a "condition subsequent," so-called, is subject to the rules on discharge 
+in § 230, and not to the following rules on conditions, it is not called a "condition" in this Restatement.  
+Occasionally, although the language of an agreement says that if an event does not occur a duty is 
+"extinguished," "discharged," or "terminated," it can be seen from the circumstances that the event must 
+ordinarily occur before performance of the duty can be expected.  When a court concludes that, for this reason, 
+performance is not to become due unless the event occurs, the event is, in spite of the language, a condition of 
+the duty.  See § 227(3).  See also Comment a to § 230.
+Illustrations:
+8.  A insures B's property against theft.  The policy provides that B's failure to notify A within 30 days after loss 
+shall "terminate" A's duty to pay and that suit must be brought within one year after loss.  Since it can be seen 
+from the circumstances that notice must ordinarily be given before payment by A can be expected, B's 
+notification of A within 30 days after loss is a condition of A's duty.  B's bringing suit against A within a year after 
+
+§ 224 Condition Defined
+loss is not a condition of A's duty.  B's failure to bring suit within that time will discharge A's duty after payment 
+has become due, along with any claim for breach.
+9.  A and B make a contract under which A promises to pay B $ 10,000 in annual installments of $ 1,000 each, 
+beginning the following January 1, with a provision that "no installments whether or not overdue and unpaid 
+shall be payable in case of A's death within the 10 years." A's being alive is a condition of his duty to pay any 
+installment.  A's death within ten years will discharge his duty to pay any installment after payment has become 
+due, along with any claim for breach.
+f.  Sealed contracts.  The rules governing conditions stated in the Restatement of this Subject are applicable to 
+sealed as well as unsealed contracts.  The same rules have traditionally been applied to both types of contract 
+with technical exceptions that are no longer of significance.
+REPORTER'S NOTES
+This Section revises former § 250 to eliminate the terms "condition precedent" and "condition subsequent." This 
+terminology has long been criticized and has caused confusion when used in an attempt to answer questions 
+related to the burdens of pleading and proof.  See Holmes, The Common Law 317 (1881); Harnett and 
+Thornton, The Insurance Condition Subsequent: A Needle in a Semantic Haystack, 17 Fordham L. Rev. 220 
+(1948). "Conditions subsequent" are dealt with in connection with the rules on discharge in § 230.
+Conditions precedent are referred to simply as "conditions." The Section also abandons the use of "condition" in 
+two senses, to refer to both the event and the term that makes the event a condition, and uses it only in the 
+former sense.  Former § 255 is therefore omitted as unnecessary.  See 3A Corbin, Contracts §§ 627, 628 (1960 
+& Supp. 1980); 5 Williston, Contracts §§ 663-67A (1961).
+Comment a.  Illustration 1 is new.  See 3A Corbin, Contracts § 627 (1960).
+Comment b.  Illustration 2 is new.  See 3A Corbin, Contracts § 626 (1960).  Illustration 3 is based on 
+Illustration1 to former § 301.
+Comment c.  When an event that is not normally part of the process of formation of contract is made an event 
+upon which the performance of the contract is dependent, courts often describe it as a condition that must be 
+performed before the contract comes into existence.  See, e.g., City of Houston v. West, 563 S.W.2d 680 (Tex. 
+1978), ref. n.r.e.; Reporter's Note to Comment c to § 217.  Similarly, inartistically drafted contracts may contain 
+language such as: "this contract shall not come into existence until Event A occurs." As Illustration 7 suggests, 
+it is better to view a contract as already in existence, but with the parties' respective performances subject to 
+the specified event, which is a condition to their respective performances.  However, there is no great 
+substantive disparity between the terminology used in this Comment and descriptions of such events as 
+conditions to the existence of the contract.  This Comment excludes from the definition of condition only the 
+elements of contracts, such as offer, acceptance and capacity, not specific events triggering performance 
+simply because of the agreement of the parties.  These latter, properly called conditions to the parties' 
+performance, are what are often called conditions to the existence of the contract.  Both this Comment and the 
+case law agree that they are conditions.  Illustration 4 is new.
+Comment d.  This is based on former § 263.  Illustration 5 is based on Youssoupoff v. Widener, 246 N.Y. 174, 
+158 N.E. 64 (1927). Illustration 6 is based on Wortman v. Jessen, 183 Neb. 274, 159 N.W.2d 564 (1968). 
+Illustration 7 is based on Hicks v. Bush, 10 N.Y.2d 488, 225 N.Y.S.2d 34, 180 N.E.2d 425 (1962); see also 
+Illustration 5 to § 243.
+Comment e.  Illustrations 8 and 9 are based on Illustrations 1 and 4 to former § 259.
+Comment f.  This is based on former § 256.  No section is required to make this point.  See Comment b to § 6; 
+Introductory Note to Topic 3 of Chapter 4.
+Cross Reference
+ALR Annotations:
+Landlord and tenant: Tenant's rights under provision giving him pre-emptive right to purchase on terms offered 
+by third person, where third person's offer is withdrawn before tenant exercises pre-emptive right.  46 A.L.R.3d 
+1377.
+
+§ 224 Condition Defined
+Validity of individual employment contract for specific term which contains provision that employee will perform 
+if physically able, if health permits, or the like.  7 A.L.R.3d 898.
+Digest System Key Numbers:
+Contracts 218
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

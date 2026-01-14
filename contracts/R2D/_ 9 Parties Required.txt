@@ -1,0 +1,61 @@
+Restat 2d of Contracts, § 9
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 2- Formation of 
+Contracts -- Parties and Capacity        
+§ 9 Parties Required
+There must be at least two parties to a contract, a promisor and a promisee, but there may be any 
+greater number.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Promise to oneself.  In one sense a person can make a promise to himself, but the law does not provide 
+remedies for breach of such promises.  This rule, which is implicit in the definition of "promise" in § 2, has been 
+thought to be a rule of substantive law independent of mere procedural requirements.  But it is unlikely to have 
+practical significance unless some other person becomes involved, and in such cases it is an unreliable basis 
+for prediction of legal consequences.  Thus a contract may be formed in which the same person is one of 
+several on one side of a bargain, and either alone or with others a party on the other side.  See § 11.  Again, 
+where one party to a contract becomes both obligor and obligee and there are no other parties to the contract, 
+the contract is not necessarily deprived of all legal consequences.  See the provisions on discharge in Chapter 
+12; compare Uniform Commercial Code §§ 3-208, 3-601.
+b.  Different capacities.  One person may have different capacities, as for instance as trustee, as executor, as 
+partner, and as individual.  If he purports to make a promise in one capacity to himself in another capacity, 
+there may be legal consequences.  He cannot make a contract by his own undisclosed mental processes; a 
+contract requires a manifestation of intention.  Even if his intention is manifested by execution of a formal 
+document or by other conduct, it may not be technically accurate to say that in one capacity he holds a claim 
+against himself in another capacity, but that may be substantially the effect of his acts.  Thus if a trust company 
+holds a sum of money in trust, and in accordance with the terms of the trust deposits the money in its banking 
+department, it is under substantially the same duties to the beneficiaries as if it held a claim against a third 
+person in trust.  See Restatement, Second, Trusts § 87; compare Restatement, Second, Agency § 24.  Such 
+self-dealing by a fiduciary may involve a breach of duty to a beneficiary or principal.  See Restatement, Second, 
+Trusts § 170; Restatement, Second, Agency § 387.
+c.  Multiple parties.  Under § 1 a contract may be a "set of promises", and there may be multiple promisors and 
+multiple promisees in one set.
+Illustration:
+1.  A, B, C and D enter into a written contract by which A makes certain promises to B, other promises to C, and 
+other promises to D.  In return B, C and D promise a single performance to A, or each promises A a separate 
+performance.  In either case there is a contract, and numerous variations may be made from this illustration in 
+regard to the number of parties and the various promises which they may make.
+REPORTER'S NOTES
+This Section is based on former § 15.  See 1 Williston, Contracts § 18 (3d ed. 1957); 1 Corbin, Contracts § 55 
+(1963); 4 id. § 923 (1951).
+Comment a.  For statements that one cannot contract with himself, see United States v. Alaska S.S. Co., 491 
+F.2d 1147 (9th Cir. 1974); Forest Inv. Corp. v. Chaplin, 55 Ill. App.2d 429, 205 N.E.2d 51 (1965); Robertson v. 
+Vandalia Trust Co., 228 Mo. App. 1172, 66 S.W.2d 193 (Mo. Ct. App. 1934); Eastman v. Wright, 23 Mass. (6 
+Pick.) 316 (1828); compare Ex parte Schultz, 64 Nev. 264, 181 P.2d 585 (1947) (dissenting opinion); Yosemite 
+Portland Cement Corp. v. State Bd. of Equalization, 59 Cal. App.2d 39, 138 P.2d 39 (1943) (agreement 
+
+§ 9 Parties Required
+between city and department was "contract" within tax exemption statute, though not as a matter of "general 
+contract law"); Federal Trust Co. v. Damron, 124 Neb. 655, 247 N.W. 589 (1933).
+Comment b.  A contract between a partner and his firm was enforced in Forsyth v. Butler, 152 Cal. 396, 93 P. 
+90 (1907); compare De Martini v. Industrial Accident Comm., 90 Cal. App.2d 139, 202 P.2d 828 (1949) 
+(workmen's compensation award to partner working for wages).
+Comment c.  Illustration 1 is based on Illustration 1 to former § 15.
+Cross Reference
+ALR Annotations:
+Person who signs contract but is not named in body thereof as party to contract and liable thereunder.  94 
+A.L.R.2d 691.
+Manner and sufficiency of pleading agency in contract action.  45 A.L.R.2d 583.
+Digest System Key Numbers:
+Contracts 13
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

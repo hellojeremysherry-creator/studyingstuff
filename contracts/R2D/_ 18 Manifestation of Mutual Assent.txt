@@ -1,0 +1,60 @@
+Restat 2d of Contracts, § 18
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 2- Manifestation of Assent in General        
+§ 18 Manifestation of Mutual Assent
+Manifestation of mutual assent to an exchange requires that each party either make a promise or begin 
+or render a performance.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Manifestation of assent.  Assent to the formation of an informal contract is operative only to the extent that it 
+is manifested.  Compare § 3 and Comment b to § 2.  As to the manifestation of assent by conduct other than 
+words, see §§ 4 and 19.  Rules for cases where one party could reasonably draw more than one inference as 
+to the intention of another are stated in the following sections, in connection with the scope of contractual 
+obligations (see §§ 201, 219), and in connection with mistake (see § 151-58).
+b.  Assent by promise or performance.  Where a bargain has been fully performed on one side, there is 
+commonly no need to determine the moment of making of the contract or whether the performing party made a 
+promise before he performed.  Those issues ordinarily become important only when a dispute arises at an 
+earlier stage.  In the typical case such a dispute involves an exchange of promises before any performance 
+takes place; there is an offer containing a promise and made binding by an acceptance containing a return 
+promise.  Section 50.  The beginning or tender of performance may operate as such a return promise under § 
+63.  In less common cases, acceptance may be made by a performance under § 54, and the beginning of 
+performance may have an intermediate effect of making the offer irrevocable under § 45.
+c.  Sham or jest.  Where all the parties to what would otherwise be a bargain manifest an intention that the 
+transaction is not to be taken seriously, there is no such manifestation of assent to the exchange as is required 
+by this Section.  In some cases the setting makes it clear that there is no contract, as where a business 
+transaction is simulated on a stage during a dramatic performance.  In other cases, there may be doubt as to 
+whether there is a joke, or one of the parties may take the joke seriously.  If one party is deceived and has no 
+reason to know of the joke the law takes the joker at his word.  Even if the deceived party had reason to know 
+of the joke, there may be a claim for fraud or unjust enrichment by virtue of the promise made.  Where the 
+parties to a sham transaction intend to deceive third parties, considerations of public policy may sometimes 
+preclude a defense of sham.  Cf. Illustration 1 to § 21.
+REPORTER'S NOTES
+This Section is new; compare former § 20.  See 1 Williston, Contracts § 22 (3d ed. 1957); 1 Corbin, Contracts § 
+107 (1963 & Supp. 1980).  The requirement of a voluntary act is dealt with in § 19.  The effect of a 
+manifestation of assent when the party does not in fact assent is stated in §§ 19, 20, and subsequent sections.  
+Intention to be or not to be legally bound is the subject of § 21.
+Cross Reference
+ALR Annotations:
+What constitutes a contract for sale under uniform commercial code § 2-314.  78 A.L.R.3d 696.
+Validity and construction of preincorporation agreement between promoters as to future employment.  66 
+A.L.R.3d 1138.
+
+§ 18 Manifestation of Mutual Assent
+Variance between offer and acceptance in regard to title as affecting consummation of contract for sale of real 
+property.  16 A.L.R.3d 1424.
+Person who signs contract but is not named in body thereof as party to contract and liable thereunder.  94 
+A.L.R.2d 691.
+Validity, construction, and effect of contract between grower of vegetable or fruit crops, and purchasing 
+processor, packer, or canner.  87 A.L.R.2d 732.
+What constitutes acceptance or ratification of, or acquiescence in, services rendered by attorney so as to raise 
+implied promise to pay reasonable value thereof.  78 A.L.R.2d 318.
+Conditions printed on confirmation slips as binding on customers of stock or commodity broker.  71 A.L.R.2d 
+1089.
+Admissibility of oral evidence to show that a writing was a sham agreement not intended to create legal 
+relations.  71 A.L.R.2d 382.
+Comment Note. -- Mutuality of remedy as essential to granting of specific performance.  22 A.L.R.2d 508.
+Digest System Key Numbers:
+Contracts 14, 15
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

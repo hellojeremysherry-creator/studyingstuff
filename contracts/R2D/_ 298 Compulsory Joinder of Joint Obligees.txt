@@ -1,0 +1,63 @@
+Restat 2d of Contracts, § 298
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 2- Joint and Several Promisees        
+§ 298 Compulsory Joinder of Joint Obligees
+(1)  In an action based on a joint right created by a promise, the promisor by making appropriate 
+objection can prevent recovery of judgment against him unless there are joined either as plaintiffs or as 
+defendants all the surviving joint obligees.
+(2)  Except in actions on negotiable instruments and except as stated in § 300, any joint obligee unless 
+limited by agreement may sue in the name of all the joint obligees for the enforcement of the promise 
+by a money judgment.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Common-law procedure.  Before the procedural reforms of the nineteenth century, promisees of the same 
+performance could not join as plaintiffs in an action at law unless their right was joint.  If the right was joint, 
+failure to join all surviving joint promisees was ground for dismissing the action.  But any joint promisee had an 
+irrevocable power to sue in the names of all.  Unless the power was used fraudulently (see § 300), a dissenting 
+co-plaintiff in such a case could apply for a stay until security for costs was given by the party using his name, 
+or he could in good faith release or settle the claim (see § 299), but he could not otherwise prevent use of his 
+name.
+b.  Modern procedure.  Modern statutes and rules of court follow the more flexible procedure which formerly 
+prevailed in courts of equity.  Joinder is permitted much more freely, and non-joinder and misjoinder can be 
+cured by adding or dropping parties; partial or conditional relief can be given.  But joint promisees are still 
+required to join as plaintiffs or to be joined as defendants or involuntary plaintiffs.  By statute in some states, 
+partners may sue in the firm name.  Whether or not there is proper joinder of plaintiffs, a judgment for or against 
+one joint promisee bars subsequent actions against the same defendant by the others unless there is fraud or 
+collusion.  See Restatement, Second, Judgments § 53.
+c.  Control over litigation.  In an action for recovery of a promised sum of money or for damages, the judgment 
+can take proper account of any divergent interests of joint plaintiffs, and any disputes among the plaintiffs can 
+be decided separately.  Where specific relief is sought, however, or where relief is conditional on some 
+performance by plaintiffs, lack of unanimity among the plaintiffs may be fatal to the action.  In some situations 
+an impasse can be broken pursuant to a prior agreement among the plaintiffs.  See Uniform Partnership Act § 
+18(h), providing for majority decision unless other provision is made.  Otherwise, the plaintiff may be remitted to 
+monetary relief.  Where a negotiable instrument is payable to the order of two or more persons, not in the 
+alternative, Uniform Commercial Code § 3-116 provides that it may be enforced only by all of them.
+Illustration:
+1.  A and B, joint owners of property, convey it to C in exchange for a cash payment and C's promise to develop 
+the property and pay to A and B a percentage of the profits.  A can join B as a party and recover damages for a 
+breach by C even though B objects, but cannot maintain an action to rescind the contract if B in good faith 
+refuses to join.
+REPORTER'S NOTES
+Subsection (1) revises former § 129 to follow the style of § 117.  Subsection (2) embodies part of former § 
+130(a), but is newly limited to claims for money judgment.
+
+§ 298 Compulsory Joinder of Joint Obligees
+See 2 Williston, Contracts § 326 (3d ed. 1959); 4 Corbin, Contracts §§ 939, 940 (1951 & Supp. 1980); Reed, 
+Compulsory Joinder of Parties in Civil Actions, 55 Mich. L. Rev. 327, 367-74 (1957).
+Comment a.  See Griffith, Joint Rights and Liabilities 31-35 (1897); Dicey, Parties to Actions 119-36 (2d Am. ed. 
+1886).
+Comment b.  See Fed. R. Civ. P. 19-21; 3A Moore's Federal Practice PP18.03-21.05 (1979); 7 Wright & Miller, 
+Federal Practice and Procedure §§ 1601-89 (1972); Republic Realty Mortgage Corp. v. Eagson Corp., 68 
+F.R.D. 218 (E.D. Pa. 1975) (discussing both federal and state procedure).  Clark, Code Pleading §§ 56-58 (2d 
+ed. 1947).  As to suits by partners in the firm name, see, e.g., Iowa R. Civ. P. 4; Mich. Stat. Ann. § 27A.2051(2) 
+(1976); N.Y. CPLR § 1025 (1976); 2 Rowley, Partnership § 49.1 (2d ed. 1960).
+Comment c.  Illustration 1 is based on Denker v. Twentieth Century-Fox Film Corp., 10 N.Y.2d 339, 223 
+N.Y.S.2d 193, 179 N.E.2d 336 (1961); cf.  Ingham Lumber Co. v. Ingersoll, 93 Ark. 447, 125 S.W. 139 (1910); 
+Sweigart v. Berk. 8 Serg. & Rawl. 308 (Pa. 1822). As to negotiable instruments, see Note, 1 Stan. L. Rev. 730 
+(1949).
+Cross Reference
+Digest System Key Numbers:
+Contracts 330(2)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

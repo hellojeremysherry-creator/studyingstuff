@@ -1,0 +1,98 @@
+Restat 2d of Contracts, § 263
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 263 Destruction, Deterioration or Failure to Come Into Existence of Thing 
+Necessary for Performance
+If the existence of a specific thing is necessary for the performance of a duty, its failure to come into 
+existence, destruction, or such deterioration as makes performance impracticable is an event the non-
+occurrence of which was a basic assumption on which the contract was made.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  This Section, like the preceding one, states a common specific instance for the application of the 
+rule stated in § 261.  If, as both parties understand, the existence of a specific thing is necessary for the 
+performance of a duty it is "a basic assumption on which the contract was made" that that thing will come into 
+existence if it does not already exist and will remain in existence until the time for performance.  Therefore, if its 
+failure to come into existence or its destruction or deterioration makes performance impracticable, the obligor's 
+duty to render that performance is discharged, subject to the qualifications stated in § 261.  Each party bears 
+some of the risk that the transaction will not be carried out for such a reason.  The rule does not apply, 
+however, where an obligor merely happens to have at his disposal only one means of performance, which is 
+destroyed, since the parties do not then make the contract on the basis of such an assumption.  See Comment 
+b to § 261.  Nor does it apply if the language or the circumstances indicate the contrary.  See Comment c to § 
+261.  If the parties contract on an erroneous assumption that a specific thing necessary for performance is then 
+in existence, the rule stated in § 266(1) rather than that stated in § 261 controls, and this Section applies for the 
+purpose of that rule as well.
+Illustrations:
+1.  A contracts to sell and B to buy cloth.  A expects to manufacture the cloth in his factory, but before he begins 
+manufacture the factory is destroyed by fire without his fault.  Although cloth meeting the contract description is 
+available on the market, A refuses to buy and deliver it to B.  A's duty to deliver the cloth is not discharged, and 
+A is liable to B for breach of contract.  See Illustration 12 to § 261; compare Illustration 7 to this Section.
+2.  The facts being otherwise as stated in Illustration 1, A contracts to sell cloth to be manufactured in the 
+factory that is later destroyed.  A's duty to deliver the cloth is discharged, and A is not liable to B for breach of 
+contract.  Cf. Illustration 13 to § 261.
+3.  A contracts with B to shingle the roof of B's house.  When A has done part of the work, much of the house 
+including the roof is destroyed by fire without his fault, so that he is unable to complete the work.  A's duty to 
+shingle the roof is discharged, and A is not liable to B for breach of contract.  Compare Illustration 6 to § 261.
+4.  A contracts with B to build a house for B.  When A has done part of the work, much of the structure is 
+destroyed by fire without his fault.  A refuses to finish building the house.  A's duty to build the house is not 
+discharged, and A is liable to B for breach of contract.
+5.  A contracts to sell a specified machine to B for $ 10,000.  Before A tenders the machine to B, a fire destroys 
+it without A's fault.  A's duty to deliver the machine is discharged (Uniform Commercial Code § 2-613), and A is 
+not liable for breach of contract.  Compare Illustration 4 to § 267.
+b.  When specific thing is necessary.  The rule stated in this Section applies not only when the terms of the 
+contract make the specific thing necessary, but also when, although the contract is silent, the parties 
+understand that it is necessary.  In proving such an understanding, prior negotiations may be used to show the 
+meaning of a writing, even though it takes the form of a completely integrated agreement.  See § 214(c).
+
+§ 263 Destruction, Deterioration or Failure to Come Into Existence of Thing Necessary for Performance
+Illustrations:
+6.  A contracts with B to drive logs to B's mill during the following spring.  Although the contract does not specify 
+a particular stream, the parties know that there is only one stream down which the logs can be driven.  An 
+extraordinary drought dries that stream up during the time for performance.  A's duty to drive the logs is 
+discharged, and A is not liable to B for breach of contract.
+7.  A, a farmer, contracts with B in the spring to sell a large quantity of beans to B during the following season.  
+Although the contract does not state where the beans are to be grown, A owns but one tract of land, on which 
+he has in the past raised beans, and both parties understand that the beans will be raised on this tract.  A 
+properly plants and cultivates beans on the tract in sufficient quantity to perform the contract, but an 
+extraordinary flood destroys the crop.  A delivers no beans to B.  A's duty to deliver beans is discharged, and A 
+is not liable to B for breach of contract.  Compare Illustration 1 to this Section; Illustration 12 to § 261.
+8.  The facts being otherwise as stated in Illustration 7, A and B have no common understanding as to where 
+the beans will be grown.  A's duty to deliver beans is not discharged, and A is liable to B for breach of contract.  
+Cf. Comment f to § 261.
+REPORTER'S NOTES
+This Section is based on former § 460(1); see Uniform Commercial Code § 2-613.  See 6 Corbin, Contracts §§ 
+1337-39 (1962); 18 Williston, Contracts §§ 1946-50 (3d ed. 1978); Patterson, The Apportionment of Business 
+Risks Through Legal Devices, 24 Colum. L. Rev. 335, 351-52 (1924).
+Comment a.  Illustration 2 and the facts in Illustration 1 are based on Illustration 7 to former § 460; see 
+Illustration 12 to former § 460.  Illustration 3 is based on Illustration 10 to former § 460; see Young v. City of 
+Chicopee, 186 Mass. 518, 72 N.E. 63 (1904); Butterfield v. Byron, 153 Mass. 517, 27 N.E. 667 (1891). That the 
+rule applies to subcontractors as well, see Goldfarb v. Cohen, 92 Conn. 277, 102 A. 649 (1917); Carroll v. 
+Bowersock, 100 Kan. 270, 164 P. 143 (1917); Acme Plumbing & Heating Co. v. Hirsch, 121 Neb. 134, 236 
+N.W. 137 (1931); cf.  Martin Emerich Outfitting Co. v. Siegel, Cooper & Co., 237 Ill. 610, 86 N.E. 1104 (1908). 
+Illustration 4 is based on Illustration 1 to former § 467; see Adams v. Nichols, 36 Mass. (19 Pick.) 275 (1837); 
+United States Fidelity & Guar. Co. v. Parsons, 147 Miss. 335, 112 So. 469 (1927); School Trustees of Trenton 
+v. Bennett, 27 N.J.L. 513 (1859); cf.  Board of Educ. v. Townsend, 63 Ohio St. 514, 59 N.E. 223 (1900); Albus 
+v. Ford, 296 S.W. 981 (Tex. Civ. App. 1927). Illustration 5 is based on Uniform Commercial Code § 2-613; see 
+Illustration 1 to former § 460; Illustration 1 to former § 457.  For an example of a contract term indicating that 
+destruction of a building would not terminate a lease, see Rose v. Freeway Aviation, 120 Ariz. 298, 585 P.2d 
+907 (Ct. App. 1978).
+Comment b.  Illustration 6 is based on Illustration 9 to former § 460; Clarksville Land Co. v. Harriman, 68 N.H. 
+374, 44 A. 527 (1895). Illustration 7 is based on Illustration 5 to former § 460; Paymaster Oil Mill Co. v. Mitchell, 
+319 So.2d 652 (Miss. 1975); Ontario Deciduous Fruit Growers' Ass'n v. Cutting Fruit Packing Co., 134 Cal. 21, 
+66 P. 28 (1901); Squillante v. California Lands, Inc., 5 Cal. App.2d 89, 42 P.2d 81 (1935); Ranney-Davis 
+Mercantile Co. v. Shawano Canning Co., 111 Kan. 68, 206 P. 337 (1922); cf.  Snipes Mountain Co. v. Benz 
+Bros. & Co., 162 Wash. 334, 298 P. 714 (1931). Illustration 8 is suggested by Anderson v. May, 50 Minn. 280, 
+52 N.W. 530 (1892); Semo Grain Co. v. Oliver Farms, 530 S.W.2d 256 (Mo. Ct. App. 1975).
+Cross Reference
+ALR Annotations:
+Impracticability of performance of sales contract as defense under UCC § 2-615.  93 A.L.R.3d 584.
+Liabilities or risks of loss arising out of contract for repairs or additions to, or installations in, existing building 
+which, without fault of either party, is destroyed pending performance.  28 A.L.R.3d 788.
+Modern status of the rules regarding impossibility of performance as defense in action for breach of contract.  
+84 A.L.R.2d 12.
+Digest System Key Numbers:
+Contracts 309
+
+§ 263 Destruction, Deterioration or Failure to Come Into Existence of Thing Necessary for Performance
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

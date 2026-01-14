@@ -1,0 +1,89 @@
+Restat 2d of Contracts, § 267
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 267 Effect on Other Party's Duties of a Failure Justified by Impracticability 
+or Frustration
+(1)  A party's failure to render or to offer performance may, except as stated in Subsection (2), affect the 
+other party's duties under the rules stated in §§ 237 and 238 even though the failure is justified under 
+the rules stated in this Chapter.
+(2)  The rule stated in Subsection (1) does not apply if the other party assumed the risk that he would 
+have to perform despite such a failure.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  General rule.  The rules stated in §§ 237 and 238 apply to any uncured material failure, whether or not it is a 
+breach.  They therefore apply even when a party's non-performance is justified because performance has not 
+become due, his duty having been discharged or not having arisen on the ground of impracticability or 
+frustration (§§ 261, 265, 266).  Subsection (1) makes it clear that this is so, as a general rule.  Its function in this 
+Chapter is similar to that of § 239(1) in Chapter 10, Performance and Non-Performance.  See Comment a to § 
+239.
+Illustrations:
+1.  A contracts with B to paint a continuous mural around a room in B's house for $ 10,000.  A dies after he has 
+finished three of the four walls, and B refuses to pay A's estate anything.  Although A's duty as to the fourth wall 
+has been discharged, with the result that his performance never became due, his failure to render it 
+nevertheless may affect B's duty under the rule stated in § 237.  Since his failure was material and cannot be 
+cured, A's estate has no claim under the contract for the three painted walls.  The estate may have a claim 
+under the rule stated in § 272(1).
+2.  A, a school teacher, contracts with B to teach in B's school for a year.  A is to work from September through 
+May, with June, July and August as vacation, during which A's duties are insignificant.  B is to pay A monthly 
+from September through August.  A dies at the beginning of June, and B refuses to pay A's salary for June, July 
+or August.  A's estate has a claim against B under the contract for the salary for those three months.  Although 
+A's duty as to the last three months has been discharged with the result that his performance as to those 
+months never became due, his failure to render performance nevertheless may affect B's duty under the rule 
+stated in § 237.  But since his failure was not material, A's estate has a claim against B for the salary for those 
+three months.
+b.  Assumption of risk.  The rule stated in Subsection (2) is similar to that of § 239(2).  Sometimes a party will 
+undertake a greater obligation than that imposed by Subsection (1) and will assume the risk that he will have to 
+carry out his side of the exchange even though it is not carried out on the other side.  If he has assumed this 
+greater risk, then conduct on the other side which would otherwise affect his duty under the rules stated in § 
+237 or § 238 does not affect his duty.  See Comment b to § 239.
+Illustrations:
+3.  A contracts with B to furnish bus service to students attending B's school during the school year, from 
+September through May, for a stated sum payable monthly.  In March the school is closed until further notice 
+because of an epidemic.  Although the school remains closed during April and May, A is required under the 
+contract to remain ready to resume performance.  B refuses to pay A for April and May.  Since in the 
+circumstances, including the requirement that A remain ready to resume performance, B assumed the risk that 
+
+§ 267 Effect on Other Party’s Duties of a Failure Justified by Impracticability or Frustration
+he would have to perform in spite of such non-performance by A, the rule stated in Subsection (1) does not 
+apply and A's failure to render performance does not affect B's duty under the rule stated in § 237.  A has a 
+claim against B under the contract for the monthly sums for April and May.
+4.  A, who is not a merchant, contracts to sell a specified machine to B for $ 10,000 on 30 days credit.  Before A 
+tenders the machine to B, a fire destroys it without A's fault.  Under Uniform Commercial Code § 2-509(3), risk 
+of loss does not pass to the buyer until tender if the seller is not a merchant.  Since the risk of loss did not pass 
+to B until tender, the rule stated in Subsection (1) applies and A's failure of performance may affect B's duty 
+under the rule stated in § 237.  Since his failure was material and cannot be cured, A has no claim against B 
+under the contract.  Compare Illustration 5 to § 263.
+5.  The facts being otherwise as stated in Illustration 4, the machine is destroyed after A tenders it to B, but 
+before B receives it.  Since the risk of loss passed to B on tender, the rule stated in Subsection (1) does not 
+apply, and A's failure to render performance does not affect B's duty under the rule stated in § 237.  A has a 
+claim against B under the contract, even though B does not receive the machine.
+6.  A contracts to sell a house to B for $ 50,000 in a state having the Uniform Vendor and Purchaser Risk Act.  
+Under the Act, risk of loss does not pass to the buyer until there has been a transfer of either legal title or 
+possession.  Before A has transferred either the legal title to or the possession of the house to B, a fire destroys 
+it without A's fault.  Since the risk of loss did not pass to B until transfer of title or possession, the rule stated in 
+Subsection (1) applies, and A's failure to offer performance may affect B's duty under the rule stated in § 238.  
+Since his failure was material and cannot be cured, A has no claim under the contract against B.
+7.  The facts being otherwise as stated in Illustration 6, the house is destroyed after B has taken possession but 
+before title has been transferred.  Since the risk of loss passed to B on transfer of possession, the rule stated in 
+Subsection (1) does not apply, and A's failure to offer performance does not affect B's duty under the rulestated 
+in § 238.  A has a claim against B for $ 50,000, even though B does not receive title to the house.
+REPORTER'S NOTES
+This Section is the counterpart of § 239.  See former §§ 281, 282 and 286.  See 6 Corbin, Contracts § 1363 
+(1962); 6 Williston, Contracts §§ 814, 838 (3d ed. 1962); 18 id. §§ 1970, 1971 (3d ed. 1978).
+Comment a.  Illustration 1 is based on Buccini v. Paterno Constr. Co., 253 N.Y. 256, 170 N.E. 910 (1930); see 
+Smoot's Case, 82 U.S. 36, 46 (1872). The facts of Illustration 2 are taken from Donlan v. City of Boston, 223 
+Mass. 285, 111 N.E. 718 (1916), which reached a contrary result but was disapproved in In re Wil-Low 
+Cafeterias, 111 F.2d 429 (2d Cir. 1940).
+Comment b.  The use of "assumption of risk" in this contractual context should not be confused with its much-
+debated use as a term of art in tort law.  See Restatement, Second, Torts §§ 496A-G; Prosser, Law of Torts § 
+68 (4th ed. 1971); 2 Harper & James, Torts 1162-92 (1956); James, Assumption of Risk, 61 Yale L.J. 141 
+(1952). Illustration 3 is based on Montgomery v. Board of Educ., 102 Ohio St. 189, 131 N.E. 497 (1921); see 
+Illustration 5 to former § 282.  But cf.  Harrison v. Conlan, 92 Mass. 85 (1865). Illustrations 4 and 5 are based 
+on Uniform Commercial Code §§ 2-509(3), 2-613.  Illustrations 6 and 7 are based on the Uniform Vendor and 
+Purchaser Risk Act; see Skelly Oil Co. v. Ashmore, 365 S.W.2d 582 (Mo. 1963).
+Cross Reference
+Digest System Key Numbers:
+Contracts 309
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

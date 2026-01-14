@@ -1,0 +1,73 @@
+Restat 2d of Contracts, § 180
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 1- Unenforceability in General        
+§ 180 Effect of Excusable Ignorance
+If a promisee is excusably ignorant of facts or of legislation of a minor character, of which the promisor 
+is not excusably ignorant and in the absence of which the promise would be enforceable, the promisee 
+has a claim for damages for its breach but cannot recover damages for anything that he has done after 
+he learns of the facts or legislation.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Excusable ignorance.  At the time a promise is made, the promisee may be excusably ignorant of facts that 
+contravene the public policy in question.  Furthermore, although for the purposes of this Chapter, parties are 
+generally charged with knowledge of policies affecting enforceability, this Section states a limited exception for 
+a party who is excusably ignorant of legislation of a minor character from which the policy is derived.  Such 
+ignorance is more likely to be excusable where the legislation is of a local, specialized or technical nature and 
+where the other party may be assumed to have knowledge as to such matters.  In determining whether 
+ignorance of fact or law is excusable, any misrepresentations made by the other party are relevant.  However, 
+good faith is expected on the part of the party who claims ignorance and he cannot blind his eyes because he 
+does not wish to see.  Furthermore, the matter of which he is ignorant must not be one as to which he is 
+expected to have knowledge because of his expertise or his relation to the transaction.
+b.  Promisor must not be excusably ignorant.  The promisee's excusable ignorance is not by itself enough to 
+give him the right to enforce the promise under this Section.  The promisor must not be excusably ignorant as 
+to the matter in question.  (That an unenforceable promise can be consideration for a return promise, see § 78.) 
+If the promisor has specialized knowledge of the field involved, he is likely to be charged with knowledge as to 
+legislation of even a minor character.  It is not necessary that the promisor make any misrepresentation, 
+although a misrepresentation by him may be significant as bearing on whether the promisee's ignorance is 
+excusable.  See Comment a.  Furthermore, on learning the truth, the promisee is expected promptly to 
+withdraw from the transaction and render no further performance.
+Illustrations:
+1.  A and B make an agreement under which B promises to deliver to A goods.  B already has a contract to 
+deliver the goods to C, but A neither knows nor has reason to know this.  On learning of B's contract with C, A 
+refuses to take the goods or pay the price.  Enforcement of B's promise to deliver the goods to A is not 
+precluded on grounds of public policy and A has a claim against B for damages.  But see § 194.
+2.  A and B make an agreement under which A promises to pay B $ 10,000 in return for B's promise to cut 
+down trees on a specified tract of land.  A knows that the land belongs to C rather than to A, but B neither 
+knows nor has reason to know this.  C prohibits entry on the land.  Enforcement of A's promise to pay B $ 
+10,000 is not precluded on grounds of public policy and B has a claim against A for damages.  As to the rights 
+of A and B if A neither knows nor has reason to know that C is the owner, see § 198(b).
+3.  A, an insurance company, makes an agreement with B under which it promises to employ B for a year.  A 
+has not obtained a license required for it lawfully to do business, but B neither knows nor has reason to know 
+this.  On discovering it after he has begun to work, B promptly refuses further services.  Enforcement of A's 
+promise to employ B is not precluded on grounds of public policy and B has a claim against A for damages.
+4.  A and B make an agreement under which A, a builder, promises to build a house for B for $ 100,000.  The 
+plan and specifications involve violations of local building ordinances of which B neither knows nor has reason 
+
+§ 180 Effect of Excusable Ignorance
+to know.  On discovering the violations, B promptly refuses to allow A to proceed with the work.  Enforcement of 
+A's promise to build the house is not precluded on grounds of public policy and B has a claim against A for 
+damages.
+5.  A, the owner of a newspaper, promises B that he will publish a statement about C that A knows is false and 
+defamatory if B pays him $ 10,000.  B, who is ignorant of the law of torts and does not know the statement is 
+actionable as libel, pays A $ 10,000.  A's promise to publish the statement is unenforceable on grounds of 
+public policy.
+c.  Other effects of ignorance.  If both the promisor and the promisee are excusably ignorant, the promisee may 
+have a claim in restitution under the rule stated in § 198 even though he has no claim for damages under this 
+Section.  Furthermore, a court may take account of a party's ignorance, even if it is not excusable, in applying 
+the rule stated in § 178.  See Comment e to § 178.
+REPORTER'S NOTES
+This Section is based on former § 599.  See 6A Corbin, Contracts §§ 1538-39 (1962); 14 Williston, Contracts 
+§§ 1631-31A (3d ed. 1972).
+Comment b.  Illustration 1 is based on Illustration 1 to former § 576.  As to conflicting rights to goods in such 
+cases, see Uniform Commercial Code § 2-403(2).  Illustrations 2, 3 and 4 are based on Illustrations 2, 3 and 4 
+to former § 599.  Illustration 5 is new.  In Roylex Inc. v. Avco Community Developers, 559 S.W.2d 833 (Tex. 
+Civ. App. 1977), a subcontractor was permitted to recover from a general contractor for work it performed on a 
+city inspector's home at the general contractor's direction.  The court reasoned that there was no evidence that 
+the subcontractor knew of the facts that made the transaction between the inspector and the general contractor 
+illegal.
+Cross Reference
+Digest System Key Numbers:
+Contracts 139
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

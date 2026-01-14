@@ -1,0 +1,107 @@
+Restat 2d of Contracts, § 12
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 2- Formation of 
+Contracts -- Parties and Capacity        
+§ 12 Capacity to Contract
+(1)  No one can be bound by contract who has not legal capacity to incur at least voidable contractual 
+duties.  Capacity to contract may be partial and its existence in respect of a particular transaction may 
+depend upon the nature of the transaction or upon other circumstances.
+(2)  A natural person who manifests assent to a transaction has full legal capacity to incur contractual 
+duties thereby unless he is
+(a)  under guardianship, or
+(b)  an infant, or
+(c)  mentally ill or defective, or
+(d)  intoxicated.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Total and partial incapacity.  Capacity, as here used, means the legal power which a normal person would 
+have under the same circumstances.  See Restatement, Second, Agency § 20; Restatement, Second, Trusts § 
+18.  Incapacity may be total, as in cases where extreme physical or mental disability prevents manifestation of 
+assent to the transaction, or in cases of mental illness after a guardian has been appointed.  Often, however, 
+lack of capacity merely renders contracts voidable.  See § 7.  Incapacity sometimes relates only to particular 
+types of transactions; on the other hand, persons whose capacity is limited in most circumstances may be 
+bound by particular types of transactions.  In cases of partial disability, the law of mistake or of 
+misrepresentation, duress and undue influence may be relevant.  See Chapters 6 and 7, particularly §§ 153, 
+157, 161(d), 163, 164, 167, 169(c) and 177, Comment b to § 172 and Comment c to § 175.
+b.  Types of incapacity.  Historically, the principal categories of natural persons having no capacity or limited 
+capacity to contract were married women, infants, and insane persons.  Those formerly referred to as insane 
+are included in the more modern phrase "mentally ill," and mentally defective persons are treated similarly.  
+Statutes sometimes authorize the appointment of guardians for habitual drunkards, narcotics addicts, 
+spendthrifts, aged persons or convicts as in cases of mental illness.  Even without the appointment of a 
+guardian, civil powers of convicts may be suspended in whole or in part during imprisonment; and American 
+Indians are for some purposes treated as wards of the United States government.  The contractual powers of 
+convicts and Indians are beyond the scope of the Restatement of this Subject.  As to convicts, see Model Penal 
+Code § 306.5.
+c.  Inability to manifest assent.  In order to incur a contractual duty, a party must make a promise, manifesting 
+his intention; in most cases he must manifest assent to a bargain.  See §§ 2, 17, 18.  The conduct of a party is 
+not effective as a manifestation of his assent unless he intends to engage in the conduct.  See § 19.  Hence if 
+physical disability prevents a person from acting, or if mental disability is so extreme that he cannot form the 
+necessary intent, there is no contract.  Similarly, even if he intends to engage in the conduct, there is no 
+contract if the other party knows or has reason to know that he does not intend the resulting appearance of 
+assent.  See § 20.  In such cases it is proper to say that incapacity prevents the formation of a contract.
+
+§ 12 Capacity to Contract
+d.  Married women.  At common law a married woman had no capacity to incur contractual duties, although 
+courts of equity recognized a limited power with respect to property conveyed to her separate use.  Modern 
+statutes in most States have given married women full power to contract, and they are therefore omitted from 
+the list in subsection (2) of persons who may not have full capacity.  In some States, however, capacity is still 
+denied with respect to particular types of contracts, such as contracts between husband and wife, contracts of 
+suretyship, contracts for the sale of real property, or contracts relating to the management of community 
+property.
+e.  Artificial persons.  The contractual powers of artificial persons such as corporations and governmental 
+agencies are beyond the scope of the Restatement of this Subject.  The tendency of modern legislation is to 
+restrict the assertion of the defense of ultra vires by business corporations, and in effect to give them full 
+capacity; what was once lack of capacity then resembles lack of authority as used in the law of agency.  See 
+Model Business Corporation Act § 6 (1961).  Where partnerships or unincorporated associations have no 
+power to contract as such, contracts made in their names bind the members instead.  Compare Restatement, 
+Second, Agency § 20; Restatement, Second, Trusts §§ 97, 98.
+f.  Necessaries.  Persons having no capacity or limited capacity to contract are often liable for necessaries 
+furnished to them or to their wives or children.  Though often treated as contractual, such liabilities are quasi-
+contractual: the liability is measured by the value of the necessaries rather than by the terms of the promise.  
+The rules governing such liabilities are beyond the scope of the Restatement of this Subject.  See Restatement 
+of Restitution §§ 62, 112-17, 139.
+REPORTER'S NOTES
+Subsection (1) is based on former § 18.  Subsection (2) is new.  See 2 Williston, Contracts §§ 222-72 (3d ed. 
+1959); 1 Corbin, Contracts § 54 (1963 & Supp. 1980).
+Comment a.  For suggestions that unconscionability (see § 208) and related doctrines should replace 
+incapacity as the major protective device for persons with disabilities, see Navin, The Contracts of Minors 
+Viewed from the Perspective of Fair Exchange, 50 N.C.L. Rev. 517, 546-47 (1972); and Alexander & Szasz, 
+From Contract to Status Via Psychiatry, 13 Santa Clara Law. 537, 557-59 (1973). Compare Green, Proof of 
+Mental Incompetency and the Unexpressed Major Premise, 53 Yale L.J. 272, 311 (1944) (real standard applied 
+by courts is "the fairness or unfairness of the transaction").
+Comment b.  For examples of statutes authorizing the appointment of a guardian for a spendthrift see Ill. Ann. 
+Stat. ch. 3, § 112 (Smith-Hurd 1965); Iowa Code Ann. § 633.552 (West 1971); Me. Rev. Stat. tit. 18., § 3601 
+(Supp. 1977); Mass. Ann. Laws. ch. 201, § 1 (Michie/Law. Co-op Supp. 1977); Mich. Comp. Laws § 703.14 
+(1970); Minn. Stat. Ann. § 525.54 (West 1973); N.H. Rev. Stat. Ann. § 464:5 (1968); R.I. Gen. Laws § 33-15-8 
+(1969); Vt. Stat. Ann. tit. 14, § 2682 (1974); Wis. Stat. Ann. § 880.03 (West 1971).
+For similar statutes relating to convicts, see Haw. Rev. Stat. § 353-34 (1976 Replacement Vol.); Me. Rev. Stat. 
+tit. 18, § 3601 (Supp. 1977); Miss. Code Ann. § 93-13-135 (1972); N.Y. Correc. Law §§ 320, 350 (1968); Ohio 
+Rev. Code Ann. § 2111.01 (Page 1976); Va. Code § 53-305 (Supp. 1977); W. Va. Code § 28-5-33 (1976).
+The Uniform Probate Code, unlike § 13, makes a distinction between protective proceedings such as 
+conservatorships for persons unable to manage their property, and guardianships of persons unable to care for 
+their persons.  See Uniform Probate Code, Comments to §§ 5-304 and 5-401.  On the distinction between 
+guardianship and conservatorship, see Reporter's Note to § 13.  See also Uniform Probate Code § 5-420 
+Comment.
+For examples of limitations on the capacity of some American Indians, see 25 U.S.C. § 81 (1976); Price, Law 
+and the American Indian 639-42 (1973); Cohen, Felix S. Cohen's Handbook of Federal Indian Law 164-66, 279-
+82 (1971 reprint of 1942 ed.).
+Comment d.  Even in the absence of the ratification of the Equal Rights Amendment, any treatment of married 
+women as having less capacity to contract than either married men or single women would appear to be of very 
+doubtful constitutionality, as based upon either an irrational classification (see Reed v. Reed, 404 U.S. 71 
+(1971)), or an irrebutable presumption (see Cleveland Bd. of Educ. v. LaFleur, 414 U.S. 632 (1974)). In fact, 
+such treatment will probably be tested under a more rigorous standard, and thus is even more likely to be 
+struck down.  See Craig v. Boren, 429 U.S. 190 (1976) and Frontiero v. Richardson, 411 U.S. 677 (1973).
+
+§ 12 Capacity to Contract
+Comment f.  As to the quasi-contractual nature of liability for necessaries, see 2 Williston, Contracts §§ 240, 
+255, 262 (3d ed. 1959); Restatement, Restitution §§ 113, 114 (1937) and Comments thereto; Clark, Domestic 
+Relations § 6.3 at 189 (1968); Weihofen, Mental Incompetency to Convey or Contract, 39 So. Cal. L. Rev. 211, 
+238-39 (1966).
+Cross Reference
+ALR Annotations:
+Commitment of grantor to institution for insane as ground for setting aside conveyance in consideration of 
+support.  18 A.L.R.2d 906.
+Digest System Key Numbers:
+Contracts 11, 92
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

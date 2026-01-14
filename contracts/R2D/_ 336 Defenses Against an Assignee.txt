@@ -1,0 +1,221 @@
+Restat 2d of Contracts, § 336
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 4- Effect on the Obligor’s Duty        
+§ 336 Defenses Against an Assignee
+(1) By an assignment the assignee acquires a right against the obligor only to the extent that the 
+obligor is under a duty to the assignor; and if the right of the assignor would be voidable by the obligor 
+or unenforceable against him if no assignment had been made, the right of the assignee is subject to 
+the infirmity.
+(2) The right of an assignee is subject to any defense or claim of the obligor which accrues before the 
+obligor receives notification of the assignment, but not to defenses or claims which accrue thereafter 
+except as stated in this Section or as provided by statute.
+(3) Where the right of an assignor is subject to discharge or modification in whole or in part by 
+impracticability, public policy, non-occurrence of a condition, or present or prospective failure of 
+performance by an obligee, the right of the assignee is to that extent subject to discharge or 
+modification even after the obligor receives notification of the assignment.
+(4) An assignee's right against the obligor is subject to any defense or claim arising from his conduct 
+or to which he was subject as a party or a prior assignee because he had notice.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Negotiable instruments and documents.  The rules stated in this Section do not apply to the negotiation or 
+transfer of a negotiable instrument or document.  See § 316.  The Uniform Commercial Code provides for the 
+rights of a holder in due course of a negotiable instrument, a holder to whom a negotiable document has been 
+duly negotiated and a purchaser for value who has taken an investment security without notice of a particular 
+defense.  Such a holder or purchaser takes free of many defenses of the obligor.  See §§ 3-305, 7-502, 8-202.  
+Compare Comment f.  Where those provisions do not apply, transfer of a negotiable instrument or document 
+vests in the transferee the rights which the transferor had or had authority to convey.  See §§ 3-201, 3-306, 7-
+504, 8-301.
+b.  Accrued defenses.  Unlike the negotiation of a negotiable instrument, the assignment of a non-negotiable 
+contractual right ordinarily transfers what the assignor has but only what he has.  The assignee's right depends 
+on the validity and enforceability of the contract creating the right, and is subject to limitations imposed by the 
+terms of that contract and to defenses which would have been available against the obligee had there been no 
+assignment.  Until the obligor receives notification of an assignment, he is entitled to treat the obligee as owner 
+of the right, and the assignee's right is subject to defenses and claims arising from dealings between assignor 
+and obligor in relation to the contract before notification.  See § 338.
+Illustrations:
+1.  A holds B's unsealed written promise, unenforceable because given without consideration.  A assigns this to 
+C, who pays value on the faith of the writing, with reasonable belief that A had given B consideration and that 
+the promise is legally binding.  C has no right against B.
+2.  A has a right against B voidable because created when B was an infant.  A assigns his right to C, who is 
+ignorant of the facts making the right voidable.  C's right against B is voidable.
+3.  A lends money to B and assigns his right to C.  C's right is barred by the Statute of Limitations when A's right 
+would have been.
+
+§ 336 Defenses Against an Assignee
+4.  A, who is not C's agent, fraudulently induces B to buy lumber from C.  C does not know of the fraud and acts 
+in good faith.  C later assigns his rights under the contract to D, who knows of the fraud but was not a party to it.  
+B cannot avoid the contract against D.
+c.  Accrued claims.  Statutes or rules of court commonly permit an obligor when sued to assert by way of set-off 
+or counterclaim in the same action such claims as he has against the plaintiff, whether related to the plaintiff's 
+claim or not.  See, e.g., Rule 13 of the Federal Rules of Civil Procedure.  In appropriate circumstances the 
+obligor may use defensively against an assignee an offsetting claim against the assignor, although the 
+assignee is not subject to affirmative liability on such a claim unless he contracts to assume such liability.  See 
+§ 328; Uniform Commercial Code §§ 2-210, 9-317.  Courts of equity exercised jurisdiction in set-off at an early 
+date, but set-off in actions at law stems from an English statute enacted in 1729 and applicable to "mutual 
+debts"; counterclaim statutes first appeared in the nineteenth century.  Set-off against an assignee has 
+sometimes been limited to cases where both offsetting claims were fully matured at the time of assignment.  
+The modern rule, however, unless a statute provides otherwise, turns on the time the obligor receives 
+notification of assignment and applies even though the assigned right has not then matured.  See Uniform 
+Commercial Code § 9-318.
+Illustration:
+5.  A lends money to B, who regularly sells goods to A on credit and expects to repay the loan by making such 
+sales.  A assigns his right to C.  Thereafter B sells goods to A as expected, and the price becomes due before 
+B receives notification of the assignment.  Unless a statute provides otherwise, B can set off his claim for the 
+price in an action by C as assignee.
+d.  Defenses and claims accruing after notification.  After receiving notification of an assignment, an obligor 
+must treat the assignee as owner of the right and cannot assert against him a defense or claim arising out of a 
+subsequent transaction except as stated in § 338.  Moreover, the obligor cannot under the usual statute or rule 
+of court set off an unrelated claim which matures after notification is received.  Section 553of the Bankruptcy 
+Reform Act of 1978, 11 U.S.C. § 553 (1978), provides for the set-off of unmatured claims.  The extent to which 
+a similar rule is applicable to assignment for the benefit of creditors or to other insolvency proceedings is often 
+affected by statute and is beyond the scope of this Restatement.  Notification, however, does not enlarge the 
+obligor's duty, and the possibility remains that the assigned right will become subject to a defense or to a claim 
+by way of recoupment.  The assignee's right is subject to such a defense or claim if it arises from the terms of 
+the contract between the assignor and the obligor.  See Uniform Commercial Code § 9-318.
+Illustrations:
+6.  A contracts to market goods for B in return for payment to be made by B.  A then assigns his right to 
+payment to C, and B receives notification of the assignment.  Subsequently A becomes insolvent and wholly 
+fails to perform the contract.  B has a defense against C.
+7.  A contracts to build a structure for B, and becomes entitled to progress payments.  A assigns the money due 
+to C, and B receives notification of the assignment.  Thereafter, in breach of his contract, A abandons the work.  
+In an action by C against B, B is entitled to recoup damages caused by A's breach.
+e.  Claims against a prior assignee.  The rules stated in this Section apply to a sub-assignee.  Just as an 
+assignee is subject to defenses and claims accruing before the obligor receives notification, so a sub-assignee 
+is subject to defenses and claims accruing between assignee and obligor before the obligor receives 
+notification of a sub-assignment.  Defenses and claims arising from the terms of the contract creating the right 
+are available to the obligor regardless of when they accrue.
+Illustration:
+8.  B owes A $ 100.  A assigns the right to C, and C assigns it to D.  C owes B $ 50.  Unless a statute provides 
+otherwise, B can set off against D the debt owed by C only if it becomes due before B receives notification of 
+the assignment by C.
+f.  Agreement not to assert defenses.  The obligor may undertake a greater obligation to an assignee than to 
+the assignor by direct contract with the assignee, and may confer on the assignor an agency power to bind him 
+to such an agreement.  Section 9-206 of the Uniform Commercial Code gives effect to an agreement by a buyer 
+or lessee that he will not assert against an assignee any claim or defense which he may have against the seller 
+or lessor, making it enforceable by a good faith assignee for value without notice of a claim or defense, except 
+as to defenses of a type which may be asserted against a holder in due course of a negotiable instrument.  The 
+
+§ 336 Defenses Against an Assignee
+Assignment of Claims Act of 1940, 31 U.S.C. § 203 (1979), contains a more limited authorization for a no-setoff 
+agreement by the United States.  The Code provision is subject to any statute or decision which establishes a 
+different rule for buyers or lessees of consumer goods, and a number of retail installment sales acts limit the 
+power of a buyer to make such an agreement.  In addition, the Federal Trade Commission has issued a Trade 
+Regulation Rule barring such agreements with respect to consumers.  See 16 C.F.R. §§ 433.1-.3 (1975).  In the 
+absence of statute, administrative rule or court decision, such an agreement can take effect to give the 
+assignee greater rights than the assignor as to matters governed by the terms of the contract; but if the 
+agreement not to assert defenses or claims is itself voidable or unenforceable, the assignee takes subject to 
+the defect.
+Illustrations:
+9.  B, doing business under the name A, executes a purported contract with A reciting the delivery of goods by 
+A to B and B's promise to pay A for them.  B then executes on behalf of A an assignment to C of A's rights 
+under the contract and delivers it to C for consideration.  Whether or not C knows the facts, B's purported 
+promise is binding in favor of C.
+10.  A sells and delivers goods to B, and B agrees that in the event of an assignment to C, B will pay the price 
+to C without asserting any defense or claim based on breach of warranty by A.  A assigns his rights under the 
+contract to C, who takes in good faith and without notice of any defense or claim.  In the absence of statute or 
+administrative rule, B is barred from asserting against C a defense or claim based on breach of warranty by A.
+11.  A contracts to sell goods to B, and B agrees that in the event of an assignment to C B will pay the price to 
+C without asserting any defense or claim that B has against A.  A assigns his rights under the contract to C and 
+absconds without delivering any goods to B.  In the absence of statute, administrative rule or of facts giving rise 
+to an estoppel, B has a defense against C.
+g.  Estoppel.  Even though an obligor's agreement not to assert a defense or claim is not binding or is voidable 
+or unenforceable, he may be estopped to assert the claim or defense against an assignee.  Where he makes a 
+representation of fact with the intention of inducing an assignee or prospective assignee to act in reliance on 
+the representation, and an assignee does so act, the doctrine of estoppel bars the obligor from contradicting the 
+representation in litigation against the assignee if contradiction would be inequitable.  Compare § 90. 
+Application of the doctrine depends on all the circumstances.  The representation may be express or it may be 
+implied from conduct, in unusual cases even from failure to act.  In some circumstances estoppel may rest on 
+the obligor's reason to know that the assignee may rely, even though there is no intention to induce reliance.
+Illustrations:
+12.  A contracts to do construction work for B, a subcontractor, and becomes entitled to progress payments.  A 
+assigns the progress payments to C, who advances money to A in reliance on B's assertion to C that the work 
+has been done and that the payments will be made when received from the general contractor.  In an action by 
+C for the payments, B is estopped to offset B's claim against A for A's defaults subsequent to the assignment.
+13.  A contracts to sell furniture to B for a price payable in installments.  A assigns his rights under the contract 
+to C, who buys the rights and pays for them in reliance on B's written statement addressed to C that the 
+furniture has been received and accepted by B.  In an action by C for the balance due on the price, B is 
+estopped to assert that no furniture had been received.  But there is no such estoppel if at the time of the 
+assignment C has reason to know that A has made a practice of obtaining false statements of receipt and 
+acceptance.
+14.  In May A contracts to deliver described goods to B on credit in October.  In June A assigns his rights and 
+delegates his duties under the contract to C.  With knowledge of the assignment B accepts the goods from C in 
+October, making no claim of an offset.  B is estopped to assert against C claims for prior defective deliveries by 
+A.
+h.  Conduct of the assignee.  The conduct of the assignee or his agents may, like that of any obligee, give rise 
+todefenses and claims which may be asserted against him by the obligor.  An obligee who is subject to such a 
+defense or claim cannot improve his position by assigning the right to an assignee who is not subject to the 
+defense or claim and then taking a reassignment.  Compare Uniform Commercial Code § 3-201.
+Illustration:
+
+§ 336 Defenses Against an Assignee
+15.  A is fraudulently induced by B, the agent of C, to sell goods to C.  C assigns his rights to D, who pays value 
+in good faith and without notice.  D assigns to E, who knows of the fraud.  A cannot avoid the contract as 
+against E, who succeeded to D's rights.  But if E assigns to C, A's power of avoidance will revive.
+REPORTER'S NOTES
+Former § 167 is here revised in the light of § 309 and Uniform Commercial code § 9-318.  Former § 167(3) is 
+omitted because contrary to § 9-318(1) and other statutes and to some decisions.
+See 3 Williston, Contracts §§ 432, 33 (3d ed. 1960); 4 Corbin, Contracts §§ 892-99 (1951 & Supp. 1980); 
+Gilmore, The Assignee of Contract Rights and His Precarious Security, 74 Yale L.J. 217 (1964).
+Comment a.  See Gilmore, The Commercial Doctrine of Good Faith Purchase, 63 Yale L.J. 1057 (1954).
+Comment b.  That the assignment of a non-negotiable contract right cannot transfer more than what the 
+assignor has, see Beacon Constr. Co. v. Prepakt Concrete Co., 375 F.2d 977 (1st Cir. 1967). Illustrations 1 and 
+2 are carried forward from former § 167.  Illustration 3 is new.  Illustration 4 is Illustration 1 to former § 478.  On 
+the obligor's privilege to treat the obligee as owner of the right until the obligor receives notification of 
+assignment, see Time Fin. Corp. v. Johnson Trucking Co., 23 Utah 2d 115, 458 P.2d 873 (1969).
+Comment c.  See Clark, Code Pleading §§ 100, 106 (2d ed. 1947); Loyd, The Development of Set-Off, 64 U. 
+Pa. L. Rev. 541 (1916). Illustration 5 is based on Illustration 4 to former § 167 and Uniform Commercial Code § 
+9-318(1)(b); cf.  Maryland Coop. Milk Producers, Inc. v. Bell, 206 Md. 168, 110 A.2d 661 (1955); Petters & Co. 
+v. School Dist. No. 5, 37 Wyo. 237, 260 P. 678 (1927); Greene v. Reed, 15 Ariz. App. 110, 486 P.2d 222 (1971) 
+(dictum).  Contra: N.Y. Civil Practice Law & Rules § 3019(c); cf.  Stadler v. First Nat'l Bank, 22 Mont. 190, 56 P. 
+111 (1899). In Massey-Ferguson Credit Corp. v. Brown, 173 Mont. 253, 567 P.2d 440 (1977), an assignee-
+manufacturer was held subject to the affirmative liability of the assignor-dealer because of the close connection 
+between the assignee and assignor, and because the assignee was found to have participated in the 
+underlying transaction between the assignor and the obligor-buyer.  See also Comment f.
+Comment d.  Set-off of an unrelated claim not matured at the time notification of assignment was received was 
+denied in Cronkleton v. Hastings Theatre & Realty Corp., 134 Neb. 168, 278 N.W. 144 (1938); Northwestern 
+Nat'l Bank v. Commonwealth, 345 Pa. 192, 27 A.2d 20 (1942). Contra: St. Louis Nat'l Bank v. Gay, 101 Cal. 
+286, 35 P. 876 (1894). Permitting such set-off in cases of insolvent assignors, see N.Y. Debtor & Creditor Law 
+§§ 13, 151, 192; Eigenman v. Clark, 21 Ind. App. 129, 51 N.E. 725 (1898); Clark, Set-Off in Cases of Immature 
+Claims in Insolvency and Receivership, 34 Harv. L. Rev. 178 (1920). Illustration 6 is based on Bliss v. California 
+Co-Op. Producers, 30 Cal.2d 240, 181 P.2d 369 (1947); cf.  Sponge Divers' Ass'n v. Smith, Kline & French Co., 
+263 F. 70 (3d Cir. 1920); Illustration 3 to former § 167.  Illustration 7 is based on American Bridge Co. v. City of 
+Boston, 202 Mass. 374, 88 N.E. 1089 (1909); see Annot., 87 A.L.R. 187 (1933). See also Greene v. Reed, 15 
+Ariz. App. 110, 486 P.2d 222 (1971) (underlying contract was unenforceable as against public policy).  Cf.  
+United States Nat'l Bank v. Madison Nat'l Bank, 355 F. Supp. 165 (D.D.C. 1973), aff'd mem., 489 F.2d 1273 
+(D.C. Cir. 1974); Glassman Constr. Co. v. Fidelity & Cas. Co., 356 F.2d 340 (D.C. Cir.), cert. denied, 384 U.S. 
+987 (1966) (both involving defenses not arising from the underlying transaction).
+Comment e.  The rule stated in former § 167(3) is abandoned as contrary to Uniform Commercial Code § 9-
+318(1)(b).  Illustration 8 is Illustration 5 to former § 167, revised accordingly; it is based on Union Nat'l Bank of 
+Fremont v. Village of Beemer, 123 Neb. 778, 244 N.W. 303 (1932); see also United States Nat'l Bank v. 
+Madison Nat'l Bank, 355 F. Supp. 165 (D.D.C. 1973), aff'd mem., 489 F.2d 1273 (D.C. Cir. 1974) (citing this 
+Illustration in Tentative Draft); cf.  Produce Exch. Bank v. School Dist., 138 Kan. 834, 28 P.2d 742 (1934); 
+Martin v. Richardson, 68 N.C. 255 (1873); Metzgar v. Metzgar, 1 Rawle 227 (Pa. 1829). Contra: Downey v. 
+Tharp, 63 Pa. 322 (1869).
+Comment f.  Illustration 9 is based on Forest Inv. Corp. v. Chaplin, 55 Ill. App.2d 429, 205 N.E.2d 51 (1965); cf.  
+State Sav. Bank v. Universal Credit Corp., 233 Iowa 247, 8 N.W.2d 719 (1943); General Credit Corp. v. First 
+Nat'l Bank, 74 Wyo. 1, 283 P.2d 1009 (1955). Illustration 10 is based on Anglo-California Trust Co. v. Hall, 61 
+Utah 223, 211 P. 991 (1922); cf.  Young v. John Deere Plow Co., 102 Ga. App. 132, 115 S.E.2d 770 (1960); 
+Walter J. Hieb Sand & Gravel, Inc. v. Universal C.I.T. Credit Corp., 332 S.W.2d 619 (Ky. 1960); see Annot., 44 
+A.L.R.2d 8, 162-169 (1955). But cf.  San Franscisco Sec. Corp. v. Phoenix Motor Co., 25 Ariz. 531, 220 P. 229 
+(1923). Illustration 11 is based on American Nat'l Bank v. A.G. Somerville, Inc., 191 Cal. 364, 216 P. 376 
+(1923); Quality Fin. Co. v. Hurley, 337 Mass. 150, 148 N.E.2d 385 (1958); see Annots., 39 A.L.R.3d 518 (1971) 
+(consumer goods), 44 A.L.R.2d 8, 162-172 (1955); cf.  Dearborn Motors Credit Corp. v. Neel, 184 Kan. 437, 
+
+§ 336 Defenses Against an Assignee
+337 P.2d 992 (1959) (fraud); Hudiburg Imported Cars, Inc. v. Hart, 383 P.2d 650 (Okla. 1963) (fraud).  Contra: 
+Unico v. Owen, 50 N.J. 101, 232 A.2d 405 (1967) (consumer goods); Fairfield Credit Corp. v. Donnelly, 158 
+Conn. 543, 264 A.2d 547 (1969) (same); Commercial Credit Corp. v. Biagi, 11 Ill. App.2d 80, 136 N.E.2d 580 
+(1956); First Nat'l Bank of Elgin v. Husted, 57 Ill. App.2d 227, 205 N.E.2d 780 (1965) (under Uniform 
+Commercial Code § 9-206).
+Comment g.  Illustration 12 is based on Commerce Union Bank v. Blalock, 38 Tenn. App. 260, 273 S.W.2d 487 
+(1954); cf.  Simmons v. Smith County Bank, 225 Miss. 384, 83 So.2d 441 (1955). Illustration 13 is based on 
+Thorp Fin. Corp. v. LeMire, 264 Wis. 220, 58 N.W.2d 641 (1953); see Annot., 44 A.L.R.2d 196 (1955). 
+Illustration 14 is based on the decision but not the reasoning in King v. West Coast Grocery Co., 72 Wash. 132, 
+129 P. 1081 (1913); cf. Annot., 78 A.L.R. 824 (1932) (set-off against rent).  Illustration 15 is based on 
+Illustration 2 to former § 478.
+Cross Reference
+Digest System Key Numbers:
+Assignments 100-103
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

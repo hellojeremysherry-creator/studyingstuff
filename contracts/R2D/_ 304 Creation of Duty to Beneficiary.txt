@@ -1,0 +1,101 @@
+Restat 2d of Contracts, § 304
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 304 Creation of Duty to Beneficiary
+A promise in a contract creates a duty in the promisor to any intended beneficiary to perform the 
+promise, and the intended beneficiary may enforce the duty.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Intended and incidental beneficiaries.  "Beneficiary" is defined in § 2, "intended beneficiary" and "incidental 
+beneficiary" in § 302.  The terms are defined in relation to a "promise," a term which is neutral with respect to 
+legal consequences; this Section states that a duty to an intended beneficiary is created if the promise is 
+otherwise binding.  The related proposition that an incidental beneficiary acquires no right is stated in § 315.
+b.  Creation and termination of duty.  This Section reflects the basic principle that the parties to a contract have 
+the power, if they so intend, to create a right in a third person.  The requirements for formation of a contract 
+must of course be met, and the right of the beneficiary, like that of the promisee, may be conditional, voidable, 
+or unenforceable.  See § 309.  Whether the right of the beneficiary can be varied without his consent by action 
+taken by the promisee or by agreement between promisee and promisor is a separate question which depends 
+on the terms of the contract.  See § 311.
+c.  Promise to pay the promisee's debt.  Where the performance of the promise will satisfy an obligation of the 
+promisee to pay money to the beneficiary, the promisee is surety for the promisor.  The contract is an asset of 
+the promisee, and on grounds of simplicity and convenience of remedy the beneficiary is allowed a direct action 
+against the promisor without joining the promisee, instead of a procedure like garnishment or a suit to realize on 
+an asset of the debtor not available to seizure by ordinary legal process.  The direct remedy also protects the 
+beneficiary in reliance on the promise; his reliance is likely to take the form of inaction and to be difficult or 
+impossible to prove.  Promises to render performances other than the payment of money may be similar but 
+require a manifestation of intention to give the benefit of the performance to the beneficiary.
+Illustrations:
+1.  A owes C $ 100.  For consideration B promises A to pay the debt.  B breaks his contract.  C may sue B and 
+obtain judgment for the amount of the debt.
+2.  A transfers Blackacre to B subject to a mortgage in favor of C, which B assumes and agrees to pay.  After 
+default C may sue B and get judgment for the amount of the mortgage debt, or, after foreclosure by sale, for the 
+amount of any deficiency in the sum realized by the sale.
+3.  A owes C $ 100.  For consideration B promises A to pay $ 100 to C in satisfaction of the debt. Later the 
+statute of limitations bars an action by C against A.  That fact is not of itself a defense in an action by C against 
+B.
+4.  A promises C to have a fence built between their lands, and C pays A the price.  B contracts with A to 
+assume A's obligation to C, and A promises to pay B on completion of the work.  On B's failure to build the 
+fence, C may recover damages from B.  But a contract by B to build the fence for A would ordinarily not be a 
+contract to assume A's obligation to C.
+d.  Gift promise.  Where the promisee manifests an intention to make a gift of the promised performance to a 
+beneficiary, recognition of a duty to the beneficiary means that the beneficiary has available for his own benefit 
+the usual remedies for breach of contract.  An action by the beneficiary is commonly a convenient way to 
+enforce the right of the promisee as well as to redress any injury to the beneficiary.  This is so even though the 
+promisee has reserved a power to vary the beneficiary's right, so long as that power has not been exercised.
+
+§ 304 Creation of Duty to Beneficiary
+Illustration:
+5.  A gives money to B, his son, who promises in consideration thereof to pay A's daughter C, $ 5000 on A's 
+death.  A dies and B fails to pay C.  C may sue on the promise and obtain judgment for $ 5000.
+e.  Other intended beneficiaries.  The considerations which lead to the recognition of the right of a beneficiary of 
+a promise to pay the promisee's debt or of a gift promise operate in varying degrees in other cases.  Where the 
+promisee clearly manifests an intention to confer on the beneficiary a legal right to enforce the contract, 
+recognition of the beneficiary's right rests on the same grounds as recognition of the promisee's right.  In cases 
+of doubt, the question whether such an intention is to be attributed to the promisee may be influenced by the 
+likelihood that recognition of the right will further the legitimate expectations of the promisee, make available a 
+simple and convenient procedure for enforcement, or protect the beneficiary in his reasonable reliance on the 
+promise.
+Illustrations:
+6.  A owes C $ 1000.  For consideration B promises A to pay C $ 1000 for an assignment of C's right.  On 
+tender of such an assignment C can recover from B on his promise.
+7.  A's son C is indebted to D.  With the purpose of assisting C, A secures from B for consideration a promise to 
+pay the debt to D.  D may enforce B's promise for D's own benefit.
+8.  A owns property subject to a mortgage in favor of C.  C asserts and A denies that A is personally liable for 
+the mortgage debt.  To resolve the dispute, A transfers the property to B on B's promise to pay the mortgage 
+debt.  C may enforce B's promise for C's own benefit whether or not A is personally liable.
+9.  A, a common carrier, is required as a condition of its license to maintain liability insurance covering claims 
+for bodily injury arising out of A's operations, and files a policy written by B.  C claims to have been injured 
+under circumstances covered by the policy.  C may maintain a direct action against B.
+10.  A transfers property to B.  A promises to use money received from B to discharge all A's obligations 
+"including C's fees" up to $ 20,000; B promises to discharge all obligations in excess of $ 20,000 which A "is 
+found to be responsible to pay including C's fees." C cannot maintain an action against B on the promise before 
+A's liability has been established.
+REPORTER'S NOTES
+This Section consolidates the subject matter of former §§ 135(a) and 136(1)(a).  Former § 136(2) and 
+Comments g-i to former § 136 are replaced by the more summary statement in new Comment e.  See 2 
+Williston, Contracts §§ 357-64A, 398-99 (3d ed. 1959); 4 Corbin, Contracts §§ 782-97, 810, 820-22 (1951 & 
+Supp. 1980).
+Comment c.  Illustrations 1-4 are based on Illustrations 1, 2, 6 and 3 to former § 136, respectively.
+Comment d.  As to the effect of the promisee's power to vary the beneficiary's rights see Quilter v. Wendland, 
+403 S.W.2d 335 (Tex. 1966). Illustration 5 is part of Illustration 1 to former § 135.
+Comment e.  On the principle expressed in the last sentence of this Comment see Falmouth Hosp. v. Lopes, 
+   Mass.   , 382 N.E.2d 1042 (1978); Quilter v. Wendland, supra. For criticism of this Comment see Note, 27 
+Hastings L.J. 137, 145 n.62 (1975). Illustration 6 is based on Illustration 4 to former § 136.  Illustrations 7-10 are 
+new and are substituted for Comments g-i to former § 136.  As to Illustration 7, see 4 Corbin, Contracts § 782 
+(1951).  As to Illustration 8, see 2 Williston, Contracts § 386A (3d ed. 1959); 4 Corbin, Contracts § 796 (1951).  
+As to Illustration 9, see 2 Williston, Contracts § 364A (3d ed. 1959); 4 Corbin, Contracts § 807 (1951); but see 
+Chitlik v. Allstate Ins. Co., 34 Ohio App.2d 193, 299 N.E.2d 295 (1973). Illustration 10 is suggested by Burke v. 
+North Huntingdon Township Mun. Auth., 390 Pa. 588, 136 A.2d 310 (1957).
+Cross Reference
+ALR Annotations:
+Tenant's capacity to sue independent contractor, as third-party beneficiary, for breach of contract between 
+landlord and such contractor for repair or remodeling work.  46 A.L.R.2d 1210.
+
+§ 304 Creation of Duty to Beneficiary
+Right of third person not named in bond or other contract conditioned for support of, or services to, another, to 
+recover thereon.  11 A.L.R.2d 1010.
+Digest System Key Numbers:
+Contracts 177
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

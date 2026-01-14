@@ -1,0 +1,72 @@
+Restat 2d of Contracts, § 295
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 295 Effect of Contract Not to Sue; Reservation of Rights
+(1)  Where the obligee of promises of the same performance contracts not to sue one promisor, the 
+other promisors are not discharged except to the extent required by the law of suretyship.
+(2)  Words which purport to release or discharge a promisor and also to reserve rights against other 
+promisors of the same performance have the effect of a contract not to sue rather than a release or 
+discharge.
+(3)  Any consideration received by the obligee for a contract not to sue one promisor discharges the 
+duty of each other promisor of the same performance to the extent of the amount or value received.  An 
+agreement to the contrary is not effective unless it is made with a surety and expressly preserves the 
+duty of his principal.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  The distinction between discharge and contract not to sue.  Discharge by release, rescission or accord and 
+satisfaction has long been regarded as an executed transaction rather than an executory promise.  It has also 
+long been held that release of one joint promisor discharges his co-promisors, and the rule has been extended 
+to other types of discharges.  See § 294.  In its origin the rule was regarded as a logical consequence of the 
+nature of the right created by a joint promise; it did not depend on the intention of the parties to the release, and 
+regularly operated to defeat their manifest intention.  But the rule could be avoided by use of the form of a 
+contract not to sue, also known as a covenant not to sue.  Such a contract was treated as an executory 
+promise; although a single promisor could plead the contract as a defense to prevent circuity of action, it did not 
+discharge the right and hence did not discharge co-promisors.
+b.  Joinder of one not to be sued in action against co-promisor.  If a promisee contracts not to sue one promisor 
+and then sues one or more co-promisors, joinder of the obligee under the contracts is not required by the rule of 
+§ 290.  Where a contrary view was taken and the co-promisor was held entitled to have the one not to be sued 
+joined as a defendant, the formal joinder so required was not regarded as a breach of the contract not to sue.  
+The promisee could without violating the contract join the one not to be sued and take a joint judgment against 
+all the co-promisors, provided he took no steps to enforce the judgment against the assets of the one not to be 
+sued.
+c.  Reservation of rights.  Until the nineteenth century, words in a release of one joint promisor which purported 
+to reserve rights against co-promisors were regarded as repugnant to the nature of the release and void.  But in 
+modern times, in order to give effect to the manifested intention, courts have interpreted releases containing 
+such words as contracts not to sue.  This rule has been extended to other types of discharge, and has greatly 
+reduced the significance of the rule that release of one releases all.
+So far as the rules governing joint promisors are concerned, no reservation of rights is necessary in an 
+instrument taking the form of a contract not to sue.  But for the purposes of the law of suretyship, which 
+developed independently, a contract not to sue is treated like a release: an unqualified contract not to sue the 
+principal debtor is treated as impairing the surety's right to assert the creditor's right by way of subrogation and 
+hence as discharging the surety.  See Comment d to § 294.  This result can be avoided by a reservation of 
+rights, which is regarded as preserving not only the surety's right to reimbursement from the principal but also 
+his right to subrogation.  Thus the reservation subjects the one not to be sued to the risk that the protection the 
+contract affords may be illusory.  See Restatement of Security § 122; Uniform Commercial Code § 3-606.
+
+§ 295 Effect of Contract Not to Sue; Reservation of Rights
+d.  Consideration received.  Subsection (3) applies to consideration received by the obligee for a contract not to 
+sue the same rule stated in § 294(3) for consideration for discharge.  See Comments f and g to § 294.
+REPORTER'S NOTES
+This Section consolidates former §§ 120(3), 121(2) and 122.  The effect of parol evidence is left to Chapter 9 on 
+the scope and meaning of contracts, and Subsection (3) follows new § 121(3) in revision of former § 120(3).
+See Williams, Joint Obligations §§ 50-59 (1949); 2 Williston, Contracts §§ 338, 339, 340, 342 (3d ed. 1959); 4 
+Corbin, Contracts §§ 931-34 (1951 & Supp. 1980); Havighurst, The Effect of Settlement with One Co-Obligor 
+Upon the Obligations of the Others, 45 Cornell L.Q. 1 (1959); Annots., 53 A.L.R. 1420 (1928); 73 A.L.R.2d 403 
+(1960).
+Comment a.  On the distinctions among various types of discharge by assent, see Chapter 12, Topics 1-3, 
+especially §§ 283-85.
+Comment c.  For an effectuation of the evident intent of a party to a release to reserve her rights against an 
+alleged co-tortfeasor, see Cooper v. Robert Hall Clothes, Inc., 59 Ind. App. 168, 375 N.E.2d 1142 (1978). For a 
+case discharging co-tortfeasors when a stipulation of dismissal in an action against another contained no 
+reservation of rights, see Melo v. National Fuse and Powder Co., 267 F. Supp. 611 (D. Colo. 1967) (applying 
+Model Joint Obligations Act).  See also M. Zerman Realty Co. v. Borough of Westwood, 64 N.J. 590, 319 A.2d 
+441 (1974) in which a developer seeking damages against a municipality unsuccessfully sought to avoid 
+discharge by a release from the municipality to the developer's surety.  For a holding under Louisiana law 
+similar to the rules of this Section, see Cunningham v. Hardware Mut. Cas. Co., 228 So.2d 700 (La. Ct. App. 
+1969).
+Cross Reference
+Digest System Key Numbers:
+Release 37
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

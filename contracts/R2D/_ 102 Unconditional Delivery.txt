@@ -1,0 +1,52 @@
+Restat 2d of Contracts, § 102
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 102 Unconditional Delivery
+A written promise is delivered unconditionally when the promisor puts it out of his possession and 
+manifests an intention that it is to take effect at once according to its terms.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Transfer of possession without delivery.  "Delivery" is often used in the sense of voluntary transfer of 
+possession.  See Uniform Commercial Code § 1-201(14).  But as it is used in this Section more is required.  
+There is no delivery if the promisor manifests an intention to reserve a power of revocation.  Thus manual 
+tradition to the promisor's own servant or agent is not delivery; nor is a transfer of possession for the purpose of 
+inspection or discussion, for use as a sample or model, or merely for safekeeping.  But mailing to the promisee 
+is sufficient if the promisor manifests an intention that the promise take immediate effect.  Compare § 63.
+Illustrations:
+1.  A hands to B a sealed promise by A in which C is named as promisee, and requests B to give the document 
+to C unless B receives contrary instructions from A.  There is no delivery and no contract under seal until the 
+document is delivered to C.
+2.  A signs and seals a written promise to make a gift to B and deposits the document in themail addressed to 
+B.  There has been a delivery, and unless consideration is required the promise is binding even though A dies 
+before B receives the document.
+b.  Retention of possession by promisor.  In England and in some States a manifestation of intention that a 
+document take effect immediately is the equivalent of delivery.  Where there is consideration and a 
+manifestation of mutual assent in such circumstances, there may be a contract binding as a bargain.  See § 57.  
+Otherwise, however, tradition requires that the promisor put the document out of his possession.  But the 
+change of possession need not be permanent; a delivery for the purpose of public recording, for example, may 
+suffice even though the document is then redelivered to the promisor.
+Illustrations:
+3.  A signs and seals a written promise to B and deposits the document in the drawer of his own desk, saying to 
+B and to a third person as he does so that he intends the promise to be immediately binding.  There has been 
+no delivery.
+4.  A delivers to B a sealed promise by A in which B is named as promisee.  On receiving the document B 
+returns it to A, saying "Please keep it for me." The return does not impair the effectiveness of the delivery.
+c.  Unconditional delivery of conditional promise.  This Section refers to the unconditional delivery of a 
+document.  The promise contained in the document may be conditional or unconditional.  If the promise is 
+conditional it may create a conditional duty even though it takes immediate effect.  See § 224.
+REPORTER'S NOTES
+This Section is based on former § 102.  See 1 Williston, Contracts § 211 (3d ed. 1957); 1A Corbin, Contracts §§ 
+250-51 (1963).
+Comment a.  Illustration 1 is based on Illustration 3 to former § 102; contrast the different result on arguably 
+distinguishable facts in Twining v. National Mortgage Corp., 268 Md. 549, 302 A.2d 604 (1973). Illustration 2 is 
+modified from Illustration 1 to former § 102.
+Comment b.  Illustrations 3 and 4 were Illustrations 2 and 4 to former § 102.
+
+§ 102 Unconditional Delivery
+Cross Reference
+Digest System Key Numbers:
+Contracts 42
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

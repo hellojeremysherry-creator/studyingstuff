@@ -1,0 +1,118 @@
+Restat 2d of Contracts, § 214
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 3- Effect of Adoption of a Writing        
+§ 214 Evidence of Prior or Contemporaneous Agreements and Negotiations
+Agreements and negotiations prior to or contemporaneous with the adoption of a writing are 
+admissible in evidence to establish
+(a)  that the writing is or is not an integrated agreement;
+(b)  that the integrated agreement, if any, is completely or partially integrated;
+(c)  the meaning of the writing, whether or not integrated;
+(d)  illegality, fraud, duress, mistake, lack of consideration, or other invalidating cause;
+(e)  ground for granting or denying rescission, reformation, specific performance, or other remedy.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Integrated agreement and completely integrated agreement.  Whether a writing has been adopted as an 
+integrated agreement and, if so, whether the agreement is completely or partially integrated are questions 
+determined by the court preliminary to determination of a question of interpretation or to application of the parol 
+evidence rule.  See §§ 209-13.  Writings do not prove themselves; ordinarily, if there is dispute, there must be 
+testimony that there was a signature or other manifestation of assent.  The preliminary determination is made in 
+accordance with all relevant evidence, including the circumstances in which the writing was made or adopted.  
+It may require preliminary interpretation of the writing; the court must then consider the evidence which is 
+relevant to the question of interpretation.
+b.  Interpretation.  Words, written or oral, cannot apply themselves to the subject matter.  The expressions and 
+general tenor of speech used in negotiations are admissible to show the conditions existing when the writing 
+was made, the application of the words, and the meaning or meanings of the parties.  Even though words seem 
+on their face to have only a single possible meaning, other meanings often appear when the circumstances are 
+disclosed.  In cases of misunderstanding, there must be inquiry into the meaning attached to the words by each 
+party and into what each knew or had reason to know.  See § 201.
+Illustrations:
+1.  A and B in an integrated contract agree that A shall serve as captain of B's ship, and shall have a certain 
+rate of pay instead of "privilege and primage." Previous negotiations showing that the meaning to the parties of 
+the quoted words when used was the privilege of transporting goods in the captain's cabin establish that as the 
+meaning in the contract.
+2.  In an integrated contract with A, B promises to buy "your wool." Previous negotiations of the parties related 
+to both wool from A's sheep and wool that A had contracted to buy from other persons.  The negotiations are 
+admissible to establish both classes as the meaning of the words "your wool" in the contract.
+3.  A, in an integrated contract with B, promises B to sell certain goods to be manufactured by A, and B 
+promises to pay the "total cost." Previous negotiations may establish the meaning of "total cost."
+4.  A and B make an integrated contract by which A promises to sell and B to buy goods "ex Peerless." 
+Evidence is admissible to show that there are two ships of that name, which one each party meant, and, in case 
+of misunderstanding, whether either had knowledge or reason to know of the other's meaning.
+
+§ 214 Evidence of Prior or Contemporaneous Agreements and Negotiations
+c.  Invalidating cause.  What appears to be a complete and binding integrated agreement may be a forgery, a 
+joke, a sham, or an agreement without consideration, or it may be voidable for fraud, duress, mistake, or the 
+like, or it may be illegal.  Such invalidating causes need not and commonly do not appear on the face of the 
+writing.  They are not affected even by a "merger" clause.  See Comment e to § 216.
+Illustrations:
+5.  A and B make an integrated agreement by which A promises to complete an unfinished building according 
+to certain plans and specifications, and B promises to pay A $ 2,000 for so doing.  It may be shown that, by a 
+contract made previously with B, A had promised to erect and complete the building for $ 10,000; that he had 
+not fully completed it though paid the whole price.  This evidence is admissible to show that there is no 
+consideration for B's new promise, since A is promising no more than he is bound by his original contract to 
+perform.
+6.  A and B make an integrated agreement by which A promises to sell and B promises to buy a large quantity 
+of rifles.  It may be shown that A and B had previously agreed that the rifles when bought by B should be used 
+in fomenting a rebellion in violation of law.
+d.  Remedies.  A contract which is fully enforceable in an action for damages may be subject to equitable 
+remedies such as rescission or reformation by reason of fraud, mistake or the like.  Specific performance may 
+be denied by reason of oppression or unfairness, or other remedies may be withheld or limited where the 
+contract or a term is unconscionable.  See § 208.  Evidence of the circumstances in which the contract was 
+made may be relevant to such remedial issues, even though it also shows an agreement or proposal 
+superseded by a later integrated contract.
+Illustration:
+7.  A and B make an integrated agreement by which A promises to sell and B promises to buy a tract of land 
+described in the agreement.  Owing to a mutual mistake the description is not an accurate one of the tract in 
+regard to which both A and B were bargaining.  Prior oral agreements may be shown to establish the right to 
+reformation of the integration so that it shall accurately describe the tract intended.
+REPORTER'S NOTES
+Paragraphs (a) and (b) are new and are designed to accord with new §§ 209 and 210.  Paragraph (c) is revised 
+to accord with new § 201.  Compare former §§ 230, 231 and 242.  The balance of the Section carries forward 
+the substance of former § 238.  See 3 Corbin, Contracts §§ 543, 573, 583 (1960 & Supp. 1980); 4 Williston, 
+Contracts §§ 630, 637 (3d ed. 1961).
+Comment a.  That parol evidence is admissible to prove non-integration, see Federal Deposit Ins. Co. v. First 
+Mortgage Inv., 76 Wis.2d 151, 250 N.W.2d 362 (1977); Rempel v. Nationwide Life Ins. Co., 471 Pa. 404, 370 
+A.2d 366 (1977).
+Comment b.  For the proposition that there need not be a finding of ambiguity before parol evidence is admitted 
+to interpret an integrated agreement, see Anderson v. Kammeier, 262 N.W.2d 366 (Minn. 1978), citing this 
+Section.  The view that ambiguity is a prerequisite is exemplified by League v. Giffin, 347 So.2d 1332 (Ala. 
+1977); Kreis v. Venture Out in America, Inc., 375 F. Supp. 482 (E.D. Tenn. 1973); and Quenzer v. Quenzer, 
+225 Kan. 83, 587 P.2d 880 (1978). Illustrations 1-3 are based on Illustrations 1-3 to former § 242; see Olds v. 
+Jamison, 195 Neb. 388, 238 N.W.2d 459 (1976). Illustration 4 is based on Illustration 1 to former § 238.
+Comment c.  That fraud, mistake, voidness or lack of consideration may be shown by extrinsic evidence see 
+the discussions in League v. Giffin, 347 So.2d 1332 (Ala. 1977); Iafolla v. Douglas Pocahontas Coal Corp.,     
+W. Va.    , 250 S.E.2d 128 (1978); Miller v. Bare, 457 F. Supp. 1359 (W.D. Pa. 1978); and Reimann v. Saturday 
+Eve. Post Co., 464 F. Supp. 214 (S.D.N.Y. 1979). Compare the majority and dissenting opinions in Magi 
+Comms., Inc., v. Jac-Lu Assoc., 65 A.D.2d 727, 410 N.Y.S.2d 297 (1978). Illustrations 5 and 6 are based on 
+Illustrations 2 and 3 to former § 238.
+Comment d.  Illustration 7 is based on Illustration 4 to former § 238.
+Cross Reference
+ALR Annotations:
+
+§ 214 Evidence of Prior or Contemporaneous Agreements and Negotiations
+Modern status as to duration of employment where contract specifies no term but fixes daily or longer 
+compensation.  93 A.L.R.3d 659.
+Validity and construction of preincorporation agreement between promoters as to future employment.  66 
+A.L.R.3d 1138.
+Parol exception of fixtures from conveyance or lease.  29 A.L.R.3d 1441.
+What 12-month period constitutes "year" or "calendar year" as used in public enactment, contract, or other 
+written instrument.  5 A.L.R.3d 584.
+Revocation, prior to execution of formal written contract, of vote or decision of public body awarding contract to 
+bidder.  3 A.L.R.3d 864.
+Admissibility of oral agreement as to specific time for performance where written contract is silent.  85 A.L.R.2d 
+1269.
+Admissibility of parol evidence as to limitation on cost of structure in builder's action on written cost-plus-fee 
+construction contract.  84 A.L.R.2d 1324.
+Admissibility of parol evidence to connect signed and unsigned documents relied upon as memorandum to 
+satisfy statute of frauds.  81 A.L.R.2d 991.
+Admissibility of extrinsic evidence to identify person or persons intended to be designated by the name in which 
+a contract is made.  80 A.L.R.2d 1137.
+What constitutes "accounts receivable" under contract selling, assigning, pledging, or reserving such items.  41 
+A.L.R.2d 1395.
+Meaning of term "radius" employed in contract, statute, or ordinance as descriptive of area, location, or 
+distance.  10 A.L.R.2d 605.
+Digest System Key Numbers:
+Evidence 439-444
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

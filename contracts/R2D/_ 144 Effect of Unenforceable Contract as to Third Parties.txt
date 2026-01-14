@@ -1,0 +1,60 @@
+Restat 2d of Contracts, § 144
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 7- Consequences of Non-Compliance        
+§ 144 Effect of Unenforceable Contract as to Third Parties
+Only a party to a contract or a transferee or successor of a party to the contract can assert that the 
+contract is unenforceable under the Statute of Frauds.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Successor to contract duty.  Where a contract is unenforceable under the Statute, the Statute provides a 
+defense to a party who is sued for specific performance of the contract or for damages for its breach.  A person 
+who assumes the contractual duty and agrees to perform it may assert the defense only if the terms of the 
+contract of assumption permit.  See § 309.  The personal representative, trustee in bankruptcy or like successor 
+to the duty has the benefit of the defense.  See, e.g., Bankruptcy Reform Act of 1978, 11 U.S.C. § 541(e) 
+(1978).
+b.  Assignee or successor to claim.  Where an unenforceable contract is asserted as a defense to an 
+independent claim by a party to the contract, the Statute enables the party to reply that the defense is invalid.  
+See § 140.  The same reply is available to an assignee of the claim or to a successor such as a personal 
+representative or trustee in bankruptcy.
+c.  Transferee of property.  Where a party who has made an unenforceable contract to sell property transfers 
+the property to a third person, the third person has the benefit of the Statute as a defense to any claim based 
+on the contract.  See § 146.  A successor such as a personal representative or trustee in bankruptcy of the 
+seller also has the benefit of the defense.  Bankruptcy Reform Act of 1978, 11 U.S.C. § 544(a)(3) (1978).
+d.  Other third parties.  Only parties to a contract and their transferees and successors can take advantage of 
+the Statute of Frauds.  As against others the unenforceable contract creates the same rights, powers, privileges 
+and immunities as if it were enforceable.  See Uniform Commercial Code § 2-201 Comment.  For this purpose, 
+where one party has sold or contracted to sell property to the other and has not repudiated the sale or contract, 
+the seller's attaching or levying creditor is a successor only to the interest the seller has apart from the Statute.  
+See § 143 Illustration 2.
+Illustrations:
+1.  A and B make a contract which is unenforceable by virtue of the Statute.  C prevents B from performing, and 
+C's conduct would be tortious if the contract were enforceable.  The Statute does not impair C's tort liability to A 
+or B.
+2.  A contracts to sell a ship to B.  The Statute is not satisfied.  B insures the ship with C, an insurance 
+company.  The ship is lost.  The Statute provides no defense to C.
+3.  A contracts to sell specific goods to B, title to pass at once.  A retains possession and the contract is 
+unenforceable, but the sale is not fraudulent under any rule of law.  C, A's creditor, attaches the goods as A's 
+before any repudiation of the contract.  The attachment is invalid as against B.
+4.  A promises orally to sell Blackacre to B and B pays A the price.  Later A incurs debts which render him 
+insolvent.  A then signs a sufficient memorandum, or conveys the land to B.  A's creditor cannot set aside the 
+contract or the transfer as in fraud of creditors.
+REPORTER'S NOTES
+This Section is based on former § 218.  See 3 Williston, Contracts §§ 529-30 (3d ed. 1960); 2 Corbin, Contracts 
+§§ 289-92 (1950 & Supp. 1971).
+Comment b.  See City of Medford v. Bessonette, 255 Or. 53, 463 P.2d 865 (1970).
+
+§ 144 Effect of Unenforceable Contract as to Third Parties
+Comment c.  See O'Banion v. Paradiso, 61 Cal.2d 559, 39 Cal. Rptr. 370, 393 P.2d 682 (1964).
+Comment d.  See Pardue v. Bryant, 219 Ark. 727, 244 S.W.2d 135 (1951); Powell v. Sowell, 245 Miss. 53, 145 
+So.2d 168, suggestion of error overruled, 245 Miss. 53, 146 So.2d 576 (1962). Illustrations 1-4 are based on 
+Illustrations 1-4 to former § 218.  As to Illustration 1, see Young v. Pottinger, 340 So.2d 518 (Fla. Dist. Ct. App. 
+1976); Annots., 26 A.L.R.2d 1227, 1243 (1952); 84 A.L.R. 43, 49 (1933). As to Illustration 2, see Commercial 
+Union Ins. Co. v. Padrick Chevrolet Co., 196 So.2d 235 (Fla. Dist. Ct. App.), cert. denied, 201 So.2d 556 
+(1967). As to Illustration 3, see City of Medford v. Bessonette, supra. As to Illustration 4, compare Womack v. 
+Caldwell, 49 Tenn. App. 6, 349 S.W.2d 795 (1961).
+Cross Reference
+Digest System Key Numbers:
+Frauds, Statute of 143
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

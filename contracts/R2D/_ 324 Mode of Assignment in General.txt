@@ -1,0 +1,56 @@
+Restat 2d of Contracts, § 324
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 2- Mode of Assignment or Delegation        
+§ 324 Mode of Assignment in General
+It is essential to an assignment of a right that the obligee manifest an intention to transfer the right to 
+another person without further action or manifestation of intention by the obligee.  The manifestation 
+may be made to the other or to a third person on his behalf and, except as provided by statute or by 
+contract, may be made either orally or by a writing.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Requisites of assignment.  Assignment requires an assignable right.  See § 317.  Aside from statute, the 
+assignor of such a right may make an assignmentby manifestation of intention without any particular formality.  
+A manifestation of intention or a promise to make a transfer in the future is not an assignment, however.  See § 
+330.  Where the manifestation is made to a third person on behalf of the assignee, the assignment may not 
+take effect unless there is an acceptance by the assignee; or it may take effect subject to disclaimer by the 
+assignee.  See § 327.  Lack of formality may mean that the assignment is revocable (see § 332), or that it is 
+subject to defenses or claims of the obligor which accrue subsequently (see §§ 336, 338), or that it can be 
+defeated by creditors of the assignor or by subsequent assignees of the same right (see §§ 341, 342).
+b.  Statutory formalities: the Statute of Frauds.  The Statute of Frauds is the subject of Chapter 5 of this 
+Restatement.  Section 4 of the Uniform Sales Act included a Statute of Frauds for "a contract to sell or a sale of 
+any . . . choses in action of the value of five hundred dollars or upwards." The Uniform Commercial Code 
+substitutes a general provision that "a contract for the sale of personal property is not enforceable by way of 
+action or defense beyond five thousand dollars in amount or value of remedy" in the absence of a writing, with 
+exceptions for the sale of goods or investment securities and for "security agreements," which are covered by 
+more specific sections.  Uniform Commercial Code § 1-206.  Such provisions prevent enforcement against an 
+assignor unless there is a memorandum in writing or some substitute formality, but under the rule stated in § 
+144 of this Restatement they cannot ordinarily be asserted by third persons, including the obligor of an 
+assigned right.  Notwithstanding non-compliance with the Statute, therefore, the assignment is effective against 
+the obligor.  Moreover, the obligor discharges his duty by performing in accordance with the assignment, and 
+the assignee can keep the benefit of the performance.
+c.  Security agreements; wage assignments.  Uniform Commercial Code § 9-203 provides that with stated 
+exceptions "a security interest is not enforceable against the debtor or third parties" unless the collateral is in 
+the possession of the secured party or the debtor has signed a security agreement.  This provision applies not 
+only where the "debtor" assigns contractual rights as security for an obligation, but also where the "debtor" is a 
+"seller of accounts or chattel paper." §§ 1-201(37), 9-102(1)(b), 9-105(1)(d); see the Statutory Note at the 
+beginning of this Chapter and the Reporter's Note to § 317.  Transactions subject to this provision are not 
+enforceable against anyone unless the statutory formalities are met.  Statutes regulating assignments of wages 
+may go further and deny all effect to a non-complying assignment.
+REPORTER'S NOTES
+This Section is based on former §§ 149(1) and 157.  See 3 Williston, Contracts §§ 404, 430 (3d ed. 1960); 4 
+Corbin, Contracts §§ 861, 879 (1951).
+Comment a.  See Monegan v. Pacific Nat'l Bank, 16 Wash. App. 280, 556 P.2d 226 (1976); Twin Valley Motors 
+v. Morale, 136 Vt. 115, 385 A.2d 678 (1978); Certified Collectors v. Lesnick, 116 Ariz. 601, 570 P.2d 769 
+(1977). Courts often speak of the requirement that the purported assignor completely divest himself of control.  
+
+§ 324 Mode of Assignment in General
+See, e.g., Monegan v. Pacific Nat'l Bank, supra; Miller v. Wells Fargo Int'l Bank, 540 F.2d 548 (2d Cir. 1976); 
+S.L. Nusbaum & Co. v. Atlantic Virginia Realty Corp., 206 Va. 673, 146 S.E.2d 205 (1966).
+Cross Reference
+ALR Annotations:
+Sale of contractual rights; defect in written record as ground for avoiding sale.  10 A.L.R.2d 728.
+Digest System Key Numbers:
+Assignments 31 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

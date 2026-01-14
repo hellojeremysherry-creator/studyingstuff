@@ -1,0 +1,246 @@
+Restat 2d of Contracts, § 347
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 2- Enforcement by Award of Damages        
+§ 347 Measure of Damages in General
+Subject to the limitations stated in §§ 350-53, the injured party has a right to damages based on his 
+expectation interest as measured by
+(a) the loss in the value to him of the other party's performance caused by its failure or deficiency, plus
+(b) any other loss, including incidental or consequential loss, caused by the breach, less
+(c) any cost or other loss that he has avoided by not having to perform.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Expectation interest.  Contract damages are ordinarily based on the injured party's expectation interest and 
+are intended to give him the benefit of his bargain by awarding him a sum of money that will, to the extent 
+possible, put him in as good a position as he would have been in had the contract been performed.  See § 
+344(1)(a).  In some situations the sum awarded will do this adequately as, for example, where the injured party 
+has simply had to pay an additional amount to arrange a substitute transaction and can be adequately 
+compensated by damages based on that amount.  In other situations the sum awarded cannot adequately 
+compensate the injured party for his disappointed expectation as, for example, where a delay in performance 
+has caused him to miss an invaluable opportunity.  The measure of damages stated in this Section is subject to 
+the agreement of the parties, as where they provide for liquidated damages (§ 356) or exclude liability for 
+consequential damages.
+b.  Loss in value.  The first element that must be estimated in attempting to fix a sum that will fairly represent 
+the expectation interest is the loss in the value to the injured party of the other party's performance that is 
+caused by the failure of, or deficiency in, that performance.  If no performance is rendered, the loss in value 
+caused by the breach is equal to the value that the performance would have had to the injured party.  See 
+Illustrations 1 and 2.  If defective or partial performance is rendered, the loss in value caused by the breach is 
+equal to the difference between the value that the performance would have had if there had been no breach 
+and the value of such performance as was actually rendered.  In principle, this requires a determination of the 
+values of those performances to the injured party himself and not their values to some hypothetical reasonable 
+person or on some market.  See Restatement, Second, Torts § 911.  They therefore depend on his own 
+particular circumstances or those of his enterprise, unless consideration of these circumstances is precluded by 
+the limitation of foreseeability (§ 351).  Where the injured party's expected advantage consists largely or 
+exclusively of the realization of profit, it may be possible to express this loss in value in terms of money with 
+some assurance.  In other situations, however, this is not possible and compensation for lost value may be 
+precluded by the limitation of certainty.  See § 352.  In order to facilitate the estimation of loss with sufficient 
+certainty to award damages, the injured party is sometimes given a choice between alternative bases of 
+calculating his loss in value.  The most important of these are stated in § 348.  See also §§ 349 and 373.
+Illustrations:
+1.  A contracts to publish a novel that B has written.  A repudiates the contract and B is unable to get his novel 
+published elsewhere.  Subject to the limitations stated in §§ 350-53, B's damages include the loss of royalties 
+that he would have received had the novel been published together with the value to him of the resulting 
+enhancement of his reputation.  But see Illustration 1 to § 352.
+
+§ 347 Measure of Damages in General
+2.  A, a manufacturer, contracts to sell B, a dealer in used machinery, a used machine that B plans to resell.  A 
+repudiates and B is unable to obtain a similar machine elsewhere.  Subject to the limitations stated in §§ 350-
+53, B's damages include the net profit that he would have made on resale of the machine.
+c.  Other loss.  Subject to the limitations stated in §§ 350-53, the injured party is entitled to recover for all loss 
+actually suffered.  Items of loss other than loss in value of the other party's performance are often characterized 
+as incidental or consequential.  Incidental losses include costs incurred in a reasonable effort, whether 
+successful or not, to avoid loss, as where a party pays brokerage fees in arranging or attempting to arrange a 
+substitute transaction.  See Illustration 3.  Consequential losses include such items as injury to person or 
+property resulting from defective performance.  See Illustration 4.  The terms used to describe the type of loss 
+are not, however, controlling, and the general principle is that all losses, however described, are recoverable.
+Illustrations:
+3.  A contracts to employ B for $ 10,000 to supervise the production of A's crop, but breaks his contract by firing 
+B at the beginning of the season.  B reasonably spends $ 200 in feesattempting to find other suitable 
+employment through appropriate agencies.  B can recover the $ 200 incidental loss in addition to any other loss 
+suffered, whether or not he succeeds in finding other employment.
+4.  A leases a machine to B for a year, warranting its suitability for B's purpose.  The machine is not suitable for 
+B's purpose and causes $ 10,000 in damage to B's property and $ 15,000 in personal injuries.  B can recover 
+the $ 25,000 consequential loss in addition to any other loss suffered.  See Uniform Commercial Code § 2-
+715(2)(b).
+d.  Cost or other loss avoided.  Sometimes the breach itself results in a saving of some cost that the injured 
+party would have incurred if he had had to perform.  See Illustration 5.  Furthermore, the injured party is 
+expected to take reasonable steps to avoid further loss.  See § 350.  Where he does this by discontinuing his 
+own performance, he avoids incurring additional costs of performance.  See Illustrations 6 and 8.  This cost 
+avoided is subtracted from the loss in value caused by the breach in calculating his damages.  If the injured 
+party avoids further loss by making substitute arrangements for the use of his resources that are no longer 
+needed to perform the contract, the net profit from such arrangements is also subtracted.  See Illustration 9.  
+The value to him of any salvageable materials that he has acquired for performance is also subtracted.  See 
+Illustration 7.  Loss avoided is subtracted only if the saving results from the injured party not having to perform 
+rather than from some unrelated event.  See Illustration 10.  If no cost or other loss has been avoided, however, 
+the injured party's damages include the full amount of the loss in value with no subtraction, subject to the 
+limitations stated in §§ 350-53.  See Illustration 11.  The intended "donee" beneficiary of a gift promise usually 
+suffers loss to the full extent of the value of the promised performance, since he is ordinarily not required to do 
+anything, and so avoids no cost on breach.  See § 302(1)(b).
+Illustrations:
+5.  A contracts to build a hotel for B for $ 500,000 and to have it ready for occupancy by May 1.  B's occupancy 
+of the hotel is delayed for a month because of a breach by A.  The cost avoided by B as a result of not having 
+to operate the hotel during May is subtracted from the May rent lost in determining B's damages.
+6.  A contracts to build a house for B for $ 100,000.  When it is partly built, B repudiates the contract and A 
+stops work.  A would have to spend $ 60,000 more to finish the house.  The $ 60,000 cost avoided by A as a 
+result of not having to finish the house is subtracted from the $ 100,000 price lost in determining A's damages.  
+A has a right to $ 40,000 in damages from B, less any progress payments that he has already received.  See 
+Illustration 2 to § 344.
+7.  The facts being otherwise as stated in Illustration 6, A has bought materials that are left over and that he can 
+use for other purposes, saving him $ 5,000.  The $ 5,000 cost avoided is subtracted in determining A's 
+damages, resulting in damages of only $ 35,000 rather than $ 40,000.
+8.  A contracts to convey land to B in return for B's working for a year.  B repudiates the contract before A has 
+conveyed the land.  The value to A of the land is subtracted from the value to A of B's services in determining 
+A's damages.
+9.  A contracts to employ B for $ 10,000 to supervise the production of A's crop, but breaks his contract by firing 
+B at the beginning of the season.  B instead takes another job as a supervisor at $ 9,500.  The $ 9,500 is 
+subtracted from the $ 10,000 loss of earnings in determining B's damages.  See Illustration 8 to § 350.
+
+§ 347 Measure of Damages in General
+10.  A contracts to build a machine for B and deliver it to be installed in his factory by June 30.  A breaks the 
+contract and does not deliver the machine.  B's factory is destroyed by fire on December 31 and the machine, if 
+it had been installed there, would also have been destroyed.  The fact that the factory was burned is not 
+considered in determining B's damages.
+11.  A contracts to send his daughter to B's school for $ 5,000 tuition.  After the academic year has begun, A 
+withdraws her and refuses to pay anything.  A's breach does not reduce B's instructional or other costs and B is 
+unable to find another student to take the place of A's daughter.  B has a right to damages equal to the full $ 
+5,000.
+e.  Actual loss caused by breach.  The injured party is limited to damages based on his actual loss caused by 
+the breach.  If he makes an especially favorable substitute transaction, so that he sustains a smaller loss than 
+might have been expected, his damages are reduced by the loss avoided as a result of that transaction.  See 
+Illustration 12.  If he arranges a substitute transaction that he would not have been expected to do under the 
+rules on avoidability (§ 350), his damages are similarly limited by the loss so avoided.  See Illustration 13.  
+Recovery can be had only for loss that would not have occurred but for the breach.  See § 346.  If, after the 
+breach, an event occurs that would have discharged the party in breach on grounds of impracticability of 
+performance or frustration of purpose, damages are limited to the loss sustained prior to that event.  See 
+Illustration 15.  Compare § 254(2).  The principle that a party's liability is not reduced by payments or other 
+benefits received by the injured party from collateral sources is less compelling in the case of a breach of 
+contract than in the case of a tort.  See Restatement, Second, Torts § 920A.  The effect of the receipt of 
+unemployment benefits by a discharged employee will turn on the court's perception of legislative policy rather 
+than on the rule stated in this Section.  See Illustration 14.
+Illustrations:
+12.  A contracts to build a house for B for $ 100,000, but repudiates the contract after doing part of the work and 
+having been paid $ 40,000.  Other builders would charge B $ 80,000 to finish the house, but B finds a builder in 
+need of work who does it for $ 70,000.  B's damages are limited to the $ 70,000 that he actually had to pay to 
+finish the work less the $ 60,000 cost avoided or $ 10,000, together with damages for any loss caused by the 
+delay.  See Illustration 2 to § 348.
+13.  A contracts to employ B for $ 10,000 to supervise the production of A's crop.  A breaks the contract by 
+firing B at the beginning of the season, and B, unable to find another job, instead takes a job as a farm laborer 
+for the entire season at $ 6,000.  The $ 6,000 that he made as a farm laborer is subtracted from the $ 10,000 
+loss of earnings in determining B's damages.  See Illustration 8 to § 350.
+14.  A contracts to employ B for $ 10,000 to supervise the production of A's crop, but breaks his contract by 
+firing B at the beginning of the season.  B is unable to find another similar job but receives $ 3,000 in state 
+unemployment benefits.  Whether the $ 3,000 will be subtracted from the $ 10,000 loss of earnings depends on 
+the state legislation under which it was paid and the policy behind it.
+15.  On April1, A and B make a personal service contract under which A is to employ B for six months 
+beginning July 1 and B is to work for A during that period.  On May 1, B repudiates the contract.  On August 1, 
+B falls ill and is unable to perform the contract for the remainder of the period.  A can only recover damages 
+based on his loss during the month of July since his loss during subsequent months was not caused by B's 
+breach.  Compare Illustration 2 to § 254.
+f.  Lost volume.  Whether a subsequent transaction is a substitute for the broken contract sometimes raises 
+difficult questions of fact.  If the injured party could and would have entered into the subsequent contract, even 
+if the contract had not been broken, and could have had the benefit of both, he can be said to have "lost 
+volume" and the subsequent transaction is not a substitute for the broken contract.  The injured party's 
+damages are then based on the net profit that he has lost as a result of the broken contract.  Since 
+entrepreneurs try to operate at optimum capacity, however, it is possible that an additional transaction would 
+not have been profitable and that the injured party would not have chosen to expand his business by 
+undertaking it had there been no breach.  It is sometimes assumed that he would have done so, but the 
+question is one of fact to be resolved according to the circumstances of each case.  See Illustration 16.  See 
+also Uniform Commercial Code § 2-708(2).
+Illustration:
+
+§ 347 Measure of Damages in General
+16.  A contracts to pave B's parking lot for $ 10,000.  B repudiates the contract and A subsequently makes a 
+contract to pave a similar parking lot for $ 10,000.  A's business could have been expanded to do both jobs.  
+Unless it is proved that he would not have undertaken both, A's damages are based on the net profit he would 
+have made on the contract with B, without regard to the subsequent transaction.
+REPORTER'S NOTES
+This Section consolidates former §§ 329 and 335.  The rules stated in former § 346, Damages for Breach of a 
+Construction Contract, are presented as applications of the general rules on damages, and that section is 
+omitted.  See 5 Corbin, Contracts §§ 992-98, 1089 (1964 & Supp. 1980); 11 Williston, Contracts §§ 1338-57 
+(3d ed. 1968); Birmingham, Breach of Contract, Damage Measures, and Economic Efficiency, 24 Rutgers L. 
+Rev. 273 (1970); Farnsworth, Legal Remedies for Breach of Contract, 70 Colum. L. Rev. 1145 (1970); Leff, 
+Injury, Ignorance and Spite-The Dynamics of Coercive Collection, 80 Yale L.J. 1 (1970); Nordstrom, Damages 
+as Compensation for Loss, 2 N.C. Central L.J. 1 (1970); Nordstrom, Toward a Law of Damages, 18 W. Res. L. 
+Rev. 86 (1966); Vernon, Expectancy Damages for Breach of Contract: A Primer and Critique, 1976 Wash. 
+U.L.Q. 179.
+Comment b.  Illustration 1 is suggested by Freund v. Washington Square Press, 34 N.Y.2d 379, 314 N.E.2d 
+419, 357 N.Y.S.2d 857 (1974). For analogous cases recognizing a right to recover under the Uniform 
+Commercial Code for loss of good will resulting from the sale of defective goods, see Isenberg v. Lemon, 84 
+Ariz. 340, 327 P.2d 1016, modified on rehearing, 84 Ariz. 364, 329 P.2d 882 (1958) (dictum); Sol-O-Lite 
+Laminating Corp. v. Allen, 223 Or. 80, 353 P.2d 843 (1960). Illustration 2 is based on Murarka v. Bachrack 
+Bros., 215 F.2d 547 (2d Cir. 1954); see Uniform Commercial Code §§ 2-713, 2-715.
+Comment c.  See former § 336(2).  Illustration 3 is based on Mr. Eddie, Inc. v. Ginsberg, 430 S.W.2d 5 (Tex. 
+Civ. App. 1968). As to Illustration 4, see Uniform Commercial Code § 2-715.
+Comment d.  See Patterson, Builder's Measure of Recovery for Breach of Contract, 31 Colum.  L. Rev. 1286 
+(1931). The last sentence of this Comment is based on former § 345(1)(b).  Illustration 5 is based on Illustration 
+6 to former § 346; see also Illustration 7 to former § 346; see State ex rel. Schilling v. Baird, 65 Wis.2d 394, 222 
+N.W.2d 666 (1974). Illustration 6 is based on Illustration 1 to former § 335 and Illustrations 11 and 12 to former 
+§ 346.  As to the treatment of A's fixed costs, such as rent or property taxes on office space, see Vitex v. 
+Caribtex, 377 F.2d 795 (3d Cir. 1967). Illustration 7 is based on Illustration 1 to former § 335.  Illustration 8 is 
+based on Illustration 3 to former § 335.  Illustration 9 is based on Erler v. Five Point Motors, 249 Cal. App.2d 
+560, 57 Cal. Rptr. 516 (1967); Sutherland v. Wyer, 67 Me. 64 (1877); cf.  Allen, Heaton & McDonald v. Castle 
+Farm Amusement Co., 151 Ohio St. 522, 86 N.E.2d 782 (1949). Illustration 10 is based on Illustration 6 to 
+former § 335; Clydebank Eng'r & Sb. Co. v. Castenada, [1905] A.C. 6.  Illustration 11 is based on Illustration 5 
+to former § 335; see also Illustration 4 to former § 335.
+Comment e.  Illustration 12 is based on Fleming v. Twine, 58 A.2d 498 (D.C. Ct. App. 1948); cf.  Illinois Central 
+R.R. Co. v. Crail, 281 U.S. 57 (1930); Bowes v. Saks and Co., 397 F.2d 113 (7th Cir. 1968). Illustration 13 is 
+based on Allgeyer v. Rutherford, 45 S.W. 628 (Tex. Civ. App. 1898). As to Illustration 14, compare Billeter v. 
+Posell, 94 Cal. App.2d 858, 211 P.2d 621 (1949), with United Protective Workers of America v. Ford Motor Co., 
+223 F.2d 49 (7th Cir. 1955); see Sporn v. Celebrity, Inc., 129 N.J. Super. 449, 324 A.2d 71 (1974). Illustration 
+15 is based on Illustration 4 to § 457; Model Vending v. Stanisci, 74 N.J. Super. 12, 180 A.2d 393 (1962).
+Comment f.  On the problem of "lost volume," see Goetz & Scott, Measuring Seller's Damages: the Lost-Profits 
+Puzzle, 31 Stan. L. Rev. 323 (1979); Nordstrom, Handbook of the Law of Sales § 177 (1970); White & 
+Summers, Handbook of the Law Under the Uniform Commercial Code §§ 7-9 to 7-13 (1972); Harris, A Radical 
+Restatement of the Law of Seller's Damages: Sales Act and Commercial Code Results Compared, 18 Stan. L. 
+Rev. 66 (1965); Speidel & Clay, Seller's Recovery of Overhead Under UCC Section 2-708(2): Economic Cost 
+Theory and Contract Remedial Policy, 57 Cornell L. Rev. 681 (1972); Comments, 24 Case W. Res. L. Rev. 684 
+(1973). Illustration 16 is based on Distribu-Dor v. Karadnis, 11 Cal. App.3d 463, 90 Cal. Rptr. 231 (1970); 
+Torkomian v. Russell, 90 Conn. 481, 97 A. 760 (1916); Locks v. Wade, 36 N.J. Super. 128, 114 A.2d 875 
+(1955); Neri v. Retail Marine Co., 30 N.Y.2d 393, 334 N.Y.S.2d 165, 285 N.E.2d 311 (1972); Stewart v. 
+Hansen, 62 Utah 281, 218 P. 959 (1923). See also Snyder v. Herbert Greenbaum & Assocs., 38 Md. App. 144, 
+380 A.2d 618 (1977) (applying lost volume rule but saying that burden of proving lost volume is on seller).  But 
+cf.  Famous Knitwear Corp. v. Drug Fair, 493 F.2d 251 (4th Cir. 1974); Charles Street Garage Co. v. Kaplan, 
+312 Mass. 624, 45 N.E.2d 928 (1942). As to the situation in which the breach enables the injured party to make 
+
+§ 347 Measure of Damages in General
+a new contract to do the same work, see Massengale v. Transitron Elec. Corp., 385 F.2d 83 (1st Cir. 1967); 
+Grinnell Co. v. Voorhees, 1 F.2d 693 (3d Cir.), cert. denied, 266 U.S. 629 (1924); Olds v. Mapes-Reeve Constr. 
+Co., 177 Mass. 41, 58 N.E. 478 (1900); Kunkle v. Jaffe, 71 N.E.2d 298 (Ohio App. 1946).
+Cross Reference
+ALR Annotations:
+Measure and elements of damages in action against physician for breach of contract to achieve particular result 
+or cure.  99 A.L.R.3d 303.
+Measure of damages where vendor, after execution of contract of sale but before conveyance of property, 
+removes part of property contracted for.  97 A.L.R.3d 1220.
+Recovery by writer, artist, or entertainer for loss of publicity or reputation from breach of contract.  96 A.L.R.3d 
+437.
+Buyer's incidental and consequential damages from seller's breach under UCC § 2-715.  96 A.L.R.3d 299.
+Measure and elements of damages recoverable from vendor where there has been mistake as to amount of 
+land conveyed.  94 A.L.R.3d 1091.
+Measure of damages for breach of contract to will property.  65 A.L.R.3d 632.
+Damages for wrongful termination of automobile dealership contracts.  54 A.L.R.3d 324.
+Damages to franchisee for failure of franchisor of national brand or service to provide the services or facilities 
+contracted for.  41 A.L.R.3d 1436.
+Right and measure of recovery for breach of obligation to drill exploratory oil or gas wells.  4 A.L.R.3d 284.
+Contractor's liability for alleged breach of contract for construction of swimming pool.  1 A.L.R.3d 870.
+Liability of garageman to one ordering repair of motor vehicle, for defective work.  92 A.L.R.2d 1408.
+Measure of damages, to advertiser, for radio or television station's breach or wrongful termination of contract.  
+90 A.L.R.2d 1199.
+Liability of dentist to patient.  83 A.L.R.2d 7.
+Cost of correction or completion, or difference in value, as measure of damages for breach of construction 
+contract.  76 A.L.R.2d 805.
+Measure and elements of damages for breach of contract to marry.  73 A.L.R.2d 553.
+Propriety of taking income tax into consideration in fixing damages for breach of contract.  63 A.L.R.2d 1433.
+Employer's damages for breach of employment contract by employee's terminating employment.  61 A.L.R.2d 
+1008.
+Pleading mitigation of damages, or the like, in employee's action for breach of employment contract.  41 
+A.L.R.2d 955.
+Measure and items of compensation of contractor under cost-plus contract which is terminated, without breach, 
+before completion.  28 A.L.R.2d 867.
+Rights and remedies of tenant upon landlord's breach of covenant to repair.  28 A.L.R.2d 446.
+Right to recover, in action for breach of contract, expenditures incurred in preparation for performance.  17 
+A.L.R.2d 1300.
+Digest System Key Numbers:
+Damages 117-126
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

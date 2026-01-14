@@ -1,0 +1,71 @@
+Restat 2d of Contracts, § 52
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 52 Who May Accept an Offer
+An offer can be accepted only by a person whom it invites to furnish the consideration.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  This Section states a negative fairly implied in § 29.  The offeror is the master of his offer, and 
+the power of acceptance rests on his manifested intention.  The rule that the power of acceptance is personal to 
+the offeree is applied strictly, even in cases where the offeree after acceptance could assign his rights and 
+delegate performance to the assignee under §§ 317(2) and 318(1).  As to death of the offeree, compare § 37 
+with § 48.
+Illustrations:
+1.  A makes an offer to B, who dies after receiving it.  His executor, though acting within the permitted time, 
+cannot accept.
+2.  A offers to guarantee payment for goods delivered to B by C.  D cannot accept by delivering goods to B.
+b.  Identity of the offeree.  Just as the person to whom a promise is addressed is the promisee (§ 2), so the 
+person to whom an offer is addressed is the offeree.  An offer which is itself a promise may contemplate the 
+furnishing of consideration by a person other than the promisee.  See § 71(4).  That other person is then the 
+offeree.
+In case of misunderstanding as to identity of the offeree, the principles stated in § 20 are applicable.  An offeror 
+who knows or has reason to know that he is apparently making an offer to a particular person may be bound by 
+that appearance.  But one who knows that he is not the intended offeree cannot take advantage of such an 
+appearance, and one who has reason to know the offeror's meaning can accept only if the offeror in fact knows 
+of the offeree's contrary understanding.
+Illustrations:
+3.  A promises B that A will sell and deliver a set of books to B if B's father C will promise to pay $ 150 for the 
+set.  B is the promisee of A's promise; C is the offeree of A's offer.  Only C can accept the offer by making the 
+return promise invited by A.
+4.  A sends B an order for goods.  C, from whom A has previously refused to buy such goods, has purchased 
+B's business.  Without notifying A of the change of proprietorship, C ships the goods as ordered.  Neither B nor 
+C has accepted A's offer.
+5.  A, in Illustration 4, before using the goods, discovers that they have come from C.  A's retention or use of 
+them is an acceptance of an offer from C, and a contract arises.
+c.  Agency.  The rules stated in the Restatement of this Subject are supplemented by the law of agency, and in 
+the absence of contrary statement it is assumed that any necessary act may be performed on behalf of a 
+contracting party by his agent.  Thus an offer may be accepted by an agent of the offeree.  See Restatement, 
+Second, Agency § 292.  Even an acceptance by a purported agent, acting without agency power, may in 
+appropriate cases be ratified by the offeree.  See Restatement, Second, Agency §§ 82-104.  Ratification must 
+occur, however, before the offeror manifests withdrawal from the transaction and before the termination of the 
+offeree's power of acceptance.  See Restatement, Second, Agency § 88.
+Under the law of agency, an offeree who purports to act on his own behalf may in fact be acting for an 
+undisclosed principal, and the undisclosed principal may be bound by the contract and may have rights under it.  
+See Restatement, Second, Agency §§ 186 Comment a, 302-10, 372.
+
+§ 52 Who May Accept an Offer
+REPORTER'S NOTES
+This Section is based on former § 54.  That Section permitted acceptance "for the benefit of" the offeree.  As is 
+explained in Comment b, the quoted phrase was misleading; it is omitted because in such cases the acceptor 
+must be an offeree.  See 1 Williston, Contracts § 80 (3d ed. 1957); 1 Corbin, Contracts § 56 (1963).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 54.  Illustration 2 is based on King v. Batterson, 
+13 R.I. 117, 43 Am. Rep. 13 (1880).
+Comment b.  Illustration 3 is new.  Illustration 4 is based on Boston Ice Co. v. Potter, 123 Mass. 28 (1877). 
+Compare Boulton v. Jones, 2 H. & N. 564 (Ex. 1857); see Williams, Mistake as to Party in the Law of Contract, 
+23 Can. B. Rev. 271, 380 (1945); 3 Corbin, Contracts § 601 (1960).Illustration 5 is based on Illustration 1 to 
+former § 54.
+Comment c.  See Petroleum Prods. Distrib. Co. v. Alton Tank Line, 165 Iowa 398, 146 N.W. 52 (1914); 
+compare Illustrations 4 and 5 to Restatement, Second, Agency § 372.  On ratification by a corporation, see 
+Southern Nat'l Bank v. Tri Fin. Corp., 317 F. Supp. 1173 (S.D. Tex. 1970), aff'd in part, vacated in part, 458 
+F.2d 688 (5th Cir. 1972).
+Cross Reference
+ALR Annotations:
+Advertisement addressed to public relating to sale or purchase of goods at specified price as an offer the 
+acceptance of which will consummate a contract.  43 A.L.R.3d 1102.
+Private rights and remedies growing out of prize-winning contests.  87 A.L.R.2d 649.
+Manner and sufficiency of pleading agency in contract action.  45 A.L.R.2d 583.
+Digest System Key Numbers:
+Contracts 22(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

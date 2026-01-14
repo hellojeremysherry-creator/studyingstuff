@@ -1,0 +1,46 @@
+Restat 2d of Contracts, § 36
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 36 Methods of Termination of the Power of Acceptance
+(1)  An offeree's power of acceptance may be terminated by
+(a)  rejection or counter-offer by the offeree, or
+(b)  lapse of time, or
+(c)  revocation by the offeror, or
+(d)  death or incapacity of the offeror or offeree.
+(2)  In addition, an offeree's power of acceptance is terminated by the non-occurrence of any condition 
+of acceptance under the terms of the offer.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Scope.  This Section merely lists the methods of termination which are possible.  The circumstances under 
+which each method operates are stated in §§ 36-49.
+b.  Conditions of acceptance.  Subsection (2) provides for any condition of acceptance arising under the terms 
+of the offer itself.  Compare the definition of "condition" in § 224.  A condition of acceptance, like a condition, 
+may be express or implied in fact or constructive.  See Comment c to § 226.  Thus by common understanding a 
+reward offer can ordinarily be accepted only once; the first acceptance terminates the power of acceptance of 
+other offerees.  See Illustration 1 to § 29.  Compare the effect on a bid at an auction when a higher bid is made.  
+See § 28(1)(c).
+c.  Impossibility and illegality.  The power of acceptance may be terminated by the death or destruction of a 
+person or thing essential for performance or by supervening legal prohibition.  The extent to which such events 
+have the effect of a failure of a condition of acceptance depends on the terms of the offer and on the 
+circumstances.  Such events may also prevent a duty of performance from arising from an acceptance if they 
+occur before the offer is made, or may discharge a duty of performance if they occur after acceptance.  The 
+effects of such events are therefore stated in Chapters 6-12, which deal with Mistake (Chapter 6), 
+Misrepresentation, Duress and Undue Influence (Chapter 7), Unenforceability on Grounds of Public Policy 
+(Chapter 8), The Scope of Contractual Obligations (including conditions and similar events) (Chapter 9), 
+Performance and Non-performance (Chapter 10), Impracticability of Performance and Frustration of Purpose 
+(Chapter 11) and Discharge by Assent or Alteration (Chapter 12).
+REPORTER'S NOTES
+This Section is based on former § 35.  In the former Restatement, Subsections (c) and (d) of that Section, 
+dealing with impossibility and illegality, were explained in former §§ 49 and 50.  The Restatement in the Courts 
+shows only one citation to either of those sections from 1933 to 1954: People's Banking Co. v. Fidelity & 
+Deposit Co., 165 Md. 657, 663, 170 A. 544, 547, 171 A. 345 (1934). That case was held governed by former § 
+502, rendering the contract voidable, rather than former § 49, which would prevent the formation of a contract.  
+See 1 Williston, Contracts § 50A (3d ed. 1957); 1 Corbin, Contracts § 90 (1963 & Supp. 1980).
+Cross Reference
+
+§ 36 Methods of Termination of the Power of Acceptance
+Digest System Key Numbers:
+Contracts 19
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

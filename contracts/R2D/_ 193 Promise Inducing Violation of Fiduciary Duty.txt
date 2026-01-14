@@ -1,0 +1,54 @@
+Restat 2d of Contracts, § 193
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 4- Interference with Other 
+Protected Interests        
+§ 193 Promise Inducing Violation of Fiduciary Duty
+A promise by a fiduciary to violate his fiduciary duty or a promise that tends to induce such a violation 
+is unenforceable on grounds of public policy.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Scope.  A fiduciary is expected to refrain from acting for his private advantage or otherwise contrary to the 
+interests of his beneficiary or principal in matters affecting the fiduciary relation, and he is liable in tort for 
+breach of his duty.  Restatement, Second, Torts § 874, cf. Restatement, Second, Agency § 312.  A promise by 
+a fiduciary to violate his duty as a fiduciary is unenforceable on grounds of public policy, as is a promise that 
+tends to induce such a violation.  In an exceptional case, however, a court may conclude that the interests of 
+third parties require enforcement.  See Illustration 18 to § 178. Directors and other officials of a corporation act 
+in a fiduciary capacity and are subject to the rule stated in this Section.  The rule applies by analogy to 
+shareholders with reference to their voting powers, although it does not preclude agreements where the only 
+advantage bargained for is one that will accrue to all shareholders through the ownership of shares.  See 
+Illustration 3.  The details of the duties of various types of fiduciaries and the extent to which the beneficiary or 
+principal can authorize a fiduciary to bargain for private advantages not directly accruing to him by virtue of his 
+fiduciary relation are beyond the scope of this Restatement.  See Restatement, Second, Agency §§ 387, 393; 
+Restatement, Second, Trusts §§ 169, 170.  If there has been effective consent by the beneficiary or principal so 
+that no violation of a fiduciary duty is involved, the rule stated in this Section does not apply.  In determining 
+whether consent is effective, such matters as capacity to contract and undue influence are taken into account.
+Illustrations:
+1.  A, in consulting with B, his lawyer, informs B of some facts.  Later C promises B $ 1,000 if B will disclose 
+those facts.  B discloses them to C.  C's promise is one that tends to induce a violation of B's fiduciary duty to A 
+and is unenforceable on grounds of public policy.
+2.  A sells all of his shares of stock in a corporation to B, who pays the price and promises to exercise his voting 
+power in accordance with A's instructions.  B's promise is one to violate a fiduciary duty and is unenforceable 
+on grounds of public policy.
+3.  A, B and C, shareholders in a corporation who are dissatisfied with the policy of the directors, promise each 
+other to vote for other directors.  Their promises are not ones to violate a fiduciary duty and their enforcement is 
+not precluded on grounds of public policy.
+REPORTER'S NOTES
+This Section is based on former § 570.  See also former §§ 557, 569.  See 6A Corbin, Contracts §§ 1456-57 
+(1962); 15 Williston, Contracts §§ 1736, 1737 (3d ed. 1972).
+Comment a.  Illustration 1 is based in part on Illustration 3 to former § 557.  Illustrations 2 and 3 are based on 
+Illustrations 2 and 3 to former § 569.
+Cross Reference
+ALR Annotations:
+
+§ 193 Promise Inducing Violation of Fiduciary Duty
+Validity of contract for sale of "good will" of law practice.  79 A.L.R.3d 1243.
+Validity, construction, and enforcement of business opportunities or "Finder's Fee" contract.  24 A.L.R.3d 1160.
+Attorney's recovery in quantum meruit for legal services rendered under a contract which is illegal or void as 
+against public policy.  100 A.L.R.2d 1378.
+Validity and enforceability of agreement to drop or compromise will contest or withdraw objections to probate, or 
+of agreement to induce others to do so.  42 A.L.R.2d 1319.
+Digest System Key Numbers:
+Contracts 113
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

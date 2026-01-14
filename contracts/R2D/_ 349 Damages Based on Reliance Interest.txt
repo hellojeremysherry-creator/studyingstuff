@@ -1,0 +1,82 @@
+Restat 2d of Contracts, § 349
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 2- Enforcement by Award of Damages        
+§ 349 Damages Based on Reliance Interest
+As an alternative to the measure of damages stated in § 347, the injured party has a right to damages 
+based on his reliance interest, including expenditures made in preparation for performance or in 
+performance, less any loss that the party in breach can prove with reasonable certainty the injured 
+party would have suffered had the contract been performed.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Reliance interest where profit uncertain.  Loss in value and cost or other loss avoided are key components 
+of contract damages.  See § 347.  If the injured party was to supply services such as erecting a building, for 
+example, the difference between loss in value of the other party's performance and the cost or other loss 
+avoided by the injured party will be equal to the cost of the injured party's expenditures in reliance, up to the 
+time of breach, plus the profit that would have been made had the contract been fully performed.  To the extent 
+that "overhead" costs are fixed costs, they are not included in the cost of expenditures in reliance for this 
+purpose.  See Illustration 6 to § 347.  Under the rule stated in this Section, the injured party may, if he chooses, 
+ignore the element of profit and recover as damages his expenditures in reliance.  He may choose to do this if 
+he cannot prove his profit with reasonable certainty.  He may also choose to do this in the case of a losing 
+contract, one under which he would have had a loss rather than a profit.  In that case, however, it is open to the 
+party in breach to prove the amount of the loss, to the extent that he can do so with reasonable certainty under 
+the standard stated in § 352, and have it subtracted from the injured party's damages.  The resulting damages 
+will then be the same as those under the rule stated in § 347.  If the injured party's expenditures exceed the 
+contract price, it is clear that at least to the extent of the excess, there would have been a loss.  For this reason, 
+recovery for expenditures under the rule stated in this section may not exceed the full contract price.  As to the 
+possibility of restitution in such a case, see § 373.  Often the reliance consists of preparation for performance or 
+actual performance of the contract, and this is sometimes called "essential reliance." See, for example, 
+Illustration 3.  It may, however, also consist of preparation for collateral transactions that a party plans to carry 
+out when the contract in question is performed, and this is sometimes called "incidental" reliance.  See 
+Illustration 4.
+Illustrations:
+1.  A gives B a "dealer franchise" to sell A's products in a stated area for one year.  In preparation for 
+performance, B spends money on advertising, hiring sales personnel, and acquiring premises that cannot be 
+used for other purposes.  A then repudiates before performance begins.  If neither party proves with reasonable 
+certainty what profit or loss B would have made if the contract had been performed, B can recover as damages 
+his expenditures in preparation for performance.  See Illustration 8 to § 90.
+2.  A contracts with B to stage a series of performances in B's theater, each to have 50 per cent of the gross 
+receipts.  After A has spent $ 20,000 in getting ready for the performances, B rents the theater to others and 
+repudiates the contract, and A stages the performance at another theater.  A's expenditures in preparation for 
+performance of the contract with B are worth $ 8,000 to him in connection with staging the performances at the 
+other theater.  If neither party proves with reasonable certainty what profit or loss A would have made if the 
+contract had been performed, A can recover as damages the $ 12,000 balance of his expenditures in 
+preparation for performance.
+3.  A contracts to build for B a factory of experimental design for $ 1,000,000.  After A has spent $ 250,000 and 
+been paid $ 150,000 in progress payments, B repudiates the contract and A stops work.  A's expenditures 
+
+§ 349 Damages Based on Reliance Interest
+include materials worth $ 10,000 that he can use on other jobs.  If neither party proves with reasonable 
+certainty what profit or loss A would have made if the contract had been performed, A can recover as damages 
+the $ 90,000 balance of his expenditures in preparation for performance.
+4.  A contracts to sell his retail store to B.  After B has spent $ 100,000 for inventory, A repudiates the contract 
+and B sells the inventory for $ 60,000.  If neither party proves with reasonable certainty what profit or loss B 
+would have made if the contract had been performed, B can recover as damages the $ 40,000 loss that he 
+sustained on the sale of the inventory.
+b.  Reliance interest in other cases.  There are other instances in which damages may be based on the reliance 
+interest.  Under the rules stated in §§ 87, 89, 90 and 139, if a promise is enforceable because it has induced 
+action or forbearance, the remedy granted for breach may be limited as justice requires.  Under these rules, 
+relief may be limited to damages measured by the extent of the promisee's reliance rather than by the terms of 
+the promise.  See Comment e to § 87, Comment d to § 89, Comment d to § 90 and Comment d to § 139.  
+Furthermore, even when the contract is enforceable because of consideration, a court may, under the rule 
+stated in § 353, conclude that the circumstances require that damages be limited to losses incurred in reliance.  
+See Comment a to § 353.
+REPORTER'S NOTES
+This Section is based on former § 333.  See 5 Corbin, Contracts § 1031 (1964 & Supp. 1980); 11 Williston, 
+Contracts §§ 1363, 1363A (3d ed. 1968); Patterson, Builder's Measure of Recovery for Breach of Contract, 31 
+Colum. L. Rev. 1286, 1296-99 (1931).
+Comment a.  Illustration 1 is based on Illustrations 1 and 2 to former § 333; Wells v. National Life Ass'n, 99 F. 
+222 (5th Cir. 1900); cf.  General Tire & Rubber Co. v. Distributors, Inc., 253 N.C. 459, 117 S.E.2d 479 (1960). 
+Illustration 2 is based on Illustration 4 to former § 333; cf.  Security Stove & Mfg. Co. v. American Ry. Express 
+Co., 227 Mo. App. 175, 51 S.W.2d 572 (1932). Illustration 3 is based on Illustration 14 to former § 346; United 
+States v. Behan, 110 U.S. 338 (1884). Illustration 4 is based on Nurse v. Barns, Haym. Sir T. 77, 83 Eng. Rep. 
+43 (1664); L. Albert & Son v. Armstrong Rubber Co., 178 F.2d 182 (2d Cir. 1949). On the effect of divisibility, 
+see Shapiro Eng'r Co. v. Francis O. Day Co., 215 Md. 373, 137 A.2d 695 (1958).
+Cross Reference
+ALR Annotations:
+Measure of damages for breach of contract to will property.  65 A.L.R.3d 632.
+Measure and elements of damages for breach of contract to marry.  73 A.L.R.2d 553.
+Digest System Key Numbers:
+Damages 45
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

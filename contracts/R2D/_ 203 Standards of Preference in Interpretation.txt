@@ -1,0 +1,123 @@
+Restat 2d of Contracts, § 203
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 1- The Meaning of Agreements        
+§ 203 Standards of Preference in Interpretation
+In the interpretation of a promise or agreement or a term thereof, the following standards of preference 
+are generally applicable:
+(a)  an interpretation which gives a reasonable, lawful, and effective meaning to all the terms is 
+preferred to an interpretation which leaves a part unreasonable, unlawful, or of no effect;
+(b)  express terms are given greater weight than course of performance, course of dealing, and usage 
+of trade, course of performance is given greater weight than course of dealing or usage of trade, and 
+course of dealing is given greater weight than usage of trade;
+(c)  specific terms and exact terms are given greater weight than general language;
+(d)  separately negotiated or added terms are given greater weight than standardized terms or other 
+terms not separately negotiated.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Scope.  The rules of this Section are applicable to all manifestations of intention and all transactions.  They 
+apply only in choosing among reasonable interpretations.  They do not override evidence of the meaning of the 
+parties, but aid in determining meaning or prescribe legal effect when meaning is in doubt.
+b.  Superfluous terms.  Since an agreement is interpreted as a whole, it is assumed in the first instance that no 
+part of it is superfluous.  The parties may of course agree to supersede prior manifestations of intention; indeed, 
+this is the normal effect of an integrated agreement.  See § 213.  But, particularly in cases of integrated 
+agreements, terms are rarely agreed to without reason.  Where an integrated agreement has been negotiated 
+with care and in detail and has been expertly drafted for the particular transaction, an interpretation is very 
+strongly negated if it would render some provisions superfluous.  On the other hand, a standard form may 
+include provisions appropriate only to some of the transactions in which the form is to be used; or the form may 
+be used for an inappropriate transaction.  Even agreements tailored to particular transactions sometimes 
+include overlapping or redundant or meaningless provisions.
+The preference for an interpretation which gives meaning to every part of an agreement does not mean that 
+every part is assumed to have legal consequences.  Parties commonly direct their attention to performance 
+rather than breach, and it is enough that each provision has meaning to them as a guide to performance.  
+Stipulations against particular legal consequences are not uncommon.  Thus it is not unusual to define the 
+intended performance with precision and then to provide for tolerances within which variation is permitted.  See 
+Uniform Commercial Code § 2-508(2).
+c.  Unreasonable and unlawful terms.  In the absence of contrary indication, it is assumed that each term of an 
+agreement has a reasonable rather than an unreasonable meaning, and that the agreement is intended to be 
+lawful rather than unconscionable, fraudulent or otherwise illegal.  But parties are free to make agreements 
+which seem unreasonable to others, and circumstances may show that even an agreement innocent on its face 
+has an illegal purpose.  The search is for the manifested intention of the parties.  If a term or a contract is 
+unconscionable or otherwise against public policy, it should be dealt with directly rather than by spurious 
+interpretation.  See § 208 and Uniform Commercial Code § 2-302 and Comment.
+Illustration:
+
+§ 203 Standards of Preference in Interpretation
+1.  A licenses B to manufacture pipes under A's patents, and B agrees to pay "a royalty of 50 cents per 1,000 
+feet for an output of 5,000,000 or less feet per year, and for an output of over 5,000,000 feet per year at the rate 
+of 30 cents per thousand feet." The 50 cent rate is payable on the first 5,000,000 feet, the 30 cent rate only on 
+the excess.  The more literal reading is unreasonable, since it would involve a smaller payment for 6,000,000 
+feet than for 4,000,000 feet.
+d.  Priority of express terms.  Just as parties to agreements often depart from general usage as to the meaning 
+of words or other conduct, so they may depart from a usage of trade.  Similarly, they may change a pattern 
+established by their own prior course of dealing.  Their meaning in such cases is ordinarily to be ascertained as 
+a fact; no penalty is attached by the law of contracts to their failure to conform to the usages of others or to their 
+own prior usage.  Course of performance may establish meaning, or it may show mistake or oversight or 
+modification or waiver.  See § 202.  The priorities stated in Subsection (b) are those stated in Uniform 
+Commercial Code §§ 1-205 and 2-208, rephrased to fit the different context of the Restatement.
+e.  General and specific terms.  People commonly use general language without a clear consciousness of its 
+full scope and without awareness that an exception should be made.  Attention and understanding are likely to 
+be in better focus when language is specific or exact, and in case of conflict the specific or exact term is more 
+likely to express the meaning of the parties with respect to the situation than the general language.  If the 
+specific or exact can be read as an exception or qualification of the general, both are given some effect, in 
+accordance with the rule stated in Subsection (a).  Compare Uniform Commercial Code § 2-317.  But the rule 
+yields to manifestation of a contrary intention.
+f.  Superseded standard terms.  The rule stated in Subsection (d) has frequent application in cases of 
+standardized documents.  Printed forms are often misused, and there may be a question whether the parties 
+manifested assent to a printed term on a writing.  A printed provision that is clearly part of an integrated contract 
+is normally to be interpreted as consistent with other terms, but in cases of inconsistency a handwritten or 
+typewritten term inserted in connection with the particular transaction ordinarily prevails.  Similarly, a typewritten 
+term may be superseded by drawing a line through it, modified by interlineation, or controlled by an inconsistent 
+handwritten insertion in another part of the agreement.  It is sometimes said generally that handwritten terms 
+control typewritten and printed terms, and typewritten control printed.  See Uniform Commercial Code § 3-
+118(b); compare § 2-316(1) (disclaimer of express warranty), § 3-110(3) (instrument payable both to order and 
+to bearer).  But the rule yields to manifestation of a contrary intention.
+Illustrations:
+2.  A, an agent of C, authorized to make contracts for C, writes a letter to B beginning "We offer," and stating a 
+proposal in detailed and clear language, signed "C by A, Agent." At the bottom of the office stationery which A 
+uses for the offer there is printed "All contracts and orders taken are subject to the approval of the executive 
+office." A portion of the letter is typed over a portion of this printing.  A jury's finding that the printed words were 
+not part of the letter and that it is therefore an offer will not be set aside.
+3.  A charter party contains the printed provision "vessel to have turn in loading." There is written below this, 
+"vessel to be loaded promptly." The printed and written provisions are given the consistent meaning that the 
+vessel shall take its turn in loading, though this involves considerable delay, but when its turn arrives, the vessel 
+shall be loaded promptly.
+4.  A's agent B draws checks on the C bank, imprinting the amounts with perforations made by a checkwriting 
+machine.  The amounts are also handwritten in figures.  In case of conflict, since the perforated amounts are 
+more difficult to alter, they control the handwritten figures.  See Uniform Commercial Code § 3-118(b), (c).
+REPORTER'S NOTES
+This Section is based on former § 236, but former Subsections (a) and (b) are transferred to § 202 and former 
+Subsections (d) and (f) to §§ 206 and 207.  The other Subsections are rearranged.  Subsection (b) is new; it 
+conforms to Uniform Commercial Code §§ 1-205, 2-208.  See 4 Williston, Contracts §§ 615-26 (3d ed. 1961); 3 
+Corbin, Contracts §§ 546-52, 559 (1960 & Supp. 1980); Patterson, The Interpretation and Construction of 
+Contracts, 64 Colum. L. Rev. 833 (1964).
+Comment b.  See Intertherm, Inc. v. Coronet Imperial Corp., 558 S.W.2d 344, 351-52 (Mo. Ct. App. 1977).
+Comment c.  Many courts have said that the construction process should seek a reading that leads to a 
+reasonable result.  See, e.g., Crestview Bowl, Inc. v. Womer Constr. Co., 225 Kan. 335, 592 P.2d 74 (1979); 
+
+§ 203 Standards of Preference in Interpretation
+Goddard v. South Bay Union High School Dist., 79 Cal. App.3d 98, 144 Cal. Rptr. 701 (1978); Intertherm, Inc. 
+v. Coronet Imperial Corp., supra. Nonetheless, the real question is one of the intentions of the parties.  See 
+Perry and Wallis, Inc. v. United States, 192 Ct. Cl. 310, 427 F.2d 722 (1970); Ludwig Honold Mfg. Co. v. 
+Fletcher, 405 F.2d 1123 (3d Cir. 1969); compare the majority and dissenting opinions in Pokorny v. Pecsok, 50 
+Ohio St.2d 260, 364 N.E.2d 241 (1977) (dissent citing this Section in Tentative Draft).  Illustration 1 is based on 
+Illustration 1 to former § 236.
+Comment d.  For an example of express terms prevailing over custom of the trade, see Citizens Nat'l Bank v. L. 
+L. Glascock, Inc., 243 So.2d 67 (Miss. 1971).
+Comment e.  On the general standard that specific clauses should prevail over general ones, see Western Oil 
+Fields, Inc. v. Pennzoil United, Inc., 421 F.2d 387 (5th Cir. 1970). That this standard must yield when 
+inappropriate under the particular circumstances, see Elliott Leases Cars, Inc. v. Quigley, 118 R.I. 321, 373 
+A.2d 810 (1977); contrast the reading of the dissenting opinion in that case, which cites § 202 and this Section 
+in Tentative Draft.
+Comment f.  See Roylex, Inc. v. Avco Commun. Devs., Inc., 559 S.W.2d 833 (Tex. Civ. App. 1977), which finds 
+the general rule that handwriting prevails over typewriting inapplicable under the circumstances shown by 
+testimony.  Illustrations 2 and 3 were Illustrations 4 and 5 to former § 236.  Illustration 4 is based on United 
+States Fidelity & Guar. Co. v. First Nat'l Bank, 244 S.C. 436, 137 S.E.2d 582 (1964).
+Cross Reference
+ALR Annotations:
+Validity, construction, and effect of land sale contract providing that title must be satisfactory to purchaser.  47 
+A.L.R.2d 455.
+Digest System Key Numbers:
+Contracts 152, 154, 156, 163
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

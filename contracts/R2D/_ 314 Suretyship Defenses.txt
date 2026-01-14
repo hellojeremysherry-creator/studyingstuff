@@ -1,0 +1,38 @@
+Restat 2d of Contracts, § 314
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 314 Suretyship Defenses
+An intended beneficiary who has an enforceable claim against the promisee is affected by the incidents 
+of the suretyship of the promisee from the time he has knowledge of it.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Effect of knowledge.  This Section states a principle of suretyship.  See Restatement of Security § 114; 
+compare Uniform Commercial Code § 3-415.  Under the definitions in § 302 a contract to satisfy a duty of the 
+promisee to an intended beneficiary makes the promisee a surety for the promisor.  Even though he has not 
+consented to the suretyship relation, the beneficiary must recognize it and take it into account when he learns 
+of it.
+b.  Impairment of recourse or collateral.  Where the beneficiary knows that the promisee is surety for the 
+promisor, release of the promisor discharges the surety unless the surety consents or the beneficiary reserves 
+his rights against the surety.  Compare §§ 293-94; see Restatement of Security § 122.  Similar rules apply to 
+agreements between beneficiary and promisor modifying their contract, including agreements to extend the 
+time of payment, and to surrender or other impairment of collateral security.  See Restatement of Security §§ 
+128, 129, 132; Uniform Commercial Code § 3-606.  These rules of suretyship are beyond the scope of this 
+Restatement.
+Illustration:
+1.  A owes C a debt of $ 10,000, secured by a mortgage on A's land.  A sells Blackacre to B, who assumes and 
+agrees to pay the mortgage debt.  C, knowing of this assumption, releases a portion of the mortgaged premises 
+from the lien of the mortgage.  The remaining portion of Blackacre is then worth $ 12,000, but at the date of 
+maturity of the mortgage is worth $ 8,000.  The released land is then worth $ 2,000.  B makes default in paying 
+the debt.  C can recover from A only $ 8,000.  Since C's own act has diminished by $ 2,000 the value of the 
+security applicable to the debt, his right against A is subject to diminution by that amount.  If the released land is 
+then worth $ 1,000, C can recover $ 9,000 from A.
+REPORTER'S NOTES
+This Section is based on former § 146, but avoids specifying the incidents of suretyship.  See 2 Williston, 
+Contracts § 372 (3d ed. 1959); 4 Corbin, Contracts § 825 (1951).
+Comment b.  Illustration 1 is based on Illustration 1 to former § 146.
+Cross Reference
+Digest System Key Numbers:
+Contracts 328(4)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

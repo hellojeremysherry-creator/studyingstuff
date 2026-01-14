@@ -1,0 +1,58 @@
+Restat 2d of Contracts, § 269
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 269 Temporary Impracticability or Frustration
+Impracticability of performance or frustration of purpose that is only temporary suspends the obligor's 
+duty to perform while the impracticability or frustration exists but does not discharge his duty or 
+prevent it from arising unless his performance after the cessation of the impracticability or frustration 
+would be materially more burdensome than had there been no impracticability or frustration.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  Impracticability of performance or frustration of purpose may be only temporary.  While it lasts, 
+the affected party's duty is at least suspended.  When the circumstances giving rise to the impracticability or 
+frustration cease to exist, he must then perform.  He is usually expected to perform in full and is entitled to an 
+appropriate extension of time for performance.  When the delay has made full performance impracticable, the 
+rules stated in § 270 for partial impracticability and in § 272(2) on supplying a term apply.  In some cases, 
+however, delay will make his performance materially more burdensome for him than had there been no 
+impracticability or frustration, and when it appears that this will be so, his duty is discharged and not merely 
+suspended.  In applying the standard of materiality, a court will consider whether the delay has seriously upset 
+the allocation of risks under the agreement of the parties.  The rule stated in this Section is, of course, subject 
+to contrary agreement.  It applies only to the duty of the party adversely affected by the impracticability or 
+frustration; the effect on the duty of the other party, as to a performance to be exchanged under an exchange of 
+promises, is governed by the rules stated in §§ 267, 268, 237 and 238.  Compare Illustration 2 to § 242.
+Illustrations:
+1.  A contracts with B to build an electric power plant, completion to be within two years, for $ 10,000,000.  
+Before the commencement of performance, a shortage of materials due to a sudden outbreak of war makes it 
+temporarily impracticable for A to perform.  A's duty is suspended until it is no longer impracticable for him to 
+obtain materials, and he is then under a duty to perform with an appropriate extension of time, unless B's duty 
+to pay is discharged by the delay under the rules stated in §§ 237 and 267.  However, if circumstances 
+including increased prices then make it materially more burdensome for A to perform, A's duty to build the plant 
+is discharged regardless of whether B's duty would otherwise be discharged by the delay.
+2.  On July 5, A charters his vessel to B for a voyage from New York to Liverpool, contracting that the vessel 
+shall be ready for loading July 10.  On July 8, the government requisitions the vessel for the stated period of a 
+week, returning the vessel to A in New York on July 15.  A's duty to have the vessel ready is suspended until 
+July 15 and he is then under a duty to perform with an appropriate extension of time, unless B's duty to pay is 
+then discharged by the delay under the rules stated in §§ 237 and 267.  However, if circumstances including his 
+other contracts then make it materially more burdensome for A to perform, A's duty is discharged regardless of 
+whether B's duty would otherwise be discharged by the delay.
+REPORTER'S NOTES
+This Section is based on former § 462.  See 6 Corbin, Contracts §§ 1348, 1349 (1962 & Supp. 1980); 18 
+Williston, Contracts §§ 1957, 1958 (3d ed. 1978); Patterson, Temporary Impossibility of Performance of 
+Contract, 47 Va. L. Rev. 798 (1961).
+Comment a.  Illustration 1 is based on Village of Minneota v. Fairbanks, Morse & Co., 226 Minn. 1, 31 N.W.2d 
+920 (1948); see Peerless Cas. Co. v. Weymouth Gardens, 215 F.2d 362 (1st Cir. 1954); Autry v. Republic 
+Prods., 30 Cal.2d 144, 180 P.2d 888 (1947); Monite Waterproof Glue Co. v. Sawyer-Cleator Lumber Co., 234 
+
+§ 269 Temporary Impracticability or Frustration
+Minn. 89, 48 N.W.2d 333 (1951). Illustration 2 is based on Illustration 4 to former § 462; see Illustration 5 to 
+former § 462; Borup v. Western Operating Corp., 130 F.2d 381 (2d Cir.), cert. denied, 317 U.S. 672 (1942).
+Cross Reference
+ALR Annotations:
+Construction contract provision excusing delay caused by "severe weather".  85 A.L.R.3d 1805.
+Enforceability of voluntary promise of additional compensation because of unforeseen difficulties in 
+performance of existing contract.  85 A.L.R.3d 259.
+Digest System Key Numbers:
+Contracts 309
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

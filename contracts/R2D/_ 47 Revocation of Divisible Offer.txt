@@ -1,0 +1,50 @@
+Restat 2d of Contracts, § 47
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 47 Revocation of Divisible Offer
+An offer contemplating a series of independent contracts by separate acceptances may be effectively 
+revoked so as to terminate the power to create future contracts, though one or more of the proposed 
+contracts have already been formed by the offeree's acceptance.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Divisible offers.  An offer may propose several contracts, to arise at different times; typical examples are 
+continuing guaranties and standing offers for the sale of goods.  See § 31 and Comment.  Such an offer is 
+divisible, and the power to make an effective revocation continues pari passu with the continuing power of the 
+offeree to accept.  Compare §§ 33-34.
+Illustrations:
+1.  A offers to guarantee the payment of all bills of exchange drawn by B and discounted by C.  C discounts one 
+such bill.  A is bound to pay it.  A then notifies C that the guaranty is withdrawn.  A is not bound to pay bills 
+subsequently discounted.
+2.  A offers B to sell him five tons of steel daily, and tenders five tons at once.  B accepts the tender.  The same 
+amount is furnished daily for a number of days.  A then states to B that he revokes the offer.  A contract is 
+formed each day that steel is furnished, but the revocation prevents the formation of any contracts thereafter.
+b.  Acceptance by beginning performance.  Ordinarily an offer invites acceptance in any manner which is 
+reasonable under the circumstances, and rendering a requested performance is often a reasonable mode of 
+acceptance.  See §§ 30, 32.  Where performance takes time, the beginning of performance may be a 
+reasonable mode of acceptance, and the offer may then become irrevocable, whether or not the offeree's 
+action constitutes a promise to complete performance.  See §§ 45, 62.  These principles apply to divisible 
+offers, but the beginning of performance of one contract of the contemplated series makes irrevocable only the 
+offer for that one.  See § 50.
+c.  Divisible option contracts.  It is possible to make a divisible offer irrevocable, not just as to the contracts 
+already formed by acceptances, but also as to the power to create future contracts.  An irrevocable divisible 
+offer is in effect a series of binding option contracts, but all may be made binding by a single consideration or a 
+single formal document.
+Illustration:
+3.  A offers to buy from B at the market price 100 tons of steel per month for the next 12 months, promising that 
+in consideration of the delivery of the first installment B is to have an option to sell any or all of the other eleven 
+installments.  B delivers the first 100 tons as requested.  There is an irrevocable offer to buy the eleven 
+undelivered installments.
+REPORTER'S NOTES
+This Section was former § 44.  See 1 Williston, Contracts § 58 (3d ed. 1957); 1 Corbin, Contracts § 53 (1963 & 
+Supp. 1980).
+Comment a.  Illustrations 1 and 2 are based respectively on Illustrations 2 and 1 to former § 44; cf.  American 
+Oil Co. v. Estate of Wigley, 251 Miss. 275, 169 So. 2d 454 (1964).
+Comment c.  Illustration 3 is new.
+
+§ 47 Revocation of Divisible Offer
+Cross Reference
+Digest System Key Numbers:
+Contracts 19
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,71 @@
+Restat 2d of Contracts, § 362
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 3- Enforcement by Specific Performance and Injunction        
+§ 362 Effect of Uncertainty of Terms
+Specific performance or an injunction will not be granted unless the terms of the contract are sufficiently certain 
+to provide a basis for an appropriate order.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Reason for requirement.  One of the fundamental requirements for the enforceability of a contract is that its 
+terms be certain enough to provide the basis for giving an appropriate remedy.  See § 33.  If this minimum 
+standard of certainty is not met, there is no contract at all.  It may be, however, that the terms are certain 
+enough to provide the basis for the calculation of damages but not certain enough to permit the court to frame 
+an order of specific performance or an injunction and to determine whether the resulting performance is in 
+accord with what has been ordered.  In that case there is a contract but it is not enforceable by specific 
+performance or an injunction.
+b.  Degree of certainty required.  If specific performance or an injunction is to be granted, it is important that the 
+terms of the contract are sufficiently certain to enable the order to be drafted with precision because of the 
+availability of the contempt power for disobedience.  Before concluding that the required certainty is lacking, 
+however, a court will avail itself of all of the usual aids in determining the scope of the agreement.  See Chapter 
+9, The Scope of Contractual Obligations.  Apparent difficulties of enforcement due to uncertainty may disappear 
+in the light of courageous common sense.  Expressions that at first appear incomplete may not appear so after 
+resort to usage (§ 221) or the addition of a term supplied by law (§ 204).  A contract is not too uncertain merely 
+because a promisor is given a choice of performing in several ways, whether expressed as alternative 
+performances or otherwise.  He may be ordered to make the choice and to perform accordingly, and, if he fails 
+to make the choice, the court may choose for him and order specific performance.  Even though subsidiary 
+terms have been left to determination by future agreement, if performance has begun by mutual consent, 
+equitable relief may be appropriate with the court supplying the missing terms so as to assure the promisor all 
+advantages that he reasonably expected.
+Illustrations:
+1.  A and B make a contract under which A promises to convey part of a tract of land to B and B promises to 
+pay $ 100,000 and to build "a first class theatre" on it.  Building the theatre will enhance the value of A's 
+remaining land.  A conveys the land to B, who pays the price but refuses to build the theatre.  A sues B for 
+specific performance.  Specific performance will be refused because of the uncertainty of the terms of the 
+contract, although A can receive damages from B based on the failure to enhance the value of his land if he 
+can prove them with reasonable certainty (§ 352).  See also § 366 on the effect of difficulty in supervision.
+2.  A leases land to B for three years, with an option to buy for $ 100,000 on terms of payment to be agreed 
+upon.  B occupies the land, making substantial repairs and improvements, and then accepts the option, 
+tendering $ 100,000 in cash.  A repudiates and B sues A for specific performance.  Specific performance will 
+not be refused on the ground of uncertainty.  Although the terms of payment are uncertain and the parties may 
+have contemplated a period of credit, refusal of specific performance would result in a forfeiture because B has 
+made improvements and the payment tendered is on terms sufficiently favorable to A.  See Illustration 2 to § 
+33.
+3.  A contracts to lease an apartment, with heat and light, to B as soon as the apartment building is completed.  
+After the building is completed, A refuses to install sufficient equipment for heat and light.  B sues A for specific 
+performance.  Specific performance will not be refused on the ground of uncertainty.
+
+§ 362 Effect of Uncertainty of Terms
+REPORTER'S NOTES
+This Section is based on former § 370.  See also Uniform Commercial Code § 2-204(3).  See 5A Corbin, 
+Contracts § 1174 (1964 & Supp. 1980); 11 Williston, Contracts § 1424 (3d ed. 1968).
+Comment b.  The facts in Illustration 1 are taken from Bettancourt v. Gilroy Theatre Co., 120 Cal. App.2d 364, 
+261 P.2d 351 (1953); Ferrara v. Silver, 138 Cal. App.2d 616, 292 P.2d 251 (1956). Illustration 2 is based on 
+Illustration 1 to former § 370; cf.  City Stores Co. v. Ammerman, 266 F. Supp. 766 (D.D.C. 1967), aff'd per 
+curiam, 394 F.2d 950 (D.C. Cir. 1968); Illustration 3 is based on Illustration 3 to former § 370.
+Cross Reference
+ALR Annotations:
+Construction and effect of tenure provisions of contract or statute governing employment of college or university 
+faculty member.  66 A.L.R.3d 1018.
+Enforceability, insofar as restrictions would be reasonable, of contract containing unreasonable restrictions on 
+competition.  61 A.L.R.3d 397.
+Specific Performance: Requisite definiteness of provision in contract for sale or lease of land, that vendor or 
+landlord will subordinate his interest to permit other party to obtain financing.  26 A.L.R.3d 855.
+Specific performance of agreement, or provisions thereof, involving partnership at will.  70 A.L.R.2d 618.
+Uncertainty as to terms of mortgage or of accompanying note or bond contemplated by real-estate sales 
+contract as affecting right to specific performance.  60 A.L.R.2d 251.
+Digest System Key Numbers:
+Injunctions 57-86
+Specific Performance 27-30
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

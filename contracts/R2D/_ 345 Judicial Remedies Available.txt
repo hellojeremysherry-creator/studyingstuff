@@ -1,0 +1,86 @@
+Restat 2d of Contracts, § 345
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 1- In General        
+§ 345 Judicial Remedies Available
+The judicial remedies available for the protection of the interests stated in § 344 include a judgment or 
+order
+(a) awarding a sum of money due under the contract or as damages,
+(b) requiring specific performance of a contract or enjoining its non-performance,
+(c) requiring restoration of a specific thing to prevent unjust enrichment,
+(d) awarding a sum of money to prevent unjust enrichment,
+(e) declaring the rights of the parties, and
+(f) enforcing an arbitration award.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Nature of remedies.  This Section enumerates the principal judicial remedies available for the protection of 
+the interests defined in the preceding section.  It is not intended to be exhaustive, since other remedies such as 
+replevin of a chattel or reformation or cancellation of a writing supplement those listed here.  As to reformation, 
+see §§ 155, 166.  Nor are the remedies listed mutually exclusive, since a court may in the same action, for 
+example, both require specific performance of a promise and award a sum of money as damages for delay in 
+its performance.  The details of the procedure by which such remedies are obtained and enforced vary from 
+one jurisdiction to another and are beyond the scope of this Restatement.  In some circumstances a party to a 
+contract is empowered to protect himself or to obtain satisfaction by methods not involving recourse to a court, 
+such as retaking goods or foreclosing on security.  The exercise of such a power, whether under a term of the 
+contract or otherwise, is not a judicial remedy and is not dealt with in this Section.  But see Topic 5 as to 
+election and avoidance.
+b.  Enforcement.  In most contract cases, what is sought is enforcement of a contract.  Enforcement usually 
+takes the form of an award of a sum of money due under the contract or as damages.  Damages may be based 
+on either the expectation or reliance interest of the injured party.  See § 344.  They are subject to the rules 
+stated in Topic 2.  A court may also enforce a promise by ordering that it be specifically performed or, in the 
+alternative, by enjoining its nonperformance.  In doing so, it protects the promisee's expectation interest.  The 
+rules governing the granting of such relief are stated in Topic 3.
+c.  Restitution.  Sometimes a party, instead of seeking to enforce a contract under the rules stated in Topics 2 
+and 3, seeks protection of his restitution interest.  If this can be accomplished by requiring the other party to 
+restore a specific thing that is in his hands, a court may order restoration or make restoration a condition of 
+granting relief to the other party.  If restoration of the specific thing is not appropriate, the restitution interestmay 
+be protected by requiring the other party to pay a sum of money equivalent to the benefit that he has derived 
+from that thing.  The rules relating to the prevention of unjust enrichment by restitution, in either kind or money, 
+are stated in Topic 4.
+d.  Declaratory judgments.  Declaratory judgments play an important and growing role in the resolution of 
+disputes arising out of contracts.  Courts may render declaratory judgments under statutes adopted in nearly all 
+states, and, in some instances, without the aid of statute.  Such a judgment declares the legal relations 
+
+§ 345 Judicial Remedies Available
+between the parties but does not award damages or order other relief and may be rendered even though no 
+breach of contract has occurred.  In most states, including those that have adopted the Uniform Declaratory 
+Judgment Act, courts may also render declaratory judgments in conjunction with other relief.  In all states, and 
+in the federal courts under the Federal Declaratory Judgment Act, the decision whether to render a declaratory 
+judgment is discretionary.  Because questions relating to declaratory judgments depend largely on statute and 
+are not confined to contract cases, they are not considered in detail in this Restatement.
+e.  Enforcement of arbitration awards.  Arbitration also plays an important and growing role in the resolution of 
+contract disputes.  Although arbitration is not in itself a judicial remedy, enforcement by a court of an award of 
+an arbitral tribunal is.  Statutes relating to the enforcement of such awards, based on either an agreement to 
+arbitrate a future dispute or a submission of an existing dispute, have been enacted in many states.  These 
+statutes provide for the transformation of an award into a judgment by means of a summary procedure, without 
+the necessity of bringing an action on the award as was required at common law.  This transformation permits 
+the use of the regular judicial process to enforce the arbitration award.  The passage of these statutes reflects 
+the increasing use of arbitration to settle private disputes and a decline in the judicial hostility to arbitration that 
+had limited its effectiveness.  Because questions concerning the enforcement of arbitration awards depend 
+largely on statute, they are not considered in detail in this Restatement.  But see Comment a Illustration 2 to § 
+366.
+REPORTER'S NOTES
+This Section is based on former § 326.  See 5 Corbin, Contracts §§ 990-91, 994 (1954); 11 Williston, Contracts 
+§ 1314 (3d ed. 1968).
+On declaratory judgments, see Borchard, Declaratory Judgments (2d ed. 1941); 6A Moore, Federal Practice ch. 
+57 (1974); 3 Weinstein, Korn & Miller, New York Civil Practice § 3001 (1977); 10 Wright & Miller, Federal 
+Practice and Procedure §§ 2751-80 (1973); Wright, Law of Federal Courts 497-503 (3d ed. 1976).  See also 
+Uniform Declaratory Judgments Act; Federal Declaratory Judgments Act, 28 U.S.C. §§ 2201, 2202 (1976).  On 
+the enforcement of arbitration awards see Domke, The Law and Practice of Commercial Arbitration § 37 (1968); 
+16 Williston, Contracts § 1923A (3d ed. 1976).  See also Uniform Arbitration Act; United States Arbitration Act, 
+9 U.S.C. § 1 et seq., and, for examples of modern state enforcement procedures, see Cal. Civ. Proc. Code § 
+1285 et seq. and N.Y. Civ. Prac. Law § 7510.
+Cross Reference
+ALR Annotations:
+Comment Note. -- Contractual provision as to remedy as excluding other possible remedies.  84 A.L.R.2d 322.
+Power and standing of personal representative of deceased promisee to enforce a contract made for benefit of 
+a third party.  76 A.L.R.2d 231.
+Rightsand remedies of tenant upon landlord's breach of covenant to repair.  28 A.L.R.2d 446.
+Digest System Key Numbers:
+Arbitration 83.1
+Contracts 324
+Declaratory Judgments 142
+Implied and Constructive Contracts 3
+Specific Performance 1
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

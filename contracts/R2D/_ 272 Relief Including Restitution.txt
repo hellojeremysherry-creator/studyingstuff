@@ -1,0 +1,150 @@
+Restat 2d of Contracts, § 272
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 272 Relief Including Restitution
+(1)  In any case governed by the rules stated in this Chapter, either party may have a claim for relief 
+including restitution under the rules stated in §§ 240 and 377.
+(2)  In any case governed by the rules stated in this Chapter, if those rules together with the rules stated 
+in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires 
+including protection of the parties' reliance interests.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Mitigating doctrines.  Because the rules stated in this Chapter might otherwise appear to have the harsh 
+effect of denying either party any recovery following the discharge of one party's duty based on impracticability 
+or frustration, this Section makes it clear that several mitigating doctrines may be used to allow at least some 
+recovery in a proper case.  Subsection (1) speaks to claims for relief such as that provided by the rule on part 
+performances as agreed equivalents stated in § 240 and those on restitution and other relief stated in § 377.  
+Subsection (2) speaks to supplying a term to avoid injustice.
+b.  Relief including restitution.  A party whose duty has never arisen or has been discharged because of 
+impracticability of performance or frustration of purpose may already have rendered some of his own 
+performance or received some of the other party's performance or both.  In some cases the party who has 
+performed is entitled to recovery for what he has done under the rule on part performances as agreed 
+equivalents (§ 240).  See Illustration 8 to § 240.  Even where this is not so, it will generally be appropriate to 
+allow him a claim for restitution to the extent that his performance has benefited the other.  Such claims, 
+whether for restitution in kind or for the equivalent in money, are governed by the rules stated in Chapter 16.  In 
+a proper case recovery may go beyond mere restitution and include elements of reliance by the claimant even 
+though they have not benefited the other party.  See § 377.  Special mention has been made of the possibility 
+of such claims in those illustrations in the present Chapter in which the facts make it likely that one party's 
+performance has benefited the other (Illustrations 3 and 7 to § 262, Illustration 2 to § 264, Illustration 2 to § 265, 
+Illustration 1 to § 267).  In appropriate circumstances such claims might be allowed in other illustrations as well.  
+The rule stated in Subsection (1) is, of course, subject to the agreement of the parties and does not apply if a 
+contrary intention is manifested.
+c.  Supplying a term to avoid injustice.  Under the rule stated in § 204, when the parties have not agreed with 
+respect to a term that is essential to a determination of their rights and duties, the court will supply a term that is 
+reasonable in the circumstances.  Since it is the rationale of this Chapter that, in a case of impracticability or 
+frustration, the contract does not cover the case that has arisen, the court's function can be viewed generally as 
+that set out in § 204 of supplying a term to deal with that omitted case.  See Introductory Note to this Chapter.  
+Ordinarily the rules stated in this Chapter, coupled with those stated in Chapter 16, will be adequate to allow the 
+court to arrive at a just result (Subsection (1)).  In some instances, however, these rules will not suffice to avoid 
+injustice.  A particularly significant example occurs where the just solution is to "sever" the agreement and 
+require that some unexecuted part of it be performed on both sides, rather than to relieve both parties of all of 
+their duties.  This situation differs from that envisioned in § 240, under which the court merely allows recovery 
+at the contract rate for performance that has already been rendered.  The question under this Section is 
+whether the court can salvage a part of the agreement that is still executory on both sides.  See Illustrations 1, 
+2, 3 and 4.  The rule stated in Subsection (2) makes it clear that it can do so by supplying a term which is 
+reasonable in the circumstances when the rules stated in this Chapter together with those stated in Chapter 16 
+
+§ 272 Relief Including Restitution
+will not avoid injustice.  The rule operates in other situations as well and may, for example, be invoked to 
+require an obligor to prorate among several obligees that part of his performance that remains practicable.  See 
+Illustration 5.
+Illustrations:
+1.  A contracts with B to work for him for one year for $ 60,000.  Illness prevents A from working for the first 
+eleven months, and he refuses to work for the twelfth month although B manifests his assent to paying him $ 
+5,000.  Under the rule stated in § 270, only a manifestation of assent to payment of $ 60,000, B's remaining 
+performance in full, would prevent the discharge of A's duty to work for the twelfth month.  If, however, the court 
+decides that this rule will not avoid injustice, it may supply a term, if reasonable, under which A is to work for the 
+twelfth month in return for B's payment of $ 5,000.  A would then be liable to B for breach of contract.
+2.  A contracts with B to service seven different areas at B's airport at prices that are stated separately for each 
+area.  Before performance is to begin, a government regulation forbids the servicing of one of the areas.  A 
+does not service that area, but offers to service the other six areas in return for the stated prices.  B refuses to 
+allow A to do so.  Under § 267(1), A's non-performance would operate as a failure of performance for the 
+purpose of the rule stated in § 237, and B's remaining duties would be discharged.  If, however, the court 
+decides that this rule will not avoid injustice, it may supply a term, if reasonable, under which B is to accept A's 
+servicing of the other areas and pay the stated prices.  B would then be liable to A for breach of contract.
+3.  A contracts to sell and B to buy A's accounting business for a specified sum.  A agrees to remain active in 
+the business for two years during which B agrees to pay A an additional specified sum.  After transferring the 
+business to B and receiving a down payment, A dies.  B offers to transfer the business to A's estate, refuses to 
+pay the balance due, and demands the return of his down payment.  Under the rule stated in § 267(1), not 
+remaining active in the business would operate as a failure of performance for the purpose of the rule stated in 
+§ 237, and B's remaining duties would be discharged.  If, however, the court decides that this rule will not avoid 
+injustice, it may supply a term, if reasonable, under which B is to keep and pay for the business, but both 
+parties' duties with respect to the two-year period are discharged.  B would then be liable to A's estate for 
+breach of contract.
+4.  A, an inventor, makes a contract with B, a manufacturer of washing machines, giving B the exclusive right to 
+use a transmission on which A holds a patent that has 14 years to run.  In return, B agrees to pay A royalties, 
+the minimum annual payment to be $ 10,000.  As the result of an outbreak of war, the government prohibits the 
+manufacture of washing machines for a two-year period, frustrating B's purpose during that time.  When B 
+refuses to pay royalties for the two-year period, A notifies B that B no longer has the exclusive right to the 
+transmission.  Under the rule stated in § 269, B's duty is suspended until the manufacture of washing machines 
+is no longer prohibited, and if circumstances, including other contractual commitments, do not make it materially 
+more burdensome for B to perform after the suspension cf payments, B's duty to pay is not thereby discharged.  
+Nevertheless, under § 267(1), a failure by B to pay royalties for a period of two years would operate as a failure 
+of performance for the purpose of the rule stated in § 237, and A's remaining duties would be discharged.  If, 
+however, the court decides that this rule will not avoid injustice, it may supply a term, if reasonable, under which 
+A is to give B the exclusive right to use his patented transmission for the remainder of the life of the patent, after 
+the two-year period, in return for B's payment of the agreed royalties during that time.  A would then be liable to 
+B for breach of contract.
+5.  By two separate contracts, A agrees to sell and B and C to buy identical quantities of peaches grown in A's 
+orchard.  Although A has no contract with D, he regularly sells D the same quantity.  An unusual drought 
+prevents A from growing more than one third the total amount required by B, C and D.  A delivers all of the 
+peaches to D, although both B and C manifest assent to paying A for what he can deliver.  Because the rules 
+stated in this Chapter will not avoid injustice, the court will, under Uniform Commercial Code § 2-615(b), supply 
+a term under which A must allocate the peaches fairly and reasonably between B and C but may at his option 
+include his regular customer D.  A is liable to B and C for breach of contract for failure so to allocate the 
+peaches.
+6.  A, the owner of an opera company that is heavily in debt, transfers half of its stock to B, who promises to 
+manage the company.  B is to have the right to sell the stock only if through his management the debt is paid 
+off.  After seven years, during which B is able to pay off only 15 per cent of the debt, the opera house is 
+
+§ 272 Relief Including Restitution
+accidentally destroyed by fire.  Theinsurance proceeds are used to pay off the debt, leaving a balance in the 
+treasury, and the opera house is not rebuilt, preventing the occurrence of the condition of B's right to sell his 
+stock.  A seeks an accounting for the stock transferred to B.  Under the rule stated in § 271, the non-occurrence 
+of the condition is not excused because its occurrence is a material part of the agreed exchange.  If, however, 
+the court decides that this rule will not avoid injustice, it may supply a term, under which B is entitled to a 
+reasonable compensation for his services, giving due regard to the terms of the contract.
+REPORTER'S NOTES
+Subsection (1) is based on former § 468; see Restatement of Restitution §§ 48 and 108 and Illustration 2 to § 
+16.  However, the statement of substantive rules governing such claims is deferred to Chapter 16; see § 377.  
+Subsection (2) is new.  It is a specific application of the more general rule stated in § 204, Supplying an Omitted 
+Essential Term.  See 6 Corbin, Contracts §§ 1342, 1367-72 (1962); 18 Williston, Contracts §§ 1970-78 (3d ed. 
+1978); Note, 114 U. Pa. L. Rev. 306 (1965); Note, 69 Yale L.J. 1054 (1960); Comment, 59 Mich. L. Rev. 98, 
+117-22 (1960).
+Comment c.  The duty to apportion was the subject of former § 464.  Illustration 1 is based in part on Illustration 
+1 to former § 463; cf.  Kowal v. Sportswear by Revere, Inc., 351 Mass. 541, 222 N.E.2d 778 (1967). But cf. 
+Illustration 11 to former § 460; International Paper Co. v. Rockefeller, 161 A.D. 180, 146 N.Y.S. 371 (1914). 
+Illustration 2 is based on Van Dusen Aircraft Supplies of New England v. Massachusetts Port Auth., 361 Mass. 
+131, 279 N.E.2d 717 (1972); cf.  Taylor v. Hart, 73 Miss. 22, 18 So. 546 (1895); Anderson v. Cliff Gold Mining 
+Co., 47 Wyo. 349, 38 P.2d 334 (1934), reh. denied, 47 Wyo. 504, 41 P.2d 275 (1935). But cf. Uniform 
+Commercial Code § 2-613(b).  Illustration 3 is based on Mullen v. Wafer, 252 Ark. 541, 480 S.W.2d 332 (1972). 
+But cf. Uniform Commercial Code § 2-613(b).  Illustration 4 is based on Patch v. Solar Corp., 149 F.2d 558 (7th 
+Cir.), cert. denied, 326 U.S. 741 (1945); cf.  Minnevich v. Cafe de Paris, [1936] 1 All. E.R. 884 (K.B.).  
+Illustration 5 is based on Illustrations 1 and 2 to former § 464 and on Ranney-Davis Mercantile Co. v. Shawano 
+Canning Co., 111 Kan. 68, 206 P. 337 (1922); Uniform Commercial Code § 2-615(b); Mansfield Propane Gas 
+Co. v. Folger Gas Co., 231 Ga. 868, 204 S.E.2d 625 (1974); cf.  County of Yuba v. Mattoon, 160 Cal. App.2d 
+456, 325 P.2d 162 (1958). Illustration 6 is based on Tulsa Opera House Co. v. Mitchell, 165 Okla. 61, 24 P.2d 
+997 (1933); cf.  Miller v. Campello Co-operative Bank, 344 Mass. 76, 181 N.E.2d 345 (1962).
+In three separate opinions the Supreme Court of Alaska considered the damages available to a party who 
+performed duties later held excused by impracticability.  See Northern Corp. v. Chugach Elec. Ass'n, 518 P.2d 
+76 (Alaska), modified on rehearing, 523 P.2d 1243 (Alaska 1974); id. on appeal from trial on remand, 562 P.2d 
+1053 (Alaska 1977). The opinions consider and choose among several theories justifying recovery and approve 
+an award based on reliance damages, not limited to the benefit conferred.  (It should be noted, however, that 
+the term "reliance" is only occasionally used in the various opinions.) See also, Note, 6 UCLA-Alaska L. Rev. 
+338 (1977); Maxwell Dynamometer Co. v. United States, 181 Ct. Cl. 607, 386 F.2d 855 (1967); Hol-Gar Mfg. 
+Corp. v. United States, 175 Ct. Cl. 518, 360 F.2d 634 (1966); Albre Marble and Tile Co. v. John Bowen Co., 
+338 Mass. 394, 155 N.E.2d 437 (1959); id., 343 Mass. 777, 179 N.E.2d 321 (1962). Compare Comment b to § 
+377.
+Cross Reference
+ALR Annotations:
+Liabilities or risks of loss arising out of contract for repairs or additions to, or installations in, existing building 
+which, without fault of either party, is destroyed pending performance.  28 A.L.R.3d 788.
+Recovery, on theory of quasi contact, unjust enrichment, or restitution, of money paid in reliance upon 
+unenforceable promise to accept a bill of exchange or draft.  81 A.L.R.2d 587.
+Digest System Key Numbers:
+Complied and Constructive Contracts 55-61
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+
+§ 272 Relief Including Restitution
+End of Document

@@ -1,0 +1,42 @@
+Restat 2d of Contracts, § 145
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 7- Consequences of Non-Compliance        
+§ 145 Effect of Full Performance
+Where the promises in a contract have been fully performed by all parties, the Statute of Frauds does 
+not affect the legal relations of the parties.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  The Statute of Frauds renders certain contracts unenforceable by action or defense; it does not 
+forbid the making or performance of such contracts, or authorize their rescission after full performance on both 
+sides.  After such full performance, neither party can maintain an action for restitution merely because the 
+contract was unenforceable under the Statute.  See § 141.  The Statute has no further function to perform, and 
+the legal relations of the parties are the same as if the contract had been enforceable.  Compare § 147.
+Illustrations:
+1.  A owes B a debt of $ 20,000.  A's land, worth $ 10,000, is about to be sold on foreclosure under a mortgage 
+held by C.  B contracts to bid in the land and to deduct from A's debt to B $ 10,000 less the amount B pays.  B 
+bids in the land for $ 6,000.  A's debt is reduced by $ 4,000.
+2.  At D's request S orally guarantees to C that D will pay a debt D owes to C.  On D's failure to pay at maturity, 
+S pays the debt.  C's claim against D is discharged, and S has the same rights against D as if S's promise to C 
+had been enforceable.
+REPORTER'S NOTES
+This Section is based on former § 219.  See 3 Williston, Contracts § 528 (3d ed. 1960); 2 Corbin, Contracts § 
+285 (1950 & Supp. 1971).
+Comment a.  Illustrations 1 and 2 are based on Illustrations 1 and 2 to former § 219.  See Mapes v. Kalva 
+Corp., 68 Ill. App.3d 362, 24 Ill. Dec. 944, 386 N.E.2d 148 (1979); Trimmer v. Short, 492 S.W.2d 179 (Mo. Ct. 
+App. 1973); Scott v. Southern Coach & Body Co., 280 Ala. 670, 197 So.2d 775 (1967); cf.  Rice v. Insurance & 
+Bonds, Inc., 366 So.2d 85 (Fla. Dist. Ct. App. 1979).
+Cross Reference
+ALR Annotations:
+Construction and application of UCC § 2-201(3)(c) rendering contract of sale enforceable notwithstanding 
+statute of frauds with respect to goods for which payment has been made and accepted or which have been 
+received and accepted.  97 A.L.R.3d 908.
+Buyer's note as payment within contemplation of statute of frauds.  81 A.L.R.2d 1355.
+Doctrine of part performance with respect to renewal option in lease not complying with statute of frauds.  80 
+A.L.R.2d 425.
+Digest System Key Numbers:
+Frauds, Statute of 139
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+
+§ 145 Effect of Full Performance
+End of Document

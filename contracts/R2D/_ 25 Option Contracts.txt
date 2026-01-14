@@ -1,0 +1,95 @@
+Restat 2d of Contracts, § 25
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 3- Making of Offers        
+§ 25 Option Contracts
+An option contract is a promise which meets the requirements for the formation of a contract and limits 
+the promisor's power to revoke an offer.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  "Option."  A promise which constitutes an option contract may be contained in the offer itself, or it may be 
+made separately in a collateral offer to keep the main offer open.  Such promises are commonly called 
+"options." But the word "option" is also often used for any continuing offer, even though revocable, and indeed 
+is sometimes used to refer to any power to make a choice.  To avoid ambiguity the phrase "option contract" is 
+used in this Restatement.
+Illustrations:
+1.  A promises B under seal or in return for $ 100 paid or promised by B that A will sell B 100 shares of stock in 
+a specified corporation for $ 5,000 at any time within thirty days that B selects.  There is an option contract 
+under which B has an option.
+2.  A offers to sell B Blackacre for $ 5,000 at any time within thirty days.  Subsequently A promises under seal 
+or in return for $ 100 paid or promised by B that the offer will not be revoked.  There is an option contract under 
+which B has an option.
+b.  The need for irrevocable offers.  To provide the offeree with a dependable basis for decision whether or not 
+to accept, the rule in many legal systems is that an offer is irrevocable unless it provides otherwise.  The 
+common-law rule, on the other hand, resting on the requirement of consideration, permits the revocation of 
+offers even though stated to be firm.  See Comment a to § 42.  The offeree's need for a dependable basis for 
+decision is met in part by the common-law rule that mailed acceptance prevents revocation.  See § 63.  Where 
+more is needed, the option contract is available.
+c.  Types of option contracts.  The traditional common-law devices for making an offer irrevocable are the giving 
+of consideration and the affixing of a seal.  The requirement of consideration may be met in any of the ways 
+permitted by the rules stated in §§ 71-81: payment of money or some other performance by the offeree is 
+effective, as is a promise of such performance; one option may furnish consideration for another, and a single 
+consideration may support both a present contract and a future option.  Compare Illustration 3 to § 47; see § 45 
+as to the beginning or tender of performance.
+The option under seal is the traditional mode of making an offer irrevocable without consideration.  Cf. § 95.  In 
+some cases a negotiable instrument or a letter of credit may operate as an offer binding without consideration.  
+See Uniform Commercial Code §§ 3-408, 5-105, 5-106.  Offers may also be irrevocable by statute or by virtue 
+of reliance by the offeree or other circumstances bringing into play one of the rules stated in §§ 82-94.  See, 
+especially, § 87.
+d.  Effect of option contract.  The principal legal consequence of an option contract is that stated in this Section: 
+it limits the promisor's power to revoke an offer.  The termination of the offeree's power of acceptance is subject 
+to the requirements for discharge of a contractual duty.  See § 37.  A revocation by the offeror is not of itself 
+effective, and the offer is properly referred to as an irrevocable offer.
+REPORTER'S NOTES
+
+§ 25 Option Contracts
+This Section is new, but is based on the second sentence of former § 24 and on former §§ 46 and 47.  See 
+Special Note to former § 24.  See also 1 Williston, Contracts §§ 61-61D (3d ed. 1957); 1 Corbin, Contracts §§ 
+42-44, 46, 48, 53, 57 (1963 & Supp. 1980).
+Comment a.  On option contracts, see generally Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 
+(1966), citing this Section in Tentative Draft.  Illustration 1 is based on Illustration 1 to former § 46; compare 
+Hermes v. William F. Meyer Co., 65 Ill. App.3d 745, 382 N.E.2d 841 (1978). Illustration 2 is based on Illustration 
+1 to former § 47 and Illustration 2 to former § 24; compare Humble Oil & Ref. Co. v. Cox, supra.
+Comment b.  On the common law rule, see Dickinson v. Dodds, 2 Ch. D. 463 (C.A. 1876), Gilmore, The Death 
+of Contract 28-31, 39 (1974); Hermes v. William F. Meyer Co., supra.
+Comment c.  For a discussion of the consideration supporting an option and implied conditions to its exercise, 
+see Joseph v. Wilson, 57 Ill. App.3d 212, 14 Ill. Dec. 831, 372 N.E.2d 1110 (1978); O'Brien v. Board of Educ., 
+70 Ill. App.3d 604, 27 Ill. Dec. 141, 388 N.E.2d 1104 (1979). The effect of a seal after an offeree's signature 
+was discussed in some detail in Humble Oil & Ref. Co. v. Cox, supra. An option provision to purchase 
+additional land "as mutually agreed upon by both parties" was held too indefinite to be enforced in Lucey v. 
+Hero Int'l Corp., 361 Mass. 569, 281 N.E.2d 266 (1972).
+Comment d.  Despite equity's dislike of forfeitures, cf. §§ 229, 361, requirements governing the time and 
+manner of exercise of a power of acceptance under an option contract are applied strictly.  It is reasoned that 
+any relaxation of termswould substantively extend the option contract to subject one party to greater obligations 
+than he bargained for.  See Holiday Inns of America v. Knight, 70 Cal.2d 327, 74 Cal. Rptr. 722, 450 P.2d 42, 
+(1969) (Traynor, C.J.); Willow Brook Rec. Center v. Selle, 96 N.J. Super. 358, 233 A.2d 77 (1967); Cattle 
+Feeders, Inc. v. Jordan, 549 S.W.2d 29 (Tex. Civ. App. 1977).
+Cross Reference
+ALR Annotations:
+Timeliness of notice of exercise of option to purchase realty.  87 A.L.R.3d 805.
+Lessee's first privilege option to purchase or terms of similar import as requiring existence of prior offer from 
+third party.  76 A.L.R.3d 1139.
+Necessity for payment or tender of purchase money within option period in order to exercise option, in absence 
+of specific time requirement for payment.  71 A.L.R.3d 1201.
+Landlord and Tenant: What amounts to "sale" of property for purposes of provision giving tenant right of first 
+refusal if landlord desires to sell.  70 A.L.R.3d 203.
+Construction and effect of "dilution" provision of employee's stock-option contract, dealing with rights where 
+stock structure of corporation changes before option is exercised.  53 A.L.R.3d 1030.
+Sufficiency of consideration for employee stock-option contract.  57 A.L.R.3d 1241.
+Landlord and Tenant: Tenant's rights under provision giving him pre-emptive right to purchase on terms offered 
+by third person, where third person's offer is withdrawn before tenant exercises pre-emptive right.  46 A.L.R.3d 
+1377.
+Validity of option to purchase realty as affected by indefiniteness of term provided for exercise.  31 A.L.R.3d 
+522.
+Grant to lessee of first privilege or right to purchase leased premises as constituting absolute or conditional 
+option.  34 A.L.R.2d 1158.
+Option executed simultaneously with mortgage for purchase of mortgaged property by mortgagee as subject of 
+specific performance.  10 A.L.R.2d 231.
+Option to purchase at specified price and to purchase at price offered by third person, included in same 
+instrument.  8 A.L.R.2d 604.
+Digest System Key Numbers:
+
+§ 25 Option Contracts
+Contracts 16
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

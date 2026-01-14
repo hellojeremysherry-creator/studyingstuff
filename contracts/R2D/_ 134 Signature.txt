@@ -1,0 +1,61 @@
+Restat 2d of Contracts, § 134
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 6- Satisfaction of the Statute by a Memorandum        
+§ 134 Signature
+The signature to a memorandum may be any symbol made or adopted with an intention, actual or 
+apparent, to authenticate the writing as that of the signer.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Types of symbol.  The traditional form of signature is of course the name of the signer, handwritten in ink.  
+But initials, thumbprint or an arbitrary code sign may also be used; and the signature may be written in pencil, 
+typed, printed, made with a rubber stamp, or impressed into the paper.  Signed copies may be made with 
+carbon paper or by photographic process.
+b.  Place of signature; "subscribed."  Under a statute in the traditional English form, the signature need not 
+appear on any particular part of the writing.  Although it is usual to sign at the end of a document, a printed 
+letterhead or billhead may be adopted as a signature.  See Uniform Commercial Code § 1-201(39) Comment.  
+Even where the statute uses the word "subscribe," there is an ambiguity: the word "subscribe" is sometimes 
+read as a synonym for "sign," sometimes as requiring signing at the end or foot.  Wherever the signature 
+appears, it must be made or adopted with the requisite intention, but in the absence of contrary evidence the 
+intention may be inferred from the conventional form of the writing.
+Illustrations:
+1.  A and B make an oral contract within the Statute.  A sends to B a written acceptance, stating the terms, on a 
+form bearing A's name as a printed heading.  At the foot of the form is the word "Accepted" followed by a blank 
+space for signature, which is not filled in.  In the absence of other evidence of intention, the form is not signed 
+by A.
+2.  A and B make an oral contract within the Statute.  A writes a memorandum stating the terms which begins, 
+"I, A, make the following contract with B." A then delivers the memorandum to B.  This is A's signature if the 
+trier of fact infers A's intent to authenticate the writing.
+3.  A and B make an oral contract within the Statute.  A clerk makes a written statement of the contract, and A 
+writes at the top thereof -- "O.K." followed by A's initials.  This is a signature by A.
+c.  Time of signing; blanks and alterations.  Commonly a document is signed after it is completed, but blanks 
+may be left to be filled in later.  If the signer fills a blank or adds a postscript or if another does so with his 
+authority, the prior signature is effectively adopted with reference to the added portion.  Alterations are often 
+separately initialed, but re-adoption of the prior signature is equally effective for the purposes of the Statute of 
+Frauds.  Compare Uniform Commercial Code §§ 3-115, 3-407.
+Illustration:
+4.  A has a number of forms of letters printed ending with the words, "Yours very truly, A." With A's authority a 
+clerk fills in one of the forms with the terms of an offer to B and sends it to B.  B accepts orally.  A's printed 
+name is his signature.
+REPORTER'S NOTES
+The Section is revised from former § 210 to follow the language of Mesibov, Glinert & Levy, Inc. v. Cohen Bros. 
+Mfg. Co., 245 N.Y. 305, 157 N.E. 148 (1927), and Uniform Commercial Code § 1-201(39).  See 4 Williston, 
+Contracts § 585 (3d ed. 1961); 2 Corbin, Contracts §§ 520-25 (1950 & Supp. 1971); Annots., 8 A.L.R. 1339 
+(1920) (pencil), 112 A.L.R. 937 (1938) (place of signature), 159 A.L.R. 253 (1945) (initials), 171 A.L.R. 334 
+(1947) (printed, stamped or typewritten signature).
+
+§ 134 Signature
+Comment b.  See generally Dubrowin v. Schremp, 248 Md. 166, 235 A.2d 722 (1967); Schremp v. Dubrowin, 
+257 Md. 623, 263 A.2d 827 (1970). Illustration 1 is based on Mesibov, Glinert & Levy, Inc. v. Cohen Bros. Mfg. 
+Co., 245 N.Y. 305, 157 N.E. 148 (1927), and is substituted for Illustration 1 to former § 210.  Illustrations 2 and 
+3 are based on Illustrations 2 and 3 to former § 210.
+Comment c.  Illustration 4 is based on Illustration 4 to former § 210.
+Cross Reference
+ALR Annotations:
+Statute of frauds: Validity of lease or sublease subscribed by one of the parties only.  46 A.L.R.3d 619.
+Admissibility of parol evidence to connect signed and unsigned documents relied upon as memorandum to 
+satisfy statute of frauds.  81 A.L.R.2d 991.
+Digest System Key Numbers:
+Frauds, Statute of 101, 102, 115, 116
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

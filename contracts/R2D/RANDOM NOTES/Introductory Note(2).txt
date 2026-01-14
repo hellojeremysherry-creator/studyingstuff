@@ -1,0 +1,38 @@
+Restat 2d of Contracts, § Scope
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+Introductory Note
+An obligee's assent to discharge a duty that he is owed may take the form of a promise to discharge that duty in 
+the future or of a present discharge.  A promise to discharge the duty must, like any other promise, be 
+supported by consideration or one of its substitutes in order to be enforceable.  The common law carried over 
+this requirement to a present discharge, even though it involved no promise.  Such a discharge was not 
+effective unless supported by consideration or one of its substitutes.  This requirement is stated in § 273.  It 
+applies to the traditional transactions dealt with in Topics 2 and 3, including discharge by substituted 
+performance or contract, accord, agreement of rescission, release and contract not to sue.  It also applies to 
+transactions involving discharge that do not take one of these traditional forms.
+The wisdom of applying to a present discharge the rules developed for the enforceability of promises has been 
+questioned, however, particularly since the seal has been deprived of its effect in most states.  Exceptions have 
+developed judicially and these are supplemented by statutes in some states.  Rules stating these exceptions 
+are also collected in this Topic.  Section 274 deals with cancellation, destruction or surrender, an exception 
+applicable to writings that are symbolic or evidentiary of the duty discharged.  Sections 275 and 276 deal with 
+assent to discharge duties of return performance and duties to transfer property, two exceptions derived by 
+analogy from the law relating to gifts of tangible property.  Section 277 deals with the renunciation of a duty to 
+pay damages for a breach of contract, an exception that is based in part on the Uniform Commercial Code.
+Any transaction involving discharge by the obligee's assent, however, is subject to the general rules on 
+effectiveness of assent that are set out in this Restatement.  Even if the rule stated in § 273 does not apply, the 
+obligee can set up any of the other defenses generally available to a promisor, such as those based on lack of 
+capacity, mistake, misrepresentation, duress, unconscionability, public policy or the Statute of Frauds.  
+Furthermore, the power of the obligee, even with the assent of the obligor, to vary a duty to an intended 
+beneficiary is limited by the rule stated in § 311
+REPORTER'S NOTES
+Section 273 makes express a fundamental principle that was implicit in former Chapter 13.  The rest of this 
+Topic is based on Topic 13, Discharge by Cancellation or Surrender, and Topic 8, Discharge by Renunciation 
+or Executed Gift, of former Chapter 13.  Former § 410, which dealt with assent to discharge of a duty to pay 
+damages for total breach, has been replaced by § 346(1), based on Uniform Commercial Code § 1-107.  
+Former § 412, which dealt with discharge by retention of goods, has been left to Uniform Commercial Code § 2-
+607.  Former § 413, which dealt with discharge by acceptance of a deed of conveyance of land, has been left to 
+Comment.  Former § 415, which dealt with discharge by refusal to receive performance, has been left to the 
+Introductory Note to Topic 3.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

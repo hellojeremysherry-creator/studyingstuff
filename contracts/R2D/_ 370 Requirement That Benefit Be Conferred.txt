@@ -1,0 +1,102 @@
+Restat 2d of Contracts, § 370
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 4- Restitution        
+§ 370 Requirement That Benefit Be Conferred
+A party is entitled to restitution under the rules stated in this Restatement only to the extent that he has 
+conferred a benefit on the other party by way of part performance or reliance.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Meaning of requirement.  A party's restitution interest is his interest in having restored to him any benefit that 
+he has conferred on the other party.  See § 344(2).  Restitution is, therefore, available to a party only to the 
+extent that he has conferred a benefit on the other party.  The benefit may result from the transfer of property or 
+from services, including forbearance.  See Restatement of Restitution § 1, Comment b.  The benefit is ordinarily 
+conferred by performance by the party seeking restitution, and receipt by the other party of performance that he 
+bargained for is regarded as a benefit.  However, a benefit may also be conferred if the party seeking restitution 
+relies on the contract in some other way, as where he makes improvements on property that does not ultimately 
+become his.  However, a party's expenditures in preparation for performance that do not confer a benefit on the 
+other party do not give rise to a restitution interest.  See Illustration 1.  If, for example, the performance consists 
+of the manufacture and delivery of goods and the buyer wrongfully prevents its completion, the seller is not 
+entitled to restitution because no benefit has been conferred on the buyer.  See Illustration 2.  The injured party 
+may, however, have an action for damages, including one for recovery based on his reliance interest (§ 349).  
+The requirement of this Section is generally satisfied if a benefit has been conferred, and it is immaterial that it 
+was later lost, destroyed or squandered.  See Illustration 3.  The benefit must have been conferred by the party 
+claiming restitution.  It is not enough that it was simply derived from the breach.  See Illustration 4.  The other 
+party is considered to have had a benefit conferred on him if a performance was rendered at his request to a 
+third person.  See Illustration 5.  If the contract is for the benefit of a third person, the promisee is entitled to 
+restitution unless the duty to the beneficiary cannot be varied under the rule stated in § 311.
+Illustrations:
+1.  A, who holds a mortgage on B's house, makes a contract with B under which A promises not to foreclose the 
+mortgage for a year.  In reliance on this promise, B invests money that he would have used to pay the 
+mortgage in improving other land that he owns.  A repudiates the contract and forecloses.  B cannot get 
+restitution based on the improvements since making them conferred no benefit on A.  But see Illustration 4 to § 
+373 and Illustration 11 to § 90.
+2.  A contracts to sell B a machine for $ 100,000.  After A has spent $ 40,000 on the manufacture of the 
+machine but before its completion, B repudiates the contract.  A cannot get restitution of the $ 40,000 because 
+no benefit was conferred on B.
+3.  A promises to deposit $ 100,000 to B's credit in the X Bank in return for B's promise to render services.  A 
+deposits the $ 100,000, the X Bank fails, and B refuses to perform.  A can get restitution of the $ 100,000 
+because a benefit was to that extent conferred on B even though it was lost by B when the X Bank failed.  See 
+§ 373.
+4.  A contracts to work full time for B as a bookkeeper.  In breach of this contract, A uses portions of the time 
+that he should spend working for B in keeping books for C, who pays him an additional salary.  B sues A for 
+breach of contract.  B cannot recover from A the amount of the salary paid by C because it was not a benefit 
+conferred by B.
+
+§ 370 Requirement That Benefit Be Conferred
+5.  A, a social worker, promises B to render personal services to C in return for B's promise to educate A's 
+children.  B repudiates the contract after A has rendered part of the services.  A can get restitution from B for 
+the services, even though they were not rendered to B, because they conferred a benefit on B.  See Illustration 
+3 to § 371.
+REPORTER'S NOTES
+This Section is based on former § 348.  See 5 Corbin, Contracts §§ 1107-09 (1964 & Supp. 1980); 12 Williston, 
+Contracts §§ 1480-83 (3d ed. 1970); Sullivan, The Concept of Benefit in the Law of Quasi-Contract, 64 Geo. 
+L.J. 1 (1975); Notes, 19 Hastings L.J. 1259 (1968); 46 Mich. L. Rev. 543 (1948); cf. Ottenweller, Right of a 
+Subcontractor to Make Claim Under a Payment Bond Where the Measure of Damage is Based on the Theory 
+of Quantum Meruit, 14 Forum 1161 (1978).
+Comment a.  The last sentence of this Comment is based on former § 356(1).  Illustration 1 is based on 
+Illustration 4 to former § 348; cf.  Boone v. Coe, 153 Ky. 233, 154 S.W. 900 (1913). Illustration 2 is based on 
+Illustration 7 to former § 348.  But cf.  Acme Process Equip. Co. v. United States, 171 Ct. Cl. 324, 347 F.2d 509 
+(1965), rev'd on other grounds, 385 U.S. 138, rehearing denied, 385 U.S. 1032 (1966). Illustration 3 is based on 
+Illustration 1 to former § 348.  Illustration 4 is based on Illustration 2 to Restatement, Second, Agency § 404.  
+Illustration 5 is based on Illustration 2 to former § 348.
+Cross Reference
+ALR Annotations:
+Contractual liquidated damages provisions under UCC Article 2.  98 A.L.R.3d 586.
+Recovery for services rendered by persons living in apparent relation of husband and wife without express 
+agreement for compensation.  94 A.L.R.3d 552.
+Limitation to quantum meruit recovery, where attorney employed under contingent fee contract is discharged 
+without cause.  92 A.L.R.3d 690.
+Master and servant: Regular payment of bonus to employee, without express contract to do so, as raising 
+implication of contract for bonus.  66 A.L.R.3d 1075.
+Building and construction contracts: Right of subcontractor who has dealt with only primary contractor to 
+recover against property owner in Quasi Contract.  62 A.L.R.3d 288.
+Uniform commercial code: Measure of recovery where buyer repudiates contract for goods to be manufactured 
+to special order, before completion of manufacture.  42 A.L.R.3d 182.
+Judgment in action on express contract for labor or services as precluding, as a matter of Res Judicata, 
+subsequent action on implied contract (Quantum Meruit) or vice versa.  35 A.L.R.3d 874.
+Attorney's recovery in quantum meruit for legal services rendered under a contract which is illegal or void as 
+against public policy.  100 A.L.R.2d 1378.
+Person who signs contract but is not named in body thereof as party to contract and liable thereunder.  94 
+A.L.R.2d 691.
+Action ex contractu for damages caused by death.  86 A.L.R.2d 316.
+Recovery on quantum meruit where only express contract is pleaded, under Federal Rules of Civil Procedure 8 
+and 54 and similar state statutes or rules.  84 A.L.R.2d 1077.
+Recovery, on theory of quasi contract, unjust enrichment, or restitution, of money paid in reliance upon 
+unenforceable promise to accept a bill of exchange or draft.  81 A.L.R.2d 587.
+What constitutes acceptance or ratification of, or acquiescence in, services rendered by attorney so as to raise 
+implied promise to pay reasonable value thereof.  78 A.L.R.2d 318.
+Amount of attorneys' compensation in absence of contract or statute fixing amount.  56 A.L.R.2d 13.
+Vendee's liability for use and occupancy of premises, where vendor disaffirms an unenforceable land contract.  
+49 A.L.R.2d 1169.
+
+§ 370 Requirement That Benefit Be Conferred
+Recovery for services rendered by member of household or family other than spouse without express 
+agreement for compensation.  7 A.L.R.2d 8.
+Recovery from United States of costs incurred by unsuccessful bidder in preparing and submitting contract bid 
+in response to government solicitation.  30 A.L.R.Fed. 355.
+Quantum meruit recovery by subcontractor under Miller Act (40 U.S.C. § 270a et seq.).  26 A.L.R.Fed. 746.
+Digest System Key Numbers:
+Implied and Constructive Contracts 4
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,31 @@
+Restat 2d of Contracts, § 101
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 101 Delivery
+A written promise, sealed or unsealed, may be delivered by the promisor in escrow, conditionally to the 
+promisee, or unconditionally.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Delivery.  This Section states how the requirement of delivery stated in § 95 may be met.  Unconditional 
+delivery is the subject of § 102, and conditional delivery to the promisee and delivery in escrow are the subject 
+of § 103.
+Illustration:
+1.  A delivers to B a sealed promise naming B or C as promisee.  There is a present contract under seal, 
+whether or not the promisee knows of the promise.  If the delivery is conditional or in escrow, the contract is 
+conditional.
+b.  Return promise.  A promisor cannot by delivering a document impose on the promisee a duty to perform a 
+return promise stated in the document; there must be a manifestation of assent by the promisee.  Whether 
+there is a delivery in such a case and if so whether it is conditional or unconditional depend on the rules stated 
+in §§ 105-07.
+REPORTER'S NOTES
+This Section is based on former § 101.  See 1 Williston, Contracts § 210 (3d ed. 1957); 1A Corbin, Contracts § 
+244 (1963 & Supp. 1980).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 101; see Twining v. National Mortgage Corp., 
+268 Md. 549, 302 A.2d 604 (1973).
+Cross Reference
+Digest System Key Numbers:
+Contracts 42
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,117 @@
+Restat 2d of Contracts, § 309
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 309 Defenses Against the Beneficiary
+(1)  A promise creates no duty to a beneficiary unless a contract is formed between the promisor and 
+the promisee; and if a contract is voidable or unenforceable at the time of its formation the right of any 
+beneficiary is subject to the infirmity.
+(2)  If a contract ceases to be binding in whole or in part because of impracticability, public policy, 
+nonoccurrence of a condition, or present or prospective failure of performance, the right of any 
+beneficiary is to that extent discharged or modified.
+(3)  Except as stated in Subsections (1) and (2) and in § 311 or as provided by the contract, the right of 
+any beneficiary against the promisor is not subject to the promisor's claims or defenses against the 
+promisee or to the promisee's claims or defenses against the beneficiary.
+(4)  A beneficiary's right against the promisor is subject to any claim or defense arising from his own 
+conduct or agreement.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Necessity of contract.  Subsection (1) makes explicit a negative fairly implied in § 304: the right of an 
+intended beneficiary is created by contract, and in the absence of contract there is no such right.  Moreover, 
+where there is a contract, the beneficiary's right is subject to any limitations imposed by the law.  Thus absence 
+of mutual assent or consideration, lack of capacity, fraud, mistake and the like may be asserted by the promisor 
+against the beneficiary.
+Illustrations:
+1.  B promises A to pay C $ 100.  B's promise, owing to lack of consideration or illegality, gives A no right.  
+Whether at the time of B's promise C had a right against A to be paid $ 100 or not, C acquires no right against 
+B.
+2.  B orally contracts with A to convey Blackacre to C.  The promise is unenforceable because not in writing.  
+Whether or not at the time of B's promise C had a right against A to have Blackacre conveyed to him, C cannot 
+maintain an action on B's promise.
+3.  The facts being otherwise as stated in Illustration 2, B subsequently delivers to A a written memorandum of 
+the contract.  C can now maintain an action on B's promise.
+b.  Conditions; failure of performance.  Where there is a contract, the right of a beneficiary is subject to any 
+limitations imposed by the terms of the contract.  Such a limitation may be imposed by the agreed terms, or it 
+may be imposed in the absence of contrary agreement by virtue of considerations of fairness and public policy.  
+Thus a failure of the promisee to perform a return promise ordinarily discharges the promisor's duty to a 
+beneficiary to the same extent that it discharges his duty to the promisee.  But not every condition of the 
+promisee's right is necessarily a condition of the right of the beneficiary.  The agreement may effectively provide 
+that the right of the beneficiary is not to be affected by the act or neglect of the promisee.  Aside from such an 
+agreed term, where the beneficiary's right is not subject to variation by agreement between promisor and 
+promisee under the rules stated in § 311 there may be an implicit limitation on the extent to which such 
+variation can be effected by the act or neglect of the promisee.
+Illustrations:
+
+§ 309 Defenses Against the Beneficiary
+4.  B, a life insurance company, issues a policy to A insuring A's life, the insurance money being payable to C.  
+The policy reserves to A a power to change the beneficiary.  C's right is subject to termination by A's changing 
+the beneficiary before the maturity of the policy.
+5.  B promises A to pay C $ 100 in consideration of A's promise to B to perform stated services for him.  A 
+substantially breaks his promise to perform these services.  Whether or not at the time of B's promise C had a 
+right against A to be paid $ 100 he has no right against B.
+6.  A insures goods against fire with B, an insurance company.  Later A mortgages the goods to C to secure a 
+loan, and the insurance policy is amended to provide that loss is payable to A and C "as their interest may 
+appear, subject to all the terms and conditions of the policy." A deliberately sets fire to the goods.  Neither A nor 
+C may recover from B for the resulting damage.
+7.  The facts being otherwise as stated in Illustration 6, the policy provides that C's interest shall not be 
+invalidated by any act or neglect of the mortgagor.  C may recover the amount of the loss from B.
+8.  B and his surety S contract with A, a city, to grade streets and to pay all laborers and materialmen on the 
+job.  The contract provides that any laborer working under the contract shall be entitled to sue and recover from 
+S.  A extends B's time for performance without S's consent.  In a suit by C, a laborer, against S, the extension 
+of time is not a defense.
+c.  Other claims and defenses.  The position of a beneficiary i comparable to that of an assignee after 
+knowledge of the assignment by the obligor.  See § 336.  His right, like that of an assignee, is subject to 
+limitations inherent in the contract, and to supervening defenses arising by virtue of its terms.  Partial defenses 
+by way of recoupment for breach by the promisee may be asserted against the beneficiary, unless precluded by 
+the terms of the agreement or considerations of fairness or public policy.  Compare Uniform Commercial Code 
+§ 2-717.  But the beneficiary's right is direct, not merely derivative, and claims and defenses of the promisor 
+against the promisee arising out of separate transactions do not affect the right of the beneficiary except in 
+accordance with the terms of the contract.  Similarly, the beneficiary's right against the promisor is not subject 
+to claims and defenses of the promisee against the beneficiary unless the contract so provides.  The conduct of 
+the beneficiary, however, like that of any obligee, may give rise to claims and defenses which may be asserted 
+against him by the obligor, and his right may be affected by the terms of an agreement made by him.
+Illustrations:
+9.  In exchange for a conveyance of one parcel of land by B to A, A conveys another parcel of land to B subject 
+to a mortgage in favor of C, which B assumes and agrees to pay, and A also agrees to pay money to B at a 
+later date.  In an action by C on B's promise, B can offset any part of the sum payable by A which is due and 
+unpaid.
+10.  A collective bargaining agreement between A, a labor union, and many coal operators including B provides 
+that each operator will pay 40 cents to C, trustee of a welfare fund for coal miners, for each ton of coal mined.  
+In violation of the agreement A calls a strike of B's employees.  B is not entitled to deduct the resulting damage 
+from the payments due to C.
+11.  A, a bank, goes out of business, transferring assets to B, another bank, in consideration of B's promise to 
+pay A's deposit liabilities.  The applicable statute of limitations does not bar deposit liabilities of a going bank 
+until six years after demand.  In an action by C, a depositor of A, it is no defense to B that C's claim against A is 
+barred by the statute of limitations.
+REPORTER'S NOTES
+Subsections (1) and (2) carry forward the substance of former § 140.  Subsections (3) and (4) are new; they 
+follow the pattern of § 336 on defenses against an assignee.  See 2 Williston, Contracts §§ 364-64A, 394-95, 
+398-99 (3d ed. 1959); 4 Corbin, Contracts §§ 816-22 (1951 & Supp. 1980).
+Comment a.  Illustrations 1-3 are carried forward from former § 140.  As to Illustration 1, see also Shillman v. 
+Hobstetter, 249 Md. 678, 241 A.2d 570 (1968). On the general rule that the beneficiary's rights are limited by 
+the underlying contract, see Ceco Corp. v. Plaza Point, Inc., 573 S.W.2d 92 (Mo. Ct. App. 1978).
+Comment b.  Illustrations 4 and 5 are based on former § 140.  As to Illustration 5, see also Oman v. Yates, 70 
+Wash.2d 181, 422 P.2d 489 (1967); Rogers v. Speros Constr. Co., 119 Ariz. 289, 580 P.2d 750 (Ct. App. 
+1978). Illustrations 6 and 7 are based on State Sec. Co. v. Federated Mut. Implement & Hardware Ins. Co., 204 
+
+§ 309 Defenses Against the Beneficiary
+F. Supp. 207 (D. Neb. 1960), aff'd, 308 F.2d 452 (8th Cir. 1962); see Annots., 38 A.L.R. 367 (1925), 124 A.L.R. 
+1034 (1940). Illustration 8 is based on Doll v. Crume, 41 Neb. 655, 59 N.W. 806 (1894).
+Comment c.  Illustration 9 is based on Fulmer v. Goldfarb, 171 Tenn. 218, 101 S.W.2d 1108 (1937); cf.  Depuy 
+v. Loomis, 74 Pa. Super. Ct. 497 (1920); see Annots., 21 A.L.R. 439, 488 (1922), 47 A.L.R. 339 (1927). 
+Illustration 10 is based on Lewis v. Benedict Coal Corp., 361 U.S. 459 (1960). Illustration 11 is based on 
+Lawrence Nat'l Bank v. Rice, 82 F.2d 28 (10th Cir. 1936).
+Cross Reference
+ALR Annotations:
+Comment Note. -- Mutual rescission or release of contract as affecting rights of third-party beneficiary.  97 
+A.L.R.2d 1262.
+Power and standing of personal representative of deceased promisee to enforce a contract made for benefit of 
+a third party.  76 A.L.R.2d 231.
+Tenant's capacity to sue independent contractor, as third-party beneficiary, for breach of contract between 
+landlord and such contractor for repair or remodeling work.  46 A.L.R.2d 1210.
+What constitutes reservation of right to terminate, rescind, or modify contract, as against third-party beneficiary.  
+44 A.L.R.2d 1270.
+Digest System Key Numbers:
+Contracts 328(4)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

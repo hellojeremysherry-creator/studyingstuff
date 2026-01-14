@@ -1,0 +1,69 @@
+Restat 2d of Contracts, § 126
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 4- The Land Contract Provision        
+§ 126 Contract to Procure Transfer or to Act as Agent
+(1)  A contract to procure the transfer of an interest in land by a person other than the promisor is 
+within the Statute of Frauds.
+(2)  A contract to act as agent for another in endeavoring to procure the transfer of any interest in land 
+by someone other than the promisor is not within the Statute of Frauds as a contract for the sale of an 
+interest in land.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Contract to procure transfer.  A promise that a third person will convey land to the promisee is within the 
+Statute, even though the promisee is to pay the price.  The Statute also applies if the third person is to convey 
+the land to the promisor for the benefit of the promisee or his nominee, or is to convey directly to the promisee's 
+nominee.  But if the conveyance is made, the contract may cease to be within the Statute under the rule stated 
+in § 125, or a resulting or constructive trust may arise.
+Illustrations:
+1.  A promises B that C, A's wife, will transfer her land to B's son D on payment by D of $ 5,000.  In 
+consideration of A's promise, B promises to pay A a commission of $ 100.  A's promise is within the Statute of 
+Frauds.
+2.  A orally promises B that A will buy Blackacre from C.  The promise is within the Statute of Frauds, but 
+ceases to be within it if A accepts a conveyance from C.  See § 125.
+3.  A orally promises B to buy a parcel of land from C and to hold it in trust for B, subject to the payment of the 
+price by B.  B orally promises A a commission for so doing.  A's promise to buy the parcel is within the Statute 
+of Frauds.  If A purchases the parcel, however, he holds it upon a constructive trust for B.  See Restatement of 
+Restitution § 194.
+b.  Agency contracts.  A contract to employ a real estate broker and to pay him a commission is not within the 
+Statute of Frauds as a contract for the sale of an interest in land unless the commission is to take the form of an 
+interest in land.  In such a case the broker's promise to act as agent is not within the Statute, unless he 
+promises to make or procure a transfer.  A promise to use best efforts to procure a transfer is not such a 
+promise.  In many states, however, statutes explicitly require a writing for a contract to pay a commission to a 
+real estate broker or business opportunity broker.  See Statutory Note preceding § 110.
+Illustrations:
+4.  A orally promises B to pay him $ 500 if he succeeds in inducing C to agree to transfer Blackacre to A for $ 
+5,000.  A's promise is not within the Statute of Frauds as a contract for the sale of an interest in land.  In many 
+states, however, a separate statute makes such a promise unenforceable in the absence of a writing.
+5.  A orally promises B to pay B a commission of $ 100 if B induces C to transfer Blackacre to B's son D, and B 
+orally promises A to use his best efforts to that end.  Neither promise is within the Statute of Frauds as a 
+contract for the sale of an interest in land.
+6.  A orally promises B that A will convey Blackacre to any purchaser procured by B, at a price stated "net" of 
+B's 5 per cent commission.  B procures an offer by C to buy on A's terms and to pay B's commission, but A 
+refuses to convey.  A's promise to B is within the Statute of Frauds.
+REPORTER'S NOTES
+
+§ 126 Contract to Procure Transfer or to Act as Agent
+This Section is based on former § 194.  See 3 Williston, Contracts §§ 488-89 (3d ed. 1960); 2 Corbin, Contracts 
+§§ 399, 416 (1950).
+Comment a.  Illustrations 1-3 are based, respectively, on Illustrations 1, 2 and 5 to former § 194.
+Comment b.  Because statutes requiring broker's commission agreements to be in writing are often located 
+within a state's Statute of Frauds, courts often refer to the brokerage statute as a Statute of Frauds provision.  
+But even when doing so, courts distinguish between persons in the traditional categories and brokers, who are 
+assumed to be familiar with laws governing their occupation.  See, e.g., Dooley v. Lachut, 103 R.I. 21, 234 A.2d 
+366 (1967); Baugh v. Darley, 112 Utah 1, 184 P.2d 335 (1947), Goen v. Hamilton, 159 S.W.2d 231 (Tex. Civ. 
+App. 1942). See also Annot., 24 A.L.R.2d 1154 (1969).
+Illustrations 4 and 5 are based, respectively, on Illustrations 4 and 3 to former § 194.  See also Wheaton v. 
+Ramsey, 92 Idaho 33, 436 P.2d 248 (1968). Illustration 6 is based on De Lucca v. Flamingo Corp., 121 So.2d 
+803 (Fla. Dist. Ct. App. 1960); see Stagg v. Lawton, 133 Conn. 203, 49 A.2d 599 (1946). But cf.  Vaughan v. 
+McCarthy, 59 Minn. 199, 60 N.W. 1075 (1894); Bird v. Blackwell, 135 Mo. App. 23, 115 S.W. 487 (1909).
+Cross Reference
+ALR Annotations:
+Joint adventure agreement for acquisition, development, or sale of land as within provision of statute of frauds 
+governing broker's agreement for commission on real-estate sale.  48 A.L.R.2d 1042.
+Real-estate broker's right to recover in quantum meruit for services although contract is not in writing as 
+required by statute.  41 A.L.R.2d 905.
+Digest System Key Numbers:
+Frauds, Statute of 116(5)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

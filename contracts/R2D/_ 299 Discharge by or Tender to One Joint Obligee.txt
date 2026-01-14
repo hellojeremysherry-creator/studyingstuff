@@ -1,0 +1,52 @@
+Restat 2d of Contracts, § 299
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 2- Joint and Several Promisees        
+§ 299 Discharge by or Tender to One Joint Obligee
+Except where the promise is made in a negotiable instrument and except as stated in § 300, any joint 
+obligee, unless limited by agreement, has power to discharge the promisor by receipt of the promised 
+performance or by release or otherwise, and tender to one joint obligee is equivalent to a tender to all.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Interpretation of the promise.  The rule of this Section rests on a conventional interpretation of words of 
+promise.  If, for example, A promises to pay a sum of money to B and C, partners, it is ordinarily understood 
+that payment may be made either to B or to C, and that each has authority to receive the payment on behalf of 
+the other.  If this is the understanding, the power of one to receive the payment cannot be revoked by the other, 
+since both have an interest.  Compare Restatement, Second, Agency, § 139.  If an intention is manifested that 
+the payment is to be made to B and not to C, they are not joint obligees, and this Section does not apply.
+b.  Negotiable instruments.  Where a negotiable instrument is made payable to the order of A and B, the usual 
+purpose is to require the indorsement of both for negotiation of the instrument or the execution of a receipt on 
+the instrument, signed by both, in the event of direct presentment to the payor.  See Uniform Commercial Code 
+§ 3-505.  In furtherance of that purpose, Uniform Commercial Code § 3-116 creates an exception to the rule of 
+this Section, providing that the instrument can be discharged only by all the co-obligees.
+c.  Interpretation of agreement for discharge.  Where one joint obligee settles with the promisor for something 
+less than full performance, he may purport to settle the claim of all the obligees or only his own share.  Which 
+agreement is made depends on the manifested intention of the parties to the settlement.  If only a partial 
+settlement is made, it does not bar joinder of the joint obligee in a later action by the others.  See § 298.  A 
+settlement of one obligee's share which purported to discharge the claim of all would ordinarily be invalid.  See 
+§ 300.
+Illustrations:
+1.  A owes $ 1000 to B and C jointly.  At B's request A in good faith renders services and delivers goods worth a 
+total of $ 1200 to B and third persons in satisfaction of the debt, having no reason to know that C is not getting 
+the benefit of the goods and services.  A's obligation to both B and C is discharged.
+2.  A promises to convey property to B and C jointly in exchange for $ 10,000, and B and C each pay A $ 5,000.  
+On A's failure to convey the property, he repays $ 5,000 to B in return for a release of B's interest in the 
+contract and a covenant not to sue thereon.  C's right to return of the $ 5,000 paid by him is not discharged.
+REPORTER'S NOTES
+Part of former § 130(a) is transferred to § 129.  Former § 130(b) is omitted for the reasons stated in Comment 
+c.
+See 2 Williston, Contracts § 343 (3d ed. 1959); 4 Corbin, Contracts § 941 (1951); Reed, Compulsory Joinder of 
+Parties in Civil Actions, 55 Mich. L. Rev. 327, 372 (1957); Annot., 142 A.L.R. 371 (1943).
+Comment b.  As to discharge of a negotiable instrument payable to A and B, see Trust Co. v. Refrigeration 
+Supplies, Inc., 241 Ga. 406, 246 S.E.2d 282 (1978); Sullivan v. Wilton Manors Nat'l Bank, 259 So.2d 194 (Fla. 
+Dist. Ct. App. 1972); Gill Equip. Co. v. Freedman, 339 Mass. 303, 158 N.E.2d 863 (1959); Note, 1 Stan. L. Rev. 
+730 (1949).
+Comment c.  Illustration 1 is based on Cober v. Connolly, 20 Cal.2d 741, 128 P.2d 519 (1942). Illustration 2 is 
+based on Dinkle v. Denton, 68 N.M. 108, 359 P.2d 345 (1961).
+
+§ 299 Discharge by or Tender to One Joint Obligee
+Cross Reference
+Digest System Key Numbers:
+Release 4
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

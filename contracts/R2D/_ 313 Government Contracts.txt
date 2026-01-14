@@ -1,0 +1,113 @@
+Restat 2d of Contracts, § 313
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 313 Government Contracts
+(1)  The rules stated in this Chapter apply to contracts with a government or governmental agency 
+except to the extent that application would contravene the policy of the law authorizing the contract or 
+prescribing remedies for its breach.
+(2)  In particular, a promisor who contracts with a government or governmental agency to do an act for 
+or render a service to the public is not subject to contractual liability to a member of the public for 
+consequential damages resulting from performance or failure to perform unless
+(a)  the terms of the promise provide for such liability; or
+(b)  the promisee is subject to liability to the member of the public for the damages and a direct action 
+against the promisor is consistent with the terms of the contract and with the policy of the law 
+authorizing the contract and prescribing remedies for its breach.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  Beneficiaries of government contracts have often been denied rights because of the doctrinal 
+difficulties referred to in the Introductory Note to this Chapter.  Subsection (1) reflects the disappearance of 
+those difficulties, but leaves room for the weighing of considerations peculiar to particular situations.  
+Subsection (2) applies to a particular class of contracts the classification of beneficiaries in § 302.  Government 
+contracts often benefit the public, but individual members of the public are treated as incidental beneficiaries 
+unless a different intention is manifested.  In case of doubt, a promise to do an act for or render a service to the 
+public does not have the effect of a promise to pay consequential damages to individual members of the public 
+unless the conditions of Subsection (2)(b) are met.  Among factors which may make inappropriate a direct 
+action against the promisor are arrangements for governmental control over the litigation and settlement of 
+claims, the likelihood of impairment of service or of excessive financial burden, and the availability of 
+alternatives such as insurance.
+Illustrations:
+1.  B contracts with the United States to carry mail over a certain route.  C, a member of the public, is injured by 
+B's failure to perform his contract.  B is under no contractual duty to C.
+2.  B, a water company, contracts with A, a municipality, to maintain a certain pressure of water at the hydrants 
+on the streets of the municipality.  A owes no duty to the public to maintain that pressure.  The house of C, an 
+inhabitant of the municipality, is destroyed by fire, owing to B's failure to maintain the agreed pressure.  B is 
+under no contractual duty to C.
+b.  Tort liability.  Whether or not members of the public are intended beneficiaries of a government contract, the 
+contractor may be subject to tort liability to them.  The question whether the contractor has an affirmative duty 
+to act may arise in connection with tort liability, and the answer may or may not turn upon the same 
+considerations which determine whether the member of the public is an intended beneficiary.  See 
+Restatement, Second, Torts §§ 314-25; compare Restatement, Second, Agency §§ 354, 378.
+c.  Promise to pay damages.  Government contractors sometimes make explicit promises to pay damages to 
+third persons, and such promises are enforced.  If there is no explicit promise, and no government liability, the 
+question whether a particular claimant is an intended beneficiary is one of interpretation, depending on all the 
+
+§ 313 Government Contracts
+circumstances of the contract.  When there is government liability, and the question of interpretation is in doubt, 
+there is liability if a direct action is appropriate in view of the factors referred to in Comment a.
+Illustrations:
+3.  A, a municipality, enters into a contract with B, by which B promises to build a subway and to pay damages 
+directly to any person who may be injured by the work of construction.  Because of the work done in the 
+construction of the subway, C's house is injured by the settling of the land on which it stands.  D suffers 
+personal injuries from the blasting of rock during the construction.  B is under a contractual duty to C and D.
+4.  A, a county, enters into a contract with B, a surety company, by which B promises indemnity to a stated 
+amount for any damages caused by clerical errors of clerks in the Registry of Deeds.  C is injured by an error of 
+such a clerk.  C can recover damages from B.
+5.  A, a municipality, owes a duty to the public to keep its streets in repair.  B, a street railway company, 
+contracts to keep a portion of these streets in repair but fails to do so.  C, a member of the public, is injured 
+thereby.  He may bring actions against A and B and can recover judgment against each of them.
+6.  A, a municipality, awards a construction contract to B.  The contract provides that if through B's act or 
+neglect another contractor on the same project suffers loss and makes a claim against A, B will defend at B's 
+own expense any suit based on the claim and will pay any resulting judgment against A.  C, another contractor 
+on the same project, makes a claim against A based on breach by B of B's contract with A.  The described 
+provision does not enable C to bring a direct action as an intended beneficiary of B's promise.
+REPORTER'S NOTES
+Subsection (1) is newly added to avoid any implication that the liability of a government contractor to 
+beneficiaries is broader than that of other contractors.  Subsection (2) is former § 145 rephrased in more 
+general terms.  Paragraph (b) is extended beyond municipalities in view of the increased availability of 
+remedies against the government, but is limited to cases where direct action is appropriate in view of the factors 
+referred to in Comment a.  See 2 Williston, Contracts §§ 372-75 (3d ed. 1959); 4 Corbin, Contracts §§ 805, 806 
+(1951).
+Comment a.  The category of government contracts is not monolithic.  In addition to the traditional disputes over 
+contracts to provide services to the general public (Illustrations 1 and 2) and to be liable for damages to third 
+parties (Illustrations 3-6), recent cases have involved rights of poor people in federal-state social services 
+agreements, e.g., Martinez v. Socoma Cos., 11 Cal.3d 394, 113 Cal. Rptr. 585, 521 P.2d 841 (1974); Falmouth 
+Hosp. v. Lopes,    Mass.   , 382 N.E.2d 1042 (1978); Pajewski v. Perry, 363 A.2d 429 (Del. 1976); Notes, 27 
+Hastings L.J. 137 (1975), 88 Harv. L. Rev. 646 (1975); rights of municipal employees hired pursuant to a 
+contract between the federal and local governments, e.g., Harrison v. Housing Auth. of College Park, 445 F. 
+Supp. 356 (N.D. Ga. 1978); rights of unnamed, but interested persons in consent decrees in antitrust cases, 
+e.g., Bailey v. Iowa Beef Processors, 213 N.W.2d 642 (Iowa 1973), cert. denied, 419 U.S. 830 (1974); Control 
+Data Corp. v. IBM, 306 F. Supp. 839 (D. Minn. 1969), aff'd, 430 F.2d 1277 (8th Cir. 1970); and rights of third 
+parties injured when a contractor fails to comply with contractual requirements governing working conditions, 
+e.g., Just' s, Inc. v. Arrington Constr. Co., 99 Idaho 462, 583 P.2d 997 (1978); Davis v. Nelson-Deppe, Inc., 91 
+Idaho 463, 424 P.2d 733 (1967); cf.  Hrushka v. State Dep't of Pub. Works, 117 N.H. 1022, 381 A.2d 326 
+(1977). In deciding whether the agreement was intended to create contractual rights in third parties, the nature 
+of the agreement, the identity of the alleged intended beneficiaries and the specific duty said to have been 
+created toward them are all factors to be considered.  For a careful discussion of some of these factors, see 
+Just' s, Inc. v. Arrington Constr. Co., supra. See also Kornblut v. Chevron Oil Co., 62 A.D.2d 831, 407 N.Y.S.2d 
+498 (1978); Note, Third Party Beneficiaries and the Intention Standard: A Search for Rational Contract 
+Decision-Making, 54 Va. L. Rev. 1166 (1968). For a criticism of the approach of this Section (in Tentative Draft) 
+and of the Just's, Inc. majority, as based on a legal fiction of intent to benefit rather than a policy of limitation of 
+potential liability, see the dissenting opinion of Donaldson, J., in Just' s, Inc. v. Arrington Constr. Co., supra., 
+discussing H.R. Moch Co. v. Rensselaer Water Co., 247 N.Y. 160, 159 N.E. 896 (1928).
+Illustrations 1 and 2 are carried forward from former § 145.  Illustration 2 is supported by H.R. Moch Co. v. 
+Rensselaer Water Co., supra; Davis v. Nelson-Deppe, Inc., supra; Cole v. Arizona Edison Co., 53 Ariz. 141, 86 
+P.2d 946 (1939); Earl E. Roher Transfer & Storage Co. v. Hutchinson Water Co., 182 Kan. 546, 322 P.2d 810 
+(1958); see Annot., 62 A.L.R. 1205 (1929). Contra: Potter v. Carolina Water Co., 253 N.C. 112, 116 S.E.2d 374 
+
+§ 313 Government Contracts
+(1960); see also Matternes v. City of Winston-Salem, 286 N.C. 1, 209 S.E.2d 481 (1974). As to tort liability in 
+such a case, see Doyle v. South Pittsburgh Water Co., 414 Pa. 199, 199 A.2d 875 (1964).
+Comment c.  Illustrations 3-5 are based on Illustrations 3-5 to former § 145.  Illustration 3 is supported by La 
+Mourea v. Rhude, 209 Minn. 53, 295 N.W. 304 (1940); Freigy v. Gargaro Co., 223 Ind. 342, 60 N.E.2d 288 
+(1945); Anderson v. Rexroad, 175 Kan. 676, 266 P.2d 320 (1954); see Annots., 38 A.L.R. 403, 492 (1925), 69 
+A.L.R. 522 (1930), 138 A.L.R. 936 (1942). As to Illustration 4, compare Mercado v. Mitchell, 83 Wis.2d 17, 264 
+N.W.2d 532 (1978) (carnival license requiring liability insurance).  Illustration 5 was accepted but distinguished 
+in Oman Constr. Co., v. Tennessee Central Ry., 212 Tenn. 556, 370 S.W.2d 563 (1963). Illustration 6 is new; it 
+is based on Snyder Plumbing & Heating Corp. v. Purcell, 9 A.D.2d 505, 195 N.Y.S.2d 780 (1st Dep't 1960).
+Cross Reference
+Digest System Key Numbers:
+Contracts 187
+United States 70(5)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

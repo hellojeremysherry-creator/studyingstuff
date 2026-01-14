@@ -1,0 +1,47 @@
+Restat 2d of Contracts, § 327
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 2- Mode of Assignment or Delegation        
+§ 327 Acceptance or Disclaimer by the Assignee
+(1) A manifestation of assent by an assignee to the assignment is essential to make it effective unless
+(a) a third person gives consideration for the assignment, or
+(b) the assignment is irrevocable by virtue of the delivery of a writing to a third person.
+(2) An assignee who has not manifested assent to an assignment may, within a reasonable time after 
+learning of its existence and terms, render it inoperative from the beginning by disclaimer.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Necessity of acceptance.  Sale of a contractual right, like sale of goods, requires a bargain in which there is 
+a manifestation of mutual assent to the exchange.  Ordinarily the person who furnishes the consideration is the 
+transferee of the right sold, but where consideration is given by one person for an assignment to another, it is 
+not necessary that the assignee know of the bargain or assent to it.  Compare §§ 17, 71(2).  Where there is no 
+bargain, an irrevocable gift can be made without the assent of the donee by the delivery of a written assignment 
+or a symbolic or evidentiary writing to a third person.  Compare §§ 104, 306; Restatement, Second, Trusts §§ 
+35, 36.  The circumstances in which such a delivery makes the assignment irrevocable are stated in § 332.
+Illustrations:
+1.  A has a contractual right against D.  For consideration received from B, A assigns the right to B's son C.  C 
+has no knowledge of the assignment.  The assignment is effective immediately, subject to C's power of 
+disclaimer.
+2.  A delivers his savings bank book to B, saying "I deliver this book to you as a gift to C." C has no knowledge 
+of the gift.  An attempted revocation by A before C learns of the gift is ineffective.
+b.  Disclaimer.  As in other cases of rights created without the assent of the obligee, an assignee is entitled to 
+reject the right, whether or not there is a related burden.  Compare §§ 38, 104, 306.  No particular formality is 
+required for disclaimer, and its usual effect is the same as if no assignment had been made.  But it cannot 
+make tortious acts lawful when done, and in some cases it may give rise to a right of restitution.  See Comment 
+a to § 306.  The effect of intervening claims of third persons is beyond the scope of this Restatement.
+Illustration:
+3.  A, the payee of a negotiable or non-negotiable note or certificate of deposit, delivers it to B without 
+indorsement as a gift to C, who has no knowledge of the delivery.  Upon learning of the gift C refuses it.  A is 
+the owner of the note or certificate.
+REPORTER'S NOTES
+This Section is derived from former § 159, but is substantially rewritten.  The exceptions in Subsection (1) are 
+limited to situations involving third parties because the assignee's assent will be implicit if he gives 
+consideration or receives without timely objection delivery of a writing making the assignment irrevocable.
+See 3 Williston, Contracts §§ 424, 436-37 (1960); 4 Corbin, Contracts § 871 (1951).
+Comments a and b.  Illustrations 1-3 are based on Illustrations 1-3 to former § 159.
+Cross Reference
+
+§ 327 Acceptance or Disclaimer by the Assignee
+Digest System Key Numbers:
+Assignments 56
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

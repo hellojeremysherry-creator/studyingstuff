@@ -1,0 +1,32 @@
+Restat 2d of Contracts, § 128
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 4- The Land Contract Provision        
+§ 128 Boundary and Partition Agreements
+(1)  A contract between owners of adjoining tracts of land fixing a dividing boundary is within the 
+Statute of Frauds but if the location of the boundary was honestly disputed the contract becomes 
+enforceable notwithstanding the Statute when the agreed boundary has been marked or has been 
+recognized in the subsequent use of the tracts.
+(2)  A contract byjoint tenants or tenants in common to partition land into separate tracts for each 
+tenant is within the Statute of Frauds but becomes enforceable notwithstanding the Statute as to each 
+tract when possession of it is taken in severalty in accordance with the agreement.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  Boundary and partition agreements have the effect of an agreement to convey land and are 
+within the land contract provision of the Statute of Frauds.  The rules making them enforceable on the basis of 
+action taken under the agreement are similar to the "part performance" doctrine stated in § 129.  In cases not 
+within the rules of this Section, relief may be granted under the more general doctrine of § 129.
+REPORTER'S NOTES
+This Section is based on former § 196.  See 3 Williston, Contracts §§ 412-13 (3d ed. 1960); 2 Corbin, Contracts 
+§ 490 (1950).
+Comment a.  As to Subsection (1), see Smith v. Mefford, 243 Ark. 561, 420 S.W.2d 848 (1967); Johnston v. 
+Monahan, 2 Wash. App. 452, 469 P.2d 930 (1970). As to Subsection (2), see Annot., 37 A.L.R.3d 962, 973-74 
+(1971); see also Anderson v. Anderson, 521 P.2d 437 (Okl. Ct. App. 1974), holding that agreements to partition 
+are not sales of an interest in real property, and thus are not within the Statute of Frauds, but then making an 
+alternative holding that there had been sufficient part performance to make the agreement enforceable if the 
+Statute were applicable.
+Cross Reference
+Digest System Key Numbers:
+Frauds, Statute of 70
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

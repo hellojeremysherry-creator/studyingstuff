@@ -1,0 +1,56 @@
+Restat 2d of Contracts, § 65
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 65 Reasonableness of Medium of Acceptance
+Unless circumstances known to the offeree indicate otherwise, a medium of acceptance is reasonable if 
+it is the one used by the offeror or one customary in similar transactions at the time and place the offer 
+is received.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Significance of use of reasonable medium.  Under § 30 an offer invites acceptance by any reasonable 
+medium unless there is contrary indication; under § 63 an acceptance so invited is ordinarily effective upon 
+dispatch.  If an unreasonable medium of acceptance is used, on the other hand, the governing rule is that 
+stated in § 67.  Thus if an offer is made by mail, an acceptance by mail is ordinarily effective on dispatch.  
+Exception is made by this section if circumstances known to the offeree indicate otherwise, by § 63 if the offer 
+otherwise provides, and by § 30 if the offer or circumstances forbid acceptance by mail regardless of 
+reasonableness.
+b.  Circumstances relevant to reasonableness.  This Section specifies certain circumstances which ordinarily 
+indicate that a particular medium of acceptance is reasonable, but it does not exhaust the circumstances which 
+may be relevant.  Among the relevant circumstances not specified in this Section may be the speed and 
+reliability of the medium, a prior course of dealing between the parties, and a usage of trade.  See Chapter 9.  
+The concept of reasonableness is flexible, and its applicability may be enlarged as newmedia develop or 
+existing media become more speedy or reliable or come into more general use.  See Comment 1 to Uniform 
+Commercial Code § 2-206.
+c.  Mail.  Acceptance by mail is ordinarily reasonable where the parties are negotiating at a distance, unless 
+there is some special reason for speed such as rapid price fluctuation.  Compare § 41.  The same is true when 
+the parties are located in the same city, if the offer is in writing, even though it is left with the offeree in person 
+or delivered to his messenger.  Even though an offer is transmitted by telephone or telegraph, acceptance by 
+mail may well be reasonable.
+Illustration:
+1.  By telegram A in Oklahoma orders two car-loads of potatoes from B in Wisconsin.  B wires back an 
+acceptance "if you will give us time to fill." Immediately on receiving B's reply A mails a confirming letter stating 
+"we wish if possible you would ship at once" and giving shipping instructions.  A has accepted B's counter-offer 
+by a reasonable medium of acceptance.
+d.  Telegraph.  Acceptance by telegram or mailgram is affected by the same considerations as acceptance by 
+mail.  In addition, there is a risk of mistake in transmission which may be provided for by agreement or may be 
+reduced by a practice of confirmation by mail or by use of repeated messages.  Notwithstanding that risk, 
+telegraphic communication is now sufficiently reliable that telegraphic acceptance of an offer made by mail is 
+ordinarily reasonable.  But a contrary provision in the offer or a course of dealing or usage of trade requiring 
+confirmation by mail is effective.  See Comment c to § 221.
+REPORTER'S NOTES
+This Section is based on former § 66.  See 1 Williston, Contracts § 83 (3d ed. 1957); 1 Corbin, Contracts § 78 
+(1963).
+Comment b.  Cf.  Reserve Ins. Co. v. Duckett, 249 Md. 108, 238 A.2d 536 (1968).
+
+§ 65 Reasonableness of Medium of Acceptance
+Comment c.  Illustration 1 is based on Farmers' Produce Co. v. McAlester Storage & Comm'n Co., 48 Okl. 488, 
+150 P. 483 (1915); cf.  Polhamus v. Roberts, 50 N.M. 236, 175 P.2d 196 (1946).
+Comment d.  As to telegraphic acceptance, see Annots., 47 A.L.R. 159 (1927), 125 A.L.R. 989 (1940); 
+Limitations of Liability in Connection with the Transmission of Telegraph Messages, 61 I.C.C. 541 (1921). See 
+also Dickey v. Hurd, 33 F.2d 415 (1st Cir.), cert. denied, 280 U.S. 601 (1929).
+Cross Reference
+Digest System Key Numbers:
+Contracts 22(3)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

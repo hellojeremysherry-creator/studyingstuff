@@ -1,0 +1,88 @@
+Restat 2d of Contracts, § 157
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 6- Mistake        
+§ 157 Effect of Fault of Party Seeking Relief
+A mistaken party's fault in failing to know or discover the facts before making the contract does not bar 
+him from avoidance or reformation under the rules stated in this Chapter, unless his fault amounts to a 
+failure to act in good faith and in accordance with reasonable standards of fair dealing.
+COMMENTS & ILLUSTRATIONS 
+Comments:
+a.  Rationale.  The mere fact that a mistaken party could have avoided the mistake by the exercise of 
+reasonable care does not preclude either avoidance (§§ 152, 153) or reformation (§ 155).  Indeed, since a party 
+can often avoid a mistake by the exercise of such care, the availability of relief would be severely circumscribed 
+if he were to be barred by his negligence.  Nevertheless, in extreme cases the mistaken party's fault is a proper 
+ground for denying him relief for a mistake that he otherwise could have avoided.  Although the critical degree 
+of fault is sometimes described as "gross" negligence, that term is not well defined and is avoided in this 
+Section as it is in the Restatement, Second, of Torts.  Instead, the rule is stated in terms of good faith and fair 
+dealing.  The general duty of good faith and fair dealing, imposed under the rule stated in § 205, extends only to 
+the performance and enforcement of a contract and does not apply to the negotiation stage prior to the 
+formation of the contract.  See Comment c to § 205.  Therefore, a failure to act in good faith and in accordance 
+with reasonable standards of fair dealing during pre-contractual negotiations does not amount to a breach.  
+Nevertheless, under the rule stated in this Section, the failure bars a mistaken party from relief based on a 
+mistake that otherwise would not have been made.  During the negotiation stage each party is held to a degree 
+of responsibility appropriate to the justifiable expectations of the other.  The terms "good faith" and "fair dealing" 
+are used, in this context, in much the same sense as in § 205 and Uniform Commercial Code § 1-203.
+Illustrations:
+1.  The facts being otherwise as stated in Illustration 1 to § 153, A's mistake is caused by his failure to exercise 
+reasonable care in totalling and verifying his figures.  A's negligence does not amount to a failure to act in good 
+faith and in accordance with reasonable standards of fair dealing, and he is not precluded from avoiding the 
+contract.
+2.  The facts being otherwise as stated in Illustration 1 to § 153, B, on finding that A's bid is the lowest, asks A 
+to check his figures to make certain that there has been no mistake.  A states that he has done so although he 
+has not and although such a check would have revealed his mistake.  B then accepts A's bid.  A's conduct 
+amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing, and he 
+cannot avoid the contract.
+b.  Failure to read writing.  Generally, one who assents to a writing is presumed to know its contents and cannot 
+escape being bound by its terms merely by contending that he did not read them; his assent is deemed to cover 
+unknown as well as known terms.  See Comment b to § 23; Comment b to § 211.  But see the special rule of § 
+211(3) for the case of standardized agreements.  The exceptional rule stated in the present Section with regard 
+to reformation has no application to the common case in which the term in question was not the subject of prior 
+negotiations.  It only affects cases that come within the scope of § 155, under which there must have been an 
+agreement that preceded the writing.  In such a case, a party's negligence in failing to read the writing does not 
+preclude reformation if the writing does not correctly express the prior agreement.  See Illustration 3.  Where 
+there was no prior agreement, however, this Section does not apply because reformation is not available under 
+§ 155.  See Illustration 4.
+Illustrations:
+
+§ 157 Effect of Fault of Party Seeking Relief
+3.  The facts being otherwise as stated in Illustration 1 to § 155, neither A nor B reads the writing before signing 
+it, although the omission would be obvious to either if he read it.  Neither A's nor B's conduct amounts to a 
+failure to act in good faith and in accordance with reasonable standards of fair dealing, and neither A nor B is 
+precluded from obtaining a decree reforming the writing.
+4.  A mails B a written offer to sell B a tract of land for $ 100,000, with a provision that B will assume an existing 
+mortgage of $ 50,000.  B fails to read all of the terms of A's offer and sends his acceptance without knowing of 
+the provision for assumption of the mortgage. B is bound by the provision for assumption.  Since B cannot 
+obtain a decree of reformation under the rule stated in § 155, this Section does not apply.
+REPORTER'S NOTES
+This Section is based in part on former § 508.  Cf. Restatement of Restitution § 59.  See 3 Corbin, Contracts §§ 
+606, 607 (1960 & Supp. 1980); 13 Williston, Contracts § 1596 (3d ed. 1970).
+Comment a.  Illustration 1 is based on James T. Taylor & Son v. Arlington Indep. School Dist., 160 Tex. 617, 
+335 S.W.2d 371 (1960), on remand, 354 S.W.2d 618 (1962), ref. n.r.e.; cf.  Bethlehem Steel Corp. v. Centex 
+Homes Corp., 327 So.2d 837 (Fla. Dist. Ct. App. 1976) (issue of fact whether there was "inexcusable neglect"); 
+State v. Union Constr. Co., 9 Utah 2d 107, 339 P.2d 421 (1959). Contra: Steinmeyer v. Schroeppel, 226 Ill. 9, 
+80 N.E. 564 (1907); John J. Calnan Co. v. Talsma Builders, Inc., 67 Ill.3d 213, 10 Ill. Dec. 242, 367 N.E.2d 695 
+(1977); see Terre Haute Cooperage v. Branscome, 203 Miss. 493, 35 So.2d 537 (1948). Courts purporting to 
+apply a harsher rule than that stated in this Section may temper the result obliquely.  Some have applied a rule 
+of law excusing negligent mistakes induced by the other party's misrepresentation, even if innocent.  See, e.g., 
+Isaacs v. Bokor, 566 S.W.2d 532 (Tenn. 1978); Plains Cotton Coop. v. Wolf, 553 S.W.2d 800 (Tex. Civ. App. 
+1977), ref. n.r.e.; but see Farina v. Calvary Hill Cemetery, 566 S.W.2d 650 (Tex. Civ. App. 1978), ref. n.r.e.  
+Others have made a finding of fact that a specific failure to exercise care was not unreasonable.  See, e.g., 
+Vermette v. Anderson, 16 Wash. App. 466, 558 P.2d 258 (1976) (failure to investigate slope stability not 
+"culpably negligent" in circumstances); St. John's Episcopal Hosp. v. McAdoo, 94 Misc.2d 967, 405 N.Y.S.2d 
+935 (Civ. Ct. 1978) ("A hospital emergency room is certainly not a place in which any but the strongest can be 
+expected to exercise calm and dispassionate judgment").  Illustration 2 is supported by Anderson Bros. v. 
+O'Meara, 306 F.2d 672 (5th Cir. 1962); cf.  Bowser, Inc. v. Hamilton Glass Co., 207 F.2d 341 (7th Cir. 1953).
+Comment b.  The general rule of non-excuse of mistakes caused by one party's failure to read a writing is 
+illustrated by Quinn v. Briggs, 172 Mont. 468, 565 P.2d 297 (1977); Reynolds-Penland Co. v. Hexter & Lobello, 
+567 S.W.2d 237 (Tex. Civ. App. 1978). Illustration 3 is based on Illustration 2 to former § 508; Collins v. 
+Parkinson, 98 Idaho 871, 574 P.2d 913 (1978); Cox v. Hall, 54 Mont. 154, 168 P. 519 (1917). But cf.  Bailey v. 
+Lisle Mfg. Co., 238 F. 257 (8th Cir. 1916). Illustration 4 is supported by Sardo v. Fidelity & Deposit Co., 100 N.J. 
+Eq. 332, 134 A. 774 (1926).
+Cross Reference
+ALR Annotations:
+Negligence in executing contract as affecting right to have it reformed.  81 A.L.R.2d 7.
+Digest System Key Numbers:
+Contracts 97
+Reformation of Instruments 25
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,183 @@
+Restat 2d of Contracts, § 332
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 3- Effect Between Assignor and Assignee        
+§ 332 Revocability of Gratuitous Assignments
+(1) Unless a contrary intention is manifested, a gratuitous assignment is irrevocable if
+(a) the assignment is in a writing either signed or under seal that is delivered by the assignor; or
+(b) the assignment is accompanied by delivery of a writing of a type customarily accepted as a symbol 
+or as evidence of the right assigned.
+(2) Except as stated in this Section, a gratuitous assignment is revocable and the right of the assignee 
+is terminated by the assignor's death or incapacity, by a subsequent assignment by the assignor, or by 
+notification from the assignor received by the assignee or by the obligor.
+(3) A gratuitous assignment ceases to be revocable to the extent that before the assignee's right is 
+terminated he obtains
+(a) payment or satisfaction of the obligation, or
+(b) judgment against the obligor, or
+(c) a new contract of the obligor by novation.
+(4) A gratuitous assignment is irrevocable to the extent necessary to avoid injustice where the assignor 
+should reasonably expect the assignment to induce action or forbearance by the assignee or a 
+subassignee and the assignment does induce such action or forbearance.
+(5) An assignment is gratuitous unless it is given or taken
+(a) in exchange for a performance or return promise that would be consideration for a promise; or
+(b) as security for or in total or partial satisfaction of a pre-existing debt or other obligation.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Historical note.  Before the assignment of a contractual right was recognized as effective by common-law 
+courts, an assignment was treated as a power of attorney.  Exercise of the power to create a new legal right in 
+the assignee was recognized as effective by the common-law courts in the seventeenth century.  But in the 
+event of revocation by the assignor before the power was exercised, the assignee's right was enforceable only 
+by a court of equity.  See the Introductory Note to this Chapter.  A power of attorney requires no consideration, 
+but the maxim that equity will not aid a volunteer precluded relief to a gratuitous assignee in the event of 
+revocation before the power was exercised.  In modern times an assignment is recognized as an effective 
+conveyance without regard to the distinction between law and equity.  But a gratuitous conveyance remains 
+revocable unless the formal requisites of a valid gift are met.  The owner of a contractual right, like the owner of 
+a chattel, can effectively and irrevocably declare himself trustee of it without consideration or formality, but an 
+attempted informal gift which is ineffective does not create a trust.  See Restatement, Second, Trusts §§ 28, 31.  
+In certain cases, however, where the donor has died believing he has made an effective gratuitous conveyance 
+
+§ 332 Revocability of Gratuitous Assignments
+to a natural object of his bounty, a constructive trust for the intended donee may arise.  See Restatement of 
+Restitution § 164.
+b.  Formal requisites of gift; written assignment.  Historically, a gift of a chattel could be made either by delivery 
+of the chattel or by delivery of a deed of gift under seal.  This rule has been extended by analogy to gifts of 
+intangible personal property, including contractual rights.  As the seal has come to seem archaic, the delivery of 
+a signed written assignment has by statute or decision been given the same effect.  The assignment may be 
+delivered either conditionally or unconditionally, and either to the donee or to a third person on his behalf.  
+Compare §§ 101-103.  The writing must of course fully manifest an intention to make a present transfer rather 
+than to promise or authorize a future transfer.  Compare §§ 325, 330.  As to investment securities, Uniform 
+Commercial Code § 8-309 requires delivery of a certificated security, and an attempted transfer without delivery 
+amounts only to a promise to transfer.
+Illustrations:
+1.  B owes A four million dollars.  A signs, seals and delivers to C a deed of gift of the debt to the extent of one 
+million dollars.  There is an effective and irrevocable assignment.
+2.  B owes A $ 70,000 represented by a promissory note payable to the order of A in installments.  A signs and 
+delivers to C, his sister, a written instrument not under seal reciting that in consideration of love and affection for 
+C A gives and assigns to C fifty per cent of the note, reserving all installments due or paid during A's life.  The 
+note is retained in A's possession.  The gift is effective and irrevocable.
+3.  A has a savings account in the B bank which is represented by a passbook.  While in the hospital and about 
+to undergo a serious operation, A signs the following note and gives it to a nurse for her husband C: "Dear 
+Papa, the bank book is in my letter box in the kitchen.  It is yours.  Look out for yourself.  My will is in the 
+lawyer's office.  Your loving wife." A dies before C takes possession of the passbook.  There is no effective gift.
+c.  Delivery of a symbolic writing.  In the regular course of business certain writings are treated as adequately 
+evidencing that a person in possession of the writing is entitled to receive performance and to dispose of the 
+right and its proceeds.  See Uniform Commercial Code § 1-201(15), defining "document of title," § 3-104, 
+defining certain types of negotiable instrument, § 8-102, defining "security," § 9-105(1)(b), defining "chattel 
+paper." In some circumstances the right to performance is conditional on exhibition or surrender of such a 
+writing.  See Uniform Commercial Code § 3-505 (negotiable instrument), § 5-116 (letter of credit), § 7-403(3) 
+(negotiable document of title), § 8-401 (certificated security).  A gift of a right embodied in such a writing may be 
+made by delivery in accordance with rules governing gifts of chattels by delivery.
+Illustration:
+4.  A gratuitously delivers to B a savings bank book, a nonnegotiable promissory note, a life insurance policy 
+and a registered bond with the expressed intent of making B the owner of the rights of which these documents 
+are evidence.  The delivery operates as an effective and irrevocable assignment of both the rights and the 
+documents.
+d.  Delivery of an evidentiary writing.  Even though a right is not conditional on exhibition or surrender of a 
+document, it may be so integrated in a writing that contradictory terms of prior agreements and 
+contemporaneous oral agreements are superseded.  See §§ 213, 216; Uniform Commercial Code § 2-202.  
+The "best evidence" or original document rule, permitting secondary evidence to prove the contents of a writing 
+only when an explanation is given for nonproduction of the original, has been largely eviscerated by modern 
+evidence practice.  See, e.g., Fed. R. Evidence 1001-04.  Even though the traditional rule does not apply, an 
+evidentiary writing may be of such importance in the enforcement of the right that its delivery is an appropriate 
+formality to validate a gift of the right.  Accordingly, the rule validating a gift by delivery of an essential 
+instrument has been extended to some evidentiary writings.  The test is whether the writing is of a type 
+customarily accepted as evidence of the right.
+Illustrations:
+5.  A makes a written contract with B to convey land to B for $ 25,000.  Later A gratuitously delivers to C the 
+written contract, signed by B, with the expressed intent of making C the owner of the right to the purchase 
+money.  The gift is effective and irrevocable.
+6.  A deposits a draft with B bank for collection and is given a receipt signed by B which describes the draft and 
+recites that it is "received from A for collection." A writes on the receipt, "Pay this to C," signs his name, and 
+
+§ 332 Revocability of Gratuitous Assignments
+delivers the receipt to C with the expressed intent of making a gift to C of the proceeds of the draft.  The gift is 
+effective and irrevocable.
+7.  A has a checking account in B bank and delivers the bank pass book to C with the expressed intent of 
+making a gift to C of the balance in the account.  The gift is revocable in view of the customary practice of 
+making withdrawals without notation in the pass book, even though A has in fact made no such withdrawals.
+8.  A deposits various sums of money with B, and keeps a list of the amounts on a sheet of paper.  A delivers 
+the list, bearing a total and a date but no signature or other writing, to C with the expressed intent of making a 
+gift to C of the amount due.  The gift is revocable.
+e.  What constitutes delivery.  Where a gift of a contractual right by delivery of a symbolic or evidentiary writing 
+is in issue, the concept of delivery is the same as that employed with respect to gifts of tangible personal 
+property.  Delivery may be made either conditionally or unconditionally, and either to the donee or to a third 
+person on his behalf.  Compare §§ 101-03.  A writing in the possession of a third person may be delivered by 
+means of a symbolic or evidentiary writing or by means of a token or symbol such as a key to a safe deposit 
+box.  Or the third person may agree to hold on behalf of the donee.  A gift of a writing already in the possession 
+of the donee for another purpose may be made by mere oral manifestation of intention.  Redelivery to the donor 
+for safekeeping does not defeat the delivery.  Where a different rule is applied to gifts of chattels, it is applied 
+equally to gifts of contractual rights by delivery: thus if it is held that a gift causa mortis by mere spoken words is 
+ineffective in the case of a chattel in the donee's possession, the same rule is applied to a gift of a contractual 
+writing.
+f.  Effect of acts subsequent to assignment.  A gratuitous assignment, even though revocable, may authorize 
+the assignee to take action which will complete the gift.  If, pursuant to the authority given, the assignee obtains 
+performance or other satisfaction from the obligor or a judgment against the obligor or a new contract by 
+novation, the assignor's power of revocation terminates and the assignee may keep for his own benefit what he 
+has acquired.  Whatever he obtains after revocation can be recovered from him by the assignor.  Revocation is 
+also precluded to the extent that it would be unjust in view of a material change of position in reliance on the 
+assignment.  Compare § 90.
+Illustration:
+9.  A draws a check on his account in B bank payable to the order of C and delivers it to C with the expressed 
+intent of making a gift to C of part of the account.  C negotiates the check to D for value, or obtains payment 
+from B.  Meanwhile A dies.  C can retain what he received before the death, but A's personal representative 
+can recover what C received thereafter.
+g.  Effect of bankruptcy.  Under § 541 of the Bankruptcy Reform Act of 1978, 11 U.S.C. § 541 (1978), the 
+commencement of a case under the Act creates an estate, which includes with certain inapplicable exceptions 
+all legal or equitable interests of the debtor in property as of the commencement of the case.  Hence if a 
+gratuitous assignment is revocable by an assignor at the time when he becomes bankrupt, his trustee in 
+bankruptcy may exercise the power of revocation.  Even if the assignment is otherwise irrevocable, the trustee 
+in bankruptcy has the right of any creditor to set it aside if the assignor is insolvent or is rendered insolvent or if 
+it is made with actual intent to hinder, delay, or defraud creditors.  See Uniform Fraudulent Conveyance Act §§ 
+4, 7; Bankruptcy Reform Act of 1978, 11 U.S.C. § 548 (1978).
+h.  Gratuitous assignment.  Whether an assignment is gratuitous for the purposes of the rules stated in this 
+Section is not necessarily the same question as whether the assignment is for value so as to constitute the 
+assignee a bona fide purchaser for value within such rules as that stated in § 342.  See Comment c to § 338.  
+For example, where an assignment is made in exchange for a return promise which would be consideration 
+under the rule stated in § 75, the assignment is not gratuitous, whether or not the promise is value under the 
+rules stated in Restatement, Second, Trusts § 302.  A new loan or other obligation is consideration for this 
+purpose if bargained for and given in exchange for the assignment.  Moreover, an assignment as security for or 
+in total or partial satisfaction of a pre-existing obligation is not gratuitous, whether or not there is consideration 
+under § 73 or value under Restatement, Second, Trusts § 304 and Restatement of Restitution § 173.  Such an 
+assignment is not gratuitous even if the preexisting obligation is unenforceable, to the extent that in the 
+circumstances a promise to pay the obligation would be binding under §§ 82-85.
+REPORTER'S NOTES
+
+§ 332 Revocability of Gratuitous Assignments
+Subsection (1) is based on Subsections (1)(a) and (b) to former § 158, broadened to give effect to gifts by 
+written assignment not under seal and by delivery of an evidentiary document.  Subsections (2)-(4) are 
+reworded from Subsections (1), (3) and (1)(c), respectively to former § 158.  Subsection (5) is new; compare 
+Subsection (4) to former § 149.  See 3 Williston, Contracts §§ 438A-40 (3d ed. 1960); 4 Corbin, Contracts §§ 
+909-22 (1951); Brown, Personal Property §§ 8.1-8.8 (3d ed. 1975).
+Comment a.  See Gulliver & Tilson, Classification of Gratuitous Transfers, 51 Yale L.J. 1 (1941); Costigan, Gifts 
+Inter Vivos of Choses in Action, 27 L.Q. Rev. 326 (1911).
+Comment b.  See Stone, Delivery in Gifts of Personal Property, 20 Colum. L. Rev. 196 (1920); Mechem, The 
+Requirement of Delivery in Gifts of Chattels, 21 Ill. L. Rev. 341, 457, 568 (1926); Annots., 63 A.L.R. 537 (1929), 
+48 A.L.R.2d 1405 (1956). Illustration 1 is based on Chase Nat'l Bank v. Sayles, 11 F.2d 948 (1st Cir.), cert. 
+denied, 273 U.S. 708 (1926). Illustration 2 is based on Thatcher v. Merriam, 121 Utah 191, 240 P.2d 266 
+(1952). Illustration 3 is based on Foster v. Reiss, 18 N.J. 41, 112 A.2d 553 (1955). See also Cassiday v. 
+Cassiday, 256 Md. 5, 259 A.2d 299 (1969) (finding no intent to make a gift or assignment on fairly similar facts).
+Comment c.  See Annots., 40 A.L.R. 1249 (1926), 84 A.L.R. 558 (1933) (savings bank pass book); 23 A.L.R.2d 
+1171 (1952) (stock); 33 A.L.R.2d 273 (1954) (life insurance).  Illustration 4 is based on Illustration 1 to former § 
+158, followed in Brooks v. Mitchell, 163 Md. 1, 161 A. 261 (1932); Hileman v. Hulver, 243 Md. 527, 221 A.2d 
+693 (1966).
+Comment d.  See Bruton, The Requirement of Delivery as Applied to Gifts of Choses in Action, 39 Yale L.J. 837 
+(1930); Williston, Gifts of Rights under Contracts in Writing by Delivery of the Writing, 40 Yale L.J. 1 (1930); 
+Annots., 3 A.L.R. 933 (1919), 14 A.L.R. 707 (1921); cf.  63 A.L.R.2d 259 (1959) (gift to debtor).  As to the 
+original document rule, see McCormick, Evidence §§ 229-43 (2d ed. 1972 & Supp. 1978); 4 Wigmore, Evidence 
+§ 1177 et seq. (Chadbourn rev. 1972).  Illustration 5 rejects the conclusion of Illustration 2 to former § 158; it is 
+based on In re Huggins' Estate, 204 Pa. 167, 53 A. 746 (1902); cf.  Davie v. Davie, 47 Wash. 231, 91 P. 950 
+(1907); Moore v. Darton, 4 De G. & S. 517 (Ch. 1851). Illustration 6 is based on Cronin v. Chelsea Sav. Bank, 
+201 Mass. 146, 87 N.E. 484 (1909). But cf.  Matter of Cassola, 183 Misc. 66, 47 N.Y.S.2d 90 (Surr. Ct. 1944) 
+(broker's statement of account).  Illustration 7 is based on Burrows v. Burrows, 240 Mass. 485, 137 N.E. 923 
+(1922). Illustration 8 is based on Cook v. Lum, 55 N.J.L. 373, 26 A. 803 (1893).
+Comment e.  See Brown, Personal Property §§ 7.2-7.9 (3d ed. 1975); Mechem, The Requirement of Delivery in 
+Gifts of Chattels, 21 Ill. L. Rev. 341, 457, 568 (1926).
+Comment f.  Illustration 9 is based on Burrows v. Burrows, 240 Mass. 485, 137 N.E. 923 (1922); Armstrong v. 
+Armstrong, 142 Ill. App. 507 (1908); see Annot., 38 A.L.R.2d 594 (1954).
+Comment h.  Subsection (5) and Comment h depart from former § 149 (5) and (6), following instead Comment 
+b to former § 166.
+Cross Reference
+Digest System Key Numbers:
+Assignments 97
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

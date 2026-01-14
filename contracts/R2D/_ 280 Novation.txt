@@ -1,0 +1,130 @@
+Restat 2d of Contracts, § 280
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 2- Substituted Performance, Substituted Contract, 
+Accord and Account Stated        
+§ 280 Novation
+A novation is a substituted contract that includes as a party one who was neither the obligor nor the 
+obligee of the original duty.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Definition of novation.  The word "novation" is used in this Restatement to refer to a type of substituted 
+contract that has the effect of adding a party, either as obligor or obligee, who was not a party to the original 
+duty.  See Comment a to § 279.  A novation may involve more than three parties.  The performance to be 
+rendered under the new duty may be the same as or different from that to be rendered under the original duty.  
+It is also possible to have an accord that adds a new party, but that is less often the case and such an accord is 
+not termed a novation.  See Illustration 1.
+b.  Effect of novation.  A novation discharges the original duty, just as any other substituted contract does, so 
+that breach of the new duty gives no right of action on the old duty.  Most novations simply substitute a new 
+obligor for an old obligor or, less commonly, a new obligee for an old obligee.  Sometimes these are termed 
+simple novations, to distinguish them from more complex transactions that are termed compound novations.
+c.  Consideration.  A novation is subject to the same requirements as any other contract, including that of 
+consideration.  However, since consideration need not be given to the promisor and need not be given by the 
+promisee (§ 71 (4)), consideration to support the discharge of the original duty can usually be found in the 
+promise to undertake a new duty.  It is not necessary for this purpose that all of the parties to the novation 
+manifest their assent simultaneously nor that they all be in the same place, but their manifestations of assent 
+must have reference to one another (§ 23).  Although all parties usually assent to a novation, a novation is 
+possible without the assent of the obligor of the original duty or of the obligee of the new duty if that party is an 
+intended beneficiary and does not disclaim (§ 306).  See Illustrations 2 and 5.  Assent of the obligee of the 
+original duty and of the obligor of the new duty is always necessary.
+d.  Substitution of obligor.  A simple novation involving a substitution of obligors results when an obligee 
+promises the obligor that he will discharge the obligor's duty in consideration for a third person's promise to pay 
+the obligee.  See Illustration 1.  As to the analogous situation of an obligee who takes in payment from the 
+obligor a negotiable instrument on which a third person is liable, see Uniform Commercial Code § 3-802.  A 
+substitution of obligors may also result when an obligee promises a third person that he will discharge the 
+obligor's duty in consideration for the third person's promise to render either the performance that was due from 
+the obligor or some other performance.  Even a promise to render part performance is consideration in that 
+situation.  See Comment c to § 278.  If the obligor is an intended beneficiary (§ 302), there is a novation.  The 
+assent of the obligor is not required.  However, his rights are governed by the rules stated in Chapter 14, 
+Contract Beneficiaries, and if he has not assented he can by disclaimer render the transaction inoperative from 
+the beginning (§ 306).  See Illustration 2.  Such a novation also results when a third person promises an obligor 
+to assume, immediately and in substitution for the obligor's duty, a duty to the obligee to render the 
+performance that was due from the obligor or some other performance, and the obligee agrees with the obligor 
+or with the third person to that substitution.  The third person then comes under a new duty to the obligee, who 
+is an intended beneficiary of his promise to assume (§ 302), and this is consideration for the obligee's 
+agreement to discharge the original obligor.  The obligee, having already assented to the discharge of the duty 
+in this way, has no power to disclaim it.  See Illustration 3.  However, a mere promise by a third party to assume 
+
+§ 280 Novation
+the obligor's duty, not offered in substitution for that duty, does not result in a novation, and the new duty that 
+the third party may owe to the obligee as an intended beneficiary is in addition to and not in substitution for the 
+obligor's original duty.  For a novation to take place, the obligee must assent to the discharge of the obligor's 
+duty in consideration for the promise of the third party to undertake that duty.  As to the effect of an obligee's 
+acceptance of performance from an assignee after a repudiation by the obligor, see § 329(2).
+Illustrations:
+1.  A owes B $ 1,000.  B promises A that he will discharge the debt immediately if C will promise B to pay B $ 
+1,000.  C so promises.  There is a novation under which B's and C's promises are consideration for each other 
+and A is discharged.
+2.  A owes B $ 1,000.  B promises C that he will discharge the debt immediately if C will promise him to pay him 
+$ 1,000.  Intending to benefit A, C so promises.  There is a novation under which B's and C's promises are 
+consideration for each other, and A's duty to pay B is discharged.  A is an intended beneficiary of B's promise 
+(§ 302) and can by disclaimer render the transaction, including the discharge, inoperative from the beginning (§ 
+306).  The result is the same if B's promise is made in return for C's promise to pay $ 500.  See Illustration 4 to 
+§ 278.
+3.  A owes B a duty to service B's machine for a year.  A sells part of his business to C, who promises A that he 
+will assume A's duty to B if B promises to accept it immediately and in substitution for A's duty.  B so promises 
+A.  There is a novation under which B's and C's promises are consideration for each other, and A's duty to 
+service B's machine is discharged.  B is an intended beneficiary of C's promise (§ 302), but cannot disclaim 
+because he has assented.  The result is the same if B's promise is made to C.
+e.  Substitution of obligee.  A simple novation involving a substitution of obligees results when an obligee 
+promises his obligor to discharge the obligor's duty in consideration for the obligor's promise to a third person to 
+render either the performance that was due from the obligor or some other performance.  See Illustration 4.  A 
+substitution of obligees may also result when the obligor's promise is one made directly to the obligee but is one 
+to render the performance to a third person as beneficiary.  If the third person is an intended beneficiary (§ 
+302), there is a novation.  Illustration 5.  The assent of the third person is not required.  However, his rights are 
+subject to the rules stated in Chapter 14, Contract Beneficiaries, and if he has not assented he can by 
+disclaimer render the transaction, including the discharge, inoperative from the beginning.  Obligees may also 
+be substituted by assignment of a right, which differs from novation in that assignment requires neither the 
+knowledge nor the assent of the obligor and cannot change the performance to be rendered by him.  For other 
+differences, see Chapter 15, Assignment and Delegation.
+Illustrations:
+4.  A owes B $ 1,000.  B promises A that he will discharge the debt immediately if A will promise C to perform 
+stated services to C.  A so promises C.  There is a novation under which A's and B's promises are 
+consideration for each other and A's duty to pay B is discharged.  If B's promise were to discharge A when A 
+performed the services, there would be an accord rather than a novation.
+5.  A owes B $ 1,000.  Intending to benefit C, B promises A that he will discharge the debt immediately if A will 
+promise him to perform stated services to C.  A so promises B.  There is a novation under which A's and B's 
+promises are consideration for each other and A's duty to pay B is discharged.  C is an intended beneficiary of 
+A's promise (§ 302) and can by disclaimer render the transaction, including the discharge, inoperative from the 
+beginning.
+f.  Compound novations.  The novations already described involve a simple substitution of one obligor or 
+obligee for another.  More complex transactions, sometimes called compound novations, are possible.  If, for 
+example, there are two duties and the obligee of the first is the obligor of the second, the three parties may 
+agree that one party shall drop out altogether.  See Illustration 6.  Furthermore, if each of two parties has a right 
+against the other, they may agree with a third party that the third party shall immediately acquire a right against 
+and be subject to a duty to one of them in substitution for the original right of and duty due the other.  The new 
+right and duty may be for performances that are the same as or different from the original ones.  See Illustration 
+7.
+Illustrations:
+
+§ 280 Novation
+6.  A owes B $ 1,000 and B owes C $ 1,000.  A promises B and C that he will assume B's debt to C if B 
+promises to discharge A's debt to B and if C promises to discharge B's debt to C and accept A as his debtor.  B 
+and C so promise.  There is a novation under which A's promise and B's and C's promises are consideration for 
+each other, and A's debt to B and B's debt to C are discharged.
+7.  A and B make a contract under which A promises to deliver a tractor to B and B promises to pay A $ 1,000.  
+A promises to deliver a bulldozer to C and to discharge B's duty if B promises to discharge A's duty and C 
+promises to pay A $ 2,000.  B and C so promise.  There is a novation and A's duty to deliver a tractor to B and 
+B's duty to pay $ 1,000 are discharged.
+REPORTER'S NOTES
+This Section is based on former § 424.  Former §§ 425-30 have been dealt with in the commentary.  See 6 
+Corbin, Contracts §§ 1297-1302 (1962 & Supp. 1980); 15 Williston, Contracts §§ 1865-73 (3d ed. 1972).
+Comment a.  Courts sometimes use "novation" in situations in which this Restatement would use "substituted 
+contract" (§ 279) or "modification" (§ 89).  See, e.g., Burnett v. Luquillo Beach Dev. Co., 443 F. Supp. 378 
+(D.P.R. 1978) (also discussing the civil law concept of the precontract ("precontrato")).
+Comment d.  This Comment is based on former §§ 427, 428.  Illustration 1 is based in part on Illustration 1 to 
+former § 427; see Bridger v. Mangum, 35 N.C. App. 569, 241 S.E.2d 726 (1978). Illustration 2 is based on 
+Greenwood Leflore Hosp. Comm'n v. Turner, 213 Miss. 200, 56 So.2d 496 (1952). Illustration 3 is based in part 
+on Illustration 2 to former § 428.
+Comment e.  This Comment is based on former §§ 425, 426.  Illustration 4 is based on Illustration 1 to former § 
+425.  Illustration 5 is based in part on Illustration 1 to former § 426; cf.  Lawrence v. Fox, 20 N.Y. 268 (1859).
+Comment f.  This Comment is based on former §§ 429, 430.  Illustration 6 is based on Illustration 2 to former § 
+429; see Jay Cee Fish Co. v. Cannarella, 279 F. Supp. 67 (D.S.C. 1968). Illustration 7 is based on Illustration 1 
+to former § 430.
+Cross Reference
+ALR Annotations:
+Creditor's acceptance of obligation of third person as constituting novation.  61 A.L.R.2d 755.
+Digest System Key Numbers:
+Novation 1 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

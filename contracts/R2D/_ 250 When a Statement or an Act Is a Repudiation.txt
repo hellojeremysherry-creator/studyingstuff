@@ -1,0 +1,126 @@
+Restat 2d of Contracts, § 250
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 3- Effect of Prospective Non-Performance        
+§ 250 When a Statement or an Act Is a Repudiation
+A repudiation is
+(a)  a statement by the obligor to the obligee indicating that the obligor will commit a breach that would 
+of itself give the obligee a claim for damages for total breach under § 243, or
+(b)  a voluntary affirmative act which renders the obligor unable or apparently unable to perform 
+without such a breach.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Consequences of repudiation.  A statement by a party to the other that he will not or cannot perform without 
+a breach, or a voluntary affirmative act that renders him unable or apparently unable to perform without a 
+breach may impair the value of the contract to the other party.  It may have several consequences under this 
+Restatement.  If it accompanies a breach by non-performance that would otherwise give rise to only a claim for 
+damages for partial breach, it may give rise to a claim for damages for total breach instead (§ 243).  Even if it 
+occurs before any breach by non-performance, it may give rise to a claim for damages for total breach (§ 
+253(1)), discharge the other party's duties (§ 253(2)), or excuse the non-occurrence of a condition (§ 255).
+b.  Nature of statement.  In order to constitute a repudiation, a party's language must be sufficiently positive to 
+be reasonably interpreted to mean that the party will not or cannot perform.  Mere expression of doubt as to his 
+willingness or ability to perform is not enough to constitute a repudiation, although such an expression may give 
+an obligee reasonable grounds to believe that the obligor will commit a serious breach and may ultimately result 
+in a repudiation under the rule stated in § 251.  However, language that under a fair reading "amounts to a 
+statement of intention not to perform except on conditions which go beyond the contract" constitutes a 
+repudiation.  Comment 2 to Uniform Commercial Code § 2-610.  Language that is accompanied by a breach by 
+non-performance may amount to a repudiation even though, standing alone, it would not be sufficiently positive.  
+See § 243(2).  The statement must be made to an obligee under the contract, including a third party beneficiary 
+or an assignee.
+Illustrations:
+1.  On April 1, A contracts to sell and B to buy land, delivery of the deed and payment of the price to be on July 
+30.  On May 1, A tells B that he will not perform.  A's statement is a repudiation.
+2.  A contracts to build a house for B for $ 50,000, progress payments to be made monthly in an amount equal 
+to 85% of the price of the work performed during the preceding month, the balance to be paid on the architect's 
+certificate of satisfactory completion of the house.  Without justification B fails to make a $ 5,000 progress 
+payment and tells A that because of financial difficulties he will be unable to pay him anything for at least 
+another month.  If, after a month, it would be too late for B to cure his material failure of performance by making 
+the delayed payment, B's statement is a repudiation.  See Illustration 2 to § 237.
+3.  The facts being otherwise as stated in Illustration 1, A does not tell B that he will not perform but says, "I am 
+not sure that I can perform, and I do not intend to do so unless I am legally bound to." A's statement is not a 
+repudiation.
+4.  The facts being otherwise as in Illustration 1, A tells C, a third person having no right under the contract, and 
+not B, that he will not perform.  C informs B of this conversation, although not requested by A to do so.  A's 
+statement is not a repudiation.  But see Comments b and c to § 251.
+
+§ 250 When a Statement or an Act Is a Repudiation
+c.  Nature of act.  In order to constitute a repudiation, a party's act must be both voluntary and affirmative, and 
+must make it actually or apparently impossible for him to perform.  An act that falls short of these requirements 
+may, however, give reasonable grounds to believe that the obligor will commit a serious breach for the 
+purposes of the rule stated in § 251.  The effect of bankruptcy is governed in large part by federal law.  In 
+liquidation cases, for example, Bankruptcy Reform Act § 365(a), (d) and (e) gives the trustee the power to 
+assume or reject an executory contract within a statutory period, and the obligee must give him the time to 
+exercise this power.  A contract not assumed during this period is deemed to be rejected.  Under Bankruptcy 
+Reform Act § 365(g)(1), notwithstanding state law, the trustee's rejection of a contract "constitutes a breach of 
+such contract . . . immediately before the date of the filing of the petition . . . ." The rules stated in this 
+Restatement apply to the extent that they are consistent with federal bankruptcy law.
+Illustrations:
+5.  The facts being otherwise as stated in Illustration 1, A says nothing to B on May 1, but on that date he 
+contracts to sell the land to C.  A's making of the contract with C is a repudiation.
+6.  The facts being otherwise as stated in Illustration 1, A says nothing to B on May 1, but on that date he 
+mortgages the land to C as security for a $ 40,000 loan which is not payable until one year later.  A's 
+mortgaging the land is a repudiation.  Compare Illustration 4 to § 251.
+7.  A contracts to employ B, and B to work for A, the employment to last a year beginning in ten days.  Three 
+days after making the contract B embarks on a ship for a voyage around the world.  B's embarking for the 
+voyage is a repudiation.
+d.  Gravity of threatened breach.  In order for a statement or an act to be a repudiation, the threatened breach 
+must be of sufficient gravity that, if the breach actually occurred, it would of itself give the obligee a claim for 
+damages for total breach under § 243(1).  Generally, a party acts at his peril if, insisting on what he mistakenly 
+believes to be his rights, he refuses to perform his duty.  His statement is a repudiation if the threatened breach 
+would, without more, have given the injured party a claim for damages for total breach.  Modern procedural 
+devices, such as the declaratory judgment, may be used to mitigate the harsh results that might otherwise 
+result from this rule.  Furthermore, if the threatened breach would not itself have given the injured party a claim 
+for damages for total breach, the statement or voluntary act that threatens it is not a repudiation.  But where a 
+party wrongfully states that he will not perform at all unless the other party consents to a modification of his 
+contract rights, the statement is a repudiation even though the concession that he seeks is a minor one, 
+because the breach that he threatens in order to exact it is a complete refusal of performance.
+Illustrations:
+8.  On April 1, A contracts to sell and B to buy land for $ 50,000, delivery of the deed and payment of the price 
+to be on August 1.  On May 1, the parties make an enforceable modification under which delivery of the deed 
+and payment of the price are to be on July 30 instead of August 1.  On June 1, A tells B that he will not deliver a 
+deed until August 1.  A's statement is not a repudiation unless the one-day delay would, in the absence of a 
+repudiation, have given B a claim for damages for total breach.  See Illustration 4 to § 242.
+9.  The facts being otherwise as stated in Illustration 8, A tells B that he will not deliver a deed at all unless B 
+agrees to accept it on August 1.  A's statement is a repudiation.  The result is the same even though A acts in 
+the erroneous belief that the modification has no legal effect.
+REPORTER'S NOTES
+This Section is based on former § 318.  See also former § 284.  See Uniform Commercial Code § 2-610, which 
+states a rule for repudiation "with respect to a performance . . . the loss of which will substantially impair the 
+value of the contract to the other"; 4 Corbin, Contracts §§ 972-94 (1951 & Supp. 1980); 11 Williston, Contracts 
+§§ 1322-25 (3d ed. 1968).
+Comment b.  This Comment follows the Code in disapproving Dingley v. Oler, 117 U.S. 490 (1886), under 
+which a party might avoid repudiating by attaching to his refusal a qualification, even though the qualification 
+went beyond the contract.  But see City of Fairfax v. Washington Metro. Area Transit Auth., 582 F.2d 1321, 
+1326-27 (4th Cir. 1978), cert. denied, 440 U.S. 914 (1979). As to how positive a statement must be to constitute 
+a repudiation, compare both the verbal formulas and their application to the facts in City of Fairfax v. 
+Washington Metro. Area Transit Auth., supra ("absolute and unequivocal refusal to perform"), with those in 
+Farwell Constr. Co. v. Ticktin, 59 Ill. App.3d 954, 17 Ill. Dec. 475, 376 N.E.2d 621 (1978) ("definite statement to 
+
+§ 250 When a Statement or an Act Is a Repudiation
+the promisee that the promisor either will not or cannot perform").  Illustration 2 is based on Petrangelo v. 
+Pollard, 356 Mass. 696, 255 N.E.2d 342 (1970). Illustration 3 is based on Illustration 4 to former § 318.  See 
+also Norrington v. Wright, 115 U.S. 188 (1885). Illustration 4 is based on Illustration 3 to former § 318.
+Comment c.  In Bonebrake v. Cox, 499 F.2d 951 (8th Cir. 1974), an anticipatory repudiation was found under 
+Uniform Commercial Code § 2-610 upon the death of the obligor and the apparent inability of his estate to 
+perform his duties.  That the repudiation must threaten a material breach, see City of Fairfax v. Washington 
+Metro. Area Transit Auth., 582 F.2d 1321, 1331 (4th Cir. 1978), cert. denied, 440 U.S. 914 (1979). Illustration 5 
+is based on Illustration 9 to former § 318.  See also former § 284 and James v. Burchell, 82 N.Y. 108 (1880). 
+Illustration 6 is based on Illustration 1 to former § 284 and on Fort Payne Coal & Iron Co. v. Webster, 163 Mass. 
+134, 39 N.E. 786 (1895). On the problems raised by Illustrations 5 and 6, see 6 Corbin, Contracts § 1259 (1962 
+& Supp. 1980); 6 Williston, Contracts §§ 878, 879 (3d ed. 1962).  Illustration 7 is based on Illustration 6 to 
+former § 318.  On bankruptcy, see Countryman, Executory Contracts in Bankruptcy, 57 Minn. L. Rev. 439 
+(1973), 58 Minn. L. Rev. 479 (1974); former § 324.  On the changes made by the Bankruptcy Reform Act of 
+1978, Pub. L. 95-598 (1978), see Collier, Bankruptcy Appendix 1 (15th ed. 1979); Bankruptcy Service Law. Ed. 
+§ 1:42 (1979).
+Comment d.  Illustration 8 is suggested by Bannister v. Victoria Coal & Coke Co., 63 W.Va. 502, 61 S.E. 338 
+(1908); see also Taylor v. Johnston, 15 Cal.3d 130, 123 Cal. Rptr. 641, 539 P.2d 425 (1975); cf.  Walker v. 
+Shasta Minerals and Chem. Co., 352 F.2d 634 (10th Cir. 1965). Illustration 9 is suggested by Illustration 1 to 
+former § 318; see also National Farmers Organization v. Bartlett and Co., 560 F.2d 1350 (8th Cir. 1977).
+Cross Reference
+ALR Annotations:
+Revocation, prior to execution of formal written contract, of vote or decision of public body awarding contract to 
+bidder.  3 A.L.R.3d 864.
+Digest System Key Numbers:
+Contracts 313(2)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,81 @@
+Restat 2d of Contracts, § 16
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 2- Formation of 
+Contracts -- Parties and Capacity        
+§ 16 Intoxicated Persons
+A person incurs only voidable contractual duties by entering into a transaction if the other party has 
+reason to know that by reason of intoxication
+(a)  he is unable to understand in a reasonable manner the nature and consequences of the transaction, 
+or
+(b)  he is unable to act in a reasonable manner in relation to the transaction.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  Compulsive alcoholism may be a form of mental illness; and when a guardian is appointed for 
+the property of a habitual drunkard, his transactions are treated like those of a person under guardianship by 
+reason of mental illness.  See §§ 13, 15.  If drunkenness is so extreme as to prevent any manifestation of 
+assent, there is no capacity to contract.  See §§ 2, 12, 19.  It would be possible to treat voluntary intoxication as 
+a temporary mental disorder in all cases, but voluntary intoxication not accompanied by any other disability has 
+been thought less excusable than mental illness.  Compare Model Penal Code § 2.08 and Comment.  Hence a 
+contract made by an intoxicated person is enforceable by the other party even though entirely executory, unless 
+the other person has reason to know that the intoxicated person lacks capacity.  Elements of overreaching or 
+other unfair advantage may be relevant on the issues of competency, of the other party's reason to know, and 
+of the appropriate remedy.  Compare Comments c, e and f to § 15.  Use of drugs may raise similar problems.
+b.  What contracts are voidable.  The standard of competency in intoxication cases is the same as that in cases 
+of mental illness.  If the intoxication is so extreme as to prevent any manifestation of assent, there is no 
+contract.  Otherwise the other party is affected only by intoxication of which he has reason to know.  A contract 
+made by a person who is so drunk he does not know what he is doing is voidable if the other party has reason 
+to know of the intoxication.  Where there is some understanding of the transaction despite intoxication, 
+avoidance depends on a showing that the other party induced the drunkenness or that the consideration was 
+inadequate or that the transaction departed from the normal pattern of similar transactions; if the particular 
+transaction in its result is one which a reasonably competent person might have made, it cannot be avoided 
+even though entirely executory.
+Illustrations:
+1.  A, while in a state of extreme intoxication, signs and mails a written offer on fair terms to B, who has no 
+reason to know of the intoxication.  B accepts the offer.  A has no right to avoid the contract.
+2.  A is ill and confined to his bed.  B, knowing that the illness is incurable, plies A with intoxicating liquor for a 
+week and then purports to treat him by rubbing him with oil.  While intoxicated, A executes by mark a contract 
+to sell land to B for a grossly inadequate consideration.  Six days later A dies.  A's heirs may avoid the contract.
+3.  A has been drinking heavily.  B, who has also been drinking, meets A, offers to buy A's farm for $ 50,000, a 
+fair price, and offers A a drink which A accepts.  In drunken exhilaration A, as a joke, writes out and signs a 
+memorandum of agreement to sell, gets his wife to sign it, and delivers it to B, who understands the transaction 
+as a serious one.  A's intoxication is no defense to B's suit for specific performance.
+c.  Ratification and avoidance.  Where a contract is voidable on the ground of intoxication, the rules as to 
+ratification and avoidance are much the same as in cases of misrepresentation.  See Chapter 7.  On becoming 
+sober, the intoxicated person must act promptly to disaffirm and must offer to restore consideration received.  
+
+§ 16 Intoxicated Persons
+Such an offer may be excused, however, if the consideration has been dissipated during the period of 
+drunkenness.
+Illustration:
+4.  A buys a barber shop from B for $ 650.  Shortly afterward, A, helplessly drunk and evidently not aware of 
+what he is doing, sells the shop back to B for $ 200.  On recovering his senses, A cannot remember the 
+transaction and cannot find out what happened to the $ 200.  On prompt disaffirmance, A may recover the shop 
+without repaying the $ 200.
+REPORTER'S NOTES
+This Section is new.  See 2 Williston, Contracts §§ 258-63 (3d ed. 1959); 1 Corbin, Contracts § 6 (1963 & 
+Supp. 1980); Madden, Persons and Domestic Relations § 274 ff. (1931); Annot., 36 A.L.R. 619 (1925); cf. 
+Annot., 6 A.L.R. 331 (1920) (deeds).
+Comment a.  Because drunkenness has both voluntary and compulsive aspects, the courts have been 
+ambivalent toward it as an incapacity defense.  A way of avoiding the problem is to focus on the conduct of the 
+other party and the fairness of the contract.  This was the approach taken in Lucy v. Zehmer, 196 Va. 493, 84 
+S.E.2d 516 (1954). If one party takes advantage of the other's drunkenness and an unfair contract is entered 
+into, a stronger case is made under the fraud, overreaching and unconscionability concepts than under capacity 
+concepts, because the critical factor appears to be the conduct of the sober party, rather than the inability of the 
+drunkard.  In extreme cases, no manifestation of assent may occur, but otherwise, the problem seems closer to 
+that of persons of mild mental retardation or dull normal intelligence where extra protection should be given 
+rather than capacity denied.  See 2 Williston, Contracts § 263 (3d ed. 1957); cf. Alexander & Szasz, From 
+Contract to Status Via Psychiatry, 13 Santa Clara Law 573, 557-59 (1973).
+Comment b.  As to Illustration 1, see 2 Williston, Contracts § 259 (3d ed. 1959); Annot., 36 A.L.R. 619, 633-34 
+(1925). Illustration 2 is based on Ealy v. Tolbert, 209 Ga. 575, 74 S.E.2d 867 (1953). Illustration 3 is based on 
+Lucy v. Zehmer, 196 Va. 493, 84 S.E.2d 516 (1954); cf.  Christensen v. Larson, 77 N.W.2d 441 (N.D. 1956).
+Comment c.  Illustration 4 is based on Van Horn v. Persinger, 202 Mo. App. 236, 215 S.W. 930 (1919); 
+compare Thackrah v. Haas, 119 U.S. 499 (1886). In an appropriate case, a court may provide for restitution of 
+the consideration on appropriate terms.
+Cross Reference
+ALR Annotations:
+Admissibility of oral evidence to show that a writing was a sham agreement not intended to create legal 
+relations.  71 A.L.R.2d 382.
+Digest System Key Numbers:
+Contracts 92
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

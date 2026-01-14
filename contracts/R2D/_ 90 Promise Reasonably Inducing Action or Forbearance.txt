@@ -1,0 +1,241 @@
+Restat 2d of Contracts, § 90
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 2- Contracts Without Consideration        
+§ 90 Promise Reasonably Inducing Action or Forbearance
+(1)  A promise which the promisor should reasonably expect to induce action or forbearance on the part 
+of the promisee or a third person and which does induce such action or forbearance is binding if 
+injustice can be avoided only by enforcement of the promise.  The remedy granted for breach may be 
+limited as justice requires.
+(2)  A charitable subscription or a marriage settlement is binding under Subsection (1) without proof 
+that the promise induced action or forbearance.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Relation to other rules.  Obligations and remedies based on reliance are not peculiar to the law of contracts.  
+This Section is often referred to in terms of "promissory estoppel," a phrase suggesting an extension of the 
+doctrine of estoppel.  Estoppel prevents a person from showing the truth contrary to a representation of fact 
+made by him after another has relied on the representation.  See Restatement, Second, Agency § 8B; 
+Restatement, Second, Torts §§ 872, 894.  Reliance is also a significant feature of numerous rules in the law of 
+negligence, deceit and restitution.  See, e.g., Restatement, Second, Agency §§ 354, 378; Restatement, 
+Second, Torts §§ 323, 537; Restatement of Restitution § 55.  In some cases those rules and this Section 
+overlap; in others they provide analogies useful in determining the extent to which enforcement is necessary to 
+avoid injustice.
+It is fairly arguable that the enforcement of informal contracts in the action of assumpsit rested historically on 
+justifiable reliance on a promise.  Certainly reliance is one of the main bases for enforcement of the half-
+completed exchange, and the probability of reliance lends support to the enforcement of the executory 
+exchange.  See Comments to §§ 72, 75.  This Section thus states a basic principle which often renders inquiry 
+unnecessary as to the precise scope of the policy of enforcing bargains.  Sections 87-89 state particular 
+applications of the same principle to promises ancillary to bargains, and it also applies in a wide variety of non-
+commercial situations.  See, e.g., § 94.
+Illustration:
+1.  A, knowing that B is going to college, promises B that A will give him $ 5,000 on completion of his course.  B 
+goes to college, and borrows and spends more than $ 5,000 for college expenses.  When he has nearly 
+completed his course, A notifies him of an intention to revoke the promise.  A's promise is binding and B is 
+entitled to payment on completion of the course without regard to whether his performance was "bargained for" 
+under § 71.
+b.  Character of reliance protected.  The principle of this Section is flexible.  The promisor is affected only by 
+reliance which he does or should foresee, and enforcement must be necessary to avoid injustice.  Satisfaction 
+of the latter requirement may depend on the reasonableness of the promisee's reliance, on its definite and 
+substantial character in relation to the remedy sought, on the formality with which the promise is made, on the 
+extent to which the evidentiary, cautionary, deterrent and channeling functions of form are met by the 
+commercial setting or otherwise, and on the extent to which such other policies as the enforcement of bargains 
+and the prevention of unjust enrichment are relevant.  Compare Comment to § 72.  The force of particular 
+factors varies in different types of cases: thus reliance need not be of substantial character in charitable 
+subscription cases, but must in cases of firm offers and guaranties.  Compare Subsection (2) with §§ 87, 88.
+Illustrations:
+
+§ 90 Promise Reasonably Inducing Action or Forbearance
+2.  A promises B not to foreclose, for a specified time, a mortgage which A holds on B's land.  B thereafter 
+makes improvements on the land.  A's promise is binding and may be enforced by denial of foreclosure before 
+the time has elapsed.
+3.  A sues B in a municipal cout for damages for personal injuries caused by B's negligence.  After the one year 
+statute of limitations has run, B requests A to discontinue the action and start again in the superior cout where 
+the action can be consolidated with other actions against B arising out of the same accident.  A does so.  B's 
+implied promise that no harm to A will result bars B from asserting the statute of limitations as a defense.
+4.  A has been employed by B for 40 years.  B promises to pay A a pension of $ 200 per month when A retires.  
+A retires and forbears to work elsewhere for several years while B pays the pension.  B's promise is binding.
+c.  Reliance by third persons.  If a promise is made to one party for the benefit of another, it is often foreseeable 
+that the beneficiary will rely on the promise.  Enforcement of the promise in such cases rests on the same basis 
+and depends on the same factors as in cases of reliance by the promisee.  Justifiable reliance by third persons 
+who are not beneficiaries is less likely, but may sometimes reinforce the claim of the promisee or beneficiary.
+Illustrations:
+5.  A holds a mortgage on B's land.  To enable B to obtain a loan, A promises B in writing to release part of the 
+land from the mortgage upon payment of a stated sum.  As A contemplated, C lends money to B on a second 
+mortgage, relying on A's promise.  The promise is binding and may be enforced by C.
+6.  A executes and delivers a promissory note to B, a bank, to give B a false appearance of assets, deceive the 
+banking authorities, and enable the bank to continue to operate.  After several years B fails and is taken over by 
+C, a representative of B's creditors.  A's note is enforceable by C.
+7.  A and B, husband and wife, are tenants by the entirety of a tract of land.  They make an oral promise to B's 
+niece C to give her the tract.  B, C and C's husband expend money in building a house on the tract and C and 
+her husband take possession and live there for several years until B dies.  The expenditures by B and by C's 
+husband are treated like those by C in determining whether justice requires enforcement of the promise against 
+A.
+d.  Partial enforcement.  A promise binding under this section is a contract, and full-scale enforcement by 
+normal remedies is often appropriate.  But the same factors which bear on whether any relief should be granted 
+also bear on the character and extent of the remedy.  In particular, relief may sometimes be limited to restitution 
+or to damages or specific relief measured by the extent of the promisee's reliance rather than by the terms of 
+the promise.  See §§ 84, 89; compare Restatement, Second, Torts § 549 on damages for fraud.  Unless there 
+is unjust enrichment of the promisor, damages should not put the promisee in a better position than 
+performance of the promise would have put him.  See §§ 344, 349.  In the case of a promise to make a gift it 
+would rarely be proper to award consequential damages which would place a greater burden on the promisor 
+than performance would have imposed.
+Illustrations:
+8.  A applies to B, a distributor of radios manufactured by C, for a "dealer franchise" to sell C's products.  Such 
+franchises are revocable at will.  B erroneously informs A that C has accepted the application and will soon 
+award the franchise, that A can proceed to employ salesmen and solicit orders, and that A will receive an initial 
+delivery of at least 30 radios.  A expends $ 1,150 in preparing to do business, but does not receive the 
+franchise or any radios.  B is liable to A for the $ 1,150 but not for the lost profit on 30 radios.  Compare 
+Restatement, Second, Agency § 329.
+9.  The facts being otherwise as stated in Illustration 8, B gives A the erroneous information deliberately and 
+with C's approval and requires A to buy the assets of a deceased former dealer and thus discharge C's "moral 
+obligation" to the widow.  C is liable to A not only for A's expenses but also for the lost profit on 30 radios.
+10.  A, who owns and operates a bakery, desires to go into the grocery business.  He approaches B, a 
+franchisor of supermarkets.  B states to A that for $ 18,000 B will establish A in a store.  B also advises A to 
+move to another town and buy a small grocery to gain experience.  A does so.  Later B advises A to sell the 
+grocery, which A does, taking a capital loss and foregoing expected profits from the summer tourist trade.  B 
+also advises A to sell his bakery to raise capital for the supermarket franchise, saying "Everything is ready to 
+go.  Get your money together and we are set." A sells the bakery taking a capital loss on this sale as well.Still 
+later, B tells A that cconsiderably more than an $ 18,000 investment will be needed, and the negotiations 
+
+§ 90 Promise Reasonably Inducing Action or Forbearance
+between the parties collapse.  At the point of collapse many details of the proposed agreement between the 
+parties are unresolved.  The assurances from B to A are promises on which B reasonably should have 
+expected A to rely, and A is entitled to his actual losses on the sales of the bakery and grocery and for his 
+moving and temporary living expenses.  Since the proposed agreement was never made, however, A is not 
+entitled to lost profits from the sale of the grocery or to his expectation interest in the proposed franchise from 
+B.
+11.  A is about to buy a house on ahill.  Before buying he obtains a promise from B, who owns adjoining land, 
+that B will not build on a particular portion of his lot, where a building would obstruct the view from the house.  A 
+then buys the house in reliance on the promise.  B's promise is binding, but will be specifically enforced only so 
+long as A and his successors do not permanently terminate the use of the view.
+12.  A promises to make a gift of a tract of land to B, his son-in-law.  B takes possession and lives on the land 
+for 17 years, making valuable improvements.  A then dispossesses B, and specific performance is denied 
+because the proof of the terms of the promise is not sufficiently clear and definite.  B is entitled to a lien on the 
+land for the value of the improvements, not exceeding their cost.
+e.  Gratuitous promises to procure insurance.  This Section is to be applied with caution to promises to procure 
+insurance.  The appropriate remedy for breach of such a promise makes the promisor an insurer, and thus may 
+result in a liability which is very large in relation to the value of the promised service.  Often the promise is 
+properly to be construed merely as a promise to use reasonable efforts to procure the insurance, and reliance 
+by the promisee may be unjustified or may be justified only for a short time.  Or it may be doubtful whether he 
+did in fact rely.  Such difficulties may be removed if the proof of the promise and the reliance are clear, or if the 
+promise is made with some formality, or if part performance or a commercial setting or a potential benefit to the 
+promisor provide a substitute for formality.
+Illustrations:
+13.  A, a bank, lends money to B on the security of a mortgage on B's new home.  The mortgage requires B to 
+insure the property.  At the closing of the transaction A promises to arrange for the required insurance, and in 
+reliance on the promise B fails to insure.  Six months later the property, still uninsured, is destroyed by fire.  The 
+promise is binding.
+14.  A sells an airplane to B, retaining title to secure payment of the price.  After the closing A promises to keep 
+the airplane covered by insurance until B can obtain insurance.  B could obtain insurance in three days but 
+makes no effort to do so, and the airplane is destroyed after six days.  A is not subject to liability by virtue of the 
+promise.
+f.  Charitable subscriptions, marriage settlements, and other gifts.  One of the functions of the doctrine of 
+consideration is to deny enforcement to a promise to make a gift.  Such a promise is ordinarily enforced by 
+virtue of the promisee's reliance only if his conduct is foreseeable and reasonable and involves a definite and 
+substantial change of position which would not have occurred if the promise had not been made.  In some 
+cases, however, other policies reinforce the promisee's claim.  Thus the promisor might be unjustly enriched if 
+he could reclaim the subject of the promised gift after the promisee has improved it.
+Subsection (2) identifies two other classes of cases in which the promisee's claim is similarly reinforced.  
+American couts have traditionally favored charitable subscriptions and marriage settlements, and have found 
+consideration in many cases where the element of exchange was doubtful or nonexistent.  Where recovery is 
+rested on reliance in such cases, a probability of reliance is enough, and no effort is made to sort out mixed 
+motives or to cconsider whether partial enforcement would be appropriate.
+Illustrations:
+15.  A promises B $ 5000, knowing that B desires thatsum for the purchase of a parcel of land.  Induced 
+thereby, B secures without any payment an option to buy the parcel.  A then tells B that he withdraws his 
+promise.  A's promise is not binding.
+16.  A orally promises to give her son B a tract of land to live on.  As A intended, B gives up a homestead 
+elsewhere, takes possession of the land, lives there for a year and makes substantial improvements.  A's 
+promise is binding.
+17.  A orally promises to pay B, a university, $ 100,000 in five annual installments for the purposes of its fund-
+raising campaign then in progress.  The promise is confirmed in writing by A's agent, and two annual 
+
+§ 90 Promise Reasonably Inducing Action or Forbearance
+installments are paid before A dies.  The continuance of the fund-raising campaign by B is sufficient reliance to 
+make the promise binding on A and his estate.
+18.  A and B are engaged to be married.  In anticipation of the marriage A and his father C enter into a formal 
+written agreement by which C promises to leave certain property to A by will.  A's subsequent marriage to B is 
+sufficient reliance to make the promise binding on C and his estate.
+REPORTER'S NOTES
+The principal change from former § 90 is the recognition of the possibility of partial enforcement.  See Fuller & 
+Perdue, The Reliance Interest in Contract Damages: 1, 46 Yale L.J. 52, 63-65 (1936); id.: 2, 46 Yale L.J. 373, 
+401-06 (1937); Shattuck, Gratuitous Promises -- A New Writ?  35 Mich. L. Rev. 908 (1937); 1A Corbin, 
+Contracts § 205 (1963 & Supp. 1980). Partly because of that change, the requirement that the action or 
+forbearance have "a definite and substantial character" is deleted; and provision is added for reliance by 
+beneficiaries.  See Boyer, Promissory Estoppel: Requirements and Limitations of the Doctrine, 98 U. Pa. L. 
+Rev. 459 (1950); 1A Corbin, Contracts § 200 (1963 & Supp. 1980).  Subsection (2) is new.
+See, generally, 1 Williston, Contracts §§ 138-40 (3d ed. 1957); 1A Corbin, Contracts §§ 193-209 (1963 & Supp. 
+1980); Fuller, Consideration and Form, 41 Colum. L. Rev. 799, 810-12, 819 (1941); Boyer, Promissory 
+Estoppel: Principle from Precedents, 50 Mich. L. Rev. 639, 873 (1952); Henderson, Promissory Estoppel and 
+Traditional Contract Doctrine, 78 Yale L.J. 343 (1969); Annots., 115 A.L.R. 152 (1938), 48 A.L.R.2d 1069 
+(1956). For a discussion of the creation of former § 90, see Gilmore, The Death of Contract 58-76 (1974).
+Comment a.  See Seavey, Reliance on Gratuitous Promises or Other Conduct, 64 Harv. L. Rev. 913 (1951). 
+Illustration 1 is based on Illustration 3 to former § 90; cf.  Devecmon v. Shaw, 69 Md. 199, 14 A. 464 (1888); 
+Hamer v. Sidway, 124 N.Y. 538, 27 N.E. 256 (1891); compare Illustration 2 to former § 75; Gilmore, supra, at 
+70-71.
+For discussions of the differences between equitable estoppel and promissory estoppel, see Huhtala v. 
+Travelers Ins. Co., 401 Mich. 118, 257 N.W.2d 640 (1977); Tiffany, Inc. v. W.M.K. Transit Mix, Inc., 16 Ariz. 
+App. 415, 493 P.2d 1220 (1972); see also 1A Corbin, Contracts § 204 (1963) on why "reliance" is a more 
+satisfactory term and concept.
+On the meaning of "promise," see § 2 and Comments a and b to that Section.  Compare Goodman v. Dicker, 
+169 F.2d 684 (D.C. Cir. 1948); Division of Labor Law Enforcement v. Transpacific Trans. Co., 69 Cal. App.3d 
+268, 137 Cal. Rptr. 855 (1977); Tauber v. Jacobson, 293 A.2d 861 (D.C. 1972); Intermar, Inc. v. Atlantic 
+Richfield Co., 364 F. Supp. 82 (E.D. Pa. 1973); Henderson, Promissory Estoppel and Traditional Contract 
+Doctrine, 78 Yale L.J. 343, 364 (1969).
+Comment b.  For discussions of the concept of reliance, see, e.g., 1A Corbin, Contracts § 200 (1963); Corbit v. 
+J. I. Case Co., 70 Wash.2d 522, 424 P.2d 290 (1967) (relying on the "definite and substantial" language of 
+former § 90); Crail v. Blakely, 8 Cal.3d 744, 106 Cal. Rptr. 187, 505 P.2d 1027 (1973); In re Johnson's Estate, 
+74 Misc.2d 788, 364 N.Y.S.2d 283 (Surr. Ct. 1973); R. J. Taggart, Inc. v. Douglas County, 31 Or. App. 1137, 
+572 P.2d 1050 (1977). On the recurring problem of reliance by a contractor on a subcontractor's oral bid, see 
+§§ 25, 87; Henderson, Promissory Estoppel and Traditional Contract Doctrine, 78 Yale L.J. 343, 350-74 (1969); 
+Janke Constr. Co. v. Vulcan Maters. Co., 386 F. Supp. 687 (W.D. Wis. 1974), aff'd, 527 F.2d 772 (7th Cir. 
+1976). On franchises, see Goodman v. Dicker, 169 F.2d 684 (D.C. Cir. 1948); Hoffman v. Red Owl Stores, 26 
+Wis.2d 683, 133 N.W.2d 267 (1965), 51 Cornell L.Q. 351 (1966), 65 Mich. L. Rev. 351 (1966); Henderson, 
+supra, 78 Yale L.J. at 357-65; Calamari & Perillo, Contracts § 6-10 (2d ed. 1977).  On reliance and the Statute 
+of Frauds, see §§ 139, 150.
+Illustration 2 is based on Illustration 1 to former § 90.  Illustration 3 is based on McLearn v. Hill, 276 Mass. 519, 
+177 N.E. 617 (1931). Illustration 4 is based on Feinberg v. Pfeiffer Co., 322 S.W.2d 163 (Mo. Ct. App. 1959); cf.  
+Ricketts v. Scothorn, 57 Neb. 51, 77 N.W. 365 (1898); Illustration 2 to former § 90.  Contrast Division of Labor 
+Law Enforcement v. Transpacific Trans. Co., 69 Cal. App.3d 268, 137 Cal. Rptr. 855 (1977).
+Comment c.  Illustration 5 is based on Burgess v. California Mut. Bldg. & Loan Ass'n, 210 Cal. 180, 290 P. 1029 
+(1930); cf.  Spector v. National Cellulose Corp., 181 Misc. 465, 48 N.Y.S.2d 234 (1943). Illustration 6 is based 
+on D'Oench, Duhme & Co. v. FDIC, 315 U.S. 447 (1942); see Annots., 64 A.L.R. 595 (1929), 95 A.L.R. 534 
+(1935). Illustration 7 is based on Roberts-Horsfield v. Gedicks, 94 N.J. Eq. 82, 118 A. 275 (1922), aff'd mem., 
+96 N.J. Eq. 384, 124 A. 925 (Ct. Err. & App. 1924).
+
+§ 90 Promise Reasonably Inducing Action or Forbearance
+Comment d.  See Fuller & Perdue, The Reliance Interest in Contract Damages: 1, 46 Yale L.J. 52, 75-80 
+(1936), id.: 2, 46 Yale L.J. 373, 401-06 (1937). Illustration 8 is based on Goodman v. Dicker, 169 F.2d 684 
+(D.C. Cir. 1948) (lost profits denied); cf.  Terre Haute Brewing Co. v. Dugan, 102 F.2d 425 (8th Cir. 1939). 
+Illustration 9 is based on Chrysler Corp. v. Quimby, 51 Del. 254, 144 A.2d 123, 885 (1958) (lost profits granted).  
+Illustration 10 is based on Hoffman v. Red Owl Stores, 26 Wis.2d 683, 133 N.W.2d 267 (1965), 65 Mich. L. 
+Rev. 351 (1966); Henderson, Promissory Estoppel and Traditional Contract Doctrine, 78 Yale L.J. 343, 363-65 
+(1969). See also Janke Constr. Co. v. Vulcan Maters. Co., 386 F. Supp. 687 (W.D. Wis. 1974), aff'd, 527 F.2d 
+772 (7th Cir. 1976) (applying Hoffman v. Red Owl Stores to a construction bid dispute).  On the measure of 
+damages, see also §§ 347, 349.  Illustration 11 is based on Miller v. Lawlor, 245 Iowa 1144, 66 N.W.2d 267 
+(1954). Illustration 12 is based on Kaufman v. Miller, 214 Ill. App. 213 (1919); cf.  Aiello v. Knoll Golf Club, 64 
+N.J. Super. 156, 165 A.2d 531 (1960); see Annots., 101 A.L.R. 923, 985 (1936), 155 A.L.R. 76 (1945), 24 
+A.L.R.2d 11 (1952).
+Comment e.  As to the liability of an insurance broker or agent, see Rayden Eng'r Corp. v. Church, 337 Mass. 
+652, 151 N.E.2d 57 (1958); Spiegel v. Metropolitan Life Ins. Co., 6 N.Y.2d 91, 188 N.Y.S.2d 486, 160 N.E.2d 40 
+(1959); Annot., 29 A.L.R.2d 171 (1953). Illustration 13 is based on Graddon v. Knight, 138 Cal. App.2d 577, 
+292 P.2d 632 (1956); see East Providence Credit Union v. Geremia, 103 R.I. 597, 239 A.2d 725 (1968); cf.  
+Siegel v. Spear & Co., 234 N.Y. 479, 138 N.E. 414 (1923); Lusk-Harbison-Jones, Inc. v. Universal Credit Co., 
+164 Miss. 693, 145 So. 623 (1933). Illustration 14 is based on Northern Commercial Co. v. United Airmotive, 
+101 F. Supp. 169 (D. Alaska 1951).
+Comment f.  Subsection (2) of this Section, in Tentative Draft, was cited with approval in Salsbury v. 
+Northwestern Bell Tel. Co., 221 N.W.2d 609 (Iowa 1974); see also Calamari & Perillo, Contracts § 6-5 (2d ed. 
+1977).  Both of these authorities interpret Subsection (2) to treat charitable subscriptions as a sui generis 
+category requiring neither consideration nor reliance, and both approve of this approach.  In contrast, see 
+Jordan v. Mount Sinai Hosp., 276 So.2d 102 (Dist. Ct. App. 1973), aff'd, 290 So.2d 484 (Fla. 1974), 26 Baylor 
+L. Rev. 256 (1974). These cases and writers summarize and analyze many different approaches to the problem 
+of charitable subscriptions.  Illustration 15 was Illustration 4 to former § 90.  Illustration 16 is based on Greiner 
+v. Greiner, 131 Kan. 760, 293 P. 759 (1930). Illustration 17 is based on In re Field's Estate, 11 Misc.2d 427, 
+172 N.Y.S.2d 740 (1958); see Annots., 115 A.L.R. 589 (1938), 151 A.L.R. 1238 (1944). Illustration 18 is based 
+on Phalen v. United States Trust Co., 186 N.Y. 178, 78 N.E. 943 (1906); cf.  De Cicco v. Schweizer, 221 N.Y. 
+431, 117 N.E. 807 (1917).
+Cross Reference
+Digest System Key Numbers:
+Estoppel 85
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

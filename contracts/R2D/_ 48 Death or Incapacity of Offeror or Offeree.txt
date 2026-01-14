@@ -1,0 +1,48 @@
+Restat 2d of Contracts, § 48
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 48 Death or Incapacity of Offeror or Offeree
+An offeree's power of acceptance is terminated when the offeree or offeror dies or is deprived of legal 
+capacity to enter into the proposed contract.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Death of offeror.  The offeror's death terminates the power of the offeree without notice to him.  This rule 
+seems to be a relic of the obsolete view that a contract requires a "meeting of minds," and it is out of harmony 
+with the modern doctrine that a manifestation of assent is effective without regard to actual mental assent.  See 
+§ 19.  Some inroads have been made on the rule by statutes and decisions with respect to bank deposits and 
+collections, and by legislation with respect to powers of attorney given by servicemen.  See Uniform 
+Commercial Code § 4-405; Restatement, Second, Agency § 120 and Comment a.  In the absence of 
+legislation, the rule remains in effect.  See also Restatement of Security § 87.
+b.  Incapacity of offeror.  The common types of incapacity and their effects are indicated in the Comment to § 
+12.  The offeror's permanent lack of capacity to enter into a contract terminates the offeree's power of 
+acceptance in the same manner as the offeror's death.  Compare Restatement, Second, Agency §§ 122, 133; 
+Restatement of Security § 84.  But persons under a disability often have power to enter into voidable contracts.  
+See § 7 and Comment; §§ 12-16.
+c.  Death or incapacity of offeree.  Only the offeree can accept an offer which is not also a contract.  See § 52.  
+When the offeree dies or lacks capacity, therefore, acceptance is impossible.  Compare Comment b to § 36.  
+By the terms of the offer, however, the personal representative or distributee of the offeree may be made an 
+additional offeree.
+d.  Option contracts.  The rule stated in this Section does not affect option contracts.  See § 37.  But the death 
+or incapacity of one of the parties may discharge any contractual duty by reason of failure of consideration, 
+frustration, impossibility or failure of condition.  See § 36 and Comment.
+REPORTER'S NOTES
+This Section is based on former § 48.  See 1 Williston, Contracts §§ 62-63 (3d ed. 1957 & Supp. 1979), 1 
+Corbin, Contracts § 54 (1963 & Supp. 1980).
+Comment a.  See American Oil Co. v. Estate of Wigley, 251 Miss. 275, 169 So. 2d 454 (1964).
+Comment b.  In Swift & Co. v. Smigel, 115 N.J. Super. 391, 279 A.2d 895 (1971), the court held that a 
+revocable offer of guaranty made by a man later judged incompetent continued in force until the offeree 
+obtained actual or reasonably imputed knowledge of the offeror's incompetency.  The opinion cited Comment a 
+to this Section in Tentative Draft, and agreed with the criticism of the traditional rule as outmoded.  Compare 
+Union Trust & Sav. Bank v. State Bank, 188 N.W.2d 300 (Iowa 1971), also citing this Section in Tentative Draft.
+Comment d.  See Mubi v. Broomfield, 108 Ariz. 39, 492 P.2d 700 (1972); compare American Oil Co. v. Estate 
+of Wigley, supra.
+Cross Reference
+ALR Annotations:
+
+§ 48 Death or Incapacity of Offeror or Offeree
+Action ex contractu for damages caused by death.  86 A.L.R.2d 316.
+Digest System Key Numbers:
+Contracts 20
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

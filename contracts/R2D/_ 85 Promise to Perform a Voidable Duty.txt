@@ -1,0 +1,39 @@
+Restat 2d of Contracts, § 85
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 2- Contracts Without Consideration        
+§ 85 Promise to Perform a Voidable Duty
+Except as stated in § 93, a promise to perform all or part of an antecedent contract of the promisor, 
+previously voidable by him, but not avoided prior to the making of the promise, is binding.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Types of voidable contracts.  The rule of this Section may be thought of as implicit in the definition of 
+"voidable contract" in § 7.  Such a contract is distinguished from the "unenforceable contract" defined in § 8 by 
+the existence of a power of ratification.  The power of avoidance may rest on lack of capacity under the rules 
+stated in §§ 12-16, on mistake, misrepresentation, duress or undue influence under Chapters 6 and 7.  In such 
+cases exercise of the power of avoidance discharges the contractual duty and terminates the power of 
+ratification; conversely, exercise of the power of ratification terminates the power of avoidance.  See §§ 378-85.
+b.  Ratification and new promise.  This Section relates only to action which constitutes a promise under the 
+definition in § 2.  Such a promise may be binding under this Section or because of its formal character or 
+because it is supported by consideration or reliance.  Even though it is "binding" under this Section, the new 
+promise may itself be voidable for the same reason as the original promise, or it may be voidable or 
+unenforceable for some other reason.  See § 1, Comment g.  In particular, a few states require the new promise 
+of a former infant to be in writing and signed.  A power of avoidance may also be lost in various other ways: by 
+delay in giving notice, by failure to restore performance received, by exercise of dominion over things received, 
+or by change of circumstances.  See, e.g., as to avoidance for misrepresentation, § 164.
+Illustrations:
+1.  A is induced by B's fraud to promise $ 100 in return for a worthless chattel.  After discovering the fraud A 
+promises B to pay as agreed.  The promise is binding.
+2.  A, an infant, promises B to pay him $ 100 in consideration of a bicycle which B transfers to him.  The bicycle 
+is worth $ 60.  On coming of age A promises to pay B the sum he originally agreed to pay.  He is bound to do 
+so.  If instead of such a promise he promises to pay a smaller sum, as $ 40, he is also bound, but only to that 
+extent.
+REPORTER'S NOTES
+This Section was former § 89.  See 1 Williston, Contracts §§ 151-56, 204 (3d ed. 1957), 2 id. § 240 (3d ed. 
+1959); 1A Corbin, Contracts §§ 227-28 (1963 & Supp. 1980).
+Comment b.  Illustrations 1 and 2 were Illustrations 1 and 2 to former § 89.
+Cross Reference
+Digest System Key Numbers:
+Contracts 81
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

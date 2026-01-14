@@ -1,0 +1,45 @@
+Restat 2d of Contracts, § 383
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 5- Preclusion by Election and Affirmance        
+§ 383 Avoidance in Part
+A contract cannot be avoided in part except that where one or more corresponding pairs of part 
+performances have been fully performed by one or both parties the rest of the contract can be avoided.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  No avoidance in part.  A party who has the power of avoidance must ordinarily avoid the entire contract, 
+including any part that has already been performed.  He cannot disaffirm part of the contract that is particularly 
+disadvantageous to himself while affirming a more advantageous part, and an attempt to do so is ineffective as 
+a disaffirmance.  The rule stated in this Section does not preclude avoidance of only one of two or more entirely 
+separate contracts.  Nor does it prevent reformation of a part of a contract for either mistake or 
+misrepresentation.  See §§ 155 and 166.
+Illustration:
+1.  A makes a contract to work for B for a year and is induced by B's fraud to assent to a covenant under which 
+he agrees to refrain from entering into a similar business in the same town for three years after the termination 
+of the employment.  A discovers the fraud after he has worked for a month.  A cannot avoid the covenant not to 
+compete without avoiding the rest of the contract.
+b.  Exception for "divisible" contracts.  There is an exception to the general rule stated in this Section if the 
+contract is "divisible" in the sense that the performances to be exchanged can be apportioned into 
+corresponding pairs of part performances under the rule stated in § 240.  In that situation, if one or more pairs 
+of part performances have been fully performed by one or both parties, the party who has the power of 
+avoidance can avoid the rest of the contract only or can avoid the whole contract.
+Illustration:
+2.  A is induced by B's fraud to contract to sell B 1,200 tons of coal to be delivered in monthly installments of 
+100 tons, payment for each installment to be made on delivery.  A discovers the fraud after the second delivery.  
+If A avoids the contract, he must avoid the entire unperformed part, but he does not have to avoid the part that 
+has been performed unless he chooses to do so.
+REPORTER'S NOTES
+This Section extends to avoidance on any ground the rule of former § 487, which was restricted to avoidance 
+for misrepresentation.  See 5 Corbin, Contracts § 1114 (1964 & Supp. 1980); 12 Williston, Contracts § 1460 (3d 
+ed. 1970).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 487; cf.  Miner v. Bradley, 39 Mass. (22 Pick.) 
+457 (1839).
+Comment b.  Illustration 2 is based on Illustration 3 to former § 487; cf.  Alabama Football, Inc. v. Greenwood, 
+452 F. Supp. 1191 (W.D. Pa. 1978) (frustration of purpose).
+Cross Reference
+Digest System Key Numbers:
+Contracts 98
+Restatement of the Law, Second, Contracts
+
+§ 383 Avoidance in Part
+Copyright (c) 1981, The American Law Institute
+End of Document

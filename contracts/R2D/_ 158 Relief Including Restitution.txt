@@ -1,0 +1,112 @@
+Restat 2d of Contracts, § 158
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 6- Mistake        
+§ 158 Relief Including Restitution
+(1)  In any case governed by the rules stated in this Chapter, either party may have a claim for relief 
+including restitution under the rules stated in §§ 240 and 376.
+(2)  In any case governed by the rules stated in this Chapter, if those rules together with the rules stated 
+in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires 
+including protection of the parties' reliance interests.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Scope.  A court may use several techniques to adjust the rights of the parties after discovery of a mistake.  
+Subsection (1) speaks to claims for relief such as that provided by the rule on part performances as agreed 
+equivalents stated in § 240 and those on restitution and other relief stated in Chapter 16.  Subsection (2) 
+speaks to supplying a term to avoid injustice.  See the analogous rule stated in § 272.
+b.  Relief including restitution.  Avoidance of a contract ideally involves a reversal of any steps that the parties 
+may have taken by way of performance, so that each party returns such benefit as he may have received.  This 
+is not, however, possible in all cases.  Occasionally a party who has performed may be entitled to recover on 
+the contract for the part that he has performed under the rule on part performances as agreed equivalents (§ 
+240).  Even where this is not so, it may be appropriate to permit avoidance coupled with a money claim for 
+restitution to the extent that one party's performance has benefited the other.  Such claims are governed by the 
+rules stated in §§ 370-77.  A party may also have a claim that goes beyond mere restitution and includes 
+elements of reliance by the claimant.  See, e.g., Illustration 8 to § 153.
+c.  Supplying a term to avoid injustice.  Under the rule stated in § 204, when the parties have not agreed with 
+respect to a term that is essential to a determination of their rights and duties, the court will supply a term that is 
+reasonable in the circumstances.  Ordinarily the rules stated in this Chapter, coupled with those stated in 
+Chapter 16, will be adequate to allow the court to arrive at a just result.  See Subsection (1).  If, however, these 
+rules will not suffice to avoid injustice, the court may supply a term just as it may in cases of impracticability of 
+performance and frustration of purpose.  See § 272(2) and Comment c to that section.  Here, as there, a 
+particularly significant application occurs when the just solution is to "sever" the agreement and require that 
+some unexecuted part of it be performed on both sides, rather than to relieve both parties of all their duties.  
+The situation differs from that envisioned in § 240, under which the court merely allows recovery at the contract 
+rate for performance that has already been rendered.  The question under this Section is whether the court can 
+salvage a part of the agreement that is still executory on both sides.  See Illustration 1.
+Sometimes the party who is not adversely affected by a mistake can, by assenting to a modification of the 
+contract, eliminate the effect of the mistake on the agreed exchange.  He should generally be allowed to do so 
+and thereby to preclude avoidance by the party who would otherwise be adversely affected.  A court may, 
+under Subsection (2), grant the party who has not been adversely affected what is, in effect, an option to 
+enforce the contract on new terms.  See Illustration 2.
+The Court may also exercise its discretion under Subsection (2) where both parties have been responsible for 
+the mistake.  It may do so, for example, where a mistake of one party resulted both from his failure to act in 
+good faith and in accordance with reasonable standards of fair dealing (§ 157) and from the fault of the other 
+party (§ 153(b)).  See Comment f to § 153.  Furthermore, for the sake of simplicity, the rules stated in this 
+Chapter have been formulated in terms of the typical contract based on an exchange of consideration by two 
+parties, and it does not, therefore, deal exhaustively with problems of mistake involving several parties (§ 9) 
+
+§ 158 Relief Including Restitution
+including intended beneficiaries (§ 302), promises enforceable because of reliance (§ 90), promises 
+enforceable because under seal (§ 95), and other less typical situations.  In such cases, the court will apply 
+rules analogous to those stated in this Chapter.  See Comments b, d, and e to § 155.  The situations dealt with 
+in Subsection (2) are to be distinguished from those envisioned by § 155, where a writing is reformed to carry 
+out the intentions of the parties.
+Illustrations:
+1.  A contracts to sell and B to buy a tract of land, described in the contract as containing 100 acres, at a price 
+of $ 100,000, calculated from the acreage at $ 1,000 an acre.  In fact the tract contains only 90 acres.  Under 
+the rule stated in § 152, the contract would be voidable by B.  If, however, the court decides that this rule will 
+not avoid injustice, it is within the discretion of the court to grant relief on such terms as justice requires.  The 
+contract is not then voidable by B.  See Illustration 11 to § 152.
+2.  The facts being otherwise as stated in Illustration 1, the tract in fact contains 110 acres.  Under the rule 
+stated in § 152, the contract would be voidable by A.  If, however, the court decides that this rule will not avoid 
+injustice, it is within the discretion of the court to grant relief on such terms as justice requires.  Compare 
+Illustration 2 to § 152.
+3.  A sends B two different offers of a contract, one with an option for renewal by A and one without such an 
+option.  B signs the one with an option, believing that it is the other one.  Under the rule stated in § 153, if the 
+court found that enforcement of the contract would be unconscionable, the contract would be voidable by B.  If, 
+however, the court decides that this rule will not avoid injustice, it may supply a term, if reasonable, under which 
+B is entitled to avoid the contract only if he accepts the other offer.
+REPORTER'S NOTES
+This Section is new.  It is similar in form and in purpose to § 272.  The statement of substantive rules governing 
+claims under Subsection (1) is deferred to Chapter 16.  Subsection (2) is a specific application of the more 
+general rule stated in § 204.  See 3 Corbin, Contracts § 604 (1960 & Supp. 1980); 13 Williston, Contracts § 
+1571 (3d ed. 1970).
+Comment b.  Examples of courts allowing money judgments in mistake cases include Brecht v. Schramm, 266 
+N.W.2d 514 (Minn. 1978) (contract to care for aging aunt rescinded; niece given restitutionary award for 
+services already performed); Meyer v. Benko, 55 Cal. App.3d 937, 127 Cal. Rptr. 846 (1976) (sellers' defense 
+rejected because of mistake; proper remedy is specific performance plus damages to buyers equal to rental 
+value less interest on purchase price during period of delay); Atchison v. City of Englewood, 193 Colo. 367, 568 
+P.2d 13 (1977) (former owners of land found to have a right of first refusal despite mistaken inclusion of 
+provision violating rule against perpetuities; contract reformed to strike offending provision; because specific 
+performance would be impracticable, former owners entitled to difference between market price and option 
+price).
+Comment c.  For a discussion of the court's power to shape the remedy according to the circumstances of the 
+case, see National Presto Indus. v. United States, 167 Ct. Cl. 749, 338 F.2d 99 (1964), cert. denied, 380 U.S. 
+962 (1965). Illustration 1 is based on Illustration 10 to former § 502; cf.  Maffet v. Schaar, 89 Kan. 403, 131 P. 
+589 (1913); Colvin v. Baskett, 407 S.W.2d 19 (Tex. Civ. App. 1966); Dlug v. Wooldridge, 189 Colo. 164, 538 
+P.2d 883 (1975). Compare Hatcher v. Union Trust Co., 174 Minn. 241, 219 N.W. 76 (1928), with Brooks v. 
+Towson Realty, 223 Md. 61, 162 A.2d 431 (1960). Illustration 2 is based on Illustration 9 to former § 504; Biren 
+v. Kluver, 35 Ill. App.3d 692, 342 N.E.2d 325 (1976); Bartlett v. Department of Transp., 40 Md. App. 47, 388 
+A.2d 930 (1978); cf.  Dvorak v. Kuhn, 175 N.W.2d 697 (N.D. 1970); Lawrence v. Staigg, 8 R.I. 256 (1866); 
+Brown v. Lamphear, 35 Vt. 252 (1862); see also McMahan v. Terkhorn, 67 Ind. App. 501, 116 N.E. 327 (1917). 
+For cases giving the purchaser the choice of paying for the excess or accepting a conveyance without the 
+excess, see Miller v. Craig, 83 Ky. 623 (1886); O'Connell v. Duke, 29 Tex. 299 (1867). Illustration 3 is based on 
+Miller v. Stanich, 202 Wis. 539, 230 N.W. 47 (1930), mod. on reh., 202 Wis. 539, 233 N.W. 753 (1930).
+Cross Reference
+ALR Annotations:
+
+§ 158 Relief Including Restitution
+Measure and elements of damages recoverable from vendor where there has been mistake as to amount of 
+land conveyed.  94 A.L.R.3d 1091.
+Right of insurer under health or hospitalization policy to restitution of payments made under mistake.  79 
+A.L.R.3d 1113.
+Vendor and purchaser: Mutual mistake as to physical condition of realty as ground for rescission.  50 A.L.R.3d 
+1188.
+Circumstances justifying delay in rescinding land contract after learning of ground of rescission.  1 A.L.R.3d 
+542.
+Relief by way of rescission or adjustment of purchase price for mutual mistake as to quantity of land, where the 
+sale is in gross.  1 A.L.R.2d 9.
+Digest System Key Numbers:
+Implied and Constructive Contracts 55-65
+Reformation of Instruments 47
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

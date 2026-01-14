@@ -1,0 +1,54 @@
+Restat 2d of Contracts, § 173
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 173 When Abuse of a Fiduciary Relation Makes a Contract Voidable
+If a fiduciary makes a contract with his beneficiary relating to matters within the scope of the fiduciary 
+relation, the contract is voidable by the beneficiary, unless
+(a)  it is on fair terms, and
+(b)  all parties beneficially interested manifest assent with full understanding of their legal rights and of 
+all relevant facts that the fiduciary knows or should know.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Equal footing.  The rule stated in this Section applies to any fiduciary, including a trustee, an agent, a 
+guardian, or an executor or administrator.  See Restatement, Second, Trusts § 170(2).  It is more severe than 
+the rule relating to non-disclosure in the case of one who stands in a relation of trust and confidence but who is 
+not a fiduciary.  See § 161(b); cf. § 169(a).  When a fiduciary makes a contract with the person beneficially 
+interested, it is not enough that he make a complete disclosure of the facts known to him.  The person 
+beneficially interested must be put on an equal footing, with full understanding of his legal rights and of all 
+relevant facts that the fiduciary knows or should know.  If that person is not of competent age and 
+understanding, this may be difficult if not impossible to achieve.  If it is impossible, the fiduciary is precluded 
+from making a contract with him within the scope of the fiduciary relation.
+b.  Fairness.  In addition to assuring itself that the parties were placed on an equal footing, a court will inquire 
+into the fairness of the resulting agreement.  What is required is not merely the absence of unconscionability, as 
+is the case for contracts in general.  The contract is voidable unless it is shown to be on fair terms in the light of 
+the circumstances at the time of its making.
+Illustration:
+1.  A, the executor of a will under which a tract of land has been devised to B, makes a contract with B to buy 
+the tract from him.  Before making the contract, A tells B all relevant facts about the transaction.  The contract is 
+voidable by B unless the court concludes that it is on fair terms.
+c.  Relation to other rules.  The rule stated in this Section applies only where the fiduciary is a party to the 
+contract.  As to the effect of misrepresentation or non-disclosure by a fiduciary who is not a party to the 
+contract, see §§ 161(a), 169(a), which apply to any relation of trust and confidence, including a fiduciary 
+relation.  The rule stated in this Section, like those stated in §§ 164, 175 and 177, only makes the contract 
+voidable, and the power of avoidance is subject to the rights of good faith purchasers and to the rules stated in 
+Chapter 16 on remedies.
+REPORTER'S NOTES
+This Section is based on former § 498.  See Restatement, Second, Trusts § 170(2); 3 Bogert, Trusts and 
+Trustees § 544 (2d ed. 1960); Bogert & Bogert, Law of Trusts § 96 (5th ed. 1973); 3 Scott, Trusts § 216 (3d ed. 
+1967); James & Gray, Misrepresentation -- Part II, 37 Md. L. Rev. 488, 524-27 (1978).
+Comment b.  Illustration 1 is based on Owens v. Owens, 196 Va. 966, 86 S.E.2d 181 (1955). On the 
+determination of fairness, see Lillard v. Walsh, 172 Cal. App.2d 674, 342 P.2d 82 (1959); Mitchell v. Wyckoff, 
+122 Conn. 48, 186 A. 709 (1936).
+
+§ 173 When Abuse of a Fiduciary Relation Makes a Contract Voidable
+Cross Reference
+ALR Annotations:
+Comment Note. -- "Out of pocket" or "benefit of bargain" as proper rule of damages for fraudulent 
+representations inducing contract for the transfer of property.  13 A.L.R.3d 875.
+Circumstances justifying delay in rescinding land contract after learning of ground of rescission.  1 A.L.R.3d 
+542.
+Digest System Key Numbers:
+Contracts 96
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

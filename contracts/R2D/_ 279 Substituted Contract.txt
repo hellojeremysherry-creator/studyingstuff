@@ -1,0 +1,74 @@
+Restat 2d of Contracts, § 279
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 2- Substituted Performance, Substituted Contract, 
+Accord and Account Stated        
+§ 279 Substituted Contract
+(1)  A substituted contract is a contract that is itself accepted by the obligee in satisfaction of the 
+obligor's existing duty.
+(2)  The substituted contract discharges the original duty and breach of the substituted contract by the 
+obligor does not give the obligee a right to enforce the original duty.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Nature and effect of a substituted contract.  A substituted contract is one that is itself accepted by the 
+obligee in satisfaction of the original duty and thereby discharges it.  A common type of substituted contract is 
+one that contains a term that is inconsistent with a term of an earlier contract between the parties.  If the parties 
+intend the new contract to replace all of the provisions of the earlier contract, the contract is a substituted 
+contract.  If a substituted contract brings in a new party it is called a "novation" (§ 280).
+Illustrations:
+1.  A is under a duty to deliver a tractor to B on July 1.  On June 1, A offers to deliver a bulldozer to B on July 1 
+if B will accept his promise in satisfaction of A's duty to deliver the tractor, and B accepts.  The contract is a 
+substituted contract.  A's duty to deliver the tractor is discharged.  If A does not deliver the bulldozer, B can 
+enforce the duty to deliver it but not the original duty to deliver the tractor.
+2.  A and B make a contract under which A promises to build on a designated spot a building, for which B 
+promises to pay $ 100,000.  Later, before this contract is performed, A and B make a new contract under which 
+A is to build on the same spot a different building, for which B is to pay $ 200,000.  The new contract is a 
+substituted contract and the duties of A and B under the original contract are discharged.
+b.  Validity of substituted contract.  Under the rule stated in § 273, although the discharge that results from a 
+substituted contract is an immediate change in the legal relations between the obligor and the obligee and 
+involves no promise by the obligee, it is not effective unless it is supported by consideration or some substitute 
+for consideration.  See Comment c to § 278.  Furthermore, to the extent that the substituted contract is 
+vulnerable on such grounds as mistake, misrepresentation, duress or unconscionability, recourse may be had 
+on the original duty.  Thus, if the substituted contract is voidable, it discharges the original duty until avoidance, 
+but on avoidance of the substituted contract the original duty is again enforceable.  If the substituted contract is 
+unenforceable because of the Statute of Frauds, it does not bar enforcement of the original duty.  Cf. § 149.
+Illustrations:
+3.  A owes B a liquidated and undisputed matured debt of $ 1,000.  A offers to pay B $ 500 in 30 days if B will 
+accept his promise in full satisfaction of the debt, and B accepts.  A's debt is not discharged.  See Illustration 3 
+to § 278.
+4.  The facts being otherwise as stated in Illustration 1, A by fraudulent misrepresentations induces B to make 
+the contract for delivery of the bulldozer.  B may avoid the substituted contract and enforce the original contract, 
+or he may enforce the substituted contract.
+c.  Accord distinguished.  Because the original duty is discharged regardless of whether the substituted contract 
+is performed, a substituted contract differs from an accord, under which the original duty is discharged only if 
+the accord is performed.  See § 281.  Whether a contract is a substituted contract or an accord is a question of 
+interpretation, subject to the general rules stated in Chapter 9.  In resolving doubts in this regard, a court is less 
+
+§ 279 Substituted Contract
+likely to conclude that an obligee was willing to accept a mere promise in satisfaction of an original duty that 
+was clear than in satisfaction of one that was doubtful.  It will therefore be less likely to find a substituted 
+contract and more likely to find an accord if the original duty was one to pay money, if it was undisputed, if it 
+was liquidated and if it was matured.  Compare Illustration 1 with Illustration 1 to § 281.
+REPORTER'S NOTES
+This Section is based on former § 418.  See 6 Corbin, Contracts §§ 1293, 1296 (1962 & Supp. 1980); 15 
+Williston, Contracts § 1846 (3d ed. 1972).
+Comment a.  This Comment is based in part on former § 408.  Illustration 1 is based on Illustration 2 to former § 
+419; see also Ohlson v. Steinhauser, 218 Or. 532, 346 P.2d 87 (1959). Illustration 2 is based on Illustration 1 to 
+former § 408.
+Comment b.  Illustration 3 is new.  Illustration 4 is based on Illustration 4 to former § 408; see Morfeld v. 
+Andrews, 579 P.2d 426 (Wyo. 1978); Fratelli Gardino, S.p.A. v. Caribbean Lumber Co., 587 F.2d 204 (dictum), 
+reh. denied, 590 F.2d 333 (5th Cir. 1979).
+Comment c.  This Comment is based on former § 419.  See Goldbard v. Empire State Mut. Life Ins. Co., 5 
+A.D.2d 230, 171 N.Y.S.2d 194 (1958). National American Corp. v. Federal Republic of Nigeria, 448 F. Supp. 
+622, 642-44 (S.D.N.Y.), aff'd, 597 F.2d 314 (2d Cir. 1978); cf.  Leschorn v. Xericos, 121 Ariz. 77, 588 P.2d 370 
+(Ct. App. 1978).
+Cross Reference
+ALR Annotations:
+Right to reformation of contract or instrument as affected by intervening rights of third persons.  79 A.L.R.2d 
+1180.
+Vendee's liability for use and occupancy of premises, where vendor disaffirms an unenforceable land contract.  
+49 A.L.R.2d 1169.
+Digest System Key Numbers:
+Contracts 245
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

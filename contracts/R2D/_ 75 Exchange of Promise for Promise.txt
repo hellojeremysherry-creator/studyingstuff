@@ -1,0 +1,73 @@
+Restat 2d of Contracts, § 75
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+§ 75 Exchange of Promise for Promise
+Except as stated in §§ 76 and 77, a promise which is bargained for is consideration if, but only if, the 
+promised performance would be consideration.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  The executory exchange.  In modern times the enforcement of bargains is not limited to those partly 
+completed, but is extended to the wholly executory exchange in which promise is exchanged for promise.  In 
+such a case the element of unjust enrichment is not present; the element of reliance, if present at all, is less 
+tangible and direct than in the case of the half-completed exchange.  The promise is enforced by virtue of the 
+fact of bargain, without more.  Since the principle that bargains are binding is widely understood and is 
+reinforced in many situations by custom and convention, the fact of bargain also tends to satisfy the cautionary 
+and channeling functions of form.  Compare Comments b and c to § 72.  Evidentiary safeguards, however, are 
+largely left to the Statute of Frauds rather than to the requirement of consideration.  See Chapter 5.
+b.  Promise and performance.  The principle of this Section is that, in determining whether there is 
+consideration, one's word is as good as one's deed but no better.  More detailed rules are stated in §§ 76-78 for 
+cases in which the application of this principle has produced problems.  Certain cases which have sometimes 
+been thought to be exceptions to the principle are commented upon below.
+c.  Performance of legal duty and settlement of claims.  A promise to perform a legal duty is not consideration 
+for a return promise unless performance would be.  Similarly, a promise to surrender a claim or defense or to 
+forbear from asserting it is consideration only if performance would be.  Thus a promise of such performance 
+may raise the same questions as the performance would: Is the duty owed to the maker of the return promise?  
+Is the claim or defense known to be invalid?  See §§ 73, 74.
+Illustrations:
+1.  A promises to pay a debt to B, or to perform an existing contractual duty to B, or to perform his duty as a 
+public official.  The legal duty is neither doubtful nor the subject of honest dispute, but A would not have fulfilled 
+the duty but for B's return promise.  A's promise is not consideration for B's return promise.  Compare § 73.
+2.  A promises B to surrender or to forbear suit upon a claim either against B or against C.  A knows the claim is 
+invalid.  A's promise is not consideration for a return promise by B.  Compare § 74.
+d.  "Void" promises.  The value of a promise does not necessarily depend upon the availability of a legal 
+remedy for breach, and bargains are often made in consideration of promises which are voidable or 
+unenforceable.  Such a promise may be consideration for a return promise.  See § 78.  But it is sometimes 
+suggested that a promise is not consideration if it is not binding, or if it is "void." The examples used commonly 
+involve total lack of capacity to contract (see §§ 12, 13), indefinite promises (see §§ 33-34), promises lacking 
+consideration, or promises unenforceable as against public policy (see Chapter 8).  Such cases are not 
+exceptions to the rule stated in this Section.  In some of them there is no promise within the definition in § 2, in 
+others the return promise would not be binding whether the consideration consisted of a promise or of 
+performance, in some the invalidity of the return promise rests on other policies than those embodied in the 
+requirement of consideration.
+Illustrations:
+3.  While A's property is under guardianship by reason of an adjudication of mental illness, A makes an 
+agreement with B in which B makes a promise.  B's promise is not a contract, whether the consideration 
+consists of a promise by A or performance by A.  Compare § 13; Restatement of Restitution § 139.
+
+§ 75 Exchange of Promise for Promise
+4.  A promises to forbear suit against B in exchange for B's promise to pay a liquidated and undisputed debt to 
+A.  A's promise is not binding because B's promise is not consideration under § 73, but A's promise is 
+nevertheless consideration for B's.  Moreover, B's promise would be enforceable without consideration under § 
+82.  On either basis, B's promise is conditional on A's forbearance and can be enforced only if the condition is 
+met.
+5.  A, a married man, and B, an unmarried woman, make mutual promises to marry.  B neither knows nor has 
+reason to know that A is married.  B's promise is consideration and B may recover damages from A for breach 
+of his promise though B would have a defense to a similar action by A.  See § 180.
+6.  A promises B $ 100 in return for B's promise to cut timber on land upon which A is a trespasser.  B neither 
+knows nor has reason to know that A is not privileged to cut the timber.  B's promise is consideration and B may 
+recover damages from A for breach of his promise though B would have a defense to a similar action by A.  
+See Illustration 2 to § 180.
+REPORTER'S NOTES
+This Section consolidates subjectmatter found in former §§ 77, 78, 80 and 84(e).  See 1 Williston, Contracts §§ 
+103, 106, 123 (3d ed. 1957); 1 Corbin, Contracts §§ 142-47 (1963 & Supp. 1980).
+Comment c.  Illustrations 1 and 2 are based on Illustrations 1 and 2 to former § 78.
+Comment d.  Illustration 3 is based on Illustration 2 to former § 80.  Illustration 4, contrary to Illustration 4 to 
+former § 80, adopts the result but not the reasoning of Hay v. Fortier, 116 Me. 455, 102 A. 294 (1917), following 
+the reasoning of Ward v. Goodrich, 34 Colo. 369, 82 P. 701 (1905). Illustrations 5 and 6 are Illustrations 5 and 6 
+to former § 80.
+Cross Reference
+Digest System Key Numbers:
+Contracts 56
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

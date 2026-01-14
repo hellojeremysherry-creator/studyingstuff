@@ -1,0 +1,110 @@
+Restat 2d of Contracts, § 384
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 5- Preclusion by Election and Affirmance        
+§ 384 Requirement That Party Seeking Restitution Return Benefit
+(1) Except as stated in Subsection (2), a party will not be granted restitution unless
+(a) he returns or offers to return, conditional on restitution, any interest in property that he has received 
+in exchange in substantially as good condition as when it was received by him, or
+(b) the court can assure such return in connection with the relief granted.
+(2) The requirement stated in Subsection (1) does not apply to property
+(a) that was worthless when received or that has been destroyed or lost by the other party or as a result 
+of its own defects,
+(b) that either could not from the time of receipt have been returned or has been used or disposed of 
+without knowledge of the grounds for restitution if justice requires that compensation be accepted in 
+its place and the payment of such compensation can be assured, or
+(c) as to which the contract apportions the price if that part of the price is not included in the claim for 
+restitution.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Duty to return benefit.  A party who seeks restitution of a benefit that he has conferred on the other party is 
+expected to return what he has received from the other party.  The objective is to return the parties, as nearly 
+as is practicable, to the situation in which they found themselves before they made the contract.  If a party has 
+received land, goods or other property, he is expected to return it.  The fact that he has benefited from 
+possession of them does not preclude restitution since he can compensate the other party in money for this 
+benefit.  The property itself, however, must generally be returned.  If it has been used, destroyed or 
+substantially altered in character while in his possession, restitution is generally not available.  Mere 
+depreciation in market value, however, is not such a change as will preclude restitution.  Cf. Uniform 
+Commercial Code § 2-608.
+b.  Necessity of offer to return.  If a party seeking restitution offers to return what he has received, he may make 
+his offer conditional on restitution being made to him.  To this end, the law gives him a lien on what he has 
+received.  See § 380(3).  In equity, his failure to make such an offer before commencing a suit for rescission did 
+not preclude relief.  The decree could be made conditional on an offer.  At law, however, an offer was 
+traditionally regarded as a condition of the right to commence an action based on rescission.  The merger of 
+law and equity and modern procedural reforms have made this distinction undesirable, and the rule stated in 
+this Section reflects the increasing criticism of the rule at law.  If the court has the power to assure the required 
+return in connection with the relief that it grants, it is not necessary that there have been a prior return or offer to 
+return.  If all that is to be returned is money, a credit against a larger sum allowed in restitution will suffice.  In 
+other cases a conditional judgment will be proper.  A court may, in awarding costs, take account of any failure 
+by the party seeking restitution to afford the other party an adequate opportunity to make restitution without the 
+commencement of legal process.  This is particularly appropriate in cases, such as mutual mistake, 
+impracticability of performance or frustration of purpose, in which the other party is in no way at fault.  Even 
+
+§ 384 Requirement That Party Seeking Restitution Return Benefit
+though an offer to return property is not necessary under the rule stated in this Section, the retention of property 
+together with the exercise of dominion over it may preclude avoidance under the rule stated in § 380.
+Illustrations:
+1.  A contracts to sell to B a factory and a patent and B makes a part payment of $ 100,000.  A assigns the 
+patent but fails to transfer the factory to B.  B sues A asking restitution of $ 100,000 without offering to reassign 
+the patent.  B is entitled to a judgment for that amount conditional on his tender of a reassignment of the patent.
+2.  A is induced by B's fraudulent misrepresentations to contract to sell to B for $ 10,000 an antique worth $ 
+100,000.  A delivers the antique and B pays the $ 10,000.  On discovery of the fraud, A demands the return of 
+the antique without offering to repay the $ 10,000.  On B's refusal, A sues B in conversion for the value of the 
+antique.  A is entitled to a judgment for $ 90,000, the value of the antique less $ 10,000.
+3.  The facts being otherwise as stated in Illustration 2, A sues B in replevin and posts a bond.  If the procedure 
+in replevin does not permit an adequate opportunity for the determination of A's claim of fraud before return of 
+the antique to him, replevin will be denied on the ground that he has not offered to return the $ 10,000.
+c.  Where no offer of return required.  In some instances there is no requirement of an offer to return.  This is so 
+if the property was worthless when received or if its destruction or loss was caused by the other party or by its 
+own defects.  See Illustration 4.  It may also be so if it was never possible to return the property or if it has 
+become impossible because the recipient used or disposed of it before he had knowledge of the grounds for 
+restitution.  See Illustrations 5 and 6.  In those cases no offer need to be made if justice requires that 
+compensation be accepted in place of the property and if the payment of such compensation can be assured.  
+In determining what justice requires, consideration will be given to all the circumstances, including any 
+misconduct such as fraud or duress by the other party.  A party who receives only property that he already 
+owned receives no interest and is not subject to the rule stated in Subsection (1) at all.  Furthermore, if the 
+contract apportions the price among various pieces of property, restitution of the price as to part of the property 
+may be had on a return of only that part if the price as to the unreturned property is not included in the claim for 
+restitution.  See Illustration 7.
+Illustrations:
+4.  A contracts to work on B's ranch in return for a number of cattle warranted by B to be sound.  After A has 
+done the work and B has delivered the cattle, they are discovered to have hoof and mouth disease and are 
+destroyed by government order.  A is entitled to restitution of the reasonable value of his services.
+5.  A puts his son in B's private school, paying a year's tuition in advance.  During the first month of school, the 
+son is wrongfully expelled by B.  A is entitled to restitution of the amount of tuition paid less the benefit to A of 
+B's services during the first month.
+6.  A contracts to buy from B his seat on the stock exchange, his good will and the furniture in his office and 
+pays $ 10,000 as part of the price.  B delivers the furniture and A sells it to others.  Later B refuses to perform 
+the rest of the contract.  A is entitled to restitution of $ 10,000 less compensation to B for the furniture.
+7.  A contracts to lease a plow and a tractor to B, to be used together.  The price is stated to be $ 200 for the 
+plow and $ 500 for the tractor, and B pays the full $ 700 in advance.  A delivers the plow but fails to deliver the 
+tractor.  B can offer to return the plow and get restitution of $ 700.  Because the prices are apportioned, B can 
+also keep the plow and get restitution of $ 500.
+REPORTER'S NOTES
+This Section is based on former §§ 349, 480, 481.  The requirement of an offer to return performance received 
+has been relaxed in view of the merger of law and equity and modern procedural reforms.  See 5 Corbin, 
+Contracts §§ 1114, 1116 (1964 & Supp. 1980); 12 Williston, Contracts § 1460A (3d ed. 1970); Dobbs, 
+Remedies § 4.8 (1973); 1 Palmer, Law of Restitution §§ 3.11, 3.12 (1978); Dobbs, Pressing Problems for the 
+Plaintiff's Lawyer in Rescission: Election of Remedies and Restoration of Consideration, 26 Ark. L. Rev. 322, 
+346 (1972). As to releases, see Havighurst, Problems Concerning Settlement Agreements, 53 Nw. U.L. Rev. 
+283, 308-13 (1958).
+Comment b.  See the discussion of the requirement of a tender in Vickers v. Gifford-Hill & Co., 534 F.2d 1311 
+(8th Cir. 1976). Illustration 1 is based on Illustration 4 to former § 349.  Illustration 2 is based on Illustration 2 to 
+former § 480.  Illustration 3 is suggested by Dobbs, Remedies § 4.8 (1973); Dobbs, Pressing Problems for the 
+
+§ 384 Requirement That Party Seeking Restitution Return Benefit
+Plaintiff's Lawyer in Rescission: Election of Remedies and Restoration of Consideration, 26 Ark. L. Rev. 322, 
+348 (1972).
+Comment c.  Illustration 4 is based on Illustration 7 to former § 349.  Illustration 5 is based on Illustration 7 to 
+former § 349; see also Illustrations 8 and 9 to former § 349.  Illustration 6 is based on Illustration 10 to former § 
+349.  Illustration 7 is based on Illustration 5 to former § 349.
+Cross Reference
+ALR Annotations:
+Seller's recovery of price of goods from buyer under UCC § 2-709.  90 A.L.R.3d 1141.
+Judgment in action on express contract for labor or services as precluding, as a matter of Res Judicata, 
+subsequent action on implied contract (quantum meruit) or vice versa.  35 A.L.R.3d 874.
+Digest System Key Numbers:
+Cancellation of Instruments 23, 24
+Contracts 265, 266
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

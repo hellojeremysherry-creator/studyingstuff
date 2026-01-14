@@ -1,0 +1,89 @@
+Restat 2d of Contracts, § 346
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 2- Enforcement by Award of Damages        
+§ 346 Availability of Damages
+(1) The injured party has a right to damages for any breach by a party against whom the contract is 
+enforceable unless the claim for damages has been suspended or discharged.
+(2) If the breach caused no loss or if the amount of the loss is not proved under the rules stated in this 
+Chapter, a small sum fixed without regard to the amount of loss will be awarded as nominal damages.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Right to damages.  Every breach of contract gives the injured party a right to damages against the party in 
+breach, unless the contract is not enforceable against that party, as where he is not bound because of the 
+Statute of Frauds.  The resulting claim may be one for damages for total breach or one for damages for only 
+partial breach.  See § 236.  Although a judgment awarding a sum of money as damages is the most common 
+judicial remedy for breach of contract, other remedies, including equitable relief in the form of specific 
+performance or an injunction, may be also available, depending on the circumstances.  See Topic 3.  In the 
+exceptional situation of a contract for transfer of an interest in land that is unenforceable under the Statute of 
+Frauds, action in reliance makes the contract enforceable by specific performance even though it gives rise to 
+no claim for damages for breach.  See Comment c to § 129.  A duty to pay damages may be suspended or 
+discharged by agreement or otherwise, and if it is discharged the claim for damages is extinguished.  See 
+Introductory Note to Chapter 12.  When this happens, the right to enforcement by other means such as specific 
+performance or an injunction is also extinguished.  If the duty of performance, as distinguished from the duty to 
+pay damages, has been suspended or discharged, as by impracticability of performance or frustration of 
+purpose, there is then no breach and this Section is not applicable.
+The parties can by agreement vary the rules stated in this Section, as long as the agreement is not invalid for 
+unconscionability (§ 208) or on other grounds.  The agreement may provide for a remedy such as repair or 
+replacement in substitution for damages.  See Uniform Commercial Code § 2-719.
+b.  Nominal damages.  Although a breach of contract by a party against whom it is enforceable always gives 
+rise to a claim for damages, there are instances in which the breach causes no loss.  See Illustration 1.  There 
+are also instances in which loss is caused but recovery for that loss is precluded because it cannot be proved 
+with reasonable certainty or because of one of the other limitations stated in this Chapter.  See §§ 350-53.  In 
+all these instances the injured party will nevertheless get judgment for nominal damages, a small sum usually 
+fixed by judicial practice in the jurisdiction in which the action is brought.  Such a judgment may, in the 
+discretion of the court, carry with it an award of court costs.  Costs are generally awarded if a significant right 
+was involved or the claimant made a good faith effort to prove damages, but not if the maintenance of the 
+action was frivolous or in bad faith.  Unless a significant right is involved, a court will not reverse and remand a 
+case for a new trial if only nominal damages could result.
+Illustration:
+1.  A contracts to sell to B 1,000 shares of stock in X Corporation for $ 10 a share to be delivered on June 1, but 
+breaks the contract by refusing on that date to deliver the stock.  B sues A for damages, but at trial it is proved 
+that B could have purchased 1,000 shares of stock in X Corporation on the market on June 1 for $ 10 a share 
+and therefore has suffered no loss.  In an action by B against A, B will be awarded nominal damages.
+c.  Beneficiaries of gift promises.  If a promisee makes a contract, intending to give a third party the benefit of 
+the promised performance, the third party may be an intended beneficiary who is entitled to enforce the 
+
+§ 346 Availability of Damages
+contract.  See § 302(1)(b).  Such a gift promise creates overlapping duties, one to the beneficiary and the other 
+to the promisee.  If the performance is not forthcoming, both the beneficiary and the promisee have claims for 
+damages for breach.  If the promisee seeks damages, however, he will usually be limited to nominal damages: 
+although the loss to the beneficiary may be substantial, the promisee cannot recover for that loss and he will 
+ordinarily have suffered no loss himself.  In such a case the remedy of specific performance will often be an 
+appropriate one for the promisee.  See § 307.
+Illustration:
+2.  As part of a separation agreement B promises his wife A not to change the provision in B's will for C, their 
+son.  A dies and B changes his will to C's detriment, adding also a provision that C will forfeit any bequest if he 
+questions the change before any tribunal.  In an action by A's personal representative against B, the 
+representative can get a judgment for nominal damages.  As to the representative's right to specific 
+performance, see Illustration 2 to § 307.
+REPORTER'S NOTES
+This Section consolidates the rules stated in former §§ 327 and 328.  See 5 Corbin, Contracts §§ 992-96, 1001 
+(1964 & Supp. 1980); 11 Williston, Contracts §§ 1338-39A (3d ed. 1968).
+Comment b.  Illustration 1 is based on Illustration 1 to former § 328.
+Comment c.  This Comment replaces former § 345(1).  The facts in Illustration 2 are taken from Illustration 2 to 
+§ 307.
+Cross Reference
+ALR Annotations:
+Damages for wrongful termination of automobile dealership contracts.  54 A.L.R.3d 324.
+Awarding damages for delay, in addition to specific performance, of contract for sale of corporate stock.  28 
+A.L.R.3d 1401.
+Tenant's right to damages for landlord's breach of tenant's option to purchase.  17 A.L.R.3d 976.
+Right and measure of recovery for breach of obligation to drill exploratory oil or gas wells.  4 A.L.R.3d 284.
+Attorneys' fees incurred in litigation with third person as damages in action for breach of contract.  4 A.L.R.3d 
+270.
+Measure of damages, to advertiser, for radio or television station's breach or wrongful termination of contract.  
+90 A.L.R.2d 1199.
+Private rights and remedies growing out of prize-winning contests.  87 A.L.R.2d 649.
+Comment Note. -- Contractual provision as to remedy as excluding other possible remedies.  84 A.L.R.2d 322.
+Measure and elements of damages for breach of contract to marry.  73 A.L.R.2d 553.
+Measure and items of compensation of contractor under cost-plus contract which is terminated, without breach, 
+before completion.  28 A.L.R.2d 867.
+Burden of proving value of relief from performing contract in suit based on defendant's breach preventing or 
+excusing full performance.  17 A.L.R.2d 968.
+Rights and remedies under contract by party to procure insurance on his own life.  12 A.L.R.2d 983.
+Digest System Key Numbers:
+Contracts 321
+Damages 3-14
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

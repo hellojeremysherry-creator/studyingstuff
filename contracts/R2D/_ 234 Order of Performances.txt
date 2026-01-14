@@ -1,0 +1,176 @@
+Restat 2d of Contracts, § 234
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 1- Performances to Be Exchanged Under an Exchange 
+of Promises        
+§ 234 Order of Performances
+(1)  Where all or part of the performances to be exchanged under an exchange of promises can be 
+rendered simultaneously, they are to that extent due simultaneously, unless the language or the 
+circumstances indicate the contrary.
+(2)  Except to the extent stated in Subsection (1), where the performance of only one party under such 
+an exchange requires a period of time, his performance is due at an earlier time than that of the other 
+party, unless the language or the circumstances indicate the contrary.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Advantages of simultaneous performance.  A requirement that the parties perform simultaneously where 
+their performances are to be exchanged under an exchange of promises is fair for two reasons.  First, it offers 
+both parties maximum security against disappointment of their expectations of a subsequent exchange of 
+performances by allowing each party to defer his own performance until he has been assured that the other will 
+perform.  This advantage is implemented by the rule stated in § 238, which deals with offers to perform.  
+Second, it avoids placing on either party the burden of financing the other before the latter has performed.  
+Subsection (1) therefore imposes a requirement of simultaneous performance whenever this is feasible under 
+the contract, in the absence of language or circumstances indicating a contrary intention.  A notable example of 
+such a requirement is that laid down for contracts for the sale of goods by Uniform Commercial Code §§ 2-507 
+and 2-511.  The requirement is subject to the agreement of the parties, as by an express provision extending 
+credit to the buyer, or one requiring him to pay against documents or to furnish a letter of credit.  Even absent 
+an express provision, a contrary intention may be shown by circumstances including usage of trade and course 
+of dealing (§§ 221, 223; Uniform Commercial Code § 1-205).
+b.  When simultaneous performance possible under agreement.  In the absence of language or circumstances 
+showing a contrary intention, the requirement of simultaneous performance stated in Subsection (1) applies 
+whenever such performance is possible, consistent with the terms of the contract.  A major instance where 
+simultaneous performance is not possible occurs when one party's performance is continuous over some 
+substantial period of time, a situation that is dealt with in Subsection (2).  However, as is the case for the 
+requirement of the preceding section that the whole performance be possible at one time, the requirement of 
+simultaneous performance is not to be applied so literally as to exclude instances in which the objectives of the 
+requirement can be fulfilled although performance cannot be instantaneous.  See Comment a to § 233.  A less 
+important instance where simultaneous performance is not possible occurs when distance and lack of adequate 
+communications make it impossible to assure the parties that performance is taking place at the same time, so 
+that although the performance of each party can be instantaneous, the two performances cannot be 
+simultaneous within the meaning of Subsection (1).  Cases in which simultaneous performance is possible 
+under the terms of the contract can be grouped into five categories: (1) where the same time is fixed for the 
+performance of each party; (2) where a time is fixed for the performance of one of the parties and no time is 
+fixed for the other; (3) where no time is fixed for the performance of either party; (4) where the same period is 
+fixed within which each party is to perform; (5) where different periods are fixed within which each party is to 
+perform.  The requirement of simultaneous performance applies to the first four categories.  The requirement 
+does not apply to the fifth category, even if simultaneous performance is possible, because in fixing different 
+
+§ 234 Order of Performances
+periods for performance the parties must have contemplated the possibility of performance at different times 
+under their agreement.  Therefore in cases in the fifth category the circumstances show an intention contrary to 
+the rule stated in Subsection (1).
+Illustrations:
+1.  A promises to sell land to B, delivery of the deed to be on July 1.  B promises to pay A $ 50,000, payment to 
+be made on July 1.  Delivery of the deed and payment of the price are due simultaneously.
+2.  A promises to sell land to B, the deed to be delivered on July 1.  B promises to pay A $ 50,000, no provision 
+being made for the time of payment.  Delivery of the deed and payment of the price are due simultaneously.
+3.  A promises to sell land to B and B promises to pay A $ 50,000, no provision being made for the time either 
+of delivery of the deed or of payment.  Delivery of the deed and payment of the price are due simultaneously.
+4.  A promises to sell land to B, delivery of the deed to be on or before July 1.  B promises to pay A $ 50,000, 
+payment to be on or before July 1.  Delivery of the deed and payment of the price are due simultaneously.
+5.  A promises to sell land to B, delivery of the deed to be on or before July 1.  B promises to pay A $ 50,000, 
+payment to be on or before August 1.  Delivery of the deed and payment of the prices are not due 
+simultaneously.
+c.  When simultaneous performance possible in part.  The requirement of simultaneous performance stated in 
+Subsection (1) also applies where only part rather than all of the performance of one party can be performed 
+simultaneously with either part or all of the performance of the other party.  It therefore applies to the situations 
+discussed in Comment b to § 233 and exemplified by Illustration 3 to that section.  But it is broader than this 
+and also applies, for example, to instances where some part performance of one party can be rendered 
+simultaneously with the entire performance of the other party.  See Comment f and Illustration 12.
+Illustrations:
+6.  A promises to sell land to B, delivery of the deed to be four years from the following July 1.  B promises to 
+pay A $ 50,000 in installments of $ 10,000 on each July 1 for five years.  Delivery of the deed and payment of 
+the last installment are due simultaneously.
+7.  A promises to sell land to B, delivery of the deed to be one year from July 1.  B promises to pay A $ 50,000 
+in installments of $ 10,000 on each July 1 for five years.  Delivery of the deed and payment of the second 
+installment are due simultaneously.
+d.  When simultaneous performance later becomes possible.  Although different times or periods were originally 
+fixed for the performance of each party, performance by the party who is to perform first may sometimes be 
+delayed until the time for performance by the other party has arrived.  If the latter party is entitled to and does 
+assert that his remaining duties of performance are discharged because of the delay, under the rule stated in § 
+237, no question of the order of performance remains.  Unless the delay is justified, he will also have a claim for 
+damages for total breach based on all of his remaining rights to performance.  (§§ 236(1), 243(1)).  If, however, 
+he is not entitled to assert that his remaining duties of performance are discharged, or if he does not assert this 
+even though he is entitled to do so, a question of the order of performances remains.  Unless the delay is 
+justified he will, of course, have a claim for damages for partial breach because of the delay.  Whether or not 
+the delay is justified, he can at least insist on simultaneous performance.  (As to judicial supervision of the 
+requirement of simultaneous performance where the injured party has brought an action before the time when 
+his own performance is due and that time then arrives before he has obtained and enforced a judgment, see 
+Comment c and Illustration 5 to § 238.) There may be circumstances, however, in which it is appropriate for him 
+to require the other party to perform first, as where the parties to a sale of goods contemplate that the buyer will 
+need the time specified between delivery and payment to resell the goods in order to pay the price.  In such a 
+case the right of the party in delay to receive payment may be subject to postponement.
+Illustration:
+8.  The facts being otherwise as stated in Illustration 6, B duly pays the first three installments, but unjustifiably 
+does not pay the fourth until the fifth is due.  If B's failure to pay the fourth installment discharges A's remaining 
+duties of performance under the rule stated in § 237, A has a claim for damages for total breach (§ 243(1)), and 
+no further performance is due from either party.  Otherwise B's failure to pay the fourth installment gives rise to 
+only a claim for damages for partial breach because of the delay, and, unless circumstances make it 
+
+§ 234 Order of Performances
+appropriate for A to require B to pay the fourth installment first, delivery of the deed and payment of the fourth 
+and fifth installments are then due simultaneously.
+e.  Where performance requires a period of time.  Where the performance of one party requires a period of time 
+and the performance of the other party does not, their performance can not be simultaneous.  Since one of the 
+parties must perform first, he must forego the security that a requirement of simultaneous performance affords 
+against disappointment of his expectation of an exchange of performances, and he must bear the burden of 
+financing the other party before the latter has performed.  See Comment a.  Of course the parties can by 
+express provision mitigate the harshness of a rule that requires that one completely perform before the other 
+perform at all.  They often do this, for example, in construction contracts by stating a formula under which 
+payment is to be made at stated intervals as work progresses.  But it is not feasible for courts to devise such 
+formulas for the wide variety of such cases that come before them in which the parties have made no provision.  
+Centuries ago, the principle became settled that where work is to be done by one party and payment is to be 
+made by the other, the performance of the work must precede payment, in the absence of a showing of a 
+contrary intention.  It is sometimes supposed, that this principle grew out of employment contracts, and reflects 
+a conviction that employers as a class are more likely to be responsible than are workmen paid in advance.  
+Whether or not the explanation is correct, most parties today contract with reference to the principle, and unless 
+they have evidenced a contrary intention it is at least as fair as the opposite rule would be.
+f.  Applicability of rule.  The rule stated in Subsection (2) usually finds its application to contracts involving 
+services, such as construction and employment contracts.  The common practice of making express provision 
+for progress payments has diminished its importance with regard to the former, and the widespread enactment 
+of state wage statutes giving the employee a right to the frequent periodic payment of wages has lessened its 
+significance with regard to the latter.  Nevertheless, it is a helpful rule for residual cases not otherwise provided 
+for.  It applies not only to contracts under which the performance of one party is more or less continuous, but 
+also to contracts where performance consists of a series of acts with an interval of time between them.  See 
+Comment c.  Under a contract of the latter type, simultaneity may be possible in part and, to the extent that it is 
+possible, the rule stated in Subsection (2) is subject to that stated in Subsection (1).  See Illustrations 6 and 12.
+Illustrations:
+9.  A contracts to do the concrete work on a building being constructed by B for $ 10 a cubic yard.  In the 
+absence of language or circumstances indicating the contrary, payment by B is not due until A has finished the 
+concrete work.
+10.  The facts being otherwise as stated in Illustration 9, B promises to furnish a bond to secure his payment.  
+No provision is made as to the time for furnishing the bond.  No performance by A is due until B has furnished 
+the bond.  Although the doing of the concrete work by A requires a period of time and the furnishing of the bond 
+by B does not, the circumstance that the bond is required to secure payment by B indicates that B must furnish 
+the bond first.
+11.  A contracts to make alterations in B's home for $ 5,000.  $ 500 is to be paid on the signing of the contract, 
+$ 1,500 on the starting of work, $ 2,000 on the completion of rough carpentry and rough plumbing, and $ 1,000 
+on the completion of the job.  Payment by B is due as the work progresses according to the terms of the 
+contract.
+12.  A promises to sell land to B, in return for which B promises to pay A $ 10,000 a year for five years on July 1 
+of each year.  No provision is made as to the time for delivery of a deed.  Delivery of a deed is not due until July 
+1 of the fifth year, at which time delivery of the deed and payment of the last installment are due 
+simultaneously.  See Illustration 6.
+REPORTER'S NOTES
+Subsection (1) is based on former §§ 267 and 268(1).  See also former § 273.  See 3A Corbin, Contracts §§ 
+656, 661-64 (1951 & Supp. 1980); 6 Williston, Contracts §§ 835, 836 (3d ed. 1962); Patterson, Constructive 
+Conditions in Contracts, 42 Colum. L. Rev. 903, 917-18 (1942).
+Subsection (2) is based on former § 270.  See 3A Corbin, Contracts § 676 (1957); 6 Williston, Contracts §§ 
+829-30 (3d ed. 1962); Patterson, Constructive Conditions in Contracts, 42 Colum. L. Rev. 903, 918-20 (1942).
+Comment a.  This Comment states in general terms the principles behind Uniform Commercial Code §§ 2-507, 
+and 2-511.  See Morton v. Lamb, 7 T.R. 125, 101 Eng. Rep. 890 (K.B. 1797). As to what language is sufficient 
+
+§ 234 Order of Performances
+to show a contrary intention, compare Loud v. Pomona Land & Water Co., 153 U.S. 564 (1893), with 
+Zintsmaster v. Werner, 41 F.2d 634 (3d Cir. 1930), and Glenn v. Rossler, 156 N.Y. 161, 50 N.E. 785 (1898).
+Comment b.  Illustration 1 is adapted from Illustration 1 to former § 267.  Illustration 2 is based on Illustration 4 
+to former § 267.  Illustration 3 is adapted from Illustration 5 to former § 267.  Illustration 4 is based on Illustration 
+6 to former § 267.  Beach v. First Fed. Sav. & Loan Ass'n, 140 Ga. App. 882, 232 S.E.2d 158 (1977). Illustration 
+5 is adapted from Illustration 7 to former § 267.
+Comment c.  See former § 272.  Illustration 6 is based on Illustration 1 to former § 268 and on Kane v. Hood, 30 
+Mass. (13 Pick.) 281 (1832). Illustration 7 is based on Illustration 2 to former § 268.
+Comment d.  This Comment replaces former § 273.  See 3A Corbin, Contracts § 689 (1951); 6 Williston, 
+Contracts § 887C (3d ed. 1962).  Illustration 8 is based on Illustration 2 to former § 273 and on Beecher v. 
+Conradt, 13 N.Y. (3 Kern.) 108 (1855); see also Kennelly v. Shapiro, 222 A.D. 488, 226 N.Y.S. 692 (1928).
+Comment e.  On the origin of the principle, see 6 Williston, Contracts § 830 (3d ed. 1962); Murray, Contracts § 
+162 (2d rev. ed. 1974).  That a substantial failure to make timely progress payments is a material breach when 
+the payments are required by a construction contract, see United States ex rel. Micro-King Co. v. Community 
+Science Technology, Inc., 574 F.2d 1292, 1295 n.3 (5th Cir. 1978).
+Comment f.  Illustration 9 is based on Stewart v. Newbury, 220 N.Y. 379, 115 N.E. 984 (1917). See also 
+Illustration 1 to former § 270.  Illustration 10 is based on Clark v. Gulesian, 197 Mass. 492, 84 N.E. 94 (1908). 
+The facts in Illustration 11 are taken from New Era Homes v. Forster, 299 N.Y. 303, 86 N.E.2d 757 (1949). 
+Illustration 12 is based on Comment a to former § 270 and Illustration 1 to former § 268.
+Cross Reference
+Digest System Key Numbers:
+Contracts 213
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

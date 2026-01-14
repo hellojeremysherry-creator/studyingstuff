@@ -1,0 +1,192 @@
+Restat 2d of Contracts, § 373
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 4- Restitution        
+§ 373 Restitution When Other Party Is in Breach
+(1) Subject to the rule stated in Subsection (2), on a breach by non-performance that gives rise to a 
+claim for damages for total breach or on a repudiation, the injured party is entitled to restitution for any 
+benefit that he has conferred on the other party by way of part performance or reliance.
+(2) The injured party has no right to restitution if he has performed all of his duties under the contract 
+and no performance by the other party remains due other than payment of a definite sum of money for 
+that performance.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Restitution as alternative remedy for breach.  An injured party usually seeks, through protection of either his 
+expectation or his reliance interest, to enforce the other party's broken promise.  See § 344(1).  However, he 
+may,as an alternative, seek, through protection of his restitution interest, to prevent the unjust enrichment of the 
+other party.  See § 344(2).  This alternative is available to the injured party as a remedy for breach under the 
+rule stated in this Section.  It is available regardless of whether the breach is by non-performance or by 
+repudiation.  If, however, the breach is by non-performance, restitution is available only if the breach gives rise 
+to a claim for damages for total breach and not merely to a claim for damages for partial breach.  Compare 
+Illustration 1 with Illustration 2.  A party who has lost the right to claim damages for total breach by, for example, 
+acceptance or retention of performance with knowledge of defects (§ 246), has also lost the right to restitution.  
+Restitution is available on repudiation by the other party, even in those exceptional situations in which no claim 
+for damages for total breach arises as a result of repudiation alone.  See Comment d to § 253.  See Illustration 
+3.  The rule stated in this Section applies to all enforceable promises, including those that are enforceable 
+because of reliance.  See Illustration 4.  An injured party's right to restitution may be barred by election under 
+the rules stated in §§ 378 and 379.
+Illustrations:
+1.  A contracts to sell a tract of land to B for $ 100,000.  After B has made a part payment of $ 20,000, A 
+wrongfully refuses to transfer title.  B can recover the $ 20,000 in restitution.  The result is the same even if the 
+market price of the land is only $ 70,000, so that performance would have been disadvantageous to B.
+2.  A contracts to build a house for B for $ 100,000, progress payments to be made monthly.  After having been 
+paid $ 40,000 for two months, A commits a breach that is not material by inadvertently using the wrong brand of 
+sewer pipe.  B has a claim for damages for partial breach but cannot recover the $ 40,000 that he has paid A.
+3.  On February 1, A and B make a contract under which, as consideration for B's immediate payment of $ 
+50,000, A promises to convey to B a parcel of land on May 1.  On March 1, A repudiates by selling the parcel to 
+C.  On April 1, B commences an action against C.  Although under the rule stated in § 253(1), B has no claim 
+against A for damages for breach of contract until performance is due on May 1, B can recover $ 50,000 from A 
+in restitution.  See Illustration 4 to § 253.
+4.  A, who holds a mortgage on B's land, promises B that he will not foreclose the mortgage for another year, 
+even if B makes no payments.  In reliance on A's promise, B makes valuable improvements.  A forecloses in 
+breach of his promise and buys the land at a judicial sale for the amount of the mortgage debt.  B can recover 
+in restitution for the value of the improvements.  Compare Illustration 1 to § 370; see also Illustration 12 to § 90.
+b.  When contract price is a limit.  The rule stated in Subsection (1) is subject to an important exception.  If, after 
+one party has fully performed his part of the contract, the other party then refuses to pay a definite sum of 
+
+§ 373 Restitution When Other Party Is in Breach
+money that has been fixed as the price for that performance, the injured party is barred from recovery of a 
+greater sum as restitution under the rule stated in Subsection (2).  Since he is entitled to recover the price in full 
+together with interest, he has a remedy that protects his expectation interest by giving him the very thing that he 
+was promised.  Even if he asserts that the benefit he conferred on the other party exceeds the price fixed by the 
+contract, justice does not require that he have the right to recover this larger sum in restitution.  To give him that 
+right would impose on the court the burden of measuring the benefit in terms of money in spite of the fact that 
+this has already been done by the parties themselves when they made their contract.  See Illustration 5.  If, 
+however, the performance to be rendered by the party in breach is something other than the payment of a 
+definite sum in money, this burden is less of an imposition on the court since, even if damages were sought by 
+the injured party, the court would have to measure the value to him of the performance due from the party in 
+breach.  The clearest case occurs where the injured party has paid the full price in money for the performance 
+that the party in breach has subsequently failed to render.  To allow restitution of the sum paid in that case 
+imposes no burden of measurement on the court and relieves it of the burden that it would have if damages 
+were awarded of measuring the value to the injured party of the performance due from the party in breach.  See 
+Illustration 6.  For this reason, the rule stated in Subsection (2) is limited to the situation where the only 
+remaining performance due from the party in breach is the payment of a definite sum of money.  See 
+Illustrations 6 and 7.  If the performance promised by the party in breach consists in part of money and in part of 
+something else, full performance by the injured party does not bar him from restitution unless the party in 
+breach has rendered all of his performance except a money payment.
+Illustrations:
+5.  A contracts to work for B for one month for $ 10,000.  After A has fully performed, B repudiates the contract 
+and refuses to pay the $ 10,000.  A can get damages against B for $ 10,000, together with interest, but cannot 
+recover more than that sum even if he can show that the benefit to B from the services was greater than $ 
+10,000.
+6.  A contracts to sell a tract of land to B for $ 100,000.  After B has paid the full $ 100,000, A repudiates and 
+refuses to transfer title.  B has a right to $ 100,000 in restitution.
+7.  A contracts to build a building for B in return for B's promise to transfer a tract of land to A and to pay $ 
+10,000.  After A has built the building, B refuses to transfer title or to pay the $ 10,000.  A has a right to the 
+reasonable value of his work and materials.
+c.  Effect of "divisibility."  Sometimes a contract is "divisible" in the sense that parts of the performances to be 
+exchanged on each side are properly regarded as a pair of agreed equivalents.  See § 240.  The rule stated in 
+Subsection (2) applies by analogy to such contracts.  If one party has fully performed his side of such a pair and 
+all that remains on the other side is for the other party to pay a definite sum of money, recovery for the 
+performance rendered is limited to that sum.  Restitution is not available as an alternative even if there has 
+been a breach as to other parts of the contract.  See Illustration 8.  If both parties have fully performed, so that 
+nothing with respect to the pair of agreed equivalents remains to be done on either side, no recovery can be 
+had as to that pair.
+Illustrations:
+8.  A contracts to work as a consultant for B for a fee of $ 50,000, payable at the end of the year, together with 
+a payment of $ 200 a month for A's use of his own car and reimbursement of A's expenses.  B wrongfully 
+discharges A at the end of six months.  A cannot recover in restitution for the use of his car or for his expenses, 
+but can recover for these items as provided in the contract.  As to his recovery for his services, see Illustration 
+12.
+9.  A contracts to build a house for B for $ 50,000, progress payments to be made monthly in an amount equal 
+to 85% of the price of the work performed during the preceding month, the balance to be paid on the architect's 
+certificate of satisfactory completion of the house.  B makes the first three payments and then repudiates the 
+contract and has another builder finish the house.  A can recover in restitution for the reasonable value of his 
+work, labor and materials, less the amount of the three payments.  The performance during each month and the 
+corresponding progress payments are not agreed equivalents under the rule stated in § 240.  See Illustration 7 
+to § 240.
+
+§ 373 Restitution When Other Party Is in Breach
+d.  Losing contracts.  An injured party who has performed in part will usually prefer to seek damages based on 
+his expectation interest (§ 347) instead of a sum of money based on his restitution interest because such 
+damages include his net profit and will give him a larger recovery.  Even if he cannot prove what his net profit 
+would have been, he will ordinarily seek damages based on his reliance interest (§ 348), since this will 
+compensate him for all of his expenditures, regardless of whether they resulted in a benefit to the party in 
+breach.  See Comment a to § 344.  In the case of a contract on which he would have sustained a loss instead 
+of having made a profit, however, his restitution interest may give him a larger recovery than would damages on 
+either basis.  The right of the injured party under a losing contract to a greater amount in restitution than he 
+could have recovered in damages has engendered much controversy.  The rules stated in this Section give him 
+that right.  He is entitled to such recovery even if the contract price is stated in terms of a rate per unit of work 
+and the recovery exceeds that rate.  There are, however, two important limitations.  The first limitation is one 
+that is applicable to any claim for restitution: the party in breach is liable only to the extent that he has benefited 
+from the injured party's performance.  If he has, for example, taken advantage of the injured party's part 
+performance by having the rest of the work completed after his breach, the extent of his benefit is easy to 
+measure in terms of the reasonable value of the injured party's performance.  See Illustration 10.  If, however, 
+he has abandoned the project and not completed the work, that measurement will be more difficult.  See 
+Illustration 11.  In that situation, the court may exercise its sound discretion in choosing between the two 
+measures stated in § 371.  In doing so it will take account of all the circumstances including the observance by 
+the parties of standards of good faith and fair dealing during any negotiations leading up to the rupture of 
+contractual relations (§ 208).  See Introductory Note to Chapter 10.  Since a contract that is a losing one for the 
+injured party is often an advantageous one for the party in breach, the possibility should not be overlooked that 
+the breach was provoked by the injured party in order to avoid having to perform.  The second limitation is that 
+stated in Subsection (2).  If the injured party has completed performance and nothing remains for the party in 
+breach to do but to pay him the price, his recovery is limited to the price.  See Comment b.
+Illustrations:
+10.  A, a plumbing subcontractor, contracts with B, a general contractor, to install the plumbing in a factory 
+being built by B for C.  B promises to pay A $ 100,000.  After A has spent $ 40,000, B repudiates the contract 
+and has the plumbing finished by another subcontractor at a cost of $ 80,000.  The market price to have a 
+similar plumbing subcontractor do the work done by A is $ 40,000.  A can recover the $ 40,000 from B in 
+restitution.
+11.  A contracts to build a house for B for $ 100,000.  After A has spent $ 40,000, B discovers that he does not 
+have good title to the land on which the house is to be built.  B repudiates the contract and abandons the 
+project.  A's work results in no actual benefit to B.  A cannot recover in restitution from B, but under the rule 
+stated in § 349 he can recover as damages the $ 40,000 that he has spent unless B proves with reasonable 
+certainty that A would have sustained a net loss if the contract had been performed.  See Illustration 4 to § 349.
+12.  A contracts to work as a consultant for B for a fee of $ 50,000, payable at the end of the year.  B wrongfully 
+discharges A at the end of eleven months.  A can recover in restitution based on the reasonable value of his 
+services.  The terms of the contract are evidence of this value but are not conclusive.
+e.  Avoidability as a limit on restitution.  The rule that precludes restitution for a benefit that has been conferred 
+officiously (Restatement of Restitution § 2), applies to preclude recovery for performances that a party has 
+rendered following a repudiation by the other party.  Compare the rule stated in § 350.
+Illustration:
+13.  A contracts to build a bridge for B for $ 100,000.  B repudiates the contract shortly after A has begun work 
+on the bridge, telling A that he no longer has need for it.  A nevertheless spends an additional $ 10,000 in 
+continuing to perform.  A's restitution interest under the rule stated in § 370 does not include the benefit 
+conferred on B by the $ 10,000.  See Illustration 1 to § 350.
+REPORTER'S NOTES
+Subsection (1) is based on former § 347.  Subsection (2) is based on former §§ 350, 351.  The rule stated in 
+former § 353 is now found in Comment a.  See 5 Corbin, Contracts §§ 1104, 1110-13 (1964 & Supp. 1980); 12 
+Williston, Contracts §§ 1454, 1456-59A, 1478 (3d ed. 1970); 1 Palmer, Law of Restitution ch. 4 (1978); Childres 
+& Garamella, The Law of Restitution and the Reliance Interest in Contract, 64 Nw. U.L. Rev. 433 (1969); 
+
+§ 373 Restitution When Other Party Is in Breach
+Dawson, Restitution or Damages, 20 Ohio St. L.J. 175 (1959); Farnsworth, Legal Remedies for Breach of 
+Contract, 70 Colum. L. Rev. 1145, 1178-83 (1970); Fuller & Perdue, The Reliance Interest in Contract 
+Damages: I, 46 Yale L.J. 52, 71-80 (1936); Palmer, The Contract Price as a Limit on Restitution for Defendant's 
+Breach, 20 Ohio St. L.J. 264 (1959); Patterson, Builder's Measure of Recovery for Breach of Contract, 31 
+Colum. L. Rev. 1286, 1299-1308 (1931); Perillo, Restitution in A Contractual Context, 73 Colum. L. Rev. 1208 
+(1973); Sullivan, The Concept of Benefit in the Law of Quasi-Contract, 64 Geo. L.J. 1 (1975); Wright, The Law 
+of Remedies as a Social Institution, 18 U. Det. L.J. 376 (1955); The [English] Law Commission, Pecuniary 
+Restitution on Breach of Contract 39-44, 65-66 (Law of Contract Working Paper No. 65, 1975).
+Comment a.  Illustration 1 is based on Nash v. Towne, 72 U.S. 689 (1866); Bush v. Canfield, 2 Conn. 485 
+(1818). Illustration 2 is based on Illustration 1 to former § 347.  As to Illustration 3, see Bollenback v. 
+Continental Cas. Co., 243 Or. 498, 414 P.2d 802 (1966). Illustration 4 is based on Illustration 7 to former § 347; 
+Utemark v. Samuel, 118 Cal. App.2d 313, 257 P.2d 656 (1953).
+Comment b.  Illustration 5 is based on Illustration 1 to former § 350; United States v. Americo Constr. Co., 168 
+F. Supp. 760 (D. Mass. 1958); cf.  Oliver v. Campbell, 43 Cal.2d 298, 273 P.2d 15 (1955). Illustration 6 is based 
+on Illustration 2 to former § 350.  Illustration 7 is based on Illustration 5 to former § 350; cf.  Brown v. St. Paul, 
+Minneapolis & Manitoba Ry., 36 Minn. 236, 31 N.W. 941 (1886); Bailey v. Interstate Airmotive, 358 Mo. 1121, 
+219 S.W.2d 333 (1949).
+Comment c.  Illustration 8 is based on Illustration 1 to former § 351; cf.  Coon v. Schoeneman, 476 S.W.2d 439 
+(Tex. Civ. App. 1972). Illustration 9 is based on Illustration 4 to former § 351.
+Comment d.  Illustration 10 is based on United States v. Algernon Blair, Inc., 479 F.2d 638 (4th Cir. 1973); 
+Scaduto v. Orlando, 381 F.2d 587 (2d Cir. 1967); United States ex rel. Susi Contracting Co. v. Zara, 146 F.2d 
+606 (2d Cir. 1944); Philadelphia v. Tripple, 230 Pa. 480, 79 A. 703 (1911); see also Illustrations 3 and 4 to 
+former § 347.  As to Illustration 11, compare Millen v. Gulesian, 229 Mass. 27, 118 N.E. 267 (1918), with Acme 
+Process Equip. Co. v. United States, 171 Ct. Cl. 324, 347 F.2d 509 (1965), rev'd on other grounds, 385 U.S. 
+138, rehearing denied, 385 U.S. 1032 (1966). Cf.  Kehoe v. Rutherford, 56 N.J.L. 23, 27 A. 912 (1893). 
+Illustration 12 is based on Illustration 2 to former § 347.  As to whether the contract price is an upper limit to 
+restitution, compare Wuchter v. Fitzgerald, 83 Or. 672, 163 P. 819 (1917), with Boomer v. Muir, 24 P.2d 570 
+(Cal. App. 1933). See also Oliver v. Campbell, supra. On the effect of divisibility, see Shapiro Eng'r Corp. v. 
+Francis O. Day Co., 215 Md. 373, 137 A.2d 695 (1958).
+Comment e.  This Comment is based on former § 352.  Illustration 13 is based on Illustration 1 to former § 352.
+Cross Reference
+ALR Annotations:
+Limitation to quantum meruit recovery, where attorney employed under contingent fee contract is discharged 
+without cause.  92 A.L.R.3d 690.
+Uniform commercial code: Measure of recovery where buyer repudiates contract for goods to be manufactured 
+to special order, before completion of manufacture.  42 A.L.R.3d 182.
+Digest System Key Numbers:
+Implied and Constructive Contracts 55-65
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

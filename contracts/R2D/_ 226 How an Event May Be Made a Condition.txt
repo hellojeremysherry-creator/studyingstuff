@@ -1,0 +1,143 @@
+Restat 2d of Contracts, § 226
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 5- Conditions and Similar Events        
+§ 226 How an Event May Be Made a Condition
+An event may be made a condition either by the agreement of the parties or by a term supplied by the 
+court.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  By agreement of the parties.  No particular form of language is necessary to make an event a condition, 
+although such words as "on condition that," "provided that" and "if" are often used for this purpose.  An intention 
+to make a duty conditional may be manifested by the general nature of an agreement, as well as by specific 
+language.  Whether the parties have, by their agreement, made an event a condition is determined by the 
+process of interpretation.  That process is subject to the general rules that are contained in previous topics of 
+this Chapter.  For example, as in other instances of interpretation, the purpose of the parties is given great 
+weight (§ 202(1)), and, in choosing between reasonable meanings, that meaning is generally preferred which 
+operates against the draftsman (§ 206).  There are also some special standards of preference that are of 
+particular applicability to conditions, and these are set out in § 227.
+Illustrations:
+1.  A partnership agreement among physicians provides that A may withdraw from the partnership on three 
+months' written notice to the partnership's executive committee, "but in the event that the committee requests 
+him to revoke his notice of withdrawal prior to its effective date, and he refuses to comply, he shall not upon his 
+withdrawal engage in the practice of medicine within a twenty-five mile radius." A gives notice of his withdrawal.  
+A request by the committee that A revoke his notice is a condition of A's duty not to practice medicine within a 
+twenty-five mile radius.
+2.  A, a tenant of B, promises to pay $ 1,000 for "such repairs as an architect appointed by B shall approve." 
+The appointment by B of an architect and the architect's approval of repairs are conditions of A's duty to pay for 
+repairs.
+3.  A sells an automobile to B, for which B promises to pay $ 5,000 "on demand." A sues B for the $ 5,000 
+without first making a demand.  A can recover.  The quoted language is to be interpreted in the light of the 
+purpose of the parties (§ 202(1)), and the purpose of such language, in connection with a promise that is one to 
+pay money and is otherwise unconditional, is to fix the time after which interest at the legal rate is payable.  A's 
+suit should therefore not be dismissed merely because he did not demand payment, and a demand by A is not 
+a condition of B's duty.  The same interpretation follows by analogy from the rule of Uniform Commercial Code 
+§ 3-122(1)(b), under which a claim on a demand instrument arises on its date or date of issue.
+4.  A contracts to sell and B to buy a house for $ 50,000.  The contract contains the provision, "This contract is 
+conditional on approval by X Bank of B's pending mortgage application." Approval by X Bank is a condition of 
+B's duty but not of A's duty.  The quoted language is to be interpreted in the light of the purpose of the parties (§ 
+202(1)), and their purpose in including such a provision is to protect B and not A in the event that the 
+application is not approved.  If X Bank does not approve B's application, performance by B will not become due 
+even if A makes a conditional offer to deliver a deed, but performance by A will become due if, in spite of X 
+Bank's failure to approve B's application, B makes a conditional offer to pay the $ 50,000.  Cf. Illustration 8 to § 
+225.
+b.  Nature of event.  Just as the process of interpretation determines whether the parties have by their 
+agreement made an event a condition, it also determines the nature of that event.  Here too the process is 
+
+§ 226 How an Event May Be Made a Condition
+subject to the general rules of interpretation stated earlier in the present Chapter, and here too there are some 
+special standards of preference.  These standards are set out in §§ 227(1) and 228.
+Illustrations:
+5.  A, an insurance company, insures B, a storekeeper, against safe burglary, "provided entry be made by 
+actual force and violence, of which there are visible marks upon the exterior of all of the doors of the safe if 
+entry is made through such doors." A burglar robs B's safe by picking the lock of the outer door, leaving no 
+visible marks, and punching out the lock of the inner door.  Ifthe requirement of visible marks on both doors is 
+merely evidentiary, the condition occurs when there is as here, adequate evidence of force and violence to 
+prevent fraudulent claims, even though there are no visible marks on the outer door.  Since A was the 
+draftsman of the policy, the meaning favorable to B is preferred (§ 206).
+6.  A contracts to sell and B to buy a house for $ 50,000.  The contract recites that financing is to take the form 
+of "$ 30,000 mortgage from X Bank" on stated terms and provides that B's duty is "conditional upon B's ability 
+to arrange above described financing." B is unable to get the mortgage from X Bank but A offers to take a $ 
+30,000 purchase money mortgage on the stated terms and makes a conditional offer to deliver a deed.  B 
+refuses to perform.  Although circumstances may show a contrary intention, the quoted language will ordinarily 
+be interpreted so that the condition occurs only if B is able to get the mortgage from X Bank, and not if B is able 
+to get a similar mortgage from A.  Under this interpretation, B's refusal is not a breach.
+c.  By a term supplied by court.  When the parties have omitted a term that is essential to a determination of 
+their rights and duties, the court may supply a term which is reasonable in the circumstances (§ 204).  Where 
+that term makes an event a condition, it is often described as a "constructive" (or "implied in law") condition.  
+This serves to distinguish it from events which are made conditions by the agreement of the parties, either by 
+their words or by other conduct, and which are described as "express" and as "implied in fact" (inferred from 
+fact) conditions.  See Comments a and b to § 4.  It is useful to distinguish "constructive" conditions, even 
+though the distinction is necessarily somewhat arbitrary.  For one thing, it is helpful in analysis and description 
+to have terminology that reflects the two distinctive processes, sometimes called "interpretation" and 
+"construction," that give rise to conditions.  See Uniform Commercial Code §§ 2-313 to 2-315, in which an 
+analogous distinction is made between express and implied warranties.  For another, to the extent that the 
+parties have, by a term of their agreement, clearly made an event a condition, they can be confident that a court 
+will ordinarily feel constrained strictly to apply that term, while the same court may regard itself as having 
+considerable latitude in tailoring a similar term that it has itself supplied.
+One example of such a term supplied by the court is the requirement of § 45(2) that the offeree, under an 
+option contract, complete or tender the invited performance as a condition of the offeror's duty.  A more 
+common example occurs where an obligor's duty cannot be performed without some act by the obligee, and the 
+court supplies a term making that act a condition of the obligor's duty.  In most such situations, the obligee's 
+own obligation of good faith and fair dealing (§ 205) imposes on him a duty to do the act, so that a material 
+failure to perform that duty would, in any case, have the same effect as the non-occurrence of a condition under 
+the rules relating to performances to be exchanged under an exchange of promises (§ 239).  The examples 
+given in the following illustrations involve situations where no duty to do the act is imposed.
+Illustrations:
+7.  A promises to make necessary interior repairs on a building that he has leased to B, but reserves no 
+privilege of entering the building.  B's giving reasonable notice to A of any necessary interior repairs of which A 
+would otherwise be unaware is a condition of A's duty to make those repairs, although B is under no duty to 
+give notice.
+8.  A, a general contractor, contracts with B, a town, to construct a sewer system, agreeing in addition to defend 
+any action against the town arising out of the work and to pay any damages recovered in such an action.  B's 
+giving reasonable notice to A of the commencement of any action of which A would otherwise be unaware is a 
+condition of A's duties to defend and pay damages, although B is under no duty to give notice.
+REPORTER'S NOTES
+This Section is based on former §§ 252, 253 and 258.  The distinction between "express" and "constructive" 
+conditions, formerly set out in §§ 252 and 253, is now dealt with in Comment c.  See 3A Corbin, Contracts §§ 
+631, 632 (1960); 5 Williston, Contracts §§ 668-71 (3d ed. 1961).
+
+§ 226 How an Event May Be Made a Condition
+Comment a.  That the process of interpretation governs the requirement of conditions, see In re Carter's Claim, 
+390 Pa. 365, 134 A.2d 908 (1957). For examples of the interpretation process when the language of the 
+agreement is unclear whether a condition was intended, see Feinberg v. Automobile Banking Corp., 353 F. 
+Supp. 508 (E.D. Pa. 1973); Chirichella v. Erwin, 270 Md. 178, 310 A.2d 555 (1973); Lewis v. Roper, 579 P.2d 
+434 (Wyo. 1978); Northern State Constr. Co. v. Robbins, 76 Wash.2d 357, 457 P.2d 187 (1969). Illustration 1 is 
+based on Partlow v. Mathews, 43 Wash.2d 398, 261 P.2d 394 (1953). Illustration 2 is based on former § 262.  
+Illustration 3 is based on former § 264, which has been omitted, and on Illustration 1 to that section.  See 3A 
+Corbin, Contracts § 643 (1960).  That a demand fixes the time after which interest at the legal rate is payable, 
+see Trustees of University of Pennsylvania v. Cadwalder, 277 Pa. 512, 121 A. 314 (1923). That the statute of 
+limitations begins to run from the date the promise is made, see Kirby v. Bourg, 165 Colo. 500, 440 P.2d 151 
+(1968). As to the rule applicable to a surety who promises to pay "on demand," see First Nat'l Bank v. Story, 
+200 N.Y. 346, 93 N.E. 940 (1911). Contra: Arthur Fulmer St. Louis, Inc. v. Auto-Re-Nu-Inc., 177 Neb. 671, 131 
+N.W.2d 89 (1964); cf.  Texas Water Supply Corp., v. Reconstruction Fin. Corp., 204 F.2d 190 (5th Cir. 1953). 
+Illustration 4 is new.  See De Freitas v. Cote, 342 Mass. 474, 174 N.E.2d 371 (1961).
+Comment b.  Illustration 5 is based on Ferguson v. Phoenix Assurance Co., 189 Kan. 459, 370 P.2d 379 
+(1962); see also C & J Fertilizer, Inc. v. Allied Mut. Ins. Co., 227 N.W.2d 169 (Iowa 1975). As to Illustration 6, 
+compare Glassman v. Gerstein, 10 A.D.2d 875, 200 N.Y.S.2d 690 (1960), with Marino v. Nolan, 24 A.D.2d 
+1005, 266 N.Y.S.2d 65 (1965), aff'd mem., 18 N.Y.2d 627, 272 N.Y.S.2d 776, 219 N.E.2d 291 (1966). See also 
+Simms Co. v. Wolverton, 232 Or. 291, 375 P.2d 87 (1962). But cf.  Kovarik v. Vesely, 3 Wis.2d 573, 89 N.W.2d 
+279 (1958).
+Comment c.  This is based on former §§ 252, 253 and 262.  Most of the situations contemplated by former § 
+262 are now covered in § 205, which imposes a duty of good faith and fair dealing, coupled with the rules of 
+Topics 1 and 2 of Chapter 10 on performances to be exchanged under an exchange of promises.  The few 
+remaining ones are considered here.  Since the terms "express" and "constructive," defined in former §§ 253 
+and 254, are not used in stating the rules in this Restatement, they are dealt with by comment only.  The use of 
+the term "constructive" rather than "implied in law" was urged in Corbin, Conditions in the Law of Contract, 28 
+Yale L.J. 739, 744(1919). Whether a court is inferring a condition from the parties' unclear expression of 
+intention or constructing one as a matter of lawmaking is often unclear, because the processes overlap: the 
+values that encourage a court to construct a condition were usually present when the parties were negotiating 
+and thus support inferences about their actual intentions.  See, e.g., United Campgrounds, U.S.A. v. 
+Stevenson, 175 Mont. 17, 571 P.2d 1161 (1977); Telecommunications Corp. of America v. Franchises Int'l, Inc., 
+332 F. Supp. 469 (S.D.N.Y. 1971); cf. 407 E. 61st Garage v. Savoy Fifth Ave. Corp., 23 N.Y.2d 275, 296 
+N.Y.S.2d 338, 244 N.E.2d 37 (1968). Illustration 7 is based on Illustration 3 to former § 262; see also Fiorntino 
+v. Wilson, 233 Mass. 451, 124 N.E. 283 (1919); Woodbury Co. v. Williams Tackaberry Co., 166 Iowa 642, 148 
+N.W. 639 (1914). Illustration 8 is based on Town of Fairfield v. D'Addario, 149 Conn. 358, 179 A.2d 826 (1962).
+Cross Reference
+ALR Annotations:
+Restitution of property conveyed in consideration of previous reconciliation, as condition of entertaining divorce 
+action.  4 A.L.R.2d 1210.
+Digest System Key Numbers:
+Contracts 218
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

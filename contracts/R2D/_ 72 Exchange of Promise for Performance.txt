@@ -1,0 +1,68 @@
+Restat 2d of Contracts, § 72
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+§ 72 Exchange of Promise for Performance
+Except as stated in §§ 73 and 74, any performance which is bargained for is consideration.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Enforcement of bargains.  Section 17(1) embodies the principle that bargains are enforceable unless some 
+other principle conflicts.  Chapter 3 on Formation of Contracts-Mutual Assent deals with one essential element 
+of a bargain, agreement; this Topic on the Requirement of Consideration deals with the other essential element, 
+exchange.  See § 3.  The requirement laid down in § 17(1) is that there be a "consideration." Under § 71 
+"consideration" requires an element of exchange.  This Section states the general rule that exchange of 
+performance for promise is an enforceable bargain; Sections 73 and 74 deny enforcement to certain bargains 
+despite the presence of an element of exchange.  Sections 75-78 state corresponding rules for the exchange of 
+promise for promise.
+b.  Substantive bases for enforcement; the half-completed exchange.  Bargains are widely believed to be 
+beneficial to the community in the provision of opportunities for freedom of individual action and exercise of 
+judgment and as a means by which productive energy and product are apportioned in the economy.  The 
+enforcement of bargains rests in part on the common belief that enforcement enhances that utility.  Where one 
+party has performed, there are additional grounds for enforcement.  Where, for example, one party has 
+received goods from the other and has broken his promise to pay for them, enforcement of the promise not only 
+encourages the making of socially useful bargains; it also reimburses the seller for a loss incurred in reliance on 
+the promise and prevents the unjust enrichment of the buyer at the seller's expense.  Each of these three 
+grounds of enforcement, bargain, reliance and unjust enrichment, has independent force, but the bargain 
+element alone satisfies the requirement of consideration except in the cases covered by §§ 73, 74, 76 and 77.  
+Cases of promises binding by virtue of reliance or unjust enrichment are dealt with in §§ 82-94.
+c.  Formality.  Consideration furnishes a substantive rather than a formal basis for the enforcement of a 
+promise.  Many bargains, particularly when fully performed on one side, involve acts in the course of 
+performance which satisfy some or all of the functions of form and thus may be thought of as natural formalities.  
+Four principal functions have been identified which legal formalities in general may serve: the evidentiary 
+function, to provide evidence of the existence and terms of the contract; the cautionary function, to guard the 
+promisor against ill-considered action; the deterrent function, to discourage transactions of doubtful utility; and 
+the channeling or signalizing function, to distinguish a particular type of transaction from other types and from 
+tentative or exploratory expressions of intention in the way that coinage distinguishes money from other metal.  
+But formality is not essential to consideration; nor does formality supply consideration where the element of 
+exchange is absent.  Rules under which formality makes binding a promise not supported by consideration are 
+stated in §§ 82-94 and in §§ 95-109 on contracts under seal.
+d.  Unconscionable and illegal bargains.  The rule stated in this Section does not require that consideration 
+have an economic value equivalent to that of the promise.  See § 79.  Nor does the Section require that the 
+consideration or the promise be lawful.  The problems raised by unconscionable and illegal bargains are dealt 
+with in § 208 on unconscionability, Chapter 6 on mistake, Chapter 7 on misrepresentation, duress and undue 
+influence, and Chapter 8 on unenforceability on grounds of public policy.  In addition, particular types of 
+bargains which are likely to be unconscionable are the subject of §§ 73 and 74.
+REPORTER'S NOTES
+
+§ 72 Exchange of Promise for Performance
+This Section restates the basic rule of former § 76.  The exceptions stated in former Subsections 76(a)-(c) have 
+been moved.  The subject matter of former § 76(a) is included in § 73; former § 76(b) is covered by § 74.  
+Former § 76(c) is omitted for reasons stated in Whittier, The Restatement of Contracts and Consideration, 18 
+Calif. L. Rev. 611, 623 (1930). Compare §§ 79, 87.
+Comment c.  See Fuller, Consideration and Form, 41 Colum. L. Rev. 799 (1941); Patterson, An Apology for 
+Consideration, 58 Colum. L. Rev. 929 (1958); von Mehren, Civil-Law Analogues to Consideration: An Exercise 
+in Comparative Analysis, 72 Harv. L. Rev. 1009 (1959); Atiyah, Contracts, Promises and the Law of 
+Obligations, 94 L.Q. Rev. 193 (1978).
+Cross Reference
+ALR Annotations:
+Construction and application of agreement by medical or social work student to work in particular position or at 
+particular location in exchange for financial aid in meeting costs of education.  83 A.L.R.3d 1273.
+Sufficiency of consideration for employee's covenant not to compete, entered into after inception of 
+employment.  51 A.L.R.3d 825.
+Validity and construction of contract under which applicant for admission to home for aged or infirm turns over 
+his property to institution in return for lifetime care.  44 A.L.R.3d 1174.
+Contractual waiver of after-acquired homestead exemption.  82 A.L.R.2d 982.
+Digest System Key Numbers:
+Contracts 50, 54(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

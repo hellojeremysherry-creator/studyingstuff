@@ -1,0 +1,89 @@
+Restat 2d of Contracts, § 50
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 50 Acceptance of Offer Defined; Acceptance by Performance; Acceptance 
+by Promise
+(1)  Acceptance of an offer is a manifestation of assent to the terms thereof made by the offeree in a 
+manner invited or required by the offer.
+(2)  Acceptance by performance requires that at least part of what the offer requests be performed or 
+tendered and includes acceptance by a performance which operates as a return promise.
+(3)  Acceptance by a promise requires that the offeree complete every act essential to the making of the 
+promise.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Mode of acceptance.  The acceptance must manifest assent to the same bargain proposed by the offer, and 
+must also comply with the terms of the offer as to the identity of the offeree and the mode of manifesting 
+acceptance.  Offers commonly invite acceptance in any reasonable manner, but a particular mode of 
+acceptance may be required.  See § 30.  In case of doubt, the offeree may choose to accept either by 
+promising or by rendering the requested performance.  See § 32.
+b.  Acceptance by performance.  Where the offer requires acceptance by performance and does not invite a 
+return promise, as in the ordinary case of an offer of a reward, a contract can be created only by the offeree's 
+performance.  See Comment b to § 32.  In such cases the act requested and performed as consideration for 
+the offeror's promise ordinarily also constitutes acceptance; under § 45 the beginning of performance or the 
+tender of part performance of what is requested may both indicate assent and furnish consideration for an 
+option contract.  In some other cases the offeree may choose to create a contract either by making a promise 
+or by rendering or tendering performance; in most such cases the beginning of performance or a tender of part 
+performance operates as a promise to render complete performance.  See §§ 32, 62.  Mere preparation to 
+perform, however, is not acceptance, although in some cases preparation may make the offeror's promise 
+binding under § 87(2).
+Illustrations:
+1.  A, who is about to leave on a month's vacation, tells B that A will pay B $ 50 if B will paint A's porch while A 
+is away.  B says he may not have time, and A says B may decide after A leaves.  If B begins the painting, there 
+is an acceptance by performance which operates as a promise to complete the job.  See §§ 32, 62.
+2.  In Illustration 1, B also expresses doubt whether he will be able to finish the job, and it is agreed that B may 
+quit at any time but will be paid only if he finishes the job during A's vacation.  If B begins the painting, there is 
+an acceptance by performance creating an option contract.  See § 45.
+c.  Acceptance by promise.  The typical contract consists of mutual promises and is formed by an acceptance 
+constituting a return promise by the offeree.  A promissory acceptance may be explicitly required by the offer, or 
+may be the only type of acceptance which is reasonable under the circumstances, or the offeree may choose to 
+accept by promise an offer which invites acceptance either by promise or by performance.  See §§ 30, 32.  The 
+promise may be made in words or other symbols of assent, or it may be implied from conduct, other than acts 
+of performance, provided only that it is in a form invited or required by the offer.  An act of performance may 
+also operate as a return promise, but the acceptance in such a case is treated as an acceptance by 
+performance rather than an acceptance by promise; thus the requirement of notification is governed by § 54 
+
+§ 50 Acceptance of Offer Defined; Acceptance by Performance; Acceptance by Promise
+rather than by § 56.  As appears from § 63, acceptance by promise may be effective when a written promise is 
+started on its way, but the offeree must complete the acts necessary on his part to constitute a promise by him.  
+Similarly, in cases where communication to the offeror is unnecessary under § 69, the acts constituting the 
+promise must be complete.
+Illustrations:
+3.  A sends to B plans for a summer cottage to be built on A's land in a remote wilderness area, and writes, "If 
+you will undertake to build a cottage in accordance with the enclosed plans, I will pay you $ 5,000." B cannot 
+accept by beginning or completing performance, since A's letter calls for acceptance by promise.  See § 58.
+4.  A mails a written order to B, offering to buy on specified terms a machine of a type which B regularly sells 
+from stock.  The order provides, "Ship at once." B immediately mails a letter of acceptance.  This is an 
+acceptance by promise, even though under § 32 B might have accepted by performance.
+5.  A gives an order to B Company's traveling salesman which provides, "This proposal becomes a contract 
+without further notification when approval by an executive officer of B Company is noted hereon at its home 
+office." The notation of approval is an acceptance by promise.  See §§ 56, 69 as to the requirement of 
+notification.
+REPORTER'S NOTES
+This Section is based on former § 52.  The exception for cases covered by former § 63 is omitted, since the rule 
+of former § 63 is abandoned.  See Reporter's Note to § 62; 1 Williston, Contracts §§ 65, 78A (3d ed. 1957); 1 
+Corbin, Contracts §§ 63, 70 (1963 & Supp. 1980).  See generally Murray, Contracts §§ 44-57 (2d rev. ed. 
+1974); Calamari & Perillo, Contracts §§ 2-15 to -28 (2d ed. 1977); Braucher, Offer and Acceptance in the 
+Second Restatement, 74 Yale L.J. 302 (1964).
+Comments b and c.  Illustrations 1, 2 and 3 are based on Fuller, Basic Contract Law 215-17 (1947).  As to 
+Illustration 2, compare Sigrist v. Century 21 Corp., 519 P.2d 362 (Colo. App. 1974) ("substantial" performance 
+constitutes acceptance); and Bowlerama of Texas v. Miyakawa, 449 S.W.2d 357 (Tex. Civ. App. 1970) (terms 
+of offer govern details of acceptance by performance).  As to Illustration 4, see Uniform Commercial Code § 2-
+206(1)(b) and Comment 2.  Illustration 5 is based on International Filter Co. v. Conroe Gin, Ice & Light Co., 277 
+S.W. 631 (Tex. Comm. App. 1925); compare Empire Mach. Co. v. Litton Business Tel. Sys., 115 Ariz. 568, 566 
+P.2d 1044 (1977).
+Cross Reference
+ALR Annotations:
+Recovery for services rendered by persons living in apparent relation of husband and wife without express 
+agreement for compensation.  94 A.L.R.3d 552.
+Knowledge of reward as condition of right thereto.  86 A.L.R.3d 1142.
+Advertisement addressed to public relating to sale or purchase of goods at specified price as an offer the 
+acceptance of which will consummate a contract.  43 A.L.R.3d 1102.
+Private rights and remedies growing out of prize-winning contests.  87 A.L.R.2d 649.
+What constitutes acceptance or ratification of, or acquiescence in, services rendered by attorney so as to raise 
+implied promise to pay reasonable value thereof.  78 A.L.R.2d 318.
+Oral acceptance of written offer by party sought to be charged as satisfying statute of frauds.  30 A.L.R.2d 972.
+Digest System Key Numbers:
+Contracts 22
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,337 @@
+Restat 2d of Contracts, § 14
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 2- Formation of 
+Contracts -- Parties and Capacity        
+§ 14 Infants
+Unless a statute provides otherwise, a natural person has the capacity to incur only voidable 
+contractual duties until the beginning of the day before the person's eighteenth birthday.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Who are infants.  The common law fixed the age of twenty-one as the age at which both men and women 
+achieve full capacity to contract, and the rule that the critical moment is the beginning of the preceding day was 
+established on the ground that the law disregards fractions of a day.  In almost every State these rules have 
+been changed by statute.  It appears that 49 States have lowered the age of majority, either generally or for 
+contract capacity, to less than twenty-one; usually, the age is eighteen.  See the table in the Reporter's Note to 
+this Comment.  The birthday rather than the preceding day is the date of majority in some States; in some both 
+men and women have full capacity upon marriage.
+b.  Obligations which are not voidable.  Infants' contracts were at one time classified as void, voidable or valid, 
+but the modern rule in the absence of statute is that they are voidable by the infant.  See § 7.  Compare 
+Restatement, Second, Agency § 20.  An infant may be bound by obligations imposed by law independently of 
+contract, such as tort and quasi-contractual obligations.  See Comment f to § 12, Restatement of Restitution § 
+139.  In addition, certain contracts are held binding, ordinarily by statute, such as recognizances for appearance 
+in court or contracts made with judicial approval.  Modern statutes also sometimes deny the power of 
+disaffirmance as to such transactions as withdrawal of bank deposits or payment of life insurance premiums.
+c.  Restoration of consideration.  An infant need not take any action to disaffirm his contracts until he comes of 
+age.  If sued upon the contract, he may defend on the ground of infancy without returning the consideration 
+received.  His disaffirmance revests in the other party the title to any property received by the infant under the 
+contract.  If the consideration received by the infant has been dissipated by him, the other party is without 
+remedy unless the infant ratifies the contract after coming of age or is under some non-contractual obligation.  
+But some states, by statute or decision, have restricted the power of disaffirmance, either generally or under 
+particular circumstances, by requiring restoration of the consideration received.  Where the infant seeks to 
+enforce the contract, the conditions of the other party's promise must be fulfilled.  The problems arising when an 
+infant seeks to disaffirm a conveyance or executed contract are beyond the scope of the Restatement of this 
+Subject, whether the disaffirmance is attempted before or after he comes of age.  As to what constitutes 
+ratification, see § 85.
+REPORTER'S NOTES
+This Section is new.  On incapacity due to infancy generally, see 2 Williston, Contracts §§ 222-48 (3d ed. 
+1959); 1 Corbin, Contracts § 6 (1963 & Supp. 1980); Madden, Persons and Domestic Relations §§ 189-
+229(1931).
+Comment a.  The impetus for the lowering of the age of majority probably came from the widespread draft of 
+those under twenty-one and from the lowering of the voting age to eighteen; cf.  Oregon v. Mitchell, 400 U.S. 
+112 (1970) and U.S. Const. Amend. XXVI.  The following state statutes make the age of majority for purposes 
+of contract eighteen unless another age is indicated. 
+Alabama *
+Ala. Code tit. 27 §
+*  Age is 19
+
+§ 14 Infants
+  26 (Interim
+  Supp. 1975).
+Alaska ***
+Alaska Stat. §
+  25.20.010(1977).
+Arizona
+Ariz. Rev. Stat. §
+  1-215 (1973).
+Arkansas
+Ark. Stat. Ann. §
+  57-103 (Supp.
+  1977).
+California
+Cal. Civ. Code §
+  25 (West Supp.
+  1978).
+Colorado
+Colo. Rev. Stat.
+  § 13-22-101
+  (1973)
+Connecticut ***
+Conn. Gen. Stat.
+  Ann. § 1-1d
+  (West Supp.
+  1978)
+Delaware
+Del. Code tit. 6 §
+  2705 (Revised
+  1974)
+Florida ***
+Fla. Stat. Ann. §
+  743.07 (West
+  Supp. 1978)
+Georgia
+Ga. Code Ann. §
+  74-104 (Revi-
+  sion 1973)
+Hawaii
+Haw. Rev. Stat. §
+  577-1 (Supp.
+  1975)
+Idaho
+Idaho Code §
+  29-101 (1967), §
+  32-101 (Supp.
+  1978)
+Illinois
+Ill. Ann. Stat. ch.
+  3 § 131 (Smith-
+  Hurd 1978)
+Indiana
+Ind. Code Ann.
+  § 34-1-2-5.5
+  (Burns Supp.
+  1977)
+Iowa
+Iowa Code Ann. §
+***  The age of majority is 18, but the statute contains a clause using the words "unless otherwise provided by statute" or similar 
+language.  No statutes were found that made the age of capacity to contract different from the age of majority.
+
+§ 14 Infants
+  599.1 (West
+  Supp. 1978)
+Kansas
+Kan. Stat. Ann. §
+  38-101 (1973).
+Kentucky
+Ky. Rev. Stat.
+  Ann. § 2.015
+  (Baldwin 1975)
+Louisiana
+La. Civ. Code
+  Ann. art. 1782
+  (West 1952),
+  art. 37 (West
+  Supp. 1978)
+Maine
+Me. Rev. Stat. tit.
+  1 § 73 (Supp.
+  1973)
+Maryland
+Md. Com. Law
+  Code Ann. §
+  1-103(a) (1975)
+Massachusetts
+Mass. Ann. Laws.
+  ch. 4, § 7(48)
+  (Michie/Law
+  Co-op Supp.
+  1978)
+Michigan
+Mich. Comp.
+  Laws Ann. §
+  722.52 (Supp.
+  1978)
+Minnesota ***
+Minn. Stat. Ann.
+  § 645.45(14)
+  (West Supp.
+  1978)
+Mississippi **
+Miss. Code Ann. §
+  1-3-27 (1972)
+Missouri
+Mo. Ann. Stat. §
+  431.055 (Vernon
+  Supp. 1978)
+Montana
+Mont. Rev. Codes
+  Ann. § 64-101
+  (Supp. 1977)
+Nebraska *
+Neb. Rev. Stat. §
+  38-101 (Reissue
+  1974)
+Nevada
+Nev. Rev. Stat. §
+**  Age is 21
+
+§ 14 Infants
+  129.010 (1977)
+New Hampshire
+N.H. Rev. Stat.
+  Ann. § 21-B:1
+  (Supp. 1977)
+New Jersey
+N.J. Stat. Ann. §
+  9:17B-3 (West
+  1976)
+New Mexico
+N.M. Stat. Ann.
+  §§ 12-2-2 (K);
+  28-6-1 (1978
+  Replacement
+  Vol.)
+New York
+N.Y. Gen. Oblig.
+  Law § 3-101
+  (McKinney
+  1978)
+North Carolina
+N.C. Gen. Stat. §
+  48A-2 (1976
+  Replacement
+  Vol.)
+North Dakota
+N.D. Cent. Code §
+  14-10-01 (1971
+  Replacement
+  Vol. Supp. 1977)
+Ohio
+Ohio Rev. Code
+  Ann. § 3109.01
+  (Page Supp.
+  1977)
+Oklahoma ***
+Okla. Stat. Ann.
+  tit. 15 §§ 11, 13
+  (West 1972)
+Oregon
+Or. Rev. Stat. §
+  109.510 (1977
+  Replacement
+  Vol.)
+Pennsylvania
+73 Pa. Cons. Stat.
+  § 2021 (Purdon
+  Supp. 1978)
+Rhode Island
+R.I. Gen. Laws §
+  15-12-1 (Supp.
+  1977)
+South Carolina
+S.C. Const. art.
+  17 § 14 (1973,
+  amended 1975)
+South Dakota
+S.D. Codified
+
+§ 14 Infants
+  Laws Ann.
+  26-1-1 (Revi-
+  sion 1976)
+Tennessee
+Tenn. Code Ann. §
+  1-313 (Supp.
+  1977)
+Texas
+Tex. Rev. Civ.
+  Stat. Ann. art.
+  5923b (Vernon
+  Supp. 1978)
+Utah
+Utah Code Ann. §
+  15-2-1 (Supp.
+  1977)
+Vermont
+Vt. Stat. Ann. tit.
+  1 § 173 (Supp.
+  1978)
+Virginia ***
+Va. Code §
+  1-13-42 (1973
+  Replacement
+  Vol.)
+Washington
+Wash. Rev. Code
+  § 26.28.015
+  (1976)
+West Virginia
+W. Va. Code §
+  2-3-1 (Supp.
+  1978)
+Wisconsin
+Wis. Stat. Ann.
+  § 990.01(20)
+  (West Supp.
+  1978)
+Wyoming *
+Wyo. Stat. §
+  8-3-103 (a) (i)
+  & (a) (iv), §
+  16-3-101 (1977)
+ 
+Comment c.  On return of property purchased as a condition of the minor's recovery of the purchase price, see 
+2 Williston, Contracts § 238 (3d ed. 1959); Annots., 16 A.L.R. 1475 (1922), 36 A.L.R. 782 (1925), 124 A.L.R. 
+1368 (1940). On the minor's liability for the use or depreciation of the property involved, see 2 Williston, supra § 
+238 and Annot., 12 A.L.R.3d 1174 (1964). Cf. Annot., 44 A.L.R.3d 1417 (1970) (liability of infant's surety).
+When capacity problems raised by mental illness, mental defect and intoxication are decided, among the 
+factors to be considered are the knowledge of the other party and his good faith reliance on the disabled party's 
+apparent capacity.  Traditionally, however the infant's misrepresentation of age and the other party's 
+reasonable reliance upon it have not been considered.  It is arguable that rather than this conceptual approach, 
+the analysis ought to center more on the fairness of the transaction.  Compare §§ 14 and 16.  It would be 
+possible to examine transactions involving minors by the rules of unconscionability and fraud, examining the 
+transaction more closely if the minor is very young.  This, however, may be deemed too great a departure from 
+
+§ 14 Infants
+the traditional reluctance of courts to review the adequacy of consideration, although, as already noted, that 
+appears to be the technique used with mental incapacity and intoxication.  There is also an argument for a rigid 
+approach because this avoids a factual issue that may lead to extensive litigation, which in turn may discourage 
+minors from assertingtheir incapacity against parties better able to bear litigation costs.  Nonetheless, it seems 
+reasonable and above all fair, to consider misrepresentations of age by the minor and the reasonableness of 
+reliance on them by the other party.  The younger the minor, the less likely it would be that a court would hold 
+the minor estopped by his misrepresentation, since the degree of the minor's social responsibility would be 
+smaller and since the other party's reliance would be less justifiable.  This is especially true if eighteen is the 
+age of majority.  This approach has been followed in a number of states in various procedural contexts, 
+although the majority of states appear to retain the traditional rule of no estoppel.
+On false representations of age generally, see 2 Williston, Contracts § 245 (3d ed. 1959); Miller, Fraudulent 
+Misrepresentations of Age as Affecting the Infant's Contract -- A Comparative Study, 15 U. Pitt. L. Rev. 73 
+(1953); Comment, 7 St. Louis U.L.J. 327 (1963). On estoppel due to misrepresentations of age see the above-
+cited authorities; Annot., 29 A.L.R.3d 1270 (1967); Haydocy Pontiac, Inc. v. Lee, 19 Ohio App.2d 217, 250 
+N.E.2d 898 (1969); Kan. Stat. Ann. § 38-103 (1973).  Estoppel often turns on the procedural posture of the 
+case: is the minor plaintiff or defendant; is the action one at law or in equity?  Authorities are grouped in various 
+procedural categories in Annot., 29 A.L.R.3d 1270 (1967), supra.  Many jurisdictions that do not permit the 
+infant to be estopped allow the other party to recover damages in tort for the minor's misrepresentation.  See 
+Miller, supra, 15 U. Pitt. L. Rev. 73 (1953); Comment, 7 St. Louis U.L.J. 327, 329 (1963). Williston appears to 
+support the distinction.  2 Williston, supra, § 245 at 67-68; accord, Prosser, Torts § 134 at 998-1000 (4th ed. 
+1971) ("The effect of the decisions refusing to recognize tort liability for misrepresentations [of age by minors] is 
+to create a privileged class of liars who are a great trouble to the business world.  These decisions seem to rest 
+on a failure to distinguish between a shield and a sword . . . .").  One may question the shield-sword distinction 
+and argue that to refuse to permit estoppel by misrepresentation as a reply to the affirmative defense of infancy 
+while permitting a tort claim for the same misrepresentation is to exalt form over substance.  This analysis led a 
+student commentator to call for the abolition of the minor's tort liability, Comment, 7 St. Louis U.L.J. 327 (1963), 
+supra.  It seems more sensible to permit the misrepresentation to be used as well for estoppel purposes, 
+especially since estoppel brings into play the usual requirement of good faith and reasonable reliance by the 
+other party.  See Annot., 29 A.L.R.2d 1270, supra, at 1277-79.  For a well-stated argument that the fairness of 
+the transaction and an expanded use of the unconscionability doctrine can often be more useful than a rigid 
+age requirement, see Navin, The Contracts of Minors Viewed from the Perspective of Fair Exchange, 50 N.C.L. 
+Rev. 517 (1972). Cf. Green, Proof of Mental Incompetency and the Unexpressed Major Premise, 53 Yale L.J. 
+272 (1944).
+Cross Reference
+ALR Annotations:
+Infants misrepresentation as to his age as estopping him from disaffirming his voidable transaction.  29 
+A.L.R.3d 1270.
+Enforceability of covenant not to compete in infant's employment contract.  17 A.L.R.3d 863.
+Infant's liability for use or depreciation of subject matter, in action to recover purchase price upon his 
+disaffirmance of contract to purchase goods.  12 A.L.R.3d 1174.
+Measure of infant's recovery for value of chattel traded for another upon his rescission of the transaction.  52 
+A.L.R.2d 1114.
+Right of infant who repudiates contract for services to recover thereon or in quantum meruit.  35 A.L.R.2d 1302.
+
+§ 14 Infants
+Failure to disaffirm as ratification of infant's executory contract.  5 A.L.R.2d 7.
+Rights, duties, and liability of corporation in connection with transfer of stock of infant or incompetent.  3 
+A.L.R.2d 881.
+Validity, construction, and effect of court's approval of contract for minor's services.  3 A.L.R.2d 702.
+Digest System Key Numbers:
+Infants 46
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

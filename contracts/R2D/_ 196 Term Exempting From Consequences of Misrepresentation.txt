@@ -1,0 +1,58 @@
+Restat 2d of Contracts, § 196
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 4- Interference with Other 
+Protected Interests        
+§ 196 Term Exempting From Consequences of Misrepresentation
+A term unreasonably exempting a party from the legal consequences of a misrepresentation is 
+unenforceable on grounds of public policy.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  A misrepresentationthat induces the formation of a contract may have the effect of giving the 
+recipient of the misrepresentation the power to avoid the contract (§ 164; cf. § 163).  It may also give him a 
+claim for damages in tort (Restatement, Second, Torts chs. 22, 23).  Sometimes a party to a contract includes 
+language to negate or limit these consequences.  Under the general rules governing the interpretation of 
+agreements, such language is interpreted wherever reasonable as consistent with the representations 
+themselves.  See § 202(5); see also Uniform Commercial Code § 2-316(1).  To the extent that there is a 
+conflict, however, a party's attempt unreasonably to exempt himself, in whole or in part, from the consequences 
+of his misrepresentation is inoperative.  See Uniform Commercial Code § 2-316(1).  The rule stated in this 
+Section applies to non-fraudulent as well as fraudulent misrepresentations.  It does not, however, apply to 
+language that prevents the making of any misrepresentation in the first place, such as that disclosing the truth 
+(see § 161).  Nor does it apply to language that prevents reliance by the recipient on a misrepresentation (see § 
+167) or that makes his reliance unjustified (see § 172), but such language is not effective unless it actually has 
+the asserted effect and is not a mere recital that it does.  Furthermore, the parties can limit the time within which 
+a misrepresentation can be asserted, as long as the time is a reasonable one.  The rule stated in this Section 
+does not apply to an agreement by a third person to indemnify a party against liability for misrepresentation.
+Illustration:
+1.  A and B sign a written agreement containing a term precluding B from asserting any misrepresentations 
+made by A.  The term is unenforceable on grounds of public policy with respect to both fraudulent and non-
+fraudulent misrepresentations.  As to the effect of the parol evidence rule on prior or contemporaneous non-
+fraudulent misrepresentations, see Comment b and § 214(d).
+b.  Relation to other rules.  The rule stated in this Section does not alter the effect of an integrated agreement 
+on prior agreements under the parol evidence rule (§ 213), which is subject to an exception for fraudulent, but 
+not for non-fraudulent, misrepresentations (§ 214).  It does not preclude the possibility that the parties may 
+effectively limit the remedies that are available for misrepresentation (see Uniform Commercial Code § 2-719), 
+as long as this is not unconscionable (§ 208).  In many situations it will be subject to specific statutory 
+provisions, such as those governing warranties under the Uniform Commercial Code.  See Uniform Commercial 
+Code § 2-316.
+REPORTER'S NOTES
+This Section is based on former § 573.  It has been broadened to cover non-fraudulent as well as fraudulent 
+misrepresentations in order to be consistent with the provisions of Uniform Commercial Code § 2-316(1).  This 
+is supported by Clements Auto Company v. Service Bureau Corp., 444 F.2d 169 (8th Cir. 1971); cf.  Warman v. 
+Delaney, 148 Conn. 469, 172 A.2d 188 (1961). Compare Wilkinson v. Carpenter, 276 Or. 311, 554 P.2d 512 
+(1976). See 6A Corbin, Contracts § 1516 (1962).
+
+§ 196 Term Exempting From Consequences of Misrepresentation
+Comment a.  Illustration 1 is based on Illustration 2 to former § 573.  See Zuckerman-Vernon Corp. v. Rosen, 
+361 So.2d 804 (Fla. Dist. Ct. App. 1978); Agricultural Services Ass'n v. Ferry-Morse Seed Co., 551 F.2d 1057 
+(6th Cir. 1977).
+Cross Reference
+ALR Annotations:
+Validity and construction of "No Damage" Clause with respect to delay in building or construction contract.  74 
+A.L.R.3d 187.
+Validity and construction of contract exempting agricultural fair or similar bailee from liability for articles 
+delivered for exhibition.  69 A.L.R.3d 1025.
+Digest System Key Numbers:
+Contracts 114
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,93 @@
+Restat 2d of Contracts, § 110
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds        
+§ 110 Classes of Contracts Covered
+(1)  The following classes of contracts are subject to a statute, commonly called the Statute of Frauds, 
+forbidding enforcement unless there is a written memorandum or an applicable exception:
+(a)  a contract of an executor or administrator to answer for a duty of his decedent (the 
+executoradministrator provision);
+(b)  a contract to answer for the duty of another (the suretyship provision);
+(c)  a contract made upon consideration of marriage (the marriage provision);
+(d)  a contract for the sale of an interest in land (the land contract provision);
+(e)  a contract that is not to be performed within one year from the making thereof (the one-year 
+provision).
+(2)  The following classes of contracts, which were traditionally subject to the Statute of Frauds, are 
+now governed by Statute of Frauds provisions of the Uniform Commercial Code:
+(a)  a contract for the sale of goods for the price of $ 500 or more (Uniform Commercial Code § 2-201);
+(b)  a contract for the sale of securities (Uniform Commercial Code § 8-319);
+(c)  a contract for the sale of personal property not otherwise covered, to the extent of enforcement by 
+way of action or defense beyond $ 5,000 in amount or value of remedy (Uniform Commercial Code § 1-
+206).
+(3)  In addition the Uniform Commercial Code requires a writing signed by the debtor for an agreement 
+which creates or provides for a security interest in personal property or fixtures not in the possession 
+of the secured party.
+(4)  Statutes in most states provide that no acknowledgment or promise is sufficient evidence of a new 
+or continuing contract to take a case out of the operation of a statute of limitations unless made in 
+some writing signed by the party to be charged, but that the statute does not alter the effect of any 
+payment of principal or interest.
+(5)  In many states other classes of contracts are subject to a requirement of a writing.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Classes of contracts.  The five classes of contracts listed in Subsection (1) were included in different 
+language in § 4 of the English Statute of Frauds, enacted in 1677.  The English Statute was repealed in 1954 
+except for the suretyship and land contract provisions.  Subsections (2) and (3) refer to four separate Statute of 
+Frauds sections found in the Uniform Commercial Code, which displace § 4 of the Uniform Sales Act and § 17 
+of the English statute.  The Code sections are not elaborated in this Restatement.  Subsection (4) is a 
+statement of a provision of Lord Tenterden's Act, 1828, which has been widely copied in the United States.  As 
+
+§ 110 Classes of Contracts Covered
+to the extent of enactment of these and other similar statutes, see the Statutory Note preceding this Section.  
+The formal contracts referred to in § 6 of this Restatement are not affected by the Statute of Frauds, but in 
+some cases are subject to separate statutes containing formal requirements.
+b.  Overlap of classes.  The clauses of the English statute apply separately; one contract may be within more 
+than one clause of the statute, and facts which except it from one class may not except it from another.  Thus 
+contracts in consideration of marriage or for the sale of land or goods may also be contracts not to be 
+performed within a year, and the statutory requirements in one clause may be satisfiedand those of another 
+clause unsatisfied.
+Illustration:
+1.  A and B orally agree to marry three years later.  The contract is unenforceable because not to be performed 
+within a year, even though it is excepted from the provision for contracts in consideration of marriage.
+c.  Variations in the statutes.  The English Statute of Frauds and many American statutes take the form, "No 
+action shall be brought whereby to charge . . . unless . . . . " In some states non-complying contracts are said to 
+be "void" or "invalid" or "not binding," but in spite of such differences there is much similarity in the interpretation 
+given.  Lord Tenterden's Act and statutes modeled on it, however, are generally construed to require the 
+acknowledgment or promise itself to be in writing; under such statutes a subsequent memorandum does not 
+render enforceable a prior oral promise.  See § 136.
+d.  Consequences of non-compliance.  The consequences of non-compliance are the subject of Topic 7, §§ 
+138-47.  In general a contract subject to the Statute of Frauds is unenforceable if the requirements of the 
+statute are not satisfied.  See § 8.  The Statute does not in general bar the remedy of restitution; indeed, 
+recovery of benefits conferred pursuant to an unenforceable contract is a standard remedy.  See § 375; 
+Restatement of Restitution § 108.  Where there has been part performance or other action in reliance on an 
+unenforceable contract, the effect is in some situations to make the contract fully enforceable, in others to make 
+particular remedies available.  See, e.g., § 129.  Even though no such rule is applicable, the circumstances may 
+be such that justice requires enforcement of the promise.  To the extent that justice so requires, the promise is 
+then enforced by virtue of the doctrine of estoppel or by virtue of reliance on a promise notwithstanding the 
+Statute.  See § 139.
+REPORTER'S NOTES
+See 3 Williston, Contracts §§ 448-50, 525-34 (3d ed. 1960); 2 Corbin, Contracts §§ 275-85 (1950 & Supps. 
+1971 & 1980).
+Comment b.  Illustration 1 is based on Brock v. Button, 187 Wash. 27, 59 P.2d 761 (1936).
+Comment d.  See 3 Williston, Contracts § 533A (3d ed. 1960); 2 Corbin, Contracts § 422A (Supp. 1971); 
+Edwards, The Statute of Frauds of the Uniform Commercial Code and the Doctrine of Estoppel, 62 Marq. L. 
+Rev. 205 (1978); Summers, The Doctrine of Estoppel Applied to the Statute of Frauds, 79 U. Pa. L. Rev. 440 
+(1931); McNeill, Agreements to Reduce to Writing Contracts Within the Statute of Frauds, 15 Va. L. Rev. 553 
+(1928); Annots.  75 A.L.R. 650 (1931), 101 A.L.R. 923 (1936), 115 A.L.R. 152, 158 (1938), 117 A.L.R. 939 
+(1938), 166 A.L.R. 443 (1947), 48 A.L.R.2d 1069, 1079 (1956). But see Note, 66 Mich. L. Rev. 170 (1967). 
+Illustrative of the several approaches to the interplay between estoppel and the Statute of Frauds are C. R. 
+Fedrick, Inc. v. Borg-Warner Corp., 552 F.2d 852 (9th Cir. 1977); Janke Constr. Co. Inc. v. Vulcan Materials 
+Co., 386 F. Supp. 687 (W.D. Wis. 1974), aff'd, 527 F.2d 772 (7th Cir. 1976); and Boddy v. Gray, 497 S.W.2d 
+600 (Tex. Civ. App. 1973), error ref.
+Cross Reference
+ALR Annotations:
+Joint adventure agreement for acquisition, development, or sale of land as within provision of statute of frauds 
+governing broker's agreement for commission on real-estate sale.  48 A.L.R.2d 1042.
+Statute of frauds as applicable to seller's oral warranty as to quality or condition of chattel.  40 A.L.R.2d 760.
+Statute of frauds: promise by stockholder, officer, or director to pay debt of corporation.  35 A.L.R.2d 906.
+Construction of statute requiring representations as to credit, etc., of another to be in writing.  32 A.L.R.2d 743.
+
+§ 110 Classes of Contracts Covered
+Digest System Key Numbers:
+Frauds, Statute of 1 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

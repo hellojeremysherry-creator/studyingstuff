@@ -1,0 +1,99 @@
+Restat 2d of Contracts, § 8
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 1- Meaning of 
+Terms        
+§ 8 Unenforceable Contracts
+An unenforceable contract is one for the breach of which neither the remedy of damages nor the 
+remedy of specific performance is available, but which is recognized in some other way as creating a 
+duty of performance, though there has been no ratification.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Distinction between "voidable" and "unenforceable."  Just as a contract may be voidable by one party or by 
+either party, so it may be enforceable by one and not by the other or it may be unenforceable by either.  
+Similarly, one party to an unenforceable contract may have a power to make the contract enforceable by all the 
+usual remedies, and both voidable and unenforceable contracts may have collateral consequences.  Voidable 
+contracts might be defined as one type of unenforceable contract.  As defined here, however, the term 
+unenforceable contract refers to rules under which the duty of performance does not depend solely on the 
+election of one party.  In the transactions here classified as unenforceable, some legal consequences other 
+than the creation of a power of ratification follow without further action by either party.
+Illustrations:
+1.  A, an infant, orally accepts a written offer signed by B, an adult, to sell a tract of land.  A's promise is 
+voidable by him because of his infancy and unenforceable under the Statute of Frauds.  Upon attaining his 
+majority, A delivers to B a signed writing stating the terms of the contract and manifesting an election to avoid it.  
+Under § 133, the Statute of Frauds no longer prevents enforcement; but the contract is avoided.
+2.  A is indebted to B, but the statute of limitations has barred a direct remedy.  A has the power to make direct 
+remedies available or to make a new contract without consideration by making a new promise or part payment 
+of the debt (see § 82).  Even without such further acts, legal consequences may flow from the barred debt.  If 
+the creditor has security, he may have a right to apply it towards payment of the debt.
+b.  Types of unenforceable contracts.  Some contracts are unenforceable because they arise out of illegal 
+bargains which are neither wholly void nor voidable.  See Comments b-d to § 178; §§ 183-84; Comment b to § 
+197.  Others are unenforceable because of laws relating primarily to remedies, such as the Statute of Frauds 
+(see Chapter 5) or Statute of Limitations.
+Illustrations:
+3.  A agrees to sell specific goods to B, and B agrees to buy them.  A has previously contracted to sell the same 
+goods to C, as B knows.  The bargain between A and B is unenforceable on grounds of public policy (§ 194), 
+and neither party can enforce it while executory.  But if either party performs his promise, he can recover what 
+he has transferred or its value.  The return promise, though unenforceable, is given legal effect as showing that 
+the performance was not gratuitous, and is therefore a contract.
+4.  A makes an oral purchase of goods from B for an agreed price of $ 500.  There is no delivery or part 
+payment, and the bargain is unenforceable under the Statute of Frauds.  A insures the goods as owner.  The 
+insurer cannot defeat a claim under the policy on the ground that A did not own the goods, although A would 
+have had no direct remedy against B for failure to deliver.
+c.  Government contracts.  Contracts with a government or governmental agency are sometimes unenforceable 
+under remnants of the historic English tradition that the sovereign is immune from suit.  Yet the legal 
+consequences of such a contract show that what is promised by the government is due as of right and not as a 
+favor.  Thus, a claim against the government arising out of the contract may pass to the executor or trustee in 
+
+§ 8 Unenforceable Contracts
+bankruptcy of the claimant.  Sometimes such a claim, though not enforceable by action, may be asserted 
+defensively in an action by the government.
+Increasingly, governments have enacted statutes giving general consent to actions on contracts.  Contracts 
+enforceable by judicial proceedings under such statutes fall outside the present definition of unenforceable 
+contracts, even though the action may be brought only in a special court, or relief may be limited to money 
+damages, or execution cannot be levied on a money judgment.  The critical element is not compulsion by 
+physical force, but the availability of judicial machinery to make a final determination of legal obligation.  Thus, 
+where the only direct remedy is by legislative approval of a private bill or by unreviewable administrative action, 
+the contract is within the present definition of unenforceable contracts.
+The question whether a contract is enforceable by direct legal proceedings is quite different from the question 
+whether the legal right will be converted into money or its equivalent.  The latter question may depend on 
+whether there is a regular practice of making appropriations to pay judgments, or, as in cases of private 
+obligors, on the solvency of the government against whom the judgment is rendered.  There is sometimes more 
+assurance of payment under an unenforceable contract than under a judgment.
+Illustrations:
+5.  A, an American citizen, holds notes issued by B, a foreign government.  Because of the sovereign immunity 
+of B, the notes are not enforceable against B in the courts of the United States.  In an action by B against A on 
+an unrelated claim, however, A may use the notes as an offset to reduce the amount of B's recovery.
+6.  A, an American citizen, has a contract with the United States government, and after a breach by the 
+government obtains a judgment for damages in the United States Court of Claims.  Under the tax laws, money 
+receivable under the contract is taxable as accrued income when there is a reasonable expectancy that the 
+right will be converted into money.  The income accrues in the year in which the time for appellate review of the 
+judgment expires, even though Congress does not appropriate money to pay the judgment until the following 
+year.
+REPORTER'S NOTES
+This Section is based on former § 14.  See 1 Williston, Contracts § 16 (3d ed. 1957); 1 Corbin, Contracts § 8 
+(1963 & Supp. 1980).
+Comment a.  For a good discussion of the differences among "void," "voidable," and "unenforceable" contracts, 
+see Daugherty v. Kessler, 264 Md. 281, 286 A.2d 95 (1972). That case also illustrates the rule that interference 
+with an unenforceable contract may be a tort.  Illustration 1 is new; see § 14 and Illustration 4 to § 133.  
+Illustration 2 is based on Illustration 1 to former § 14.
+Comment b.  For an example of a court's refusal to enforce a labor arbitrator's award because the contract 
+provision on which it was based was unenforceable as violative of federal labor law, see Botany Indus., Inc. v. 
+New York Joint Board, Amalgamated Clothing Workers, 375 F. Supp. 485 (S.D.N.Y.), vacated as moot, 506 
+F.2d 1246 (2d Cir. 1974). Illustration 3 follows former § 600; see Illustration 3 to § 197.  Compare Restatement 
+of Restitution §§ 107, 108.  On unenforceable contracts arising out of bargains against public policy, see 14 
+Williston, Contracts §§ 1630A, 15 id. § 1762 (3d ed. 1957); 6A Corbin, Contracts §§ 1534-41 (1962 & Supp. 
+1980).  Illustration 4 is based on Illustration 3 to former § 14.
+Comment c.  Illustration 5 is based on National City Bank v. Republic of China, 348 U.S. 356 (1955). Illustration 
+6 is based on H. Liebes & Co. v. Commissioner, 90 F.2d 932 (9th Cir. 1937); cf.  Irwin v. Commissioner, 238 
+F.2d 874 (3d Cir. 1956). As to the rights against the government of the claimant's executor or trustee in 
+bankruptcy, see United States v. Shannon, 342 U.S. 288, 292 (1952); McKay v. United States, 27 Ct. Cl. 422 
+(1892). See, generally, Note, Developments in the Law -- Remedies Against the United States and Its Officials, 
+70 Harv. L. Rev. 827, 884 (1957); Note, Administration of Claims Against the Sovereign -- A Survey of State 
+Techniques, 68 Harv. L. Rev. 506 (1955).
+Cross Reference
+Digest System Key Numbers:
+Contracts 98
+
+§ 8 Unenforceable Contracts
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

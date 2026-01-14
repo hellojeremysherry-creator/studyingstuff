@@ -1,0 +1,51 @@
+Restat 2d of Contracts, § 55
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 55 Acceptance of Non-Promissory Offers
+Acceptance by promise may create a contract in which the offeror's performance is completed when 
+the offeree's promise is made.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  "Reverse unilateral contracts."  It is possible to offer a performance without making any promise.  Like other 
+offers, a non-promissory offer may require acceptance by performance or acceptance by promise or a 
+combination of the two, or it may leave the mode of acceptance to the offeree's choice.  An exchange of 
+performances is not within the definition of "contract" in § 1 and is beyond the scope of the Restatement of this 
+Subject.  But where a non-promissory offer is accepted by promise, there is a contract if the requirements other 
+than manifestation of mutual assent are met.  Since the contract formed by a performance in response to an 
+offer of a promise such as an offer of reward is often called a "unilateral contract," the type of contract referred 
+to inthis Section is sometimes referred to as a "reverse unilateral contract." Contracts so referred to often 
+involve incidental promises by the performing offeror, and in that event the word "unilateral" is not entirely 
+appropriate.
+b.  Types of non-promissory offers.  Most offers are themselves promises.  But if the offeror's performance is 
+complete at the moment of acceptance, the element of futurity required by the definition of "promise" in § 2 is 
+lacking.  Performance may be thus complete when the offer takes the form of a tender of money or other 
+property; indeed, the acceptance of the offer may then be implied from the fact that the offeree takes the 
+offered benefits, without more.  See § 69.  In such cases the offeree's manifestation of assent may effect the 
+transfer of property from offeror to offeree which furnishes consideration for the offeree's promise.  This element 
+is lacking when services alone are offered, but a contract may nonetheless be formed if the offeree takes the 
+benefit of the services.
+Illustrations:
+1.  A applies to B, an insurance company, for a policy of life insurance, and pays the first premium on an 
+understanding that the insurance must be approved at B's home office.  B's notification that the approval has 
+been given is an acceptance of A's offer and forms a contract of insurance.
+2.  A offers to lend B $ 100 on specified terms and tenders the money to B.  B's acceptance of the tender forms 
+a contract on the terms specified.
+3.  A, the owner of a horse in B's possession, offers to sell the horse to B for $ 100 payable in thirty days.  On 
+B's promise to pay in accordance with the offer, ownership of the horse is transferred to him and there is a 
+contract.  Uniform Commercial Code § 2-401(3).
+4.  A, a real estate broker, without authority from B, the owner of property, obtains from C an offer to purchase 
+the property from B on terms which include the payment of a specified commission by B to A.  A then presents 
+C's offer to B.  B's acceptance of C's offer also accepts A's offer of services and forms a contract between A 
+and B.
+REPORTER'S NOTES
+This Section is based on former § 57.  See 1 Williston, Contracts § 71 (3d ed. 1957); 1 Corbin, Contracts § 71 
+(1963 & Supp. 1980); Goble, The Non-Promissory Offer, 48 Nw. U.L. Rev. 590 (1953).
+Comment b.  Illustrations 1, 2 and 4 are new.  Illustration 3 is revised from Illustration 1 to former § 57.
+
+§ 55 Acceptance of Non-Promissory Offers
+Cross Reference
+Digest System Key Numbers:
+Contracts 16, 22
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

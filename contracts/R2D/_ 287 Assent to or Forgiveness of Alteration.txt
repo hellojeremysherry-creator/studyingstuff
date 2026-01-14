@@ -1,0 +1,59 @@
+Restat 2d of Contracts, § 287
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 4- Alteration        
+§ 287 Assent to or Forgiveness of Alteration
+(1)  If a party, knowing of an alteration that discharges his duty, manifests assent to the altered terms, 
+his manifestation is equivalent to an acceptance of an offer to substitute those terms.
+(2)  If a party, knowing of an alteration that discharges his duty, asserts a right under the original 
+contract or otherwise manifests a willingness to remain subject to the original contract or to forgive the 
+alteration, the original contract is revived.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Assent to alteration.  An alteration may be regarded as manifesting a desire on the part of its maker to have 
+a contract in the altered form, and assent by the other party will be treated as if it were acceptance of an offer to 
+substitute the altered terms.  The same requirements must be met as in the case of any substituted contract, 
+including those imposed by the doctrine of consideration and by the Statute of Frauds.  If two or more persons 
+are under duties to perform the same act and only one of them assents to an alteration, the fact that the others 
+are discharged does not affect the liability of the one who assents, and his assent has the same effect as to him 
+as it would have had if no duties of the others had been discharged.
+Illustrations:
+1.  A and B make an integrated agreement under which B promises to employ A for one year from the date of 
+the contract at a stated monthly salary.  B fraudulently erases "one year" and substitutes "two years." A, on 
+learning of the alteration, writes B, "I shall be glad to work for you for two years at the stated salary." Although 
+the alteration was both fraudulent and material, A's manifestation of assent is equivalent to an acceptance of an 
+offer by B to employ A for two years, and both A and B are bound by a contract on those terms.
+2.  The facts being otherwise as stated in Illustration 1, A manifests his assent over the telephone instead of in 
+writing.  A's assent is not enforceable against him because of the Statute of Frauds (§ 130).
+b.  Forgiveness of alteration.  The innocent party loses none of his rights as the result of an alteration made 
+without his consent and can always assert them under the original contract.  If he does assert them, however, 
+he is regarded as having forgiven the alteration and the original contract is revived.  Any other manifestation of 
+a willingness to remain subject to the duties under the original contract or to forgive the alteration has the same 
+effect.  Forgiveness need not be supported by consideration.  If two or more persons are under duties to 
+perform the same act, the effect of forgiveness by one of them is the same as the effect of assent as discussed 
+in Comment a.
+Illustrations:
+3.  A and B make an integrated contract for the sale of goods to be delivered by A for which B promises to pay 
+a price of $ 1,000.  A fraudulently erases "$ 1,000" and substitutes "$ 1,100." B, on learning of the alteration, 
+writes A that he must deliver the goods as promised.  Although the alteration is both fraudulent and material, A 
+can enforce the contract against B.
+4.  The facts being otherwise as stated in Illustration 3, B instead of writing A that he must deliver the goods, 
+writes A that he forgives the alteration.  Although the alteration is both fraudulent and material, A can enforce 
+the contract against B.
+REPORTER'S NOTES
+
+§ 287 Assent to or Forgiveness of Alteration
+This Section is based on former §§ 436 and 437.  See 6 Corbin, Contracts § 1317 (1962); 15 Williston 
+Contracts §§ 1896-97 (3d ed. 1972).
+Comment a.  The part of the rule of former § 438(1) relating to the liability of one of several parties who assents 
+to an alteration is now found in Comment a.  Illustrations 1 and 2 are based on Illustration 2 to former § 437.
+Comment b.  The part of the rule of former § 438(1) relating to the liability of the one of several parties who 
+excuses an alteration is now found in Comment b.  Illustration 3 is based on Illustration 1 to former § 436.  
+Illustration 4 is based on Illustration 6 to former § 437.
+Cross Reference
+ALR Annotations:
+What are additional terms materially altering contract within meaning of UCC § 2-207(2)(b).  72 A.L.R.3d 479.
+Digest System Key Numbers:
+Alteration of Instruments 13
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

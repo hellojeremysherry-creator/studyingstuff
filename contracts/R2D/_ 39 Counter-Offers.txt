@@ -1,0 +1,63 @@
+Restat 2d of Contracts, § 39
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 39 Counter-Offers
+(1)  A counter-offer is an offer made by an offeree to his offeror relating to the same matter as the 
+original offer and proposing a substituted bargain differing from that proposed by the original offer.
+(2)  An offeree's power of acceptance is terminated by his making of a counter-offer, unless the offeror 
+has manifested a contrary intention or unless the counter-offer manifests a contrary intention of the 
+offeree.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Counter-offer as rejection.  It is often said that a counter-offer is a rejection, and it does have the same effect 
+in terminating the offeree's power of acceptance.  But in other respects a counter-offer differs from a rejection.  
+A counter-offer must be capable of being accepted; it carries negotiations on rather than breaking them off.  
+The termination of the power of acceptance by a counter-offer merely carries out the usual understanding of 
+bargainers that one proposal is dropped when another is taken under consideration; if alternative proposals are 
+to be under consideration at the same time, warning is expected.
+Illustration:
+1.  A offers B to sell him a parcel of land for $ 5,000, stating that the offer will remain open for thirty days.  B 
+replies, "I will pay $ 4,800 for the parcel," and on A's declining that, B writes, within the thirty day period, "I 
+accept your offer to sell for $ 5,000." There is no contract unless A's offer was itself a contract (see § 37), or 
+unless A's reply to the counter-offer manifested an intention to renew his original offer.
+b.  Qualified acceptance, inquiry or separate offer.  A common type of counter-offer is the qualified or 
+conditional acceptance, which purports to accept the original offer but makes acceptance expressly conditional 
+on assent to additional or different terms.  See § 59.  Such a counter-offer must be distinguished from an 
+unqualified acceptance which is accompanied by a proposal for modification of the agreement or for a separate 
+agreement.  A mere inquiry regarding the possibility of different terms, a request for a better offer, or a 
+comment upon the terms of the offer, is ordinarily not a counter-offer.  Such responses to an offer may be too 
+tentative or indefinite to be offers of any kind; or they may deal with new matters rather than a substitution for 
+the original offer; or their language may manifest an intention to keep the original offer under consideration.
+Illustration:
+2.  A makes the same offer to B as that stated in Illustration 1, and B replies, "Won't you take less?" A answers, 
+"No." An acceptance thereafter by B within the thirty-day period is effective.  B's inquiry was not a counter-offer, 
+and A's original offer stands.
+c.  Contrary statement of offeror or offeree.  An offeror may state in his offer that it shall continue for a stated 
+time in any event and that in the meanwhile he will be glad to receive counter-offers.  Likewise an offeree may 
+state that he is holding the offer under advisement, but that if the offeror desires to close a bargain at once the 
+offeree makes a specific counter-offer.  Such an answer will not extend the time that the original offer remains 
+open, but will not cut that time short.  Compare § 38.
+Illustration:
+3.  A makes the same offer to B as that stated in Illustration 1.  B replies, "I am keeping your offer under 
+advisement, but if you wish to close the matter at once I will give you $ 4,800." A does not reply, and within the 
+thirty-day period B accepts the original offer.  B's acceptance is effective.
+
+§ 39 Counter-Offers
+REPORTER'S NOTES
+This Section is based on former § 38.  See 1 Williston, Contracts § 51 (3d ed. 1957); 1 Corbin, Contracts §§ 89-
+93 (1963 & Supp. 1980).
+Comment a.  On Uniform Commercial Code § 2-207, and its relation to the "mirror image rule" stated in this 
+Section, see Uniroyal, Inc. v. Chambers Gasket & Mfg. Co.,    Ind. App.   , 380 N.E.2d 571 (1978), and 
+authorities cited therein; Roto-Lith, Ltd. v. F. P. Bartlett & Co., 297 F.2d 497 (1st Cir. 1962); Duval v. Malcom, 
+233 Ga. 784, 214 S.E.2d 356 (1975); Comment, 32 Ark. L. Rev. 528 (1978). Illustration 1 is based on 
+Illustration 1 to former § 38; see Duval & Co. v. Malcom, supra.
+Comment b.  For an example of an unqualified acceptance with a proposal for modification, see Katz v. Pratt 
+St. Realty Co., 257 Md. 103, 262 A.2d 540 (1970). Illustration 2 is based on Illustration 2 to former § 38; see 
+Coffman Indus., Inc. v. Gorman-Taber Co., 521 S.W.2d 763, 772-73 (Mo. Ct. App. 1975).
+Comment c.  Illustration 3 is based on Illustration 3 to former § 38.
+Cross Reference
+Digest System Key Numbers:
+Contracts 24
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

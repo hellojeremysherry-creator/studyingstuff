@@ -1,0 +1,119 @@
+Restat 2d of Contracts, § 320
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 1- What Can Be Assigned or Delegated        
+§ 320 Assignment of Conditional Rights
+The fact that a right is created by an option contract or is conditional on the performance of a return 
+promise or is otherwise conditional does not prevent its assignment before the condition occurs.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Offers and option contracts.  An offer can be accepted only by a person whom it invites to furnish the 
+consideration, or by his agent.  See §§ 29, 52.  The power to accept can be exercised by a transferee only if the 
+transferee is such a person.  But an option contract, limiting the power to revoke an offer, is treated as creating 
+a right which is assignable like other contractual rights.  See § 25.  Of course the assignment may be ineffective 
+if it materially varies the obligor's duty, or if it is contrary to the terms of the option contract.  See § 317.
+Illustrations:
+1.  In return for $ 100 paid by A, B promises to convey Blackacre for $ 10,000 on receipt of that amount within 
+thirty days.  A assigns the option to C.  On C's tender of $ 10,000 within thirty days, B is under a duty to convey 
+Blackacre to C.
+2.  In return for $ 100 paid by A, B promises to convey Blackacre to A, if A gives notice of acceptance within 
+thirty days, for $ 10,000 of which $ 2,000 is to be paid on conveyance and the balance in four annual 
+installments represented by notes.  A assigns the option to C.  The assignment is effective, but C's right is 
+conditional on tender of notes signed by A.
+b.  Conditional right and conditional assignment.  Not every conditional right is capable of effective assignment.  
+The fact that the right is conditional does not prevent effective assignment, but assignment is subject to the 
+same restrictions as in cases of unconditional rights.  See § 317.  Either the assignment or the right assigned, 
+or both, may be subject to a condition.  See § 331.  Thus there may be a conditional assignment of a 
+conditional right.
+Illustrations:
+3.  A holds an insurance policy in which the insurer promises to pay him $ 1000 at the end of twenty years if A 
+makes specified payments of premiums.  A can assign his conditional right.
+4.  A has a contract with B under which certain payments are to be made to A by B under a fixed schedule and 
+other payments are to be made if B's earnings exceed stated amounts.  As security for a loan to A by C, A 
+assigns to C A's rights to payments by B, A to retain any payments falling due before default by A under the 
+loan agreement.  The assignment is effective according to its terms.
+c.  Return performance.  The parties to an exchange of promises ordinarily contemplate an exchange of 
+performances, and the right of each is often conditional on his own performance.  See §§ 231-39.  Or the right 
+may be conditional on a performance by another, or on some other event.  Such a condition does not prevent 
+assignment by a promisee or beneficiary of his conditional right.  Whether or not the return performance is 
+delegable, and whether or not the assignor is under a duty to render it, the assignee's right is subject to the 
+same conditions as was the assignor's.
+Illustrations:
+5.  a, A builder, and B, an owner of land, enter into a building contract.  A assigns to C payments due or to 
+become due him under the contract.  The assignment is effective.
+6.  In Illustration 5, B sells the land to D and assigns to D his right to performance by A.  The assignment is 
+effective.
+
+§ 320 Assignment of Conditional Rights
+7.  A, a teacher employed in a public or private school, assigns to C the salary to be earned the following 
+month.  In the absence of statute, the assignment is effective.
+d.  Delegation and assumption.  The question whether a return performance is delegable arises only if the 
+assignor attempts to delegate it.  Often an assignor delegates performance to the assignee, and the assignee 
+assumes the assignor's duty to perform, promising the assignor that the delegated performance will be 
+rendered.  See §§ 318-19.  If the performance is delegable, such an assignment does not of itself materially 
+vary a condition of the right assigned.  The assignor remains subject to the same duty as before, and the 
+obligor of the assigned right acquires a new right as an intended beneficiary of the assignee's promise.  In 
+effect the assignor becomes a surety for the assignee.
+Illustrations:
+8.  A contracts with B, a city, to clean the streets of B weekly for five years in return for monthly payments.  A 
+assigns his rights under the contract to C, and C promises A to perform A's duties under it.  The assignment is 
+effective.  A is still bound to B, but as surety for C.
+9.  A, a builder, and B, an owner of land, enter into a building contract.  A enters into a contract with C that C 
+will take A's place in the building contract and that A will be freed from his obligation under it.  B does not 
+manifest assent or accept any performance from C.  A is still bound to B.
+10.  A and B contract that B will sell and deliver goods to A in monthly installments for six months and A will pay 
+for them on delivery.  A assigns his rights under the contract to C, who assumes the duty of payment.  C 
+refuses to accept any goods from B.  Both A and C are subject to liability to B, A as surety for C.
+11.  After the assignment in Illustration 10, C and B, without consulting A, agree to and do postpone deliveries 
+for three months.  A's duty is discharged.
+e.  Prospective failure of performance.  An assignment is not effective if its effect is to impair materially the 
+obligor's chance of obtaining return performance.  See § 317.  Thus an assignment accompanied by the 
+assignor's repudiation of his duty to render a return performance may justify the obligor in suspending his own 
+performance, in so changing his position that his duty is discharged, or even in bringing an immediate action for 
+breach.  See §§ 329 and 235-38.  An attempt to delegate to an assignee a non-delegable performance may 
+have a similar effect.  Under Uniform Commercial Code § 2-210, the obligor may treat any assignment of rights 
+under a contract for the sale of goods as creating reasonable grounds for insecurity if the assignor delegates 
+performance.  Under § 2-609 of the Code, the obligor may then demand adequate assurance of due 
+performance, and failure of the assignor or assignee to furnish such assurance within a reasonable time has 
+the effect of a repudiation.  See also § 251.
+Illustrations:
+12.  A and C, partners, contract with B to act as the exclusive distributor of B's product in a specified territory.  
+The contract is to last for one year, and they are to have an option to renew it from year to year.  After six 
+months A sells his interest in the contract to C and withdraws from the business.  C gives notice of intention to 
+renew, and B refuses to renew.  B is not subject to liability to C for the refusal.
+13.  A, a corporation, leases railway cars to B by a contract providing that A will keep the cars in repair.  A 
+becomes insolvent, and as a result of insolvency proceedings A's rights under the lease contract and A's repair 
+facilities and staff are transferred to C, a solvent corporation, which assumes the duty of repair and assures B 
+of its readiness and willingness to carry out the terms of the lease.  A remains in existence under court 
+supervision.  B remains obligated by the lease.
+REPORTER'S NOTES
+This Section consolidates former §§ 155 and 161.  See 3 Williston, Contracts, §§ 412-21A (3d ed. 1960); 1A 
+Corbin, Contracts § 271 (1963 & Supp. 1980), 4 id. §§ 865-69, 874-76 (1951 & Supps. 1971 & 1980).
+Comment a.  Illustration 1, is based on Illustration 2 to former § 155.  Illustration 2 is based on Carluccio v. 607 
+Hudson St. Holding Co., 139 N.J. Eq. 481, 52 A.2d 56 (1947), aff'd 141 N.J. Eq. 449, 57 A.2d 452 (1948); cf.  
+Phipps Land Co. v. Wilwat Props., 231 Ga. 305, 201 S.E.2d 408 (1973).
+Comment b.  Illustration 3 was Illustration 1 to former § 155.  Illustration 4 is based on In re New York, N. H. & 
+H.R.R., 25 F. Supp. 874 (D. Conn. 1938); cf.  Rockmore v. Lehman, 129 F.2d 892 (2d Cir.), cert. denied, 317 
+U.S. 700 (1942); National City Bank v. Goess, 130 F.2d 376 (2d Cir. 1942); In re Allied Prods. Co., 134 F.2d 
+
+§ 320 Assignment of Conditional Rights
+725 (6th Cir.), cert. denied, 320 U.S. 740 (1943); Miller v. Wells Fargo Bank Int'l Corp., 540 F.2d 548, 558-60 
+(2d Cir. 1976).
+Comment c.  Illustration 5 is based on Illustration 1 to former § 161.  Illustrations 6 and 7 are new.  As to 
+Illustration 6, compare Prochemco, Inc. v. Clajon Gas Co., 555 S.W.2d 189 (Tex. Civ. App. 1977), ref. n.r.e., in 
+which the rights under a contract were assignable but an option to renew was not.  The court permitted the 
+option holder to exercise the option on behalf of its assignee.
+Comment d.  Illustration 8 is based on Devlin v. Mayor, 63 N.Y. 8 (1875). Illustration 9 is based on Illustration 2 
+to former § 161.  Illustration 10 is new; it is based on Imperial Ref. Co. v. Kanotex Ref. Co., 29 F.2d 193 (8th 
+Cir. 1928). Illustration 11 is based on Illustration 3 to former § 161.
+Comment e.  Illustration 12 is based on Paige v. Faure, 229 N.Y. 114, 127 N.E. 898 (1920). Illustration13 is 
+based on British Waggon Co. v. Lea & Co., 5 Q.B. Div. 149 (1880).
+Cross Reference
+ALR Annotations:
+Right of assignee or sublessee to enforce option contained in lease for purchase of property.  45 A.L.R.2d 
+1034.
+Assignability of warranty of goods and chattels.  17 A.L.R.2d 1196.
+Digest System Key Numbers:
+Assignments 18
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

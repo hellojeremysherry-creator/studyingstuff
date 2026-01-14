@@ -1,0 +1,83 @@
+Restat 2d of Contracts, § 368
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 3- Enforcement by Specific Performance and Injunction        
+§ 368 Effect of Power of Termination
+(1) Specific performance or an injunction will not be granted against a party who can substantially 
+nullify the effect of the order by exercising a power of termination or avoidance.
+(2) Specific performance or an injunction will not be denied merely because the party seeking relief has 
+a power to terminate or avoid his duty unless the power could be used, in spite of the order, to deprive 
+the other party of reasonable security for the agreed exchange for his performance.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Power in party against whom relief is sought.  Specific performance or an injunction will not be granted 
+against a party who, by exercising a power of termination or avoidance, can substantially nullify the effect of the 
+order.  The power of termination or avoidance may be derived from a term of the agreement or from a rule of 
+law.  If a term of the agreement allows the party to terminate at will so as to make his promise illusory, no 
+contract is created and no question of enforcement arises.  See Comment e to § 2.  Even if the term requires 
+that notice of termination be given some period of time before it takes effect, so that the promise is not illusory 
+and the contract is enforceable, the period may be so short that specific performance or an injunction would be 
+pointless.  If, however, the period is a substantial one, for example thirty days, and the performance that would 
+have to be rendered during that period would be substantial even if notice were given immediately, equitable 
+relief may properly be granted.  As to the situation in which the power can be exercised only at the cost of 
+rendering some significant alternative performance, see Comment b to § 361.
+Illustrations:
+1.  A, a noted opera singer, contracts with B to sing exclusively at B's opera house for two seasons, reserving 
+the power to terminate the contract at any time after the end of the first season by giving 24 hours' written 
+notice.  A repudiates the contract when the second season is half over in order to sing at C's competing opera 
+house, and B sues to enjoin A from doing so.  The injunction will not be granted.  If, however, A repudiates 
+when the first season is half over, the injunction may be granted.
+2.  A sells his business to B and makes a valid promise not to carry on a competing business, reserving the 
+power to terminate his duty not to compete by paying B $ 50,000.  A repudiates his duty not to compete and 
+threatens to operate a competing business, and B sues A to enjoin him from doing so.  The injunction may be 
+granted, conditional on A not having paid the $ 50,000.
+b.  Power in party seeking relief.  The existence of a power of termination or avoidance in the party who seeks 
+specific performance or an injunction does not preclude such relief unless the power will seriously threaten the 
+other party's security that the agreed exchange will be rendered.  This is a specific application of the general 
+rule stated in § 363.  If the power is reserved by a term of the agreement, the court can protect the other party 
+by providing that either the decree itself or the other party's performance shall extinguish the power.  If the party 
+seeking relief has already rendered part performance or otherwise materially changed his position in reliance 
+on the contract, this may give him a stronger economic interest in carrying out the agreement and thus increase 
+the other party's security.  If the other party's security cannot be reasonably assured, however, equitable relief 
+will be refused.
+Illustrations:
+3.  A, a minor, makes a contract to transfer a farm to B for $ 100,000.  B repudiates the contract and A sues B 
+for specific performance.  Specific performance, even on condition of payment of the $ 100,000, will be refused 
+
+§ 368 Effect of Power of Termination
+if A has not reached the age of majority, unless the jurisdiction is one in which the court's decree is conclusive 
+on A so as to terminate his power of avoidance.  After A reaches the age of majority and has ratified the 
+contract, specific performance will be granted.
+4.  A makes a contract with B under which B obtains rights to all the oil and gas that he can produce from A's 
+land for 10 years and promises to sink specific wells and pay A a fixed royalty on all oil and gas produced.  The 
+contract provides that B may at any time surrender his rights and terminate his duties on payment of $ 1.  After 
+B has sunk one well, A repudiates the contract and threatens to make a similar contract with C.  B sues to 
+enjoin A from interfering with his right to oil and gas as long as he continues to render substantial performance.  
+The injunction may be granted.  The result would be different if A repudiated before any performance by B and 
+there was no way reasonably to secure B's performance.
+5.  A, a noted opera singer, contracts with B to sing exclusively at B's opera house during the coming season, B 
+reserving the right to terminate the contract on 10 days' written notice.  A repudiates the contract when the 
+season is half over, after having been paid for that part of the season, in order to sing at C's competing opera 
+house, and B sues to enjoin A from singing at C's opera house.  The injunction may be granted, conditional on 
+B's continued readiness and willingness to perform his part of the contract.
+REPORTER'S NOTES
+Subsection (1) is based on former § 377.  Subsection (2) is based on former § 376.  See 5A Corbin, Contracts 
+§§ 1201-02 (1964); 11 Williston, Contracts § 1442 (3d ed. 1968).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 377; see also Peru Wheel Co. v. Union Coal 
+Co., 295 Ill. App. 276, 14 N.E.2d 998 (1938); Childs v. Columbia, 87 S.C. 566, 70 S.E. 296 (1911). Illustration 2 
+is based on Illustration 3 to former § 377.
+Comment b.  Illustrations 3 and 4 are based on Illustrations 1 and 4 to former § 376.  The first sentence of 
+Illustration 4 is based on Illustration 2 to former § 376.  Illustration 5 is based on Illustration 3 to former § 376.
+Cross Reference
+ALR Annotations:
+Comment Note. -- Employee's arbitrary dismissal as breach of employment contract terminable at will.  62 
+A.L.R.3d 271.
+Effect of attempt to terminate employment or agency contract upon shorter notice than stipulated in contract.  
+96 A.L.R.2d 272.
+Specific performance or injunctive relief against breach of contract, other than lease or agreement therefor, or 
+contract for services, terminable by one party but not the other.  8 A.L.R.2d 1208.
+Digest System Key Numbers:
+Injunctions 57
+Specific Performance 59
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

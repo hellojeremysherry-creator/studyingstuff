@@ -1,0 +1,74 @@
+Restat 2d of Contracts, § 95
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 95 Requirements for Sealed Contract or Written Contract or Instrument
+(1)  In the absence of statute a promise is binding without consideration if
+(a)  it is in writing and sealed; and
+(b)  the document containing the promise is delivered; and
+(c)  the promisor and promisee are named in the document or so described as to be capable of 
+identification when it is delivered.
+(2)  When a statute provides in effect that a written contract or instrument is binding without 
+consideration or that lack of consideration is an affirmative defense to an action on a written contract 
+or instrument, in order to be subject to the statute a promise must either
+(a)  be expressed in a document signed or otherwise assented to by the promisor and delivered; or
+(b)  be expressed in a writing or writings to which both promisor and promisee manifest assent.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  The explanation of these requirements is given in §§ 96-109.  The nonexistence of one or more 
+of them does not preclude the formation of a contract binding as a bargain under § 17.
+b.  "Written."  The word "written" and the word "writing" not only in the present Section but throughout the 
+Restatement include printing, typewriting or any other intentional reduction to tangible form.  Compare Uniform 
+Commercial Code § 1-201(46).  "Written contract" includes contracts under seal, negotiable instruments and 
+documents, and letters of credit.  It may also include contracts embodied in more than one document.
+c.  Signature.  A contract under seal is almost invariably signed, but such a contract is possible without 
+signature.  Written contracts are also commonly signed, but a written contract may consist of an exchange of 
+correspondence, of a letter written by the promisee and assented to by the promisor without signature, or even 
+of a memorandum or printed document not signed by either party.  Statutes relating to written contracts are 
+often expressly limited to contracts signed by one or both parties.  See, e.g., Chapter 5.  Whether such a 
+limitation is to be implied when not explicit depends on the purpose and context.
+d.  Delivery.  The moment of effectiveness of a contract under seal is defined in terms of "delivery" rather than 
+in terms of offer and acceptance or manifestation of mutual assent.  Where a written contract is binding without 
+consideration the same definition is appropriate, and §§ 101-03 on delivery therefore apply to written promises, 
+sealed or unsealed.  In such cases the rule of § 104, that no acceptance is necessary, is also applicable.
+e.  Acceptance of promisee.  Contracts under seal often embody all or part of a bargain.  It is then ordinarily 
+understood that neither party is bound until both have manifested assent, and the law gives effect to that 
+understanding under the rules stated in §§ 105-07.  Where consideration is required by law either for a contract 
+under seal or for a written contract, a manifestation of mutual assent is part of the requirement.  See § 71.  
+Section 104 is therefore inapplicable where consideration is required, even though there may be a presumption 
+of consideration; but §§ 105-07 do apply.  In such cases, as stated in Subsection (2) of this Section, an 
+unsealed written contract may be formed without delivery of a document.
+
+§ 95 Requirements for Sealed Contract or Written Contract or Instrument
+f.  Other rules relating to sealed instruments.  As is indicated in the Introductory Note to this Topic, in medieval 
+England the seal had numerous consequences other than that stated in this Section.  Although those 
+consequences have been modified by statute and decision, some of them persist to some extent in States 
+which still recognize the seal.  See, e.g., Restatement, Second, Agency §§ 151, 191, on the extent to which a 
+principal is bound by an instrument sealed by his agent.  Rules with respect to such consequences are stated in 
+appropriate places in this Restatement.  See, e.g., § 303 on third party beneficiaries.
+REPORTER'S NOTES
+Subsection (1) is based on former §§ 95 and 110; Subsection (2) is new.  See 1 Williston, Contracts § 206 (3d 
+ed. 1957); 1A Corbin, Contracts § 241 (1963).
+Comment c.  See 1 Williston, Contracts § 206 (3d ed. 1957); 1A Corbin, Contracts § 243 (1963).  For an 
+unsigned written agreement to arbitrate, see Helen Whiting, Inc. v. Trojan Textile Corp., 307 N.Y. 360, 121 
+N.E.2d 367 (1954).
+Comment d.  On delivery when a sealed instrument is held by one party's agent, see Twining v. National 
+Mortgage Corp., 268 Md. 549, 302 A.2d 604 (1973).
+Comment e.  When one party signs and seals an offer, although this is an offer under seal, it is not always an 
+option contract (§ 25).  Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 (1966). While the presence 
+of a seal often eliminates the requirement of consideration in actions at law, see, e.g., Mobil Oil Corp. v. Wolfe, 
+297 N.C. 36, 252 S.E.2d 809 (1979); Twining v. National Mortgage Corp., 268 Md. 549, 302 A.2d 604 (1973), in 
+equitable proceedings courts give the seal less weight.  Thus, despite Twining v. National Mortgage Corp., 
+supra, the Maryland Court of Special Appeals held in a rescission action that "a court of conscience may inquire 
+into the consideration upon which a contract is based even though it recites value received and is under seal . . 
+. . " Russ v. Barnes, 23 Md. App. 691, 329 A.2d 767 (1974). Similarly, the Supreme Court of Pennsylvania has 
+held that while lack of consideration will not prevent enforcement of a sealed contract under Pennsylvania law, 
+the rule does not apply when extraordinary relief is sought in a court of equity.  Community Sports, Inc. v. 
+Denver Ringsby Rockets, 429 Pa. 565, 240 A.2d 832 (1968); Comment b to § 364.  Contra: Marine Contractors 
+Co. v. Hurley, 365 Mass. 280, 310 N.E.2d 915 (1974).
+Cross Reference
+Digest System Key Numbers:
+Contracts 36, 48
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,134 @@
+Restat 2d of Contracts, § 79
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+§ 79 Adequacy of Consideration; Mutuality of Obligation
+If the requirement of consideration is met, there is no additional requirement of
+(a)  a gain, advantage, or benefit to the promisor or a loss, disadvantage, or detriment to the promisee; 
+or
+(b)  equivalence in the values exchanged; or
+(c)  "mutuality of obligation."
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Rationale.  In such typical bargains as the ordinary sale of goods each party gives up something of 
+economic value, and the values exchanged are often roughly or exactly equivalent by standards independent of 
+the particular bargain.  Quite often promise is exchanged for promise, and the promised performances are 
+sometimes divisible into matching parts.  See § 31.  Hence it has sometimes been said that consideration must 
+consist of a "benefit to the promisor" or a "detriment to the promisee"; it has frequently been claimed that there 
+was no consideration because the economic value given in exchange was much less than that of the promise 
+or the promised performance; "mutuality of obligation" has been said to be essential to a contract.  But 
+experience has shown that these are not essential elements of a bargain or of an enforceable contract, and 
+they are negated as requirements by the rules stated in §§ 71-78.  This Section makes that negation explicit.
+b.  Benefit and detriment.  Historically, the common law action of debt was said to require a quid pro quo, and 
+that requirement may have led to statements that consideration must be a benefit to the promisor.  But 
+contracts were enforced in the common-law action of assumpsit without any such requirement; in actions of 
+assumpsit the emphasis was rather on the harm to the promisee, and detrimental reliance on a promise may 
+still be the basis of contractual relief.  See § 90.  But reliance is not essential to the formation of a bargain, and 
+remedies for breach have longbeen given in cases of exchange of promise for promise where neither party has 
+begun to perform.  Today when it is said that consideration must involve a detriment to the promisee, the 
+supposed requirement is often qualified by a statement that a "legal detriment" is sufficient even though there is 
+no economic detriment or other actual loss.  It is more realistic to say simply that there is no requirement of 
+detriment.
+Illustrations:
+1.  A contracts to sell property to B.  As a favor to B, who is C's friend, and in consideration of A's performance 
+of the contract, C guarantees that B will pay the agreed price.  A's performance is consideration for C's 
+promise.  See § 73.
+2.  A has executed a document in the form of a guaranty which imposes no obligation on A and has no value.  
+B's surrender of the document to A, if bargained for, is consideration for a promise by A to pay $ 10,000.  
+Compare § 74.
+c.  Exchange of unequal values.  To the extent that the apportionment of productive energy and product in the 
+economy are left to private action, the parties to transactions are free to fix their own valuations.  The resolution 
+of disputes often requires a determination of value in the more general sense of market value, and such values 
+are commonly fixed as an approximation based on a multitude of private valuations.  But in many situations 
+there is no reliable external standard of value, or the general standard is inappropriate to the precise 
+circumstances of the parties.  Valuation is left to private action in part because the parties are thought to be 
+
+§ 79 Adequacy of Consideration; Mutuality of Obligation
+better able than others to evaluate the circumstances of particular transactions.  In any event, they are not 
+ordinarily bound to follow the valuations of others.
+Ordinarily, therefore, courts do not inquire into the adequacy of consideration.  This is particularly so when one 
+or both of the values exchanged are uncertain or difficult to measure.  But it is also applied even when it is clear 
+that the transaction is a mixture of bargain and gift.  See Comment c to § 71.  Gross inadequacy of 
+consideration may be relevant to issues of capacity, fraud and the like, but the requirement of consideration is 
+not a safeguard against imprudent and improvident contracts except in cases where it appears that there is no 
+bargain in fact.
+Illustrations:
+3.  A borrows $ 300 from B to enable A to begin litigation to recover a gold mine through litigation, and promises 
+to repay $ 10,000 when he recovers the mine.  The loan is consideration for the promise.
+4.  A is pregnant with the illegitimate child of B, a wealthy man.  A promises to give the child A's surname and 
+B's given name, and B promises to provide for the support and education of the child and to set up a trust of 
+securities to provide the child with a minimum net income of $ 100 per week until he reaches the age of 21.  
+The naming of the child is consideration for B's promise.
+d.  Pretended exchange.  Disparity in value, with or without other circumstances, sometimes indicates that the 
+purported consideration was not in fact bargained for but was a mere formality or pretense.  Such a sham or 
+"nominal" consideration does not satisfy the requirement of § 71.  Promises are enforced in such cases, if at all, 
+either as promises binding without consideration under §§ 82-94 or as promises binding by virtue of their formal 
+characteristics under § 6.  See, for example, §§ 95-109 on contracts under seal.
+Illustrations:
+5.  In consideration of one cent received, A promises to pay $ 600 in three yearly installments of $ 200 each.  
+The one cent is merely nominal and is not consideration for A's promise.
+6.  A dies leaving no assets and owing $ 4000 to the B bank.  C, A's widow, promises to pay the debt, and B 
+promises to make no claim against A's estate.  Without some further showing, B's promise is a mere formality 
+and is not consideration for C's promise.
+e.  Effects of gross inadequacy.  Although the requirement of consideration may be met despite a great 
+difference in the values exchanged, gross inadequacy of consideration may be relevant in the application of 
+other rules.  Inadequacy "such as shocks the conscience" is often said to be a "badge of fraud," justifying a 
+denial of specific performance.  See § 364(1)(c).  Inadequacy may also help to justify rescission or cancellation 
+on the ground of lack of capacity (see §§ 15, 16), mistake, misrepresentation, duress or undue influence (see 
+Chapters 6 and 7).  Unequal bargains are also limited by the statutory law of usury, by regulation of the rates of 
+public utilities and some other enterprises, and by special rules developed for the sale of an expectation of 
+inheritance, for contractual penalties and forfeitures (see §§ 229, 356), and for agreements between secured 
+lender and borrower (see Restatement of Security § 55, Uniform Commercial Code § 9-501).
+f.  Mutuality.  The word "mutuality," though often used in connection with the law of Contracts, has no definite 
+meaning.  "Mutual assent" as one element of a bargain is the subject of Topic 2 of this Chapter.  "Mutuality of 
+remedy" is dealt with in Comment c to § 363.  Clause (c) of this Section negates any supposed requirement of 
+"mutuality of obligation." Such a requirement has sometimes been asserted in the form, "Both parties must be 
+bound or neither is bound." That statement is obviously erroneous as applied to an exchange of promise for 
+performance; it is equally inapplicable to contracts governed by §§ 82-94 and to contracts enforceable by virtue 
+of their formal characteristics under § 6.  Even in the ordinary case of the exchange of promise for promise, § 
+78 makes it clear that voidable and unenforceable promises may beconsideration.  The only requirement of 
+"mutuality of obligation" even in cases of mutual promises is that stated in §§ 76-77.
+REPORTER'S NOTES
+Clauses (a) and (b) are revised from former § 81.  Clause (c) is new.  See 1 Williston, Contracts §§ 99-104A, 
+115-15C (3d ed. 1957); 1 Corbin, Contracts §§ 116-23, 127-31, 1A id. § 152 (1963 & Supp. 1980).
+Comment b.  See Collins v. Parsons College, 203 N.W.2d 594 (Iowa 1973). Illustration 1 is new.  Illustration 2 is 
+based on Haigh v. Brooks, 10 Adol. & Ellis 309 (Ex. Ch. 1839).
+
+§ 79 Adequacy of Consideration; Mutuality of Obligation
+Comment c.  Illustration 3 is based on Embola v. Tuppela, 127 Wash. 285, 220 P. 789 (1923). Illustration 4 is 
+based on Schumm v. Berg, 37 Cal.2d 174, 231 P.2d 39 (1951); see also Porporato v. Devincenzi, 261 Cal. 
+App.2d 670, 68 Cal. Rptr. 210 (1968).
+Comment d.  Illustration 5 is based on Schnell v. Nell, 17 Ind. 29, 27 Am. Dec. 453 (1861). Illustration 6 is 
+based on Newman & Snell's State Bank v. Hunter, 243 Mich. 331, 220 N.W. 665, 59 A.L.R. 311 (1928).
+Comment e.  See Dawson, Economic Duress -- An Essay in Perspective, 45 Mich. L. Rev. 253 (1947). 
+Although supported by case law, the statement that "even the slightest consideration is sufficient to support the 
+most onerous obligation," Kirshner v. Spinella, 73 Misc.2d 962, 343 N.Y.S.2d 298 (Dist. Ct. 1973), is 
+oversimplified for the reasons discussed in the Comment.  For an example of the use of gross inadequacy of 
+consideration in a context of usury, overreaching and misrepresentation, see W. T. Grant Co. v. Walsh, 100 
+N.J. Super. 60, 241 A.2d 46 (Dist. Ct. 1968) (shopper in store induced to accept a book of scrip redeemable for 
+$ 200 worth of merchandise in return for signing agreement to make payments of $ 10 per month for 24 months 
+regardless whether or when the scrip was used).
+Comment f.  See Reporter's Note to Comment a to § 77, dealing with illusory promises.  For an analysis of the 
+relation between the concepts of mutuality of obligation and lack of consideration, see Collins v. Parsons 
+College, 203 N.W.2d 594 (Iowa 1973). An example of the confusion caused by treating mutuality as a separate 
+concept is First Wisconsin Nat'l Bank v. Oby, 52 Wis.2d 1, 188 N.W.2d 454 (1971).
+Cross Reference
+ALR Annotations:
+Establishment of "family" relationship to raise presumption that services were rendered gratuitously, as 
+between persons living in same household but not related by blood or affinity.  92 A.L.R.3d 726.
+Sufficiency of consideration for employee stock-option contract.  57 A.L.R.3d 1241.
+Sufficiency of consideration for employee's covenant not to compete, entered into after inception of 
+employment.  51 A.L.R.3d 825.
+Validity of individual employment contract for specific term which contains provision that employee will perform 
+if physically able, if health permits, or the like.  7 A.L.R.3d 898.
+Requisite definiteness of price to be paid in event of exercise of option for purchase of property.  2 A.L.R.3d 
+701.
+Necessity and sufficiency of allegation, in a suit for specific performance of a contract for the sale of land, as to 
+the adequacy of the consideration or as to the fairness of the contract.  100 A.L.R.2d 551.
+Contractual waiver of after-acquired homestead exemption.  82 A.L.R.2d 982.
+Validity and enforceability of contract which expressly leaves open for future agreement or negotiation the 
+terms of payment for property.  68 A.L.R.2d 1221.
+Digest System Key Numbers:
+Contracts 10, 53
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

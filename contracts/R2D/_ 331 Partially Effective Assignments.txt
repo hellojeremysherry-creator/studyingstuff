@@ -1,0 +1,37 @@
+Restat 2d of Contracts, § 331
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 3- Effect Between Assignor and Assignee        
+§ 331 Partially Effective Assignments
+An assignment may be conditional, revocable, or voidable by the assignor, or unenforceable by virtue 
+of a Statute of Frauds.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Assignor's power to destroy assignee's right.  In this Restatement "assignment" is used to refer to an act 
+which extinguishes in whole or in part the assignor's right and creates a similar right in the assignee.  See §§ 
+317, 324.  On proof of an unconditional assignment, the assignee can recover on an assigned right; the 
+assignor cannot.  The assignor may be entitled to revoke the assignment because it is gratuitous or by virtue of 
+a reserved power, or the assignment may be voidable for fraud or other invalidating cause.  Even if destruction 
+of the assignee's right is a violation of the assignor's duty, he retains by virtue of his former ownership certain 
+powers which may have that effect.  See §§ 338, 342.
+b.  Conditional assignment; conditional and future rights.  A conditional assignment does not wholly extinguish 
+the assignor's right until the condition occurs.  A conditional right may be effectively assigned either 
+conditionally or unconditionally; a conditional assignment of a conditional right means that the rights of the 
+assignee and assignor are both subject to one condition and that the right of the assignee is subject to an 
+additional condition.  See § 323.  Strictly there cannot be an effective assignment of a right not yet in existence, 
+but after the right arises the assignment may for some purposes be treated as if it had been effective when 
+made.  See §§ 321, 330.
+Illustration:
+1.  A has a right to $ 400 against B and assigns the right to C in payment for an automobile on condition that 
+the car run 1,000 miles without needing repairs.  The assignment is conditional and is effective according to its 
+terms.  If the car does not run 1,000 miles without needing repairs, the right to the $ 400 belongs to A, not to C.
+REPORTER'S NOTES
+This Section is modified from Subsection (2) to former § 150.  See 3 Williston, Contracts § 404 (3d ed. 1960); 4 
+Corbin, Contracts §§ 861, 874-79 (1951).
+Comment b.  Illustration 1 is based on Illustration 2 to former § 150.
+Cross Reference
+Digest System Key Numbers:
+Assignments 59, 82
+Frauds, Statute of 63 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

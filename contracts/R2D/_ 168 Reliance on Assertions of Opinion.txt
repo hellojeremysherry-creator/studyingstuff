@@ -1,0 +1,117 @@
+Restat 2d of Contracts, § 168
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 168 Reliance on Assertions of Opinion
+(1)  An assertion is one of opinion if it expresses only a belief, without certainty, as to the existence of a 
+fact or expresses only a judgment as to quality, value, authenticity, or similar matters.
+(2)  If it is reasonable to do so, the recipient of an assertion of a person's opinion as to facts not 
+disclosed and not otherwise known to the recipient may properly interpret it as an assertion
+(a)  that the facts known to that person are not incompatible with his opinion, or
+(b)  that he knows facts sufficient to justify him in forming it.
+COMMENTS & ILLUSTRATIONS 
+Comment:
+a.  Knowledge and opinion.  A statement of opinion is also a statement of fact because it states that a person 
+has a particular state of mind concerning the matter to which his opinion relates.  But it also implies that he 
+does not have such definite information, that he is not certain enough of what he says, to make an assertion of 
+his own knowledge as to that matter.  It implies atmost that he knows of no facts incompatible with the belief or 
+that he knows of facts that justify him in holding it.  The difference is that between "This is true," and "I think this 
+is true, but I am not sure." The important distinction is between assertions of knowledge and those of opinion, 
+rather than assertions of fact and those of opinion.  The person whose opinion is asserted is usually the maker 
+of the assertion himself, but the opinion may also be that of a third person.  See Comment b to § 169.
+b.  Criteria.  The fact that points of view may be expected to differ on the subject of a statement suggests that 
+the statement is one of opinion.  Statements of judgment as to quality, value, authenticity, or similar matters are 
+common examples.  For instance, the statement that an automobile is a "good" car relates to a matter on which 
+views may be expected to differ.  The maker of such a statement will normally be understood as expressing 
+only his own judgment and not as making assertions concerning such matters as horsepower or riding qualities.  
+But see Comment d and Illustration 3.  The form of the statement is important but not controlling.  A statement 
+that is in form an assertion of the maker's knowledge may be made in circumstances that suggest that it 
+expresses only a belief, that he is not free from doubt.  This may be so, for example, when the recipient knows 
+that the maker has no information concerning the fact asserted and therefore can be stating only his belief.  The 
+problem is one of interpretation of the language used.
+c.  Statements of quantity, quality, value and price.  A seller's statement of the quantity of land or goods is 
+virtually never a statement of opinion, even though he does not suggest that it is based on a survey, weighing 
+or other measurement.  The words "more or less" do not change such a statement into one of opinion, and the 
+recipient is justified in believing that the quantity is substantially as stated although the measurement expressed 
+may not be exact.  In contrast, a seller's general statement of quality is usually one of opinion.  There are, 
+however, instances in which the gradations of quality are so marked that goods are usually sold as of a 
+specified grade and an assertion of grade is not one of opinion.  A statement of value is, like one of quality, 
+ordinarily a statement of opinion.  However, a statement of the price at which something has been offered for 
+sale or sold is not one of opinion.
+Illustrations:
+1.  A, seeking to induce B to make a contract to buy goods, tells B that he paid $ 10,000 for them.  A knows that 
+he paid only $ 8,000 for the goods.  The statement is not one of opinion.
+
+§ 168 Reliance on Assertions of Opinion
+2.  The facts being otherwise as stated in Illustration 1, A tells B only that the goods are worth $ 10,000.  The 
+statement is one of opinion.
+d.  Implication of a statement of opinion.  In some circumstances the recipient may reasonably understand a 
+statement of opinion to be more than an assertion as to the maker's state of mind.  Under the rule stated in 
+Subsection (2), if the statement of opinion relates to facts not known to the recipient, he may be justified in 
+inferring that there are facts that justify the opinion, or at least that there are no facts that are incompatible with 
+it.  In such a case, the statement of opinion becomes, in effect, an assertion as to those facts and may be relied 
+on as such.  The rule is, however, applied in the light of the realities of the market place.  The propensity of 
+sellers and buyers to exaggerate the advantages to the other party of the bargains they promise is well 
+recognized, and to some extent their assertions of opinion must be discounted.  Nevertheless, while some 
+allowance must be made for seller's puffing and buyer's depreciation, the other party is entitled to assume that 
+a statement of opinion is not so far removed from the truth as to be incompatible with the facts known to the 
+maker.  Where circumstances justify it, a statement of opinion may also be reasonably understood as carrying 
+with it an assertion that the maker knows facts sufficient to justify him in forming it.  However, the rule stated in 
+Subsection (2) applies only when the facts to which the opinion relates are not disclosed and not otherwise 
+known to the recipient.  An assertion of opinion that does not fall within Subsection (2) is one of opinion only.  
+As to the circumstances in which reliance on such an assertion is justified, see § 169.
+Illustrations:
+3.  A, seeking to induce B to make a contract to buy real property, tells B that the sewage system is "good." A 
+knows that the sewage system is unworkable.  B interprets A's statement of opinion as an assertion that the 
+facts known to A are not incompatible with his opinion and is induced by this assertion to make the contract.  
+B's interpretation is reasonable, the assertion is a fraudulent misrepresentation, and the contract is voidable by 
+B.
+4.  The facts being otherwise as stated in Illustration 3, A knows that the sewage system is not very good but is 
+workable.  There is no misrepresentation because the facts known to A are not incompatible with his opinion, 
+and the contract is not voidable by B.
+5.  A, seeking to induce B to make a contract to become A's partner in A's business, tells B that the business is 
+"a money-maker." A knows that the business has been unprofitable since its inception.  B interprets A's 
+statement of opinion as an assertion that the facts known to A are not incompatible with his opinion and is 
+induced by this assertion to make the contract.  B's interpretation is reasonable, the assertion is a fraudulent 
+misrepresentation, and the contract is voidable by B.
+6.  A, who is knowledgeable in financial matters, seeking to induce B, who is also knowledgeable in such 
+matters, to make a contract to buy A's shares of stock in C Corporation, tells B that within five years the shares 
+will pay dividends that will amount to the purchase price of the stock.  Neither A nor B has information about the 
+finances of C, which is, in fact, hopelessly insolvent.  B interprets A's statement of opinion as an assertion that 
+A knows facts sufficient to justify him in forming that opinion and is induced by this assertion to make the 
+contract.  B's interpretation is reasonable, the assertion is a fraudulent misrepresentation, and the contract is 
+voidable by B.
+7.  A, seeking to induce B to make a contract to buy land, tells B, "There is water under this land and if you dig 
+a well anywhere on the land, you will strike it." A does not know whether there is water under the land, and 
+there is none.  B knows that no water survey has been made and that A has no information concerning the 
+presence or absence of subterranean water, but interprets A's statement of opinion as an assertion that A 
+knows facts sufficient to justify him in forming that opinion and is induced by this assertion to make the contract.  
+B's interpretation is not reasonable, and the contract is not voidable by B.  See also § 169.
+REPORTER'S NOTES
+This Section is new.  Subsection (1) is based on Restatement, Second, Torts § 538A.  Subsection(2) is based 
+on Restatement, Second, Torts § 539.  See 12 Williston, Contracts §§ 1491-93 (3d ed. 1970); Keeton, Fraud: 
+Misrepresentations of Opinion, 21 Minn. L. Rev. 643 (1937); James & Gray, Misrepresentation -- Part II, 37 Md. 
+L. Rev. 488, 489-93 (1978).
+
+§ 168 Reliance on Assertions of Opinion
+Comment c.  Illustration 1 is based on Illustration 4 to former § 474.  Illustration 2 is supported by Byers v. 
+Federal Land Co., 3 F.2d 9 (8th Cir. 1924). But see Benedict v. Heirs of Dickens, 119 Conn. 541, 177 A. 715 
+(1935); Fox v. Cosgriff, 66 Idaho 371, 159 P.2d 224 (1945).
+Comment d.  Illustration 3 is based on Twing v. Schott, 80 Wyo. 100, 338 P.2d 839 (1959); Spiess v. Brandt, 
+230 Minn. 246, 41 N.W.2d 561 (1950); cf. Illustration 3 to former § 474.  Illustration 4 is based on Illustration 3 
+to former § 474.  Illustration 5 is based on Illustration 2 to former § 474.  Illustration 6 is adapted from Illustration 
+3 to Restatement, Second, Torts § 525.  Illustration 7 is based on Harris v. Delco Prods., 305 Mass. 362, 25 
+N.E.2d 740 (1940); see Illustration 1 to former § 474; Illustration 1 to Restatement, Second, Torts § 538A.  
+Recent cases finding a statement to be an opinion or puffing and not fraudulent include Miles v. Love, 1 Kan. 
+App.2d 630, 573 P.2d 622 (1977) (advice by seller that sand in well water would clear up if water was run 
+continually for a couple of weeks; house had been vacant and seller, though an experienced real estate 
+developer, had no knowledge that system was defective); Eaton v. Sontag, 387 A.2d 33 (Me. 1978) (assertion 
+that campsite was a "gold mine"; dictum that a statement that it was worth the asking price would also be 
+puffing); Wilkinson v. Walker, 143 Ga. App. 838, 240 S.E.2d 210 (1977) (Statement that a mechanical cotton 
+picker was "in good condition and would satisfactorily pick cotton"); Stern v. Satra Corp., 539 F.2d 1305 (2d Cir. 
+1976) (party's estimate of his influence with specific potential customers).
+Cross Reference
+Digest System Key Numbers:
+Contracts 94(5)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document
