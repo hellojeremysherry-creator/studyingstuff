@@ -1,0 +1,23 @@
+U.C.C. § 2A-311
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+3. EFFECT OF LEASE CONTRACT        
+§ 2A-311. Priority Subject to Subordination.
+Nothing in this Article prevents subordination by agreement by any person entitled to priority.
+As added in 1990.
+See Appendix VI for material relating to the adoption of section in 1990.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 9-316.
+Purposes: The several preceding sections deal with questions of priority.  This section is inserted to make it entirely 
+clear that a person entitled to priority may effectively agree to subordinate the claim.  Only the person entitled to 
+priority may make such an agreement: the rights of such a person cannot be adversely affected by an agreement to 
+which that person is not a party.
+Cross References:
+Sections 1-102 and 2A-304 through 2A-310.
+Definitional Cross References:
+"Agreement".  Section 1-201(3).
+"Person".  Section 1-201(30).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

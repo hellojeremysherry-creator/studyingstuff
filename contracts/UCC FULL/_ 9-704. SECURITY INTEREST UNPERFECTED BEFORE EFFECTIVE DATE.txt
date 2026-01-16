@@ -1,0 +1,34 @@
+U.C.C. § 9-704
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 7. TRANSITION        
+§ 9-704. SECURITY INTEREST UNPERFECTED BEFORE EFFECTIVE DATE
+A security interest that is enforceable immediately before this [Act] takes effect but which would be 
+subordinate to the rights of a person that becomes a lien creditor at that time:
+(1)  remains an enforceable security interest for one year after this [Act] takes effect;
+(2)  remains enforceable thereafter if the security interest becomes enforceable under Section 9-203 
+when this [Act] takes effect or within one year thereafter; and
+(3)  becomes perfected:
+(A)  without further action, when this [Act] takes effect if the applicable requirements for perfection 
+under this [Act] are satisfied before or at that time; or
+(B)  when the applicable requirements for perfection are satisfied if the requirements are satisfied 
+after that time.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   This section deals with security interests that are enforceable but unperfected (i.e., subordinate to the rights of a 
+person who becomes a lien creditor) under former Article 9 or other applicable law immediately before this Article 
+takes effect. These security interests remain enforceable for one year after the effective date, and thereafter if the 
+appropriate steps for attachment under this Article are taken before the one-year period expires. (This section's 
+treatment of enforceability is the same as that of Section 9-703.) The security interest becomes a perfected security 
+interest on the effective date if, at that time, the security interest satisfies the requirements for perfection under this 
+Article. If the security interest does not satisfy the requirements for perfection until sometime thereafter, it becomes 
+a perfected security interest at that later time.
+   Example: A security interest has attached under former Article 9 but is unperfected because the filed financing 
+statement covers "all of debtor's personal property" and controlling case law in the applicable jurisdiction has 
+determined that this identification of collateral in a financing statement is insufficient. Upon the effective date of this 
+Article, the financing statement becomes sufficient under Section 9-504(2). On that date the security interest 
+becomes perfected. (This assumes, of course, that the financing statement is filed in the proper filing office under 
+this Article.)
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

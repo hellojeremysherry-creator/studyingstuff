@@ -1,0 +1,38 @@
+U.C.C. § 2A-520
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+5. DEFAULT          >             B. DEFAULT BY LESSOR        
+§ 2A-520. Lessee's Incidental and Consequential Damages.
+(1)  Incidental damages resulting from a lessor's default include expenses reasonably incurred in 
+inspection, receipt, transportation, and care and custody of goods rightfully rejected or goods the 
+acceptance of which is justifiably revoked, any commercially reasonable charges, expenses or 
+commissions in connection with effecting cover, and any other reasonable expense incident to the default.
+(2)  Consequential damages resulting from a lessor's default include:
+(a)  any loss resulting from general or particular requirements and needs of which the lessor at the time 
+of contracting had reason to know and which could not reasonably be prevented by cover or otherwise; 
+and
+(b)  injury to person or property proximately resulting from any breach of warranty.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-715.
+Changes: Revised to reflect leasing terminology and practices.
+Purposes: Subsection (1), a revised version of the provisions of Section 2-715(1), lists some examples of incidental 
+damages resulting from a lessor's default; the list is not exhaustive.  Subsection (1) makes clear that it applies not 
+only to rightful rejection, but also to justifiable revocation.
+Subsection (2), a revised version of the provisions of Section 2-715(2), lists some examples of consequential 
+damages resulting from a lessor's default; the list is not exhaustive.
+Cross References:
+Section 2-715.
+Definitional Cross References:
+"Goods".  Section 2A-103(1)(h).
+"Knows".  Section 1-201(25).
+"Lessee".  Section 2A-103(1)(n).
+"Lessor".  Section 2A-103(1)(p).
+"Person".  Section 1-201(30).
+
+§ 2A-520. Lessee's Incidental and Consequential Damages.
+Page 2 of 2
+"Receipt".  Section 2-103(1)(c).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

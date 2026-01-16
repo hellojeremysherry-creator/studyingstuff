@@ -1,0 +1,46 @@
+U.C.C. § 2A-512
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+5. DEFAULT          >             B. DEFAULT BY LESSOR        
+§ 2A-512. Lessee's Duties as to Rightfully Rejected Goods.
+(1)  Except as otherwise provided with respect to goods that threaten to decline in value speedily ( Section 
+2A-511) and subject to any security interest of a lessee ( Section 2A-508(5)):
+(a)  the lessee, after rejection of goods in the lessee's possession, shall hold them with reasonable care 
+at the lessor's or the supplier's disposition for a reasonable time after the lessee's seasonable 
+notification of rejection;
+(b)  if the lessor or the supplier gives no instructions within a reasonable time after notification of 
+rejection, the lessee may store the rejected goods for the lessor's or the supplier's account or ship them 
+to the lessor or the supplier or dispose of them for the lessor's or the supplier's account with 
+reimbursement in the manner provided in Section 2A-511; but
+(c)  the lessee has no further obligations with regard to goods rightfully rejected.
+(2)  Action by the lessee pursuant to subsection (1) is not acceptance or conversion.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Sections 2-602(2)(b) and (c) and 2-604.
+Changes: Substantially rewritten.
+Purposes: The introduction to subsection (1) references goods that threaten to decline in value speedily and not 
+perishables, the reference in Section 2-604, the statutory analogue.  This is a change in style, not substance, as the 
+first phrase includes the second.  Subparagraphs (a) and (c) are revised versions of the provisions of Section 2-
+602(2)(b) and (c).  Subparagraph (a) states the rule with respect to the lessee's treatment of goods in its 
+possession following rejection; subparagraph (b) states the rule regarding such goods if the lessor or supplier then 
+fails to give instructions to the lessee.  If the lessee performs in a fashion consistent with subparagraphs (a) and (b), 
+subparagraph (c) exonerates the lessee.
+Cross References:
+Sections 2-602(2)(b), 2-602(2)(c) and 2-604.
+Definitional Cross References:
+"Action".  Section 1-201(1).
+"Goods".  Section 2A-103(1)(h).
+"Lessee".  Section 2A-103(1)(n).
+
+§ 2A-512. Lessee's Duties as to Rightfully Rejected Goods.
+Page 2 of 2
+"Lessor".  Section 2A-103(1)(p).
+"Notification".  Section 1-201(26).
+"Reasonable time".  Section 1-204(1) and (2).
+"Seasonably".  Section 1-204(3).
+"Security interest".  Section 1-201(37).
+"Supplier".  Section 2A-103(1)(x).
+"Value".  Section 1-201(44).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

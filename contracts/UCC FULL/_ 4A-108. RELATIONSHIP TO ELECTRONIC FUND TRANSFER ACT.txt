@@ -1,0 +1,35 @@
+U.C.C. § 4A-108
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 4A. FUNDS TRANSFERS          >            
+PART 1. SUBJECT MATTER AND DEFINITIONS        
+§ 4A-108. RELATIONSHIP TO ELECTRONIC FUND TRANSFER ACT.
+(a)  Except as provided in subsection (b), this Article does not apply to a funds transfer any part of which is 
+governed by the Electronic Fund Transfer Act of 1978 (Title XX, Public Law 95-630, 92 Stat. 3728, 15 
+U.S.C. § 1693 et seq.) as amended from time to time.
+(b)  This Article applies to a funds transfer that is a remittance transfer as defined in the Electronic Fund 
+Transfer Act (15 U.S.C.  Sec. 1693o-1) as amended from time to time, unless the remittance transfer is an 
+electronic fund transfer as defined in the Electronic Fund Transfer Act ( 15 U.S.C. Sec. 1693a) as 
+ammended from time to time.
+(c)  In a funds transfer to which this Article applies, in the event of an inconsistency between an applicable 
+provision of this Article and an applicable provision of the Electronic Fund Transfer Act, the provision of the 
+Electronic Fund transfer Act governs to the extent of the inconsistency.
+Annotations
+Commentary
+Official Comment1.  The Electronic Fund Transfer Act (EFTA), implemented by Regulation E, 12 C.F.R. Part 1005, 
+is a federal statute that covers aspects of electronic fund transfers involving consumers.  EFTA also governs 
+remittance transfers, defined in 15 U.S.C. Sec. 1693o-1, which involve transfers of funds through electronic means 
+by consumers to recipients in another country through persons or financial institutions that provide such transfers in 
+the normal course of their business.  Not all "remittance transfers" as defined in EFTA, however, qualify as 
+"electronic fund transfers" as defined under the EFTA, 15 U.S.C. Sec. 1693a(7).  While Section 4A-108(a) broadly 
+states that Article 4A does not apply to any funds transfer that is governed in any part by EFTA, subsection (b) 
+provides an exception.  The purpose of Section 4A-108(b) is to allow this Article to apply to a funds transfer as 
+defined in Section 4A-104(a) (see Section 4A-102) that also is a remittance transfer as defined in EFTA, so long as 
+that remittance transfer is not an electronic fund transfer as defined in EFTA.  If the resulting application of this 
+Article to an EFTA-defined "remittance transfer" that is not an EFTA-defined "electronic fund transfer" creates an 
+inconsistency between an applicable provision of this Article and an applicable provision of EFTA, then, as a matter 
+of federal supremacy, the provision of EFTA governs to the extent of the inconsistency.  Section 4A-108(c).  Of 
+course, in the case of a funds transfer that also relates to another jurisdiction, the forum's conflict of laws principles 
+determine whether it will apply the law in effect in this State (including this Article and EFTA) or the law of another 
+jurisdiction to all or any part of the funds transfer.  See Section 4A-507.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

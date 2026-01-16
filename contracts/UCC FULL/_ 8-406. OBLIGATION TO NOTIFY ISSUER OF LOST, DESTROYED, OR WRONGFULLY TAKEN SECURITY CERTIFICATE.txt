@@ -1,0 +1,26 @@
+U.C.C. § 8-406
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 8. INVESTMENT SECURITIES          
+>            PART 4. REGISTRATION        
+§ 8-406. OBLIGATION TO NOTIFY ISSUER OF LOST, DESTROYED, OR 
+WRONGFULLY TAKEN SECURITY CERTIFICATE
+ If a security certificate has been lost, apparently destroyed, or wrongfully taken, and the owner fails to notify the 
+issuer of that fact within a reasonable time after the owner has notice of it and the issuer registers a transfer of the 
+security before receiving notification, the owner may not assert against the issuer a claim for registering the transfer 
+under Section 8-404 or a claim to a new security certificate under Section 8-405.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   An owner who fails to notify the issuer within a reasonable time after the owner knows or has reason to know of 
+the loss or theft of a security certificate is estopped from asserting the ineffectiveness of a forged or unauthorized 
+indorsement and the wrongfulness of the registration of the transfer. If the lost certificate was indorsed by the 
+owner, then the registration of the transfer was not wrongful under Section 8-404, unless the owner made an 
+effective demand that the issuer not register transfer under Section 8-403.
+DEFINITIONAL CROSS REFERENCES
+   "Issuer"
+   Section 8-201
+   "Notify"   Section 1-201(25)
+   "Security certificate"
+   Section 8-102(a)(16)
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

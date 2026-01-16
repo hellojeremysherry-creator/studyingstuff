@@ -1,0 +1,58 @@
+U.C.C. § 2A-308
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+3. EFFECT OF LEASE CONTRACT        
+§ 2A-308. Special Rights of Creditors.
+(1)  A creditor of a lessor in possession of goods subject to a lease contract may treat the lease contract as 
+void if as against the creditor retention of possession by the lessor is fraudulent under any statute or rule of 
+law, but retention of possession in good faith and current course of trade by the lessor for a commercially 
+reasonable time after the lease contract becomes enforceable is not fraudulent.
+(2)  Nothing in this Article impairs the rights of creditors of a lessor if the lease contract (a) becomes 
+enforceable, not in current course of trade but in satisfaction of or as security for a pre-existing claim for 
+money, security, or the like, and (b) is made under circumstances which under any statute or rule of law 
+apart from this Article would constitute the transaction a fraudulent transfer or voidable preference.
+(3)  A creditor of a seller may treat a sale or an identification of goods to a contract for sale as void if as 
+against the creditor retention of possession by the seller is fraudulent under any statute or rule of law, but 
+retention of possession of the goods pursuant to a lease contract entered into by the seller as lessee and 
+the buyer as lessor in connection with the sale or identification of the goods is not fraudulent if the buyer 
+bought for value and in good faith.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-402(2) and (3)(b).
+Changes: Rephrased and new material added to conform to leasing terminology and practice.
+Purposes: Subsection (1) states a general rule of avoidance where the lessor has retained possession of goods if 
+such retention is fraudulent under any statute or rule of law.  However, the subsection creates an exception under 
+certain circumstances for retention of possession of goods for a commercially reasonable time after the lease 
+contract becomes enforceable.
+Subsection (2) also preserves the possibility of an attack on the lease by creditors of the lessor if the lease was 
+made in satisfaction of or as security for a pre-existing claim, and would constitute a fraudulent transfer or voidable 
+preference under other law.
+Finally, subsection (3) states a new rule with respect to sale-leaseback transactions, i.e., transactions where the 
+seller sells goods to a buyer but possession of the goods is retained by the seller pursuant to a lease contract 
+between the buyer as lessor and the seller as lessee.  Notwithstanding any statute or rule of law that would treat 
+such retention as fraud, whether per se, prima facie, or otherwise, the retention is not fraudulent if the buyer bought 
+for value (Section 1-201(44)) and in good faith (Sections 1-201(19) and 2-103(1)(b)).  Section 2A-103(3) and (4).  
+This provision overrides Section 2-402(2) to the extent it would otherwise apply to a sale-leaseback transaction.
+Cross References:
+
+§ 2A-308. Special Rights of Creditors.
+Page 2 of 2
+Sections 1-201(19), 1-201(44), 2-402(2) and 2A-103(4).
+Definitional Cross References:
+"Buyer".  Section 2-103(1)(a).
+"Contract".  Section 1-201(11).
+"Creditor".  Section 1-201(12).
+"Good faith".  Sections 1-201(19) and 2-103(1)(b).
+"Goods".  Section 2A-103(1)(h).
+"Lease contract".  Section 2A-103(1)(l ).
+"Lessee".  Section 2A-103(1)(n).
+"Lessor".  Section 2A-103(1)(p).
+"Money".  Section 1-201(24).
+"Reasonable time".  Section 1-204(1) and (2).
+"Rights".  Section 1-201(36).
+"Sale".  Section 2-106(1).
+"Seller".  Section 2-103(1)(d).
+"Value".  Section 1-201(44).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,62 @@
+U.C.C. § 9-525
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 5. FILING          >            SUBPART 2. DUTIES AND OPERATION OF FILING OFFICE        
+§ 9-525. FEES
+(a) [Initial financing statement or other record: general rule.]  Except as otherwise provided in 
+subsection (e), the fee for filing and indexing a record under this part, other than an initial financing 
+statement of the kind described in subsection (b), is [the amount specified in subsection (c), if applicable, 
+plus]:
+  (1) $ ___[X]___ if the record is communicated in writing and consists of one or two pages;
+  (2) $ ___[2X]___ if the record is communicated in writing and consists of more than two pages; and
+  (3) $ ___[1/2X]___ if the record is communicated by another medium authorized by filing-office rule.
+(b) [Initial financing statement: public-finance and manufactured-housing transactions.]  Except as 
+otherwise provided in subsection (e), the fee for filing and indexing an initial financing statement of the 
+following kind is [the amount specified in subsection (c), if applicable, plus]:
+  (1) $ ___ if the financing statement indicates that it is filed in connection with a public-finance transaction;
+  (2) $ ___ if the financing statement indicates that it is filed in connection with a manufactured-home 
+transaction.
+[Alternative A]
+(c) [Number of names.]  The number of names required to be indexed does not affect the amount of the 
+fee in subsections (a) and (b).
+[Alternative B]
+(c) [Number of names.] Except as otherwise provided in subsection (e), if a record is communicated in 
+writing, the fee for each name more than two required to be indexed is $ ___.
+[End of Alternatives]
+(d) [Response to information request.]  The fee for responding to a request for information from the filing 
+office, including for [issuing a certificate showing] [communicating] whether there is on file any financing 
+statement naming a particular debtor, is:
+  (1) $ ___ if the request is communicated in writing; and
+  (2) $ ___ if the request is communicated by another medium authorized by filing-office rule.
+(e) [Record of mortgage.]  This section does not require a fee with respect to a record of a mortgage 
+which is effective as a financing statement filed as a fixture filing or as a financing statement covering as-
+extracted collateral or timber to be cut under Section 9-502(c). However, the recording and satisfaction fees 
+that otherwise would be applicable to the record of the mortgage apply.
+Annotations
+Commentary
+OFFICIAL COMMENT
+
+§ 9-525. FEES
+Page 2 of 2
+   Legislative Notes:
+   1. To preserve uniformity, a State that places the provisions of this section together with statutes setting fees for 
+other services should do so without modification.
+   2. A State should enact subsection (c), Alternative A, and omit the bracketed language in subsections (a) and (b) 
+unless its indexing system entails a substantial additional cost when indexing additional names.
+   1. Source. Various sections of former Part 4.
+   2. Fees. This section contains all fee requirements for filing, indexing, and responding to requests for information. 
+Uniformity in the fee structure (but not necessarily in the amount of fees) makes this Article easier for secured 
+parties to use and reduces the likelihood that a filed record will be rejected for failure to pay at least the correct 
+amount of the fee. See Section 9-516(b)(2).
+   The costs of processing electronic records are less than those with respect to written records. Accordingly, this 
+section mandates a lower fee as an incentive to file electronically and imposes the additional charge (if any) for 
+multiple debtors only with respect to written records. When written records are used, this Article encourages the use 
+of the uniform forms in Section 9-521. The fee for filing these forms should be no greater than the fee for other 
+written records.
+   To make the relevant information included in a filed record more accessible once the record is found, this section 
+mandates a higher fee for longer written records than for shorter ones. Finally, recognizing that financing 
+statements naming more than one debtor are most often filed against a husband and wife, any additional charge for 
+multiple debtors applies to records filed with respect to more than two debtors, rather than with respect to more than 
+one.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,46 @@
+U.C.C. § 2A-208
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+2. FORMATION AND CONSTRUCTION OF LEASE CONTRACT        
+§ 2A-208. Modification, Rescission and Waiver.
+(1)  An agreement modifying a lease contract needs no consideration to be binding.
+(2)  A signed lease agreement that excludes modification or rescission except by a signed writing may not 
+be otherwise modified or rescinded, but, except as between merchants, such a requirement on a form 
+supplied by a merchant must be separately signed by the other party.
+(3)  Although an attempt at modification or rescission does not satisfy the requirements of subsection (2), it 
+may operate as a waiver.
+(4)  A party who has made a waiver affecting an executory portion of a lease contract may retract the 
+waiver by reasonable notification received by the other party that strict performance will be required of any 
+term waived, unless the retraction would be unjust in view of a material change of position in reliance on the 
+waiver.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-209.
+Changes: Revised to reflect leasing practices and terminology, except that the provisions of subsection 2-209(3) 
+were omitted.
+Purposes: Section 2-209(3) provides that "the requirements of the statute of frauds section of this Article (Section 2-
+201) must be satisfied if the contract as modified is within its provisions." This provision was not incorporated as it is 
+unfair to allow an oral modification to make the entire lease contract unenforceable, e.g. if the modification takes it a 
+few dollars over the dollar limit.  At the same time, the problem could not be solved by providing that the lease 
+contract would still be enforceable in its pre-modification state (if it then satisfied the statute of frauds) since in some 
+cases that might be worse than no enforcement at all.  Resolution of the issue is left to the courts based on the 
+facts of each case.
+Cross References:
+Sections 2-201 and 2-209.
+Definitional Cross References:
+"Agreement".  Section 1-201(3).
+"Between merchants".  Section 2-104(3).
+"Lease agreement".  Section 2A-103(1)(k).
+
+§ 2A-208. Modification, Rescission and Waiver.
+Page 2 of 2
+"Lease contract".  Section 2A-103(1)(l ).
+"Merchant".  Section 2-104(1).
+"Notification".  Section 1-201(26).
+"Party".  Section 1-201(29).
+"Signed".  Section 1-201(39).
+"Term".  Section 1-201(42).
+"Writing".  Section 1-201(46).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,24 @@
+U.C.C. § 9-624
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 6. DEFAULT          >            SUBPART 1. DEFAULT AND ENFORCEMENT OF 
+SECURITY INTEREST        
+§ 9-624. WAIVER
+(a) [Waiver of disposition notification.]  A debtor or secondary obligor may waive the right to notification 
+of disposition of collateral under Section 9-611 only by an agreement to that effect entered into and 
+authenticated after default.
+(b) [Waiver of mandatory disposition.]  A debtor may waive the right to require disposition of collateral 
+under Section 9-620(e) only by an agreement to that effect entered into and authenticated after default.
+(c) [Waiver of redemption right.]  Except in a consumer-goods transaction, a debtor or secondary obligor 
+may waive the right to redeem collateral under Section 9-623 only by an agreement to that effect entered 
+into and authenticated after default.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Source. Former Sections 9-504(3), 9-505, 9-506.
+   2. Waiver. This section is a limited exception to Section 9-602, which generally prohibits waiver by debtors and 
+obligors. It makes no provision for waiver of the rule prohibiting a secured party from buying at its own private 
+disposition. Transactions of this kind are equivalent to "strict foreclosures" and are governed by Sections 9-620, 9-
+621, and 9-622.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,28 @@
+U.C.C. § 7-201
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 2. WAREHOUSE RECEIPTS: SPECIAL PROVISIONS        
+§ 7-201. PERSON THAT MAY ISSUE A WAREHOUSE RECEIPT; STORAGE 
+UNDER BOND
+(a)  A warehouse receipt may be issued by any warehouse.
+(b)  If goods, including distilled spirits and agricultural commodities, are stored under a statute requiring a 
+bond against withdrawal or a license for the issuance of receipts in the nature of warehouse receipts, a 
+receipt issued for the goods is deemed to be a warehouse receipt even if issued by a person that is the 
+owner of the goods and is not a warehouse.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-201.
+   Changes: Update for style only.
+Purposes:
+   It is not intended by re-enactment of subsection (a) to repeal any provisions of special licensing or other statutes 
+regulating who may become a warehouse. Limitations on the transfer of the receipts and criminal sanctions for 
+violation of such limitations are not impaired. Section 7-103. Compare Section 7-401(4) on the liability of the issuer 
+in such cases. Subsection (b) covers receipts issued by the owner for whiskey or other goods stored in bonded 
+warehouses under such statutes as 26 U.S.C. Chapter 51.
+   Cross References: Sections 7-103, 7-401.
+Definitional Cross References:
+"Warehouse receipt". Section 1-201.
+"Warehouse". Section 7-102.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

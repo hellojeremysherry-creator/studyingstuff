@@ -1,0 +1,27 @@
+U.C.C. § 2-717
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2. SALES          >            PART 7. 
+REMEDIES        
+§ 2-717. Deduction of Damages From the Price.
+The buyer on notifying the seller of his intention to do so may deduct all or any part of the damages resulting from 
+any breach of the contract from any part of the price still due under the same contract.
+Annotations
+Commentary
+Official Comment
+Prior Uniform Statutory Provision: See Section 69(1)(a), Uniform Sales Act.
+Purposes:
+1. This section permits the buyer to deduct from the price damages resulting from any breach by the seller and 
+does not limit the relief to cases of breach of warranty as did the prior uniform statutory provision.  To bring this 
+provision into application the breach involved must be of the same contract under which the price in question is 
+claimed to have been earned.
+2. The buyer, however, must give notice of his intention to withhold all or part of the price if he wishes to avoid a 
+default within the meaning of the section on insecurity and right to assurances.  In conformity with the general 
+policies of this Article, no formality of notice is required and any language which reasonably indicates the buyer's 
+reason for holding up his payment is sufficient.
+Cross Reference:
+Point 2: Section 2-609.
+Definitional Cross References:
+"Buyer".  Section 2-103.
+"Notifies".  Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

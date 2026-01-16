@@ -1,0 +1,80 @@
+U.C.C. § 2-103
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2. SALES          >            PART 1. 
+SHORT TITLE, GENERAL CONSTRUCTION AND SUBJECT MATTER        
+§ 2-103. Definitions and Index of Definitions.
+(1)  In this Article unless the context otherwise requires
+(a)  "Buyer" means a person who buys or contracts to buy goods.
+(b)  "Good faith" in the case of a merchant means honesty in fact and the observance of reasonable 
+commercial standards of fair dealing in the trade.
+(c)  "Receipt" of goods means taking physical possession of them.
+(d)  "Seller" means a person who sells or contracts to sell goods.
+(2)  Other definitions applying to this Article or to specified Parts thereof, and the sections in which they 
+appear are:
+"Acceptance".  Section 2-606.
+"Banker's credit".  Section 2-325.
+"Between merchants".  Section 2-104.
+"Cancellation".  Section 2-106(4).
+"Commercial unit".  Section 2-105.
+"Confirmed credit".  Section 2-325.
+"Conforming to contract".  Section 2-106.
+"Contract for sale".  Section 2-106.
+"Cover".  Section 2-712.
+"Entrusting".  Section 2-403.
+"Financing agency".  Section 2-104.
+"Future goods".  Section 2-105.
+"Goods".  Section 2-105.
+"Identification".  Section 2-501.
+"Installment contract".  Section 2-612.
+"Letter of Credit".  Section 2-325.
+"Lot".  Section 2-105.
+"Merchant".  Section 2-104.
+"Overseas".  Section 2-323.
+"Person in position of seller".  Section 2-707.
+"Present sale".  Section 2-106.
+"Sale".  Section 2-106.
+"Sale on approval".  Section 2-326.
+"Sale or return".  Section 2-326.
+"Termination".  Section 2-106.
+(3)  "Control" as provided in Section 7-106 and the following definitions in other Articles apply to this Article:
+
+§ 2-103. Definitions and Index of Definitions.
+Page 2 of 3
+"Check".  Section 3-104.
+"Consignee".  Section 7-102.
+"Consignor".  Section 7-102.
+"Consumer goods".  Section 9-109.
+"Dishonor".  Section 3-502.
+"Draft".  Section 3-104.
+(4)  In addition Article 1 contains general definitions and principles of construction and interpretation 
+applicable throughout this Article.
+As amended in 1994.
+See Appendix XI for material relating to changes made in text in 1994.
+Annotations
+Commentary
+Official Comment
+Prior Uniform Statutory Provision: Subsection (1): Section 76, Uniform Sales Act.
+Changes:
+The definitions of "buyer" and "seller" have been slightly rephrased, the reference in Section 76 of the prior Act to 
+"any legal successor in interest of such person" being omitted.  The definition of "receipt" is new.
+Purposes of Changes and New Matter:
+1. The phrase "any legal successor in interest of such person" has been eliminated since Section 2-210 of this 
+Article, which limits some types of delegation of performance on assignment of a sales contract, makes it clear that 
+not every such successor can be safely included in the definition.  In every ordinary case, however, such 
+successors are as of course included.
+2. "Receipt" must be distinguished from delivery particularly in regard to the problems arising out of shipment of 
+goods, whether or not the contract calls for making delivery by way of documents of title, since the seller may 
+frequently fulfill his obligations to "deliver" even though the buyer may never "receive" the goods.  Delivery with 
+respect to documents of title is defined in Article 1 and requires transfer of physical delivery of a tangible document 
+of title and transfer of control of an electronic document of title. Otherwise the many divergent incidents of delivery 
+are handled incident by incident.
+Cross References:
+Point 1: See Section 2-210 and Comment thereon.
+Point 2: Section 1-201.
+Definitional Cross Reference:
+"Person".  Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+
+§ 2-103. Definitions and Index of Definitions.
+Page 3 of 3
+End of Document

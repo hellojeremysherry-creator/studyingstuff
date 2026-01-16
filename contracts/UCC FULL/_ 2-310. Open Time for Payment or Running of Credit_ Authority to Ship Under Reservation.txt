@@ -1,0 +1,74 @@
+U.C.C. § 2-310
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2. SALES          >            PART 3. 
+GENERAL OBLIGATION AND CONSTRUCTION OF CONTRACT        
+§ 2-310. Open Time for Payment or Running of Credit; Authority to Ship 
+Under Reservation.
+Unless otherwise agreed
+(a)  payment is due at the time and place at which the buyer is to receive the goods even though the 
+place of shipment is the place of delivery; and
+(b)  if the seller is authorized to send the goods he may ship them under reservation, and may tender 
+the documents of title, but the buyer may inspect the goods after their arrival before payment is due 
+unless such inspection is inconsistent with the terms of the contract ( Section 2-513); and
+(c)  if delivery is authorized and made by way of documents of title otherwise than by subsection (b) 
+then payment is due regardless of where the goods are to be received (i) at the time and place at which 
+the buyer is to receive delivery of the tangible documents or (ii) at the time the buyer is to receive 
+delivery of the electronic documents and at the seller's place of business or if none, the seller's 
+residence; and
+(d)  where the seller is required or authorized to ship the goods on credit the credit period runs from the 
+time of shipment but post-dating the invoice or delaying its dispatch will correspondingly delay the 
+starting of the credit period.
+Annotations
+Commentary
+Official Comment
+Prior Uniform Statutory Provision: Sections 42 and 47(2), Uniform Sales Act.
+Changes: Completely rewritten in this and other sections.
+Purposes of Changes: This section is drawn to reflect modern business methods of dealing at a distance rather 
+than face to face.  Thus:
+1. Paragraph (a) provides that payment is due at the time and place "the buyer is to receive the goods" rather than 
+at the point of delivery except in documentary shipment cases (paragraph (c) ).  This grants an opportunity for the 
+exercise by the buyer of his preliminary right to inspection before paying even though under the delivery term the 
+risk of loss may have previously passed to him or the running of the credit period has already started.
+2. Paragraph (b) while providing for inspection by the buyer before he pays, protects the seller.  He is not required 
+to give up possession of the goods until he has received payment, where no credit has been contemplated by the 
+parties.  The seller may collect through a bank by a sight draft against an order bill of lading "hold until arrival; 
+inspection allowed." The obligations of the bank under such a provision are set forth in Part 5 of Article 4.  Under 
+subsection (c), in the absence of a credit term, the seller is permitted to ship under reservation and if he does 
+payment is then due where and when the buyer is to receive delivery of the tangible documents of title.  In the case 
+
+§ 2-310. Open Time for Payment or Running of Credit; Authority to Ship Under Reservation.
+Page 2 of 2
+of an electronic document of title, payment is due when the buyer is to receive delivery of the electronic document 
+and at the seller's place of business, or if none, the seller's residence.  Delivery as to documents of title is stated in 
+Article 1, Section 1-201.
+3. Unless otherwise agreed, the place for the delivery of the documents and payment is the buyer's city but the time 
+for payment is only after arrival of the goods, since under paragraph (b), and Sections 2-512 and 2-513 the buyer is 
+under no duty to pay prior to inspection. Tender of a document of title requires that the seller be ready, willing and 
+able to transfer possession of a tangible document of title or control of an electronic document of title to the buyer.
+4. Where the mode of shipment is such that goods must be unloaded immediately upon arrival, too rapidly to permit 
+adequate inspection before receipt, the seller must be guided by the provisions of this Article on inspection which 
+provide that if the seller wishes to demand payment before inspection, he must put an appropriate term into the 
+contract.  Even requiring payment against documents will not of itself have this desired result if the documents are 
+to be held until the arrival of the goods.  But under (b) and (c) if the terms are C.I.F., C.O.D., or cash against 
+documents payment may be due before inspection.
+5. Paragraph (d) states the common commercial understanding that an agreed credit period runs from the time of 
+shipment or from that dating of the invoice which is commonly recognized as a representation of the time of 
+shipment.  The provision concerning any delay in sending forth the invoice is included because such conduct 
+results in depriving the buyer of his full notice and warning as to when he must be prepared to pay.
+Cross References:
+Generally: Part 5.
+Point 1: Section 2-509.
+Point 2: Sections 2-505, 2-511, 2-512, 2-513 and Article 4.
+Point 3: Sections 2-308(b), 2-512 and 2-513.
+Point 4: Section 2-513(3)(b).
+Definitional Cross References:
+"Buyer".  Section 2-103.
+"Delivery".  Section 1-201.
+"Document of title".  Section 1-201.
+"Goods".  Section 2-105.
+"Receipt of goods".  Section 2-103.
+"Seller".  Section 2-103.
+"Send".  Section 1-201.
+"Term".  Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

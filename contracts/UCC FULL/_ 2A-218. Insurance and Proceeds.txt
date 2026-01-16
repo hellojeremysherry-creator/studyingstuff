@@ -1,0 +1,48 @@
+U.C.C. § 2A-218
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+2. FORMATION AND CONSTRUCTION OF LEASE CONTRACT        
+§ 2A-218. Insurance and Proceeds.
+(1)  A lessee obtains an insurable interest when existing goods are identified to the lease contract even 
+though the goods identified are nonconforming and the lessee has an option to reject them.
+(2)  If a lessee has an insurable interest only by reason of the lessor's identification of the goods, the lessor, 
+until default or insolvency or notification to the lessee that identification is final, may substitute other goods 
+for those identified.
+(3)  Notwithstanding a lessee's insurable interest under subsections (1) and (2), the lessor retains an 
+insurable interest until an option to buy has been exercised by the lessee and risk of loss has passed to the 
+lessee.
+(4)  Nothing in this section impairs any insurable interest recognized under any other statute or rule of law.
+(5)  The parties by agreement may determine that one or more parties have an obligation to obtain and pay 
+for insurance covering the goods and by agreement may determine the beneficiary of the proceeds of the 
+insurance.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-501.
+Changes: This section, together with Section 2A-217, is derived from the provisions of Section 2-501, with changes 
+and additions to reflect leasing practices and terminology.
+Purposes: Subsection (2) states a rule allowing substitution of goods by the lessor under certain circumstances, 
+until default or insolvency of the lessor, or until notification to the lessee that identification is final.  Subsection (3) 
+states a rule regarding the lessor's insurable interest that, by virtue of the difference between a sale and a lease, 
+necessarily is different from the rule stated in Section 2-501(2) regarding the seller's insurable interest.  For this 
+purpose the option to buy shall be deemed to have been exercised by the lessee when the resulting sale is closed, 
+not when the lessee gives notice to the lessor.  Further, subsection (5) is new and reflects the common practice of 
+shifting the responsibility and cost of insuring the goods between the parties to the lease transaction.
+Cross References:
+Sections 2-501, 2-501(2) and 2A-217.
+Definitional Cross References:
+"Agreement".  Section 1-201(3).
+"Buying".  Section 2A-103(1)(a).
+
+§ 2A-218. Insurance and Proceeds.
+Page 2 of 2
+"Conforming".  Section 2A-103(1)(d).
+"Goods".  Section 2A-103(1)(h).
+"Insolvent".  Section 1-201(23).
+"Lease contract".  Section 2A-103(1)(l ).
+"Lessee".  Section 2A-103(1)(n).
+"Lessor".  Section 2A-103(1)(p).
+"Notification".  Section 1-201(26).
+"Party".  Section 1-201(29).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

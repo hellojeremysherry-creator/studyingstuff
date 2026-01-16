@@ -1,0 +1,34 @@
+U.C.C. § 9-106
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 1. GENERAL PROVISIONS          >            SUBPART 1. SHORT TITLE, DEFINITIONS, 
+AND GENERAL CONCEPTS        
+§ 9-106. CONTROL OF INVESTMENT PROPERTY
+(a) [Control under   Section 8-106.] A person has control of a certificated security, uncertificated security, 
+or security entitlement as provided in Section 8-106.
+(b) [Control of commodity contract.]  A secured party has control of a commodity contract if:
+(1)  the secured party is the commodity intermediary with which the commodity contract is carried; or
+(2)  the commodity customer, secured party, and commodity intermediary have agreed that the 
+commodity intermediary will apply any value distributed on account of the commodity contract as 
+directed by the secured party without further consent by the commodity customer.
+(c) [Effect of control of securities account or commodity account.]  A secured party having control of 
+all security entitlements or commodity contracts carried in a securities account or commodity account has 
+control over the securities account or commodity account.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Source. Former Section 9-115(e).
+   2. "Control" Under Article 8. For an explanation of "control" of securities and certain other investment property, 
+see Section 8-106, Comments 4 and 7.
+   3. "Control" of Commodity Contracts. This section, as did former Section 9-115(1)(e), contains provisions 
+relating to control of commodity contracts which are analogous to those in Section 8-106 for other types of 
+investment property.
+   4. Securities Accounts and Commodity Accounts. For drafting convenience, control with respect to a 
+securities account or commodity account is defined in terms of obtaining control over the security entitlements or 
+commodity contracts. Of course, an agreement that provides that (without further consent of the debtor) the 
+securities intermediary or commodity intermediary will honor instructions from the secured party concerning a 
+securities account or commodity account described as such is sufficient. Such an agreement necessarily implies 
+that the intermediary will honor instructions concerning all security entitlements or commodity contracts carried in 
+the account and thus affords the secured party control of all the security entitlements or commodity contracts.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,15 @@
+U.C.C. § 5-105
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 5. LETTERS OF CREDIT        
+§ 5-105. CONSIDERATION
+ Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or confirmation.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   It is not to be expected that any issuer will issue its letter of credit without some form of remuneration. But it is not 
+expected that the beneficiary will know what the issuer's remuneration was or whether in fact there was any 
+identifiable remuneration in a given case. And it might be difficult for the beneficiary to prove the issuer's 
+remuneration. This section dispenses with this proof and is consistent with the position of Lord Mansfield in Pillans 
+v. Van Mierop, 97 Eng.Rep. 1035 (K.B. 1765) in making consideration irrelevant.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

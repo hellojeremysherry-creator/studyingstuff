@@ -1,0 +1,44 @@
+U.C.C. § 2A-221
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+2. FORMATION AND CONSTRUCTION OF LEASE CONTRACT        
+§ 2A-221. Casualty to Identified Goods.
+If a lease contract requires goods identified when the lease contract is made, and the goods suffer casualty 
+without fault of the lessee, the lessor or the supplier before delivery, or the goods suffer casualty before risk 
+of loss passes to the lessee pursuant to the lease agreement or Section 2A-219, then:
+(a)  if the loss is total, the lease contract is avoided; and
+(b)  if the loss is partial or the goods have so deteriorated as to no longer conform to the lease contract, 
+the lessee may nevertheless demand inspection and at his [or her] option either treat the lease contract 
+as avoided or, except in a finance lease that is not a consumer lease, accept the goods with due 
+allowance from the rent payable for the balance of the lease term for the deterioration or the deficiency 
+in quantity but without further right against the lessor.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-613.
+Changes: Revised to reflect leasing practices and terminology.
+Purpose: Due to the vagaries of determining the amount of due allowance (Section 2-613(b)), no attempt was made 
+in subsection (b) to treat a problem unique to lease contracts and installment sales contracts: determining how to 
+recapture the allowance, e.g., application to the first or last rent payments or allocation, pro rata, to all rent 
+payments.
+Cross References:
+Section 2-613.
+Definitional Cross References:
+"Conforming".  Section 2A-103(1)(d).
+"Consumer lease".  Section 2A-103(1)(e).
+"Delivery".  Section 1-201(14).
+"Fault".  Section 2A-103(1)(f).
+"Finance lease".  Section 2A-103(1)(g).
+"Goods".  Section 2A-103(1)(h).
+
+§ 2A-221. Casualty to Identified Goods.
+Page 2 of 2
+"Lease".  Section 2A-103(1)(j).
+"Lease agreement".  Section 2A-103(1)(k).
+"Lease contract".  Section 2A-103(1)(l ).
+"Lessee".  Section 2A-103(1)(n).
+"Lessor".  Section 2A-103(1)(p).
+"Rights".  Section 1-201(36).
+"Supplier".  Section 2A-103(1)(x).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

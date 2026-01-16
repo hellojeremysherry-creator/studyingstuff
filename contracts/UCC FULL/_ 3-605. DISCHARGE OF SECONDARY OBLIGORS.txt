@@ -1,0 +1,417 @@
+U.C.C. § 3-605
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 3. NEGOTIABLE INSTRUMENTS          
+>            PART 6. DISCHARGE AND PAYMENT        
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+(a)  If a person entitled to enforce an instrument releases the obligation of a principal obligor in whole or in 
+part, and another party to the instrument is a secondary obligor with respect to the obligation of that 
+principal obligor, the following rules apply:
+(1)  Any obligations of the principal obligor to the secondary obligor with respect to any previous 
+payment by the secondary obligor are not affected. Unless the terms of the release preserve the 
+secondary obligor's recourse, the principal obligor is discharged, to the extent of the release, from any 
+other duties to the secondary obligor under this article.
+(2)  Unless the terms of the release provide that the person entitled to enforce the instrument retains 
+the right to enforce the instrument against the secondary obligor, the secondary obligor is discharged to 
+the same extent as the principal obligor from any unperformed portion of its obligation on the 
+instrument. If the instrument is a check and the obligation of the secondary obligor is based on an 
+indorsement of the check, the secondary obligor is discharged without regard to the language or 
+circumstances of the discharge or other release.
+(3)  If the secondary obligor is not discharged under paragraph (2), the secondary obligor is discharged 
+to the extent of the value of the consideration for the release, and to the extent that the release would 
+otherwise cause the secondary obligor a loss.
+(b)  If a person entitled to enforce an instrument grants a principal obligor an extension of the time at which 
+one or more payments are due on the instrument and another party to the instrument is a secondary obligor 
+with respect to the obligation of that principal obligor, the following rules apply:
+(1)  Any obligations of the principal obligor to the secondary obligor with respect to any previous 
+payment by the secondary obligor are not affected. Unless the terms of the extension preserve the 
+secondary obligor's recourse, the extension correspondingly extends the time for performance of any 
+other duties owed to the secondary obligor by the principal obligor under this article.
+(2)  The secondary obligor is discharged to the extent that the extension would otherwise cause the 
+secondary obligor a loss.
+(3)  To the extent that the secondary obligor is not discharged under paragraph (2), the secondary 
+obligor may perform its obligations to a person entitled to enforce the instrument as if the time for 
+payment had not been extended or, unless the terms of the extension provide that the person entitled 
+to enforce the instrument retains the right to enforce the instrument against the secondary obligor as if 
+the time for payment had not been extended, treat the time for performance of its obligations as having 
+been extended correspondingly.
+(c)  If a person entitled to enforce an instrument agrees, with or without consideration, to a modification of 
+the obligation of a principal obligor other than a complete or partial release or an extension of the due date 
+and another party to the instrument is a secondary obligor with respect to the obligation of that principal 
+obligor, the following rules apply:
+(1)  Any obligations of the principal obligor to the secondary obligor with respect to any previous 
+payment by the secondary obligor are not affected. The modification correspondingly modifies any 
+other duties owed to the secondary obligor by the principal obligor under this article.
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 2 of 9
+(2)  The secondary obligor is discharged from any unperformed portion of its obligation to the extent 
+that the modification would otherwise cause the secondary obligor a loss.
+(3)  To the extent that the secondary obligor is not discharged under paragraph (2), the secondary 
+obligor may satisfy its obligation on the instrument as if the modification had not occurred, or treat its 
+obligation on the instrument as having been modified correspondingly.
+(d)  If the obligation of a principal obligor is secured by an interest in collateral, another party to the 
+instrument is a secondary obligor with respect to that obligation, and a person entitled to enforce the 
+instrument impairs the value of the interest in collateral, the obligation of the secondary obligor is 
+discharged to the extent of the impairment. The value of an interest in collateral is impaired to the extent the 
+value of the interest is reduced to an amount less than the amount of the recourse of the secondary obligor, 
+or the reduction in value of the interest causes an increase in the amount by which the amount of the 
+recourse exceeds the value of the interest. For purposes of this subsection, impairing the value of an 
+interest in collateral includes failure to obtain or maintain perfection or recordation of the interest in 
+collateral, release of collateral without substitution of collateral of equal value or equivalent reduction of the 
+underlying obligation, failure to perform a duty to preserve the value of collateral owed, under Article 9 or 
+other law, to a debtor or other person secondarily liable, and failure to comply with applicable law in 
+disposing of or otherwise enforcing the interest in collateral.
+(e)  A secondary obligor is not discharged under subsections (a)(3), (b), (c), or (d) unless the person 
+entitled to enforce the instrument knows that the person is a secondary obligor or has notice under Section 
+3-419(c) that the instrument was signed for accommodation.
+(f)  A secondary obligor is not discharged under this section if the secondary obligor consents to the event 
+or conduct that is the basis of the discharge, or the instrument or a separate agreement of the party 
+provides for waiver of discharge under this section specifically or by general language indicating that parties 
+waive defenses based on suretyship or impairment of collateral. Unless the circumstances indicate 
+otherwise, consent by the principal obligor to an act that would lead to a discharge under this section 
+constitutes consent to that act by the secondary obligor if the secondary obligor controls the principal 
+obligor or deals with the person entitled to enforce the instrument on behalf of the principal obligor.
+(g)  A release or extension preserves a secondary obligor's recourse if the terms of the release or 
+extension provide that:
+(1)  the person entitled to enforce the instrument retains the right to enforce the instrument against the 
+secondary obligor; and
+(2)  the recourse of the secondary obligor continues as if the release or extension had not been 
+granted.
+(h)  Except as otherwise provided in subsection (i), a secondary obligor asserting discharge under this 
+section has the burden of persuasion both with respect to the occurrence of the acts alleged to harm the 
+secondary obligor and loss or prejudice caused by those acts.
+(i)  If the secondary obligor demonstrates prejudice caused by an impairment of its recourse, and the 
+circumstances of the case indicate that the amount of loss is not reasonably susceptible of calculation or 
+requires proof of facts that are not ascertainable, it is presumed that the act impairing recourse caused a 
+loss or impairment equal to the liability of the secondary obligor on the instrument. In that event, the burden 
+of persuasion as to any lesser amount of the loss is on the person entitled to enforce the instrument.
+Annotations
+Commentary
+OFFICIAL COMMENT
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 3 of 9
+   1. This section contains rules that are applicable when a secondary obligor (as defined in Section 3-103(a)(17)) is 
+a party to an instrument. These rules essentially parallel modern interpretations of the law of suretyship and 
+guaranty that apply when a secondary obligor is not a party to an instrument. See generally Restatement of the 
+Law, Third, Suretyship and Guaranty (1996). Of course, the rules in this section do not resolve all possible issues 
+concerning the rights and duties of the parties. In the event that a situation is presented that is not resolved by this 
+section (or the other related sections of this Article), the resolution may be provided by the general law of suretyship 
+because, pursuant to Section 1-103, that law is applicable unless displaced by provisions of this Act.
+   2. Like the law of suretyship and guaranty, Section 3-605 provides secondary obligors with defenses that are not 
+available to other parties to instruments. The general operation of Section 3-605, and its relationship to the law of 
+suretyship and guaranty, can be illustrated by an example. Bank agrees to lend $ 10,000 to Borrower, but only if 
+Backer also is liable for repayment of the loan. The parties could consummate that transaction in three different 
+ways. First, if Borrower and Backer incurred those obligations with contracts not govemed by this Article (such as a 
+note that is not an instrument for purposes of this Article), the general law of suretyship and guaranty would be 
+applicable. Under modern nomenclature, Bank is the "obligee," Borrower is the "principal obligor," and Backer is the 
+"secondary obligor." See Restatement of Suretyship and Guaranty § 1. Then assume that Bank and Borrower 
+agree to a modification of their rights and obligations after the note is signed. For example, they might agree that 
+Borrower may repay the loan at some date after the due date, or that Borrower may discharge its repayment 
+obligation by paying Bank $ 3,000 rather than $ 10,000. Alternatively, suppose that Bank releases collateral that 
+Borrower has given to secure the loan. Under the law of suretyship and guaranty, the secondary obligor may be 
+discharged under certain circumstances if these modifications of the obligations between Bank (the obligee) and 
+Borrower (the principal obligor) are made without the consent of Backer (the secondary obligor). The rights that the 
+secondary obligor has to a discharge of its liability in such cases commonly are referred to as suretyship defenses. 
+The extent of the discharge depends upon the particular circumstances. See Restatement of Suretyship and 
+Guaranty §§ 37, 39-44.
+   A second possibility is that the parties might decide to evidence the loan by a negotiable instrument. In that 
+scenario, Borrower signs a note under which Borrower is obliged to pay $ 10,000 to the order of Bank on a due date 
+stated in the note. Backer becomes liable for the repayment obligation by signing the note as a co-maker or 
+indorser. In either case the note is signed for accommodation, Backer is an accommodation party, and Borrower is 
+the accommodated party. See Section 3-419 (describing the obligations of accommodation parties). For purposes 
+of Section 3-605, Backer is also a "secondary obligor" and Borrower is a "principal obligor," as those terms are 
+defined in Section 3-103. Because Backer is a party to the instrument, its rights to a discharge based on any 
+modification of obligations between Bank and Borrower are governed by Section 3-605 rather than by the general 
+law of suretyship and guaranty. Within Section 3-605, subsection (a) describes the consequences of a release of 
+Borrower, subsection (b) describes the consequences of an extension of time, and subsection (c) describes the 
+consequences of other modifications.
+   The third possibility is that Borrower would use an instrument governed by this Article to evidence its repayment 
+obligation, but Backer's obligation would be created in some way other than by becoming party to that instrument. 
+In that case, Backer's rights are determined by suretyship and guaranty law rather than by this Article. See 
+Comment 3 to Section 3-419.
+   A person also can acquire secondary liability without having been a secondary obligor at the time that the 
+principal obligation was created. For example, a transferee of real or personal property that assumes the obligation 
+of the transferor as maker of a note secured by the property becomes by operation of law a principal obligor, with 
+the transferor becoming a secondary obligor. Restatement of Suretyship and Guaranty § 2(e); Restatement of 
+Mortgages § 5.1. Article 3 does not determine the effect of the release of the transferee in that case because the 
+assuming transferee is not a "party" to the instrument as defined in Section 3-103(a)(10). Section 3-605(a) does not 
+apply then because the holder has not discharged the obligation of a "principal obligor," a term defined in Section 3-
+103(a)(11). Thus, the resolution of that question is governed by the law of suretyship. See Restatement of 
+Suretyship and Guaranty § 39.
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 4 of 9
+   3. Section 3-605 is not, however, limited to the conventional situation of the accommodation party discussed in 
+Comment 2. It also applies in four other situations. First, it applies to indorsers of notes who are not accommodation 
+parties. Unless an indorser signs without recourse, the indorser's liability under Section 3-415(a) is functionally 
+similar to that of a guarantor of payment. For example, if Bank in the second hypothetical discussed in Comment 2 
+indorsed the note and transferred it to Second Bank, Bank is liable to Second Bank in the event of dishonor of the 
+note by Borrower. Section 3-415(a). Because of that secondary liability as indorser, Bank qualifies as a "secondary 
+obligor" under Section 3-103(a)(17) and has the same rights under Section 3-605 as an accommodation party.
+   Second, a similar analysis applies to the drawer of a draft that is accepted by a party that is not a bank. Under 
+Section 3-414(d), that drawer has liability on the same terms as an indorser under Section 3-415(a). Thus, the 
+drawer in that case is a "secondary obligor" under Section 3-103(a)(17) and has rights under Section 3-605 to that 
+extent.
+   Third, a similar principle justifies application of Section 3-605 to persons who indorse a check. Assume that 
+Drawer draws a check to the order of Payee. Payee then indorses the check and transfers it to Transferee. If 
+Transferee presents the check and it is dishonored, Transferee may recover from Drawer under Section 3-414 or 
+Payee under Section 3-415. Because of that secondary liability as an indorser, Payee is a secondary obligor under 
+Section 3-103(a)(17). Drawer is a "principal obligor" under Section 3-103(a)(11). As noted in Comment 4, below, 
+however, Section 3-605(a)(3) will discharge indorsers of checks in some cases in which other secondary obligors 
+will not be discharged by this section.
+   Fourth, this section also deals with the rights of co-makers of instruments, even when those co-makers do not 
+qualify as accommodation parties. The co-makers' rights of contribution under Section 3-116 make each co-maker 
+a secondary obligor to the extent of that right of contribution.
+   4. Subsection (a) is based on Restatement of Suretyship and Guaranty § 39. It addresses the effects of a release 
+of the principal obligor by the person entitled to enforce the instrument. Paragraph (a)(1) governs the effect of that 
+release on the principal obligor's duties to the secondary obligor; paragraphs (a)(2) and (a)(3) govern the effect of 
+that release on the secondary obligor's duties to the person entitled to enforce the instrument.
+   With respect to the duties of the principal obligor, the release of course cannot affect obligations of the principal 
+obligor with respect to payments that the secondary obligor already has made. But with respect to future payments 
+by the secondary obligor, paragraph (a)(1) (based on Restatement of Suretyship and Guaranty § 39(a)) provides 
+that the principal obligor is discharged, to the extent of the release, from any other duties to the secondary obligor. 
+That rule is appropriate because otherwise the discharge granted to the principal obligor would be illusory: it would 
+have obtained a release from a person entitled to enforce that instrument, but it would be directly liable for the same 
+sum to the secondary obligor if the secondary obligor later complied with its secondary obligation to pay the 
+instrument. This discharge does not occur, though, if the terms of the release effect a "preservation of recourse" as 
+described in subsection (g). See Comment 10, below.
+   The discharge under paragraph (a)(1) of the principal obligor's duties to the secondary obligor is broad, applying 
+to all duties under this article. This includes not only the principal obligor's liability as a party to an instrument (as a 
+maker, drawer or indorser under Sections 3-412 through 3-415) but also obligations under Sections 3-116 and 3-
+419.
+   Paragraph (a)(2) is based closely on Restatement of Suretyship and Guaranty § 39(b). It articulates a default rule 
+that the release of a principal obligor also discharges the secondary obligor, to the extent of the release granted to 
+the principal obligor, from any unperformed portion of its obligation on the instrument. The discharge of the 
+secondary obligor under paragraph (a)(2) is phrased more narrowly than the discharge of the principal obligor is 
+phrased under paragraph (a)(1) because, unlike principal obligors, the only obligations of secondary obligors in 
+Article 3 are "on the instrument" as makers or indorsers.
+   The parties can opt out of that rule by including a contrary statement in the terms of the release. The provision 
+does not contemplate that any "magic words" are necessary. Thus, discharge of the secondary obligor under 
+paragraph (a)(2) is avoided not only if the terms of the release track the statutory language (e.g., the person entitled 
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 5 of 9
+to enforce the instrument "retains the right to enforce the instrument" against the secondary obligor), or if the terms 
+of the release effect a preservation of recourse under subsection (g), but also if the terms of the release include a 
+simple statement that the parties intend to "release the principal obligor but not the secondary obligor" or that the 
+person entitled to enforce the instrument "reserves its rights" against the secondary obligor. At the same time, 
+because paragraph (a)(2) refers to the "terms of the release," extrinsic circumstances cannot be used to establish 
+that the parties intended the secondary obligor to remain obligated. If a release of the principal obligor includes 
+such a provision, the secondary obligor is, nonetheless, discharged to the extent of the consideration that is paid for 
+the release; that consideration is treated as a payment in partial satisfaction of the instrument.
+   Notwithstanding language in the release that prevents discharge of the secondary obligor under paragraph (a)(2), 
+paragraph (a)(3) discharges the secondary obligor from its obligation to a person entitled to enforce the instrument 
+to the extent that the release otherwise would cause the secondary obligor a loss. The rationale for that provision is 
+that a release of the principal obligor changes the economic risk for which the secondary obligor contracted. This 
+risk may be increased in two ways. First, by releasing the principal obligor, the person entitled to enforce the 
+instrument has eliminated the likelihood of future payments by the principal obligor that would lessen the obligation 
+of the secondary obligor. Second, unless the release effects a preservation of the secondary obligor's recourse, the 
+release eliminates the secondary obligor's claims against the principal obligor with respect to any future payment by 
+the secondary obligor. The discharge provided by this paragraph prevents that increased risk from causing the 
+secondary obligor a loss. Moreover, permitting releases to be negotiated between the principal obligor and the 
+person entitled to enforce the instrument without regard to the consequences to the secondary obligor would create 
+an undue risk of opportunistic behavior by the obligee and principal obligor. That concern is lessened, and the 
+discharge is not provided by paragraph (a)(3), if the secondary obligor has consented to the release or is deemed to 
+have consented to it under subsection (f) (which presumes consent by a secondary obligor to actions taken by a 
+principal obligor if the secondary obligor controls the principal obligor or deals with the person entitled to enforce the 
+instrument on behalf of the principal obligor). See Comment 9, below.
+   Subsection (a) (and Restatement Section 39(b), the concepts of which it follows quite closely) is designed to 
+facilitate negotiated workouts between a creditor and a principal obligor, so long as they are not at the expense of a 
+secondary obligor who has not consented to the arrangement (either specifically or by waiving its rights to 
+discharge under this section). Thus, for example, the provision facilitates an arrangement in which the principal 
+obligor pays some portion of a guaranteed obligation, the person entitled to enforce the instrument grants a release 
+to the principal obligor in exchange for that payment, and the person entitled to enforce the instrument pursues the 
+secondary obligor for the remainder of the obligation. Under paragraph (a)(2), the person entitled to enforce the 
+instrument may pursue the secondary obligor despite the release of the principal obligor so long as the terms of the 
+release provide for this result. Under paragraph (a)(3), though, the secondary obligor will be protected against any 
+loss it might suffer by reason of that release (if the secondary obligor has not waived discharge under subsection 
+(f)). It should be noted that the obligee may be able to minimize the risk of such loss (and, thus, of the secondary 
+obligor's discharge) by giving the secondary obligor prompt notice of the release even though such notice is not 
+required.
+   The foregoing principles are illustrated by the following cases:
+   Case 1. D borrows $ 1000 from C. The repayment obligation is evidenced by a note issued by D, payable to the 
+order of C. S is an accommodation indorser of the note. As the due date of the note approaches, it becomes 
+obvious that D cannot pay the full amount of the note and may soon be facing bankruptcy. C, in order to collect as 
+much as possible from D and lessen the need to seek recovery from S, agrees to release D from its obligation 
+under the note in exchange for $ 100 in cash. The agreement to release D is silent as to the effect of the release on 
+S. Pursuant to Section 3-605(a)(2), the release of D discharges S from its obligations to C on the note.
+   Case 2. Same facts as Case 1, except that the terms of the release provide that C retains its rights to enforce the 
+instrument against S. D is discharged from its obligations to S pursuant to Section 3-605(a)(1), but S is not 
+discharged from its obligations to C pursuant to Section 3-605(a)(2). However, if S could have recovered from D 
+any sum it paid to C (had D not been discharged from its obligation to S), S has been harmed by the release and is 
+discharged pursuant to Section 3-605(a)(3) to the extent of that harm.
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 6 of 9
+   Case 3. Same facts as Case 1, except that the terms of the release provide that C retains its rights to enforce the 
+instrument against S and that S retains its recourse against D. Under subsection (g), the release effects a 
+preservation of recourse. Thus, S is not discharged from its obligations to C pursuant to Section 3-605(a)(2) and D 
+is not discharged from its obligations to S pursuant to Section 3-605(a)(1). Because S's claims against D are 
+preserved, S will not suffer the kind of loss described in Case 2. If no other loss is suffered by S as a result of the 
+release, S is not discharged pursuant to this section.
+   Case 4. Same facts as Case 3, except that D had made arrangements to work at a second job in order to earn 
+the money to fulfill its obligations on the note. When C released D, however, D canceled the plans for the second 
+job. While S still retains its recourse against D, S may be discharged from its obligation under the instrument to the 
+extent that D's decision to forgo the second job causes S a loss because forgoing the job renders D unable to fulfill 
+its obligations to S under Section 3-419.
+   Subsection (a) reflects a change from former Section 3-605(b), which provided categorically that the release of a 
+principal obligor by the person entitled to enforce the instrument did not discharge a secondary obligor's obligation 
+on the instrument and assumed that the release also did not discharge the principal obligor's obligations to the 
+secondary obligor under Section 3-419. The rule under subsection (a) is much closer to the policy of the 
+Restatement of Suretyship and Guaranty than was former Section 3-605(b). The change, however, is likely to affect 
+only a narrow category of cases. First, as discussed above, Section 3-605 applies only to transactions in which the 
+payment obligation is represented by a negotiable instrument, and, within that set of transactions, only to those 
+transactions in which the secondary obligation is incurred by indorsement or cosigning, not to transactions that 
+involve a separate document of guaranty. See Comment 2, above. Second, as provided in subsection (f), 
+secondary obligors cannot obtain a discharge under subsection (a) in any transaction in which they have consented 
+to the challenged conduct. Thus, subsection (a) will not apply to any transaction that includes a provision waiving 
+suretyship defenses (a provision that is almost universally included in commercial loan documentation) or to any 
+transaction in which the creditor obtains the consent of the secondary obligor at the time of the release.
+   The principal way in which subsection (a) goes beyond the policy of Restatement § 39 is with respect to the 
+liability of indorsers of checks. Specifically, the last sentence of paragraph (a)(2) provides that a release of a 
+principal obligor grants a complete discharge to the indorser of a check, without requiring the indorser to prove 
+harm. In that particular context, it seems likely that continuing responsibility for the indorser often would be so 
+inconsistent with the expectations of the parties as to create a windfall for the creditor and an unfair surprise for the 
+indorser. Thus, the statute implements a simple rule that grants a complete discharge. The creditor, of course, can 
+avoid that rule by contracting with the secondary obligor for a different result at the time that the creditor grants the 
+release to the principal obligor.
+   5. Subsection (b) is based on Restatement of Suretyship and Guaranty § 40 and relates to extensions of the due 
+date of the instrument. An extension of time to pay a note is often beneficial to the secondary obligor because the 
+additional time may enable the principal obligor to obtain the funds to pay the instrument. In some cases, however, 
+the extension may cause loss to the secondary obligor, particularly if deterioration of the financial condition of the 
+principal obligor reduces the amount that the secondary obligor is able to recover on its right of recourse when 
+default occurs. For example, suppose that the instrument is an installment note and the principal debtor is 
+temporarily short of funds to pay a monthly installment. The payee agrees to extend the due date of the installment 
+for a month or two to allow the debtor to pay when funds are available. Paragraph (b)(2) provides that an extension 
+of time results in a discharge of the secondary obligor, but only to the extent that the secondary obligor proves that 
+the extension caused loss. See subsection (h) (discussing the burden of proof under Section 3-605). Thus, if the 
+extension is for a long period, the secondary obligor might be able to prove that during the period of extension the 
+principal obligor became insolvent, reducing the value of the right of recourse of the secondary obligor. In such a 
+case, paragraph (b)(2) discharges the secondary obligor to the extent of that harm. Although not required to notify 
+the secondary obligor of the extension, the payee can minimize the risk of loss by the secondary obligor by giving 
+the secondary obligor prompt notice of the extension; prompt notice can enhance the likelihood that the secondary 
+obligor's right of recourse can remain valuable, and thus can limit the likelihood that the secondary obligor will suffer 
+a loss because of the extension. See Restatement of Suretyship and Guaranty Section 38 comment b.
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 7 of 9
+   If the secondary obligor is not discharged under paragraph (b)(2) (either because it would not suffer a loss by 
+reason of the extension or because it has waived its right to discharge pursuant to subsection (f)), it is important to 
+understand the effect of the extension on the rights and obligations of the secondary obligor. Consider the following 
+cases:
+   Case 5. A borrows money from Lender and issues a note payable to the order of Lender that is due on April 1, 
+2002. B signs the note for accommodation at the request of Lender. B signed the note either as co-maker or as an 
+anomalous indorser. In either case Lender subsequently makes an agreement with A extending the due date of A's 
+obligation to pay the note to July 1, 2002. In either case B did not agree to the extension, and the extension did not 
+address Lender's rights against B. Under paragraph (b)(1), A's obligations to B under this article are also extended 
+to July 1, 2002. Under paragraph (b)(3), if B is not discharged, B may treat its obligations to Lender as also 
+extended, or may pay the instrument on the original due date.
+   Case 6. Same facts as Case 5, except that the extension agreement includes a statement that the Lender retains 
+its right to enforce the note against B on its original terms. Under paragraph (b)(3), B is liable on the original due 
+date, but under paragraph (b)(1), A's obligations to B under Section 3-419 are not due until July 1, 2002.
+   Case 7. Same facts as Case 5, except that the extension agreement includes a statement that the Lender retains 
+its right to enforce the note against B on its original terms and B retains its recourse against A as though no 
+extension had been granted. Under paragraph (b)(3), B is liable on the original due date. Under paragraph (b)(1), 
+A's obligations to B under Section 3-419 are not extended.
+   Under section 3-605(b), the results in Case 5 and Case 7 are identical to the results that follow from the law of 
+suretyship and guaranty. See Restatement of Suretyship and Guaranty § 40. The situation in Case 6 is not 
+specifically addressed in the Restatement, but the resolution in this Section is consistent with the concepts of 
+suretyship and guaranty law as reflected in the Restatement. If the secondary obligor is called upon to pay on the 
+due date, it may be difficult to quantify the extent to which the extension has impaired the right of recourse of the 
+secondary obligor at that time. Still, the secondary obligor does have a right to make a claim against the obligee at 
+that time. As a practical matter a suit making such a claim should establish the facts relevant to the extent of the 
+impairment. See Restatement of Suretyship and Guaranty § 37(4).
+   As a practical matter, an extension of the due date will normally occur only when the principal obligor is unable to 
+pay on the due date. The interest of the secondary obligor normally is to acquiesce in the willingness of the person 
+entitled to enforce the instrument to wait for payment from the principal obligor rather than to pay right away and 
+rely on an action against the principal obligor that may have little or no value. But in unusual cases the secondary 
+obligor may prefer to pay the holder on the original due date so as to avoid continuing accrual of interest. In such 
+cases, the secondary obligor may do so. See paragraph (b)(3). If the terms of the extension provide that the person 
+entitled to enforce the instrument retains its right to enforce the instrument against the secondary obligor on the 
+original due date, though, those terms are effective and the secondary obligor may not delay payment until the 
+extended due date. Unless the extension agreement effects a preservation of recourse, however, the secondary 
+obligor may not proceed against the principal obligor under Section 3-419 until the extended due date. See 
+paragraph (b)(1). To the extent that delay causes loss to the secondary obligor it is discharged under paragraph 
+(b)(2).
+   Even in those cases in which a secondary obligor does not have a duty to pay the instrument on the original due 
+date, it always has the right to pay the instrument on that date, and perhaps minimize its loss by doing so. The 
+secondary obligor is not precluded, however, from asserting its rights to discharge under Section 3-605(b)(2) if it 
+does not exercise that option. The critical issue is whether the extension caused the secondary obligor a loss by 
+increasing the difference between its cost of performing its obligation on the instrument and the amount recoverable 
+from the principal obligor under this Article. The decision by the secondary obligor not to exercise its option to pay 
+on the original due date may, under the circumstances, be a factor to be considered in the determination of that 
+issue, especially if the secondary obligor has been given prompt notice of the extension (as discussed above).
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 8 of 9
+   6. Subsection (c) is based on Restatement of Suretyship and Guaranty § 41. It is a residual provision, which 
+applies to modifications of the obligation of the principal obligor that are not covered by subsections (a) and (b). 
+Under subsection (c)(1), a modification of the obligation of the principal obligor on the instrument (other than a 
+release covered by subsection (a) or an extension of the due date covered by subsection (b)), will correspondingly 
+modify the duties of the principal obligor to the secondary obligor. Under subsection (c)(2), such a modification also 
+will result in discharge of the secondary obligor to the extent the modification causes loss to the secondary obligor. 
+To the extent that the secondary obligor is not discharged and the obligation changes the amount of money payable 
+on the instrument, or the timing of such payment, subsection (c)(3) provides the secondary obligor with a choice: it 
+may satisfy its obligation on the instrument as if the modification had not occurred, or it may treat its obligation to 
+pay the instrument as having been modified in a manner corresponding to the modification of the principal obligor's 
+obligation.
+   The following cases illustrate the application of subsection (c):
+   Case 8. Corporation borrows money from Lender and issues a note payable to Lender. X signs the note as an 
+accommodation party for Corporation. The note refers to a loan agreement under which the note was issued, which 
+states various events of default that allow Lender to accelerate the due date of the note. Among the events of 
+default are breach of covenants not to incur debt beyond specified limits and not to engage in any line of business 
+substantially different from that currently carried on by Corporation. Without consent of X, Lender agrees to modify 
+the covenants to allow Corporation to enter into a new line of business that X considers to be risky, and to incur 
+debt beyond the limits specified in the loan agreement to finance the new venture. This modification discharges X to 
+the extent that the modification otherwise would cause X a loss.
+   Case 9. Corporation borrows money from Lender and issues a note payable to Lender in the amount of $ 
+100,000. X signs the note as an accommodation party for Corporation. The note calls for 60 equal monthly 
+payments of interest and principal. Before the first payment is made, Corporation and Lender agree to modify the 
+note by changing the repayment schedule to require four annual payments of interest only, followed by a fifth 
+payment of interest and the entire $ 100,000 principal balance. To the extent that the modification does not 
+discharge X, X has the option of fulfilling its obligation on the note in accordance with the original terms or the 
+modified terms.
+   7. Subsection (d) is based on Restatement of Suretyship and Guaranty § 42 and deals with the discharge of 
+secondary obligors by impairment of collateral. The last sentence of subsection (d) states four common examples of 
+what is meant by impairment. Because it uses the term "includes," the provision allows a court to find impairment in 
+other cases as well. There is extensive case law on impairment of collateral. The secondary obligor is discharged to 
+the extent that the secondary obligor proves that impairment was caused by a person entitled to enforce the 
+instrument. For example, assume that the payee of a secured note fails to perfect the security interest. The 
+collateral is owned by the principal obligor who subsequently files in bankruptcy. As a result of the failure to perfect, 
+the security interest is not enforceable in bankruptcy. If the payee were to obtain payment from the secondary 
+obligor, the secondary obligor would be subrogated to the payee's security interest in the collateral under Section 3-
+419 and general principles of suretyship law. See Restatement of Suretyship and Guaranty § 28(1)(c). In this 
+situation, though, the value of the security interest is impaired completely because the security interest is 
+unenforceable. Thus, the secondary obligor is discharged from its obligation on the note to the extent of that 
+impairment. If the value of the collateral impaired is as much or more than the amount of the note, and if there will 
+be no recovery on the note as an unsecured claim, there is a complete discharge. Subsection (d) applies whether 
+the collateral is personalty or realty, whenever the obligation in question is in the form of a negotiable instrument.
+   8. Subsection (e) is based on the former Section 3-605(h). The requirement of knowledge in the first clause is 
+consistent with Section 9-628. The requirement of notice in the second clause is consistent with Section 3-419(c).
+   9. The importance of the suretyship defenses provided in Section 3-605 is greatly diminished by the fact that the 
+right to discharge can be waived as provided in subsection (f). The waiver can be effectuated by a provision in the 
+instrument or in a separate agreement. It is standard practice to include such a waiver of suretyship defenses in 
+notes prepared by financial institutions or other commercial creditors. Thus, Section 3-605 will result in the 
+
+§ 3-605. DISCHARGE OF SECONDARY OBLIGORS
+Page 9 of 9
+discharge of an accommodation party on a note only in the occasional case in which the note does not include such 
+a waiver clause and the person entitled to enforce the note nevertheless takes actions that would give rise to a 
+discharge under this section without obtaining the consent of the secondary obligor.
+   Because subsection (f) by its terms applies only to a discharge "under this section," subsection (f) does not 
+operate to waive a defense created by other law (such as the law governing enforcement of security interests under 
+Article 9) that cannot be waived under that law. See, e.g., Section 9-602.
+   The last sentence of subsection (f) creates an inference of consent on the part of the secondary obligor whenever 
+the secondary obligor controls the principal obligor or deals with the creditor on behalf of the principal obligor. That 
+sentence is based on Restatement of Suretyship and Guaranty § 48(2).
+   10. Subsection (g) explains the criteria for determining whether the terms of a release or extension preserve the 
+secondary obligor's recourse, a concept of importance in the application of subsections (a) and (b). First, the terms 
+of the release or extension must provide that the person entitled to enforce the instrument retains the right to 
+enforce the instrument against the secondary obligor. Second, the terms of the release or extension must provide 
+that the recourse of the secondary obligor against the principal obligor continues as though the release or extension 
+had not been granted. Those requirements are drawn from Restatement of Suretyship and Guaranty § 38.
+   11. Subsections (h) and (i) articulate rules for the burden of persuasion under Section 3-605. Those rules are 
+based on Restatement of Suretyship and Guaranty § 49.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

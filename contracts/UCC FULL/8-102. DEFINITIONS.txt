@@ -1,0 +1,57 @@
+U.C.C. Art. 9, Appx. I, 8-102
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>             APPENDIX I. CONFORMING AMENDMENTS TO OTHER ARTICLES        
+8-102. DEFINITIONS
+ * * *
+Annotations
+Commentary
+OFFICIAL COMMENT
+   * * *
+   7. "Entitlement holder." This term designates those who hold financial assets through intermediaries in the indirect 
+holding system. Because many of the rules of Part 5 impose duties on securities intermediaries in favor of 
+entitlement holders, the definition of entitlement holder is, in most cases, limited to the person specifically 
+designated as such on the records of the intermediary. The last sentence of the definition covers the relatively 
+unusual cases where a person may acquire a security entitlement under Section 8-501 even though the person 
+may not be specifically designated as an entitlement holder on the records of the securities intermediary.
+   A person may have an interest in a security entitlement, and may even have the right to give entitlement orders to 
+the securities intermediary with respect to it, even though the person is not the entitlement holder. For example, a 
+person who holds securities through a securities account in its own name may have given discretionary trading 
+authority to another person, such as an investment adviser. Similarly, the control provisions in Section 8-106 and 
+the related provisions in Article 9 are designed to facilitate transactions in which a person who holds securities 
+through a securities account uses them as collateral in an arrangement where the securities intermediary has 
+agreed that if the secured party so directs the intermediary will dispose of the positions. In such arrangements, the 
+debtor remains the entitlement holder but has agreed that the secured party can initiate entitlement orders. 
+Moreover, an entitlement holder may be acting for another person as a nominee, agent, trustee, or in another 
+capacity. Unless the entitlement holder is itself acting as a securities intermediary for the other person, in which 
+case the other person would be an entitlement holder with respect to the securities entitlement, the relationship 
+between an entitlement holder and another person for whose benefit the entitlement holder holds a securities 
+entitlement is governed by other law.
+   8. "Entitlement order." This term is defined as a notification communicated to a securities intermediary directing 
+transfer or redemption of the financial asset to which an entitlement holder has a security entitlement. The term is 
+used in the rules for the indirect holding system in a fashion analogous to the use of the terms "indorsement" and 
+"instruction" in the rules for the direct holding system. If a person directly holds a certificated security in registered 
+form and wishes to transfer it, the means of transfer is an indorsement. If a person directly holds an uncertificated 
+security and wishes to transfer it, the means of transfer is an instruction. If a person holds a security entitlement, the 
+means of disposition is an entitlement order. An entitlement order includes a direction under Section 8-508 to the 
+securities intermediary to transfer a financial asset to the account of the entitlement holder at another financial 
+intermediary or to cause the financial asset to be transferred to the entitlement holder in the direct holding system 
+(e.g., the delivery of a securities certificate registered in the name of the former entitlement holder). As noted in 
+Comment 7, an entitlement order need not be initiated by the entitlement holder in order to be effective, so long as 
+the entitlement holder has authorized the other party to initiate entitlement orders. See Section 8-107(b).
+
+ 8-102. DEFINITIONS
+Page 2 of 2
+   * * *
+   13. "Registered form." The definition of "registered form" is substantially the same as in the prior version of Article 
+8. Like the definition of bearer form, it serves primarily to distinguish Article 8 securities from instruments governed 
+by other law, such as Article 3.
+   Contrary to the holding in Highland Capital Management LP v. Schneider, 8 N.Y.3d 406 (2007), the registrability 
+requirement in the definition of "registered form," and its parallel in the definition of "security," are satisfied only if 
+books are maintained by or on behalf of the issuer for the purpose of registration of transfer, including the 
+determination of rights under Section 8-207(a) (or if, in the case of a certificated security, the security certificate so 
+states). It is not sufficient that the issuer records ownership, or records transfers thereof, for other purposes. Nor is 
+it sufficient that the issuer, while not in fact maintaining books for the purpose of registration of transfer, could do so, 
+for such is always the case.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

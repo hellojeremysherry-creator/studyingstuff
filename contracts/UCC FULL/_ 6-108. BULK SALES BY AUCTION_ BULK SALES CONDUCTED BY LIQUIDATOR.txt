@@ -1,0 +1,124 @@
+U.C.C. § 6-108
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 6. BULK SALES          >            
+ALTERNATIVE B [Including Article 6 as revised]        
+§ 6-108. BULK SALES BY AUCTION; BULK SALES CONDUCTED BY 
+LIQUIDATOR.
+(1)  Sections 6-104, 6-105, 6-106, and 6-107 apply to a bulk sale by auction and a bulk sale conducted by a 
+liquidator on the seller's behalf with the following modifications:
+(a)  "buyer" refers to auctioneer or liquidator, as the case may be;
+(b)  "net contract price" refers to net proceeds of the auction or net proceeds of the sale, as the case 
+may be;
+(c)  the written notice required under Section 6-105(3) must be accompanied by a copy of the schedule 
+of distribution ( Section 6-106(1)) and state at least:
+(i) that the seller and the auctioneer or liquidator have entered into an agreement for auction or 
+liquidation services that may constitute an agreement to make a bulk sale under the laws of the State of 
+...............;
+(ii)  the date of the agreement;
+(iii)  the date on or after which the auction began or will begin or the date on or after which the 
+liquidator began or will begin to sell assets on the seller's behalf;
+(iv)  the date on or after which more than ten percent of the net proceeds of the sale were or will be 
+paid, if the date is not stated in the schedule of distribution;
+(v)  the name and a mailing address of the seller;
+(vi)  any other business name and address listed by the seller pursuant to Section 6-104(1)(a);
+(vii)  the name of the auctioneer or liquidator and an address of the auctioneer or liquidator from 
+which information concerning the sale can be obtained;
+(viii)  a statement indicating the type of assets or describing the assets item by item;
+(ix)  the manner in which the auctioneer or liquidator will make available the list of claimants ( 
+Section 6-104(1)(f)), if applicable; and
+(x)  if the sale is in total or partial satisfaction of an antecedent debt owed by the seller, the amount 
+of the debt to be satisfied and the name of the person to whom it is owed; and
+(d)  in a single bulk sale the cumulative liability of the auctioneer or liquidator for failure to comply with 
+the requirements of this section may not exceed the amount of the net proceeds of the sale allocable to 
+inventory and equipment sold less the amount of the portion of any part of the net proceeds paid to or 
+applied for the benefit of a creditor which is allocable to the inventory and equipment.
+(2)  A payment made by the auctioneer or liquidator to a person to whom the auctioneer or liquidator is, or 
+believes he [or she] is, liable under this section reduces pro tanto the auctioneer's or liquidator's cumulative 
+liability under subsection (1)(d).
+(3)  A form substantially as follows is sufficient to comply with subsection (1)(c):
+Notice of Sale
+(1) ........................., whose address is .........................., is described in this notice as the "seller."
+
+§ 6-108. BULK SALES BY AUCTION; BULK SALES CONDUCTED BY LIQUIDATOR.
+Page 2 of 4
+(2) ........................., whose address is .........................., is described in this notice as the "auctioneer" or 
+"liquidator."
+(3) The seller has disclosed to the auctioneer or liquidator that within the past three years the seller has 
+used other business names, operated at other addresses, or both, as follows: ....................…
+(4) The seller and the auctioneer or liquidator have entered into an agreement dated ............… for auction 
+or liquidation services that may constitute an agreement to make a bulk sale under the laws of the State of 
+................…
+(5) The date on or after which the auction began or will begin or the date on or after which the liquidator 
+began or will begin to sell assets on the seller's behalf is ..............., and [if not stated in the schedule of 
+distribution] the date on or after which more than ten percent of the net proceeds of the sale were or will be 
+paid is ............…
+(6) The following assets are the subject of the sale: ..............................................…
+(7) [If applicable] The auctioneer or liquidator will make available to claimants of the seller a list of the 
+seller's claimants in the following manner: .....................…
+(8) [If applicable] The sale is to satisfy $ ...… of an antecedent debt owed by the seller to ......................…
+(9)  A copy of the schedule of distribution of the net proceeds accompanies this notice.
+[End of Notice]
+(4)  A person who buys at a bulk sale by auction or conducted by a liquidator need not comply with the 
+requirements of Section 6-104(1) and is not liable for the failure of an auctioneer or liquidator to comply 
+with the requirements of this section.
+Annotations
+Commentary
+OFFICIAL COMMENT
+Prior Uniform Statutory Provision: Section 6-108.
+Changes: Revised, expanded to include sales conducted by a liquidator on the seller's behalf, and form of notice 
+added.
+Purposes of Changes and New Matter:
+1.  This section applies only to bulk sales by auction or conducted by a liquidator on the seller's behalf, as defined in 
+Section 6-102(1)(c).  Bulk sales conducted by an auctioneer or liquidator on its own behalf are treated as ordinary 
+bulk sales and are not subject to this section.
+2.  Regardless of whether the assets are sold directly from the seller to the buyer, are sold to a variety of buyers at 
+auction, or are sold on the seller's behalf by a liquidator to one or more buyers, a going-out-of-business sale of 
+inventory presents similar risks to claimants.  Auctioneers and liquidators are likely to be in a better position to 
+ascertain whether the sale they are conducting is, or is part of, a bulk sale than are their customers.  Accordingly, 
+buyers at auctions and from liquidators selling assets of others need not be concerned with complying with this 
+Article.  Instead, this section imposes upon auctioneers and liquidators duties and liabilities that are similar, but not 
+always identical, to those of a buyer under Sections 6-104(1) and 6-107.  Except to the extent that this section 
+treats bulk sales by auctioneers and liquidators differently from those conducted by the seller on its own behalf, the 
+Official Comments to Sections 6-104(1) and 6-107, as well as the Comments to Sections 6-105 and 6-106, which 
+those sections incorporate by reference, are applicable to sales to which this section applies.
+
+§ 6-108. BULK SALES BY AUCTION; BULK SALES CONDUCTED BY LIQUIDATOR.
+Page 3 of 4
+3.  Subsection (1)(d) sets forth the maximum cumulative liability for auctioneers and liquidators "in any one bulk 
+sale," which term includes a series of sales by a liquidator.  This liability is to be calculated in a manner similar to 
+that set forth in Sections 6-107(4) and 6-107(5).  The term "net proceeds of the auction or sale allocable to 
+inventory and equipment" is analogous to the term "net value of the inventory and equipment"; however, the former 
+takes into account the reasonable expenses of the auction or sale whereas the latter does not.  Also, the latter is 
+doubled whereas the former is not.  The "amount of the portion of any part of the net proceeds paid to or applied for 
+the benefit of a creditor which is allocable to inventory and equipment" is determined by multiplying the part of the 
+net proceeds paid to or applied for the benefit of a creditor by a fraction whose numerator is the net proceeds of the 
+sale allocable to inventory and equipment and whose denominator is the total net proceeds of the auction or sale.  
+Because the amount of the net proceeds allocable to inventory and equipment is not doubled, the auctioneer or 
+liquidator is not entitled to credit for payments made to the seller.
+4.  Section 6-107(3) applies to all bulk sales.  Accordingly, an auctioneer or liquidator who makes a good faith effort 
+to comply with the requirements of this Article or to exclude the sale from this Article or who acts under a good faith 
+belief that this Article does not apply to the sale faces no liability whatsoever.
+Cross-References:
+Point 1: Section 6-102.
+Point 2: Sections 6-102, 6-104, 6-105, 6-106, and 6-107.
+Point 3: Sections 6-102 and 6-107.
+Point 4: Section 6-107.
+Definitional Cross-References:
+"Assets".  Section 6-102.
+"Auctioneer".  Section 6-102.
+"Bulk sale".  Section 6-102.
+"Claimants".  Section 6-102.
+"Creditor".  Section 6-102.
+"Debt".  Section 6-102.
+"Equipment".  Section 9-109.
+"Inventory".  Section 9-109.
+"Liquidator".  Section 6-102.
+"Net proceeds".  Section 6-102.
+"Person".  Section 1-201.
+"Seller".  Section 2-103.
+"Written".  Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+
+§ 6-108. BULK SALES BY AUCTION; BULK SALES CONDUCTED BY LIQUIDATOR.
+Page 4 of 4
+End of Document

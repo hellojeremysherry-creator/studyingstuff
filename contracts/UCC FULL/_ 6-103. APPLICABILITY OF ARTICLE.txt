@@ -1,0 +1,176 @@
+U.C.C. § 6-103
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 6. BULK SALES          >            
+ALTERNATIVE B [Including Article 6 as revised]        
+§ 6-103. APPLICABILITY OF ARTICLE.
+(1)  Except as otherwise provided in subsection (3), this Article applies to a bulk sale if:
+(a)  the seller's principal business is the sale of inventory from stock; and
+(b)  on the date of the bulk-sale agreement the seller is located in this state or, if the seller is located in 
+a jurisdiction that is not a part of the United States, the seller's major executive office in the United 
+States is in this state.
+(2)  A seller is deemed to be located at his [or her] place of business.  If a seller has more than one place of 
+business, the seller is deemed located at his [or her] chief executive office.
+(3)  This Article does not apply to:
+(a)  a transfer made to secure payment or performance of an obligation;
+(b)  a transfer of collateral to a secured party pursuant to Section 9-609;
+(c)  a disposition of collateral pursuant to Section 9-610;
+(d)  retention of collateral pursuant to Section 9-620;
+(e)  a sale of an asset encumbered by a security interest or lien if (i) all the proceeds of the sale are 
+applied in partial or total satisfaction of the debt secured by the security interest or lien or (ii) the 
+security interest or lien is enforceable against the asset after it has been sold to the buyer and the net 
+contract price is zero;
+(f)  a general assignment for the benefit of creditors or to a subsequent transfer by the assignee;
+(g)  a sale by an executor, administrator, receiver, trustee in bankruptcy, or any public officer under 
+judicial process;
+(h)  a sale made in the course of judicial or administrative proceedings for the dissolution or 
+reorganization of an organization;
+(i)  a sale to a buyer whose principal place of business is in the United States and who:
+(i)  not earlier than 21 days before the date of the bulk sale, (A) obtains from the seller a verified 
+and dated list of claimants of whom the seller has notice three days before the seller sends or 
+delivers the list to the buyer or (B) conducts a reasonable inquiry to discover the claimants;
+(ii)  assumes in full the debts owed to claimants of whom the buyer has knowledge on the date the 
+buyer receives the list of claimants from the seller or on the date the buyer completes the 
+reasonable inquiry, as the case may be;
+(iii)  is not insolvent after the assumption; and
+(iv)  gives written notice of the assumption not later than 30 days after the date of the bulk sale by 
+sending or delivering a notice to the claimants identified in subparagraph (ii) or by filing a notice in 
+the office of the [Secretary of State];
+(j)  a sale to a buyer whose principal place of business is in the United States and who:
+
+§ 6-103. APPLICABILITY OF ARTICLE.
+Page 2 of 5
+(i)  assumes in full the debts that were incurred in the seller's business before the date of the bulk 
+sale;
+(ii)  is not insolvent after the assumption; and
+(iii)  gives written notice of the assumption not later than 30 days after the date of the bulk sale by 
+sending or delivering a notice to each creditor whose debt is assumed or by filing a notice in the 
+office of the [Secretary of State];
+(k)  a sale to a new organization that is organized to take over and continue the business of the seller 
+and that has its principal place of business in the United States if:
+(i)  the buyer assumes in full the debts that were incurred in the seller's business before the date of 
+the bulk sale;
+(ii)  the seller receives nothing from the sale except an interest in the new organization that is 
+subordinate to the claims against the organization arising from the assumption; and
+(iii)  the buyer gives written notice of the assumption not later than 30 days after the date of the 
+bulk sale by sending or delivering a notice to each creditor whose debt is assumed or by filing a 
+notice in the office of the [Secretary of State];
+(l)  a sale of assets having:
+(i)  a value, net of liens and security interests, of less than $10,000.  If a debt is secured by assets 
+and other property of the seller, the net value of the assets is determined by subtracting from their 
+value an amount equal to the product of the debt multiplied by a fraction, the numerator of which is 
+the value of the assets on the date of the bulk sale and the denominator of which is the value of all 
+property securing the debt on the date of the bulk sale; or
+(ii)  a value of more than $25,000,000
+on the date of the bulk-sale agreement; or
+(m)  a sale required by, and made pursuant to, statute.
+(4)  The notice under subsection (3)(i)(iv) must state: (i) that a sale that may constitute a bulk sale has been 
+or will be made; (ii) the date or prospective date of the bulk sale; (iii) the individual, partnership, or corporate 
+names and the addresses of the seller and buyer; (iv) the address to which inquiries about the sale may be 
+made, if different from the seller's address; and (v) that the buyer has assumed or will assume in full the 
+debts owed to claimants of whom the buyer has knowledge on the date the buyer receives the list of 
+claimants from the seller or completes a reasonable inquiry to discover the claimants.
+(5)  The notice under subsections (3)(j)(iii) and (3)(k)(iii) must state: (i) that a sale that may constitute a bulk 
+sale has been or will be made; (ii) the date or prospective date of the bulk sale; (iii) the individual, 
+partnership, or corporate names and the addresses of the seller and buyer; (iv) the address to which 
+inquiries about the sale may be made, if different from the seller's address; and (v) that the buyer has 
+assumed or will assume the debts that were incurred in the seller's business before the date of the bulk 
+sale.
+(6)  For purposes of subsection (3)(l), the value of assets is presumed to be equal to the price the buyer 
+agrees to pay for the assets.  However, in a sale by auction or a sale conducted by a liquidator on the 
+seller's behalf, the value of assets is presumed to be the amount the auctioneer or liquidator reasonably 
+estimates the assets will bring at auction or upon liquidation.
+As amended in 1999
+See Appendix I contained within revised Article 9 for material relating to changes made in text in 1999.
+Annotations
+
+§ 6-103. APPLICABILITY OF ARTICLE.
+Page 3 of 5
+Commentary
+OFFICIAL COMMENT
+Prior Uniform Statutory Provision: Sections 6-102 and 6-103 (1987 Official Text).
+Changes: New choice-of-law provision; exclusions from the Article clarified, revised, and expanded.
+Purposes of Changes and New Matter:
+1.  Subsection (1)(a) follows Section 6-102(3) of the 1987 Official Text and makes Article 6 applicable only when the 
+seller's principal business is the sale of inventory from stock.  This Article does not apply to a sale by a seller whose 
+principal business is the sale of goods other than inventory, e.g., a farmer, is the sale of inventory not from stock, 
+e.g., a manufacturer who produces goods to order, or is the sale of services, e.g., a dry cleaner, barber, or operator 
+of a hotel, tavern, or restaurant.
+2.  The choice-of-law rule in subsections (1)(b) and (2) derives from Section 9-103(3) and should be interpreted 
+consistently with the Official Comment and case law construing that Section.  Any agreement between the buyer 
+and the seller with regard to the law governing a bulk sale does not affect the choice-of-law rule in this Article.
+3.  Some of the transactions excluded by subsection (3), e.g., those excluded by subsection (3)(a), may not be bulk 
+sales.  This Article nevertheless specifically excludes them in order to allay any doubts about the Article's 
+applicability.  Certain transactions, e.g., the sale of fully encumbered inventory that remains subject to a security 
+interest, may be excluded by more than one subsection.
+4.  Subsections (3)(a), (b), (c), (d), and (e) derive from subsections (1) and (3) of Section 6-103 (1987 Official Text).
+5.  Subsections (3)(f), (g), and (h) restate subsections (2), (4), and (5) of Section 6-103 with minor changes.
+6.  Subsections (3)(i), (j), and (k) relate to sales in which the buyer assumes specified debts of the seller.  A bulk 
+sale does not fall within any of these subsections unless the buyer's assumption of debts is binding and irrevocable.
+Subsection (3)(j) derives from subsection (6) of Section 6-103 (1987 Official Text) and is available to buyers who 
+are not insolvent (as defined in Section 1-201(23)), assume all the seller's business debts in full, and give notice of 
+the assumption.  Subsection (3)(k) derives from subsection (7) of Section 6-103 (1987 Official Text) and excludes 
+transactions in which the risks to creditors are minimal.  Like subsection (3)(j), this subsection applies only if the 
+buyer assumes all the seller's business debts in full and gives notice of the assumption.  In addition, the buyer must 
+be a new organization that is organized to take over and continue the seller's business, the seller must receive 
+nothing from the sale other than an interest in the new organization, and the seller's interest must be subordinate to 
+the claims arising from the assumption.  Sales that may qualify for the exclusion include the incorporation of a 
+partnership or sole proprietorship.
+Buyers often are reluctant to assume debts of which they have no knowledge.  Subsection (3)(i), which is new, 
+permits a qualifying buyer to exclude a sale from this Article by assuming only those debts owed to claimants of 
+whom the buyer has knowledge after the buyer either conducts a reasonable inquiry to discover claimants or 
+obtains a list of claimants from the seller.  A buyer who takes a verified list from the seller is held to have knowledge 
+of the claimants on the list and is entitled to rely in good faith on the list without making further inquiry.  The 
+protection afforded by the assumption of these debts, while not perfect, is sufficiently great to eliminate the need for 
+compliance with Article 6.
+7.  Subsection (3)(l) is new.  Although the bulk sale of even a very small business may be of concern to some 
+creditors, losses to creditors from sales of assets in which the seller's equity is less than $10,000 are not likely to 
+justify the costs of complying with this Article.  Sales of assets having a value of more than $25,000,000 have not 
+presented serious risks to creditors.  Publicity normally attends sales of that magnitude, and the sellers are unlikely 
+
+§ 6-103. APPLICABILITY OF ARTICLE.
+Page 4 of 5
+to be able successfully to remove the proceeds from the reach of creditors.  As used in this subsection, "price" 
+includes all consideration for the assets, not only new consideration.  Compare "Net contract price" (Section 6-
+102(1)(k)).  If the auctioneer or liquidator does not make an estimation, then no presumption arises.
+8.  Subsection (3)(m) is new.  This Article assumes that creditors are aware of statutes that may require their 
+debtors to conduct bulk sales under specified circumstances, e.g., upon the termination of a franchise or of a 
+contract between a dealer and supplier, and are able to take account of any risk that those sales may impose.
+Cross-References:
+Point 1: Section 9-109.
+Point 2: Sections 1-105 and 9-103.
+Point 3: Section 6-102.
+Point 4: Sections 9-111, 9-503, 9-504, and 9-505.
+Point 6: Sections 1-201 and 1-203.
+Point 7: Section 6-102.
+Definitional Cross-References:
+"Asset".  Section 6-102.
+"Auctioneer".  Section 6-102.
+"Bulk sale".  Section 6-102.
+"Buyer".  Section 2-103.
+"Claimant".  Section 6-102.
+"Collateral".  Section 9-105.
+"Date of the bulk sale".  Section 6-102.
+"Date of the bulk-sale agreement".  Section 6-102.
+"Debt".  Section 6-102.
+"Insolvent".  Section 1-201.
+"Inventory".  Section 9-109.
+"Knowledge".  Section 1-201.
+"Liquidator".  Section 6-102.
+"Net contract price".  Section 6-102.
+"Notice".  Section 1-201.
+"Organization".  Section 1-201.
+"Presumed".  Section 1-201.
+
+§ 6-103. APPLICABILITY OF ARTICLE.
+Page 5 of 5
+"Proceeds".  Section 9-306.
+"Sale".  Section 2-106.
+"Secured party".  Section 9-105.
+"Security interest".  Section 1-201.
+"Seller".  Section 2-103.
+"Send".  Section 1-201.
+"United States".  Section 6-102.
+"Value".  Section 6-102.
+"Verified".  Section 6-102.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

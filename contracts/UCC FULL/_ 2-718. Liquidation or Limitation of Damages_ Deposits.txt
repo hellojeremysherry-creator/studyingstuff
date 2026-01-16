@@ -1,0 +1,61 @@
+U.C.C. § 2-718
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2. SALES          >            PART 7. 
+REMEDIES        
+§ 2-718. Liquidation or Limitation of Damages; Deposits.
+(1)  Damages for breach by either party may be liquidated in the agreement but only at an amount which is 
+reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of 
+loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.  A term fixing 
+unreasonably large liquidated damages is void as a penalty.
+(2)  Where the seller justifiably withholds delivery of goods because of the buyer's breach, the buyer is 
+entitled to restitution of any amount by which the sum of his payments exceeds
+(a)  the amount to which the seller is entitled by virtue of terms liquidating the seller's damages in 
+accordance with subsection (1), or
+(b)  in the absence of such terms, twenty per cent of the value of the total performance for which the 
+buyer is obligated under the contract or $500, whichever is smaller.
+(3)  The buyer's right to restitution under subsection (2) is subject to offset to the extent that the seller 
+establishes
+(a)  a right to recover damages under the provisions of this Article other than subsection (1), and
+(b)  the amount or value of any benefits received by the buyer directly or indirectly by reason of the 
+contract.
+(4)  Where a seller has received payment in goods their reasonable value or the proceeds of their resale 
+shall be treated as payments for the purposes of subsection (2); but if the seller has notice of the buyer's 
+breach before reselling goods received in part performance, his resale is subject to the conditions laid down 
+in this Article on resale by an aggrieved seller ( Section 2-706).
+Annotations
+Commentary
+Official Comment
+Prior Uniform Statutory Provision: None.
+Purposes:
+1. Under subsection (1) liquidated damage clauses are allowed where the amount involved is reasonable in the light 
+of the circumstances of the case.  The subsection sets forth explicitly the elements to be considered in determining 
+the reasonableness of a liquidated damage clause.  A term fixing unreasonably large liquidated damages is 
+expressly made void as a penalty.  An unreasonably small amount would be subject to similar criticism and might 
+be stricken under the section on unconscionable contracts or clauses.
+2. Subsection (2) refuses to recognize a forfeiture unless the amount of the payment so forfeited represents a 
+reasonable liquidation of damages as determined under subsection (1).  A special exception is made in the case of 
+small amounts (20% of the price or $500, whichever is smaller) deposited as security.  No distinction is made 
+
+§ 2-718. Liquidation or Limitation of Damages; Deposits.
+Page 2 of 2
+between cases in which the payment is to be applied on the price and those in which it is intended as security for 
+performance.  Subsection (2) is applicable to any deposit or down or part payment.  In the case of a deposit or turn 
+in of goods resold before the breach, the amount actually received on the resale is to be viewed as the deposit 
+rather than the amount allowed the buyer for the trade in.  However, if the seller knows of the breach prior to the 
+resale of the goods turned in, he must make reasonable efforts to realize their true value, and this is assured by 
+requiring him to comply with the conditions laid down in the section on resale by an aggrieved seller.
+Cross References:
+Point 1: Section 2-302.
+Point 2: Section 2-706.
+Definitional Cross References:
+"Aggrieved party".  Section 1-201.
+"Agreement".  Section 1-201.
+"Buyer".  Section 2-103.
+"Goods".  Section 2-105.
+"Notice".  Section 1-201.
+"Party".  Section 1-201.
+"Remedy".  Section 1-201.
+"Seller".  Section 2-103.
+"Term".  Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

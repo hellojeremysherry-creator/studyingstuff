@@ -1,0 +1,54 @@
+U.C.C. § 4-202
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 4. BANK DEPOSIT          >            
+PART 2. COLLECTION OF ITEMS: DEPOSITARY AND COLLECTING BANKS        
+§ 4-202. RESPONSIBILITY FOR COLLECTION OR RETURN; WHEN ACTION 
+TIMELY
+(a)  A collecting bank must exercise ordinary care in:
+(1)  presenting an item or sending it for presentment;
+(2)  sending notice of dishonor or nonpayment or returning an item other than a documentary draft to 
+the bank's transferor after learning that the item has not been paid or accepted, as the case may be;
+(3)  settling for an item when the bank receives final settlement; and
+(4)  notifying its transferor of any loss or delay in transit within a reasonable time after discovery thereof.
+(b)  A collecting bank exercises ordinary care under subsection (a) by taking proper action before its 
+midnight deadline following receipt of an item, notice, or settlement. Taking proper action within a 
+reasonably longer time may constitute the exercise of ordinary care, but the bank has the burden of 
+establishing timeliness.
+(c)  Subject to subsection (a)(1), a bank is not liable for the insolvency, neglect, misconduct, mistake, or 
+default of another bank or person or for loss or destruction of an item in the possession of others or in 
+transit.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Subsection (a) states the basic responsibilities of a collecting bank. Of course, under Section 1-203 a collecting 
+bank is subject to the standard requirement of good faith. By subsection (a) it must also use ordinary care in the 
+exercise of its basic collection tasks. By Section 4-103(a) neither requirement may be disclaimed.
+   2. If the bank makes presentment itself, subsection (a)(1) requires ordinary care with respect both to the time and 
+manner of presentment. (Sections 3-501 and 4-212.) If it forwards the item to be presented the subsection requires 
+ordinary care with respect to routing (Section 4-204), and also in the selection of intermediary banks or other 
+agents.
+   3. Subsection (a) describes types of basic action with respect to which a collecting bank must use ordinary care. 
+Subsection (b) deals with the time for taking action. It first prescribes the general standard for timely action, namely, 
+for items received on Monday, proper action (such as forwarding or presenting) on Monday or Tuesday is timely. 
+Although under current "production line" operations banks customarily move items along on regular schedules 
+substantially briefer than two days, the subsection states an outside time within which a bank may know it has taken 
+timely action. To provide flexibility from this standard norm, the subsection further states that action within a 
+reasonably longer time may be timely but the bank has the burden of proof. In the case of time items, action after 
+the midnight deadline, but sufficiently in advance of maturity for proper presentation, is a clear example of a 
+"reasonably longer time" that is timely. The standard of requiring action not later than Tuesday in the case of 
+Monday items is also subject to possibilities of variation under the general provisions of Section 4-103, or under the 
+
+§ 4-202. RESPONSIBILITY FOR COLLECTION OR RETURN; WHEN ACTION TIMELY
+Page 2 of 2
+special provisions regarding time of receipt of items (Section 4-108), and regarding delays (Section 4-109). This 
+subsection (b) deals only with collecting banks. The time limits applicable to payor banks appear in Sections 4-301 
+and 4-302.
+   4. At common law the so-called New York collection rule subjected the initial collecting bank to liability for the 
+actions of subsequent banks in the collection chain; the so-called Massachusetts rule was that each bank, subject 
+to the duty of selecting proper intermediaries, was liable only for its own negligence. Subsection (c) adopts the 
+Massachusetts rule. But since this is stated to be subject to subsection (a)(1) a collecting bank remains responsible 
+for using ordinary care in selecting properly qualified intermediary banks and agents and in giving proper 
+instructions to them. Regulation CC Section 229.36(d) states the liability of a bank during the forward collection of 
+checks.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,80 @@
+U.C.C. § 9-208
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 2. EFFECTIVENESS OF SECURITY AGREEMENT; ATTACHMENT OF SECURITY 
+INTEREST; RIGHTS OF PARTIES TO SECURITY AGREEMENT          >            SUBPART 2. RIGHTS 
+AND DUTIES        
+§ 9-208. ADDITIONAL DUTIES OF SECURED PARTY HAVING CONTROL OF 
+COLLATERAL
+(a) [Applicability of section.]  This section applies to cases in which there is no outstanding secured 
+obligation and the secured party is not committed to make advances, incur obligations, or otherwise give 
+value.
+(b) [Duties of secured party after receiving demand from debtor.]  Within 10 days after receiving an 
+authenticated demand by the debtor:
+(1)  a secured party having control of a deposit account under Section 9-104(a)(2) shall send to the 
+bank with which the deposit account is maintained an authenticated statement that releases the bank 
+from any further obligation to comply with instructions originated by the secured party;
+(2)  a secured party having control of a deposit account under Section 9-104(a)(3) shall:
+(A)  pay the debtor the balance on deposit in the deposit account; or
+(B)  transfer the balance on deposit into a deposit account in the debtor's name;
+(3)  a secured party, other than a buyer, having control of electronic chattel paper under Section 9-105 
+shall:
+(A)  communicate the authoritative copy of the electronic chattel paper to the debtor or its 
+designated custodian;
+(B)  if the debtor designates a custodian that is the designated custodian with which the 
+authoritative copy of the electronic chattel paper is maintained for the secured party, communicate 
+to the custodian an authenticated record releasing the designated custodian from any further 
+obligation to comply with instructions originated by the secured party and instructing the custodian 
+to comply with instructions originated by the debtor; and
+(C)  take appropriate action to enable the debtor or its designated custodian to make copies of or 
+revisions to the authoritative copy which add or change an identified assignee of the authoritative 
+copy without the consent of the secured party;
+(4)  a secured party having control of investment property under Section 8-106(d)(2) or 9-106(b) shall 
+send to the securities intermediary or commodity intermediary with which the security entitlement or 
+commodity contract is maintained an authenticated record that releases the securities intermediary or 
+commodity intermediary from any further obligation to comply with entitlement orders or directions 
+originated by the secured party;
+(5)  a secured party having control of a letter-of-credit right under Section 9-107 shall send to each 
+person having an unfulfilled obligation to pay or deliver proceeds of the letter of credit to the secured 
+party an authenticated release from any further obligation to pay or deliver proceeds of the letter of 
+credit to the secured party; and
+(6)  a secured party having control of an electronic document shall:
+
+§ 9-208. ADDITIONAL DUTIES OF SECURED PARTY HAVING CONTROL OF COLLATERAL
+Page 2 of 2
+(A)  give control of the electronic document to the debtor or its designated custodian;
+(B)  if the debtor designates a custodian that is the designated custodian with which the 
+authoritative copy of the electronic document is maintained for the secured party, communicate to 
+the custodian an authenticated record releasing the designated custodian from any further 
+obligation to comply with instructions originated by the secured party and instructing the custodian 
+to comply with instructions originated by the debtor; and
+(C)  take appropriate action to enable the debtor or its designated custodian to make copies of or 
+revisions to the authoritative copy which add or change an identified assignee of the authoritative 
+copy without the consent of the secured party.
+As amended in 2003.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Source. New.
+   2. Scope and Purpose. This section imposes duties on a secured party who has control of a deposit account, 
+electronic chattel paper, investment property, a letter-of-credit right, or electronic documents of title. The duty to 
+terminate the secured party's control is analogous to the duty to file a termination statement, imposed by Section 9-
+513. Under subsection (a), it applies only when there is no outstanding secured obligation and the secured party is 
+not committed to give value. The requirements of this section can be varied by agreement under Section 1-102(3). 
+For example, a debtor could by contract agree that the secured party may comply with subsection (b) by releasing 
+control more than 10 days after demand. Also, duties under this section should not be read to conflict with the terms 
+of the collateral itself. For example, if the collateral is a time deposit account, subsection (b)(2) should not require a 
+secured party with control to make an early withdrawal of the funds (assuming that were possible) in order to pay 
+them over to the debtor or put them in an account in the debtor's name.
+   3. Remedy for Failure to Relinquish Control. If a secured party fails to comply with the requirements of 
+subsection (b), the debtor has the remedy set forth in Section 9-625(e). This remedy is identical to that applicable to 
+failure to provide or file a termination statement under Section 9-513.
+   4. Duty to Relinquish Possession. Although Section 9-207 addresses directly the duties of a secured party in 
+possession of collateral, that section does not require the secured party to relinquish possession when the secured 
+party ceases to hold a security interest. Under common law, absent agreement to the contrary, the failure to 
+relinquish possession of collateral upon satisfaction of the secured obligation would constitute a conversion. 
+Inasmuch as problems apparently have not surfaced in the absence of statutory duties under former Article 9 and 
+the common-law duty appears to have been sufficient, this Article does not impose a statutory duty to relinquish 
+possession.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

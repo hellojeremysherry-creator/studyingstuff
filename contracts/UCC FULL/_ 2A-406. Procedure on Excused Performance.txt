@@ -1,0 +1,47 @@
+U.C.C. § 2A-406
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+4. PERFORMANCE OF LEASE CONTRACT: REPUDIATED, SUBSTITUTED AND EXCUSED        
+§ 2A-406. Procedure on Excused Performance.
+(1)  If the lessee receives notification of a material or indefinite delay or an allocation justified under Section 
+2A-405, the lessee may by written notification to the lessor as to any goods involved, and with respect to all 
+of the goods if under an installment lease contract the value of the whole lease contract is substantially 
+impaired ( Section 2A-510):
+(a)  terminate the lease contract ( Section 2A-505(2)); or
+(b)  except in a finance lease that is not a consumer lease, modify the lease contract by accepting the 
+available quota in substitution, with due allowance from the rent payable for the balance of the lease 
+term for the deficiency but without further right against the lessor.
+(2)  If, after receipt of a notification from the lessor under Section 2A-405, the lessee fails so to modify the 
+lease agreement within a reasonable time not exceeding 30 days, the lease contract lapses with respect to 
+any deliveries affected.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-616(1) and (2).
+Changes: Revised to reflect leasing practices and terminology.  Note that subsection 1(a) allows the lessee under a 
+lease, including a finance lease, the right to terminate the lease for excused performance (Sections 2A-404 and 2A-
+405).  However, subsection 1(b), which allows the lessee the right to modify the lease for excused performance, 
+excludes a finance lease that is not a consumer lease.  This exclusion is compelled by the same policy that led to 
+codification of provisions with respect to irrevocable promises.  Section 2A-407.
+Definitional Cross References:
+"Consumer lease".  Section 2A-103(1)(e).
+"Delivery".  Section 1-201(14).
+"Finance lease".  Section 2A-103(1)(g).
+"Goods".  Section 2A-103(1)(h).
+"Installment lease contract".  Section 2A-103(1)(i).
+"Lease agreement".  Section 2A-103(1)(k).
+"Lease contract".  Section 2A-103(1)(l ).
+
+§ 2A-406. Procedure on Excused Performance.
+Page 2 of 2
+"Lessee".  Section 2A-103(1)(n).
+"Lessor".  Section 2A-103(1)(p).
+"Notice".  Section 1-201(25).
+"Reasonable time".  Section 1-204(1) and (2).
+"Receipt".  Section 2-103(1)(c).
+"Rights".  Section 1-201(36).
+"Termination".  Section 2A-103(1)(z).
+"Value".  Section 1-201(44).
+"Written".  Section 1-201(46).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

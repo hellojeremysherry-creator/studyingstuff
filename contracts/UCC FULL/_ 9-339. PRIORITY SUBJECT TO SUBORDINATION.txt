@@ -1,0 +1,16 @@
+U.C.C. § 9-339
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 3. PERFECTION AND PRIORITY          >            SUBPART 3. PRIORITY        
+§ 9-339. PRIORITY SUBJECT TO SUBORDINATION
+ This article does not preclude subordination by agreement by a person entitled to priority.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Source. Former Section 9-316.
+   2. Subordination by Agreement. The preceding sections deal elaborately with questions of priority. This section 
+makes it entirely clear that a person entitled to priority may effectively agree to subordinate its claim. Only the 
+person entitled to priority may make such an agreement: a person's rights cannot be adversely affected by an 
+agreement to which the person is not a party.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

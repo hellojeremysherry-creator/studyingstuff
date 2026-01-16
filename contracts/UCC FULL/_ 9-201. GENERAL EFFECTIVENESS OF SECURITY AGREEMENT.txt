@@ -1,0 +1,46 @@
+U.C.C. § 9-201
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 2. EFFECTIVENESS OF SECURITY AGREEMENT; ATTACHMENT OF SECURITY 
+INTEREST; RIGHTS OF PARTIES TO SECURITY AGREEMENT          >            SUBPART 1. 
+EFFECTIVENESS AND ATTACHMENT        
+§ 9-201. GENERAL EFFECTIVENESS OF SECURITY AGREEMENT
+(a) [General effectiveness.]  Except as otherwise provided in [the Uniform Commercial Code], a security 
+agreement is effective according to its terms between the parties, against purchasers of the collateral, and 
+against creditors.
+(b) [Applicable consumer laws and other law.]  A transaction subject to this article is subject to any 
+applicable rule of law which establishes a different rule for consumers and [insert reference to (i) any other 
+statute or regulation that regulates the rates, charges, agreements, and practices for loans, credit sales, or 
+other extensions of credit and (ii) any consumer-protection statute or regulation].
+(c) [Other applicable law controls.]  In case of conflict between this article and a rule of law, statute, or 
+regulation described in subsection (b), the rule of law, statute, or regulation controls. Failure to comply with 
+a statute or regulation described in subsection (b) has only the effect the statute or regulation specifies.
+(d) [Further deference to other applicable law.]  This article does not:
+(1)  validate any rate, charge, agreement, or practice that violates a rule of law, statute, or regulation 
+described in subsection (b); or
+(2)  extend the application of the rule of law, statute, or regulation to a transaction not otherwise subject 
+to it.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Source. Former Sections 9-201, 9-203(4).
+   2. Effectiveness of Security Agreement. Subsection (a) provides that a security agreement is generally 
+effective. With certain exceptions, a security agreement is effective between the debtor and secured party and is 
+likewise effective against third parties. Note that "security agreement" is used here (and elsewhere in this Article) as 
+it is defined in Section 9-102: "an agreement that creates or provides for a security interest." It follows that 
+subsection (a) does not provide that every term or provision contained in a record that contains a security 
+agreement or that is so labeled is effective. Property read, former Section 9-201 was to the same effect. Exceptions 
+to the general rule of subsection (a) arise where there is an overriding provision in this Article or any other Article of 
+the UCC. For example, Section 9-317 subordinates unperfected security interests to lien creditors and certain 
+buyers, and several provisions in Part 3 subordinate some security interests to other security interests and interests 
+of purchasers.
+   3. Law, Statutes, and Regulations Applicable to Certain Transactions. Subsection (b) makes clear that 
+certain transactions, although subject to this Article, also are subject to other applicable laws relating to consumers 
+or specified in that subsection. Subsection (c) provides that the other law is controlling in the event of a conflict, and 
+
+§ 9-201. GENERAL EFFECTIVENESS OF SECURITY AGREEMENT
+Page 2 of 2
+that a violation of other law does not ipso facto constitute a violation of this Article. Subsection (d) provides that this 
+Article does not validate violations under or extend the application of the other applicable laws.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

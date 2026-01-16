@@ -1,0 +1,43 @@
+U.C.C. § 7-507
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 5. WAREHOUSE RECEIPTS AND BILLS OF LADING: NEGOTIATION AND TRANSFER        
+§ 7-507. WARRANTIES ON NEGOTIATION OR DELIVERY OF DOCUMENT OF 
+TITLE
+If a person negotiates or delivers a document of title for value, otherwise than as a mere intermediary under 
+Section 7-508, unless otherwise agreed, the transferor, in addition to any warranty made in selling or 
+leasing the goods, warrants to its immediate purchaser only that:
+(1)  the document is genuine;
+(2)  the transferor does not have knowledge of any fact that would impair the document's validity or 
+worth; and
+(3)  the negotiation or delivery is rightful and fully effective with respect to the title to the document and 
+the goods it represents.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-507.
+   Changes: Substitution of the word "delivery" for the word "transfer," reference leasing transactions and style.
+Purposes:
+   1. Delivery of goods by use of a document of title does not limit or displace the ordinary obligations of a seller or 
+lessor as to any warranties regarding the goods that arises under other law. If the transfer of documents attends or 
+follows the making of a contract for the sale or lease of goods, the general obligations on warranties as to the goods 
+(Sections 2-312 through 2-318 and Sections 2A-210 through 2A-316) are brought to bear as well as the special 
+warranties under this section.
+   2. The limited warranties of a delivering or collecting intermediary, including a collecting bank, are stated in 
+Section 7-508.
+Cross References:
+Point 1: Sections 2-312 through 2-318 and 2A-310-through 2A-316.
+Point 2: Section 7-508.
+Definitional Cross References:
+"Delivery". Section 1-201.
+"Document of title". Section 1-201.
+"Genuine". Section 1-201.
+
+§ 7-507. WARRANTIES ON NEGOTIATION OR DELIVERY OF DOCUMENT OF TITLE
+Page 2 of 2
+"Goods". Section 7-102.
+"Person". Section 1-201.
+"Purchaser". Section 1-201.
+"Value". Section 1-204.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

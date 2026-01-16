@@ -1,0 +1,66 @@
+U.C.C. § 1-301
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 1. GENERAL PROVISIONS          >            
+PART 3. TERRITORIAL APPLICABILITY AND GENERAL RULES        
+§ 1-301. TERRITORIAL APPLICABILITY; PARTIES' POWER TO CHOOSE 
+APPLICABLE LAW
+(a)  Except as otherwise provided in this section, when a transaction bears a reasonable relation to this 
+state and also to another state or nation the parties may agree that the law either of this state or of such 
+other state or nation shall govern their rights and duties.
+(b)  In the absence of an agreement effective under subsection (a), and except as provided in subsection 
+(c), [the Uniform Commercial Code] applies to transactions bearing an appropriate relation to this state.
+(c)  If one of the following provisions of [the Uniform Commercial Code] specifies the applicable law, that 
+provision governs and a contrary agreement is effective only to the extent permitted by the law so specified:
+(1)  Section 2-402;
+(2)  Sections 2A-105 and 2A-106;
+(3)  Section 4-102;
+(4)  Section 4A-507;
+(5)  Section 5-116;
+  [(6) Section 6-103;]
+(7)  Section 8-110;
+(8)  Sections 9-301 through 9-307.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Source: Former Section 1-105.
+   Changes from former law: This section is substantively identical to former Section 1-105. Changes in language 
+are stylistic only.
+   1. Subsection (a) states affirmatively the right of the parties to a multi-state transaction or a transaction involving 
+foreign trade to choose their own law. That right is subject to the firm rules stated in the sections listed in subsection 
+(c), and is limited to jurisdictions to which the transaction bears a "reasonable relation." In general, the test of 
+"reasonable relation" is similar to that laid down by the Supreme Court in Seeman v. Philadelphia Warehouse Co., 
+274 U.S. 403, 47 S.Ct. 626, 71 L.Ed. 1123 (1927). Ordinarily the law chosen must be that of a jurisdiction where a 
+significant enough portion of the making or performance of the contract is to occur or occurs. But an agreement as 
+to choice of law may sometimes take effect as a shorthand expression of the intent of the parties as to matters 
+governed by their agreement, even though the transaction has no significant contact with the jurisdiction chosen.
+
+§ 1-301. TERRITORIAL APPLICABILITY; PARTIES' POWER TO CHOOSE APPLICABLE LAW
+Page 2 of 2
+   2. Where there is no agreement as to the governing law, the Act is applicable to any transaction having an 
+"appropriate" relation to any state which enacts it. Of course, the Act applies to any transaction which takes place in 
+its entirety in a state which has enacted the Act. But the mere fact that suit is brought in a state does not make it 
+appropriate to apply the substantive law of that state. Cases where a relation to the enacting state is not 
+"appropriate" include, for example, those where the parties have clearly contracted on the basis of some other law, 
+as where the law of the place of contracting and the law of the place of contemplated performance are the same 
+and are contrary to the law under the Code.
+   3. Where a transaction has significant contacts with a state which has enacted the Act and also with other 
+jurisdictions, the question what relation is "appropriate" is left to judicial decision. In deciding that question, the court 
+is not strictly bound by precedents established in other contexts. Thus a conflict-of-laws decision refusing to apply a 
+purely local statute or rule of law to a particular multi-state transaction may not be valid precedent for refusal to 
+apply the Code in an analogous situation. Application of the Code in such circumstances may be justified by its 
+comprehensiveness, by the policy of uniformity, and by the fact that it is in large part a reformulation and 
+restatement of the law merchant and of the understanding of a business community which transcends state and 
+even national boundaries. Compare Global Commerce Corp. v. Clark-Babbitt Industries, Inc., 239 F.2d 716, 719 (2d 
+Cir. 1956). In particular, where a transaction is governed in large part by the Code, application of another law to 
+some detail of performance because of an accident of geography may violate the commercial understanding of the 
+parties.
+   4. Subsection (c) spells out essential limitations on the parties' right to choose the applicable law. Especially in 
+Article 9 parties taking a security interest or asked to extend credit which may be subject to a security interest must 
+have sure ways to find out whether and where to file and where to look for possible existing filings.
+   5. Sections 9-301 through 9-307 should be consulted as to the rules for perfection of security interests and 
+agricultural liens and the effect of perfection and nonperfection and priority.
+   6. This section is subject to Section 1-102, which states the scope of Article 1. As that section indicates, the rules 
+of Article 1, including this section, apply to a transaction to the extent that transaction is governed by one of the 
+other Articles of the Uniform Commercial Code.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

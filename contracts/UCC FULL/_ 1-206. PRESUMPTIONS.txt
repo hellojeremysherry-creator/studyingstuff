@@ -1,0 +1,25 @@
+U.C.C. § 1-206
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 1. GENERAL PROVISIONS          >            
+PART 2. GENERAL DEFINITIONS AND PRINCIPLES OF INTERPRETATION        
+§ 1-206. PRESUMPTIONS
+ Whenever [the Uniform Commercial Code] creates a "presumption" with respect to a fact, or provides that a fact is 
+"presumed," the trier of fact must find the existence of the fact unless and until evidence is introduced that supports 
+a finding of its nonexistence.
+Annotations
+Commentary
+Legislative Note: Former Section 1-206, a Statute of Frauds for sales of "kinds of personal property not otherwise 
+covered," has been deleted. The other articles of the Uniform Commercial Code make individual determinations as 
+to requirements for memorializing transactions within their scope, so that the primary effect of former Section 1-206 
+was to impose a writing requirement on sales transactions not otherwise governed by the UCC. Deletion of former 
+Section 1-206 does not constitute a recommendation to legislatures as to whether such sales transactions should 
+be covered by a Statute of Frauds; rather, it reflects a determination that there is no need for uniform commercial 
+law to resolve that issue.
+OFFICIAL COMMENTS
+   Source: Former Section 1-201(31).
+   Changes from former law. None, other than stylistic changes.
+   1. Several sections of the Uniform Commercial Code state that there is a "presumption" as to a certain fact, or 
+that the fact is "presumed." This section, derived from the definition appearing in former Section 1-201(31), 
+indicates the effect of those provisions on the proof process.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,28 @@
+U.C.C. § 7-101
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 1. GENERAL        
+§ 7-101. SHORT TITLE
+ This article may be cited as Uniform Commercial Code-Documents of Title.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-101.
+   Changes: Revised for style only.
+   This Article is a revision of the 1962 Official Text with Comments as amended since 1962. The 1962 Official Text 
+was a consolidation and revision of the Uniform Warehouse Receipts Act and the Uniform Bills of Lading Act, and 
+embraced the provisions of the Uniform Sales Act relating to negotiation of documents of title.
+   This Article does not contain the substantive criminal provisions found in the Uniform Warehouse Receipts and 
+Bills of Lading Acts. These criminal provisions are inappropriate to a Commercial Code, and for the most part 
+duplicate portions of the ordinary criminal law relating to frauds. This revision deletes the former Section 7-105 that 
+provided that courts could apply a rule from Parts 2 and 3 by analogy to a situation not explicitly covered in the 
+provisions on warehouse receipts or bills of lading when it was appropriate. This is, of course, an unexceptional 
+proposition and need not be stated explicitly in the statute. Thus former Section 7-105 has been deleted. Whether 
+applying a rule by analogy to a situation is appropriate depends upon the facts of each case.
+   The Article does not attempt to define the tort liability of bailees, except to hold certain classes of bailees to a 
+minimum standard of reasonable care. For important classes of bailees, liabilities in case of loss, damages or 
+destruction, as well as other legal questions associated with particular documents of title, are governed by federal 
+statutes, international treaties, and in some cases regulatory state laws, which supersede the provisions of this 
+Article in case of inconsistency. See Section 7-103.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

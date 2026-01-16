@@ -1,0 +1,232 @@
+U.C.C. § 6-102
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 6. BULK SALES          >            
+ALTERNATIVE B [Including Article 6 as revised]        
+§ 6-102. DEFINITIONS AND INDEX OF DEFINITIONS.
+(1)  In this Article, unless the context otherwise requires:
+(a)  "Assets" means the inventory that is the subject of a bulk sale and any tangible and intangible 
+personal property used or held for use primarily in, or arising from, the seller's business and sold in 
+connection with that inventory, but the term does not include:
+(i)  fixtures ( Section 9-102(a)(41)) other than readily removable factory and office machines;
+(ii)  the lessee's interest in a lease of real property; or
+(iii)  property to the extent it is generally exempt from creditor process under nonbankruptcy law.
+(1)  In this Article, unless the context otherwise requires:
+(a)  "Assets" means the inventory that is the subject of a bulk sale and any tangible and intangible 
+personal property used or held for use primarily in, or arising from, the seller's business and sold in 
+connection with that inventory, but the term does not include:
+(i)  fixtures ( Section 9-313(1)(a)) other than readily removable factory and office machines;
+(ii)  the lessee's interest in a lease of real property; or
+(iii)  property to the extent it is generally exempt from creditor process under nonbankruptcy law.
+(b)  "Auctioneer" means a person whom the seller engages to direct, conduct, control, or be 
+responsible for a sale by auction.
+(c)  "Bulk sale" means:
+(i)  in the case of a sale by auction or a sale or series of sales conducted by a liquidator on the 
+seller's behalf, a sale or series of sales not in the ordinary course of the seller's business of more 
+than half of the seller's inventory, as measured by value on the date of the bulk-sale agreement, if 
+on that date the auctioneer or liquidator has notice, or after reasonable inquiry would have had 
+notice, that the seller will not continue to operate the same or a similar kind of business after the 
+sale or series of sales; and
+(ii)  in all other cases, a sale not in the ordinary course of the seller's business of more than half the 
+seller's inventory, as measured by value on the date of the bulk-sale agreement, if on that date the 
+buyer has notice, or after reasonable inquiry would have had notice, that the seller will not continue 
+to operate the same or a similar kind of business after the sale.
+(d)  "Claim" means a right to payment from the seller, whether or not the right is reduced to judgment, 
+liquidated, fixed, matured, disputed, secured, legal, or equitable.  The term includes costs of collection 
+and attorney's fees only to the extent that the laws of this state permit the holder of the claim to recover 
+them in an action against the obligor.
+(e)  "Claimant" means a person holding a claim incurred in the seller's business other than:
+(i)  an unsecured and unmatured claim for employment compensation and benefits, including 
+commissions and vacation, severance, and sick-leave pay;
+(ii)  a claim for injury to an individual or to property, or for breach of warranty, unless:
+
+§ 6-102. DEFINITIONS AND INDEX OF DEFINITIONS.
+Page 2 of 6
+(A)  a right of action for the claim has accrued;
+(B)  the claim has been asserted against the seller; and
+(C)  the seller knows the identity of the person asserting the claim and the basis upon which the 
+person has asserted it; and
+(States To Select One Alternative)
+ALTERNATIVE A
+[(iii) a claim for taxes owing to a governmental unit.]
+ALTERNATIVE B
+[(iii) a claim for taxes owing to a governmental unit, if:
+(A)  a statute governing the enforcement of the claim permits or requires notice of the bulk 
+sale to be given to the governmental unit in a manner other than by compliance with the 
+requirements of this Article; and
+(B)  notice is given in accordance with the statute.]
+(f)  "Creditor" means a claimant or other person holding a claim.
+(g)  (i) "Date of the bulk sale" means:
+(A)  if the sale is by auction or is conducted by a liquidator on the seller's behalf, the date on which 
+more than ten percent of the net proceeds is paid to or for the benefit of the seller; and
+(B)  in all other cases, the later of the date on which:
+(I)  more than ten percent of the net contract price is paid to or for the benefit of the seller; or
+(II)  more than ten percent of the assets, as measured by value, are transferred to the buyer.
+(ii)  For purposes of this subsection:
+(A)  Delivery of a negotiable instrument ( Section 3-104(1)) to or for the benefit of the 
+seller in exchange for assets constitutes payment of the contract price pro tanto;
+(B)  To the extent that the contract price is deposited in an escrow, the contract price is 
+paid to or for the benefit of the seller when the seller acquires the unconditional right to 
+receive the deposit or when the deposit is delivered to the seller or for the benefit of the 
+seller, whichever is earlier; and
+(C)  An asset is transferred when a person holding an unsecured claim can no longer 
+obtain through judicial proceedings rights to the asset that are superior to those of the 
+buyer arising as a result of the bulk sale.  A person holding an unsecured claim can 
+obtain those superior rights to a tangible asset at least until the buyer has an 
+unconditional right, under the bulk-sale agreement, to possess the asset, and a person 
+holding an unsecured claim can obtain those superior rights to an intangible asset at 
+least until the buyer has an unconditional right, under the bulk-sale agreement, to use 
+the asset.
+(h)  "Date of the bulk-sale agreement" means:
+(i)  in the case of a sale by auction or conducted by a liquidator (subsection (c)(i)), the date on 
+which the seller engages the auctioneer or liquidator; and
+(ii)  in all other cases, the date on which a bulk-sale agreement becomes enforceable between the 
+buyer and the seller.
+(i)  "Debt" means liability on a claim.
+
+§ 6-102. DEFINITIONS AND INDEX OF DEFINITIONS.
+Page 3 of 6
+(j)  "Liquidator" means a person who is regularly engaged in the business of disposing of assets for 
+businesses contemplating liquidation or dissolution.
+(k)  "Net contract price" means the new consideration the buyer is obligated to pay for the assets less:
+(i)  the amount of any proceeds of the sale of an asset, to the extent the proceeds are applied in 
+partial or total satisfaction of a debt secured by the asset; and
+(ii)  the amount of any debt to the extent it is secured by a security interest or lien that is 
+enforceable against the asset before and after it has been sold to a buyer.  If a debt is secured by 
+an asset and other property of the seller, the amount of the debt secured by a security interest or 
+lien that is enforceable against the asset is determined by multiplying the debt by a fraction, the 
+numerator of which is the value of the new consideration for the asset on the date of the bulk sale 
+and the denominator of which is the value of all property securing the debt on the date of the bulk 
+sale.
+(l)  "Net proceeds" means the new consideration received for assets sold at a sale by auction or a sale 
+conducted by a liquidator on the seller's behalf less:
+(i)  commissions and reasonable expenses of the sale;
+(ii)  the amount of any proceeds of the sale of an asset, to the extent the proceeds are applied in 
+partial or total satisfaction of a debt secured by the asset; and
+(iii)  the amount of any debt to the extent it is secured by a security interest or lien that is 
+enforceable against the asset before and after it has been sold to a buyer.  If a debt is secured by 
+an asset and other property of the seller, the amount of the debt secured by a security interest or 
+lien that is enforceable against the asset is determined by multiplying the debt by a fraction, the 
+numerator of which is the value of the new consideration for the asset on the date of the bulk sale 
+and the denominator of which is the value of all property securing the debt on the date of the bulk 
+sale.
+(m)  A sale is "in the ordinary course of the seller's business" if the sale comports with usual or 
+customary practices in the kind of business in which the seller is engaged or with the seller's own usual 
+or customary practices.
+(n)  "United States" includes its territories and possessions and the Commonwealth of Puerto Rico.
+(o)  "Value" means fair market value.
+(p)  "Verified" means signed and sworn to or affirmed.
+(2)  The following definitions in other Articles apply to this Article:
+(a) "Buyer."
+Section 2-103(1)(a).
+(b) "Equipment." Section 9-102(a)(33).
+(c) "Inventory." Section 9-102(a)(48).
+(d) "Sale."      Section 2-106(1).
+(e) "Seller."
+Section 2-103(1)(d).
+(3)  In addition, Article 1 contains general definitions and principles of construction and interpretation 
+applicable throughout this Article.
+As amended in 1999
+See Appendix I contained within revised Article 9 for material relating to changes made in text in 1999.
+Annotations
+Commentary
+
+§ 6-102. DEFINITIONS AND INDEX OF DEFINITIONS.
+Page 4 of 6
+OFFICIAL COMMENT
+1.  (a) "Assets".  New.  The term generally includes only "personal property." Whether particular property is 
+"personal property" is to be determined by law outside this Article; however, for purposes of this Article, (i) the term 
+includes "readily removable factory and office machines" (compare Section 9-313(4)(c)), even if they are covered 
+by applicable real estate law and thus are "fixtures" as defined in Section 9-313(1)(a); (ii) the term does not include 
+the lessee's interest in a lease of real property, even if that interest is considered to be personal property under 
+other applicable law; and (iii) the term does not include property to the extent that it is "generally exempt from 
+creditor process under nonbankruptcy law."
+(b) "Auctioneer".  Compare Section 6-108(3) (1987 Official Text).
+(c) "Bulk Sale".  Bulk sales are of two kinds.  Subsection (1)(c)(i) describes bulk sales conducted by a professional 
+intermediary (i.e., an auctioneer or liquidator), as to which sales Section 6-108 applies.  If these indirect sales occur 
+as a series of related sales, then the entire series is treated as a single "bulk sale" and the term applies to the sales 
+in the aggregate.  Sales made directly by the seller to the buyer, described in subsection (1)(c)(ii), include sales 
+conducted by an auctioneer or liquidator for its own account.
+The elements of both direct and indirect sales are the same.  Some of these elements have been borrowed from 
+the 1987 Official Text of Article 6 and restated.  For example, the term includes only sales that are not "in the 
+ordinary course of the seller's business" (subsection (1)(m)).  The sale must be of "more than half of the seller's 
+inventory, as measured by value [subsection (1)(o)] on the date of the bulk-sale agreement [subsection (1)(h)]." All 
+inventory owned by the seller should be included in the calculation, regardless of where it is located.  Inventory that 
+is encumbered by a security interest or lien should be counted at its gross value, although the fact that it is 
+encumbered may affect the applicability of this Article to the sale.
+The determination whether a sale is a "bulk sale" and thus subject to this Article is not affected by whether other 
+types of property are sold in connection with inventory.  However, other provisions of this Article take account of the 
+fact that other property may be sold in connection with inventory.  For example, the availability of the exclusion in 
+Section 6-103(3)(l) turns on the value of all the "assets," not just the inventory.  Similarly, the notice required by 
+Section 6-105 must describe the "assets," not just the inventory.  And Section 6-107(4) measures the buyer's 
+maximum cumulative liability for noncompliance by the value of the inventory and equipment sold in the bulk sale.
+In an effort to limit its coverage to sales posing the greatest risks to creditors, this Article adds an additional element 
+to the definition of "bulk sale." A sale is not a "bulk sale" unless the buyer, auctioneer, or liquidator has notice, or 
+after a reasonable inquiry would have had notice, that the seller will not continue to operate the same or a similar 
+kind of business after the sale.  Whether a person has "notice" depends upon what the person knows and what the 
+person would have known had the person conducted a reasonable inquiry.  The issue of whether a transaction was 
+a bulk sale is likely to be litigated only when the seller has absconded with the sale proceeds.  This Article requires 
+that the matters as to which the buyer, auctioneer, or liquidator had notice be determined only by reference to facts 
+that the person knew or would have known at the date of the bulk-sale agreement.  Reference to what actually 
+occurred is inappropriate.
+Whether an inquiry is "reasonable" depends on the facts and circumstances of each case.  These facts and 
+circumstances may include the identities of the buyer and seller and the type of assets being sold.  In some cases, 
+a reasonable inquiry may consist of no inquiry at all concerning the seller's future.
+Not every change in business operations poses a substantial enough risk to creditors to justify the costs of 
+compliance with this Article.  Thus, in determining whether post-sale business is of a kind that is "the same" or 
+"similar" to the business conducted before the sale, a court should consider whether, viewed from the perspective 
+of the creditors of the seller, the change poses extraordinary risks or whether the change is a normal risk that 
+creditors can be assumed to take.  In particular, when the post-bulk sale business differs from the pre-bulk sale 
+
+§ 6-102. DEFINITIONS AND INDEX OF DEFINITIONS.
+Page 5 of 6
+business only in the size of the business conducted, the seller should be considered to be continuing in the same or 
+a similar kind of business and the sale should not be considered a bulk sale.
+The seller must "continue to operate" the same or a similar kind of business as owner.  If the owner sells the 
+business assets to a buyer and continues to manage the business as an employee of the buyer, the seller is not 
+continuing to operate the business within the meaning of this Article.
+(d) "Claim".  New.  The first sentence derives from Bankruptcy Code § 101(4), 11 U.S.C. § 101(4).  Changes, 
+including the deletion of Section 101(4)(B), were made for stylistic purposes only.
+(e) "Claimant".  New.  This term defines the category of claim holders who are the primary beneficiaries of the 
+duties that this Article imposes.  Compare "Creditor" (subsection (1)(f)).
+States that choose not to afford taxing authorities the benefits of this Article should adopt Alternative A.  Adoption of 
+Alternative B would afford the benefits of this Article to taxing authorities except with respect to those taxes as to 
+which there has been compliance with another statute requiring that notice of the bulk sale be given to the taxing 
+authority.
+(f) "Creditor".  New.  The term includes all holders of claims against the seller, even holders of claims arising from 
+consumer transactions.  Compare "Claimant" (subsection (1)(e)).
+(g) "Date of the bulk sale".  New.  The parties are able to control the date of the bulk sale in several ways.  They 
+can keep the proceeds of the sale in escrow, thereby delaying the date of payment, or they can specifically agree 
+that the assets remain subject to the reach of the seller's creditors, thereby delaying the date that the assets are 
+transferred.  By adjusting the time that the buyer acquires an unconditional right to possess tangible assets and the 
+time the buyer acquires an unconditional right to use intangible assets, the parties may affect the substantive rights 
+of creditors and thereby control the date the assets are transferred.
+The connection between the time of transfer and the buyer's rights under the bulk-sale agreement appears only for 
+purposes of sales to which this Article applies.  Subsection (1)(g) does not purport to affect the rights of creditors of 
+a seller of property for other purposes or under other circumstances.
+(h) "Date of the bulk-sale agreement".  New.  Law outside this Article, including the provisions of Article 2, 
+determines when an agreement for a bulk sale becomes enforceable between the buyer and the seller and when an 
+auctioneer or liquidator is engaged.
+(i) "Debt".  New.  This subsection is borrowed from Bankruptcy Code Section 101(11).
+(j) "Liquidator".  New.  Although the definition of "liquidator" is quite broad, the term is used with respect to sales 
+that are "conducted" by a liquidator on behalf of the seller.  See subsection (1)(c)(i).  Thus only those liquidators 
+that "conduct" sales will be affected by this Article.
+(k) "Net contract price".  New.  Consideration is not "new consideration" to the extent that it consists of the partial or 
+total satisfaction of an antecedent debt owed to the buyer by the seller.  When the buyer buys assets along with 
+property other than assets, the "net contract price" is that portion of the new consideration allocable to the assets.
+(l) "Net proceeds".  New.  The term appears, without definition, in Section 6-108 (1987 Official Text).
+(m) "In the ordinary course of the seller's business".  New.
+(n) "United States".  New.  This subsection derives from Section 9-103(3)(c).
+(o) "Value".  New.  The definition in Section 1-201(44) is not appropriate in the context of this Article.
+(p) "Verified".  New.
+
+§ 6-102. DEFINITIONS AND INDEX OF DEFINITIONS.
+Page 6 of 6
+2.  "Good faith".  This Article adopts the definition of "good faith" in Article 1 in all cases, even when the buyer is a 
+merchant.
+Cross-References:
+Point 1(a): Section 9-313.
+Point 1(c): Sections 1-201 and 6-103.
+Point 1(g): Article 2 generally.
+Point 1(h): Section 2-201 and Article 2 generally.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

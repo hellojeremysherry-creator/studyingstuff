@@ -1,0 +1,25 @@
+U.C.C. § 7-306
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 3. BILLS OF LADING: SPECIAL PROVISIONS        
+§ 7-306. ALTERED BILLS OF LADING
+ An unauthorized alteration or filling in of a blank in a bill of lading leaves the bill enforceable according to its original 
+tenor.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-306.
+   Changes: None
+Purposes:
+   An unauthorized alteration or filling in of a blank, whether made with or without fraudulent intent, does not relieve 
+the issuer of its liability on the document as originally executed. This section applies to both tangible and electronic 
+bills of lading, applying the same rule to both types of bills of lading. The control concept of Section 7-106 requires 
+that any changes to the electronic document of title be readily identifiable as authorized or unauthorized. Section 7-
+306 should be compared to Section 7-208 where a different rule applies to the unauthorized filling in of a blank for 
+tangible warehouse receipts.
+   Cross Reference: Sections 7-106 and 7-208.
+Definitional Cross References:
+"Bill of lading". Section 1-201.
+"Issuer". Section 7-102.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

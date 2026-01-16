@@ -1,0 +1,27 @@
+U.C.C. § 9-333
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>            PART 3. PERFECTION AND PRIORITY          >            SUBPART 3. PRIORITY        
+§ 9-333. PRIORITY OF CERTAIN LIENS ARISING BY OPERATION OF LAW
+(a) ["Possessory lien."]  In this section, "possessory lien" means an interest, other than a security interest 
+or an agricultural lien:
+(1)  which secures payment or performance of an obligation for services or materials furnished with 
+respect to goods by a person in the ordinary course of the person's business;
+(2)  which is created by statute or rule of law in favor of the person; and
+(3)  whose effectiveness depends on the person's possession of the goods.
+(b) [Priority of possessory lien.]  A possessory lien on goods has priority over a security interest in the 
+goods unless the lien is created by a statute that expressly provides otherwise.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Source. Former Section 9-310.
+   2. "Possessory Liens." This section governs the relative priority of security interests arising under this Article 
+and "possessory liens," i.e., common-law and statutory liens whose effectiveness depends on the lienor's 
+possession of goods with respect to which the lienor provided services or furnished materials in the ordinary course 
+of its business. As under former Section 9-310, the possessory lien has priority over a security interest unless the 
+possessory lien is created by a statute that expressly provides otherwise. If the statute creating the possessory lien 
+is silent as to its priority relative to a security interest, this section provides a rule of interpretation that the 
+possessory lien takes priority, even if the statute has been construed judicially to make the possessory lien 
+subordinate.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

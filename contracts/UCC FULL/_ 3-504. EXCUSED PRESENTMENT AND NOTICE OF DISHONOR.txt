@@ -1,0 +1,25 @@
+U.C.C. § 3-504
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 3. NEGOTIABLE INSTRUMENTS          
+>            PART 5. DISHONOR        
+§ 3-504. EXCUSED PRESENTMENT AND NOTICE OF DISHONOR
+(a)  Presentment for payment or acceptance of an instrument is excused if (i) the person entitled to present 
+the instrument cannot with reasonable diligence make presentment, (ii) the maker or acceptor has 
+repudiated an obligation to pay the instrument or is dead or in insolvency proceedings, (iii) by the terms of 
+the instrument presentment is not necessary to enforce the obligation of indorsers or the drawer, (iv) the 
+drawer or indorser whose obligation is being enforced has waived presentment or otherwise has no reason 
+to expect or right to require that the instrument be paid or accepted, or (v) the drawer instructed the drawee 
+not to pay or accept the draft or the drawee was not obligated to the drawer to pay the draft.
+(b)  Notice of dishonor is excused if (i) by the terms of the instrument notice of dishonor is not necessary to 
+enforce the obligation of a party to pay the instrument, or (ii) the party whose obligation is being enforced 
+waived notice of dishonor. A waiver of presentment is also a waiver of notice of dishonor.
+(c)  Delay in giving notice of dishonor is excused if the delay was caused by circumstances beyond the 
+control of the person giving the notice and the person giving the notice exercised reasonable diligence after 
+the cause of the delay ceased to operate.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Section 3-504 is largely a restatement of former Section 3-511. Subsection (4) of former Section 3-511 is replaced 
+by Section 3-502(f).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

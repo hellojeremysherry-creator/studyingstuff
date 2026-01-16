@@ -1,0 +1,21 @@
+U.C.C. § 2A-215
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+2. FORMATION AND CONSTRUCTION OF LEASE CONTRACT        
+§ 2A-215. Cumulation and Conflict of Warranties Express or Implied.
+Warranties, whether express or implied, must be construed as consistent with each other and as 
+cumulative, but if that construction is unreasonable, the intention of the parties determines which warranty 
+is dominant.  In ascertaining that intention the following rules apply:
+(a)  Exact or technical specifications displace an inconsistent sample or model or general language of 
+description.
+(b)  A sample from an existing bulk displaces inconsistent general language of description.
+(c)  Express warranties displace inconsistent implied warranties other than an implied warranty of 
+fitness for a particular purpose.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Section 2-317.
+Definitional Cross Reference:
+"Party".  Section 1-201(29).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

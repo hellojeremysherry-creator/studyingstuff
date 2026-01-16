@@ -1,0 +1,23 @@
+U.C.C. § 1-205
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 1. GENERAL PROVISIONS          >            
+PART 2. GENERAL DEFINITIONS AND PRINCIPLES OF INTERPRETATION        
+§ 1-205. REASONABLE TIME; SEASONABLENESS
+(a)  Whether a time for taking an action required by [the Uniform Commercial Code] is reasonable depends 
+on the nature, purpose, and circumstances of the action.
+(b)  An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or 
+within a reasonable time.
+Annotations
+Commentary
+OFFICIAL COMMENTS
+   Source: Former Section 1-204(2)-(3).
+   Changes from former law: This section is derived from subsections (2) and (3) of former Section 1-204. 
+Subsection (1) of that section is now incorporated in Section 1-302(b).
+   1. Subsection (a) makes it clear that requirements that actions be taken within a "reasonable" time are to be 
+applied in the transactional context of the particular action.
+   2. Under subsection (b), the agreement that fixes the time need not be part of the main agreement, but may occur 
+separately. Notice also that under the definition of "agreement" (Section 1-201) the circumstances of the 
+transaction, including course of dealing or usages of trade or course of performance may be material. On the 
+question what is a reasonable time these matters will often be important.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

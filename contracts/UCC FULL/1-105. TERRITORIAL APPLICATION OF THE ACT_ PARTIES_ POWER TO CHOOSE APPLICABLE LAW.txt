@@ -1,0 +1,28 @@
+U.C.C. Art. 9, Appx. I, 1-105
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>             APPENDIX I. CONFORMING AMENDMENTS TO OTHER ARTICLES        
+1-105. TERRITORIAL APPLICATION OF THE ACT; PARTIES' POWER TO 
+CHOOSE APPLICABLE LAW
+* * *
+(2)  Where one of the following provisions of this Act specifies the applicable law, that provision 
+governs and a contrary agreement is effective only to the extent permitted by the law (including the 
+conflict of laws rules) so specified:
+Rights of creditors against sold goods.  Section 2-402.
+  Applicability of the Article on Leases.  Sections 2A-105 and 2A-106.
+  Applicability of the Article on Bank Deposits and Collections.  Section 4-102.
+  Governing law in the Article on Funds Transfers.  Section 4A-507.
+  Letters of Credit.  Section 5-116.
+  Bulk sales subject to the Article on Bulk Sales.  Section 6-103.
+  [If a State adopts the repealer of Article 6, then this item should be deleted.]
+  Applicability of the Article on Investment Securities.  Section 8-110.
+  Law governing perfection, the effect of perfection or nonperfection, and the priority of security 
+interests and agricultural liens. Sections 9-301 through 9-307.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   * * *
+   6. Sections 9-301 through 9-307 should be consulted as to the rules for perfection of security interests ___ and 
+agricultural liens, the effect of perfection and nonperfection, and priority.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

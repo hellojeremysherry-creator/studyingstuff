@@ -1,0 +1,31 @@
+U.C.C. Art. 9, Appx. I, 2-716
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>             APPENDIX I. CONFORMING AMENDMENTS TO OTHER ARTICLES        
+2-716. BUYER'S RIGHT TO SPECIFIC PERFORMANCE OR REPLEVIN
+(1)  Specific performance may be decreed where the goods are unique or in other proper circumstances.
+(2)  The decree for specific performance may include such terms and conditions as to payment of the price, 
+damages, or other relief as the court may deem just.
+(3)  The buyer has a right of replevin for goods identified to the contract if after reasonable effort he is 
+unable to effect cover for such goods or the circumstances reasonably indicate that such effort will be 
+unavailing or if the goods have been shipped under reservation and satisfaction of the security interest in 
+them has been made or tendered. In the case of goods bought for personal, family, or household purposes, 
+the buyer's right of replevin vests upon acquisition of a special property, even if the seller had not then 
+repudiated or failed to deliver.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   * * *
+   3. The legal remedy of replevin is given to the buyer in cases in which cover is reasonably unavailable and goods 
+have been identified to the contract. This is in addition to the buyer's right to recover identified goods under Section 
+2-502. For consumer goods, the buyer's right to replevin vests upon the buyer's acquisition of a special property, 
+which occurs upon identification of the goods to the contract. See Section 2-501. Inasmuch as a secured party 
+normally acquires no greater rights in its collateral that its debtor had or had power to convey, see Section 2-403(1) 
+(first sentence), a buyer who acquires a right of replevin under subsection (3) will take free of a security interest 
+created by the seller if it attaches to the goods after the goods have been identified to the contract. The buyer will 
+take free, even if the buyer does not buy in ordinary course and even if the security interest is perfected. Of course, 
+to the extent that the buyer pays the price after the security interest attaches, the payments will constitute proceeds 
+of the security interest.
+   * * *
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

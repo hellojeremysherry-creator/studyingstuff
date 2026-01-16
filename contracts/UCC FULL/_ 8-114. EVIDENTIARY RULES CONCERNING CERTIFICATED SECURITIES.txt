@@ -1,0 +1,46 @@
+U.C.C. § 8-114
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 8. INVESTMENT SECURITIES          
+>            PART 1. SHORT TITLE AND GENERAL MATTERS        
+§ 8-114. EVIDENTIARY RULES CONCERNING CERTIFICATED SECURITIES
+The following rules apply in an action on a certificated security against the issuer:
+(1)  Unless specifically denied in the pleadings, each signature on a security certificate or in a 
+necessary indorsement is admitted.
+(2)  If the effectiveness of a signature is put in issue, the burden of establishing effectiveness is on the 
+party claiming under the signature, but the signature is presumed to be genuine or authorized.
+(3)  If signatures on a security certificate are admitted or established, production of the certificate 
+entitles a holder to recover on it unless the defendant establishes a defense or a defect going to the 
+validity of the security.
+(4)  If it is shown that a defense or defect exists, the plaintiff has the burden of establishing that the 
+plaintiff or some person under whom the plaintiff claims is a person against whom the defense or defect 
+cannot be asserted.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   This section adapts the rules of negotiable instruments law concerning procedure in actions on instruments, see 
+Section 3-308, to actions on certificated securities governed by this Article. An "action on a security" includes any 
+action or proceeding brought against the issuer to enforce a right or interest that is part of the security, such as an 
+action to collect principal or interest or a dividend, or to establish a right to vote or to receive a new security under 
+an exchange offer or plan of reorganization. This section applies only to certificated securities; actions on 
+uncertificated securities are governed by general evidentiary principles.
+DEFINITIONAL CROSS REFERENCES
+   "Action"   Section 1-201(1)
+   "Burden of establishing"
+   Section 1-201(8)
+   "Certificated security"
+   Section 8-102(a)(4)
+   "Indorsement"
+   Section 8-102(a)(11)
+   "Issuer"
+   Section 8-201
+   "Presumed"
+   Section 1-201(31)
+   "Security"
+
+§ 8-114. EVIDENTIARY RULES CONCERNING CERTIFICATED SECURITIES
+Page 2 of 2
+   Section 8-102(a)(15)
+   "Security certificate"
+   Section 8-102(a)(16)
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

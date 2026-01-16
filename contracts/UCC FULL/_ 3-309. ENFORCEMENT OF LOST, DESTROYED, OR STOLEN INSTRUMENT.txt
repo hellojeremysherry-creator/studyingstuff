@@ -1,0 +1,53 @@
+U.C.C. § 3-309
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 3. NEGOTIABLE INSTRUMENTS          
+>            PART 3. ENFORCEMENT OF INSTRUMENTS        
+§ 3-309. ENFORCEMENT OF LOST, DESTROYED, OR STOLEN INSTRUMENT
+(a)  A person not in possession of an instrument is entitled to enforce the instrument if:
+(1)  the person seeking to enforce the instrument:
+(A)  was entitled to enforce the instrument when loss of possession occurred; or
+(B)  has directly or indirectly acquired ownership of the instrument from a person who was entitled 
+to enforce the instrument when loss of possession occurred;
+(2)  the loss of possession was not the result of a transfer by the person or a lawful seizure; and
+(3)  the person cannot reasonably obtain possession of the instrument because the instrument was 
+destroyed, its whereabouts cannot be determined, or it is in the wrongful possession of an unknown 
+person or a person that cannot be found or is not amenable to service of process.
+(b)  A person seeking enforcement of an instrument under subsection (a) must prove the terms of the 
+instrument and the person's right to enforce the instrument. If that proof is made, Section 3-308 applies to 
+the case as if the person seeking enforcement had produced the instrument. The court may not enter 
+judgment in favor of the person seeking enforcement unless it finds that the person required to pay the 
+instrument is adequately protected against loss that might occur by reason of a claim by another person to 
+enforce the instrument. Adequate protection may be provided by any reasonable means.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   1. Section 3-309 is a modification of former Section 3-804. The rights stated are those of "a person entitled to 
+enforce the instrument" at the time of loss rather than those of an "owner" as in former Section 3-804. Under 
+subsection (b), judgment to enforce the instrument cannot be given unless the court finds that the defendant will be 
+adequately protected against a claim to the instrument by a holder that may appear at some later time. The court is 
+given discretion in determining how adequate protection is to be assured. Former Section 3-804 allowed the court 
+to "require security indemnifying the defendant against loss." Under Section 3-309 adequate protection is a flexible 
+concept. For example, there is substantial risk that a holder in due course may make a demand for payment if the 
+instrument was payable to bearer when it was lost or stolen. On the other hand if the instrument was payable to the 
+person who lost the instrument and that person did not indorse the instrument, no other person could be a holder of 
+the instrument. In some cases there is risk of loss only if there is doubt about whether the facts alleged by the 
+person who lost the instrument are true. Thus, the type of adequate protection that is reasonable in the 
+circumstances may depend on the degree of certainty about the facts in the case.
+   2. Subsection (a) is intended to reject the result in Dennis Joslin Co. v. Robinson Broadcasting Corp., 977 F. 
+Supp. 491 (D.D.C. 1997). A transferee of a lost instrument need prove only that its transferor was entitled to 
+enforce, not that the transferee was in possession at the time the instrument was lost. The protections of subsection 
+(a) should also be available when instruments are lost during transit, because whatever the precise status of 
+
+§ 3-309. ENFORCEMENT OF LOST, DESTROYED, OR STOLEN INSTRUMENT
+Page 2 of 2
+ownership at the point of loss, either the sender or the receiver ordinarily would have been entitled to enforce the 
+instrument during the course of transit. The amendments to subsection (a) are not intended to alter in any way the 
+rules that apply to the preservation of checks in connection with truncation or any other expedited method of check 
+collection or processing.
+   3. A security interest may attach to the right of a person not in possession of an instrument to enforce the 
+instrument. Although the secured party may not be the owner of the instrument, the secured party may nevertheless 
+be entitled to exercise its debtor's right to enforce the instrument by resorting to its collection rights under the 
+circumstances described in Section 9-607. This section does not address whether the person required to pay the 
+instrument owes any duty to a secured party that is not itself the owner of the instrument.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

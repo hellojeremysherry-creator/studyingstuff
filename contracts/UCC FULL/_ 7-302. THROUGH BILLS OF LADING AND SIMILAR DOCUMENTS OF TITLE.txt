@@ -1,0 +1,69 @@
+U.C.C. § 7-302
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 3. BILLS OF LADING: SPECIAL PROVISIONS        
+§ 7-302. THROUGH BILLS OF LADING AND SIMILAR DOCUMENTS OF TITLE
+(a)  The issuer of a through bill of lading, or other document of title embodying an undertaking to be 
+performed in part by a person acting as its agent or by a performing carrier, is liable to any person entitled 
+to recover on the bill or other document for any breach by the other person or the performing carrier of its 
+obligation under the bill or other document. However, to the extent that the bill or other document covers an 
+undertaking to be performed overseas or in territory not contiguous to the continental United States or an 
+undertaking including matters other than transportation, this liability for breach by the other person or the 
+performing carrier may be varied by agreement of the parties.
+(b)  If goods covered by a through bill of lading or other document of title embodying an undertaking to be 
+performed in part by a person other than the issuer are received by that person, the person is subject, with 
+respect to its own performance while the goods are in its possession, to the obligation of the issuer. The 
+person's obligation is discharged by delivery of the goods to another person pursuant to the bill or other 
+document and does not include liability for breach by any other person or by the issuer.
+(c)  The issuer of a through bill of lading or other document of title described in subsection (a) is entitled to 
+recover from the performing carrier, or other person in possession of the goods when the breach of the 
+obligation under the bill or other document occurred:
+(1)  the amount it may be required to pay to any person entitled to recover on the bill or other document 
+for the breach, as may be evidenced by any receipt, judgment, or transcript of judgment; and
+(2)  the amount of any expense reasonably incurred by the issuer in defending any action commenced 
+by any person entitled to recover on the bill or other document for the breach.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-302.
+   Changes: To conform to current terminology and for style.
+Purposes:
+   1. This section continues the rules from former Section 7-302 without substantive change. The term "performing 
+carrier" is substituted for the term "connecting carrier" to conform the terminology of this section with terminology 
+used in recent UNCITRAL and OAS proposals concerning transportation and through bills of lading. This change in 
+terminology is not substantive. This section is compatible with liability on carriers under federal law. See 49 U.S.C. 
+§§ 11706, 14706 and 15906.
+   The purpose of this section is to subject the initial carrier under a through bill to suit for breach of the contract of 
+carriage by any performing carrier and to make it clear that any such performing carrier holds the goods on terms 
+which are defined by the document of title even though such performing carrier did not issue the document. Since 
+
+§ 7-302. THROUGH BILLS OF LADING AND SIMILAR DOCUMENTS OF TITLE
+Page 2 of 2
+the performing carrier does hold the goods on the terms of the document, it must honor a proper demand for 
+delivery or a diversion order just as the original bailee would have to. Similarly it has the benefits of the excuses for 
+non-delivery and limitations of liability provided for the original bailee who issued the bill. Unlike the original bailee-
+issuer, the performing carrier's responsibility is limited to the period while the goods are in its possession. The 
+section does not impose any obligation to issue through bills.
+   2. The reference to documents other than through bills looks to the possibility that multi-purpose documents may 
+come into use, e.g., combination warehouse receipts and bills of lading. As electronic documents of title come into 
+common usage, storage documents (e.g. warehouse receipts) and transportation documents (e.g. bills of lading) 
+may merge seamlessly into one electronic document that can serve both the storage and transportation segments 
+of the movement of goods.
+   3. Under subsection (a) the issuer of a through bill of lading may become liable for the fault of another person. 
+Subsection (c) gives the issuer appropriate rights of recourse.
+   4. Despite the broad language of subsection (a), Section 7-302 is subject to preemption by federal laws and 
+treaties. Section 7-103. The precise scope of federal preemption in the transportation sector is a question 
+determined under federal law.
+   Cross reference: Section 7-103
+Definitional Cross References:
+"Agreement". Section 1-201.
+"Bailee". Section 7-102.
+"Bill of lading". Section 1-201.
+"Delivery". Section 1-201.
+"Document of title". Section 1-201.
+"Goods". Section 7-102.
+"Issuer". Section 7-102.
+"Party". Section 1-201.
+"Person". Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

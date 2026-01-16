@@ -1,0 +1,66 @@
+U.C.C. § 7-601
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 6. WAREHOUSE RECEIPTS AND BILLS OF LADING: MISCELLANEOUS PROVISIONS        
+§ 7-601. LOST, STOLEN, OR DESTROYED DOCUMENTS OF TITLE
+(a)  If a document of title is lost, stolen, or destroyed, a court may order delivery of the goods or issuance of 
+a substitute document and the bailee may without liability to any person comply with the order. If the 
+document was negotiable, a court may not order delivery of the goods or issuance of a substitute document 
+without the claimant's posting security unless it finds that any person that may suffer loss as a result of 
+nonsurrender of possession or control of the document is adequately protected against the loss. If the 
+document was nonnegotiable, the court may require security. The court may also order payment of the 
+bailee's reasonable costs and attorney's fees in any action under this subsection.
+(b)  A bailee that, without a court order, delivers goods to a person claiming under a missing negotiable 
+document of title is liable to any person injured thereby. If the delivery is not in good faith, the bailee is liable 
+for conversion. Delivery in good faith is not conversion if the claimant posts security with the bailee in an 
+amount at least double the value of the goods at the time of posting to indemnify any person injured by the 
+delivery which files a notice of claim within one year after the delivery.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-601.
+   Changes: To accommodate electronic documents; to provide flexibility to courts similar to the flexibility in Section 
+3-309; to update to the modern era of deregulation; and for style.
+Purposes:
+   1. Subsection (a) authorizes courts to order compulsory delivery of the goods or compulsory issuance of a 
+substitute document. Compare Section 7-402. Using language similar to that found in Section 3-309, courts are 
+given discretion as to what is adequate protection when the lost, stolen or destroyed document was negotiable or 
+whether security should be required when the lost, stolen or destroyed document was nonnegotiable. In 
+determining whether a party is adequately protected against loss in the case of a negotiable document, the court 
+should consider the likelihood that the party will suffer a loss. The court is also given discretion as to the bailee's 
+costs and attorney fees. The rights and obligations of a bailee under this section depend upon whether the 
+document of title is lost, stolen or destroyed and is in addition to the ability of the bailee to bring an action for 
+interpleader. See Section 7-603.
+   2. Courts have the authority under this section to order a substitute document for either tangible or electronic 
+documents. If the substitute document will be in a different medium than the original document, the court should 
+fashion its order in light of the requirements of Section 7-105.
+   3. Subsection (b) follows prior Section 7-601 in recognizing the legality of the well established commercial 
+practice of bailees making delivery in good faith when they are satisfied that the claimant is the person entitled 
+under a missing (i.e. lost, stolen, or destroyed) negotiable document. Acting without a court order, the bailee 
+
+§ 7-601. LOST, STOLEN, OR DESTROYED DOCUMENTS OF TITLE
+Page 2 of 2
+remains liable on the original negotiable document and, to avoid conversion liability, the bailee may insist that the 
+claimant provide an indemnity bond. Cf. Section 7-403.
+   4. Claimants on non-negotiable instruments are permitted to avail themselves of the subsection (a) procedure 
+because straight (non-negotiable) bills of lading sometimes contain provisions that the goods shall not be delivered 
+except upon production of the bill. If the carrier should choose to insist upon production of the bill, the consignee 
+should have some means of compelling delivery on satisfactory proof of entitlement. Without a court order, a bailee 
+may deliver, subject to Section 7-403, to a person claiming goods under a non-negotiable document that the same 
+person claims is lost, stolen, or destroyed.
+   5. The bailee's lien should be protected when a court orders delivery of the goods pursuant to this section.
+Cross References:
+Point 1: Sections 3-309, 7-402 and 7-603.
+Point 2: Section 7-105.
+Point 3: Section 7-403.
+Point 4: Section 7-403.
+Point 5: Sections 7-209 and 7-307.
+Definitional Cross References:
+"Bailee". Section 7-102.
+"Delivery". Section 1-201.
+"Document of title". Section 1-201.
+"Good faith". Section 1-201 [7-102].
+"Goods". Section 7-102.
+"Person". Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

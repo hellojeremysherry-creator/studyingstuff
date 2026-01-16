@@ -1,0 +1,22 @@
+U.C.C. § 3-306
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 3. NEGOTIABLE INSTRUMENTS          
+>            PART 3. ENFORCEMENT OF INSTRUMENTS        
+§ 3-306. CLAIMS TO AN INSTRUMENT
+ A person taking an instrument, other than a person having rights of a holder in due course, is subject to a claim of 
+a property or possessory right in the instrument or its proceeds, including a claim to rescind a negotiation and to 
+recover the instrument or its proceeds. A person having rights of a holder in due course takes free of the claim to 
+the instrument.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   This section expands on the reference to "claims to" the instrument mentioned in former Sections 3-305 and 3-
+306. Claims covered by the section include not only claims to ownership but also any other claim of a property or 
+possessory right. It includes the claim to a lien or the claim of a person in rightful possession of an instrument who 
+was wrongfully deprived of possession. Also included is a claim based on Section 3-202(b) for rescission of a 
+negotiation of the instrument by the claimant. Claims to an instrument under Section 3-306 are different from claims 
+in recoupment referred to in Section 3-305(a)(3). The rule of this section is similar to the rule of Article 30(2) of the 
+Convention on International Bills of Exchange and International Promissory Notes. Amendments approved by the 
+Permanent Editorial Board for Uniform Commercial Code November 2, 2002.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,19 @@
+U.C.C. Art. 6 § 2
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 6. BULK SALES          >            
+ALTERNATIVE A [Including repeal of Article 6]        
+Notice
+Deleted: Red text with a strikethrough
+§ 2. AMENDMENT.
+Section 1-105(2) of the Uniform Commercial Code is hereby amended to read as follows:
+(2)  Where one of the following provisions of this Act specifies the applicable law, that provision 
+governs and a contrary agreement is effective only to the extent permitted by the law (including the 
+conflict of laws rules) so specified:
+Rights of creditors against sold goods.  Section 2-402.
+Applicability of the Article on Leases.  Sections 2A-105 and 2A-106.
+Applicability of the Article on Bank Deposits and Collections.  Section 4-102.
+Bulk transfers subject to the Article on Bulk Transfers.  Section 6-102.
+Applicability of the Article on Investment Securities.  Section 8-106.
+Perfection provisions of the Article on Secured Transactions.  Section 9-103.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

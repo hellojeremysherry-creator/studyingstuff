@@ -1,0 +1,36 @@
+U.C.C. § 7-207
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 2. WAREHOUSE RECEIPTS: SPECIAL PROVISIONS        
+§ 7-207. GOODS MUST BE KEPT SEPARATE; FUNGIBLE GOODS
+(a)  Unless the warehouse receipt provides otherwise, a warehouse shall keep separate the goods covered 
+by each receipt so as to permit at all times identification and delivery of those goods. However, different lots 
+of fungible goods may be commingled.
+(b)  If different lots of fungible goods are commingled, the goods are owned in common by the persons 
+entitled thereto and the warehouse is severally liable to each owner for that owner's share. If, because of 
+overissue, a mass of fungible goods is insufficient to meet all the receipts the warehouse has issued 
+against it, the persons entitled include all holders to which overissued receipts have been duly negotiated.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-207.
+   Changes: Changes for style only.
+Purposes:
+   No change of substance is made from former Section 7-207. Holders to whom overissued receipts have been 
+duly negotiated shall share in a mass of fungible goods. Where individual ownership interests are merged into 
+claims on a common fund, as is necessarily the case with fungible goods, there is no policy reason for 
+discriminating between successive purchasers of similar claims.
+Definitional Cross References:
+"Delivery". Section 1-201.
+"Duly negotiate". Section 7-501.
+"Fungible goods". Section 1-201.
+"Goods". Section 7-102.
+"Holder". Section 1-201.
+"Person". Section 1-201.
+"Warehouse receipt". Section 1-201.
+"Warehouse". Section 7-102.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+
+§ 7-207. GOODS MUST BE KEPT SEPARATE; FUNGIBLE GOODS
+Page 2 of 2
+End of Document

@@ -1,0 +1,37 @@
+U.C.C. § 2A-505
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 2A. LEASES          >            PART 
+5. DEFAULT          >             A. IN GENERAL        
+§ 2A-505. Cancellation and Termination and Effect of Cancellation, 
+Termination, Rescission, or Fraud on Rights and Remedies.
+(1)  On cancellation of the lease contract, all obligations that are still executory on both sides are 
+discharged, but any right based on prior default or performance survives, and the cancelling party also 
+retains any remedy for default of the whole lease contract or any unperformed balance.
+(2)  On termination of the lease contract, all obligations that are still executory on both sides are discharged 
+but any right based on prior default or performance survives.
+(3)  Unless the contrary intention clearly appears, expressions of "cancellation," "rescission," or the like of 
+the lease contract may not be construed as a renunciation or discharge of any claim in damages for an 
+antecedent default.
+(4)  Rights and remedies for material misrepresentation or fraud include all rights and remedies available 
+under this Article for default.
+(5)  Neither rescission nor a claim for rescission of the lease contract nor rejection or return of the goods 
+may bar or be deemed inconsistent with a claim for damages or other right or remedy.
+Annotations
+Commentary
+Official Comment
+Uniform Statutory Source: Sections 2-106(3) and (4), 2-720 and 2-721.
+Changes: Revised to reflect leasing practices and terminology.
+Definitional Cross References:
+"Cancellation".  Section 2A-103(1)(b).
+"Goods".  Section 2A-103(1)(h).
+"Lease contract".  Section 2A-103(1)(l).
+"Party".  Section 1-201(29).
+"Remedy".  Section 1-201(34).
+"Rights".  Section 1-201(36).
+"Termination".  Section 2A-103(1)(z).
+UNIFORM COMMERCIAL CODE
+
+§ 2A-505. Cancellation and Termination and Effect of Cancellation, Termination, Rescission, or Fraud on 
+Rights and Remedies.
+Page 2 of 2
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

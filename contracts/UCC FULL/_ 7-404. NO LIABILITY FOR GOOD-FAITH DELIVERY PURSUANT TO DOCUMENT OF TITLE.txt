@@ -1,0 +1,40 @@
+U.C.C. § 7-404
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 7. DOCUMENTS OF TITLE          >            
+PART 4. WAREHOUSE RECEIPTS AND BILLS OF LADING: GENERAL OBLIGATIONS        
+§ 7-404. NO LIABILITY FOR GOOD-FAITH DELIVERY PURSUANT TO 
+DOCUMENT OF TITLE
+A bailee that in good faith has received goods and delivered or otherwise disposed of the goods according 
+to the terms of a document of title or pursuant to this article is not liable for the goods even if:
+(1)  the person from which the bailee received the goods did not have authority to procure the 
+document or to dispose of the goods; or
+(2)  the person to which the bailee delivered the goods did not have authority to receive the goods.
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Prior Uniform Statutory Provision: Former Section 7-404.
+   Changes: Changes reflect the definition of good faith in Section 1-201 [7-102] and for style.
+Purposes:
+   This section uses the test of good faith, as defined in Section 1-201 [7-102], to continue the policy of former 
+Section 7-404. Good faith now means "honesty in fact and the observance of reasonable commercial standards of 
+fair dealing." The section states explicitly that the common law rule of "innocent conversion" by unauthorized 
+"intermeddling" with another's property is inapplicable to the operations of commercial carriers and warehousemen 
+that in good faith perform obligations that they have assumed and that generally they are under a legal compulsion 
+to assume. The section applies to delivery to a fraudulent holder of a valid document as well as to delivery to the 
+holder of an invalid document. Of course, in appropriate circumstances, a bailee may use interpleader or other 
+dispute resolution process. See Section 7-603.
+   Cross Reference: Section 7-603.
+Definitional Cross References:
+"Bailee". Section 7-102.
+"Delivery". Section 1-201.
+"Document of title". Section 1-201.
+"Good faith". Section 1-201. [7-102].
+"Goods". Section 7-102.
+"Person". Section 1-201.
+"Receipt of goods". Section 2-103.
+
+§ 7-404. NO LIABILITY FOR GOOD-FAITH DELIVERY PURSUANT TO DOCUMENT OF TITLE
+Page 2 of 2
+"Term". Section 1-201.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

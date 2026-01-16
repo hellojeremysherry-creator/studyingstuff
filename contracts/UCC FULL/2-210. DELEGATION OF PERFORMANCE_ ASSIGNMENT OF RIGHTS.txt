@@ -1,0 +1,34 @@
+U.C.C. Art. 9, Appx. I, 2-210
+          Uniform Commercial Code (U.C.C.)          >            ARTICLE 9. SECURED TRANSACTIONS          
+>             APPENDIX I. CONFORMING AMENDMENTS TO OTHER ARTICLES        
+2-210. DELEGATION OF PERFORMANCE; ASSIGNMENT OF RIGHTS
+* * *
+(2)  Except as otherwise provided in Section 9-406, unless otherwise agreed, all rights of either seller or 
+buyer can be assigned except where the assignment would materially change the duty of the other 
+party, or increase materially the burden or risk imposed on him by his contract, or impair materially his 
+chance of obtaining return performance. A right to damages for breach of the whole contract or a right 
+arising out of the assignor's due performance of his entire obligation can be assigned despite 
+agreement otherwise.
+(3)  The creation, attachment, perfection, or enforcement of a security interest in the seller's interest 
+under a contract is not a transfer that materially changes the duty of or increases materially the burden 
+or risk imposed on the buyer or impairs materially the buyer's chance of obtaining return performance 
+within the purview of subsection (2) unless, and then only to the extent that, enforcement actually 
+results in a delegation of material performance of the seller. Even in that event, the creation, 
+attachment, perfection, and enforcement of the security interest remain effective, but (i) the seller is 
+liable to the buyer for damages caused by the delegation to the extent that the damages could not 
+reasonably be prevented by the buyer, and (ii) a court having jurisdiction may grant other appropriate 
+relief, including cancellation of the contract for sale or an injunction against enforcement of the security 
+interest or consummation of the enforcement.
+* * *
+Annotations
+Commentary
+OFFICIAL COMMENT
+   Legislative Note: Succeeding subsections must be renumbered.
+   3. Under subsection (2) rights which are no longer executory such as a right to damages for breach may be 
+assigned although the agreement prohibits assignment. In such cases no question of delegation of any 
+performance is involved. Subsection (2) is subject to Section 9-406, which makes rights to payment for goods sold 
+("accounts"), whether or not earned, freely alienable notwithstanding a contrary agreement or rule of law.
+   * * *
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document
