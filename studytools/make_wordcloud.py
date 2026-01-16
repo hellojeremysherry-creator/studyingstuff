@@ -28,8 +28,8 @@ STOPWORDS |= LEGAL_STOP
 MD_JUNK_RE = re.compile(r"(```.*?```|`[^`]+`|\!\[[^\]]*\]\([^)]+\)|\[[^\]]+\]\([^)]+\))", re.S)
 NON_WORD_RE = re.compile(r"[^a-zA-Z']+")
 
-def read_topic_text(crimlaw_root: Path, topic: str, include_casebook: bool) -> str:
-    topic_dir = crimlaw_root / topic
+def read_topic_text(contracts_root: Path, topic: str, include_casebook: bool) -> str:
+    topic_dir = contracts_root / topic
     if not topic_dir.exists():
         raise FileNotFoundError(f"Topic folder not found: {topic_dir}")
 
@@ -71,16 +71,16 @@ def tokenize(text: str) -> list[str]:
     return tokens
 
 def main():
-    ap = argparse.ArgumentParser(description="Generate a word cloud from a crimlaw topic folder.")
-    ap.add_argument("--crimlaw-root", default="crimlaw", help="Path to crimlaw directory (default: crimlaw)")
-    ap.add_argument("--topic", required=True, help="Topic folder name under crimlaw (e.g., homicide, attempt)")
+    ap = argparse.ArgumentParser(description="Generate a word cloud from a contracts topic folder.")
+    ap.add_argument("--contracts-root", default="contracts", help="Path to contracts directory (default: contracts)")
+    ap.add_argument("--topic", required=True, help="Topic folder name under contracts (e.g., homicide, attempt)")
     ap.add_argument("--include-casebook", action="store_true", help="Include .txt/casebook_text if present")
     ap.add_argument("--max-words", type=int, default=200, help="Max words in cloud")
     ap.add_argument("--out", default=None, help="Output PNG path (default: studytools/out/<topic>_wordcloud.png)")
     args = ap.parse_args()
 
-    crimlaw_root = Path(args.crimlaw_root)
-    text = read_topic_text(crimlaw_root, args.topic, args.include_casebook)
+    contracts_root = Path(args.contracts_root)
+    text = read_topic_text(contracts_root, args.topic, args.include_casebook)
     tokens = tokenize(text)
 
     freqs = Counter(tokens)
