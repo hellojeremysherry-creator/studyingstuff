@@ -4,6 +4,7 @@ import argparse
 import re
 from pathlib import Path
 from collections import Counter
+from typing import Iterable
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -26,21 +27,67 @@ STOPWORDS |= LEGAL_STOP
 MD_JUNK_RE = re.compile(r"(```.*?```|`[^`]+`|\!\[[^\]]*\]\([^)]+\)|\[[^\]]+\]\([^)]+\))", re.S)
 NON_WORD_RE = re.compile(r"[^a-zA-Z']+")
 
-def load_text(topic_dir: Path, include_casebook: bool) -> str:
-    paths = list(topic_dir.rglob("*.md"))
-    if include_casebook:
-        paths += list(topic_dir.rglob("*.txt"))
-    if not include_casebook:
-        paths = [p for p in paths if "casebook_text" not in p.parts]
-    chunks = [p.read_text(encoding="utf-8", errors="ignore") for p in sorted(paths)]
-    return "\n".join(chunks)
+
+def _parse_exts(exts_csv: str) -> tuple[str, ...]:
+    raw = [e.strip().lower() for e in exts_csv.split(",") if e.strip()]
+    out = []
+    for e in raw:
+        if not e.startswith("."):
+            e = "." + e
+        out.append(e)
+    return tuple(dict.fromkeys(out))
+
+
+def _iter_files(base: Path, exts: tuple[str, ...], exclude_dirs: set[str]) -> Iterable[Path]:
+    for p in base.rglob("*"):
+        if p.is_dir():
+            continue
+        if p.suffix.lower() not in exts:
+            continue
+        if any(part in exclude_dirs for part in p.parts):
+            continue
+        yield p
+
+
+def load_text(root: Path, topic: str, exts: tuple[str, ...], exclude_dirs: set[str]) -> str:
+    target = (root / topic).resolve()
+
+    paths: list[Path] = []
+
+    if target.is_file():
+        if target.suffix.lower() not in exts:
+            raise ValueError(f"File extension not in {exts}: {target}")
+        paths = [target]
+
+    elif target.is_dir():
+        for p in target.rglob("*"):
+            if p.is_dir():
+                continue
+            if p.suffix.lower() not in exts:
+                continue
+            if any(part in exclude_dirs for part in p.parts):
+                continue
+            paths.append(p)
+
+    else:
+        raise FileNotFoundError(f"Target not found: {target}")
+
+    if not paths:
+        raise FileNotFoundError(f"No matching files found for: {target}")
+
+    return "\n".join(
+        p.read_text(encoding="utf-8", errors="ignore") for p in sorted(paths)
+    )
+
+
 
 def tokenize(text: str) -> list[str]:
     text = MD_JUNK_RE.sub(" ", text)
     text = text.replace("#", " ").replace("*", " ").replace("_", " ")
     text = text.lower()
     text = NON_WORD_RE.sub(" ", text)
-    toks = []
+
+    toks: list[str] = []
     for w in text.split():
         w = w.strip("'")
         if len(w) < 3:
@@ -50,8 +97,10 @@ def tokenize(text: str) -> list[str]:
         toks.append(w)
     return toks
 
+
 def bigrams(tokens: list[str]) -> list[tuple[str, str]]:
     return list(zip(tokens, tokens[1:]))
+
 
 def bar_plot(items: list[tuple[str, float]], title: str, out_path: Path):
     labels = [k for k, _ in items]
@@ -66,36 +115,60 @@ def bar_plot(items: list[tuple[str, float]], title: str, out_path: Path):
     plt.close()
     print(f"Saved: {out_path}")
 
+
+def _slug(s: str) -> str:
+    s = s.strip().replace("\\", "/")
+    s = s.replace("/", "__")
+    s = re.sub(r"\s+", "_", s)
+    s = re.sub(r"[^a-zA-Z0-9_\-\.]+", "", s)
+    return s or "topic"
+
+
 def main():
-    ap = argparse.ArgumentParser(description="Analytics for a crimlaw topic folder.")
-    ap.add_argument("--crimlaw-root", default="crimlaw")
-    ap.add_argument("--topic", required=True)
-    ap.add_argument("--include-casebook", action="store_true")
+    ap = argparse.ArgumentParser(description="Analytics for a doctrine/topic folder.")
+    ap.add_argument("--doctrine", default="crimlaw", help="Top-level folder name (default: crimlaw)")
+    ap.add_argument("--root", default=None, help="Override root path (if set, ignores --doctrine)")
+    ap.add_argument("--topic", required=True, help="Folder path under root (e.g., homicide OR R2D OR 'UCC FULL')")
+
+    ap.add_argument("--exts", default="md,txt", help="Comma-separated extensions to include (default: md,txt)")
+    ap.add_argument(
+        "--include-casebook",
+        action="store_true",
+        help="Do not exclude 'casebook_text' directory (kept for backward compatibility)",
+    )
+    ap.add_argument("--exclude-dirs", default=None, help="Comma-separated dir names to exclude (optional)")
     ap.add_argument("--topn", type=int, default=25)
     args = ap.parse_args()
 
-    crimlaw_root = Path(args.crimlaw_root)
-    topic_dir = crimlaw_root / args.topic
-    if not topic_dir.exists():
-        raise FileNotFoundError(topic_dir)
+    root = Path(args.root) if args.root else Path(args.doctrine)
+    exts = _parse_exts(args.exts)
 
-    text = load_text(topic_dir, args.include_casebook)
+    exclude_dirs = set()
+    if not args.include_casebook:
+        exclude_dirs.add("casebook_text")
+    if args.exclude_dirs:
+        exclude_dirs |= {d.strip() for d in args.exclude_dirs.split(",") if d.strip()}
+
+    text = load_text(root=root, topic=args.topic, exts=exts, exclude_dirs=exclude_dirs)
     tokens = tokenize(text)
 
     out_dir = Path("studytools/out")
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    topic_slug = _slug(args.topic)
+    doctrine_slug = _slug(str(root))
+    prefix = f"{doctrine_slug}__{topic_slug}"
+
     # Top terms
     term_counts = Counter(tokens).most_common(args.topn)
-    bar_plot(term_counts, f"Top terms — {args.topic}", out_dir / f"{args.topic}_top_terms.png")
+    bar_plot(term_counts, f"Top terms — {args.topic}", out_dir / f"{prefix}_top_terms.png")
 
     # Top bigrams
     bi = [" ".join(b) for b in bigrams(tokens)]
     bigram_counts = Counter(bi).most_common(args.topn)
-    bar_plot(bigram_counts, f"Top bigrams — {args.topic}", out_dir / f"{args.topic}_top_bigrams.png")
+    bar_plot(bigram_counts, f"Top bigrams — {args.topic}", out_dir / f"{prefix}_top_bigrams.png")
 
     # TF-IDF keywords (single-doc TF-IDF still helpful for “distinctive-ish” terms)
-    # Better version later: compare across multiple topic folders.
     vec = TfidfVectorizer(stop_words=list(STOPWORDS), ngram_range=(1, 2), min_df=2)
     X = vec.fit_transform([text])
     scores = X.toarray()[0]
@@ -104,13 +177,14 @@ def main():
     tfidf_top = [(feats[i], float(scores[i])) for i in top_idx if scores[i] > 0]
 
     df = pd.DataFrame(tfidf_top, columns=["term", "tfidf"])
-    df_path = out_dir / f"{args.topic}_tfidf.csv"
+    df_path = out_dir / f"{prefix}_tfidf.csv"
     df.to_csv(df_path, index=False)
     print(f"Saved: {df_path}")
 
     print("\nTop TF-IDF terms:")
     for t, s in tfidf_top[:15]:
         print(f"{t:>30}  {s:.4f}")
+
 
 if __name__ == "__main__":
     main()
