@@ -1,0 +1,590 @@
+﻿Chapter 1: The Objective Theory of Contracts—Standards, Elements, and Factors
+
+
+For present purposes, a contract is “a promise that the law will enforce.” The law will not enforce all promises. For instance, the law generally will not enforce promises that are not “supported by consideration.” A promise is “supported by consideration” when the promise is made in consideration of (due to) a return promise or performance, i.e., the promisor (the person making the promise) requires something in return for the promise. Consideration and exceptions to these general rules are covered in later chapters. This basic statement is a good working rule for present purposes.
+
+
+For example, if A says “I promise to give you my car,” that’s not a promise the law will enforce. But if A says “I’ll sell you my car for $1,000” (which of course means “I’ll give you my car if you’ll give me $1,000”), that is a promise the law will enforce if the offer is accepted. The requirement for consideration is sometimes referred to as the bargain requirement. It is said that the law does not enforce gratuitous promises; it only enforces bargains. Like most broad statements of the law, this statement, while generally true, is subject to exceptions.
+
+
+Before looking more deeply at consideration in Chapter 5, however, let us turn to another requirement—that, for there to be a contract, there must be an offer and an acceptance. This means that in order to have a contract, one person must offer to enter into a contract and the other must accept that offer. If you say, “I’ll sell you my car for $1,000,” that’s not a contract. It’s an offer. It only becomes a contract when someone responds by saying “Yes, I accept” or “It’s a deal” or otherwise indicates a willingness to be bound to the deal.
+
+
+Most of the time, it is pretty easy to tell when A has made an offer and B has accepted it. But those are not the situations in which people consult lawyers. People consult lawyers when it is not clear whether a particular statement was an offer, or when it is not clear whether a particular response to that statement was an acceptance, or when they want a proposal prepared in such a way that it either is or is not an offer that is capable of immediate acceptance. (Sometimes it is useful to sound out the
+2
+opposing party with something less than an offer to gauge whether or not one is perhaps setting the price too low or otherwise offering needlessly favorable terms.) Those are the situations this chapter explores.
+
+
+A group of legal scholars has come up with the following definition of an offer:
+
+
+An offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it.
+
+
+R2d § 24. Broken down, or “exploded” this definition states that an offer has the following mandatory features, which are called “elements:”
+
+
+(1)It is “a manifestation” (written, verbal, conduct, by internet posting, etc.);
+
+
+(2)“of willingness to enter into a bargain” (again, more on bargains later, but note that the willingness applies to a bargain, not a gift);
+
+
+(3)“so made as to justify another” (note the standard: justifying another person; the focus is not on what the offeror intends in her secret heart of hearts, it is what others are justified in concluding from the “manifestation of willingness”);
+
+
+(4)“in understanding that”
+
+
+(a)“his assent to that bargain is invited” (i.e., is asked for, is desired); and
+
+
+(b)“will conclude it” (i.e. if the offeree responds with a “yes, I accept” there will be a deal with nothing, or at least nothing material, to be worked out).
+
+
+In working with statutes, like the U.C.C. or CISG, or statements of applicable legal principles, like case law, the R2d, or UNIDROIT, it is extremely useful to perform a two step analysis of the standard being stated:
+
+
+First, identify whether the standard is made up of a series of required elements that all must be present for the standard to be met or a list, often a non-exclusive list, of non-required factors to be considered in determining whether the standard has been met. Elements (required) are usually joined with the express or implied conjunction “and,” but factors may also be joined with “and.” Elements, however, are never joined by the conjunction “or,” which indicates that items in a list are alternatives, because, by their nature, elements are all required. Sometimes a standard contains elements that are themselves constituted of factors, and vice versa.
+
+
+3
+Second, after determining whether the standard consists of elements, factors, or both, mechanically but thoughtfully apply the standard, element-by-element, or factor-by-factor, to the facts. In other words, break down and apply the standard step-by-step, consider alternative interpretations of the facts, and do not jump to conclusions.
+
+
+Many people who have experienced success in the “real world” have done so because of their ability to instinctively jump to the right conclusion. That skill is not rewarded in law school, although it is in some areas of law practice. Put it aside for now and proceed methodically in the process of applying the standard element-by-element or factor-by-factor to the individual facts at issue. This is the essence of “thinking like a lawyer.” The balance of this casebook gives you a chance to do just that.
+
+
+Introductory Exercise
+
+
+Applying the standard of R2d § 24, then, determine which of the following constitutes an offer:
+
+
+(a)I’ll sell you my car for $1,000.
+
+
+(b)I’m thinking about selling my car for $1,000.
+
+
+(c)I’m going to sell my car for $1,000.
+
+
+(d)Would you give me $1,000 for my car?
+
+
+The cases that follow introduce what is called “the objective theory of contracts.” This is a way of saying that we look at what the person actually said or did and how a reasonable person would interpret those statements or actions. The term “objective” here is somewhat deceptive and can be confusing. It does not mean an objective measuring device like a ruler or a cup measure—it is really more of a “collective subjective” measurement, based on the decision maker’s or makers’ conception of a reasonable person. It is not completely subjective—which would represent what the decision maker individually thought—but it is not absolutely objective either. Perhaps this is part of what Justice Sotomayor was alluding to in her 2001 speech at UC Berkeley when she said “I would hope that a wise Latina woman with the richness of her experiences would more often than not reach a better conclusion than a white male who hasn’t lived that life.”
+
+
+To put the matter of the objective theory of contract concretely in the context we have been using, we don’t look at whether a person intended her statement to be an offer, but rather we look at whether a reasonable person to whom the statement was addressed would believe it to be an offer. Think of the objective theory of contracts as the view through a high definition webcam with audio capture floating invisibly above and around the parties. What would a reasonable person viewing the resulting video
+4
+think had transpired? That is the “objective” theory of contracts—it is one of the first legal fictions you encounter as a law student.
+Lucy v. Zehmer
+
+
+Supreme Court of Virginia
+196 Va. 493, 84 S.E.2d 516 (1954)
+
+
+Buchanan, J., delivered the opinion of the court.
+
+
+[1]This suit was instituted by W. O. Lucy and J. C. Lucy, complainants, against A. H. Zehmer and Ida S. Zehmer, his wife, defendants, to have specific performance of a contract by which it was alleged the Zehmers had sold to W. O. Lucy a tract of land owned by A. H. Zehmer in Dinwiddie county containing 471.6 acres, more or less, known as the Ferguson farm, for $50,000. J. C. Lucy, the other complainant, is a brother of W. O. Lucy, to whom W. O. Lucy transferred a half interest in his alleged purchase.1
+
+
+[2]The instrument sought to be enforced was written by A. H. Zehmer on December 20, 1952, in these words: “We hereby agree to sell to W. O. Lucy the Ferguson Farm complete for $50,000.00, title satisfactory to buyer,” and signed by the defendants, A. H. Zehmer and Ida S. Zehmer.
+
+
+[3]The answer of A. H. Zehmer admitted that at the time mentioned W. O. Lucy offered him $50,000 cash for the farm, but that he, Zehmer, considered that the offer was made in jest; that so thinking, and both he and Lucy having had several drinks, he wrote out “the memorandum” quoted above and induced his wife to sign it; that he did not deliver the memorandum to Lucy, but that Lucy picked it up, read it, put it in his pocket, attempted to offer Zehmer $5 to bind the bargain, which Zehmer refused to accept, and realizing for the first time that Lucy was serious, Zehmer assured him that he had no intention of selling the farm and that the whole matter was a joke. Lucy left the premises insisting that he had purchased the farm.
+
+
+[4]Depositions were taken and the decree appealed from was entered holding that the complainants had failed to establish their right to specific performance, and dismissing their bill. The assignment of error is to this action of the court.
+
+
+[5]W. O. Lucy, a lumberman and farmer, thus testified in substance: He had known Zehmer for fifteen or twenty years and had been familiar with the Ferguson farm for ten years. Seven or eight years ago he had
+5
+offered Zehmer $20,000 for the farm which Zehmer had accepted, but the agreement was verbal and Zehmer backed out. On the night of December 20, 1952, around eight o’clock, he took an employee to McKenney, where Zehmer lived and operated a restaurant, filling station and motor court. While there he decided to see Zehmer and again try to buy the Ferguson farm. He entered the restaurant and talked to Mrs. Zehmer until Zehmer came in. He asked Zehmer if he had sold the Ferguson farm. Zehmer replied that he had not. Lucy said, “I bet you wouldn’t take $50,000.00 for that place.”2 Zehmer replied, “Yes, I would too; you wouldn’t give fifty.” Lucy said he would and told Zehmer to write up an agreement to that effect. Zehmer took a restaurant check and wrote on the back of it, “I do hereby agree to sell to W. O. Lucy the Ferguson Farm for $50,000 complete.” Lucy told him he had better change it to “We” because Mrs. Zehmer would have to sign it too. Zehmer then tore up what he had written, wrote the agreement quoted above and asked Mrs. Zehmer, who was at the other end of the counter ten or twelve feet away, to sign it. Mrs. Zehmer said she would for $50,000 and signed it. Zehmer brought it back and gave it to Lucy, who offered him $5 which Zehmer refused, saying, “You don’t need to give me any money, you got the agreement there signed by both of us.”
+
+
+[6]The discussion leading to the signing of the agreement, said Lucy, lasted thirty or forty minutes, during which Zehmer seemed to doubt that Lucy could raise $50,000. Lucy suggested the provision for having the title examined and Zehmer made the suggestion that he would sell it “complete, everything there,” and stated that all he had on the farm was three heifers.
+
+
+[7]Lucy took a partly filled bottle of whiskey into the restaurant with him for the purpose of giving Zehmer a drink if he wanted it. Zehmer did, and he and Lucy had one or two drinks together. Lucy said that while he felt the drinks he took he was not intoxicated, and from the way Zehmer handled the transaction he did not think he was either.
+
+
+[8]December 20 was on Saturday. Next day Lucy telephoned to J. C. Lucy and arranged with the latter to take a half interest in the purchase and pay half of the consideration. On Monday he engaged an attorney to
+6
+examine the title. The attorney reported favorably on December 31 and on January 2 Lucy wrote Zehmer stating that the title was satisfactory, that he was ready to pay the purchase price in cash and asking when Zehmer would be ready to close the deal. Zehmer replied by letter, mailed on January 13, asserting that he had never agreed or intended to sell.
+
+
+[9]Mr. and Mrs. Zehmer were called by the complainants as adverse witnesses. Zehmer testified in substance as follows:
+
+
+[10]He bought this farm more than ten years ago for $11,000. He had twenty-five offers, more or less, to buy it, including several from Lucy, who had never offered any specific sum of money. He had given them all the same answer, that he was not interested in selling it. On this Saturday night before Christmas it looked like everybody and his brother came by there to have a drink. He took a good many drinks during the afternoon and had a pint of his own. When he entered the restaurant around eight-thirty Lucy was there and he could see that he was “pretty high.” He said to Lucy, “Boy, you got some good liquor, drinking, ain’t you?” Lucy then offered him a drink. “I was already high as a Georgia pine, and didn’t have any more better sense than to pour another great big slug out and gulp it down, and he took one too.”
+
+
+[11]After they had talked a while Lucy asked whether he still had the Ferguson farm. He replied that he had not sold it and Lucy said, “I bet you wouldn’t take $50,000.00 for it.” Zehmer asked him if he would give $50,000 and Lucy said yes. Zehmer replied, “You haven’t got $50,000 in cash.” Lucy said he did and Zehmer replied that he did not believe it. They argued “pro and con for a long time,” mainly about “whether he had $50,000 in cash that he could put up right then and buy that farm.”
+
+
+[12]Finally, said Zehmer, Lucy told him if he didn’t believe he had $50,000, “you sign that piece of paper here and say you will take $50,000.00 for the farm.” He, Zehmer, “just grabbed the back off of a guest check there” and wrote on the back of it. At that point in his testimony Zehmer asked to see what he had written to “see if I recognize my own handwriting.” He examined the paper and exclaimed, “Great balls of fire, I got ‘Firgerson’ for Ferguson. I have got satisfactory spelled wrong. I don’t recognize that writing if I would see it, wouldn’t know it was mine.”
+
+
+[13]After Zehmer had, as he described it, “scribbled this thing off,” Lucy said, “Get your wife to sign it.” Zehmer walked over to where she was and she at first refused to sign but did so after he told her that he “was just needling him [Lucy], and didn’t mean a thing in the world, that I was not selling the farm.” Zehmer then “took it back over there . . . and I was still looking at the dern thing. I had the drink right there by my hand, and I reached over to get a drink,” and he said, “Let me see it.” He reached and picked it up, and when I looked back again he had it in his pocket and he dropped a five dollar bill over there, and he said, “Here is five dollars
+[14]Mrs. Zehmer testified that when Lucy came into the restaurant he looked as if he had had a drink. When Zehmer came in he took a drink out of a bottle that Lucy handed him. She went back to help the waitress who was getting things ready for next day. Lucy and Zehmer were talking but she did not pay too much attention to what they were saying. She heard Lucy ask Zehmer if he had sold the Ferguson farm, and Zehmer replied that he had not and did not want to sell it. Lucy said, “I bet you wouldn’t take $50,000 cash for that farm,” and Zehmer replied, “You haven’t got $50,000 cash.” Lucy said, “I can get it.” Zehmer said he might form a company and get it, “but you haven’t got $50,000.00 cash to pay me tonight.” Lucy asked him if he would put it in writing that he would sell him this farm. Zehmer then wrote on the back of a pad, “I agree to sell the Ferguson Place to W. O. Lucy for $50,000.00 cash.” Lucy said, “All right, get your wife to sign it.” Zehmer came back to where she was standing and said, “You want to put your name to this?” She said “No,” but he said in an undertone, “It is nothing but a joke,” and she signed it.
+
+
+[15]She said that only one paper was written and it said: “I hereby agree to sell,” but the “I” had been changed to “We”. However, she said she read what she signed and was then asked, “When you read ‘We hereby agree to sell to W. O. Lucy,’ what did you interpret that to mean, that particular phrase?” She said she thought that was a cash sale that night; but she also said that when she read that part about “title satisfactory to buyer” she understood that if the title was good Lucy would pay $50,000 but if the title was bad he would have a right to reject it, and that was her understanding at the time she signed her name.
+
+
+[16]On examination by her own counsel she said that her husband laid this piece of paper down after it was signed; that Lucy said to let him see it, took it, folded it and put it in his wallet, then said to Zehmer, “Let me give you $5.00,” but Zehmer said, “No, this is liquor talking. I don’t want to sell the farm, I have told you that I want my son to have it. This is all a joke.” Lucy then said at least twice, “Zehmer, you have sold your farm,” wheeled around and started for the door. He paused at the door and said, “I will bring you $50,000.00 tomorrow. . . . No, tomorrow is Sunday. I will bring it to you Monday.” She said you could tell definitely that he was drinking and she said to her husband, “You should have taken him home,” but he said, “Well, I am just about as bad off as he is.”
+
+
+[17]The waitress referred to by Mrs. Zehmer testified that when Lucy first came in “he was mouthy.” When Zehmer came in they were laughing and joking and she thought they took a drink or two. She was sweeping and cleaning up for next day. She said she heard Lucy tell Zehmer, “I will give you so much for the farm,” and Zehmer said, “You haven’t got that
+8
+much.” Lucy answered, “Oh, yes, I will give you that much.” Then “they jotted down something on paper . . . and Mr. Lucy reached over and took it, said let me see it.” He looked at it, put it in his pocket and in about a minute he left. She was asked whether she saw Lucy offer Zehmer any money and replied, “He had five dollars laying up there, they didn’t take it.” She said Zehmer told Lucy he didn’t want his money “because he didn’t have enough money to pay for his property, and wasn’t going to sell his farm.” Both of them appeared to be drinking right much, she said.
+
+
+[18]She repeated on cross-examination that she was busy and paying no attention to what was going on. She was some distance away and did not see either of them sign the paper. She was asked whether she saw Zehmer put the agreement down on the table in front of Lucy, and her answer was this: “Time he got through writing whatever it was on the paper, Mr. Lucy reached over and said, ‘Let’s see it.’ He took it and put it in his pocket,” before showing it to Mrs. Zehmer. Her version was that Lucy kept raising his offer until it got to $50,000.
+
+
+[19]The defendants insist that the evidence was ample to support their contention that the writing sought to be enforced was prepared as a bluff or dare to force Lucy to admit that he did not have $50,000; that the whole matter was a joke; that the writing was not delivered to Lucy and no binding contract was ever made between the parties.
+
+
+[20]It is an unusual, if not bizarre, defense. When made to the writing admittedly prepared by one of the defendants and signed by both, clear evidence is required to sustain it.
+
+
+[21]In his testimony Zehmer claimed that he “was high as a Georgia pine,” and that the transaction “was just a bunch of two doggoned drunks bluffing to see who could talk the biggest and say the most.” That claim is inconsistent with his attempt to testify in great detail as to what was said and what was done. It is contradicted by other evidence as to the condition of both parties, and rendered of no weight by the testimony of his wife that when Lucy left the restaurant she suggested that Zehmer drive him home. The record is convincing that Zehmer was not intoxicated to the extent of being unable to comprehend the nature and consequences of the instrument he executed, and hence that instrument is not to be invalidated on that ground. 17 C.J.S., Contracts, § 133 b., p. 483; Taliaferro v. Emery, 124 Va. 674, 98 S.E. 627. It was in fact conceded by defendants’ counsel in oral argument that under the evidence Zehmer was not too drunk to make a valid contract.
+
+
+[22]The evidence is convincing also that Zehmer wrote two agreements, the first one beginning “I hereby agree to sell.” Zehmer first said he could not remember about that, then that “I don’t think I wrote but one out.” Mrs. Zehmer said that what he wrote was “I hereby agree,” but that the “I” was changed to “We” after that night. The agreement that was
+9
+written and signed is in the record and indicates no such change. Neither are the mistakes in spelling that Zehmer sought to point out readily apparent.
+
+
+[23]The appearance of the contract, the fact that it was under discussion for forty minutes or more before it was signed; Lucy’s objection to the first draft because it was written in the singular, and he wanted Mrs. Zehmer to sign it also; the rewriting to meet that objection and the signing by Mrs. Zehmer; the discussion of what was to be included in the sale, the provision for the examination of the title, the completeness of the instrument that was executed, the taking possession of it by Lucy with no request or suggestion by either of the defendants that he give it back, are facts which furnish persuasive evidence that the execution of the contract was a serious business transaction rather than a casual, jesting matter as defendants now contend.
+
+
+[24]On Sunday, the day after the instrument was signed on Saturday night, there was a social gathering in a home in the town of McKenney at which there were general comments that the sale had been made. Mrs. Zehmer testified that on that occasion as she passed by a group of people, including Lucy, who were talking about the transaction, $50,000 was mentioned, whereupon she stepped up and said, “Well, with the high-price whiskey you were drinking last night you should have paid more. That was cheap.” Lucy testified that at that time Zehmer told him that he did not want to “stick” him or hold him to the agreement because he, Lucy, was too tight and didn’t know what he was doing, to which Lucy replied that he was not too tight; that he had been stuck before and was going through with it. Zehmer’s version was that he said to Lucy: “I am not trying to claim it wasn’t a deal on account of the fact the price was too low. If I had wanted to sell $50,000.00 would be a good price, in fact I think you would get stuck at $50,000.00.” A disinterested witness testified that what Zehmer said to Lucy was that “he was going to let him up off the deal, because he thought he was too tight, didn’t know what he was doing.” Lucy said something to the effect that “I have been stuck before and I will go through with it.”
+
+
+[25]If it be assumed, contrary to what we think the evidence shows, that Zehmer was jesting about selling his farm to Lucy and that the transaction was intended by him to be a joke, nevertheless the evidence shows that Lucy did not so understand it but considered it to be a serious business transaction and the contract to be binding on the Zehmers as well as on himself. The very next day he arranged with his brother to put up half the money and take a half interest in the land. The day after that he employed an attorney to examine the title. The next night, Tuesday, he was back at Zehmer’s place and there Zehmer told him for the first time, Lucy said, that he wasn’t going to sell and he told Zehmer, “You know you sold that place fair and square.” After receiving the report from his attorney
+[26]Not only did Lucy actually believe, but the evidence shows he was warranted in believing, that the contract represented a serious business transaction and a good faith sale and purchase of the farm.
+
+
+[27]In the field of contracts, as generally elsewhere, “We must look to the outward expression of a person as manifesting his intention rather than to his secret and unexpressed intention. ‘The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts.’ ” First Nat. Bank v. Roanoke Oil Co., 169 Va. 99, 114, 192 S.E. 764, 770 (1937).
+
+
+[28]At no time prior to the execution of the contract had Zehmer indicated to Lucy by word or act that he was not in earnest about selling the farm. They had argued about it and discussed its terms, as Zehmer admitted, for a long time. Lucy testified that if there was any jesting it was about paying $50,000 that night. The contract and the evidence show that he was not expected to pay the money that night. Zehmer said that after the writing was signed he laid it down on the counter in front of Lucy. Lucy said Zehmer handed it to him. In any event there had been what appeared to be a good faith offer and a good faith acceptance, followed by the execution and apparent delivery of a written contract. Both said that Lucy put the writing in his pocket and then offered Zehmer $5 to seal the bargain. Not until then, even under the defendants’ evidence, was anything said or done to indicate that the matter was a joke. Both of the Zehmers testified that when Zehmer asked his wife to sign he whispered that it was a joke so Lucy wouldn’t hear and that it was not intended that he should hear.
+
+
+[29]The mental assent of the parties is not requisite for the formation of a contract. If the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party.
+
+
+[30]“ . . . The law, therefore, judges of an agreement between two persons exclusively from those expressions of their intentions which are communicated between them . . .” Clark on Contracts, 4 ed., § 3, p. 4.
+
+
+[31]An agreement or mutual assent is of course essential to a valid contract but the law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. If his words and acts, judged by a reasonable standard, manifest an intention to agree, it is immaterial what may be the real but unexpressed state of his mind.
+
+
+11
+[32]So a person cannot set up that he was merely jesting when his conduct and words would warrant a reasonable person in believing that he intended a real agreement.
+
+
+[33]Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties.
+
+
+[34]The complainants are entitled to have specific performance of the contracts sued on. The decree appealed from is therefore reversed and the cause is remanded for the entry of a proper decree requiring the defendants to perform the contract in accordance with the prayer of the bill.
+
+
+———
+
+
+Notes and Questions
+
+
+1.What facts and circumstances led the court to conclude that Lucy and Zehmer had a contract?
+
+
+2.What facts and circumstances could be used to argue they did not have a contract?
+
+
+3.At what point in the discussion were Lucy and Zehmer bound to a contract?
+
+
+4.Is what Lucy and Zehmer said and did on Sunday and Monday relevant to the question of whether or not they had formed a contract on Saturday night?
+
+
+5.Learned Hand, a judge with one of the greatest reputations of all time in the United States, perhaps in part due to the name given to him by his parents, said this:
+
+
+A contract has, strictly speaking, nothing to do with the personal, or individual, intent of the parties. A contract is an obligation attached by the mere force of law to certain acts of the parties, usually words, which ordinarily accompany and represent a known intent. If, however, it were proved by twenty bishops that either party, when he used the words, intended something other than the usual meaning which the law imposes upon them, he would still be held. . . .
+
+
+Hotchkiss v. National City Bank of New York, 200 F. 287, 293 (S.D.N.Y. 1911). The Supreme Court of Oregon once wrote:
+
+
+[T]he staunchest “objectivist” would not let a jury hold two parties to an apparently manifested agreement if neither thought the other meant to assent.
+
+
+Kabil Developments Corp. v. Mignot, 279 Or. 151, 566 P.2d 505 (1977).
+
+
+12
+If the statement from the Kabil case is correct (which it is), is Learned Hand’s often-quoted statement from the Hotchkiss case really a correct statement of the law? Or is it one of those things you may expect to see all the time in judicial opinions and elsewhere—a generalization that is correct in the context of the case in which it is made but not completely right as a universal statement of the law?
+
+
+Embry v. Hargadine, McKittrick Dry Goods Co.
+
+
+Court of Appeals of Missouri
+127 Mo. App. 383, 105 S.W. 777 (1907)
+
+
+Goode, J.
+
+
+[1]The appellant was an employee of the respondent company under a written contract to expire December 15, 1903, at a salary of $2,000 per annum.3 His duties were to attend to the sample department of respondent, of which he was given complete charge. It was his business to select samples for the traveling salesmen of the company, which is a wholesale dry goods concern, to use in selling goods to retail merchants. Appellant contends that on December 23, 1903, he was reengaged by respondent, through its president, Thomas H. McKittrick, for another year at the same compensation and for the same duties stipulated in his previous written contract. On March 1, 1904, he was discharged, having been notified in February that, on account of the necessity of retrenching expenses, his services and that of some other employees would no longer be required. The respondent company contends that its president never re-employed appellant after the termination of his written contract, and hence that it had a right to discharge him when it chose. The point with which we are concerned requires an epitome of the testimony of appellant and the counter testimony of McKittrick, the president of the company, in reference to the alleged reemployment. Appellant testified: That several times prior to the termination of his written contract on December 15, 1903, he had endeavored to get an understanding with McKittrick for another year, but had been put off from time to time. That on December 23d, eight days after the expiration of said contract, he called on McKittrick, in the latter’s office, and said to him that as appellant’s written employment had lapsed eight days before, and as there were only a few days between then and the 1st of January in which to seek employment with other firms, if respondent wished to retain his services longer he must have a contract for another year, or he would quit respondent’s service then and there. That he had been put off twice before and wanted an understanding or contract at once so that he could go ahead without worry. That McKittrick asked him how
+13
+he was getting along in his department, and appellant said he was very busy, as they were in the height of the season getting men out—had about 110 salesmen on the line and others in preparation. That McKittrick then said: “Go ahead, you’re all right. Get your men out, and don’t let that worry you.” That appellant took McKittrick at his word and worked until February 15th without any question in his mind. It was on February 15th that he was notified his services would be discontinued on March 1st. McKittrick denied this conversation as related by appellant, and said that, when accosted by the latter on December 23d, he (McKittrick) was working on his books in order to get out a report for a stockholders’ meeting, and, when appellant said if he did not get a contract he would leave, that he (McKittrick) said: “Mr. Embry, I am just getting ready for the stockholders’ meeting tomorrow. I have no time to take it up now. I have told you before I would not take it up until I had these matters out of the way. You will have to see me at a later time. I said: Go back upstairs and get your men out on the road. I may have asked him one or two other questions relative to the department, I don’t remember. The whole conversation did not take more than a minute.”
+
+
+[2]Embry also swore that, when he was notified he would be discharged, he complained to McKittrick about it, as being a violation of their contract, and McKittrick said it was due to the action of the board of directors, and not to any personal action of his, and that others would suffer by what the board had done as well as Embry. Appellant requested an instruction to the jury setting out, in substance, the conversation between him and McKittrick according to his version, and declaring that those facts, if found to be true, constituted a contract between the parties that defendant would pay plaintiff the sum of $2,000 for another year, provided the jury believed from the evidence that plaintiff commenced said work believing he was to have $2,000 for the year’s work. This instruction was refused, but the court gave another embodying in substance appellant’s version of the conversation, and declaring it made a contract “if you (the jury) find both parties thereby intended and did contract with each other for plaintiff’s employment for one year from and including December 23, 1903, at a salary of $2,000 per annum.” Embry swore that, on several occasions when he spoke to McKittrick about employment for the ensuing year, he asked for a renewal of his former contract, and that on December 23d, the date of the alleged renewal, he went into Mr. McKittrick’s office and told him his contract had expired, and he wanted to renew it for a year, having always worked under year contracts. Neither the refused instruction nor the one given by the court embodied facts quite as strong as appellant’s testimony, because neither referred to appellant’s alleged statement to McKittrick that unless he was re-employed he would stop work for respondent then and there.
+
+
+14
+[3]It is assigned for error that the court required the jury, in order to return a verdict for appellant, not only to find the conversation occurred as appellant swore, but that both parties intended by such conversation to contract with each other for plaintiff’s employment for the year from December, 1903, at a salary of $2,000. If it appeared from the record that there was a dispute between the parties as to the terms on which appellant wanted re-employment, there might have been sound reason for inserting this clause in the instruction; but no issue was made that they split on terms; the testimony of McKittrick tending to prove only that he refused to enter into a contract with appellant regarding another year’s employment until the annual meeting of stockholders was out of the way. Indeed, as to the proposed terms McKittrick agrees with Embry, for the former swore as follows: “Mr. Embry said he wanted to know about the renewal of his contract. Said if he did not have the contract made he would leave.” As the two witnesses coincided as to the terms of the proposed re-employment, there was no reason for inserting the above-mentioned clause in the instruction in order that it might be settled by the jury whether or not plaintiff, if employed for one year from December 23, 1903, was to be paid $2,000 a year. Therefore it remains to determine whether or not this part of the instruction was a correct statement of the law in regard to what was necessary to constitute a contract between the parties; that is to say, whether the formation of a contract by what, according to Embry, was said, depended on the intention of both Embry and McKittrick. Or, to put the question more precisely: Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?
+[4]Judicial opinion and elementary treatises abound in statements of the rule that to constitute a contract there must be a meeting of the minds of the parties, and both must agree to the same thing in the same sense. Generally speaking, this may be true; but it is not literally or universally true. That is to say, the inner intention of parties to a conversation subsequently alleged to create a contract cannot either make a contract of what transpired, or prevent one from arising, if the words used were sufficient to constitute a contract. In so far as their intention is an influential element, it is only such intention as the words or acts of the parties indicate; not one secretly cherished which is inconsistent with those words or acts. The rule is thus stated by a textwriter, and many decisions are cited in support of his text: “The primary object of construction in contract law is to discover the intention of the parties. This intention in express contracts is, in the first instance, embodied in the words which the parties have used and is to be deduced therefrom. This rule applies to oral contracts, as well as to contracts in writing, and is the rule recognized by courts of equity.” 2 Paige, Contracts, § 1104. So it is said in another work: “Now this measure of the contents of the promise will be found to coincide in the usual dealings of men of good faith and ordinary competence, both
+15
+with the actual intention of the promisor and with the actual expectation of the promisee. But this is not a constant or a necessary coincidence. In exceptional cases a promisor may be bound to perform something which he did not intend to promise, or a promisee may not be entitled to require that performance which he understood to be promised to him.” Walds-Pollock, Contracts (3d Ed.) 309. In Brewington v. Mesker, 51 Mo.App. 348, 356, it is said that the meeting of minds, which is essential to the formation of a contract, is not determined by the secret intention of the parties, but by their expressed intention, which may be wholly at variance with the former. In Machine Co. v. Criswell, 58 Mo.App. 471, an instruction was given on the issue of whether the sale of a machine occurred, which told the jury that an intention on the part of the seller to pass the title, and of the purchaser to receive and accept the machine for the purpose of making it his own, was essential to a sale, and if the jury believed such intention did not exist in the minds of both parties at the time, and was not made known to each other, then there was no sale, notwithstanding the delivery. In commenting on this instruction, the court said: “The latter clause of the instruction is erroneous and misleading. It is true that in every case of purchase the question of sale or no sale is a matter of intention; but such intention must always be determined by the conduct, acts, and express declarations of the parties, and not by the secret intention existing in the mind or minds of the contracting parties. If the validity of such a contract depended upon secret intentions of the parties, then no oral contract of sale could be relied on with safety.” Machine Co. v. Criswell, 58 Mo., loc. cit. 473. In Smith v. Hughes, L.R. 6 Q.B. 597, 607, it was said: “If, whatever a man’s real intention may be, he so conducts himself that a reasonable man would believe that he was assenting to the terms proposed by the other party, and that other party upon that belief enters into the contract with him, the man thus conducting himself would be equally bound as if he had intended to agree to the other party’s terms.” And that doctrine was adopted in Phillip v. Gallant, 62 N.Y. 256. In 9 Cyc. 245, we find the following text: “The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressions and excludes all questions in regard to his unexpressed intention. If his words or acts, judged by a reasonable standard, manifest an intention to agree in regard to the matter in question, that agreement is established, and it is immaterial what may be the real, but unexpressed, state of his mind on the subject.” Even more pointed was the language of Baron Bramwell in Brown v. Hare, 3 Hurlst. & N.: “Intention is immaterial till it manifests itself in an act. If a man intends to buy, and says so to the intended seller, and he intends to sell, and says so to the intended buyer, there is a contract of sale; and so there would be if neither had the intention.” In view of those authorities, we hold that, though McKittrick may not have intended to employ Embry by what transpired between them according to the latter’s testimony, yet if what
+16
+McKittrick said would have been taken by a reasonable man to be an employment, and Embry so understood it, it constituted a valid contract of employment for the ensuing year.
+
+
+[5]The next question is whether or not the language used was of that character, namely, was such that Embry, as a reasonable man, might consider he was re-employed for the ensuing year on the previous terms, and act accordingly. We do not say that in every instance it would be for the court to pronounce on this question, because, peradventure, instances might arise in which there would be such an ambiguity in the language relied on to show an assent by the obligor to the proposal of the obligee that it would be for the jury to say whether a reasonable mind would take it to signify acceptance of the proposal. In Lancaster v. Elliott, 28 Mo.App. 86, 92, the opinion, as to the immediate point, reads: “The interpretation of a contract in writing is always a matter of law for determination by the court, and equally so, upon like principles, is the question what acts and words, in nearly every case, will suffice to constitute an acceptance by one party, of a proposal submitted by the other, so that a contract or agreement thereby becomes matured.” The general rule is that it is for the court to construe the effect of writings relied on to make a contract, and also the effect of unambiguous oral words. However, if the words are in dispute, the question of whether they were used or not is for the jury. With these rules of law in mind, let us recur to the conversation of December 23d between Embry and McKittrick as related by the former. Embry was demanding a renewal of his contract, saying he had been put off from time to time, and that he had only a few days before the end of the year in which to seek employment from other houses, and that he would quit then and there unless he was reemployed. McKittrick inquired how he was getting along with the department, and Embry said they, i.e., the employees of the department, were very busy getting out salesmen. Whereupon McKittrick said: “Go ahead, you are all right. Get your men out, and do not let that worry you.” We think no reasonable man would construe that answer to Embry’s demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it as an assent. The natural inference is, though we do not find it testified to, that Embry was at work getting samples ready for the salesmen to use during the ensuing season. Now, when he was complaining of the worry and mental distress he was under because of his uncertainty about the future, and his urgent need, either of an immediate contract with respondent, or a refusal by it to make one, leaving him free to seek employment elsewhere, McKittrick must have answered as he did for the purpose of assuring appellant that any apprehension was needless, as appellant’s services would be retained by the respondent. The answer was unambiguous, and we rule that if the conversation was according to appellant’s version, and he understood he was employed, it constituted in law a valid contract of re-employment, and the court erred in making the formation of a contract
+Notes and Questions
+
+
+1.B sued A for breach of contract. B testified as follows: “A said to me: ‘I’ll sell you my car for $1,000.’ I told him ‘It’s a deal.’ ” A testified that what he said was “I’m thinking of selling my car. Do you think I can get $1,000 for it?”
+
+
+According to the Embry court, should the question of whether there was a contract be decided by the judge or by the jury? Is it a question of fact or a question of law?
+
+
+2.“I think we may have a deal.” Offer? Acceptance?
+
+
+———
+
+
+Problem 1-1
+
+
+Bobby hears that Andy and Sylvia have broken up, so he asks Sylvia for a date. Needing someone to talk to, Sylvia says yes. Wanting to make a great impression, Bobby spends $600 for a new suit, $400 for two floor-level tickets for the Knicks game, $175 for a limo and $75 for a bottle of champagne. He also has his apartment cleaned for the first time since his girlfriend moved out four months ago. Two hours before she is supposed to meet Bobby, Sylvia reconciles with Andy. She calls Bobby and tells him she can’t go out with him. Bobby threatens to sue her for breach of contract.
+
+
+Does he have a case?
+
+
+Problem 1-2
+
+
+Rex and Teresa LeGalley of Albuquerque, New Mexico executed a 16 page “contract” governing virtually all aspects of their marriage. Among other things (many other things) the document provides:
+
+
+(1)Shoes will be left in the garage when entering the house.
+
+
+(2)Lights will be turned out at 11:30 p.m. and the parties will rise promptly at 6:30 a.m.
+
+
+(3)Lunches will be taken to work (not bought) whenever possible.
+
+
+(4)Gas tanks in vehicles owned by the parties will not be allowed to go below half full, and only premium grade gasoline will be used in these vehicles.
+
+
+18
+(5)When driving, the parties will maintain separation from the vehicle in front of a distance of at least one car length for each 10 miles per hour of speed.
+
+
+Suppose that Ms. LeGalley has been tailgating and letting the gas run to a quarter tank or less lately. Can Mr. LeGalley go to court and get an injunction requiring her to keep a safe distance and fill up more often?
+
+
+If the contract has a typical “events of defaults and remedies” section, can Mr. LeGalley give Mrs. LeGalley a notice of default, opportunity to cure the default, and then exercise remedies, which include monetary fines and imposing additional household chores on her?
+
+
+Leonard v. Pepsico, Inc.
+
+
+United States District Court, Southern District, New York
+88 F. Supp. 2d 116 (1999)
+
+
+Wood, District Judge.
+
+
+[1]Plaintiff brought this action seeking, among other things, specific performance of an alleged offer of a Harrier Jet, featured in a television advertisement for defendant’s “Pepsi Stuff” promotion. Defendant has moved for summary judgment pursuant to Federal Rule of Civil Procedure 56. For the reasons stated below, defendant’s motion is granted.
+
+
+I.Background
+
+
+[2]This case arises out of a promotional campaign conducted by defendant, the producer and distributor of the soft drinks Pepsi and Diet Pepsi. The promotion, entitled “Pepsi Stuff,” encouraged consumers to collect “Pepsi Points” from specially marked packages of Pepsi or Diet Pepsi and redeem these points for merchandise featuring the Pepsi logo. Before introducing the promotion nationally, defendant conducted a test of the promotion in the Pacific Northwest from October 1995 to March 1996. A Pepsi Stuff catalog was distributed to consumers in the test market, including Washington State. Plaintiff is a resident of Seattle, Washington. While living in Seattle, plaintiff saw the Pepsi Stuff commercial that he contends constituted an offer of a Harrier Jet.
+
+
+A.The Alleged Offer
+
+
+[3]Because whether the television commercial constituted an offer is the central question in this case, the Court will describe the commercial in detail. The commercial opens upon an idyllic, suburban morning, where the chirping of birds in sun-dappled trees welcomes a paperboy on his morning route. As the newspaper hits the stoop of a conventional two-story house, the tattoo of a military drum introduces the subtitle, “MONDAY 7:58 AM.” The stirring strains of a martial air mark the appearance of a well-coiffed
+19
+teenager preparing to leave for school, dressed in a shirt emblazoned with the Pepsi logo, a red-white-and-blue ball. While the teenager confidently preens, the military drumroll again sounds as the subtitle “T-SHIRT 75 PEPSI POINTS” scrolls across the screen. Bursting from his room, the teenager strides down the hallway wearing a leather jacket. The drumroll sounds again, as the subtitle “LEATHER JACKET 1450 PEPSI POINTS” appears. The teenager opens the door of his house and, unfazed by the glare of the early morning sunshine, puts on a pair of sunglasses. The drumroll then accompanies the subtitle “SHADES 175 PEPSI POINTS.” A voiceover then intones, “Introducing the new Pepsi Stuff catalog,” as the camera focuses on the cover of the catalog.
+
+
+[4]The scene then shifts to three young boys sitting in front of a high school building. The boy in the middle is intent on his Pepsi Stuff Catalog, while the boys on either side are each drinking Pepsi. The three boys gaze in awe at an object rushing overhead, as the military march builds to a crescendo. The Harrier Jet is not yet visible, but the observer senses the presence of a mighty plane as the extreme winds generated by its flight create a paper maelstrom in a classroom devoted to an otherwise dull physics lesson. Finally, the Harrier Jet swings into view and lands by the side of the school building, next to a bicycle rack. Several students run for cover, and the velocity of the wind strips one hapless faculty member down to his underwear. While the faculty member is being deprived of his dignity, the voiceover announces: “Now the more Pepsi you drink, the more great stuff you’re gonna get.”
+
+
+[5]The teenager opens the cockpit of the fighter and can be seen, helmetless, holding a Pepsi. “Looking very pleased with himself,” the teenager exclaims, “Sure beats the bus,” and chortles. The military drumroll sounds a final time, as the following words appear: “HARRIER FIGHTER 7,000,000 PEPSI POINTS.” A few seconds later, the following appears in more stylized script: “Drink Pepsi—Get Stuff.” With that message, the music and the commercial end with a triumphant flourish.
+
+
+[6]Inspired by this commercial, plaintiff set out to obtain a Harrier Jet. Plaintiff explains that he is “typical of the ‘Pepsi Generation’ . . . he is young, has an adventurous spirit, and the notion of obtaining a Harrier Jet appealed to him enormously.” Plaintiff consulted the Pepsi Stuff Catalog. The Catalog features youths dressed in Pepsi Stuff regalia or enjoying Pepsi Stuff accessories, such as “Blue Shades” (“As if you need another reason to look forward to sunny days.”), “Pepsi Tees” (“Live in ’em. Laugh in ’em. Get in ’em.”), “Bag of Balls” (“Three balls. One bag. No rules.”), and “Pepsi Phone Card” (“Call your mom!”). The Catalog specifies the number of Pepsi Points required to obtain promotional merchandise. The Catalog includes an Order Form which lists, on one side, fifty-three items of Pepsi Stuff merchandise redeemable for Pepsi Points. Conspicuously absent from the Order Form is any entry or description of a Harrier Jet. The amount of
+20
+Pepsi Points required to obtain the listed merchandise ranges from 15 (for a “Jacket Tattoo” (“Sew ’em on your jacket, not your arm.”)) to 3300 (for a “Fila Mountain Bike” (“Rugged. All-terrain. Exclusively for Pepsi.”)). It should be noted that plaintiff objects to the implication that because an item was not shown in the Catalog, it was unavailable.
+
+
+[7]The rear foldout pages of the Catalog contain directions for redeeming Pepsi Points for merchandise. (See Catalog, at rear foldout pages.) These directions note that merchandise may be ordered “only” with the original Order Form. The Catalog notes that in the event that a consumer lacks enough Pepsi Points to obtain a desired item, additional Pepsi Points may be purchased for ten cents each; however, at least fifteen original Pepsi Points must accompany each order.
+
+
+[8]Although plaintiff initially set out to collect 7,000,000 Pepsi Points by consuming Pepsi products, it soon became clear to him that he “would not be able to buy (let alone drink) enough Pepsi to collect the necessary Pepsi Points fast enough.” Reevaluating his strategy, plaintiff “focused for the first time on the packaging materials in the Pepsi Stuff promotion,” and realized that buying Pepsi Points would be a more promising option. Through acquaintances, plaintiff ultimately raised about $700,000.
+B.Plaintiff’s Efforts to Redeem the Alleged Offer
+
+
+[9]On or about March 27, 1996, plaintiff submitted an Order Form, fifteen original Pepsi Points, and a check for $700,008.50. Plaintiff appears to have been represented by counsel at the time he mailed his check; the check is drawn on an account of plaintiff’s first set of attorneys. At the bottom of the Order Form, plaintiff wrote in “1 Harrier Jet” in the “Item” column and “7,000,000” in the “Total Points” column. In a letter accompanying his submission, plaintiff stated that the check was to purchase additional Pepsi Points “expressly for obtaining a new Harrier jet as advertised in your Pepsi Stuff commercial.”
+
+
+[10]On or about May 7, 1996, defendant’s fulfillment house rejected plaintiff’s submission and returned the check, explaining that:
+
+
+The item that you have requested is not part of the Pepsi Stuff collection. It is not included in the catalogue or on the order form, and only catalogue merchandise can be redeemed under this program.
+
+
+The Harrier jet in the Pepsi commercial is fanciful and is simply included to create a humorous and entertaining ad. We apologize for any misunderstanding or confusion that you may have experienced and are enclosing some free product coupons for your use.
+
+
+21
+[11]Plaintiff’s previous counsel responded on or about May 14, 1996, as follows:
+
+
+Your letter of May 7, 1996 is totally unacceptable. We have reviewed the video tape of the Pepsi Stuff commercial . . . and it clearly offers the new Harrier jet for 7,000,000 Pepsi Points. Our client followed your rules explicitly . . .
+
+
+This is a formal demand that you honor your commitment and make immediate arrangements to transfer the new Harrier jet to our client. If we do not receive transfer instructions within ten (10) business days of the date of this letter you will leave us no choice but to file an appropriate action against Pepsi . . .
+
+
+[12]This letter was apparently sent onward to the advertising company responsible for the actual commercial, BBDO New York (“BBDO”). In a letter dated May 30, 1996, BBDO Vice President Raymond E. McGovern, Jr., explained to plaintiff that:
+
+
+I find it hard to believe that you are of the opinion that the Pepsi Stuff commercial (“Commercial”) really offers a new Harrier Jet. The use of the Jet was clearly a joke that was meant to make the Commercial more humorous and entertaining. In my opinion, no reasonable person would agree with your analysis of the Commercial.
+
+
+On or about June 17, 1996, plaintiff mailed a similar demand letter to defendant.
+
+
+[13][The court discussed a lot of procedural history not important for our current purposes, including an order made by another court that Leonard pay Pepsi $90,000 to reimburse it for attorneys’ fees.‍—Eds.] The present motion thus follows three years of jurisdictional and procedural wrangling.
+
+
+II.Discussion
+
+
+A.The Legal Framework
+
+
+1.Standard for Summary Judgment
+
+
+[14]On a motion for summary judgment, a court “cannot try issues of fact; it can only determine whether there are issues to be tried.” Donahue v. Windsor Locks Bd. of Fire Comm’rs, 834 F.2d 54, 58 (2d Cir. 1987) (citations and internal quotation marks omitted). To prevail on a motion for summary judgment, the moving party therefore must show that there are no such genuine issues of material fact to be tried, and that he or she is entitled to judgment as a matter of law . . .
+
+
+* * *
+
+
+22
+[15]The question of whether or not a contract was formed is appropriate for resolution on summary judgment. As the Second Circuit has recently noted, “Summary judgment is proper when the ‘words and actions that allegedly formed a contract [are] so clear themselves that reasonable people could not differ over their meaning.’ ” Krumme v. WestPoint Stevens, Inc., 143 F.3d 71, 83 (2d Cir. 1998) (quoting Bourque v. FDIC, 42 F.3d 704, 708 (1st Cir. 1994)) (further citations omitted).
+B.Defendant’s Advertisement Was Not An Offer
+
+
+1.Advertisements as Offers
+
+
+[The court discussed the question of when an advertisement constitutes an offer, noting the general rule that an ad is not an offer and distinguishing Lefkowitz v. Great Minneapolis Surplus Store, which is covered in Chapter 2.—Eds.]
+
+
+2.Rewards as Offers
+
+
+[Here the court distinguished Carlill v. Carbolic Smoke Ball Co. covered in Chapter 3.—Eds.]
+
+
+C.An Objective, Reasonable Person Would Not
+Have Considered the Commercial an Offer
+
+
+[16]Plaintiff’s understanding of the commercial as an offer must also be rejected because the Court finds that no objective person could reasonably have concluded that the commercial actually offered consumers a Harrier Jet.
+
+
+1.Objective Reasonable Person Standard
+
+
+[17]In evaluating the commercial, the Court must not consider defendant’s subjective intent in making the commercial, or plaintiff’s subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey. See Kay-R Elec. Corp. v. Stone & Webster Constr. Co., 23 F.3d 55, 57 (2d Cir. 1994) (“We are not concerned with what was going through the heads of the parties at the time [of the alleged contract]. Rather, we are talking about the objective principles of contract law.”); Mesaros, 845 F.2d at 1581 (“A basic rule of contracts holds that whether an offer has been made depends on the objective reasonableness of the alleged offeree’s belief that the advertisement or solicitation was intended as an offer.”); Farnsworth, supra, § 3.10, at 237; Williston, supra, § 4:7 at 296–97.
+
+
+[18]If it is clear that an offer was not serious, then no offer has been made:
+
+
+What kind of act creates a power of acceptance and is therefore an offer? It must be an expression of will or intention. It must be an
+23
+act that leads the offeree reasonably to conclude that a power to create a contract is conferred. This applies to the content of the power as well as to the fact of its existence. It is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
+
+
+Corbin on Contracts, § 1.11 at 30 (emphasis added). An obvious joke, of course, would not give rise to a contract. See, e.g., Graves v. Northern N.Y. Pub. Co., 260 A.D. 900, 22 N.Y.S.2d 537 (App. Div. 4th Dept. 1940) (dismissing claim to offer of $1000, which appeared in the “joke column” of the newspaper, to any person who could provide a commonly available phone number). On the other hand, if there is no indication that the offer is “evidently in jest,” and that an objective, reasonable person would find that the offer was serious, then there may be a valid offer. See Barnes, 549 P.2d at 1155 (“If the jest is not apparent and a reasonable hearer would believe that an offer was being made, then the speaker risks the formation of a contract which was not intended.”) See also Lucy v. Zehmer, 196 Va. 493, 84 S.E.2d 516, 518, 520 (Va. 1954) (ordering specific performance of a contract to purchase a farm despite defendant’s protestation that the transaction was done in jest as “just a bunch of two doggoned drunks bluffing”).
+
+
+2.Necessity of a Jury Determination
+
+
+[19]Plaintiff also contends that summary judgment is improper because the question of whether the commercial conveyed a sincere offer can be answered only by a jury. Relying on dictum from Gallagher v. Delaney, 139 F.3d 338 (2d Cir. 1998), plaintiff argues that a federal judge comes from a “narrow segment of the enormously broad American economic spectrum,” id. at 342, and, thus, that the question whether the commercial constituted a serious offer must be decided by a jury composed of, inter alia, members of the “Pepsi Generation,” who are, as plaintiff puts it, “young, open to adventure, willing to do the unconventional.” Plaintiff essentially argues that a federal judge would view his claim differently than fellow members of the “Pepsi Generation.”
+
+
+[20]Plaintiff’s argument that his claim must be put to a jury is without merit. Gallagher involved a claim of sexual harassment in which the defendant allegedly invited plaintiff to sit on his lap, gave her inappropriate Valentine’s Day gifts, told her that “she brought out feelings that he had not had since he was sixteen,” and “invited her to help him feed the ducks in the pond, since he was ‘a bachelor for the evening.’ ” Gallagher, 139 F.3d at 344. The court concluded that a jury determination was particularly appropriate because a federal judge lacked “the current real-life experience required in interpreting subtle sexual dynamics of the workplace based on nuances, subtle perceptions, and implicit
+24
+communications.” Id. at 342. This case, in contrast, presents a question of whether there was an offer to enter into a contract, requiring the Court to determine how a reasonable, objective person would have understood defendant’s commercial. Such an inquiry is commonly performed by courts on a motion for summary judgment. See Krumme, 143 F.3d at 83; Bourque, 42 F.3d at 708; Wards Co., 761 F.2d at 120.
+3.Whether the Commercial Was “Evidently Done In Jest”
+
+
+[21]Plaintiff’s insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E.B. White has remarked, “Humor can be dissected, as a frog can, but the thing dies in the process . . .” The commercial is the embodiment of what defendant appropriately characterizes as “zany humor.”
+
+
+[22]First, the commercial suggests, as commercials often do, that use of the advertised product will transform what, for most youth, can be a fairly routine and ordinary experience. The military tattoo and stirring martial music, as well as the use of subtitles in a Courier font that scroll terse messages across the screen, such as “MONDAY 7:58 AM,” evoke military and espionage thrillers. The implication of the commercial is that Pepsi Stuff merchandise will inject drama and moment into hitherto unexceptional lives. The commercial in this case thus makes the exaggerated claims similar to those of many television advertisements: that by consuming the featured clothing, car, beer, or potato chips, one will become attractive, stylish, desirable, and admired by all. A reasonable viewer would understand such advertisements as mere puffery, not as statements of fact, see, e.g., Hubbard v. General Motors Corp., 1996 WL 274018, at *6 (S.D.N.Y. May 22, 1996) (advertisement describing automobile as “Like a Rock,” was mere puffery, not a warranty of quality); Lovett, 207 N.Y.S. at 756; and refrain from interpreting the promises of the commercial as being literally true.
+
+
+[23]Second, the callow youth featured in the commercial is a highly improbable pilot, one who could barely be trusted with the keys to his parents’ car, much less the prize aircraft of the United States Marine Corps. Rather than checking the fuel gauges on his aircraft, the teenager spends his precious preflight minutes preening. The youth’s concern for his coiffure appears to extend to his flying without a helmet. Finally, the teenager’s comment that flying a Harrier Jet to school “sure beats the bus” evinces an improbably insouciant attitude toward the relative difficulty and danger of piloting a fighter plane in a residential area, as opposed to taking public transportation.
+
+
+25
+[24]Third, the notion of traveling to school in a Harrier Jet is an exaggerated adolescent fantasy. In this commercial, the fantasy is underscored by how the teenager’s schoolmates gape in admiration, ignoring their physics lesson. The force of the wind generated by the Harrier Jet blows off one teacher’s clothes, literally defrocking an authority figure. As if to emphasize the fantastic quality of having a Harrier Jet arrive at school, the Jet lands next to a plebeian bike rack. This fantasy is, of course, extremely unrealistic. No school would provide landing space for a student’s fighter jet, or condone the disruption the jet’s use would cause.
+
+
+[25]Fourth, the primary mission of a Harrier Jet, according to the United States Marine Corps, is to “attack and destroy surface targets under day and night visual conditions.” United States Marine Corps, Factfile: AV-8B Harrier II (last modified Dec. 5, 1995) http://‌www.‌hqmc.‌usmc.‌mil/‌factfile.‌nsf. Manufactured by McDonnell Douglas, the Harrier Jet played a significant role in the air offensive of Operation Desert Storm in 1991. See id. The jet is designed to carry a considerable armament load, including Sidewinder and Maverick missiles. See id. As one news report has noted, “Fully loaded, the Harrier can float like a butterfly and sting like a bee—albeit a roaring 14-ton butterfly and a bee with 9,200 pounds of bombs and missiles.” Jerry Allegood, Marines Rely on Harrier Jet, Despite Critics, News & Observer (Raleigh), Nov. 4, 1990, at C1. In light of the Harrier Jet’s well documented function in attacking and destroying surface and air targets, armed reconnaissance and air interdiction, and offensive and defensive anti-aircraft warfare, depiction of such a jet as a way to get to school in the morning is clearly not serious even if, as plaintiff contends, the jet is capable of being acquired “in a form that eliminates [its] potential for military use.” (See Leonard Aff. ¶ 20.)
+
+
+[26]Fifth, the number of Pepsi Points the commercial mentions as required to “purchase” the jet is 7,000,000. To amass that number of points, one would have to drink 7,000,000 Pepsis (or roughly 190 Pepsis a day for the next hundred years—an unlikely possibility), or one would have to purchase approximately $700,000 worth of Pepsi Points. The cost of a Harrier Jet is roughly $23 million dollars, a fact of which plaintiff was aware when he set out to gather the amount he believed necessary to accept the alleged offer. (See Affidavit of Michael E. McCabe, 96 Civ. 5320, Aug. 14, 1997, Exh. 6 (Leonard Business Plan).) Even if an objective, reasonable person were not aware of this fact, he would conclude that purchasing a fighter plane for $700,000 is a deal too good to be true.
+
+
+[27]Plaintiff argues that a reasonable, objective person would have understood the commercial to make a serious offer of a Harrier Jet because there was “absolutely no distinction in the manner” in which the items in the commercial were presented. Plaintiff also relies upon a press release highlighting the promotional campaign, issued by defendant, in which “no mention is made by [defendant] of humor, or anything of the sort.” These
+26
+arguments suggest merely that the humor of the promotional campaign was tongue in cheek. Humor is not limited to what Justice Cardozo called “the rough and boisterous joke . . . [that] evokes its own guffaws.” Murphy v. Steeplechase Amusement Co., 250 N.Y. 479, 483, 166 N.E. 173, 174 (1929). In light of the obvious absurdity of the commercial, the Court rejects plaintiff’s argument that the commercial was not clearly in jest.
+
+
+4.Plaintiff’s Demands for Additional Discovery
+
+
+[28]In his Memorandum of Law, and in letters to the Court, plaintiff argues that additional discovery is necessary on the issues of whether and how defendant reacted to plaintiff’s “acceptance” of their “offer”; how defendant and its employees understood the commercial would be viewed, based on test-marketing the commercial or on their own opinions; and how other individuals actually responded to the commercial when it was aired.
+
+
+[29]Plaintiff argues that additional discovery is necessary as to how defendant reacted to his “acceptance,” suggesting that it is significant that defendant twice changed the commercial, the first time to increase the number of Pepsi Points required to purchase a Harrier Jet to 700,000,000, and then again to amend the commercial to state the 700,000,000 amount and add “(Just Kidding).” Plaintiff concludes that, “Obviously, if PepsiCo truly believed that no one could take seriously the offer contained in the original ad that I saw, this change would have been totally unnecessary and superfluous.” The record does not suggest that the change in the amount of points is probative of the seriousness of the offer. The increase in the number of points needed to acquire a Harrier Jet may have been prompted less by the fear that reasonable people would demand Harrier Jets and more by the concern that unreasonable people would threaten frivolous litigation. Further discovery is unnecessary on the question of when and how the commercials changed because the question before the Court is whether the commercial that plaintiff saw and relied upon was an offer, not that any other commercial constituted an offer.
+
+
+[30]Plaintiff’s demands for discovery relating to how defendant itself understood the offer are also unavailing. Such discovery would serve only to cast light on defendant’s subjective intent in making the alleged offer, which is irrelevant to the question of whether an objective, reasonable person would have understood the commercial to be an offer. See Kay-R Elec. Corp., 23 F.3d at 57 (“We are not concerned with what was going through the heads of the parties at the time [of the alleged contract].”); Mesaros, 845 F.2d at 1581; Corbin on Contracts, § 1.11 at 30. Indeed, plaintiff repeatedly argues that defendant’s subjective intent is irrelevant. (See Pl. Mem. at 5, 8, 13.)
+
+
+[31]Finally, plaintiff’s assertion that he should be afforded an opportunity to determine whether other individuals also tried to accumulate enough Pepsi Points to “purchase” a Harrier Jet is unavailing.
+27
+The possibility that there were other people who interpreted the commercial as an “offer” of a Harrier Jet does not render that belief any more or less reasonable. The alleged offer must be evaluated on its own terms. Having made the evaluation, the Court concludes that summary judgment is appropriate on the ground that no reasonable, objective person would have understood the commercial to be an offer.
+
+
+* * *
+
+
+[32]For the reasons stated above, the Court grants defendant’s motion for summary judgment. The Clerk of Court is instructed to close these cases. Any pending motions are moot.
+
+
+———
+
+
+Notes and Questions
+
+
+1.When Leonard tried to accept the “offer,” he was represented by counsel. Should the court then determine whether a reasonable person would have thought his assent to the bargain is invited and would conclude it, or should the standard be whether a reasonable person represented by a reasonable lawyer would have thought so?
+
+
+2.One professor has suggested that the court should have found a contract in Leonard in order to discourage deceptive advertising. Ignore, for purposes of this question, how that is impractical for a variety of reasons and assume for purposes of this question that the ad was deceptive. Should the court then have found there to be a contract?
+
+
+3.Mr. Leonard would not have ended up with a working jet even had the court found an offer. In 1997, the Pentagon announced that the Harrier was not for sale in flying condition. Before any of the Marine aircraft could be offered to the public, they would have to be “demilitarized” which would have meant removal of all weapons and weapons systems as well as disabling the ability to take off and land vertically, which would make flying one impossible.
+
+
+———
+
+
+Problem 1-3
+
+
+Jodee Berry sued the owners of the restaurant at which she worked for breach of contract. According to the complaint filed in the case, her manager told the waitresses that whoever sold the most food and beverages at each participating location during the month of April would be entered in a drawing for a new Toyota. Over the course of the month, the manager allegedly told the waitresses that he didn’t know whether the prize would be a Toyota car, truck, or van, but the winner would have to pay the registration fees on the vehicle. In May, the manager informed Ms. Berry that she was the lucky winner. He blindfolded her and led her to the parking lot. Waiting for her there was a doll
+28
+of the Star Wars character “Yoda.” Ms. Berry was informed that she was the proud winner of a “toy Yoda.”
+
+
+For some reason, Ms. Berry was unable to see the humor in the situation. She sued. Should she win? See Keith A. Rowley, You Asked For It, You Got It . . . Toy Yoda: Practical Jokes, Prizes, and Contract Law, 3 Nev. L.J. 526 (2003).
+
+
+Problem 1-4
+
+
+Read UNIDROIT article 4.2. Is that standard consistent with the “objective theory of contract” that is the topic of this chapter?
+
+
+Problem 1-5
+
+
+Consider an American importer that contracts with a German company to supply it with commercial quantities of chickens, which it intended to resell to restaurant supply companies for resale to their customers. The contract is governed by U.S. law and simply provides for the supply of chicken at various rates for various sizes of birds (e.g., 2.5 to 3 lbs, $120 per 100 lbs.). When the chickens arrive in the U.S., the importer discovers that they are what it would call “old, stewing chickens” and it claims that it had meant young chickens, suitable for broiling and frying. It claims the German company is in breach of its contract. The German company protests that it has supplied just what the contract called for—chickens. How will this dispute be resolved under the objective theory of contracts?
+
+
+Lawyering Skills Problem: Summarizing and Synthesizing
+
+
+(1)Summarize. If you have not done so already, boil down the holdings of each of the cases and problems in this chapter to no more than five, and preferably three, sentences of ordinary length written in plain English. These summaries should be generalizations that can be separated from the specific facts of the cases and problems so you can use them to analyze other sets of facts that may present themselves.
+
+
+(2)Synthesize. Take the summaries from the first part of this exercise and blend them together into a coherent statement of what the law of the objective theory of contract is. You should aim to be able to do this in no more than six to ten sentences of ordinary length written in plain English.
+
+
+1[In asking for specific performance, the plaintiffs (or “complainants”) are asking the court to order the other party to perform its obligations under the contract. This is not the usual remedy in a contracts case. The usual remedy is an award of money. In Chapter 22, you will learn when a party is entitled to have the court order specific performance.—Eds.]
+
+
+2[$50,000 in 1952 dollars is roughly the equivalent of $475,000 in 2019 dollars using the Consumer Price Index and the Gross National Product Deflator. The gross national product deflator (the “GNP deflator”) is an economic metric that accounts for the effects of inflation in the current year’s gross national product by converting its output to a level relative to a base period. The GNP Deflator is calculated with the following formula:
+
+
+GNP Deflator
+
+
+=
+
+
+Nominal GNP
+
+
+× 100
+
+
+Real GNP
+
+
+The GNP deflator provides an alternative to the consumer price index (CPI). The CPI is based upon the price of a basket of goods and services while the GNP Deflator incorporates all of the final goods produced by an economy. This allows the GNP Deflator to more accurately capture the effects of inflation since it’s not limited to a smaller subset of goods. In this text, we have calculated relative values using both and provide approximate values in 2019 dollars in many of the cases. You can do the same for other values by using the calculator found at http://​www.​measuringworth.​com/​uscompare/.—Eds.]
+
+
+3[$2,000 in 1907 dollars is roughly the equivalent of $55,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+4[$700,000 in 1999 dollars is roughly the equivalent of $1.1 million in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+5[The premise underlying the court’s reasoning seems to be that judges know more about television commercials than they know about gender, interpersonal relationships, and sex. The ramifications of this premise, if true, are beyond the scope of this text.—Eds.]

@@ -1,0 +1,592 @@
+﻿Chapter 15: Interpretation of Contracts
+
+
+Interpretation of the contract, i.e., what the contract means, is by far the most litigated issue in contract law. There are many rules or “canons” or “maxims” that courts have articulated in an attempt to rationalize the process that they go through in deciding what the words mean, see, e.g., R2d §§ 200–204; UNIDROIT articles 4.1–4.8. But they’re not very helpful. For each rule, there is an exception and a counter rule. They are most often employed as support for an interpretation that has been decided upon for other reasons, so we’re not going to spend time on them here. Those interested in the interpretive rules should read Llewellyn, Remarks on the Theory of Appellate Decision and How the Rules or Canons about Statutes Are To Be Construed, 3 Vand. L. Rev. 395 (1950), which is no less timely today than when it was written. See also Thomas R. Haggard and George W. Kuney, Legal Drafting in a Nutshell, Chapter 4, The Rules of Interpretation (4th ed. 2016).
+
+
+This chapter deals with a more limited set of issues: When may a court look at extrinsic evidence to help determine what the written document means, and when must it go by the document alone? Note that this is not the same inquiry as that of the parol evidence rule. That rule concerned what evidence could be considered to determine what the terms of the contract were, not necessarily what they meant. (This is classic legal reasoning that drives non-lawyers wild! “What do you mean the evidence can come in to prove what the term means when it can’t come in to prove the term itself?”) This chapter concerns the inquiry as to meaning, which some would argue has allowed a truck-sized hole to be punched in the parol evidence rule by Justice Traynor of the California Supreme Court and others, as the Trident Center v. Connecticut General Life Insurance case demonstrates.
+
+
+The traditional interpretation analysis appears straightforward. The common law presumed that the parties’ writing and the official law of contract are the definitive elements of the agreement and one need look no further to interpret the contract. One is to confine oneself to the “four corners” of the document, unless an ambiguity in the language is found. If an ambiguity presents itself, then one may turn to extrinsic evidence to determine its meaning. As noted above, this traditional four-corners approach has come under attack in some jurisdictions and, under the
+420
+U.C.C., evidence of the parties’ experience and industry practice can now support incorporation of different meanings to serve the intent of the parties, as the following case demonstrates.
+
+
+PRACTICE TIP: VAGUENESS AND AMBIGUITY
+
+
+The terms “ambiguity” and “vagueness” should not be confused.
+
+
+Ambiguity occurs when a word or phrase is capable of meaning two or more things. For example, if a contract provides that one party “shall pay x and y $500,000.” It is unclear whether x and y are each to receive $500,000 or if x and y are to receive a total of $500,000 to share. Another common source of ambiguity is the unclear pronoun reference. When drafting or reviewing and revising contracts, when you see a pronoun, it is best to ask whether a defined term for a party or third party cannot be inserted in its place. Defined terms are, after all, a sort of very specific, private pronoun created by the drafter.
+
+
+Vagueness, on the other hand, is a lack of clarity. It is often intentionally used in legal drafting when the parties are unable to agree on a provision governing what is thought to be a rare or unexpected event without incurring costs that are not justified due to the low probability of the event happening. Consider, for example, the standard prevailing party attorneys’ fee shifting clause, which provides for an award of “reasonable fees and costs.” While one party may want to quantify or cap the amount of a fee award by specifying a not-to-exceed figure, this is likely to be unacceptable to the other party. Rather than run up their current fees negotiating a provision that everyone hopes will never be used—everyone is optimistic at the inception of most deals—the attorneys compromise on the “reasonable attorney’s fee” language.
+
+
+But vagueness can cause problems if it is used inadvertently or unintentionally. Lawyers should closely examine their documents and question the impact and wisdom of including every “reasonable” or “material” or similar word. In fact, a good general rule is to examine and question the impact of and need for all adverbs or adjectives in a transactional document. Any surplus words should be removed lest some later court apply the maxim that every part of the contract should be construed to have some effect and give the word meaning where none was intended.
+
+
+421
+Pacific Gas & Electric Co. v. G. W. Thomas Drayage & Rigging Co.
+
+
+Supreme Court of California
+69 Cal. 2d 33, 69 Cal. Rptr. 561, 442 P.2d 641 (1968)
+
+
+Traynor, Chief Justice.
+
+
+[1]Defendant appeals from a judgment for plaintiff in an action for damages for injury to property under an indemnity clause of a contract.
+
+
+[2]In 1960 defendant entered into a contract with plaintiff to furnish the labor and equipment necessary to remove and replace the upper metal cover of plaintiff’s steam turbine. Defendant agreed to perform the work “at (its) own risk and expense” and to “indemnify” plaintiff “against all loss, damage, expense and liability resulting from . . . injury to property, arising out of or in any way connected with the performance of this contract.” Defendant also agreed to procure not less than $50,000 insurance to cover liability for injury to property. Plaintiff was to be an additional named insured, but the policy was to contain a cross-liability clause extending the coverage to plaintiff’s property.
+
+
+[3]During the work the cover fell and injured the exposed rotor of the turbine. Plaintiff brought this action to recover $25,144.511, the amount it subsequently spent on repairs. During the trial it dismissed a count based on negligence and thereafter secured judgment on the theory that the indemnity provision covered injury to all property regardless of ownership.
+
+
+[4]Defendant offered to prove by admissions of plaintiff’s agents, by defendant’s conduct under similar contracts entered into with plaintiff, and by other proof that in the indemnity clause the parties meant to cover injury to property of third parties only and not to plaintiff’s property. Although the trial court observed that the language used was “the classic language for a third party indemnity provision” and that “one could very easily conclude that . . . its whole intendment is to indemnify third parties,” it nevertheless held that the “plain language” of the agreement also required defendant to indemnify plaintiff for injuries to plaintiff’s property. Having determined that the contract had a plain meaning, the court refused to admit any extrinsic evidence that would contradict its interpretation.
+
+
+[5]When a court interprets a contract on this basis, it determines the meaning of the instrument in accordance with the “ . . . extrinsic evidence of the judge’s own linguistic education and experience.” (3 Corbin on Contracts (1960 ed.) (1964 Supp. sec. 579, p. 225, fn. 56).) The exclusion of testimony that might contradict the linguistic background of the judge reflects a judicial belief in the possibility of perfect verbal expression. This
+422
+belief is a remnant of a primitive faith in the inherent potency2 and inherent meaning of words.3
+
+
+[6]The test of admissibility of extrinsic evidence to explain the meaning of a written instrument is not whether it appears to the court to be plain and unambiguous on its face, but whether the offered evidence is relevant to prove a meaning to which the language of the instrument is reasonably susceptible.
+
+
+[7]A rule that would limit the determination of the meaning of a written instrument to its four-corners merely because it seems to the court to be clear and unambiguous, would either deny the relevance of the intention of the parties or presuppose a degree of verbal precision and stability our language has not attained.
+
+
+[8]Some courts have expressed the opinion that contractual obligations are created by the mere use of certain words, whether or not there was any intention to incur such obligations. Under this view, contractual obligations flow, not from the intention of the parties but from the fact that they used certain magic words. Evidence of the parties’ intention therefore becomes irrelevant.
+
+
+[9]In this state, however, the intention of the parties as expressed in the contract is the source of contractual rights and duties. A court must ascertain and give effect to this intention by determining what the parties meant by the words they used. Accordingly, the exclusion of relevant, extrinsic evidence to explain the meaning of a written instrument could be justified only if it were feasible to determine the meaning the parties gave to the words from the instrument alone.
+
+
+[10]If words had absolute and constant referents, it might be possible to discover contractual intention in the words themselves and in the manner in which they were arranged. Words, however, do not have absolute and constant referents. “A word is a symbol of thought but has no arbitrary and fixed meaning like a symbol of algebra or chemistry. . . .” (Pearson v. State Social Welfare Board (1960) 54 Cal.2d 184, 195, 5 Cal.Rptr. 553, 559, 353 P.2d 33, 39.) The meaning of particular words or groups of words varies with the “ . . . verbal context and surrounding circumstances and purposes in view of the linguistic education and
+423
+experience of their users and their hearers or readers (not excluding judges) . . . A word has no meaning apart from these factors; much less does it have an objective meaning, one true meaning.” (Corbin, The Interpretation of Words and the Parol Evidence Rule (1965) 50 Cornell L.Q. 161, 187.) Accordingly, the meaning of a writing “can only be found by interpretation in the light of all the circumstances that reveal the sense in which the writer used the words. The exclusion of parol evidence regarding such circumstances merely because the words do not appear ambiguous to the reader can easily lead to the attribution to a written instrument of a meaning that was never intended.” (Citations omitted.)
+
+
+[11]Although extrinsic evidence is not admissible to, add to, detract from, or vary the terms of a written contract, these terms must first be determined before it can be decided whether or not extrinsic evidence is being offered for a prohibited purpose. The fact that the terms of an instrument appear clear to a judge does not preclude the possibility that the parties chose the language of the instrument to express different terms. That possibility is not limited to contracts whose terms have acquired a particular meaning by trade usage,4 but exists whenever the parties’ understanding of the words used may have differed from the judge’s understanding.
+
+
+* * *
+
+
+[12]In the present case the court erroneously refused to consider extrinsic evidence offered to show that the indemnity clause in the contract was not intended to cover injuries to plaintiff’s property. Although that evidence was not necessary to show that the indemnity clause was reasonably susceptible of the meaning contended for by defendant, it was nevertheless relevant and admissible on that issue. Moreover, since that clause was reasonably susceptible of that meaning, the offered evidence was also admissible to prove that the clause had that meaning and did not cover injuries to plaintiff’s property.5 Accordingly, the judgment must be reversed.
+
+
+424
+———
+
+
+Textualist Approach vs. Contextualist Approach
+
+
+In the following passages from Individual Healthcare Specialists, Inc. v. BlueCross BlueShield of Tennessee, Inc., 566 S.W.3d. 671, 695 (Tenn. 2019), the court thoroughly described both the textual and contextual approach to contract interpretation, as well as the origins of these approaches and their rise, fall, and regeneration over time:
+
+
+* * *
+
+
+[1]. . .BlueCross asserts globally that the trial court erred in admitting extrinsic evidence to construe the parties’ agreements. It maintains that all of the contractual provisions at issue were clear and unambiguous on the face of the document, noting that the trial court said as much in its order denying IHS’s motion for partial summary judgment, in which it found “no ambiguities in the parties’ contract documents.” Having made that threshold determination, BlueCross insists, the trial court was thereafter obliged to reject IHS’s request to admit extrinsic evidence on the proper interpretation of the agreements and instead look only to the written agreements themselves. From a policy standpoint, BlueCross argues that, for contracts that include an integration clause, this Court should require trial courts to interpret contracts based on their written language only, without resort to extrinsic evidence.
+
+
+[2]IHS argues the inverse. It maintains that the testimony on the parties’ intent and their course of dealing over the years was key to proper interpretation of the agreements. IHS maintains that the Court of Appeals erred in holding that the trial court should have excluded extrinsic evidence on the question of whether IHS was entitled to an award of attorney fees under the indemnification provision. A strict “plain meaning” rule that precludes the use of extrinsic evidence, it contends, is at odds with
+425
+the courts’ obligation to interpret contracts in a way that comports with the parties’ intent.6
+
+
+[3]As explained in more detail below, in so framing their arguments, it can be said that BlueCross urges us to adopt a “textual” approach to contract interpretation while IHS advocates for a “contextual” approach. As the name suggests, the textual approach is text-centered; under it, the court interprets a contract by focusing on the plain meaning of the text, ascertained from the written agreement only, to the exclusion of any evidence extrinsic to it. In contrast, under the contextual approach, the court interprets a contract based on a broad understanding of the context of the agreement and the parties’ intent, taken from evidence of extrinsic matters such as the circumstances of their negotiation. See generally Lawrence A. Cunningham, Contract Interpretation 2.0: Not Winner-Take-All but Best-Tool-for-the-Job, 85 Geo. Wash. L. Rev. 1625 (Nov. 2017) (hereinafter “Cunningham, 85 Geo. Wash. L. Rev. at ___”); Ronald J. Gilson, Charles F. Sabel, & Robert E. Scott, Text and Context: Contract Interpretation as Contract Design, 100 Cornell L. Rev. 23 (Nov. 2014) (hereinafter “Gilson et al., 100 Cornell L. Rev. at ___”).
+
+
+[4]We first offer some background on how these two competing approaches to contract interpretation and extrinsic evidence evolved. Next we review how Tennessee courts have used them, with particular focus on the parol evidence rule. Finally, we apply the appropriate law to the facts in this case.
+
+
+Historical Overview
+
+
+[5]“Historically, the English common law applied two different sets of doctrines to interpret a disputed contract.” Gilson et al., 100 Cornell L. Rev. at 46. In the law courts, contracts were enforced in accordance with a set of objective rules. A precursor to the textual approach, this formalistic method focused on the text of the contract at issue without reference to any evidence outside of the written document. Id. at 47. The objective rules or doctrines “were administered strictly, without exceptions for cases in which the application of the rule appeared to defeat its purpose.” Id.
+
+
+[6]In contrast, the English chancery courts, courts of equity, interpreted contracts by applying broad equitable principles that were “administered loosely and [ ] designed to provide exceptions to the common law interpretive rules.” Id. The equitable principles “were generally cast in subjective terms and therefore
+426
+required judges to exercise such judgment by evaluating the context of the particular transaction.” Id.
+
+
+[7]Over time, the chancery courts and the common law courts began to exercise overlapping jurisdiction in contractual disputes; however, each tribunal continued to view cases from its own perspective. Id. (quoting J.H. Baker, An Introduction to English Legal History 12–14 (4th ed. 2002)). The two competing systems often had “incompatible procedural and substantive doctrines.” Id. at 48–49. Eventually, courts of law and courts of equity were merged in England and in the United States. “The result was an uncomfortable combination of legal and equitable doctrines; and it was this awkward amalgam that formed the matrix of American contract law.” Id. at 49.
+
+
+[8]Roughly up to the middle of the twentieth century, most American courts predominantly applied the textual approach to contract interpretation, rejecting all evidence extrinsic to the written document. Cunningham, 85 Geo. Wash. L. Rev. at 1628. The textual approach is essentially based on three familiar rules of contract interpretation: the plain meaning rule,7 the four corners rule,8 and the parol evidence rule.9 All of these limit the use of extrinsic evidence in contract interpretation.10
+
+
+[9]A widely-cited New York case provides an example of the strict textualist approach. In Hotchkiss v. National City Bank of New York, 200 F. 287 (S.D.N.Y. 1911), the New York court refused to consider witness testimony on custom associated with a contract, stating that the witness’s testimony was “not competent evidence at all, since it in effect usurps the court’s function.” Hotchkiss, 200 F. at 293. Rejecting all extrinsic evidence, the court
+427
+explained: “A contract has, strictly speaking, nothing to do with the personal, or individual, intent of the parties.”11 Id.
+
+
+[10]In the mid-twentieth century, jurists and scholars began to question strict adherence to the textual rules. Professor Arthur Corbin, a well-known scholar and author of a popular contracts treatise, wondered, “How could any writing prove its own completeness and how can any word or document prove its own meaning[?]” Cunningham, 85 Geo. Wash. L. Rev. at 1628. Corbin and like-minded jurists advocated a broader approach. “Start with the writing,” they urged, “but determine meaning according to all probative circumstances,” including extrinsic evidence such as the structure of the contract, the parties’ bargaining history, the circumstances surrounding the formation of the contract, and the parties’ course of performance.12 Id.
+
+
+[11]In response, a number of jurists moved toward what came to be known as a contextual approach. In a widely-cited example, the California Supreme Court in Pacific Gas, cited by the trial court below, embraced broad use of interpretive extrinsic evidence. 442 P.2d at 644–46. In Pacific Gas, the trial court had held that the parties’ contract had a “plain meaning” and thereafter refused to admit any extrinsic evidence to contradict its initial interpretation. Id. at 642. The California Supreme Court criticized the trial court’s approach. “A rule that would limit the determination of the meaning of a written instrument to its four-corners merely because it seems to the court to be clear and unambiguous,” the Pacific Gas Court said, “would either deny the relevance of the intention of the parties or presuppose a degree of verbal precision and stability our language has not attained.” Id. at 644. It held that, if extrinsic evidence shows that the contract language is susceptible to more than one meaning, it can be admitted to prove the parties’ actual intent. Id. at 645.
+
+
+[12]The influence of contextualism found its way into the Restatement (Second) of Contracts. Cunningham, 85 Geo. Wash. L. Rev. at 1629. Section 202 of the Restatement, on rules of contract
+428
+interpretation, provides that the words of the contract “and other conduct are interpreted in the light of all the circumstances, and if the principal purpose of the parties is ascertainable it is given great weight.” Restatement (Second) of Contracts § 202(1) (1981). Section 212, specifically applicable to integrated agreements, provides: “The interpretation of an integrated agreement is directed to the meaning of the terms of the writing or writings in light of the circumstances . . . .” Restatement (Second) of Contracts § 212(1) (1981) (emphasis added). The comments to section 212 explain that “extrinsic evidence cannot change the plain meaning of a writing,” but the meaning of contractual terms “can almost never be plain except in a context.” Id. § 212 cmt. b.
+
+
+[13]Thus, many elements of contextualism gained wide acceptance. “By the 1990s, . . . contextualism, [had] softened the parol evidence rule, loosened the four corners doctrine, and diluted the plain meaning rule.” Cunningham, 85 Geo. Wash. L. Rev. at 1629.
+
+
+[14]However, as had happened at times with an overly rigid textualist approach, contextualism was also taken to extremes. Some courts took it as a license to disregard the written words of the contract. Under an extreme contextualist approach, if extrinsic evidence indicates that the contractual language does not comport with the intent of the parties, the court may “override” the text if “doing so is necessary to substantially ‘correct’ or complete the parties’ written contract by realigning it with its ‘true’ meaning.” Gilson et al., 100 Cornell L. Rev. at 36. This extreme application of contextualism prompted a correction of sorts, some resurgent support for textualism—particularly in commercial contracts.13 Cunningham, 85 Geo. Wash. L. Rev. at 1629.
+
+
+[15]Any attempt to discern where the modern majority of jurisdictions falls on the question of “textual versus contextual” approach to contract interpretation gives way to frustration because of “the reality that different settings warrant different approaches.” Cunningham, 85 Geo. Wash. L. Rev. at 1627. In any given state, caselaw “evades tidy classification as textualist or contextualist because, rather than wedded to one school, courts often choose the more suitable doctrine given the interpretation task at hand.” Id. & Appendix (comparing contradictory intra-jurisdiction cases); see also Eric A. Posner, The Parol Evidence
+429
+Rule, The Plain Meaning Rule and The Principles of Contractual Interpretation, 146 U. Pa. L. Rev. 533, 553 (1998) (“No jurisdiction has a bright-line [parol evidence rule]. Courts might state one or the other as a general rule, but all sorts of subsidiary doctrines provide exceptions.”). “Many differences in this juxtaposition can be explained on various, somewhat technical grounds—such as date, state versus federal law, high state court or low, degree of clarity, and so on. But ultimately the best explanation for these and innumerable other such apparent anomalies is the inherent untidiness of the cases.” Cunningham, 85 Geo. Wash. L. Rev. at 1630.
+
+
+* * *
+
+
+The Court in BlueCross described how early Tennessee caselaw favored the contextualist approach to contract interpretation even when the contract’s language was clear, and that elements of textualism were found in only a small percentage of cases. At that time, the vast majority of courts across the country took the opposite approach favoring textualism over contextualism.
+
+
+For example, in 1895, [the Supreme Court of Tennessee] stated that “[t]he intention is the governing principle of construction. In ascertaining the intention, the situation of the parties, the motives that led to the agreement, and the objects designed to be effected by it, may all be looked to by the court.” Nunnelly, 29 S.W. at 127; see also Taylor v. Neblett, 51 Tenn. 491, 493 (1871) (“The governing principle of construction of contracts is the intention of the parties. The sense in which they mutually understood it is that which must control in its enforcement. To ascertain the intention of parties, it is legitimate to look to their situation at the time and to the surrounding circumstances.”); Jones, 42 Tenn. at 583 (“The governing principle of construction is the intention of the parties. That intention may be ascertained by looking to the situation of the parties, the motives which induced the agreement, and the object and purpose designed to be effected by it.”). Some recited contextual principles after determining that the contract language was “ambiguous,” see, e.g., Mills, 59 Tenn. at 457–58, and others did so without first finding ambiguity, see, e.g., Nunnelly, 29 S.W. at 127.
+
+
+Id. at 688.
+
+
+Over time, Tennessee courts relied more and more on textualist principles, particularly when courts found the language of the contract was unambiguous. This resulted in more courts interpreting contracts as written and in accordance with the plain terms of the agreement. This shift towards textualist principles indicated that the Tennessee courts rejected
+430
+the broad and extreme contextualist principles applied by the California Supreme Court in Pacific Gas. Rather, more recent Tennessee caselaw reflects a greater balance between both textualist and contextualist principles:
+
+
+[The cases] demonstrate a definite focus on the written words in the parties’ contract, but they also consider evidence related to the situation of the parties and the circumstances of the transaction in interpreting those words. For example, in Penske Truck Leasing Co. v. Huddleston, the Court said: “The intention of the parties is to be determined by a fair construction of the terms and provisions of the contract, by the subject matter to which it has reference, by the circumstances of the particular transaction giving rise to the question, and by the construction placed on the agreement by the parties in carrying out its terms.” 795 S.W.2d 669, 671 (Tenn. 1990). Following Penske, the Court in Hughes v. New Life Development Corp. stated, “The search for the parties’ intent should focus on the four corners of the contract, the circumstances in which the contract was made, and the parties’ actions in carrying out the contract.” 387 S.W.3d 453, 465 (Tenn. 2012).
+
+
+Id. at 692.
+
+
+Other states have gone through similar processes of flux in terms of textualism and contextualism and it is likely that this will continue going forward.
+
+
+———
+
+
+Note
+
+
+The next case explores the ramifications of Judge Traynor’s legacy found in Pacific Gas & Electric Co. v. G. W. Thomas Drayage & Rigging Co. Traynor waged a war against the effect of the parol evidence and four-corners rule and, by Judge Kozinski’s assessment, won. Note that later developments, noted after the case, somewhat soften Traynor’s victory while never directly overruling PG&E.
+
+
+———
+
+
+Trident Center v. Connecticut General Life Insurance Co.
+
+
+United States Court of Appeals, Ninth Circuit
+847 F.2d 564 (1988)
+
+
+Kozinski, Circuit Judge:
+
+
+[1]The parties to this transaction are, by any standard, highly sophisticated business people: Plaintiff is a partnership consisting of an
+431
+insurance company and two of Los Angeles’ largest and most prestigious law firms; defendant is another insurance company. Dealing at arm’s length and from positions of roughly equal bargaining strength, they negotiated a commercial loan amounting to more than $56 million14. The contract documents are lengthy and detailed; they squarely address the precise issue that is the subject of this dispute; to all who read English, they appear to resolve the issue fully and conclusively.
+
+
+[2]Plaintiff nevertheless argues here, as it did below, that it is entitled to introduce extrinsic evidence that the contract means something other than what it says. This case therefore presents the question whether parties in California can ever draft a contract that is proof to parol evidence. Somewhat surprisingly, the answer is no.
+
+
+Facts
+
+
+[3]The facts are rather simple. Sometime in 1983 Security First Life Insurance Company and the law firms of Mitchell, Silberberg & Knupp and Manatt, Phelps, Rothenberg & Tunney formed a limited partnership for the purpose of constructing an office building complex on Olympic Boulevard in West Los Angeles. The partnership, Trident Center, the plaintiff herein, sought and obtained financing for the project from defendant, Connecticut General Life Insurance Company. The loan documents provide for a loan of $56,500,000 at 12 ¼ percent interest for a term of 15 years, secured by a deed of trust on the project. The promissory note provides that “[m]aker shall not have the right to prepay the principal amount hereof in whole or in part” for the first 12 years.
+
+
+[4]Everything was copacetic for a few years until interest rates began to drop. The 12 ¼ percent rate that had seemed reasonable in 1983 compared unfavorably with 1987 market rates and Trident started looking for ways of refinancing the loan to take advantage of the lower rates. Connecticut General was unwilling to oblige, insisting that the loan could not be prepaid for the first 12 years of its life, that is, until January 1996.
+
+
+[5]Trident then brought suit in state court seeking a declaration that it was entitled to prepay the loan now, subject only to a 10 percent prepayment fee. Connecticut General promptly removed to federal court and brought a motion to dismiss, claiming that the loan documents clearly and unambiguously precluded prepayment during the first 12 years. The district court agreed and dismissed Trident’s complaint. The court also “sua sponte, sanction[ed] the plaintiff for the filing of a frivolous lawsuit.” Order of Dismissal, No. CV 87–2712 JMI (Kx), at 3 (C.D. Cal. June 8, 1987). Trident appeals both aspects of the district court’s ruling.
+
+
+432
+Discussion
+
+
+I
+
+
+[6]Trident makes two arguments as to why the district court’s ruling is wrong. First, it contends that the language of the contract is ambiguous and proffers a construction that it believes supports its position. Second, Trident argues that, under California law, even seemingly unambiguous contracts are subject to modification by parol or extrinsic evidence. Trident faults the district court for denying it the opportunity to present evidence that the contract language did not accurately reflect the parties’ intentions.
+
+
+A.The Contract
+
+
+[7]As noted earlier, the promissory note provides that Trident “shall not have the right to prepay the principal amount hereof in whole or in part before January 1996.” Note at 6. It is difficult to imagine language that more clearly or unambiguously expresses the idea that Trident may not unilaterally prepay the loan during its first 12 years. Trident, however, argues that there is an ambiguity because another clause of the note provides that “[i]n the event of a prepayment resulting from a default hereunder or the Deed of Trust prior to January 10, 1996 the prepayment fee will be ten percent (10%).” Note at 6–7. Trident interprets this clause as giving it the option of prepaying the loan if only it is willing to incur the prepayment fee.
+
+
+[8]We reject Trident’s argument out of hand. In the first place, its proffered interpretation would result in a contradiction between two clauses of the contract; the default clause would swallow up the clause prohibiting Trident from prepaying during the first 12 years of the contract. The normal rule of construction, of course, is that courts must interpret contracts, if possible, so as to avoid internal conflict.
+
+
+[9]In any event, the clause on which Trident relies is not on its face reasonably susceptible to Trident’s proffered interpretation. Whether to accelerate repayment of the loan in the event of default is entirely Connecticut General’s decision. The contract makes this clear at several points. See Note at 4 (“in each such event [of default], the entire principal indebtedness, or so much thereof as may remain unpaid at the time, shall, at the option of Holder, become due and payable immediately” (emphasis added)); id. at 7 (“[i]n the event Holder exercises its option to accelerate the maturity hereof . . .” (emphasis added)); Deed of Trust ¶ 2.01, at 25 (“in each such event [of default], Beneficiary may declare all sums secured hereby immediately due and payable . . .” (emphasis added)). Even if Connecticut General decides to declare a default and accelerate, it “may rescind any notice of breach or default.” Id. ¶ 2.02, at 26. Finally, Connecticut General has the option of doing nothing at all: “Beneficiary reserves the right at its sole option to waive noncompliance by Trustor with
+433
+any of the conditions or covenants to be performed by Trustor hereunder.” Id. ¶ 3.02, at 29.
+
+
+[10]Once again, it is difficult to imagine language that could more clearly assign to Connecticut General the exclusive right to decide whether to declare a default, whether and when to accelerate, and whether, having chosen to take advantage of any of its remedies, to rescind the process before its completion.
+
+
+[11]Trident nevertheless argues that it is entitled to precipitate a default and insist on acceleration by tendering the balance due on the note plus the 10 percent prepayment fee. The contract language, cited above, leaves no room for this construction. It is true, of course, that Trident is free to stop making payments, which may then cause Connecticut General to declare a default and accelerate. But that is not to say that Connecticut General would be required to so respond. The contract quite clearly gives Connecticut General other options: It may choose to waive the default, or to take advantage of some other remedy such as the right to collect “all the income, rents, royalties, revenue, issues, profits, and proceeds of the Property.” Deed of Trust ¶ 1.18, at 22. By interpreting the contract as Trident suggests, we would ignore those provisions giving Connecticut General, not Trident, the exclusive right to decide how, when and whether the contract will be terminated upon default during the first 12 years.
+
+
+[12]In effect, Trident is attempting to obtain judicial sterilization of its intended default. But defaults are messy things; they are supposed to be. Once the maker of a note secured by a deed of trust defaults, its credit rating may deteriorate; attempts at favorable refinancing may be thwarted by the need to meet the trustee’s sale schedule; its cash flow may be impaired if the beneficiary takes advantage of the assignment of rents remedy; default provisions in its loan agreements with other lenders may be triggered. Fear of these repercussions is strong medicine that keeps debtors from shirking their obligations when interest rates go down and they become disenchanted with their loans.15 That Trident is willing to suffer the cost and delay of a lawsuit, rather than simply defaulting, shows far better than anything we might say that these provisions are having their intended effect. We decline Trident’s invitation to truncate the lender’s remedies and deprive Connecticut General of its bargained-for protection.
+
+
+B.Extrinsic Evidence
+
+
+[13]Trident argues in the alternative that, even if the language of the contract appears to be unambiguous, the deal the parties actually struck is
+434
+in fact quite different. It wishes to offer extrinsic evidence that the parties had agreed Trident could prepay at any time within the first 12 years by tendering the full amount plus a 10 percent prepayment fee. As discussed above, this is an interpretation to which the contract, as written, is not reasonably susceptible. Under traditional contract principles, extrinsic evidence is inadmissible to interpret, vary or add to the terms of an unambiguous integrated written instrument.
+
+
+[14]Trident points out, however, that California does not follow the traditional rule. Two decades ago the California Supreme Court in Pacific Gas & Electric Co. v. G.W. Thomas Drayage & Rigging Co., 69 Cal.2d 33, 442 P.2d 641, 69 Cal.Rptr. 561 (1968), turned its back on the notion that a contract can ever have a plain meaning discernible by a court without resort to extrinsic evidence. The court reasoned that contractual obligations flow not from the words of the contract, but from the intention of the parties. “Accordingly,” the court stated, “the exclusion of relevant, extrinsic evidence to explain the meaning of a written instrument could be justified only if it were feasible to determine the meaning the parties gave to the words from the instrument alone.” 69 Cal.2d at 38, 442 P.2d 641, 69 Cal.Rptr. 561. This, the California Supreme Court concluded, is impossible: “If words had absolute and constant referents, it might be possible to discover contractual intention in the words themselves and in the manner in which they were arranged. Words, however, do not have absolute and constant referents.” Id. In the same vein, the court noted that “[t]he exclusion of testimony that might contradict the linguistic background of the judge reflects a judicial belief in the possibility of perfect verbal expression. This belief is a remnant of a primitive faith in the inherent potency and inherent meaning of words.” Id. at 37, 442 P.2d 641, 69 Cal.Rptr. 561 (citation and footnotes omitted).16
+
+
+[15]Under Pacific Gas, it matters not how clearly a contract is written, nor how completely it is integrated, nor how carefully it is negotiated, nor how squarely it addresses the issue before the court: the contract cannot be rendered impervious to attack by parol evidence. If one side is willing to claim that the parties intended one thing but the agreement provides for another, the court must consider extrinsic evidence of possible ambiguity. If that evidence raises the specter of ambiguity where there was none before, the contract language is displaced and the intention of the parties must be divined from self-serving testimony offered by partisan witnesses whose recollection is hazy from passage of time and colored by their conflicting interests. We question whether this approach is more likely to
+435
+divulge the original intention of the parties than reliance on the seemingly clear words they agreed upon at the time.
+
+
+[16]Pacific Gas casts a long shadow of uncertainty over all transactions negotiated and executed under the law of California. As this case illustrates, even when the transaction is very sizeable, even if it involves only sophisticated parties, even if it was negotiated with the aid of counsel, even if it results in contract language that is devoid of ambiguity, costly and protracted litigation cannot be avoided if one party has a strong enough motive for challenging the contract. While this rule creates much business for lawyers and an occasional windfall to some clients, it leads only to frustration and delay for most litigants and clogs already overburdened courts.
+
+
+[17]It also chips away at the foundation of our legal system. By giving credence to the idea that words are inadequate to express concepts, Pacific Gas undermines the basic principle that language provides a meaningful constraint on public and private conduct. If we are unwilling to say that parties, dealing face to face, can come up with language that binds them, how can we send anyone to jail for violating statutes consisting of mere words lacking “absolute and constant referents”? How can courts ever enforce decrees, not written in language understandable to all, but encoded in a dialect reflecting only the “linguistic background of the judge”? Can lower courts ever be faulted for failing to carry out the mandate of higher courts when “perfect verbal expression” is impossible? Are all attempts to develop the law in a reasoned and principled fashion doomed to failure as “remnant[s] of a primitive faith in the inherent potency and inherent meaning of words”?
+
+
+[18]Be that as it may. While we have our doubts about the wisdom of Pacific Gas, we have no difficulty understanding its meaning, even without extrinsic evidence to guide us. As we read the rule in California, we must reverse and remand to the district court in order to give plaintiff an opportunity to present extrinsic evidence as to the intention of the parties in drafting the contract.17 It may not be a wise rule we are applying, but it is a rule that binds us. Erie R.R. Co. v. Tompkins, 304 U.S. 64, 78, 58 S.Ct. 817, 822, 82 L.Ed. 1188 (1938).
+
+
+II
+
+
+[19]In imposing sanctions on plaintiff, the district court stated:
+
+
+Pursuant to Fed. R. Civ. P. 11, the Court, sua sponte, sanctions the plaintiff for the filing of a frivolous lawsuit. The Court
+436
+concludes that the language in the note and deed of trust is plain and clear. No reasonable person, much less firms of able attorneys, could possibly misunderstand this crystal-clear language. Therefore, this action was brought in bad faith.
+
+
+Order of Dismissal at 3. Having reversed the district court on its substantive ruling, we must, of course, also reverse it as to the award of sanctions. While we share the district judge’s impatience with this litigation, we would suggest that his irritation may have been misdirected. It is difficult to blame plaintiff and its lawyers for bringing this lawsuit. With this much money at stake, they would have been foolish not to pursue all remedies available to them under the applicable law. At fault, it seems to us, are not the parties and their lawyers but the legal system that encourages this kind of lawsuit. By holding that language has no objective meaning, and that contracts mean only what courts ultimately say they do, Pacific Gas invites precisely this type of lawsuit.18 With the benefit of 20 years of hindsight, the California Supreme Court may wish to revisit the issue. If it does so, we commend to it the facts of this case as a paradigmatic example of why the traditional rule, based on centuries of experience, reflects the far wiser approach.
+
+
+Conclusion
+
+
+[20]The judgment of the district court is REVERSED. The case is REMANDED for reinstatement of the complaint and further proceedings in accordance with this opinion. The parties shall bear their own costs on appeal.
+
+
+———
+
+
+Notes
+
+
+1.When Trident locked itself into a loan at an interest rate of 12 ¼%, inflation seemed out of control and interest rates were rising faster than they had in anyone’s memory. It seemed to everyone that they would go on rising. This may have been the reason that Trident agreed to what seems in hindsight to have been a very bad deal. One lesson to take from this case is that as a lawyer negotiating deals and drafting documents you need to think of the ways in which conditions might change and make sure your client is protected if they do.
+
+
+2.The California Supreme Court limited Pacific Gas & Electric in Dore v. Arnold Worldwide, Inc., 39 Cal.4th 384, 46 Cal.Rptr.3d 668, 139 P.3d 56
+437
+(2006). In the process of hiring an account executive, an ad agency wrote him a letter which provided in part:
+
+
+Brook, please know that as with all of our company employees, your employment with Arnold Communications, Inc. is at will. This simply means that Arnold Communications has the right to terminate your employment with Arnold Communications, Inc. at any time.
+
+
+The agency required the executive to sign the letter. When he was terminated, the executive sued, alleging not only breach of contract, but also fraud and intentional infliction of emotional distress. His contract claim was that various oral representations, conduct, and documents had created an implied-in-fact contract that provided he would not be discharged except for cause.
+
+
+The trial court granted summary judgment for the ad agency on the implied-in-fact contract claim. The Court of Appeal reversed, stating that the letter did not specifically state he could be terminated without cause. The California Supreme Court reversed the Court of Appeals. The majority opinion noted that under Pacific Gas extrinsic evidence may be admitted only if the language is susceptible of the meaning proffered. It said: “As a matter of simple logic, [the phrase ‘at any time’] entails the notion of ‘with or without cause.’ ”
+
+
+Justice Baxter said in his concurring opinion that while the majority “to their credit” had chosen to apply Pacific Gas narrowly, it was susceptible to the broader interpretation given it in Trident Center. He quoted from that opinion and noted other criticisms of the opinion, including the later misgivings of Justice Mosk, who had joined in the Pacific Gas majority. Justice Baxter concluded that “it may be time for a fuller reconsideration of the meaning and scope of Pacific Gas.”
+
+
+A few years later, the California Court of Appeals further limited Pacific Gas & Electric in Abers v. Rounsavell, 189 Cal.App.4th 348, 116 Cal.Rptr.3d. 860 (2010). In Abers, the Court of Appeals did not acknowledge the broad “test of admissibility of extrinsic evidence” applied by the court in Pacific Gas, and instead followed the narrow application of Pacific Gas as applied by the Court in Dore. Quoting Justice Baxter’s concurrence, the Abers court noted that, “Written agreements whose language appears clear in the context of the parties’ dispute are not open to claims of ‘latent’ ambiguity.” Id. at 356. Concluding that “[i]f there is no patent or latent ambiguity, “ ‘the case is over.’ ” Id. at 357.
+
+
+Furthermore, the Dore and Abers courts elected not to use the language cited by the court in Pacific Gas which permitted the use of extrinsic evidence to prove language that was “fairly susceptible” to more than one meaning. Instead, these two courts only used the phrase “reasonably susceptible” regarding ambiguity in the contract language, and both courts seem to take a more four-corners approach to interpretation, which was the approach the Pacific Gas court intentionally avoided.
+
+
+438
+3.Even more recently, in Hot Rods, LLC v. Northrop Grumman Sys. Corp., 242 Cal. App. 4th 1166, 1176 (2015), the court held that a sentence in an integration clause stating “ ‘no extrinsic evidence whatsoever may be introduced in any judicial proceedings involving this Agreement’ ” expressed the intent of the parties “to bypass the general rule that consistent extrinsic evidence is admissible to explain the meaning of a contractual provision.” Attorneys are word people and will be held to mean what they say, especially in a written document.
+
+
+———
+
+
+Frigaliment Importing v. B.N.S. International Sales
+
+
+United States District Court for the Southern District of New York
+190 F. Supp. 116 (1960)
+
+
+Friendly, Circuit Judge.
+
+
+[1]The issue is, what is chicken? Plaintiff says “chicken” means a young chicken, suitable for broiling and frying. Defendant says “chicken” means any bird of that genus that meets contract specifications on weight and quality, including what it calls “stewing chicken” and plaintiff pejoratively terms “fowl.” Dictionaries give both meanings, as well as some others not relevant here. To support it, plaintiff sends a number of volleys over the net; defendant essays to return them and adds a few serves of its own. Assuming that both parties were acting in good faith, the case nicely illustrates Holmes’ remark “that the making of a contract depends not on the agreement of two minds in one intention, but on the agreement of two sets of external signs—not on the parties’ having meant the same thing but on their having said the same thing.” The Path of the Law, in Collected Legal Papers, p. 178. I have concluded that plaintiff has not sustained its burden of persuasion that the contract used “chicken” in the narrower sense.
+
+
+[2]The action is for breach of the warranty that goods sold shall correspond to the description. Two contracts are in suit. In the first, dated May 2, 1957, defendant, a New York sales corporation, confirmed the sale to plaintiff, a Swiss corporation, of
+
+
+US Fresh Frozen Chicken, Grade A, Government Inspected, Eviscerated 2 1/2–3 lbs. and 1 1/2–2 lbs. each all chicken individually wrapped in cryovac, packed in secured fiber cartons or wooden boxes, suitable for export scheduled May 10, 1957 pursuant to instructions from Penson & Co., New York.
+
+
+75,000
+
+
+lbs. 2 ½–3 lbs . . . . . . . . @ $33.00
+
+
+25,000
+
+
+lbs. 1 ½–2 lbs . . . . . . . . @ $36.50
+
+
+per 100 lbs. FAS New York
+
+
+439
+The second contract, also dated May 2, 1957, was identical save that only 50,000 lbs. of the heavier “chicken” were called for, the price of the smaller birds was $37 per 100 lbs., and shipment was scheduled for May 30. The initial shipment under the first contract was short but the balance was shipped on May 17. When the initial shipment arrived in Switzerland, plaintiff found, on May 28, that the 2 1/2–3 lbs. birds were not young chicken suitable for broiling and frying but stewing chicken or “fowl”; indeed, many of the cartons and bags plainly so indicated. Protests ensued. Nevertheless, shipment under the second contract was made on May 29, the 2 1/2–3 lbs. birds again being stewing chicken. Defendant stopped the transportation of these at Rotterdam.
+
+
+[3]This action followed . . .
+
+
+[4]Since the word “chicken” standing alone is ambiguous, I turn first to see whether the contract itself offers any aid to its interpretation. Plaintiff says the 1 1/2–2 lbs. birds necessarily had to be young chicken since the older birds do not come in that size, hence the 2 1/2–3 lbs. birds must likewise be young. This is unpersuasive—a contract for “apples” of two different sizes could be filled with different kinds of apples even though only one species came in both sizes. Defendant notes that the contract called not simply for chicken but for “US Fresh Frozen Chicken, Grade A, Government Inspected.” It says the contract thereby incorporated by reference the Department of Agriculture’s regulations, which favor its interpretation; I shall return to this after reviewing plaintiff’s other contentions.
+
+
+[5]The first hinges on an exchange of cablegrams which preceded execution of the formal contracts. The negotiations leading up to the contracts were conducted in New York between defendant’s secretary, Ernest R. Bauer, and a Mr. Stovicek, who was in New York for the Czechoslovak government at the World Trade Fair. A few days after meeting Bauer at the fair, Stovicek telephoned and inquired whether defendant would be interested in exporting poultry to Switzerland. Bauer then met with Stovicek, who showed him a cable from plaintiff dated April 26, 1957, announcing that they “are buyer” of 25,000 lbs. of chicken 2 1/2–3 lbs. weight, Cryovac packed, grade A Government inspected, at a price up to 33 cents per pound, for shipment on May 10, to be confirmed by the following morning, and were interested in further offerings. After testing the market for price, Bauer accepted, and Stovicek sent a confirmation that evening. Plaintiff stresses that, although these and subsequent cables between plaintiff and defendant, which laid the basis for the additional quantities under the first and for all of the second contract, were predominantly in German, they used the English word “chicken”; it claims this was done because it understood “chicken” meant young chicken whereas the German word, “Huhn,” included both “Brathuhn” (broilers) and “Suppenhuhn” (stewing chicken), and that defendant, whose officers
+440
+were thoroughly conversant with German, should have realized this. Whatever force this argument might otherwise have is largely drained away by Bauer’s testimony that he asked Stovicek what kind of chickens were wanted, received the answer “any kind of chickens,” and then, in German, asked whether the cable meant “Huhn” and received an affirmative response . . .
+
+
+[6]Plaintiff’s next contention is that there was a definite trade usage that “chicken” meant “young chicken.” Defendant showed that it was only beginning in the poultry trade in 1957, thereby bringing itself within the principle that “when one of the parties is not a member of the trade or other circle, his acceptance of the standard must be made to appear” by proving either that he had actual knowledge of the usage or that the usage is “so generally known in the community that his actual individual knowledge of it may be inferred.” 9 Wigmore, Evidence (3d ed. § 1940) 2464. Here there was no proof of actual knowledge of the alleged usage; indeed, it is quite plain that defendant’s belief was to the contrary. In order to meet the alternative requirement, the law of New York demands a showing that “the usage is of so long continuance, so well established, so notorious, so universal and so reasonable in itself, as that the presumption is violent that the parties contracted with reference to it, and made it a part of their agreement.” Walls v. Bailey, 1872, 49 N.Y. 464, 472–73.
+
+
+[7]Plaintiff endeavored to establish such a usage by the testimony of three witnesses and certain other evidence. Strasser, resident buyer in New York for a large chain of Swiss cooperatives, testified that “on chicken I would definitely understand a broiler.” However, the force of this testimony was considerably weakened by the fact that in his own transactions the witness, a careful businessman, protected himself by using “broiler” when that was what he wanted and “fowl” when he wished older birds. Indeed, there are some indications, dating back to a remark of Lord Mansfield, Edie v. East India Co., 2 Burr. 1216, 1222 (1761), that no credit should be given “witnesses to usage, who could not adduce instances in verification.” 7 Wigmore, Evidence (3d ed. 1940), § 1954; see McDonald v. Acker, Merrall & Condit Co., 2d Dept.1920, 192 App.Div. 123, 126, 182 N.Y.S. 607. While Wigmore thinks this goes too far, a witness’ consistent failure to rely on the alleged usage deprives his opinion testimony of much of its effect. Niesielowski, an officer of one of the companies that had furnished the stewing chicken to defendant, testified that “chicken” meant “the male species of the poultry industry. That could be a broiler, a fryer or a roaster,” but not a stewing chicken; however, he also testified that upon receiving defendant’s inquiry for “chickens,” he asked whether the desire was for “fowl or frying chickens” and, in fact, supplied fowl, although taking the precaution of asking defendant, a day or two after plaintiff’s acceptance of the contracts in suit, to change its confirmation of its order from “chickens,” as defendant had originally prepared it, to “stewing chickens.”
+441
+Dates, an employee of Urner-Barry Company, which publishes a daily market report on the poultry trade, gave it as his view that the trade meaning of “chicken” was “broilers and fryers.” In addition to this opinion testimony, plaintiff relied on the fact that the Urner-Barry service, the Journal of Commerce, and Weinberg Bros. & Co. of Chicago, a large supplier of poultry, published quotations in a manner which, in one way or another, distinguish between “chicken,” comprising broilers, fryers and certain other categories, and “fowl,” which, Bauer acknowledged, included stewing chickens. This material would be impressive if there were nothing to the contrary. However, there was, as will now be seen.
+
+
+[8]Defendant’s witness Weininger, who operates a chicken eviscerating plant in New Jersey, testified “Chicken is everything except a goose, a duck, and a turkey. Everything is a chicken, but then you have to say, you have to specify which category you want or that you are talking about.” Its witness Fox said that in the trade “chicken” would encompass all the various classifications. Sadina, who conducts a food inspection service, testified that he would consider any bird coming within the classes of “chicken” in the Department of Agriculture’s regulations to be a chicken. The specifications approved by the General Services Administration include fowl as well as broilers and fryers under the classification “chickens.” Statistics of the Institute of American Poultry Industries use the phrases “Young chickens” and “Mature chickens,” under the general heading “Total chickens.” and the Department of Agriculture’s daily and weekly price reports avoid use of the word “chicken” without specification.
+
+
+[9]Defendant advances several other points which it claims affirmatively support its construction. Primary among these is the regulation of the Department of Agriculture, 7 C.F.R. § 70.300–70.370, entitled, “Grading and Inspection of Poultry and Edible Products Thereof.” And in particular 70.301 which recited:
+
+
+Chickens. The following are the various classes of chickens:
+
+
+(a)Broiler or fryer . . .
+
+
+(b)Roaster . . .
+
+
+(c)Capon . . .
+
+
+(d)Stag . . .
+
+
+(e)Hen or stewing chicken or fowl . . .
+
+
+(f)Cock or old rooster. . . .
+
+
+[10]Defendant argues, as previously noted, that the contract incorporated these regulations by reference. Plaintiff answers that the contract provision related simply to grade and Government inspection and did not incorporate the Government definition of “chicken,” and also that the definition in the Regulations is ignored in the trade. However, the
+442
+latter contention was contradicted by Weininger and Sadina; and there is force in defendant’s argument that the contract made the regulations a dictionary, particularly since the reference to Government grading was already in plaintiff’s initial cable to Stovicek.
+
+
+[11]Defendant makes a further argument based on the impossibility of its obtaining broilers and fryers at the 33 cents price offered by plaintiff for the 2 1/2–3 lbs. birds. There is no substantial dispute that, in late April, 1957, the price for 2 1/2–3 lbs. broilers was between 35 and 37 cents per pound, and that when defendant entered into the contracts, it was well aware of this and intended to fill them by supplying fowl in these weights. It claims that plaintiff must likewise have known the market since plaintiff had reserved shipping space on April 23, three days before plaintiff’s cable to Stovicek, or, at least, that Stovicek was chargeable with such knowledge. It is scarcely an answer to say, as plaintiff does in its brief, that the 33 cents price offered by the 2 ½–3 lbs. “chickens” was closer to the prevailing 35 cents price for broilers than to the 30 cents at which defendant procured fowl. Plaintiff must have expected defendant to make some profit—certainly it could not have expected defendant deliberately to incur a loss.
+
+
+[12]Finally, defendant relies on conduct by the plaintiff after the first shipment had been received. On May 28 plaintiff sent two cables complaining that the larger birds in the first shipment constituted fowl. Defendant answered with a cable refusing to recognize plaintiff’s objection and announcing “We have today ready for shipment 50,000 lbs. chicken 2 1/2–3 lbs. 25,000 lbs. broilers 1 1/2–2 lbs.,” these being the goods procured for shipment under the second contract, and asked immediate answer “whether we are to ship this merchandise to you and whether you will accept the merchandise.” After several other cable exchanges, plaintiff replied on May 29 “Confirm again that merchandise is to be shipped since resold by us if not enough pursuant to contract chickens are shipped the missing quantity is to be shipped within ten days stop we resold to our customers pursuant to your contract chickens grade A you have to deliver us said merchandise we again state that we shall make you fully responsible for all resulting costs.”19 Defendant argues that if plaintiff was sincere in thinking it was entitled to young chickens, plaintiff would not have allowed the shipment under the second contract to go forward, since the distinction between broilers and chickens drawn in defendant’s cablegram must have made it clear that the larger birds would not be broilers. However, plaintiff answers that the cables show plaintiff was insisting on delivery of young chickens and that defendant shipped old ones at its peril. Defendant’s point would be highly relevant on another disputed issue—whether if liability were established, the measure of damages should be the difference in market value of broilers and stewing chicken in
+443
+New York or the larger difference in Europe, but I cannot give it weight on the issue of interpretation. Defendant points out also that plaintiff proceeded to deliver some of the larger birds in Europe, describing them as “poulets”; defendant argues that it was only when plaintiff’s customers complained about this that plaintiff developed the idea that “chicken” meant “young chicken.” There is little force in this in view of plaintiff’s immediate and consistent protests.
+
+
+[13]When all the evidence is reviewed, it is clear that defendant believed it could comply with the contracts by delivering stewing chicken in the 2 1/2–3 lbs. size. Defendant’s subjective intent would not be significant if this did not coincide with an objective meaning of “chicken.” Here it did coincide with one of the dictionary meanings, with the definition in the Department of Agriculture Regulations to which the contract made at least oblique reference, with at least some usage in the trade, with the realities of the market, and with what plaintiff’s spokesman had said. Plaintiff asserts it to be equally plain that plaintiff’s own subjective intent was to obtain broilers and fryers; the only evidence against this is the material as to market prices and this may not have been sufficiently brought home. In any event it is unnecessary to determine that issue. For plaintiff has the burden of showing that “chicken” was used in the narrower rather than in the broader sense, and this it has not sustained. This opinion constitutes the Court’s findings of fact and conclusions of law. Judgment shall be entered dismissing the complaint with costs.
+
+
+———
+
+
+Notes and Questions
+
+
+1.More recently, ambiguity about the meaning of a German word led to litigation in the United States. An officer of Deutsche Bank, a large German bank, told an interviewer from Der Spiegel, a German publication, that Deutsche Bank and Bankers Trust Corp., a large U.S. Bank had been were not involved in “Übernahmegespräche.” Shortly thereafter, Deutsche Bank took over Bankers Trust. At the time of the interview, the two banks were engaged in preliminary talks about the takeover.
+
+
+After the takeover a group of investors sued in New York claiming damages for false and misleading statements made in violation of United States securities laws. They claimed that the German term “Übernahmegespräche” is the equivalent of the English term “takeover talks” (which is its literal translation) and that the parties were clearly engaged in takeover talks at the time of the interview. The defendants claimed that “Übernahmegespräche” is not the equivalent of the English “takeover talks.” They said that the English term “takeover talks” encompasses any talks about a corporate takeover, whereas, the German term, “Übernahmegespräche” is used only to describe formal and structured talks in which the parties share confidential information.
+
+
+444
+In April, 2002, a federal court refused to grant the defendants a summary judgment, saying that the meaning of the word was a question of fact that would have to be decided at trial. Buxbaum v. Deutsche Bank AG, 196 F. Supp.2d 367 (S.D.N.Y. 2002). The case was thereafter settled, but only after the parties had conducted extensive (and expensive) discovery. See Buxbaum v. Deutsche Bank AG, 216 F.R.D. 72 (S.D.N.Y. 2003).
+
+
+2.The Supreme Court of Delaware has explained the principles governing contract interpretation as follows:
+
+
+The principles governing contract interpretation are well settled. Contracts must be construed as a whole, to give effect to the intentions of the parties. Where the contract language is clear and unambiguous, the parties’ intent is ascertained by giving the language its ordinary and usual meaning. Courts consider extrinsic evidence to interpret the agreement only if there is an ambiguity in the contract. Northwestern Nat’l. Ins. Co. v. Esmark, Inc., 672 A.2d 41, 43 (Del. 1996).
+
+
+The court must determine whether a contract is ambiguous by reviewing the entire contract. Pisano v. Delaware Solid Waste Auth., 2006 WL 3457686 (Del. Super. Ct. 2006). “Ambiguity only exists when the contract’s terms are ‘reasonably or fairly susceptible of different interpretations’ or if the terms may have more than one meaning.” Id. (quoting Rhone-Poulenc Basic Chemicals Co. v. American Motorists, Ins. Co., 616 A.2d 1192, 1195 (Del.Supr. 1992)). The court will not create ambiguity where the ordinary meaning of the terms leaves no room for uncertainty. Id. (citing Rhoune, 616 A.2d at 1197). “If the language is clear and unequivocal, the parties are bound by its plain meaning.” Id. (citing Emmons v. Hartford Underwriters Ins. Co., 697 A.2d 742, 745 (Del. 1997)).
+
+
+3.The four-corners rule is, in many ways, the product of the objective theory of contracts that was introduced in Chapter 1 and that underlies many of the other concepts covered in following chapters. The objective theory of contracts is the bedrock of Anglo-American, common-law contract doctrine. It stands in marked contrast to the approach of jurisdictions governed by the civil law. For example, the German Civil Code, section 133, provides, in translation: “In the interpretation of a declaration of will, the real intention is to be ascertained, and the literal sense of what is expressed is not to be followed.” Similarly, the French Civil Code, article 1156, states “One must in agreement seek what the common intention of the contracting parties was, rather than pay attention to the literal meaning of terms.” Thinking back on Justice Traynor’s opinion in the Pacific Gas and Electric case, was he embracing the civil law system and rejecting the common-law objective theory of contracts?
+
+
+4.A fairly recent California case may have significant effects on the way contract interpretation cases are decided. The court in City of Hope Nat’l Med. Ctr. v. Genentech, 43 Cal.4th 375, 181 P.3d 142, 75 Cal.Rptr.3d 333 (Cal. 2008), questioned the role juries should play in determining the validity of conflicting extrinsic evidence and how the resulting ambiguities should be construed. The court held that the jury could properly decide both issues or decide the evidence
+445
+question alone and allow the judge to decide against whom the conflict should be interpreted. So drafters wishing to avoid jury interpretation of a contract may want to include boilerplate that provides for arbitration or judicial review of conflicting evidence.
+
+
+5.It is fairly common for contract boilerplate to include an acknowledgement that the document has been mutually negotiated in an attempt to block application of the maxim that ambiguities are to be construed against the drafter. Whether or not such a self-serving provision will be enforced will depend upon the facts of each case; but the argument can only be made if the provision is present.
+
+
+6.Is a burrito a sandwich? The question was litigated in Worchester, Mass., in 2006. When a shopping center that already leased space to a Panera bakery decided to lease space to Qdoba Mexican Grill, Panera pointed to a restrictive use covenant in its lease that prohibited the center from leasing to another sandwich shop. Panera took the position that a burrito was the Mexican equivalent of a sandwich and took the matter to court, seeking an injunction to prevent Qdoba from setting up its operations. Expert witnesses from the culinary world submitted declarations on both sides of the issue. The court ruled that a burrito is not a sandwich. See Jenn Abelson, Arguments Spread Thick: Rivals Aren’t Serving Same Food, Judge Rules, Worchester Globe (November 10, 2006). Thinking about the “objectivity” of the objective theory of contracts, one may wonder if the decision would have been the same in Imperial Beach, California, or Tucson, Arizona. And what about the humble “wrap”? Is that a sandwich? It sure looks like a burrito.
+
+
+7.Judge Posner once posited that the goals of a system of contract interpretation should be to minimize transaction costs. He divides these transaction costs into two types or stages of costs, drafting-stage costs and litigation stage costs. Faced with a gap in meaning caused by an omission or ambiguity in the parties’ drafting of the contract, he describes five approaches that the court might take, each with attendant costs and benefits:
+
+
+1.Try to determine what the parties really meant; assume that they had covered the issue but failed to incorporate it into the contract.
+
+
+2.Try to determine what resolution the parties would have agreed to if they had thought about the issue when negotiating the contract.
+
+
+3.Pick the economically efficient solution and assume that is what the parties intended.
+
+
+4.Treat the matter as a toss-up and use some rule like “construe the contract against the drafter” to resolve the matter.
+
+
+5.Pretend that written agreements are always complete integrations and exclude all other evidence.
+
+
+446
+Richard A. Posner, The Law and Economics of Contract Interpretation, 83 Tex. L. Rev. 1581 (2005). Which approach do you think is superior? Why?
+
+
+8.In Individual Healthcare Specialists, Inc. v. BlueCross BlueShield of Tennessee, Inc., 566 S.W.3d 671 (Tenn. 2019), one of the issues being litigated involved an indemnity provision that was substantially the same as the one from Pacific Gas which began this chapter. Individual Healthcare Specialists, Inc. (IHS) argued that an inter-party indemnity provision was a “key issue” during their negotiations with BlueCross (BC), because IHS (a much smaller corporation) wanted to ensure they could recover attorney fees from BC in case of litigation. BC argues that “if the parties wanted to impose fee-shifting obligations in litigation between themselves, it was incumbent on them to adopt a contractual provision clearly and unequivocally doing so.” The Tennessee Supreme Court agreed with BC, and held that the parties’ agreement failed to do so.
+
+
+The question before the court was whether the language in the indemnity provision was sufficiently specific enough to apply to the recovery of attorney fees in this inter-party lawsuit, which the court ultimately held it was not. It is interesting to note that in the 50+ years from Pacific Gas to BlueCross, attorneys are still drafting indemnity clauses that are ambiguous as to whether they are third-party, or inter-party clauses. There is a lot of bad lawyering going on out there, and you should focus on how to avoid this and similar problems, because these clauses should not have to go all the way to the Supreme Courts of various states.
+
+
+(a)How should you draft an indemnity clause if your client wants to indemnify only third parties, to ensure you avoid this issue?
+
+
+(b)How should you draft an indemnity clause if your client wants to indemnify the other party to the agreement, to ensure you avoid this issue?
+
+
+(c)Should one have to specify if attorneys’ fees are within the scope of indemnity? Historically, attorneys’ fees have been treated differently than other forms of damages in the United States. Do you think that distinction makes sense?
+
+
+Lawyering Skills Problem
+
+
+This is less of a problem than a story that illustrates how important punctuation can be to contract interpretation—and how a misplaced comma cost one company $2.13 million:
+
+
+In 2002, Rogers Communications Inc. signed a contract with Aliant Inc., meaning to have entered into a long term agreement at a favorable rate. In 2005 they were surprised, therefore, when Aliant implemented a rate hike and were supported in this effort by the Canadian regulatory body with jurisdiction over the matter.
+
+
+447
+On page 7 of the contract a provision stated that the agreement “shall continue in force for a period of five years from the date it is made, and thereafter for successive five year terms, unless and until terminated by one year prior notice in writing by either party.”
+
+
+The problem, you see, is with the second comma in the quoted provision, which makes the contract terminable “at any time, without cause, upon one-year’s written notice” in the words of the Canadian regulators. Without the second comma, the termination provision would apply only to successive terms, not to the original five-year term, which appears to be what the folks at Rogers Communication had in mind. But Aliant read the contract and sought to enforce its literal terms, and the regulators agreed.
+
+
+The lesson is clear. Due to the parol evidence rule and the four corners rule, careful wording and punctuation in contracts is critical to transactional practice, and mistakes in these areas provide ample fodder for litigation over the interpretation of contracts.
+
+
+Attention to detail is essential to the successful practice of law.
+
+
+1. [$22,144.51 in 1968 dollars is roughly the equivalent of $160,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+2. E.g., “The elaborate system of taboo and verbal prohibitions in primitive groups; the ancient Egyptian myth of Khern, the apotheosis of the word, and of Thoth, the Scribe of Truth, the Giver of Words and Script, the Master of Incantations; the avoidance of the name of God in Brahmanism, Judaism and Islam; totemistic and protective names in mediaeval Turkish and Finno-Ugrian languages; the misplaced verbal scruples of the ‘Pre cieuses’; the Swedish peasant custom of curing sick cattle smitten by witchcraft, by making them swallow a page torn out of the psalter and put in dough. . . .” from Ullman, The Principles of Semantics 43 (1963 ed.). See also Ogden and Richards, The Meaning of Meaning, 24–47 (rev. ed. 1956).
+
+
+3. “Rerum enim vocabula immutabilia sunt, homines mutabilia,” (Words are unchangeable, men changeable) from Dig. XXXIII, 10, 7, § 2, de sup. leg. as quoted in 9 Wigmore on Evidence187 § 2461.
+
+
+4. Extrinsic evidence of trade usage or custom has been admitted to show that the term “United Kingdom” in a motion picture distribution contract included Ireland (Ermolieff v. R.K.O. Radio Pictures, 19 Cal.2d 543, 549–52, 122 P.2d 3 (1942)); that the word “ton” in a lease meant a long ton or 2,240 pounds and not the statutory ton of 2,000 pounds (Higgins v. Cal. Petroleum, etc., Co., 120 Cal. 629, 630–32, 52 P. 1080 (1898)); that the word “stubble” in a lease included not only stumps left in the ground but everything “left on the ground after the harvest time” (Callahan v. Stanley, 57 Cal. 476, 477–79 (1881)); that the term “north” in a contract dividing mining claims indicated a boundary line running along the “magnetic and not the true meridian” (Jenny Lind Co. v. Bower & Co., 11 Cal. 194, 197–99 (1858)) and that a form contract for purchase and sale was actually an agency contract (Body-Steffner Co. v. Flotill Products, 63 Cal.App.2d 555, 558–62, 147 P.2d 84 (1944)).
+
+
+5. The court’s exclusion of extrinsic evidence in this case would be error even under a rule that excluded such evidence when the instrument appeared to the court to be clear and unambiguous on its face. The controversy centers on the meaning of the word “indemnify” and the phrase “all loss, damage, expense and liability.” The trial court’s recognition of the language as typical of a third party indemnity clause and the double sense in which the word “indemnify” is used in statutes and defined in dictionaries demonstrate the existence of an ambiguity. (Compare Civ.Code, § 2772, “Indemnity is a contract by which one engages to save another from a legal consequence of the conduct of one of the parties, or of some other person,” with Civ. Code, § 2527, “Insurance is a contract whereby one undertakes to indemnify another against loss, damage, or liability, arising from an unknown or contingent event.”) Black’s Law Dictionary (4th ed. 1951) defines “indemnity” as “A collateral contract or assurance, by which one person engages to secure another against an anticipated loss or to prevent him from being damnified by the legal consequences of an act or forbearance on the part of one of the parties or of some third person.” Stroud’s Judicial Dictionary (2d ed. 1903) defines it as a “Contract . . . to indemnify against a liability. . . .”
+
+
+6. Amicus Curiae Professor George Kuney is in general alignment with this position, arguing that a court’s consideration of the context of an agreement as well as its language is more likely to result in interpretation that reflects the intentions of the parties.
+
+
+7. In general, under the plain meaning rule, if language in a contract is initially deemed unambiguous, its “plain meaning” should be used, without recourse to matters extraneous to the text of the agreement. See Black’s Law Dictionary 1336 (10th ed. 2014).
+
+
+8. As discussed below, the four corners rule appears to be stated in two ways; first, that a contract’s meaning is gathered from the entire document rather than its isolated parts, and second, that extraneous evidence is not used to interpret a contract that is deemed unambiguous. See Black’s Law Dictionary 772 (10th ed. 2014).
+
+
+9. Formulations of the so-called “parol evidence rule” vary, but in general it provides that “a writing intended by the parties to be a final embodiment of their agreement cannot be modified by evidence of earlier or contemporaneous agreements that might add to, vary, or contradict the writing.” Black’s Law Dictionary 1292 (10th ed. 2014).
+
+
+10. The term “extrinsic evidence” includes any “[e]vidence relating to a contract but not appearing on the face of the contract because it comes from other sources, such as statements between the parties or the circumstances surrounding the agreement.” Black’s Law Dictionary 675 (10th ed. 2014). Unless a particular type of extrinsic evidence is at issue, courts often refer to all extra-contractual evidence as “extrinsic evidence.”
+
+
+11. The sometimes harsh results resulting from the textual rules engendered numerous exceptions to rigid enforcement. See, e.g., Hines v. Wilcox, 96 Tenn. 148, 33 S.W. 914, 914–15 (Tenn. 1896) (listing multiple exceptions to the parol evidence rule).
+
+
+12. In addition, some judges and commentators came to criticize the “ambiguous versus unambiguous” dichotomy used in textualism an arbitrary barrier to the use of important tools for interpreting contracts and statutes. See Lawrence M. Solan, Pernicious Ambiguity in Contracts and Statutes, 79 Chi.-Kent L. Rev. 859, 859 (2004) (“The problem, perhaps ironically, is that the concept of ambiguity is itself perniciously ambiguous.”); Ward Farnsworth et al., Ambiguity About Ambiguity: An Empirical Inquiry into Legal Interpretation, 2 J. Legal Analysis 257, 276 (2010) (“If one person says that both proposed readings of [legal text] seem plausible, and a colleague disagrees, finding one reading too strained, what is there to do about it but for each to stamp his foot?”).
+
+
+13. See, e.g., Trident Ctr. v. Conn. Gen. Life Ins. Co., 847 F.2d 564, 569 (9th Cir. 1988); Gen. Tire & Rubber Co. v. Firestone Tire & Rubber Co., 489 F.2d 1105, 1123–24 (6th Cir. 1973); Alameda Cnty. Flood Control & Water Conservation Dist. v. Dep’t of Water Res., 213 Cal. App. 4th 1163, 1188–89, 152 Cal. Rptr. 3d 845 (2013).
+
+
+14[$56,000,000 in 1968 dollars is roughly the equivalent of $404,000,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+15. This provides a symmetry with the situation where interest rates go up and it is the lender who is stuck with a loan it would prefer to turn over at market rates. In an economy where interest rates fluctuate, it is all but certain that one side or the other will be dissatisfied with a long-term loan at some time. Mutuality calls for enforcing the contract as written no matter whose ox is being gored.
+
+
+16. In an unusual footnote, the court compared the belief in the immutable meaning of words with “ ‘[t]he elaborate system of taboo and verbal prohibitions in primitive groups . . . [such as] the Swedish peasant custom of curing sick cattle smitten by witchcraft, by making them swallow a page torn out of the psalter and put in dough . . .’ ” Id. n. 2 (quoting Ullman, The Principles of Semantics 43 (1963)).
+
+
+17. Nothing we say should be construed as foreclosing Connecticut General from moving for summary judgment after completion of discovery; given the unambiguous language of the contract itself, such a motion would succeed unless Trident were to come forward with extrinsic evidence sufficient to render the contract reasonably susceptible to Trident’s alternate interpretation, thereby creating a genuine issue of fact resolvable only at trial.
+
+
+18. This is not to say, of course, that all lawsuits seeking to challenge the interpretation of facially unambiguous contracts are necessarily immune from imposition of sanctions. Even under Pacific Gas, a party urging an interpretation lacking any objectively reasonable basis in fact might well be subject to sanctions for bringing a frivolous lawsuit. [Practically speaking, this is a largely un-meetable standard.—Eds.]
+
+
+19 These cables were in German; “chicken,” “broilers” and, on some occasions, “fowl,” were in English.

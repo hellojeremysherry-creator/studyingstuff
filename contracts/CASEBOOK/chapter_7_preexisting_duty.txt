@@ -1,0 +1,558 @@
+﻿205
+Chapter 7: Pre-Existing Duty and Past Consideration
+
+
+Closely related to quasi-contract is the subject of the pre-existing duty rule and past consideration. Consider a perfectly valid contract, featuring offer, acceptance, and consideration: The agreement of A to sell and B to buy A’s car for $14,000. After making this contract, though, A suffers from seller’s remorse and tells B, “The car is worth $15,000 and I won’t sell it to you for a penny less.” Rather than sue for breach, B, who really needs a car, agrees to pay the additional $1,000. Is the new contract supported by consideration?
+
+
+The answer is “no.” The problem is that A was under a pre-existing duty to sell the car to B for $14,000, who has now gratuitously agreed to pay $1,000 more, or a total of $15,000, for it. This situation involves a failure of consideration due to “pre-existing duty.”
+
+
+Similarly, what about the situation where a party has benefitted from the actions of another and then agrees to compensate them for the benefit conferred. For example, upon arriving home one day, C finds that D had mowed his lawn under the mistaken belief that she was mowing E’s lawn, the subject of a new lawn service contract. C, pleased with the unasked for work, tells D: “No problem—I’ll pay you $50 by next Tuesday for today’s mowing job.” Is C’s agreement to pay supported by consideration?
+
+
+Again, the answer is “no.” Here, D, the party to be paid, is not promising to do or forebear from doing anything. D has already mistakenly and gratuitously performed. There is no consideration because things done in the past generally cannot serve as consideration.
+
+
+The rules in this area are far from consistent. With regard to modifications of contracts that present the pre-existing duty problem, the traditional common law rule was that the contract as modified was not enforceable. The original unmodified contract still had force. This was justified by a policy of preventing “hold-ups,” the situation where one party’s negotiating leverage increases post-contracting and that party attempts to unilaterally change the terms of the contract to its benefit.
+
+
+Under the U.C.C. and similar more modern regimes, however, the pre-existing duty rule has been abolished and its place is occupied by a general requirement of good faith. This leaves the hold-up problem to be addressed
+206
+by other doctrines, notably economic duress (Chapter 11) and even unconscionability (Chapter 12). This means that, in the prior example regarding the sale of A’s car, A and B would be able to enforceably modify the contract to provide for that higher price if it was in good faith (e.g., A found out the car was worth more than he had thought, perhaps). Depending on the jurisdiction and the type of contract involved, either the common law or the U.C.C. rule could be applied, as the cases in the first half of this chapter indicate.
+
+
+In the case of past consideration, the traditional common law approach would also find the contract unsupported by consideration and unenforceable. This could lead to unjust results, especially where there had been part performance by the promissor or reliance by the promissee. For example, an employee might retire from a job and not seek other employment in reliance on another’s promise to pay her an annual pension. Enforcement of such contracts based upon part performance or reliance is permitted in various jurisdictions, as the cases in the second half of this chapter demonstrate.
+
+
+———
+
+
+A.THE PRE-EXISTING DUTY RULE
+
+
+Alaska Packers’ Ass’n v. Domenico, Circuit Court of Appeals, Ninth Circuit, 117 F. 99 (1902)
+Appeal from the District Court of the United States for the Northern District of California.
+
+
+Ross, Circuit Judge.
+
+
+[1]The libel1 in this case was based upon a contract alleged to have been entered into between the libelants and the appellant corporation on the 22d day of May, 1900, at Pyramid Harbor, Alaska, by which it is claimed the appellant promised to pay each of the libelants, among other things, the sum of $100 for services rendered and to be rendered. In its answer the respondent denied the execution, on its part, of the contract sued upon, averred that it was without consideration, and for a third defense alleged that the work performed by the libelants for it was performed under other and different contracts than that sued on, and that, prior to the filing of the libel, each of the libelants was paid by the respondent the full amount due him thereunder, in consideration of which
+207
+each of them executed a full release of all his claims and demands against the respondent.
+
+
+[2]The evidence shows without conflict that on March 26, 1900, at the city and county of San Francisco, the libelants entered into a written contract with the appellants, whereby they agreed to go from San Francisco to Pyramid Harbor, Alaska, and return, on board such vessel as might be designated by the appellant, and to work for the appellant during the fishing season of 1900, at Pyramid Harbor, as sailors and fishermen, agreeing to do “regular ship’s duty, both up and down, discharging and loading; and to do any other work whatsoever when requested to do so by the captain or agent of the Alaska Packers’ Association.” By the terms of this agreement, the appellant was to pay each of the libelants $50 for the season,2 and two cents for each red salmon in the catching of which he took part.
+
+
+[3]On the 15th day of April, 1900, 21 of the libelants signed shipping articles by which they shipped as seamen on the Two Brothers, a vessel chartered by the appellant for the voyage between San Francisco and Pyramid Harbor, and also bound themselves to perform the same work for the appellant provided for by the previous contract of March 26th; the appellant agreeing to pay them therefor the sum of $60 for the season, and two cents each for each red salmon in the catching of which they should respectively take part. Under these contracts, the libellants sailed on board the Two Brothers for Pyramid Harbor, where the appellants had about $150,000 invested in a salmon cannery. The libellants arrived there early in April of the year mentioned, and began to unload the vessel and fit up the cannery. A few days thereafter, to wit, May 19th, they stopped work in a body, and demanded of the company’s superintendent there in charge $100 for services in operating the vessel to and from Pyramid Harbor, instead of the sums stipulated for in and by the contracts; stating that unless they were paid this additional wage they would stop work entirely, and return to San Francisco. The evidence showed, and the court below found, that it was impossible for the appellant to get other men to take the places of the libelants, the place being remote, the season short and just opening; so that, after endeavoring for several days without success to induce the libelants to proceed with their work in accordance with their contracts, the company’s superintendent, on the 22nd day of May, so far yielded to their demands as to instruct his clerk to copy the contracts executed in San Francisco, including the words “Alaska Packers’ Association” at the end, substituting, for the $50 and $60 payments, respectively, of those contracts, the sum of $100, which document, so prepared, was signed by the libelants before a shipping commissioner whom they had requested to be brought from Northeast Point; the
+208
+superintendent, however, testifying that he at the time told the libelants that he was without authority to enter into any such contract, or to in any way alter the contracts made between them and the company in San Francisco. Upon the return of the libelants to San Francisco at the close of the fishing season, they demanded pay in accordance with the terms of the alleged contract of May 22nd, when the company denied its validity, and refused to pay other than as provided for by the contracts of March 26th and April 5th, respectively. Some of the libelants, at least, consulted counsel, and, after receiving his advice, those of them who had signed the shipping articles before the shipping commissioner at San Francisco went before that officer, and received the amount due them thereunder, executing in consideration thereof a release in full, and the others paid at the office of the company, also receipting in full for their demands.
+
+
+[4]On the trial in the court below, the libelants undertook to show that the fishing nets provided by the respondent were defective, and that it was on that account that they demanded increased wages. On that point, the evidence was substantially conflicting, and the finding of the court was against the libelants the court saying:
+
+
+The contention of libelants that the nets provided them were rotten and unserviceable is not sustained by the evidence. The defendants’ interest required that libelants should be provided with every facility necessary to their success as fishermen, for on such success depended the profits defendant would be able to realize that season from its packing plant, and the large capital invested therein. In view of this self-evident fact, it is highly improbable that the defendant gave libelants rotten and unserviceable nets with which to fish. It follows from this finding that libelants were not justified in refusing performance of their original contract.
+
+
+112 Fed. 554.
+
+
+[5]The evidence being sharply conflicting in respect to these facts, the conclusions of the court, who heard and saw the witnesses, will not be disturbed.
+[6]The real questions in the case as brought here are questions of law, and, in the view that we take of the case, it will be necessary to consider but one of those. Assuming that the appellant’s superintendent at Pyramid Harbor was authorized to make the alleged contract of May 22nd, and that he executed it on behalf of the appellant, was it supported by a sufficient consideration? From the foregoing statement of the case, it will have been seen that the libelants agreed in writing, for certain stated compensation, to render their services to the appellant in remote waters where the season for conducting fishing operations is extremely short, and in which enterprise the appellant had a large amount of money invested;
+209
+and, after having entered upon the discharge of their contract, and at a time when it was impossible for the appellant to secure other men in their places, the libelants, without any valid cause, absolutely refused to continue the services they were under contract to perform unless the appellant would consent to pay them more money. Consent to such a demand, under such circumstances, if given, was, in our opinion, without consideration, for the reason that it was based solely upon the libelants’ agreement to render the exact services, and none other, that they were already under contract to render. The case shows that they willfully and arbitrarily broke that obligation. As a matter of course, they were liable to the appellant in damages, and it is quite probable, as suggested by the court below in its opinion, that they may have been unable to respond in damages. But we are unable to agree with the conclusions there drawn, from these facts, in these words:
+
+
+Under such circumstances, it would be strange, indeed, if the law would not permit the defendant to waive the damages caused by the libelants’ breach, and enter into the contract sued upon,—a contract mutually beneficial to all the parties thereto, in that it gave to the libelants reasonable compensation for their labor, and enabled the defendant to employ to advantage the large capital it had invested in its canning and fishing plant.
+
+
+[7]Certainly, it cannot be justly held, upon the record in this case, that there was any voluntary waiver on the part of the appellant of the breach of the original contract. The company itself knew nothing of such breach until the expedition returned to San Francisco, and the testimony is uncontradicted that its superintendent at Pyramid Harbor, who, it is claimed, made on its behalf the contract sued on, distinctly informed the libelants that he had no power to alter the original or to make a new contract, and it would, of course, follow that, if he had no power to change the original, he would have no authority to waive any rights thereunder. The circumstances of the present case bring it, we think, directly within the sound and just observations of the supreme court of Minnesota in the case of King v. Railway Co., 61 Minn. 482, 63 N.W. 1105:
+
+
+No astute reasoning can change the plain fact that the party who refuses to perform, and thereby coerces a promise from the other party to the contract to pay him an increased compensation for doing that which he is legally bound to do, takes an unjustifiable advantage of the necessities of the other party. Surely it would be a travesty of justice to hold that the party so making the promise for extra pay was estopped from asserting that the promise was without consideration. A party cannot lay the foundation of an estoppel by his own wrong, where the promise is simply a repetition of a subsisting legal promise. There can be no consideration for the promise of the other party, and there is no
+210
+warrant for inferring that the parties have voluntarily rescinded or modified their contract. The promise cannot be legally enforced, although the other party has completed his contract in reliance upon it.
+
+
+[8]In Lingenfelder v. Brewing Co., 103 Mo. 578, 15 S.W. 844, the court, in holding void a contract by which the owner of a building agreed to pay its architect an additional sum because of his refusal to otherwise proceed with the contract, said:
+
+
+It is urged upon us by respondents that this was a new contract. New in what? Jungenfeld was bound by his contract to design and supervise this building. Under the new promise, he was not to do anything more or anything different. What benefit was to accrue to Wainwright? He was to receive the same service from Jungenfeld under the new, that Jungenfeld was bound to tender under the original, contract. What loss, trouble, or inconvenience could result to Jungenfeld that he had not already assumed? No amount of metaphysical reasoning can change the plain fact that Jungenfeld took advantage of Wainwright’s necessities, and extorted the promise of five per cent on the refrigerator plant as the condition of his complying with his contract already entered into. Nor had he even the flimsy pretext that Wainwright had violated any of the conditions of the contract on his part. Jungenfeld himself put it upon the simple proposition that “if he, as an architect, put up the brewery, and another company put up the refrigerating machinery, it would be a detriment to the Empire Refrigerating Company,” of which Jungenfeld was president. To permit plaintiff to recover under such circumstances would be to offer a premium upon bad faith, and invite men to violate their most sacred contracts that they may profit by their own wrong. That a promise to pay a man for doing that which he is already under contract to do is without consideration is conceded by respondents. The rule has been so long imbedded in the common law and decisions of the highest courts of the various states that nothing but the most cogent reasons ought to shake it. [Citing a long list of authorities.]
+
+
+[The court then discussed several other cases containing equally vehement language.—Eds.]
+
+
+[9]It results from the views above expressed that the judgment must be reversed, and the cause remanded, with directions to the court below to enter judgment for the respondent, with costs. It is so ordered.
+
+
+———
+
+
+211
+Problem 7-1
+
+
+Tired of the condescending attitude of big city wine stewards, a tourist shoots the sommelier in a fancy French restaurant. The Wine Stewards Guild posts a reward of 100,000 francs for the arrest of the perpetrator. A police department detective catches the perp and obtains a confession from him.
+
+
+(a)What does this problem have to do with the principles covered in the Alaska Packers case?
+
+
+(b)Is the detective entitled to the reward?
+
+
+(c)Would it matter that the crime occurred in a precinct other than the detective’s and that the detective did the entire investigation during off-duty hours?
+
+
+———
+
+
+Notes and Questions
+
+
+1.In law school classes generally and in first year classes in particular, we concentrate on general, big-picture principles. You should be aware, however, that when you’re advising clients on real problems there are often special rules, usually statutes but sometimes rules from case law, that give a result you would not expect. For instance, California has a statute that can trap unwary lawyers:
+
+
+California Civil Code § 1542 (2005)
+
+
+A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor.
+
+
+Most California lawyers are aware of the statute, but out-of-state lawyers often come into the state and pay good money to get a potential plaintiff to sign a release that reads something like this:
+
+
+49 STATE RELEASE
+
+
+Releasor hereby releases, acquits and forever discharges Releasee and any other persons and entities of and from any and all actions, causes of action, claims, demands, damages, costs, loss of services, expenses and compensation on account of or in any way growing out of any and all known and unknown personal injuries resulting or to result from the accident that occurred on or about October 31, 2010, at or about Hollywood and Vine Streets in Hollywood, California.
+
+
+That would seem to cover the problem of injuries discovered after the release is signed, but under the California statute it doesn’t. Plaintiffs, of course, later claim they didn’t know the extent of their injuries at the time they signed the release.
+
+
+212
+California law allows the releasor to waive the benefit of the statute, so California lawyers routinely draft releases like this:
+
+
+CALIFORNIA RELEASE
+Releasor hereby releases, acquits and forever discharges Releasee and any other persons and entities of and from any and all actions, causes of action, claims, demands, damages, costs, loss of services, expenses and compensation on account of or in any way growing out of any and all known and unknown personal injuries resulting or to result from the accident that occurred on or about October 31, 2005 at or about Hollywood and Vine Streets in Hollywood, California. Releasor hereby waives the benefits of California Civil Code § 1542, which provides as follows:
+
+
+A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor.
+
+
+_______ (Releasor Initial Here)
+
+
+This may be a case of the California courts and legislature favoring form over substance. If they really wanted to protect people from settling too cheaply because they don’t know the extent of their injuries, they should provide that the benefit of the statute is non-waivable. If they want to make settlements final, they should get the statute repealed. As it is, all that happens is that sharp, local lawyers defeat the purpose of the statute and not-so-sharp, out-of-state lawyers commit malpractice.
+
+
+There is, however, an argument that the present state of affairs is (1) the only practical way of dealing with the problem, and (2) a very workable compromise between competing policies, much like the Miranda warning from constitutional criminal procedure. Can you articulate that argument?
+
+
+2.Special rules can bite even sophisticated lawyers. California also has a law making contracts for personal services unenforceable for periods in excess of 7 years. Actor James Gandolfini used a threat that he would invoke this law to get out of his contract when he demanded that Home Box Office network (“HBO”) raise his fee for playing the role of Tony Soprano on “The Sopranos” from $400,000 per episode to $800,000 per episode.
+
+
+3.Remember not to get too myopically focused on the legal aspects of the parties’ relationship. In other words, don’t check your common sense at the door of the law school. That would ignore the way contracts are actually modified in the real world. Many times business people solve problems in a way that is both informed and practical, even though it does not fit neatly into legal doctrine. But documenting the modification and keeping matters straight is up to counsel.
+
+
+4.The next case explores the relaxation of the pre-existing duty rule to allow for contract modification when unexpected changes in circumstances have arisen.
+
+
+213
+———
+
+
+Angel v. Murray, Supreme Court of Rhode Island, 113 R.I. 482, 322 A.2d 630 (1974)
+
+
+Roberts, Chief Justice.
+
+
+[1]This is a civil action brought by Alfred L. Angel and others against John E. Murray, Jr., Director of Finance of the City of Newport, the city of Newport, and James L. Maher, alleging that Maher had illegally been paid the sum of $20,000 by the Director of Finance and praying that the defendant Maher be ordered to repay the city such sum. The case was heard by a justice of the Superior Court, sitting without a jury, who entered a judgment ordering Maher to repay the sum of $20,0003 to the city of Newport. Maher is now before this court prosecuting an appeal.
+
+
+[2]The record discloses that Maher has provided the city of Newport with a refuse-collection service under a series of five-year contracts beginning in 1946. On March 12, 1964, Maher and the city entered into another such contract for a period of five years commencing on July 1, 1964, and terminating on June 30, 1969. The contract provided, among other things, that Maher would receive $137,000 per year in return for collecting and removing all combustible and noncombustible waste materials generated within the city.
+
+
+[3]In June of 1967 Maher requested an additional $10,000 per year from the city council because there had been a substantial increase in the cost of collection due to an unexpected and unanticipated increase of 400 new dwelling units. Maher’s testimony, which is uncontradicted, indicates the 1964 contract had been predicated on the fact that since 1946 there had been an average increase of 20 to 25 new dwelling units per year. After a public meeting of the city council where Maher explained in detail the reasons for his request and was questioned by members of the city council, the city council agreed to pay him an additional $10,000 for the year ending on June 30, 1968. Maher made a similar request again in June of 1968 for the same reasons, and the city council again agreed to pay an additional $10,000 for the year ending on June 30, 1969.
+[4]The trial justice found that each such $10,000 payment was made in violation of law. His decision, as we understand it, is premised on two independent grounds. First, he found that the additional payments were unlawful because they had not been recommended in writing to the city council by the city manager. Second, he found that Maher was not entitled to extra compensation because the original contract already required him
+214
+to collect all refuse generated within the city and, therefore, included the 400 additional units. The trial justice further found that these 400 additional units were within the contemplation of the parties when they entered into the contract. It appears that he based this portion of the decision upon the rule that Maher had a preexisting duty to collect the refuse generated by the 400 additional units, and thus there was no consideration for the two additional payments.
+
+
+I
+
+
+[The city manager’s failure to recommend additional payments in writing did not make them unlawful.]
+
+
+II
+
+
+[5]Having found that the city council had the power to modify the 1964 contract without the written recommendation of the city manager, we are still confronted with the question of whether the additional payments were illegal because they were not supported by consideration.
+
+
+A
+
+
+[6]As previously stated, the city council made two $10,000 payments. The first was made in June of 1967 for the year beginning on July 1, 1967, and ending on June 30, 1968. Thus, by the time this action was commenced in October of 1968, the modification was completely executed. That is, the money had been paid by the city council, and Maher had collected all of the refuse. Since consideration is only a test of the enforceability of executory promises, the presence or absence of consideration for the first payment is unimportant because the city council’s agreement to make the first payment was fully executed at the time of the commencement of this action. However, since both payments were made under similar circumstances, our decision regarding the second payment (Part B, infra) is fully applicable to the first payment.
+
+
+B
+
+
+[7]It is generally held that a modification of a contract is itself a contract, which is unenforceable unless supported by consideration. In Rose v. Daniels, 8 R.I. 381 (1866), this court held that an agreement by a debtor with a creditor to discharge a debt for a sum of money less than the amount due is unenforceable because it was not supported by consideration.
+
+
+[8]Rose is a perfect example of the preexisting duty rule. Under this rule an agreement modifying a contract is not supported by consideration if one of the parties to the agreement does or promises to do something that he is legally obligated to do or refrains or promises to refrain from doing something he is not legally privileged to do. In Rose there was no consideration for the new agreement because the debtor was already legally obligated to repay the full amount of the debt.
+
+
+215
+[9]Although the preexisting duty rule is followed by most jurisdictions, a small minority of jurisdictions, Massachusetts, for example, find that there is consideration for a promise to perform what one is already legally obligated to do because the new promise is given in place of an action for damages to secure performance. Swartz is premised on the theory that a promisor’s forbearance of the power to breach his original agreement and be sued in an action for damages is consideration for a subsequent agreement by the promisee to pay extra compensation. This rule, however, has been widely criticized as an anomaly.
+
+
+[10]The primary purpose of the preexisting duty rule is to prevent what has been referred to as the “hold-up game.” A classic example of the “hold-up game” is found in Alaska Packers’ Ass’n v. Domenico, 117 F. 99 (9th Cir. 1902). There 21 seamen entered into a written contract with Domenico to sail from San Francisco to Pyramid Harbor, Alaska. They were to work as sailors and fishermen out of Pyramid Harbor during the fishing season of 1900. The contract specified that each man would be paid $50 plus two cents for each red salmon he caught. Subsequent to their arrival at Pyramid Harbor, the men stopped work and demanded an additional $50. They threatened to return to San Francisco if Domenico did not agree to their demand. Since it was impossible for Domenico to find other men, he agreed to pay the men an additional $50. After they returned to San Francisco, Domenico refused to pay the men an additional $50. The court found that the subsequent agreement to pay the men an additional $50 was not supported by consideration because the men had a preexisting duty to work on the ship under the original contract, and thus the subsequent agreement was unenforceable.
+[11]Another example of the “hold-up game” is found in the area of construction contracts. Frequently, a contractor will refuse to complete work under an unprofitable contract unless he is awarded additional compensation. The courts have generally held that a subsequent agreement to award additional compensation is unenforceable if the contractor is only performing work which would have been required of him under the original contract.
+
+
+[12]These examples clearly illustrate that the courts will not enforce an agreement that has been procured by coercion or duress and will hold the parties to their original contract regardless of whether it is profitable or unprofitable. However, the courts have been reluctant to apply the preexisting duty rule when a party to a contract encounters unanticipated difficulties and the other party, not influenced by coercion or duress, voluntarily agrees to pay additional compensation for work already required to be performed under the contract. For example, the courts have found that the original contract was rescinded, Linz v. Schuck, 106 Md. 220, 67 A. 286 (1907); abandoned, Connelly v. Devoe, 37 Conn. 570 (1871); or waived, Michaud v. McGregor, 61 Minn. 198, 63 N.W. 479 (1895).
+
+
+216
+[13]Although the preexisting duty rule has served a useful purpose insofar as it deters parties from using coercion and duress to obtain additional compensation, it has been widely criticized as a general rule of law. With regard to the preexisting duty rule, one legal scholar has stated: “There has been a growing doubt as to the soundness of this doctrine as a matter of social policy . . . In certain classes of cases, this doubt has influenced courts to refuse to apply the rule, or to ignore it, in their actual decisions. Like other legal rules, this rule is in the process of growth and change, the process being more active here than in most instances. The result of this is that a court should no longer accept this rule as fully established. It should never use it as the major premise of a decision, at least without giving careful thought to the circumstances of the particular case, to the moral deserts of the parties, and to the social feelings and interests that are involved. It is certain that the rule, stated in general and all-inclusive terms, is no longer so well-settled that a court must apply it though the heavens fall.” 1A Corbin, supra, sec. 171; see also Calamari & Perillo, supra, § 61.
+
+
+[14]The modern trend appears to recognize the necessity that courts should enforce agreements modifying contracts when unexpected or unanticipated difficulties arise during the course of the performance of a contract, even though there is no consideration for the modification, as long as the parties agree voluntarily.
+
+
+[15]Under the Uniform Commercial Code, § 2–209(1), which has been adopted by 49 states, “(a)n agreement modifying a contract (for the sale of goods) needs no consideration to be binding.” See G.L.1956 (1969 Reenactment) § 6A–2–209(1). Although at first blush this section appears to validate modifications obtained by coercion and duress, the comments to this section indicate that a modification under this section must meet the test of good faith imposed by the Code, and a modification obtained by extortion without a legitimate commercial reason is unenforceable.
+
+
+[16]The modern trend away from a rigid application of the preexisting duty rule is reflected by section 89D(a) of the American Law Institute’s Restatement Second of the Law of Contracts4 which provides: “A promise modifying a duty under a contract not fully performed on either side is binding (a) if the modification is fair and equitable in view of circumstances not anticipated by the parties when the contract was made . . .”
+
+
+[17]We believe that section 89D(a) is the proper rule of law and find it applicable to the facts of this case. It not only prohibits modifications obtained by coercion, duress, or extortion but also fulfills society’s expectation that agreements entered into voluntarily will be enforced by
+217
+the courts.5 See generally Horwitz, The Historical Foundations of Modern Contract Law, 87 Harv.L.Rev. 917 (1974). Section 89D(a), of course, does not compel a modification of an unprofitable or unfair contract; it only enforces a modification if the parties voluntarily agree and if (1) the promise modifying the original contract was made before the contract was fully performed on either side, (2) the underlying circumstances which prompted the modification were unanticipated by the parties, and (3) the modification is fair and equitable.
+
+
+[18]The evidence, which is uncontradicted, reveals that in June of 1968 Maher requested the city council to pay him an additional $10,000 for the year beginning on July 1, 1968, and ending on June 30, 1969. This request was made at a public meeting of the city council, where Maher explained in detail his reasons for making the request. Thereafter, the city council voted to authorize the Mayor to sign an amendment to the 1964 contract which provided that Maher would receive an additional $10,000 per year for the duration of the contract. Under such circumstances we have no doubt that the city voluntarily agreed to modify the 1964 contract.
+
+
+[19]Having determined the voluntariness of this agreement, we turn our attention to the three criteria delineated above. First, the modification was made in June of 1968 at a time when the five-year contract which was made in 1964 had not been fully performed by either party. Second, although the 1964 contract provided that Maher collect all refuse generated within the city, it appears this contract was premised on Maher’s past experience that the number of refuse-generating units would increase at a rate of 20 to 25 per year. Furthermore, the evidence is uncontradicted that the 1967–1968 increase of 400 units “went beyond any previous expectation.” Clearly, the circumstances which prompted the city council to modify the 1964 contract were unanticipated. Third, although the evidence does not indicate what proportion of the total this increase comprised, the evidence does indicate that it was a “substantial” increase. In light of this, we cannot say that the council’s agreement to pay Maher the $10,000 increase was not fair and equitable in the circumstances.
+
+
+[20]The judgment appealed from is reversed, and the cause is remanded to the Superior Court for entry of judgment for the defendants.
+218
+Note
+
+
+Remember that the R2d is not binding on the courts and not every jurisdiction has chosen to abandon the well-established pre-existing duty rule to accept the R2d approach.
+
+
+———
+
+
+Problem 7-2
+
+
+Susan Acme, President of Acme Manufacturing Company, received a call from Rolf Nadir of Nadir Supply.
+
+
+“Susan, old friend, how’s it going?”
+
+
+“OK, Rolf. You OK? How are the kids?”
+
+
+“The kids are fine, Susan, but I got bad news for you. The price of plastic has gone through the roof. I’ve got to raise the price 50% on that lot you just ordered.”
+
+
+“No way, Rolf. We’ve got a contract.”
+
+
+“Susan, I could sell that stuff to somebody else for twice what your contract calls for. The only reason I’m only raising the price 50% is that you’ve been such a good customer. My dad tells me stories about the way your orders saved the company when the bank was threatening to foreclose.”
+
+
+“We’ve got a contract, Rolf. I’ll sue. I mean it.”
+
+
+“You wouldn’t really do that. There’s not enough money involved. Besides my lawyer would string this thing out for years, and everybody in the industry would find out you sue your old friends.”
+
+
+“Tell you what, Rolf, since we go back such a long time, I’ll up the price 25%. Send me a confirming memorandum.”
+
+
+“Done.”
+
+
+Shortly after this conversation took place, Ms. Acme was hit by a bus and killed. The company is now run by her son Jeremy, who never liked Mr. Nadir. Jeremy has asked you whether he can avoid the price increase his mother agreed to, sue Nadir, recover damages, and if possible, wipe that company out of business. Consult U.C.C. § 2–209(1) and advise him.
+
+
+———
+
+
+Notes
+
+
+1.One of the most important skills you’ll need as a lawyer is the ability to look beyond superficial characterizations of deals and see what, in terms of legal principles, is actually going on. That was what Enron was all about. The company had a lot of ducks. Its lawyers dressed them up like chickens, and the accountants, even though they heard them quack, let Enron carry them on
+219
+their financial statements as chickens. The rest, as they say, is history. Arthur Anderson, once one of the most prestigious accounting firms in the world, died in disgrace even though it was partially vindicated on appeal too late to save the firm. See generally Enron: Corporate Fiascos and Legal Implications (Foundation Press 2004).
+2.In one case involving Enron’s mischaracterization of a deal, J.P. Morgan Chase & Company announced that it had reached a settlement that had cost it approximately a half billion dollars. Eleven insurance companies had guaranteed Morgan against losses on $965 million in sales transactions that Morgan had entered into with an Enron subsidiary. When Enron collapsed, the insurance companies took the position that they were not liable because the transactions that had been represented to them as sales transactions were actually loans. Insurance companies are prohibited by law from guaranteeing loans. The litigation was settled with the insurance companies agreeing to pay 65% of the claim and Morgan agreeing to buy $85 million in worthless bonds from the insurance companies. Bill Lerach, at the time the nation’s premier plaintiff’s securities litigator, said that the settlement would be useful in cases on behalf of Enron shareholders who claimed they were misled by Enron’s lawyers and accountants who, in turn, had mischaracterized the loans. “The evidence that came out is very favorable to our case,” Lerach said. “It shows clearly that they were disguised loans and it shows clearly that J.P. Morgan characterized them as disguised loans at the top levels of the company. Of course we will use that evidence.” Later, J.P. Morgan and Citicorp agreed to pay almost $300 million dollars in fines and penalties on account of these transactions. The regulators who forced the settlement alleged that the bankers knew that these transactions were really loans but allowed them to be set up to look like sales in order to make Enron’s sales look greater than they actually were and to make their debts appear less.
+
+
+———
+
+
+Problem 7-3
+
+
+Maria Santos operated a lawn maintenance company. When she noticed that the lawn at the Plebeian Yacht Club was not being maintained, she wrote a letter to the board of directors offering to enter into a contract to mow and fertilize the club’s lawn for $2,000 a year. In response, the chair of the board (who is authorized to act for the club in all respects) wrote her as follows:
+
+
+Dear Ms. Santos:
+
+
+We are unable to accept your offer to enter into a maintenance contract because we are a new club and are trying to make sailing affordable to the masses. We would, however, like to engage your services to cut our grass. If you will cut the grass on our property when, in your professional judgment, it requires cutting, we will pay you $75 per cutting. In determining when our grass needs cutting,
+220
+please remember that we are a group of working people. We are not Augusta National Country Club.
+
+
+Sincerely,
+
+
+PLEBEIAN YACHT CLUB
+
+
+
+
+
+
+President
+
+
+As soon as her schedule permitted, Ms. Santos went to the club, cut the grass, and submitted a bill, which was paid. This arrangement went on happily for several months until Ms. Santos’ mower threw up a piece of stone which damaged a member’s car. The member and the board of directors demanded that Ms. Santos pay for repairs to the car, and Ms. Santos refused, saying that the accident was unavoidable on her part because the club, which was too poor to pave its parking lot, had surfaced the lot with coarse crushed stone, much of which had, one way or another, gotten into the lawn. It was therefore impossible to avoid occasionally throwing up pieces of stone while mowing.
+
+
+The club responded by writing Ms. Santos the following letter:
+
+
+Dear Ms. Santos:
+
+
+Because we have been unable to resolve our disagreement otherwise, we are now informing you that in the future you will be liable for any damage caused by objects thrown up by your mowers, regardless of who is at fault. By continuing to mow, you agree that you will reimburse any club member or guest whose person or property is damaged by an object thrown by any of your mowers.
+
+
+Sincerely,
+
+
+PLEBEIAN YACHT CLUB
+
+
+
+
+
+
+President
+The next time Ms. Santos mowed, her mower threw a stone which damaged a member’s new car. Ms. Santos’ lawyer has said she is not liable because (1) silence is not acceptance of the offer to modify the parties’ contract and (2) there was no consideration for the modification.
+
+
+Explain whether Ms. Santos is or is not contractually liable. Ignore tort theories of liability.
+
+
+221
+B.THE PROBLEM OF PAST CONSIDERATION
+
+
+Mills v. Wyman, Supreme Judicial Court of Massachusetts, 20 Mass. (3 Pick.) 207 (1825)
+
+
+[1]This was an action of assumpsit brought to recover a compensation for the board, nursing, etc. of Levi Wyman, son of the defendant, from the 5th to the 20th of February 1821. The plaintiff then lived at Hartford, in Connecticut; the defendant, at Shrewsbury, in this county. Levi Wyman, at the time when the services were rendered, was about 25 years of age, and had long ceased to be a member of his father’s family. He was on his return from a voyage at sea, and being suddenly taken sick at Hartford, and being poor and in distress, was relieved by the plaintiff in the manner and to the extent above stated. On the 24th of February, after all the expenses had been incurred, the defendant wrote a letter to the plaintiff, promising to pay him such expenses. There was no consideration for this promise, except what grew out of the relation which subsisted between Levi Wyman and the defendant, and Howe, J., before whom the cause was tried in the Court of Common Pleas, thinking this not sufficient to support the action, directed a nonsuit. To this direction the plaintiff filed exceptions. [We affirm.—Eds.]
+
+
+[2]Parker, Chief Justice. General rules of law established for the protection and security of honest and fair-minded men, who may inconsiderably make promises without any equivalent, will sometimes screen men of a different character from engagements which they are bound in foro conscientiae to perform. This is a defect inherent in all human systems of legislation. The rule that a mere verbal promise, without any consideration, cannot be enforced by action, is universal in its application, and cannot be departed from to suit particular cases in which a refusal to perform such a promise may be disgraceful.
+
+
+[3]The promise declared on in this case appears to have been made without any legal consideration. The kindness and services toward the sick son of the defendant were not bestowed at his request. The son was in no respect under the care of the defendant. He was twenty-five years old, and had long left his father’s family. On his return from a foreign country, he fell sick among strangers, and the plaintiff acted the part of the good Samaritan, giving him shelter and comfort until he died. The defendant, his father, on being informed of this event, influenced by transient feeling of gratitude, promises in writing to pay the plaintiff for the expenses he had incurred. But he was determined to break this promise, and is willing to have his case appear on record as a strong example of particular injustice sometimes necessarily resulting from the operation of general rules.
+
+
+222
+[4]It is said a moral obligation is sufficient consideration to support an express promise; and some authorities lay down the rule thus broadly; but upon examination of the cases we are satisfied that the universality of the rule cannot be supported, and that there must have been some pre-existing obligation, which has become inoperative by positive law, to form a basis for an effective promise. The cases of debts barred by the statute of limitations, of debts incurred by infants, of debts of bankrupts, are generally put for illustration of the rule. Express promises founded on such pre-existing equitable obligations may be enforced; there is a good consideration for them; they merely remove an impediment created by law to the recovery of debts honestly due, but which public policy protects the debtors from being compelled to pay.6
+
+
+[5]Without doubt there are great interests of society which justify withholding the coercive arm of the law from these duties of imperfect obligation, as they are called; imperfect, not because they are less binding upon the conscience than those which are called perfect, but because the wisdom of the social law does not impose sanctions upon them.
+
+
+[6]A deliberate promise, in writing, made freely and without any mistake, one which may lead the party to whom it is made into contracts and expenses, cannot be broken without a violation of moral duty. But if there was nothing paid or promised for it, the law, perhaps wisely, leaves the execution of it to the conscience of him who makes it. It is only when the party making the promise gains something, or to whom it is made loses something, that the law gives the promise validity. And in the case of the promise of the adult to pay the debt of the infant, of the debtor discharged by the statute of limitations or bankruptcy, the principle is preserved by looking back to the origin of the transaction, where an equivalent is to be found. An exact equivalent is not required by the law; for there being a consideration, the parties are left to estimate its value: though here the courts of equity will step in to relieve from gross inadequacy between the consideration and the promise.
+[7]These principles are deduced from the general current of decided cases upon the subject, as well as from the known maxims of the common law. The general position, that moral obligation is a sufficient consideration for an express promise, is to be limited in its application to cases where at some time or other a good or valuable consideration has existed.
+
+
+[8]A legal obligation is always a sufficient consideration to support either an express or implied promise; such as an infant’s debt for
+223
+necessaries, or a father’s promise to pay for the support and education of his minor children. But when the child shall have attained to manhood, and shall have become his own agent in the world’s business, the debts he incurs, whatever may be their nature, create no obligation; and it seems to follow, that a promise founded upon such a debt has no legally binding force.
+
+
+[9]The cases of instruments under seal and certain mercantile contracts, in which consideration need not be proved, do not contradict the principles above suggested. The first import a consideration in themselves, and the second belong to a branch of the mercantile law, which has found it necessary to disregard the point of consideration in respect to instruments negotiable in their nature and essential to the interests of commerce . . .
+
+
+[10]For the foregoing reasons we are all of opinion that the nonsuit directed by the Court of Common Pleas was right, and that judgment be entered thereon for the costs of the defendant.
+
+
+———
+
+
+Webb v. McGowin, Court of Appeals of Alabama, 27 Ala. App. 82, 168 So. 196 (1935)
+
+
+[1]Action by Joe Webb against N. Floyd McGowin and Joseph F. McGowin, as executors of the estate of J. Greeley McGowin, deceased. From a judgment of non-suit, plaintiff appeals.
+
+
+[2]Bricken, Justice. This action is an assumpsit. The complaint as originally filed was amended. The demurrers to the complaint as amended were sustained, and because of this adverse ruling by the court the plaintiff took a nonsuit, and the assignment of errors on this appeal are predicated upon said action or ruling of the court.
+
+
+[3]A fair statement of the case presenting the questions for decision is set out in appellant’s brief, which we adopt.
+
+
+On the 3rd day of August, 1925, appellant while in the employ of the W. T. Smith Lumber Company, a corporation, and acting within the scope of his employment, was engaged in clearing the upper floor of mill No. 2 of the company. While so engaged he was in the act of dropping a pine block from the upper floor of the mill to the ground below; this being the usual and ordinary way of clearing the floor, and it being the duty of the plaintiff in the course of his employment to so drop it. The block weighed about 75 pounds.
+
+
+224
+As appellant was in the act of dropping the block to the ground below, he was on the edge of the upper floor of the mill. As he started to turn the block loose so that it would drop to the ground, he saw J. Greeley McGowin, testator of the defendants, on the ground below and directly under where the block would have fallen had appellant turned it loose. Had he turned it loose it would have struck McGowin with such force as to have caused him serious bodily harm or death. Appellant could have remained safely on the upper floor of the mill by turning the block loose and allowing it to drop, but had he done this the block would have fallen on McGowin and caused him serious injuries or death. The only safe and reasonable way to prevent its coming into contact with McGowin was for appellant to fall with it to the ground below. Appellant did this, and by holding to the block and falling with it to the ground below, he diverted the course of its fall in such way that McGowin was not injured. In thus preventing the injuries to McGowin appellant himself received serious bodily injuries, resulting in his right leg being broken, the heel of his right foot torn off and his right arm broken. He was badly crippled for life and rendered unable to perform physical or mental labor.
+
+
+On September 1, 1925, in consideration of appellant having prevented him from sustaining death or serious bodily harm and in consideration of the injuries appellant had received, McGowin agreed with him to care for and maintain him for the remainder of appellant’s life at the rate of $157 every two weeks from the time he sustained his injuries to and during the remainder of appellant’s life; it being agreed that McGowin would pay this sum to appellant for his maintenance. Under the agreement McGowin paid or caused to be paid to appellant the sum so agreed on up until McGowin’s death on January 1, 1934. After his death the payment were continued to and including January 27, 1934, at which time they were discontinued. Thereupon plaintiff brought suit to recover the unpaid installments accruing up to the time of the bringing of the suit.
+[4]The material averment of the different counts of the original complaint and the amended complaint are predicated upon the foregoing statement of facts.
+
+
+[5]In other words, the complaint as amended averred in substance: (1) That on August 3, 1925, appellant saved J. Greeley McGowin, appellee’s testator, from death or grievous bodily harm; (2) that in doing so appellant sustained bodily injury crippling him for life; (3) that in consideration of the services rendered and the injuries received by appellant, McGowin
+225
+agreed to care for him the remainder of appellant’s life, the amount to be paid being $15 every two weeks; (4) that McGowin complied with this agreement until he died on January 1, 1934, and the payments were kept up to January 27, 1934, after which they were discontinued.
+
+
+[6]The action was for the unpaid installments accruing after January 27, 1934, to the time of the suit.
+
+
+[7]The principal grounds of demurrer to the original and amended complaint are: (1) It states no cause of action; (2) its averments show the contract was without consideration; (3) it fails to allege that McGowin had, at or before the services were rendered, agreed to pay appellant for them; (4) the contract declared on is void under the statute of frauds.
+
+
+[8]The averments of the complaint show that appellant saved McGowin from death or grievous bodily harm. This was a material benefit to him of infinitely more value than any financial aid he could have received. Receiving this benefit, McGowin became morally bound to compensate appellant for the services rendered. Recognizing his moral obligation, he expressly agreed to pay appellant as alleged in the complaint and complied with this agreement up to the time of his death; a period of more than 8 years.
+
+
+[9]Had McGowin been accidentally poisoned and a physician, without his knowledge or request, had administered an antidote, thus saving his life, a subsequent promise by McGowin to pay the physician would have been valid. Likewise, McGowin’s agreement as disclosed by the complaint to compensate appellant for saving him from death or grievous bodily injury is valid and enforceable.
+
+
+[10]Where the promisee cares for, improves, and preserves the property of the promisor, though done without his request, it is sufficient consideration for the promisor’s subsequent agreement to pay for the service, because of the material benefit received. . . .
+
+
+[11]In Boothe v. Fitzpatrick, 36 Vt. 681, the court held that a promise by defendant to pay for the past keeping of a bull which had escaped from defendant’s premises and been cared for by plaintiff was valid, although there was no previous request, because the subsequent promise obviated that objection; it being equivalent to a previous request. On the same principle, had the promisee saved the promisor’s life or his body from grievous harm, his subsequent promise to pay for the services rendered would have been valid. Such service would have been far more material than caring for his bull. Any holding that saving a man from death or grievous bodily harm is not a material benefit sufficient to uphold a subsequent promise to pay for the service, necessarily rests on the assumption that saving life and preservation of the body from harm have only a sentimental value. The converse of this is true. Life and preservation of the body have material, pecuniary values, measurable in dollars and
+226
+cents. Because of this, physicians practice their profession charging for services rendered in saving life and curing the body of its ills, and surgeons perform operations. The same is true as to the law of negligence, authorizing the assessment of damages in personal injury cases based upon the extent of the injuries, earnings, and life expectancies of those injured.
+
+
+[12]In the business of life insurance, the value of a man’s life is measured in dollars and cents according to his expectancy, the soundness of his body, and his ability to pay premiums. The same is true as to health and accident insurance.
+
+
+[13]It follows that if, as alleged in the complaint, appellant saved J. Greeley McGowin from death or grievous bodily harm, and McGowin subsequently agreed to pay him for the service rendered, it became a valid and enforceable contract.
+
+
+[14]It is well settled that a moral obligation is a sufficient consideration to support a subsequent promise to pay where the promisor has received a material benefit, although there was no original duty or liability resting on the promisor . . . In the case of State ex rel. Bayer v. Funk, supra, the court held that a moral obligation is a sufficient consideration to support an executory promise where the promisor has received an actual pecuniary or material benefit for which he subsequently expressly promised to pay.
+
+
+[15]The case at bar is clearly distinguishable from that class of cases where the consideration is a mere moral obligation or conscientious duty unconnected with receipt by the promisor of benefits of a material or pecuniary nature . . . Here the promisor received a material benefit constituting a valid consideration for his promise.
+[16]Some authorities hold that, for a moral obligation to support a subsequent promise to pay, there must have existed a prior legal or equitable obligation, which for some reason had become unenforceable, but for which the promisor was still morally bound. This rule, however, is subject to qualification in those cases where the promisor, having received a material benefit from the promisee, is morally bound to compensate him for the services rendered and in consideration of this obligation promises to pay. In such cases the subsequent promise to pay is an affirmance or ratification of the services rendered carrying with it the presumption that a previous request for the service was made. McMorris v. Herndon, 2 Bailey (S.C.) 56, 21 Am. Dec. 515; Chadwick v. Knox, 31 N.H. 226, 64 Am. Dec. 329; Kenan v. Holloway, 16 Ala. 53, 50 Am. Dec. 162; Ross v. Pearson, 21 Ala. 473.
+
+
+[17]Under the decisions above cited, McGowin’s express promise to pay appellant for the services rendered was an affirmance or ratification of what appellant had done raising the presumption that the services had been rendered at McGowin’s request.
+
+
+227
+[18]The averments of the complaint show that in saving McGowin from death or grievous bodily harm, appellant was crippled for life. This was part of the consideration of the contract declared on. McGowin was benefitted. Appellant was injured. Benefit to the promisor or injury to the promisee is a sufficient legal consideration for the promisor’s agreement to pay. Fisher v. Bartlett, 8 Greenl. (Me.) 122, 22 Am.Dec. 225; State ex rel. Bayer v. Funk, supra.
+
+
+[19]Under the averment of the complaint the services rendered by appellant were not gratuitous. The agreement of McGowin to pay and the acceptance of payment by appellant conclusively shows the contrary.
+
+
+* * *
+
+
+[20]From what has been said, we are of the opinion that the court below erred in the ruling complained of; that is to say, in sustaining the demurrer, and for this error the case is reversed and remanded.
+
+
+Reversed and remanded.
+
+
+[21]Samford, Justice (concurring). The questions involved in this case are not free from doubt, and perhaps the strict letter of the rule, as stated by judges, though not always in accord, would bar recovery by plaintiff, but following the principle announced by Chief Justice Marshall in Hoffman v. Porter, Fed.Cas. No. 6,577, 2 Brock. 156, 159, where he says, “I do not think that law ought to be separated from justice, where it is at most doubtful,” I concur in the conclusions reached by the court.
+
+
+———
+
+
+Notes and Questions
+
+
+1.McGowin lived approximately eight and a half years after Webb saved his life, during which he was the president of the W. T. Smith Lumber Company in Chapman, Alabama. He led that company’s expansion and diversification as old timber stands were depleted. He was also active in wildlife conservation.
+
+
+2.Note that it was not Mr. McGowin who was trying to eliminate the need to pay Webb, the man who saved his life. By the time of the lawsuit, McGowin was dead. It is the executor of his estate, who is under a duty to the estate’s other beneficiaries and creditors to object to questionable claims. Note also that it is likely they were the primary beneficiaries of the estate. Executors and other fiduciaries, like trustees and escrow agents, often will seek a declaratory judgment as to the validity of a claim, joining all the other parties in interest, before paying it in order to have the protection of a court order if the payment is questioned in a later lawsuit. It is useful to remember this in practice; a letter of objection to an executor, trustee, or escrow agent prior to a distribution will often cause that party to “freeze” until the parties in interest
+228
+settle their differences or an insulating “comfort” order is obtained from a court of competent jurisdiction.
+
+
+3.R2d § 86 deals with the situation presented by the cases above. How would each of them have been resolved under R2d § 86?
+
+
+4.What differences are there between the rule of R2d § 86 and the rule articulated in Webb v. McGowin?
+
+
+———
+
+
+Problem 7-4
+
+
+When the Malibu mansion of billionaire art collector J. Gaul Petty burned, J. Gaul rushed outside screaming “Somebody save my Van Goghs!” Kato, J. Gaul’s permanent houseguest and “human pet,” rushed into the mansion and attempted to save the paintings. Unfortunately, he was unsuccessful. He was beaten back by the flames and all the paintings were destroyed. When J. Gaul saw that Kato had suffered burns on his face, he told him: “Don’t worry. I’ll have your face fixed by the world’s best plastic surgeon, and I’ll have her give you a facelift while she’s at it.”
+
+
+Shortly thereafter, J. Gaul and Kato had a falling-out and J. Gaul has come to you to see if he has to pay for Kato’s plastic surgery. The scars from the burns aren’t very noticeable, but Kato wants that facelift. “The world’s best plastic surgeon” (the parties have stipulated as to who was meant by this) has quoted a price of $50,000 for the surgery. Kato’s medical insurance will pay the first $1,200. For fixing the scars alone, the price would be $6,000.
+
+
+How much should J. Gaul have to pay? See R2d § 86.
+
+
+Lawyering Skills Problem: Accord & Satisfaction vs. Novation
+
+
+When one modifies a contract and one or both parties are released from their obligations under the original contract, the parties that are released are said to have received a “novation.”
+
+
+This stands in contrast to what is known as an “accord and satisfaction” in which the parties enter into a new or modified contract, but the old contract remains in force (perhaps with an extension of time to delay the need for performance) until the new or modified contract is performed. The “accord” is the new or modified agreement. The “satisfaction” is the performance of the accord, and the satisfaction novates the original agreement (or releases the parties from their obligations under the original agreement).
+
+
+Recall the situation in Peterson v. Patberg. Was the modification at issue a modification with a novation or an accord and satisfaction, or either of these things? If you were the creditor in that transaction trying to structure the modification agreement from the outset, which type of modification would you prefer? What if you were the creditor? Why?
+
+
+1[Because the case involved seafarers, it was filed in the federal court under the court’s admiralty jurisdiction. In admiralty the document that serves the function of a complaint is called the libel. The plaintiff is called the libelant and the defendant is the respondent.—Eds.]
+
+
+2[$50 in 1900 dollars is roughly the equivalent of $1,540 in 2019 dollars using the CPI and the GNP Deflator—Eds.]
+
+
+3[$20,000 in 1974 dollars is roughly the equivalent of $102,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+4[The court is actually referring to a draft of the R2d. In the final version, Section 89D became the present R2d § 89.—Eds.]
+
+
+5The drafters of section 89D(a) of the Restatement Second of the Law of Contracts use the following illustrations in comment (b) as examples of how this rule is applied to certain transactions: 1. By a written contract, A agrees to excavate a cellar for B for a stated price. Solid rock is unexpectedly encountered and A so notifies B. A and B then orally agree that A will remove the rock at a unit price which is reasonable but nine times that used in computing the original price, and A completes the job. B is bound to pay the increased amount. . . .
+
+
+6[What the court is referring to here is a rule that if a person promises to pay a debt that is no longer enforceable because the statute of limitations has run on the original contract or has been discharged in bankruptcy, the new promise is enforceable without new consideration. A similar rule applies to debts incurred by a minor that are reaffirmed upon reaching the age of majority.—Eds.]
+
+
+7[$15 in 1925 dollars is roughly the equivalent of $215 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]

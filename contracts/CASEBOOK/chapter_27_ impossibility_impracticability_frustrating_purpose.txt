@@ -1,0 +1,534 @@
+﻿Chapter 27: Impossibility, Impracticability, and Frustration of Purpose_
+
+
+■   ■   ■
+
+
+This chapter looks at classic common law excuses for failure to perform because of events that are outside the control of the parties. Once you conclude there is a contract (because there was offer, acceptance, and consideration), and you have interpreted the contract and determined what conditions there are to performance, and whether those conditions have been satisfied, then the time is ripe for performance. When the time is ripe, performance must occur or be excused, or else there is a breach. This chapter examines the first three doctrines we will look at constituting excuse of performance or, put another way, performance defenses.
+
+
+Before looking at the excuses of impossibility, impracticability, and frustration of purpose, it bears keeping in mind that these excuses of performance have very, very limited application in contracts with any degree of sophistication at all. Rather, transactional lawyers address these excuses of performance by allocating the risk of loss from something outside the parties’ control with explicit clauses such as “force majeure” and “hell or high water” clauses. A typical force majeure clause reads as follows:
+
+
+If any party fails to perform its obligations because of strikes, lockouts, labor disputes, embargoes, acts of God, inability to obtain labor or materials or reasonable substitutes for labor or materials, governmental restrictions, governmental regulations, governmental controls, judicial orders, enemy or hostile governmental action, civil commotion, fire or other casualty, or other causes beyond the reasonable control of the party obligated to perform, then that party’s performance shall be excused for so long as the cause for failure to perform persists. Despite anything to the contrary in this paragraph, if the cause of a party’s failure to perform results from any act by that party, then such cause shall not excuse the performance of the provisions of this Agreement by that party.
+
+
+Conversely, a “hell or high water” clause, often found in equipment leases, is a clause that obligates the lessee to pay rent for the entire term of the
+766
+lease, regardless of any event affecting the equipment or any change in circumstances.
+
+
+With these express provisions to cope with the risk of events outside the parties’ control in mind, we turn to the classic excuses of impossibility of performance, impracticability, and frustration of purpose that may be applied when the parties do not contract around them in advance.
+
+
+———
+
+
+Taylor v. Caldwell, King’s Bench, 122 Eng. Rep. 309 (1863)
+
+
+[1]Blackburn, J. In this case the plaintiffs and defendants had, on the 27th May, 1861, entered into a contract by which the defendants agreed to let the plaintiffs have the use of The Surrey Gardens and Music Hall on four days then to come, viz., the 17th June, 5th July, 5th August and 19th August, for the purpose of giving a series of four grand concerts, and day and night f’etes at the Gardens and Hall on those days respectively; and the plaintiffs agreed to take the Gardens and Hall on those days, and pay £100 for each day.
+
+
+[2]The parties inaccurately call this a “letting,” and the money to be paid a “rent;” but the whole agreement is such as to shew that the defendants were to retain the possession of the Hall and Gardens so that there was to be no demise of them, and that the contract was merely to Give the plaintiffs the use of them on those days. Nothing however, in our opinion, depends on this. The agreement then proceeds to set out various stipulations between the parties as to what each was to supply for these concerts and entertainments, and as to the manner in which they should be carried on. The effect of the whole is to shew that the existence of the Music Hall in the Surrey Gardens in a state fit for a concert was essential for the fulfilment of the contract—such entertainments as the parties contemplated in their agreement could not be given without it.
+
+
+[3]After the making of the agreement, and before the first day on which a concert was to be given, the Hall was destroyed by fire. This destruction, we must take it on the evidence, was without the fault of either party, and was so complete that in consequence the concerts could not be given as intended. And the question we have to decide is whether, under these circumstances, the loss which the plaintiffs have sustained is to fall upon the defendants. The parties when framing their agreement evidently had not present to their minds the possibility of such a disaster, and have made no express stipulation with reference to it, so that the answer to the question must depend upon the general rules of law applicable to such a contract.
+
+
+767
+[4]There seems no doubt that where there is a positive contract to do a thing, not in itself unlawful, the contractor must perform it or pay damages for not doing it, although in consequence of unforeseen accidents, the performance of his contract has become unexpectedly burthensome or even impossible. The law is so laid down in 1 Rol. Abr. 450, Condition (G), and in the note (2) to Walton v. Waterhouse (2 Wms. Saund. 421 a. 6th ed.), and is recognized as the general rule by all the Judges in the much discussed case of Hall v. Wright (E.B. & E. 746). But this rule is only applicable when the contract is positive and absolute, and not subject to any condition either express or implied: and there are authorities which, as we think establish the principle that where, from the nature of the contract, it appears that the parties must from the beginning have known that it could not be fulfilled unless when the time for the fulfilment of the contract arrived some particular specified thing continued to exist, so that, when entering into the contract, they must have contemplated such continuing existence as the foundation of what was to be done; there, in the absence of any express or implied warranty that the thing shall exist, the contract is not to be construed as a positive contract, but as subject to an implied condition that the parties shall be excused in case, before breach, performance becomes impossible from the perishing of the thing without default of the contractor.
+
+
+[5]There seems little doubt that this implication tends to further the great object of making the legal construction such as to fulfil the intention of those who entered into the contract. For in the course of affairs men in making such contracts in general would, if it were brought to their minds, say that there should be such a condition. . . .
+
+
+[6]There is a class of contracts in which a person binds himself to do something which requires to be performed by him in person; and such promises, e.g., promises to marry, or promises to serve for a certain time, are never in practice qualified by an express exception of the death of the party; and therefore in such cases the contract is in terms broken if the promisor dies before fulfilment. Yet it was very early determined that, if the performance is personal, the executors are not liable; Hyde v. The Dean of Windsor (Cro. Eliz. 552, 553). See 2 Wms. Exors. 1560, 5th ed., where a very apt illustration is given. “Thus,” says the learned author, “if an author undertakes to compose a work, and dies before completing it, his executors are discharged from this contract: for the undertaking is merely personal in its nature, and, by the intervention of the contractor’s death, has become impossible to be performed.” For this he cites a dictum of Lord Lyndhurst in Marshall v. Broadhurst (1 Tyr. 348, 349), and a case mentioned by Patterson J. in Wentworth v. Cock (10 A. & E. 42, 45–46). In Hall v. Wright (E.B. & E. 746, 749), Crompton J., in his judgment, puts another case. “Where a contract depends upon personal skill, and the act of God renders it impossible, as, for instance, in the case of a painter employed to paint a
+768
+picture who is struck blind, it may be that the performance might be excused.”
+
+
+[7]It seems that in those cases the only ground on which the parties, or their executors, can be excused from the consequences of the breach of the contract, is that from the nature of the contract there is an implied condition of the continued existence of the life of the contractor, and perhaps in the case of the painter of his eyesight.
+
+
+[8]It may, we think, be safely asserted to be now English law, that in all contracts of loan of chattels or bailments if the performance of the promise of the borrower or bailee to return the things lent or bailed, becomes impossible because it has perished, this impossibility (if not arising from the fault of the borrower or bailee from some risk which he has taken upon himself) excuses the borrower or bailee from the performance of his promise to redeliver the chattel.
+
+
+[9]The great case of Coggs v. Bernard (1 Smith’s L.C. 171, 5th ed.; 2 L. Raym. 909) is now the leading case on the law of bailments, and Lord Holt, in that case, referred so much to the Civil law that is might perhaps be thought this principle was there derived direct from the civilians, and was not generally applicable in English law except in the case of bailments; but the case of Williams v. Lloyd (W. Jones, 179), above cited, shows that the same law had been already adopted by the English law as early as The Book of Assizes. The principle seems to us to be that, in contracts in which the performance depends on the continued existence of a given person or thing, a condition is implied that the impossibility of performance arising from the perishing of the person or thing shall excuse the performance.
+
+
+[10]In none of these cases is the promise in words other than positive, nor is there any express stipulation that the destruction of the person or thing shall excuse the performance; but that excuse is by law implied, because from the nature of the contract it is apparent that the parties contracted on the basis of the continued existence of the particular person or chattel. In the present case, looking at the whole contract, we find that the parties contracted on the basis of the continued existence of the Music Hall at the time when the concerts were to be given; that being essential to their performance.
+
+
+[11]We think, therefore, that the Music Hall having ceased to exist, without fault of either party, both parties are excused, the plaintiffs from taking the gardens and paying the money, the defendants from performing their promise to give the use of the Hall and Gardens and other things. Consequently, the rule must be absolute to enter the verdict for the defendants.
+
+
+Rule absolute.
+
+
+———
+
+
+769
+Mineral Park Land Co. v. Howard, Supreme Court of California, 172 Cal. 289, 156 P. 458 (1916)
+
+
+Sloss, J.
+
+
+[1]The defendants appeal from a judgment in favor of plaintiff for $3,650.1 The appeal is on the judgment roll alone.
+
+
+[2]The plaintiff was the owner of certain land in the ravine or wash known as the Arroyo Seco, in South Pasadena, Los Angeles county. The defendants had made a contract with the public authorities for the construction of a concrete bridge across the Arroyo Seco. In August, 1911, the parties to this action entered into a written agreement whereby the plaintiff granted to the defendants the right to haul gravel and earth from plaintiff’s land, the defendants agreeing to take therefrom all of the gravel and earth necessary in the construction of the fill and cement work on the proposed bridge, the required amount being estimated at approximately 114,000 cubic yards. Defendants agreed to pay 5 cents per cubic yard for the first 80,000 yards, the next 10,000 yards were to be given free of charge, and the balance was to be paid for at the rate of 5 cents per cubic yard.
+
+
+[3]The complaint was in two counts. The first alleged that the defendants had taken 50,131 cubic yards of earth and gravel, thereby becoming indebted to plaintiff in the sum of $2,506.55, of which only $900 had been paid, leaving a balance of $1,606.55 due. The findings support plaintiff’s claim in this regard, and there is no question of the propriety of so much of the judgment as responds to the first count. The second count sought to recover damages for the defendants’ failure to take from plaintiff’s land any more than the 50,131 yards.
+
+
+[4]It alleged that the total amount of earth and gravel used by defendants was 101,000 cubic yards, of which they procured 50,869 cubic yards from some place other than plaintiff’s premises. The amount due the plaintiff for this amount of earth and gravel would, under the terms of the contract, have been $2,043.45. The count charged that plaintiff’s land contained enough earth and gravel to enable the defendants to take therefrom the entire amount required, and that the 50,869 yards not taken had no value to the plaintiff. Accordingly the plaintiff sought, under this head, to recover damages in the sum of $2,043.45.
+
+
+[5]The answer denied that the plaintiff’s land contained any amount of earth and gravel in excess of the 50,131 cubic yards actually taken, and alleged that the defendants took from the said land all of the earth and gravel available for the work mentioned in the contract.
+
+
+770
+[6]The court found that the plaintiff’s land contained earth and gravel far in excess of 101,000 cubic yards of earth and gravel, but that only 50,131 cubic yards, the amount actually taken by the defendants, was above the water level. No greater quantity could have been taken “by ordinary means,” or except by the use, at great expense, of a steam dredger, and the earth and gravel so taken could not have been used without first having been dried at great expense and delay. On the issue raised by the plea of defendants that they took all the earth and gravel that was available the court qualified its findings in this way: It found that the defendants did take all of the available earth and gravel from plaintiff’s premises, in this, that they took and removed “all that could have been taken advantageously to defendants, or all that was practical to take and remove from a financial standpoint”; that any greater amount could have been taken only at a prohibitive cost, that is, at an expense of 10 or 12 times as much as the usual cost per yard. It is also declared that the word “available” is used in the findings to mean capable of being taken and used advantageously. It was not “advantageous or practical” to have taken more material from plaintiff’s land, but it was not impossible. There is a finding that the parties were not under any mutual misunderstanding regarding the amount of available gravel, but that the contract was entered into without any calculation on the part of either of the parties with reference to the amount of available earth and gravel on the premises.
+
+
+[7]The single question is whether the facts thus found justified the defendants in their failure to take from the plaintiff’s land all of the earth and gravel required. This question was answered in the negative by the court below. The case was apparently thought to be governed by the principle—established by a multitude of authorities—that where a party has agreed, without qualification, to perform an act which is not in its nature impossible of performance, he is not excused by difficulty of performance, or by the fact that he becomes unable to perform.
+
+
+[8]It is, however, equally well settled that, where performance depends upon the existence of a given thing, and such existence was assumed as the basis of the agreement, performance is excused to the extent that the thing ceases to exist or turns out to be nonexistent. Thus, where the defendants had agreed to pasture not less than 3,000 cattle on plaintiff’s land, paying therefor $1 for each and every head so pastured, and it developed that the land did not furnish feed for more than 717 head, the number actually put on the land by defendant, it was held that plaintiff could not recover the stipulated sum for the difference between the cattle pastured and the minimum of 3,000 agreed to be pastured. Williams v. Miller, 68 Cal. 290, 9 Pac. 166. Similarly, in Brick Co. v. Pond, 38 Ohio St. 65, where the plaintiff had leased all the “good No. 1 fire clay on his land,” subject to the condition that the lessees should mine or pay for not less than 2,000 tons of clay every year, paying therefor 25 cents per ton, the court
+771
+held that the lessees were not bound to pay for 2,000 tons per year, unless there was No. 1 clay on the land in such quantities as would justify its being taken out. In Ridgely v. Conewago Iron Co., 53 Fed. 988, the holding was that a mining lease requiring the lessee to mine 4,000 tons of ore annually, and to pay therefor a fixed sum per ton, or, failing to take out such quantity, to pay therefore, imposed no obligation on the lessee to pay for such stipulated quantity after the ore in the demised premises had become exhausted. There are many other cases dealing with mining leases of this character, and the general course of decision is to the effect that the performance of the obligation to take out a given quantity or to pay royalty thereon, if it be not taken out, is excused if it appears that the land does not contain the stipulated quantity.
+
+
+[9]We think the findings of fact make a case falling within the rule of these decisions. The parties were contracting for the right to take earth and gravel to be used in the construction of the bridge. When they stipulated that all of the earth and gravel needed for this purpose should be taken from plaintiff’s land, they contemplated and assumed that the land contained the requisite quantity, available for use. The defendants were not binding themselves to take what was not there. And, in determining whether the earth and gravel were “available,” we must view the conditions in a practical and reasonable way. Although there was gravel on the land, it was so situated that the defendants could not take it by ordinary means, nor except at a prohibitive cost. To all fair intents then, it was impossible for defendants to take it.
+
+
+[10]“A thing is impossible in legal contemplation when it is not practicable; and a thing is impracticable when it can only be done at an excessive and unreasonable cost.” 1 Beach on Contr. § 216. We do not mean to intimate that the defendants could excuse themselves by showing the existence of conditions which would make the performance of their obligation more expensive than they had anticipated, or which would entail a loss upon them. But, where the difference in cost is so great as here, and has the effect, as found, of making performance impracticable, the situation is not different from that of a total absence of earth and gravel.
+
+
+[11]On the facts found, there should have been no recovery on the second count.
+
+
+[12]The judgment is modified by deducting therefrom the sum of $2,043.45, and, as so modified, it stands affirmed.
+
+
+We concur: Shaw, J.; Lawlor, J.
+
+
+———
+
+
+772
+Note
+
+
+Don’t let this case mislead you into thinking that courts routinely grant relief when events are not as expected. It has to be something extraordinary. In this case, it was extremely unlikely that the parties would have foreseen that there would be water in the Arroyo Seco for an extended period. The name “Arroyo Seco” means “dry ravine.” The area through which it runs (Pasadena to Los Angeles) is basically a desert. The Arroyo Seco runs right past Dodger stadium, where for the first 20 years of the stadium’s existence no baseball game was ever cancelled on account of rain.
+
+
+———
+
+
+American Trading and Production Corp. v. Shell Intl. Marine Ltd.
+
+
+United States Court of Appeals, Second Circuit
+453 F.2d 939 (1972)
+
+
+Mulligan, Circuit Judge.
+
+
+[1]This is an appeal by American Trading and Production Corporation (hereinafter “owner”) from a judgment entered on July 29th, 1971, in the United States District Court for the Southern District of New York, dismissing its claim against Shell International Marine Ltd. (hereinafter “charterer”) for additional compensation in the sum of $131,978.442 for the transportation of cargo from Texas to India via the Cape of Good Hope as a result of the closing of the Suez Canal in June, 1967 . . . The action was tried on stipulated facts and without a jury before Hon. Harold R. Tyler, Jr. who dismissed the claim on the merits in an opinion dated July 22, 1971.
+
+
+[2]We affirm.
+
+
+[3]The owner is a Maryland corporation doing business in New York and the charterer is a United Kingdom corporation. On March 23, 1967, the parties entered into a contract of voyage charter in New York City which provided that the charterer would hire the owner’s tank vessel, WASHINGTON TRADER, for a voyage with a full cargo of lube oil from Beaumont/Smiths Bluff, Texas to Bombay, India. The charter party provided that the freight rate would be in accordance with the then prevailing American Tanker Rate Schedule (ATRS), $14.25 per long ton of cargo, plus seventy-five percent (75%), and in addition there was a charge of $.85 per long ton for passage through the Suez Canal. On May 15, 1967 the WASHINGTON TRADER departed from Beaumont with a cargo of 16,183.32 long tons of lube oil. The charterer paid the freight at the invoiced sum of $417,327.36 on May 26, 1967. On May 29th, 1967 the owner
+773
+advised the WASHINGTON TRADER by radio to take additional bunkers at Ceuta due to possible diversion because of the Suez Canal crisis. The vessel arrived at Ceuta, Spanish Morocco on May 30, bunkered and sailed on May 31st, 1967. On June 5th the owner cabled the ship’s master advising him of various reports of trouble in the Canal and suggested delay in entering it pending clarification. On that very day, the Suez Canal was closed due to the state of war which had developed in the Middle East. The owner then communicated with the charterer on June 5th through the broker who had negotiated the charter party, requesting approval for the diversion of the WASHINGTON TRADER which then had proceeded to a point about 84 miles northwest of Port Said, the entrance to the Canal. On June 6th the charterer responded that under the circumstances it was “for owner to decide whether to continue to wait or make the alternative passage via the Cape since Charter Party obliges them to deliver cargo without qualification.” In response the owner replied on the same day that in view of the closing of the Suez, the WASHINGTON TRADER would proceed to Bombay via the Cape of Good Hope and “we [are] reserving all rights for extra compensation.” The vessel proceeded westward, back through the Straits of Gibraltar and around the Cape and eventually arrived in Bombay on July 15th (some 30 days later than initially expected), traveling a total of 18,055 miles instead of the 9,709 miles which it would have sailed had the Canal been open. The owner billed $131,978.44 as extra compensation which the charterer has refused to pay.
+
+
+[4]On appeal and below the owner argues that transit of the Suez Canal was the agreed specific means of performance of the voyage charter and that the supervening destruction of this means rendered the contract legally impossible to perform and therefore discharged the owner’s unperformed obligation (Restatement of Contracts § 460 (1932)). Consequently, when the WASHINGTON TRADER eventually delivered the oil after journeying around the Cape of Good Hope, a benefit was conferred upon the charterer for which it should respond in quantum meruit. The validity of this proposition depends upon a finding that the parties contemplated or agreed that the Suez passage was to be the exclusive method of performance, and indeed it was so argued on appeal. We cannot construe the agreement in such a fashion. The parties contracted for the shipment of the cargo from Texas to India at an agreed rate and the charter party makes absolutely no reference to any fixed route. It is urged that the Suez passage was a condition of performance because the ATRS rate was based on a Suez Canal passage, the invoice contained a specific Suez Canal toll charge and the vessel actually did proceed to a point 84 miles northwest of Port Said. In our view all that this establishes is that both parties contemplated that the Canal would be the probable route. It was the cheapest and shortest, and therefore it was in the interest of both that it be utilized. However, this is not at all equivalent to an agreement that it be the exclusive method of performance. The charter party does not
+774
+so provide and it seems to have been well understood in the shipping industry that the Cape route is an acceptable alternative in voyages of this character.
+
+
+[5]The District of Columbia Circuit decided a closely analogous case, Transatlantic Financing Corp. v. United States, 124 U.S. App. D.C. 183, 363 F.2d 312 (1966). There the plaintiff had entered into a voyage charter with defendant in which it agreed to transport a full cargo of wheat on the CHRISTOS from a United States port to Iran. The parties clearly contemplated a Suez passage, but on November 2, 1956 the vessel reduced speed when war blocked the Suez Canal. The vessel changed its course in the Atlantic and eventually delivered its cargo in Iran after proceeding by way of the Cape of Good Hope. In an exhaustive opinion Judge Skelly Wright reviewed the English cases which had considered the same problem and concluded that “the Cape route is generally regarded as an alternative means of performance. So the implied expectation that the route would be via Suez is hardly adequate proof of an allocation to the promisee of the risk of closure. In some cases, even an express expectation may not amount to a condition of performance.” Transatlantic Financing Corp. v. United States, supra, 363 F.2d at 317 (footnote omitted).
+
+
+[6]Appellant argues that Transatlantic is distinguishable since there was an agreed upon flat rate in that case unlike the instant case where the rate was based on Suez passage. This does not distinguish the case in our view. It is stipulated by the parties here that the only ATRS rate published at the time of the agreement from Beaumont to Bombay was the one utilized as a basis for the negotiated rate ultimately agreed upon. This rate was escalated by 75% to reflect whatever existing market conditions the parties contemplated. These conditions are not stipulated. Had a Cape route rate been requested, which was not the case, it is agreed that the point from which the parties would have bargained would be $17.35 per long ton of cargo as against $14.25 per long ton.
+
+
+[7]Actually, in Transatlantic it was argued that certain provisions in the P. & I. Bunker Deviation Clause referring to the direct and/or customary route required, by implication, a voyage through the Suez Canal. The court responded “actually they prove only what we are willing to accept—that the parties expected the usual and customary route would be used. The provisions in no way condition performance upon non-occurrence of this contingency.” Transatlantic Financing Corp. v. United States, supra, 363 F.2d at 317 n. 8. We hold that all that the ATRS rate establishes is that the parties obviously expected a Suez passage but there is no indication at all in the instrument or dehors that it was a condition of performance.
+
+
+[8]This leaves us with the question as to whether the owner was excused from performance on the theory of commercial impracticability
+775
+(Restatement of Contracts § 454 (1932)). Even though the owner is not excused because of strict impossibility, it is urged that American law recognizes that performance is rendered impossible if it can only be accomplished with extreme and unreasonable difficulty, expense, injury or loss.3 There is no extreme or unreasonable difficulty apparent here. The alternate route taken was well recognized, and there is no claim that the vessel or the crew or the nature of the cargo made the route actually taken unreasonably difficult, dangerous or onerous. The owner’s case here essentially rests upon the element of the additional expense involved—$131,978.44. This represents an increase of less than one third over the agreed upon $417,327.36. We find that this increase in expense is not sufficient to constitute commercial impracticability under either American or English authority.
+
+
+[9]Mere increase in cost alone is not a sufficient excuse for nonperformance (Restatement of Contracts § 467 (1932)). It must be an “extreme and unreasonable”4 expense (Restatement of Contracts § 454 (1932)).5 While in the Transatlantic case supra, the increased cost amounted to an increase of about 14% over the contract price, the court did cite with approval the two leading English cases Ocean Tramp Tankers Corp. v. V/O Sovfracht (The Eugenia), [1964] 2 Q.B. 226, 233 (C.A. 1963) (which expressly overruled Societe Franco Tunisienne D’Armement v. Sidermar S.P.A. (The Messalia), [1961] 2 Q.B. 278 (1960), where the court had found frustration because the Cape route was highly circuitous and involved an increase in cost of approximately 50%), and Tsakiroglou & Co. Lt. v. Noblee Thorl G.m.b.H., [1960] 2 Q.B. 318, 348, aff’d, [1962] A.C., 93 (1961) where the House of Lords found no frustration though the freight costs were exactly doubled due to the Canal closure.6
+
+
+776
+[10]Appellant further seeks to distinguish Transatlantic because in that case the change in course was in the mid-Atlantic and added some 300 miles to the voyage while in this case the WASHINGTON TRADER had traversed most of the Mediterranean and thus had added some 9000 miles to the contemplated voyage. It should be noted that although both the time and the length of the altered passage here exceeded those in the Transatlantic, the additional compensation sought here is just under one third of the contract price. Aside from this however, it is a fact that the master of the WASHINGTON TRADER was alerted by radio on May 29th, 1967, of a “possible diversion because of Suez Canal crisis,” but nevertheless two days later he had left Ceuta (opposite Gibraltar) and proceeded across the Mediterranean. While we may not speculate about the foreseeability of a Suez crisis at the time the contract was entered, there does not seem to be any question but that the master here had been actually put on notice before traversing the Mediterranean that diversion was possible. Had the WASHINGTON TRADER then changed course, the time and cost of the Mediterranean trip could reasonably have been avoided, thereby reducing the amount now claimed.
+
+
+* * *
+
+
+[11]Matters involving impossibility or impracticability of performance of contract are concededly vexing and difficult. One is even urged on the allocation of such risks to pray for the “wisdom of Solomon.” 6 A. Corbin, Contracts § 1333, at 372 (1962). On the basis of all of the facts, the pertinent authority and a further belief in the efficacy of prayer, we affirm.
+
+
+———
+
+
+Publicker Industries v. Union Carbide Corp.
+
+
+United States District Court, Eastern District, Pennsylvania
+17 U.C.C. Rep. Serv. (Callaghan) 989 (1975)
+
+
+Weiner, District Judge.
+
+
+[1]This case presents the problem of whether a seller’s performance under a contract has become impracticable because its costs have nearly doubled due allegedly to unforeseeable events arising out of the 1973 Middle East War.
+
+
+[2]In July of 1972, Union Carbide Corporation and Publicker Industries, entered into a contract whereby Union Carbide was to supply Publicker with a substance called “Spirits Grade Ethanol” for a period of three years. The price was to be determined by a detailed formula set forth in the contract. Essentially the price was to be adjusted once at the beginning of each year of the contract to reflect any change in the seller’s cost. The major cost element of Ethanol is Ethylene, a type of natural gas,
+777
+and the following clause indicates how fluctuations in its cost was to affect the selling price.
+
+
+(d)The contract price of $.2450 per gallon shall be adjusted by four-tenths of one cent ($.004) per gallon for each one-tenth of one cent ($.001) per pound increase or decrease from the “base value” in the average of Seller’s Standard Cost for Ethylene used in the manufacture of Ethanol at its Texas City, Texas plant during the calendar year immediately preceding the then current calendar year. The “base value” referred to above shall be the average of Seller’s Standard Cost for Ethylene used in the production of Ethanol at its Texas City, Texas plant during the calendar year 1972. Seller’s Standard Cost for Ethylene shall mean the charge UNION CARBIDE makes to all of its Gulf Coast internal consumers for Gulf Coast produced Ethylene.
+
+
+In no event, however, shall the amount of said increase in the contract price for Ethanol 190 Proof, based upon Seller’s increased Standard Cost for Ethylene, cause the price to be paid for Ethanol 190 Proof to exceed the price listed below:
+
+
+During the calendar year 1974 $.2550 per gallon*
+
+
+During the calendar year 1975 $.2650 per gallon*
+
+
+During the calendar year 1976 $.2750 per gallon*
+
+
+During the calendar year 1977 $.2850 per gallon*
+
+
+*plus the amount of any increase, or minus the amount of any decrease, pursuant to paragraphs (a)(b) and (c) above.7
+
+
+[3]By July of 1974, the price of Ethylene had risen so much that Union Carbide informed Publicker that it would insist on amending the contract to remove the price ceilings from the Ethylene price escalator provision quoted above. In August of 1974, Union Carbide told Publicker that unless it agreed to the proposed changes, it would cease supplying it with Ethanol. Thereupon, Publicker brought this action to require that Union Carbide specifically perform the contract.
+
+
+[4]After preliminary proceedings, it was agreed that until this suit was resolved, Union Carbide would continue to supply Publicker but at the higher price it had demanded. It was further agreed that the court would make an initial ruling on whether it had the power to alter the terms of the contract. That is the question that is presently before us. Essentially we must determine whether Union Carbide’s refusal to honor the contract was
+778
+justified, and if so, whether the contract can be enforced but at a higher price to be set by the court.
+
+
+[5]Defendant, Union Carbide, argues that the very substantial and allegedly unforeseen rise in the price of Ethylene excused it from further performance on two grounds: (1) that it was the type of occurrence which under the “force majeure” clause of the contract relieved it of its duty to perform; and (2) that as a matter of general commercial law, the price rise was of such a nature as to render further performance impracticable (U.C.C. § 2–615).
+
+
+[6]The “force majeure” clause provided in relevant part that:
+
+
+Neither party shall be liable for its failure to perform hereunder if said performance is made impracticable due to any occurrence beyond its reasonable control, including acts of God, fires, floods, wars, sabotage, accidents, labor disputes or shortages, governmental laws, ordinances, rules and regulations, . . . , inability to obtain material, equipment or transportation, and any other similar or different occurrence. The party whose performance is made impracticable by any such occurrence shall have the right to omit during the period of such occurrence all or any portion of the quantity deliverable during such period. . . .
+
+
+[7]It is comparable to that portion of the Uniform Commercial Code also relied upon by defendant which provides that:
+
+
+Delay in delivery or non-delivery in whole or in part by a seller . . . is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the non-occurrence of which was a basic assumption on which the contract was made. . . .
+
+
+Delay in delivery or non-delivery by a seller . . . is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made. . . .
+
+
+12 A. Pa. Stat. Ann. § 2–615 (Purdon’s 1970).
+
+
+[8]Under either of the theories put forth by the defendant, the key to success is a finding by us that performance under the terms of the contract would be “impracticable.” This would essentially require us to find that increased costs alone are sufficient to render performance impracticable. Comment 4 to § 2–615 quoted above indicates that:
+
+
+Increased cost alone does not excuse performance unless the rise in cost is due to some unforseen contingency which alters the essential nature of the performance. Neither is a rise in the
+779
+market in itself a justification, for that is exactly the type of business risk which business contracts cover. But a severe shortage of raw materials or of supplies due to a contingency such as war, embargo, local crop failure, unforseen shutdown of major sources of supply or the like, which either causes a marked increase in cost or altogether prevents the seller from securing supplies necessary to his performance, is within the contemplation of this section.
+
+
+[9]Union Carbide argues that it has suffered excessive cost increases as a result of allegedly unprecedented Arab price hikes. Testimony was presented to show the connection between oil prices and natural gas prices. Various experts testified that at the time of the contract, it was completely unforeseeable that the oil producing nations would bring about such exorbitant price increases. Union Carbide’s experts further testified that the price ceiling established for 1974 in the contract was based upon their forecast that the Ethylene price for 1974 would be 3.75 cents a pound but that in fact by July 1974 the price had risen to 7 cents a pound. As a result, defendant’s cost per gallon of Ethanol rose from 21.2 cents a gallon in 1973 to 37.2 cents a gallon by the middle of 1974. Confronted with a contract sale price fixed at 26.5 gallons for 1974, defendant was losing over 10 cents a gallon at the time it refused to continue performance. It now alleges that if it is forced to complete performance under the present contract, it will suffer an aggregate loss in excess of 5.8 million dollars.
+
+
+[10]However, plaintiff Publicker contends that because the oil producing nations had joined together in 1971 to effect a 25% price increase, further price increases of the same kind were not unforeseeable at the time of the contract. Furthermore, it argues that the precise purpose of the ceiling provision in the contract was to place upon Union Carbide the risk of any unusual rise in the price of Ethylene. It is contended that in any event, the mere fact that the cost of performance has doubled does not make such performance impracticable.
+
+
+[11]We agree with the plaintiff. We are not aware of any cases where something less than a 100% percent cost increase has been held to make a seller’s performance “impracticable.” It is clear that in the present case, the contract contemplated that foreseeable cost increases would be passed on to the buyer. However, the existence of a specific provision which put a ceiling on contract price increases resulting from a rise in the cost of Ethylene impels the conclusion that the parties intended that the risk of a substantial and unforeseen rise in its cost would be borne by the seller, Union Carbide.
+
+
+While it may be an overstatement to say that increased cost and difficulty of performance never constitute impracticability, to justify relief there must be more of a variation between expected
+780
+cost and the cost of performing by an available alternative than is present in this case, where the promisor can legitimately be presumed to have accepted some degree of abnormal risk, and where impracticability is urged on the basis of added expense alone.
+
+
+Transatlantic Financing Corporation v. United States, 363 F.2d 312, 319 (D. C. Cir. 1966). While Transatlantic involved a much smaller cost increase, we feel that its reasoning is equally applicable here.
+
+
+[12]As a finding that performance would be impracticable is necessary for defendant to prevail under either of the theories it has advanced, our conclusion that performance was not made impracticable puts defendant in breach of the contract. While not necessary to our holding, we also note that we have some doubt as to whether the Arab oil price rises were a “contingency the non-occurrence of which was a basic assumption on which the contract was made” or whether because of the rule of ejusdem generis8 they would be covered by the “force majeure” clause of the contract.
+
+
+[13]This opinion is filed in lieu of any findings of fact and conclusions of law that might be required under Fed. R. Civ. P. 52(a).
+
+
+———
+
+
+United States v. Wegematic Corp., United States Court of Appeals, Second Circuit, 360 F.2d 674 (1966)
+
+
+Friendly, Circuit Judge.
+
+
+[1]The facts developed at trial in the District Court for the Southern District of New York, fully set forth in a memorandum by Judge Graven, can be briefly summarized: In June 1956 the Federal Reserve Board invited five electronics manufacturers to submit proposals for an intermediate-type, general-purpose electronic digital computing system or systems; the invitation stressed the importance of early delivery as a consideration in determining the Board’s choice. Defendant, a relative newcomer in the field, which had enjoyed considerable success with a smaller computer known as the ALWAC III-E, submitted a detailed proposal for the sale or lease of a new computer designated as the ALWAC 800. It characterized the machine as “a truly revolutionary system utilizing all of the latest technical advances,” and featured that “maintenance problems are minimized by the use of highly reliable magnetic cores for not only the high
+781
+speed memory but also logical elements and registers.” Delivery was offered nine months from the date the contract or purchase order was received. In September the Board acted favorably on the defendant’s proposal, ordering components of the ALWAC 800 with an aggregate cost of $231,800. Delivery was to be made on June 30, 1957, with liquidated damages of $100 per day for delay. The order also provided that in the event the defendant failed to comply “with any provision” of the agreement, “the Board may procure the services described in the contract from other sources and hold the Contractor responsible for any excess cost occasioned thereby.” Defendant accepted the order with enthusiasm.
+
+
+[2]The first storm warning was a suggestion by the defendant in March 1957 that the delivery date be postponed. In April it informed the Board by letter that delivery would be made on or before October 30 rather than as agreed, the delay being due to the necessity of “a redesign which we feel has greatly improved this equipment”; waiver of the stipulated damages for delay was requested. The Board took the request under advisement. On August 30 defendant wrote that delivery would be delayed “possibly into 1959”; it suggested use of ALWAC III-E equipment in the interim and waiver of the $100 per day “penalty.” The Board also took this request under advisement but made clear it was waiving no rights. In mid-October defendant announced that “due to engineering difficulties it has become impracticable to deliver the ALWAC 800 Computing System at this time”; it requested cancellation of the contract without damages. The Board set about procuring comparable equipment from another manufacturer; on October 6, 1958, International Business Machines Corporation delivered an IBM 650 computer, serving substantially the same purpose as the ALWAC 800, at a rental of $102,000 a year with an option to purchase for $410,450.
+
+
+[3]In July 1958 the Board advised defendant of its intention to press its claim for damages; this suit followed. The court awarded the United States $46,300 for delay under the liquidated damages clause, $179,450 for the excess cost of the IBM equipment, and $10,056 for preparatory expenses useless in operating the IBM system—a total of $235,8069, with 6% interest from October 6, 1958.
+
+
+[4]The principal point of the defense, which is the sole ground of this appeal, is that delivery was made impossible by “basic engineering difficulties” whose correction would have taken between one and two years and would have cost a million to a million and a half dollars, with success likely but not certain. Although the record does not give an entirely clear notion what the difficulties were, two experts suggested that they may have stemmed from the magnetic cores, used instead of transistors to achieve a solid state machine, which did not have sufficient uniformity at this stage
+782
+of their development. Defendant contends that under federal law, which both parties concede to govern, see Cargill, Inc. v. Commodity Credit Corp., 275 F.2d 745, 751–753 (2 Cir. 1960), the “practical impossibility” of completing the contract excused its defaults in performance.
+
+
+[5]We find persuasive the defendant’s suggestion of looking to the Uniform Commercial Code as a source for the “federal” law of sales. The Code has been adopted by Congress for the District of Columbia, 77 Stat. 630 (1963), has been enacted in over forty states, and is thus well on its way to becoming a truly national law of commerce, which, as Judge L. Hand said of the Negotiable Instruments Law, is “more complete and more certain, than any other which can conceivably be drawn from those sources of ‘general law’ to which we were accustomed to resort in the days of Swift v. Tyson.” New York, N.H. & H.R. Co. v. Reconstruction Finance Corp., 180 F.2d 241, 244 (2 Cir. 1950). When the states have gone so far in achieving the desirable goal of a uniform law governing commercial transactions, it would be a distinct disservice to insist on a different one for the segment of commerce, important but still small in relation to the total, consisting of transactions with the United States.
+
+
+[6]Section 2–615 of the UCC, entitled “Excuse by failure of presupposed conditions,” provides that:
+
+
+Except so far as a seller may have assumed a greater obligation . . . delay in delivery or non-delivery . . . is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made. . . .
+
+
+[7]The latter part of the test seems a somewhat complicated way of putting Professor Corbin’s question of how much risk the promisor assumed. Recent Developments in the Law of Contracts, 50 Harv.L.Rev. 449, 465–66 (1937); 2 Corbin, Contracts § 1333, at 371. We see no basis for thinking that when an electronics system is promoted by its manufacturer as a revolutionary breakthrough, the risk of the revolution’s occurrence falls on the purchaser; the reasonable supposition is that it has already occurred or, at least, that the manufacturer is assuring the purchaser that it will be found to have when the machine is assembled. As Judge Graven said: “The Board in its invitation for bids did not request invitations to conduct a development program for it. The Board requested invitations from manufacturers for the furnishing of a computer machine.” Acceptance of defendant’s argument would mean that though a purchaser makes his choice because of the attractiveness of a manufacturer’s representation and will be bound by it, the manufacturer is free to express what are only aspirations and gamble on mere probabilities of fulfillment without any risk of liability. In fields of developing technology, the manufacturer would
+783
+thus enjoy a wide degree of latitude with respect to performance while holding an option to compel the buyer to pay if the gamble should pan out. We do not think this the common understanding—above all as to a contract where the manufacturer expressly agreed to liquidated damages for delay and authorized the purchaser to resort to other sources in the event of non-delivery. If a manufacturer wishes to be relieved of the risk that what looks good on paper may not prove so good in hardware, the appropriate exculpatory language is well known and often used.
+
+
+[8]Beyond this the evidence of true impracticability was far from compelling. The large sums predicted by defendant’s witnesses must be appraised in relation not to the single computer ordered by the Federal Reserve Board, evidently for a bargain price, but to the entire ALWAC 800 program as originally contemplated. Although the record gives no idea what this was, even twenty-five machines would gross $10,000,000 if priced at the level of the comparable IBM equipment. While the unanticipated need for expending $1,000,000 or $1,500,000 on redesign might have made such a venture unattractive, as defendant’s management evidently decided, the sums are thus not so clearly prohibitive as it would have them appear. What seemingly did become impossible was on time performance; the issue of whether, if defendant had offered prompt rectification of the design, the Government could have refused to give it a chance and still recover not merely damages for delay but also the higher cost of replacement equipment, is not before us.
+
+
+Affirmed.
+
+
+———
+
+
+Notes and Questions
+
+
+1.As stated in paragraph [2], in the August 30 letter, the defendant characterized the $100 per day provision as a “penalty.” This was probably a little too clever, trying to characterize it as a penalty and then claim that the government acceded to that characterization when it didn’t correct them. (Although a similar record was made in the Dow Corning case in Chapter 21 and seems to have worked, or at least not been judged “too cute.”) This little trick may have cost them some sympathy with the court. Nevertheless, the government lawyers should have shot back a letter saying that it was liquidated damages and not a penalty and then warned the people administering the contract to watch out for more slick tricks.
+
+
+2.The UNIDROIT principles address impracticability in articles 6.2.2 and 6.2.3, which establish a renegotiation process prior to commencement of court action. What do you think of this procedure and the standards enunciated?
+
+
+———
+
+
+784
+Problem 27-1
+
+
+In 1965, Amalgamated Edison (“AmEd”) was planning to build a new generating plant. Choosing between a nuclear plant and a fossil-fuel plant, it was leaning toward a fossil-fuel plant. As its CEO told representatives of Eastinghouse, which was trying to sell it a nuclear plant, “We are concerned that as more utilities start building nuclear plants, the price of nuclear fuels will go up more quickly than will the prices of fossil fuels.” To get the sale, Eastinghouse agreed to sell AmEd all the fuel it needed to run its plant at a price equal to (a) the 1965 price multiplied by (b) the ratio of (i) the Producer Price Index for the year in which the fuel was to be delivered to (ii) the Producer Price Index for the year 1965. (The Producer Price Index is measure of inflation similar to the Consumer Price Index but based on the price of raw materials rather than the price of goods and services used by consumers.)
+
+
+Things went well until 1976, when inspired by the success of the Organization of Petroleum Exporting Countries (“OPEC”), the countries where uranium was mined formed a cartel, and the price of nuclear fuel quadrupled. Eastinghouse refused to honor its contract with AmEd, claiming that the formation of the cartel made performance under the terms of its contract impracticable.
+
+
+It is 1976. You are a clerk to a United States District Judge. Eastinghouse has filed in your court a declaratory judgment action seeking to have the court declare that Eastinghouse is not bound to perform under the terms of its contract.
+
+
+Advise the judge as to the way she should rule on the issue of whether U.C.C. § 2–615 relieves Eastinghouse of its obligation to supply fuel at the contract price.
+
+
+Problem 27-2
+
+
+(a)Farmer and Broker enter into a contract under the terms of which Farmer agreed to sell and Broker agreed to buy 100,000 bushels of wheat at a price of $3.00 per bushel. Some time thereafter, Farmer’s crop was wiped out by a dust storm, something that had never before happened in that area. Farmer did not deliver the wheat even though wheat was available on the open market at a price of $3.50 per bushel. Farmer claims that the doctrine of impracticability relieved her of her obligation to deliver the wheat. Is she correct?
+
+
+(b)Suppose that when Broker offered Farmer the contract, Farmer had asked to have it changed so that instead of “100,000 bushels of wheat,” it read “100,000 bushels of wheat grown by Farmer on her land.” How would that affect the outcome?
+
+
+———
+
+
+785
+Krell v. Henry, Court of Appeal, 2 K.B. 740 (1903)
+
+
+[When Queen Victoria died in 1901 and her son ascended the throne as King Edward VII, the British public was looking forward to a spectacular coronation. Mr. Krell was going to be out of London and told his solicitor to rent his rooms while he was gone. The apartment overlooked the route of the coronation parade, so the solicitor put the place up for rent as a party suite for the two-day coronation. Mr. Henry took it for a price of £75 (equivalent to over $3,000 today) for the two days. He paid £25 before the coronation was postponed due to an attack of appendicitis by the heir to the throne. He refused to pay the remaining £ 50, and Krell sued.—Eds.]
+
+
+[1]Appeal from a decision of Darling J. . . . [who] held, upon the authority of Taylor v. Caldwell . . . that there was an implied condition in the contract that the procession should take place, and gave judgment for the defendant on the claim and counterclaim.
+
+
+The plaintiff appealed.
+
+
+[2][Counsel for the plaintiff argued:] In the contract nothing is said about the coronation procession, but it is admitted that both parties expected that there would be a procession, and that the price to be paid for the rooms was fixed with reference to the expected procession. Darling J. held that both the claim and the counter-claim were governed by Taylor v. Caldwell . . . , and that there was an implied term in the contract that the procession should take place. It is submitted that the learned judge was wrong. If he was right, the result will be that in every case of this kind an unremunerated promissor will be in effect an insurer of the hopes and expectations of the promissee. . . . There was, of course, the risk that the procession, the anticipation of which gave the room a marketable value, might, from some cause or other, never take place; but that risk passed to the defendant by the contract. On entering into the contract with the defendant the plaintiff put it out of his power to let the room to anyone else: he passed the right and the risk at the same time. No implied condition can be imported into the contract that the object of it shall be attained. There can be no implied condition that the defendant shall be placed in the actual position of seeing the procession . . . The contract here is absolute, and the defendant has not, as he might have done, guarded himself against the risk by suitable words.
+
+
+[3][Counsel for the defendant argued:] The defendant abandons his counter-claim for £25, so that the sole question is as to his liability for the £50. . . . The price agreed to be paid must be regarded: it is equivalent to many thousands a year. What explanation can be given of that, except that it was agreed to be paid for the purpose of enabling the defendant to see
+786
+the procession? It was the absolute assumption of both parties when entering into the contract that the procession would pass. . . .
+
+
+[4]Vaughan Williams L.J. read the following written judgment:—The real question in this case is the extent of the application in English law of the principle of the Roman law which has been adopted and acted on in many English decisions, and notably in the case of Taylor v. Caldwell . . . Thus far it is clear that the principle of Roman law has been introduced into the English law. The doubt in the present case arises as to how far this principle extends. The Roman law dealt with obligations de certo corpore. Whatever may have been the limits of the Roman law, the case of Nickoll v. Ashton . . . makes it plain that the English law applies the principle not only to cases where the performance of the contract becomes impossible by the cessation of existence of the thing which is the subject matter of the contract, but also to cases where the event which renders the contract incapable of performance is the cessation or nonexistence of an express condition or state of things, going to the root of the contract, and essential to its performance. It is said, on the one side, that the specified thing, state of things, or condition the continued existence of which is necessary for the fulfillment of the contract, so that the parties entering into the contract must have contemplated the continued existence of that thing, condition, or state of things as the foundation of what was to be done under the contract, is limited to things which are either the subject matter of the contract or a condition or state of things, present or anticipated, which is expressly mentioned in the contract. But, on the other side, it is said that the condition or state of things need not be expressly specified, but that it is sufficient if that condition or state of things clearly appears by extrinsic evidence to have been assumed by the parties to be the foundation or basis of the contract, and the event which causes the impossibility is of such a character that it cannot reasonably be supposed to have been in the contemplation of the contracting parties when the contract was made. In such a case the contracting parties will not be held bound by the general words which, though large enough to include, were not used with reference to a possibility of a particular event rendering performance of the contract impossible. I do not think that the principle of the civil law as introduced into the English law is limited to cases in which the event causing the impossibility of performance is the destruction or nonexistence of some thing which is the subject matter of the contract or of some condition or state of things expressly specified as a condition of it. I think that you first have to ascertain, inferences, drawn from surrounding circumstances recognized by both contracting parties, what is the substance of the contract, and then to ask the question whether that substantial contract needs for its foundation the assumption of the general words, and in such case, if the contract becomes impossible of performance by reason of the nonexistence of the state of things assumed by both contracting parties as the foundation of the contract, there will be no breach of the contract thus
+787
+limited. Now what are the facts of the present case? The contract is contained in two letters of June 20 which passed between the defendant and the plaintiff’s agent, Mr. Cecil Bisgood. These letters did not mention the coronation, but speak merely of the taking of Mr. Krell’s chambers, or, rather, of the use of them, in the daytime of June 26 and 27, for the sum of 75£, 25£ then paid, balance 50£10 to be paid on the 14th. But the affidavits, which by agreement between the parties are to be taken as stating the facts of the case, show that the plaintiff exhibited on his premises, third floor, 56A, Pall Mall, an announcement to the effect that the windows to view the Royal coronation procession were to be let, and that the defendant was induced by that announcement to apply to the housekeeper on the premises, who said that the owner was willing to let the suite of rooms for the purpose of seeing the Royal procession for both days, but not nights of June 26 and 27. In my judgment the use of rooms was let and taken for the purpose of seeing the Royal procession. . . . I think that the coronation procession was the foundation of this contract, and that the non-happening of it prevented the performance of the contract; and secondly, I think that the non-happening of the procession, to use the words of Sir James Hannen in Baily v. De Crespigny . . . , was an event “of such character that it cannot reasonably be supposed to have been in the contemplation of the contracting parties when the contract was made, and that they are not be held bound by general words which, though large enough to include, were not used with reference to the possibility of the particular contingency which afterwards happened.” The test seems to be whether the event which causes the impossibility was or might have been anticipated and guarded against. It seems difficult to say, in a case where both parties anticipate the happening of an event, which anticipation is the foundation of the contract, that either party must be taken to have anticipated, and ought to have guarded against, the event which prevented the performances of the contract. . . . I myself am clearly of the opinion that in this case, where we have to ask ourselves whether the object of the contract was frustrated by the nonhappening of the coronation and its procession of the days proclaimed, parol evidence is admissible to show that the subject of the contract was rooms to view the coronation procession, and was so to the knowledge of both parties. When once this is established, I see no difficulty whatever in the case. It is not essential to the application of the principle of Taylor v. Caldwell . . . that the direct subject of the contract should perish or fail to be in existence at the date of performance of the contract. It is sufficient if a state of things or condition which fails and prevents the achievement of that which was, in the contemplation of both parties, the foundation of the contract, is not expressly mentioned either as a condition of the principle of Taylor v. Caldwell . . . ought to be applied. This disposes of the plaintiff’s claim for £50 unpaid balance of the price agreed to be paid
+788
+for the use of the rooms. The defendant at one time set up a cross-claim for the return of the £25 to be paid at the date of the contract. As that claim is now withdrawn it is unnecessary to say anything about it. . . . I think this appeal ought to be dismissed.
+
+
+[5]Romer L.J. With some doubt I have also come to the conclusion that this case is governed by the principle on which Taylor v. Caldwell . . . was decided, and accordingly that the appeal must be dismissed. The doubt I have felt was whether the parties to the contract now before us could be said, under the circumstances, not to have had at all in their contemplation the risk that for some reason or other the coronation procession might not take place on the days fixed, or, if the processions took place, might not pass so as to be capable of being viewed from the rooms mentioned in the contract; and whether, under this contract, that risk was not undertaken by the defendant. But on the question of fact as to what was in the contemplation of the parties at the time, I do not think it right to differ from the conclusion arrived at by Vaughan Williams L.J. in his judgment, and I do not desire to add anything to what he has said so fully and completely.
+
+
+[6]Stirling L.J. said he had had the opportunity of reading the judgment delivered by Vaughan Williams L.J., with which he entirely agreed. Though the case was one of very great difficulty, he thought it came within the principle of Taylor v. Caldwell.
+
+
+Appeal dismissed.
+
+
+———
+
+
+Lloyd v. Murphy
+
+
+Supreme Court of California
+25 Cal.2d 48, 153 P.2d 47 (1944)
+
+
+Traynor, J.
+
+
+[1]On August 4, 1941, plaintiffs leased to defendant for a five-year term beginning September 15, 1941, certain premises located at the corner of Almont Drive and Wilshire Boulevard in the city of Beverly Hills, Los Angeles County, “for the sole purpose of conducting thereon the business of displaying and selling new automobiles (including the servicing and repairing thereof and of selling the petroleum products of a major oil company) and for no other purpose whatsoever without the written consent of the lessor” except “to make an occasional sale of a used automobile.” Defendant agreed not to sublease or assign without plaintiffs’ written consent. On January 1, 1942, the federal government ordered that the sale of new automobiles be discontinued. It modified this order on January 8, 1942, to permit sales to those engaged in military activities, and on January 20, 1942, it established a system of priorities restricting sales to
+789
+persons having preferential ratings of A-1-j or higher. On March 10, 1942, defendant explained the effect of these restrictions on his business to one of the plaintiffs authorized to act for the others, who orally waived the restrictions in the lease as to use and subleasing and offered to reduce the rent if defendant should be unable to operate profitably. Nevertheless defendant vacated the premises on March 15, 1942, giving oral notice of repudiation of the lease to plaintiffs, which was followed by a written notice on March 24, 1942. Plaintiffs affirmed in writing on March 26th their oral waiver and, failing to persuade defendant to perform his obligations, they rented the property to other tenants pursuant to their powers under the lease in order to mitigate damages. On May 11, 1942, plaintiffs brought this action praying for declaratory relief to determine their rights under the lease, and for judgment for unpaid rent. Following a trial on the merits, the court found that the leased premises were located on one of the main traffic arteries of Los Angeles County; that they were equipped with gasoline pumps and in general adapted for the maintenance of an automobile service station; that they contained a one-story storeroom adapted to many commercial purposes; that plaintiffs had waived the restrictions in the lease and granted defendant the right to use the premises for any legitimate purpose and to sublease to any responsible party; that defendant continues to carry on the business of selling and servicing automobiles at two other places. Defendant testified that at one of these locations he sold new automobiles exclusively and when asked if he were aware that many new automobile dealers were continuing in business replied: “Sure. It is just the location that I couldn’t make a go, though, of automobiles.” Although there was no finding to that effect, defendant estimated in response to inquiry by his counsel, that 90 per cent of his gross volume of business was new car sales and 10 per cent gasoline sales. The trial court held that war conditions had not terminated defendant’s obligations under the lease and gave judgment for plaintiffs, declaring the lease as modified by plaintiffs’ waiver to be in full force and effect, and ordered defendant to pay the unpaid rent with interest, less amounts received by plaintiffs from re-renting. Defendant brought this appeal, contending that the purpose for which the premises were leased was frustrated by the restrictions placed on the sale of new automobiles by the federal government, thereby terminating his duties under the lease.
+
+
+[2]Although commercial frustration was first recognized as an excuse for nonperformance of a contractual duty by the courts of England (Krell v. Henry [1903] 2 K.B. 740 [C.A.]) its soundness has been questioned by those courts, arguing that Krell v. Henry, supra, was a misapplication of Taylor v. Caldwell, 3 B. & S 826 [1863], the leading case on impossibility as an excuse for nonperformance, and they have refused to apply the doctrine to leases on the ground that an estate is conveyed to the lessee, which carries with it all risks. Many courts, therefore, in the United States have held that the tenant bears all risks as owner of the estate, but the
+790
+modern cases have recognized that the defense may be available in a proper case, even in a lease. As the author declares in 6 Williston, Contracts (rev. ed. 1938), § 1955, pp. 5485–87,
+
+
+The fact that a lease is a conveyance and not simply a continuing contract and the numerous authorities enforcing liability to pay rent in spite of destruction of leased premises, however, have made it difficult to give relief. That the tenant has been relieved, nevertheless, in several cases indicates the gravitation of the law toward a recognition of the principle that fortuitous destruction of the value of performance wholly outside the contemplation of the parties may excuse a promisor even in a lease. . . .
+
+
+Even more clearly with respect to leases than in regard to ordinary contracts the applicability of the doctrine of frustration depends on the total or nearly total destruction of the purpose for which, in the contemplation of both parties, the transaction was entered into.
+
+
+[3]The principles of frustration have been repeatedly applied to leases by the courts of this state and the question is whether the excuse for nonperformance is applicable under the facts of the present case.
+
+
+[4]Although the doctrine of frustration is akin to the doctrine of impossibility of performance since both have developed from the commercial necessity of excusing performance in cases of extreme hardship, frustration is not a form of impossibility even under the modern definition of that term, which includes not only cases of physical impossibility but also cases of extreme impracticability of performance (see Mineral Park Land Co. v. Howard, 172 Cal. 289). Performance remains possible but the expected value of performance to the party seeking to be excused has been destroyed by a fortuitous event, which supervenes to cause an actual but not literal failure of consideration. Krell v. Henry, supra.
+
+
+[5]The question in cases involving frustration is whether the equities of the case, considered in the light of sound public policy, require placing the risk of a disruption or complete destruction of the contract equilibrium on defendant or plaintiff under the circumstances of a given case and the answer depends on whether an unanticipated circumstance, the risk of which should not be fairly thrown on the promisor, has made performance vitally different from what was reasonably to be expected. The purpose of a contract is to place the risks of performance upon the promisor, and the relation of the parties, terms of the contract, and circumstances surrounding its formation must be examined to determine whether it can be fairly inferred that the risk of the event that has supervened to cause the alleged frustration was not reasonably foreseeable. If it was foreseeable there should have been provision for it in the contract, and the absence of such a provision gives rise to the inference that the risk was assumed.
+
+
+791
+[6]The doctrine of frustration has been limited to cases of extreme hardship so that businessmen, who must make their arrangements in advance, can rely with certainty on their contracts. The courts have required a promisor seeking to excuse himself from performance of his obligations to prove that the risk of the frustrating event was not reasonably foreseeable and that the value of counterperformance is totally or nearly totally destroyed, for frustration is no defense if it was foreseeable or controllable by the promisor, or if counterperformance remains valuable.
+
+
+[7]Thus laws or other governmental acts that make performance unprofitable or more difficult or expensive do not excuse the duty to perform a contractual obligation. It is settled that if parties have contracted with reference to a state of war or have contemplated the risks arising from it, they may not invoke the doctrine of frustration to escape their obligations.
+
+
+[8]At the time the lease in the present case was executed the National Defense Act (Public Act No. 671 of the 76th Congress [54 Stats. 601], § 2A), approved June 28, 1940, authorizing the President to allocate materials and mobilize industry for national defense, had been law for more than a year. The automotive industry was in the process of conversion to supply the needs of our growing mechanized army and to meet lend-lease commitments. Iceland and Greenland had been occupied by the army. Automobile sales were soaring because the public anticipated that production would soon be restricted. These facts were commonly known and it cannot be said that the risk of war and its consequences necessitating restriction of the production and sale of automobiles was so remote a contingency that its risk could not be foreseen by defendant, an experienced automobile dealer. Indeed, the conditions prevailing at the time the lease was executed, and the absence of any provision in the lease contracting against the effect of war, gives rise to the inference that the risk was assumed. Defendant has therefore failed to prove that the possibility of war and its consequences on the production and sale of new automobiles was an unanticipated circumstance wholly outside the contemplation of the parties.
+
+
+[9]Nor has defendant sustained the burden of proving that the value of the lease has been destroyed. The sale of automobiles was not made impossible or illegal but merely restricted and if governmental regulation does not entirely prohibit the business to be carried on in the leased premises but only limits or restricts it, thereby making it less profitable and more difficult to continue, the lease is not terminated or the lessee excused from further performance. Defendant may use the premises for the purpose for which they were leased. New automobiles and gasoline continue to be sold. Indeed, defendant testified that he continued to sell new automobiles exclusively at another location in the same county.
+
+
+792
+[10]Defendant contends that the lease is restrictive and that the government orders therefore destroyed its value and frustrated its purpose. Provisions that prohibit subleasing or other uses than those specified affect the value of a lease and are to be considered in determining whether its purpose has been frustrated or its value destroyed (see Owens, The Effect of the War Upon the Rights and Liabilities of Parties to a Contract, 19 California State Bar Journal 132, 143). It must not be forgotten, however, that “The landlord has not covenanted that the tenant shall have the right to carry on the contemplated business or that the business to which the premises are by their nature or by the terms of the lease restricted shall be profitable enough to enable the tenant to pay the rent but has imposed a condition for his own benefit; and, certainly, unless and until he chooses to take advantage of it, the tenant is not deprived of the use of the premises.” (6 Williston, Contracts, op. cit. supra, § 1955, p. 5485; see, also, People v. Klopstock, 24 Cal.2d 897, 901 [151 P.2d 641].) In the present lease plaintiffs reserved the rights that defendant should not use the premises for other purposes than those specified in the lease or sublease without plaintiffs’ written consent. Far from preventing other uses or subleasing they waived these rights, enabling defendant to use the premises for any legitimate purpose and to sublease them to any responsible tenant. This waiver is significant in view of the location of the premises on a main traffic artery in Los Angeles County and their adaptability for many commercial purposes. The value of these rights is attested by the fact that the premises were rented soon after defendants vacated them. It is therefore clear that the governmental restrictions on the sale of new cars have not destroyed the value of the lease. Furthermore, plaintiffs offered to lower the rent if defendant should be unable to operate profitably, and their conduct was at all times fair and cooperative.
+
+
+[11]The consequences of applying the doctrine of frustration to a leasehold involving less than a total or nearly total destruction of the value of the leased premises would be undesirable. Confusion would result from different decisions purporting to define “substantial” frustration. Litigation would be encouraged by the repudiation of leases when lessees found their businesses less profitable because of the regulations attendant upon a national emergency. Many leases have been affected in varying degrees by the widespread governmental regulations necessitated by war conditions.
+
+
+* * *
+
+
+[12]No case has been cited by defendant or disclosed by research in which an appellate court has excused a lessee from performance of his duty to pay rent when the purpose of the lease has not been totally destroyed or
+793
+its accomplishment rendered extremely impracticable or where it has been shown that the lease remains valuable to the lessee.
+
+
+The judgment is affirmed.
+
+
+———
+
+
+Notes and Questions
+
+
+1.In paragraphs [2] and [3] the court addresses the question of whether the doctrine of frustration of purpose applies to leases. What was the basis for thinking that it might not?
+
+
+2.In Alabama Football, Inc. v. Greenwood, 452 F. Supp. 1191 (W.D. Pa. 1978), L.C. Greenwood was sued because he had repudiated his contract to play for a start-up football league and returned to the Pittsburgh Steelers football team. At trial, Greenwood showed that the team had, in effect, folded. Its uniforms had been repossessed and its franchise had been terminated. The court said: “This would appear to be an appropriate situation for the application of the doctrine of commercial frustration recognized in Section 288 the Restatement of the Law of Contracts.” It cited another case in which a court in Texas had applied the doctrine in favor of another player in the same league. Nevertheless the court refused to apply the doctrine because it had not yet been recognized by the courts of Alabama, under whose law the case was being decided. (Greenwood did win on other grounds, though.)
+
+
+———
+
+
+Problem 27-3
+
+
+Farmer and Ginning Company entered into a contract under the terms of which Farmer agreed to sell, and Ginning Company agreed to buy, 100,000 pounds of cotton at a price of 65 cents per pound. After the contract was made, India and Pakistan got into a war and India’s cotton fields were nuked. Then most of the American cotton crop was destroyed by a newly mutated insecticide-resistant boll weevil. Farmer, who expected to be able to harvest 400,000 pounds of cotton on her land, was only able to harvest 100,000 pounds.
+
+
+There is a silver lining to all this, however. Because cotton is in extremely short supply and because the tense international situation has caused the military to order much more cotton for uniforms, the market price of cotton has gone from 65 cents a pound to $3.00 a pound. Farmer has asked your opinion as to whether she can get out of her contract with Broker on the basis of (i) impracticability or (ii) frustration of purpose. Assume it is clear that no one could have foreseen the war, the boll weevil, or the increased demand for cotton. Note, also, that there is another fact you need to get from Farmer. See U.C.C. § 2–615(b).
+
+
+1[$3,650 in 1916 dollars is roughly the equivalent of $86,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+2[$131,978.44 in 1972 dollars is roughly the equivalent of $792,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+3This is the formula utilized in the Restatement of Contracts § 454 (1932).
+
+
+4The Restatement gives some examples of what is “extreme and unreasonable”—Restatement of Contracts § 460, Illus. 2 (tenfold increase in costs) and Illus. 3 (costs multiplied fifty times) (1932); compare § 467, Illus. 3. See generally G. Grismore, Principles of the Law of Contracts § 179 (rev. ed. J. E. Murray 1965).
+
+
+5Both parties take solace in the Uniform Commercial Code which in comment 4 to Section 2–615 states that the rise in cost must “alter the essential nature of the performance. . . .” This is clearly not the case here. The owner relies on a further sentence in the comment which refers to a severe shortage of raw materials or of supplies due to “war, embargo, local crop failure, unforeseen shutdown of major sources of supply or the like, which either causes a marked increase in cost. . . .” Since this is not a case involving the sale of goods but transportation of a cargo where there was an alternative which was a commercially reasonable substitute (see U.C.C. § 2–614(1)) the owner’s reliance is misplaced.
+
+
+6While these are English cases and refer to the doctrine of “frustration” rather than “impossibility” as Judge Skelly Wright pointed out in Transatlantic, supra, 363 F.2d at 320 n. 16 the two are considered substantially identical, 6 A. Corbin, Contracts § 1322, at 327 n. 9 (rev. ed. 1962). While Tsakiroglou and The Eugenia are criticized in Schegal, Of Nuts, and Ships and Sealing Wax, Suez, and Frustrating Things—The Doctrine of Impossibility of Performance, 23 Rutgers L. Rev. 419, 448 (1969), apparently on the theory that the charterer is a better loss bearer, the overruled Sidermar case was previously condemned in Berman, Excuse for Nonperformance in the Light of Contract Practices in International Trade, 63 Colum. L. Rev. 1413, 1424–27 (1963).
+
+
+7Paragraphs (a), (b), and (c) of the contract are price escalator provisions for the other cost elements of Ethanol.
+
+
+8[The ejusdem generis rule provides that where general words follow a list of specifics, the general words are not to be construed in their widest meaning, but are to be construed as relating only to things of the same nature as those in the list. Read the force majure clause carefully. Has the drafter negated the ejusdem generis rule? After all, it’s only supposed to be a rule of interpretation.—Eds.]
+
+
+9[$235,806 in 1966 dollars is roughly the equivalent of $1,820,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+10[50£ in 1903 pounds is roughly the equivalent of 5,274£ in 2019 pounds using the CPI and the GNP Deflator.—Eds.]

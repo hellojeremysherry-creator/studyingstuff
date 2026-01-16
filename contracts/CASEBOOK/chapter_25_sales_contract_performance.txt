@@ -1,0 +1,391 @@
+﻿Chapter 25: Sales: Contract Performance Under the Uniform Commercial Code
+
+
+■   ■   ■
+
+
+A.THE PERFECT TENDER RULE
+
+
+Article 2’s provisions on performance are deceptive. Upon a casual reading, it appears that the drafters merely restated the obvious, hedging their bets even further by liberally peppering their sentences with wishy-washy phrases like “reasonably” and “seasonably.” In fact, however, there are some real zingers in Article 2. Even though the drafters used some terms like “reasonably” and “seasonably” to provide some expansion joints, the law of sales is still statutory law, and the statutes must be read precisely. As an example, read carefully § 2–601 and apply it to the problems that follow.
+
+
+———
+
+
+Problem 25-1
+
+
+Kent, a wealthy lawyer, contracts with Jacob & Youngs Mobile Homes, Inc. to have two mobile homes custom built. One is to be airlifted to a remote area of the Adirondack Mountains, where Kent plans to use it as a hunting and fishing retreat. The other is to be transported to a remote island in the Caribbean, where Kent plans to use it as a winter hideaway. The contract provides that all pipe used in the mobile homes “must be well galvanized, lap welded pipe of the grade known as ‘standard pipe’ of Reading Manufacture.”
+
+
+When the mobile homes are completed, Kent goes to the factory to inspect them prior to having them transported to their sites by another contractor. He discovers that they conform to the contract in every respect except that one home has about half the plumbing done with pipe manufactured by the Cohoes Pipe Company rather than with pipe manufactured by the Reading Pipe Company.
+
+
+(a)Does Article 2 apply to this transaction? Isn’t building a structure like this a service rather than a sale? Aren’t these houses real estate rather than goods? (Regardless of how you come out on this point, assume for the questions that follow that Article 2 does apply.)
+
+
+734
+(b)Which of the following courses of action are open to Kent?
+
+
+(i)accept both homes
+
+
+(ii)reject both homes
+
+
+(iii)accept the home with the conforming pipe and reject the one with the non-conforming
+
+
+(iv)accept the home with the non-conforming pipe and reject the one with the conforming
+
+
+(v)reject the non-conforming pipe and accept both homes otherwise
+
+
+(c)Read § 2–714(1). May Kent accept the homes and then sue for damages?
+
+
+(d)Refresh your recollection of Jacob & Youngs v. Kent, 230 N.Y. 239, 129 N.E. 889 (1921), from Chapter 24, above. Does the U.C.C. change the result? How?
+
+
+Problem 25-2
+
+
+The Mad Hatter ordered 100 yards of gray wool felt from Black Sheep Wool Products, LLC. It was to be delivered in one shipment on September 1. When the wool was delivered, Mr. Hatter discovered that about 10 yards of it was of a slightly darker color than called for by the contract specifications. He can reject the wool felt (choose one):
+
+
+(a)only if the discrepancy constitutes a material (no pun intended) breach of the contract.
+
+
+(b)only if the discrepancy substantially impairs the value of the felt to him.
+
+
+(c)as long as the goods failed to conform to the contract in any way and he acted in good faith.
+
+
+(d)under no circumstances. There’s no way he can reject the felt on the basis of such a minor discrepancy.
+
+
+Problem 25-3
+
+
+Suppose the Mad Hatter in Problem 25–2 wanted to keep the 90 yards that had the right color and reject the off-color 10 yards. Could he do that?
+
+
+Problem 25-4
+
+
+Black Sheep Wool Products LLC learned its lesson. It made sure the wool in the next shipment was perfect in every way. (Of course, it also charged the Mad Hatter a little extra to make up for the increased costs of additional quality control inspectors. Everything has a price.)
+
+
+735
+The contract called for the felt to be delivered on November 1, but it was a few days late. Can the Mad Hatter use the perfect tender rule of section 2–601 to reject the felt on the ground that the delivery was late?
+
+
+In thinking about this problem, consider Harlow & Jones, Inc. v. Advance Steel Co., 424 F. Supp. 770 (E.D. Mich. 1976), which presented interesting issues about the perfect tender rule. Harlow was an importer of steel. It entered into an oral contract to sell Advance 1,000 tons of cold-rolled German steel. The contract provided that the steel was to be shipped from European ports during September—October, 1974. Harlow’s confirmation form had a provision that stated: “All delivery dates are approximate and not guaranteed.” It also had force majeure clauses which provided that Harlow was not responsible for delays beyond its control.
+
+
+The steel was shipped from Europe in three shipments. The first shipment was shipped in September and arrived in October. The second was shipped in October and arrived in early November. The third was shipped in mid-November and arrived in late November. Advance rejected the last shipment because of late delivery. Harlow sued, claiming the delivery was not late. The court rejected Harlow’s argument that the terms in its confirmation form were controlling, holding that under U.C.C. § 2–207 they did not become part of the contract. The court did, however, hold that the last shipment conformed to the contract terms because “according to an accepted steel importing trade usage, shipment in September—October means delivery in October—November.” Thus, because the last of the steel had been delivered before the end of November it conformed to the contract.
+
+
+The case illustrates a couple of important points about the perfect tender rule. First, the perfect tender rule is a default rule. Where the parties would prefer that there be a less strict standard, they can agree to that. In this case, the seller wanted a less strict standard, but it didn’t want it enough to insist on it as a condition to the formation of a contract. The second point is that even though the perfect tender rule requires strict compliance with the terms of the contract, the terms of the contract may be something other than what a person who is not in the business would expect from a literal reading. So a lawyer who gets involved in a sales contract has to make sure she understands all the trade usages. This often means grilling the client on all the trade usages that they take for granted.
+
+
+So, what result does that imply for the Mad Hatter and the right to reject the felt because it was a few days late?
+
+
+B.CURE
+
+
+It has been suggested that the perfect tender rule does not exist in the real world. The basis for saying so is that the Code makes so many exceptions to it, that the seller can usually find exceptions within which she can fit. Where the seller cannot find an exception, courts are likely to apply some sort of a judicially created de minimis rule to protect the good
+736
+faith seller from minor and technical nonconformities. Whether there really is a perfect tender rule is something you can decide for yourself as we explore the materials that follow.
+
+
+Perhaps the most important buffer on the effect of the perfect tender rule is the seller’s right to cure defective performance. Read carefully U.C.C. § 2–508 and the Official Comment and apply them to the problems that follow.
+
+
+———
+
+
+Problem 25-5
+
+
+Simple Simon operates a chain of organic coffee houses. They serve only food grown without the use of pesticides. Simon’s usual pie supplier is closed by a strike, so Simon places and order for “100 pies, assorted flavors” with The Pieman, LLC. The contract provides that all of the pies are to be made from ingredients grown without pesticides. It also provides that delivery is to be made prior to 10 a.m. on Friday the 13th.
+
+
+The Pieman is unable to obtain organic raspberries, so it includes in the shipment 10 pies made with raspberries grown using pesticides. The rest of the pies are all made entirely from organic ingredients. The pies are delivered at 8:30, and when Simon learns about the raspberries (the pies were accompanied by a letter explaining about the raspberry problem), he telephones The Pieman LLC and demands that it send someone to “pick up all of your poisonous pies before we throw them in the dumpster!”
+
+
+The Pieman responds by saying, “Before 10 am we’ll deliver 10 organic apple pies to replace the raspberry.” Simon doesn’t think this is fair. He wants your advice as to whether he has to accept this tender of The Pieman’s wares.
+
+
+What do you tell him? See § 2–508(1).
+
+
+Problem 25-6
+
+
+The farmer’s wife damaged her butcher knife while defending herself from three vision-impaired rodents. So she goes to the Sonoma-Williams website and checks out the model 1682 butcher knife. The site informs her that the model 1682 ships within 24 hours. In reliance on that assurance, Ms. Farmer places an order for a model 1682. She pays extra for expedited shipping because she fears that further rodent attacks may be imminent.
+
+
+The knife arrives two days later, no rodent attacks having occurred in the interim. When Ms. Farmer examines the knife, she discovers that it is a model 1870, rather than the model 1682 that she had ordered. She calls Sonoma-Williams, and they tell her that because of a shortage of model 1682 knives, they have been shipping model 1870 knives, which are actually a more expensive model at no additional charge. When Ms. Farmer insists that she wants a model 1682, the customer service associate is very apologetic.
+
+
+737
+The customer service associate tells her that a model 1682 will be shipped that day and that she can use the model 1870 to defend herself against any rodent attacks that occur prior to the delivery of the model 1682. “Just be sure to wipe any blood off before you return it,” he tells her. “The people in the returns department don’t have a sense of humor.” Ms. Farmer says she’ll think about it. After some discussions with her daughter, who is active in the animal rights movement, Ms. Farmer decides she really doesn’t want a new butcher knife. She’ll try reasoning with the creatures instead.
+
+
+She wants advice on her rights. See § 2–508(2). Which of these pieces of advice would you give her?
+
+
+(a)Actually, if they had insisted on your accepting a model 1870, you would have been stuck. Consider yourself lucky you’re going to get a model 1682.
+
+
+(b)The seller has a right to cure, so you have to accept the model 1682 they’ve offered.
+
+
+(c)Under the facts you’ve related to me, the seller has no right to cure and you don’t have to accept the model 1682.
+
+
+(d)If the seller had reasonable grounds to believe that the model 1870 would be acceptable, you have to take the model 1682 if they get it to you within a reasonable time.
+
+
+Problem 25-7
+
+
+The owner of a meat market and a salesman for a commercial refrigeration manufacturer entered into a sales agreement for two new refrigerated display cases. The owner liked the 3000 model because of its wood grained panel sides, so, on August 18, the parties executed a lease and shipping order and the owner wrote the salesman a check for the down payment. The next day, the salesman discovered and informed the owner that the 3000 model was not available in wood grain; the only model in wood grain was called MD. The salesman informed the owner that the MD model would “do the job,” so the owner agreed to change the order to two MD cases.
+
+
+The display cases were shipped to the owner on September 3 and installed on September 7. The 3000 unit was significantly different from the MD model in that the former used a passive gravity coil system and no fans, and the MD model had three fans that blew cold air over the surface of the meat. The owner noticed that these fans quickly dried out and discolored his meat so he called the manufacturer to complain. The manufacturer recommended some adjustments, but when the problem continued, it sent some condensation pans to the owner to fill with water and place in the units to increase humidity as a possible remedy. The condensations pans did not adequately address the problem.
+
+
+The meat market’s owner’s attorney wrote a letter to the manufacturer on October 6, informing them that the display cases were not suitable for the
+738
+purposes which they were purchased, and offered to return the cases in exchange for the down payment. The letter stated that the owner had already purchased new cases from another supplier, which the owner did not actually purchase for approximately another three weeks. On November 15, the owner removed the cases from his market, and on November 17, the owner served a formal notice of cancellation and rescission on the manufacturer. See Transcontinental Refrigeration Co. v. Figgins, 179 Mont. 12, 585 P.2d 1301 (1978).
+
+
+(a)Is the seller’s right to cure governed by § 2–508(1) or § 2–508(2)? Which do you think? Does it matter?
+
+
+(b)Suppose the sale agreement was silent as to the date the display cases were to be delivered. How long would the seller have to cure? See § 2–309(1).
+
+
+(c)How diligent was the lessor about curing the defect? Should how diligent the lessor was about curing the defect be a factor in determining how much time it has to cure?
+
+
+———
+
+
+Zabriskie Chevrolet, Inc. v. Smith, New Jersey Superior Court, Law Division, 99 N.J. Super. 441, 240 A.2d 195 (1968)
+
+
+Doan, J.D.C. (temporarily assigned).
+
+
+[1]This action arises out of the sale by plaintiff to defendant of a new 1966 Chevrolet automobile. Within a short distance after leaving the showroom the vehicle became almost completely inoperable by reason of mechanical failure. Defendant the same day notified plaintiff that he canceled the sale and simultaneously stopped payment on the check he had tendered in payment of the balance of the purchase price. Plaintiff sues on the check and the purchase order for the balance of the purchase price plus incidental damages and defendant counterclaims for the return of his deposit and incidental damages. The facts are not complex nor do they present any serious dispute.
+
+
+[2]On February 2, 1967 defendant signed a form purchase order for a new 1966 Chevrolet Biscayne Sedan which was represented to him to be a brand-new car that would operate perfectly. On that occasion he paid plaintiff $124 by way of deposit. On February 9, 1967 defendant tendered plaintiff his check for $2,069.50 representing the balance of the purchase price ($2,064) and $5.50 for license and transfer fees. Delivery was made to defendant’s wife during the early evening hours of Friday, February 10, 1967, at which time she was handed the keys and the factory package of printed material, including the manual and the manufacturer-dealer’s warranty, none of which she or her husband ever read before or after the
+739
+sale was made, nor were the details thereof specifically explained to or agreed to by defendant. While en route to her home, about 2 1/2 miles away, and after having gone about 7/10 of a mile from the showroom, the car stalled at a traffic light, stalled again within another 15 feet and again thereafter each time the vehicle was required to stop. When about halfway home the car could not be driven in “drive” gear at all, and defendant’s wife was obliged to then propel the vehicle in “low-low” gear at a rate of about five to ten miles per hour, its then maximum speed. In great distress, defendant’s wife was fearful of completing the journey to her home and called her husband, who thereupon drove the car in “low-low” gear about seven blocks to his home. Defendant, considerably upset by this turn of events, thereupon immediately called his bank (which was open this Friday evening), stopped payment on the check and called plaintiff to notify them that they had sold him a “lemon,” that he had stopped payment on the check and that the sale was cancelled. The next day plaintiff sent a wrecker to defendant’s home, brought the vehicle to its repair shop and after inspection determined that the transmission was defective.
+
+
+[3]Plaintiff’s expert testified that the car would not move, that there was no power in the transmission and in that condition the car could not move. Plaintiff replaced the transmission with another one removed from a vehicle then on plaintiff’s showroom floor, notifying defendant thereafter of what had been done. Defendant refused to take delivery of the vehicle as repaired and reasserted his cancellation of the sale. Plaintiff has since kept the vehicle in storage at his place of business. Within a short period following these occurrences plaintiff and defendant began negotiations for a new 1967 Chevrolet, but these fell through when plaintiff insisted that a new deal could only be made by giving defendant credit for the previously ordered 1966 Chevrolet. This defendant refused to do because he considered the prior transaction as cancelled.
+
+
+[The court determined that the Joneses had not “accepted” the car. Acceptance is discussed in the next section of this chapter.—Eds.]
+
+
+[4]Lastly, plaintiff urges that under the Code, N.J.S. 12A:2–508, N.J.S.A. it had a right to cure the nonconforming delivery. N.J.S. 12A:2–508, N.J.S.A. states:
+
+
+(1)Where any tender or delivery by the seller is rejected because non-conforming, and the time for performance has not yet expired, the seller may seasonably notify the buyer of his intention to cure and may then within the contract time make a conforming delivery.
+
+
+(2)Where the buyer rejects a non conforming tender which the seller had reasonable grounds to believe would be acceptable with or without money allowance the seller may if he seasonably
+740
+notifies the buyer have a further reasonable time to substitute a conforming tender.
+
+
+The New Jersey Study Comment to 12A:2–508 reads:
+
+
+3.Subsection 2–508(2) has been applauded as a rule aimed at ending “forced breaches” . . . Section 2–508 prevents the buyer from forcing the seller to breach by making a surprise rejection of the goods because of some minor non-conformity at a time at which the seller cannot cure the deficiency within the time for performance.
+
+
+The Uniform Commercial Code Comment to 12A:2–508 reads:
+
+
+2.Subsection (2) seeks to avoid injustice to the seller by reason of a surprise rejection by the buyer. However, the seller is not protected unless he had “reasonable grounds to believe” that the tender would be acceptable.
+
+
+[5]It is clear that in the instant case there was no “forced breach” on the part of the buyer, for he almost immediately began to negotiate for another automobile. The inquiry is as to what is intended by “cure,” as used in the Code. This statute makes no attempt to define or specify what a “cure” shall consist of. It would appear, then, that each case must be controlled by its own facts. The “cure” intended under the cited section of the Code does not, in the court’s opinion, contemplate the tender of a new vehicle with a substituted transmission, not from the factory and of unknown lineage from another vehicle in plaintiff’s possession. It was not the intention of the Legislature that the right to “cure” is a limitless one to be controlled only by the will of the seller. A “cure” which endeavors by substitution to tender a chattel not within the agreement or contemplation of the parties is invalid.
+
+
+[6]For a majority of people the purchase of a new car is a major investment, rationalized by the peace of mind that flows from its dependability and safety. Once their faith is shaken, the vehicle loses not only its real value in their eyes, but becomes an instrument whose integrity is substantially impaired and whose operation is fraught with apprehension. The attempted cure in the present case was ineffective.
+
+
+[7]Accordingly, and pursuant to N.J.S. 12A:2–711, N.J.S.A., judgment is rendered on the main case in favor of defendant. On the counterclaim judgment is rendered in favor of defendant and against plaintiff in the sum of $124, being the amount of the deposit, there being no further proof of damages.
+
+
+[8]Defendant shall, as part of this judgment, execute for plaintiff, on demand, such documents as are necessary to again vest title to the vehicle in plaintiff.
+
+
+741
+———
+
+
+Something to Think About
+
+
+As stated by Judge Richard Posner in MindGames, Inc. v. Western Publishing Co., 218 F.3d 652, 656–57 (7th Cir. 2000):
+
+
+The objection has to do with the difference between rule and standard as methods of legal governance. A rule singles out one or a few facts and makes it or them conclusive of legal liability; a standard permits consideration of all or at least most facts that are relevant to the standard’s rationale. A speed limit is a rule; negligence is a standard. Rules have the advantage of being definite and of limiting factual inquiry but the disadvantage of being inflexible, even arbitrary, and thus overinclusive, or of being underinclusive and thus opening up loopholes (or of being both over- and underinclusive!). Standards are flexible, but vague and open-ended; they make business planning difficult, invite the sometimes unpredictable exercise of judicial discretion, and are more costly to adjudicate—and yet when based on lay intuition they may actually be more intelligible, and thus in a sense clearer and more precise, to the persons whose behavior they seek to guide than rules would be. No sensible person supposes that rules are always superior to standards, or vice versa, though some judges are drawn to the definiteness of rules and others to the flexibility of standards. But that is psychology; the important point is that some activities are better governed by rules, others by standards.
+
+
+U.C.C. Article 9 and Article 3 are primarily composed of rules. There are, of course, some exceptions, such as the standards for commercially reasonable sales. Article 2 has a lot of rules, but the big questions in Article 2 generally involve standards.
+
+
+C.ACCEPTANCE, REJECTION, REVOCATION OF ACCEPTANCE
+
+
+Problem 25-8
+
+
+On February 1, the Mad Hatter received another shipment of felt. This time the color was off on the entire shipment. Because he was in the middle of a large order, he put the shipment aside, intending to ship it back to Black Sheep Wool Products LLC by return post.
+
+
+By this time, however, the mercury nitrate used in the felt and hat production process had affected his brain, and he forgot about rejecting the wool until February 21, when he sent the wool back along with the a nasty letter telling Black Sheep Wool Products LLC that just because they could sell
+742
+inferior products to the little boy who cries in the lane didn’t mean they could deal so cavalierly with “a person of my stature.”
+
+
+Does Black Sheep Wool Products have to take the wool back? See U.C.C. § 2–602(1) and U.C.C. § 2–606.
+
+
+PRACTICE TIP
+
+
+You can minimize disputes over the question of whether notice was timely by including in the sale contract (e.g., in your seller client’s standard acknowledgment sent in response to purchase orders) a provision that all defects must be reported within a certain number of days of delivery.
+
+
+Problem 25-9
+
+
+Suppose Mr. Hatter’s rejection is not effective. Then what happens? See U.C.C. § 2–607(1) and U.C.C. § 2–714.
+
+
+Problem 25-10
+
+
+Hi-Ho Dairy Stores placed an order with In The Dells Farms, Inc. for a thousand gallons of fat-free skim milk. When the milk was delivered, the manager of Hi-Ho’s packaging facility asked the driver of the tank truck, “Are you sure this is fat-free skim milk? It smells like one percent to me.”
+
+
+The driver, Simon Simple, an authorized agent of In The Dells Farms, Inc., assured the manager that it was. On that basis, the manager said that Hi-Ho Dairy Stores would accept the milk and told Mr. Simple to pump the milk into one of Hi-Ho’s empty tanks.
+
+
+Believing it now to be one percent milk, Hi-Ho Dairy Stores would like to revoke its acceptance of the milk. It can use the milk because it sells one percent milk as well as fat-free skim, but it would like to revoke the acceptance “to teach those corporate agri-business people a lesson.”
+
+
+Assuming that it accepted the milk, can Hi-Ho Dairy Stores revoke its acceptance? See § 2–608.
+
+
+Problem 25-11
+
+
+Big City Edison (“Big Ed”) contracts to buy 500,000 barrels of fuel oil from Abdul, an oil broker operating in the “spot market.” The contract requires that the oil have a maximum sulfur content of 0.50%. Big Ed notifies Abdul it will not accept delivery of oil with a sulfur content in excess of 0.50%. When he bought the oil, Abdul received a certificate from a reputable independent testing laboratory showing that the sulfur content of the oil was 0.48%. The contract calls for delivery on or before June 1. The oil is actually delivered and
+743
+pumped into Big Ed’s tanks on May 30. On June 4, a test by Big Ed’s chemist shows a sulfur content of 0.53%. This is confirmed by independent laboratories.
+
+
+(a)Does Big Ed have to accept the oil? See U.C.C. § 2–601.
+
+
+(b)Does Abdul have a right to cure under U.C.C. § 2–508(2)?
+
+
+(c)Suppose that Big Ed mixes 100,000 barrels of the oil delivered by Abdul with oil having a higher sulfur content. Can it reject (i) all 500,000 barrels, (ii) 400,000 barrels or (iii) none? See §§ 2–601, 2–606, and 2–607(2). Would it matter whether the oil was mixed before or after Big Ed received its lab results?
+
+
+(d)Suppose that Big Ed fails to notify Abdul of its rejection until June 10. Would it matter that the world oil price had fallen between June 1 and June 10? See U.C.C. § 2–602.
+
+
+(e)Suppose that Big Ed accepted the oil on the basis of the test results from the independent laboratory. Could it revoke its acceptance when it gets its own lab results? Would it matter whether it got the independent lab’s report (i) from Abdul, as part of Abdul’s effort to induce it to accept the oil and pay for it, or (ii) directly from the independent lab, paying the independent lab a separate fee as part of Big Ed’s acceptance, verification and quality control procedure? See U.C.C. § 2–608.
+
+
+(f)Would it matter to your answer to question (e) whether federal regulations prohibited Big Ed from burning oil with a sulfur content greater than 0.50? Would that fact matter to your answer to question (a)?
+
+
+(g)Can acceptance be revoked as to the 100,000 barrels mixed with the high sulfur oil?
+
+
+Problem 25-12
+
+
+Ahmed contracts to deliver one 50,000 barrel shipment to Golf Oil each month for 2 years. The contract calls for oil with a sulfur content not to exceed 0.90%.
+
+
+(a)Ahmed’s second shipment has a sulfur content of 0.96%. The oil is less valuable than it would be if it conformed to the contract, but Golf can still use it. Can it nevertheless reject the shipment? See U.C.C. § 2–612.
+
+
+(b)Ahmed’s first shipment and his third through eighth shipments have sulfur contents of less than 0.90%, but his ninth shipment has a sulfur content so high Golf can’t use the oil. Can Golf reject the shipment? Can it cancel the contract? Would it affect your answer if the high sulfur oil had been shipped in the first shipment rather than the ninth?
+
+
+———
+
+
+744
+Keen v. Modern Trailer Sales, Inc., Colorado Court of Appeals, 40 Colo. App. 527, 578 P.2d 668 (1978)
+
+
+[1]Plaintiffs, Charles F. and Shirley A. Keen, appeal from a judgment denying their claim for rescission of a contract for the purchase of a mobile home. We reverse and remand for further proceedings.
+
+
+[2]The trial court’s findings of fact, which are not disputed here, relate that on April 20, 1974, plaintiffs went to the sales lot of defendant, Modern Trailer Sales, Inc. After informing one of the defendant’s salesmen that they sought to purchase a three bedroom home, 14 feet in width and 70 feet in length, and priced from $9,000 to $9,500, plaintiffs were shown several mobile homes, some of which, unknown to the plaintiffs, were models smaller than the requested size. The following day, accompanied by their son, plaintiffs returned to the lot and made a final selection. At that time, the salesman assured the plaintiffs’ son that the selected model was 14 by 70 feet in size.1
+
+
+[3]The parties subsequently executed a written contract, detailing the plaintiffs’ requirements and the purchase price. Although that agreement specified the selected model’s width as 14 feet, the length of the home was omitted. Documents referencing the length of the subject home were readily available to defendant’s salesman, however, and he, in fact, knew the home was not the size requested by the plaintiffs. Nonetheless, the manufacturer’s statement of origin and an application for title subsequently sent to them by defendant also listed the home as 14 by 70 feet.
+
+
+[4]Within a month of delivery, the mobile home drifted off its footings. After defendant refused to assist in correcting the problem, plaintiffs arranged for reskirting of the sides by a third party. Consequently, they discovered that the length of the home was in fact only 64 feet, and thus lacked six feet in length and 84 square feet of living space. When complaints to defendant were ignored, plaintiffs instituted this action.
+
+
+[5]Based on the above findings of fact, the trial court concluded that by failing to deliver a mobile home 14 by 70 feet in size the defendant breached its contract with plaintiffs. And, in a ruling which is not challenged here, the trial court dismissed plaintiffs’ claim for damages. Treating plaintiffs’ request for rescission as seeking revocation of acceptance under the Uniform Commercial Code, § 4–2–608, C.R.S. 1973, . . . the court also denied plaintiffs’ claim for cancellation of the contract and return of the purchase price.
+
+
+745
+[6]Section 4–2–608(1)(b), C.R.S. 1973, authorizes a buyer to revoke his acceptance of a nonconforming item, if his acceptance without discovery of the item’s nonconformity “was reasonably induced either by the difficulty of discovery before acceptance or by the seller’s assurances,” a precondition not in dispute here, and if the item’s “nonconformity substantially impairs its value to him.” Reasoning in part that “[t]he Keens occupancy of the mobile home from the end of April 1974, to date, clearly shows that the value of the mobile home to the Keens was not substantially impaired,” the trial court determined that the latter requisite of substantial impairment was not made out by defendant’s breach here. Since we view the court’s premise as erroneous, we remand for reconsideration of its factual determination.
+
+
+* * *
+
+
+[7]To aid the court in its consideration on remand we add the following. The test of “substantial impairment” justifying revocation of acceptance is “whether the nonconformity is such as will in fact cause substantial impairment of value to the buyer though the seller had no advance knowledge as the buyer’s particular circumstances.” [U.C.C.] Section 2–608 (Official Comment 2). This section creates a subjective test in the sense that the requirements of the particular buyer must be examined and deferred to. Yet, since the rationale of the substantial impairment requisite is to bar revocation for trivial defects or defects which may be easily corrected, the impairment of the buyer’s requirements must be substantial in objective terms.
+
+
+[8]Accordingly, the determinative issues before the trial court are whether the plaintiffs sought to purchase mobile home of specified dimensions for their particular living needs, and whether the nonconformity here—the delivered mobile home’s lacking approximately 8% of the total living space warranted by the defendant—is substantial in an objective sense.
+
+
+* * *
+
+
+The judgment is reversed and the cause is remanded for the trial court’s redetermination of the propriety of plaintiffs’ revocation of acceptance.
+
+
+———
+
+
+Question
+
+
+Could the Keens have argued they had rejected the mobile home? If they had, how would it have changed the burden of proof? See U.C.C. § 2–607(4).
+
+
+1[14 × 70 = 980 sq. ft.—Eds.]
+
+
+”

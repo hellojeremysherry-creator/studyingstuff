@@ -1,0 +1,500 @@
+﻿Chapter 2: Has an Offer Been Made?
+
+
+Factors vs. Elements 
+
+
+We return to the subject of legal standards based on factors or elements. In some of your courses, you will be talking in terms of a list of elements, a list of things that have to be satisfied before it will be determined that the tort of "battery," for example, occurred or that the crime of "burglary" was committed. Later on, we'll have a few lists of elements. But the important questions in contracts cannot be answered by going mechanically through a list of elements. They involve more subtle questions that require the consideration of a number of factors, a series of things that may, but need not, all be shown to determine if a particular standard has been met. Elements are requirements; factors are considerations, 
+Chapter 1 and this chapter deal with the question of whether a communication constitutes an offer. As you have probably already realized, in some situations the briefest statement may be an offer, and in others the most elaborate proposition may not. There is only the basic test, which is articulated in various ways but always with the same basic meaning: "Would another person be justified in believing they could form a contract by assenting to the proposition?" 
+This is not much of a test to go on. Perhaps the best place to start is to ask yourself, "If I were the person (the offeree) in this case, would I reasonably think I could form a contract by responding to this communication?" One problem with this, of course, is that not everyone thinks the same way. Reasonable minds may-and often do-differ. 
+We could, of course, let every judge have his or her own opinion as to what constitutes an offer, but there are some problems with this. First, people need to be able to plan their affairs. They need to have some certainty as to whether they have a contract or not without regard to the judge they may draw should litigation ensue. Second, the notion that judges can just make up the law as they see fit is inconsistent with the 
+29 
+30 
+ 
+ 
+basic principle of Western democracy that we are governed by laws rather than by the whims of individuals. 
+So how do we bring some consistency and rationality to the question of whether a communication is an offer? One answer, of course, is that judges have to follow precedent. If there was a prior case with the same facts, the court may be bound by the decision in that case. This is not the place to get into the question of when a prior case is binding on the court and when it is "merely persuasive" or the more difficult question of how persuasive "persuasive authority" really is. The truth of the matter is that most of the time the facts of your case will be different from those of any decided case you can find. It is always frustrating for new lawyers to go to research a case thinking "this must have happened before," only to discover that it hasn't or, if it has, it is not to be found in a reported decision or other recognized authority, in which case it may as well never have happened at all. The reality is that there is an infinite variety of ways in which people can and do mess up their affairs. 
+One way we bring some sort of order to this situation is to have certain factors that courts take into account in determining whether or not an offer has been made. There is no definitive list. Some of these factors are present in all cases, some in only a few. Some of these factors are very important, others less so. 
+Look back over the cases we've read so far and see what factors were important and how much weight the courts gave them. As you read the cases that follow, you will see some new factors taken into consideration, and you will see some of the factors from the previous cases dealt with in new ways. The more cases you read and think about, the better you will understand how these factors work. 
+Although this text is very careful to use the words "elements" and "factors" in the sense that elements are required to meet a standard and factors are considerations that bear on a standard, not everyone observes . that distinction in practice. When you read an opinion referring to factors or elements or analyze a brief or memorandum that does so, make sure to determine whether or not the terms are being used as in this text. Otherwise you may conclude that a requirement is a mere consideration because someone used the term "factor" in the sense of an "element," as in "required factor." Much confusion can be caused by uncritically accepting another's analysis, pigeon-holing, or use of labels without critical reflection. 
+No matter how many cases you read and study, you will never be able to say for sure in a difficult case whether a particular communication constitutes an offer. That is an uncertainty you'll just have to live with if you want to be a lawyer. Your clients won't like it when you refuse to give a yes-or-no answer but your malpractice carrier will. In one famous case, Pennzoil v. Texaco, a client (Texaco) lost about three billion dollars because 
+ 
+ 
+31 
+some of the most well regarded lawyers in the country told it there had been no offer and acceptance, and twelve jurors decided otherwise. Because of the size of the verdict (the original jury verdict was $11 billion, but while the case was on appeal and Texaco was in chapter 11 bankruptcy proceedings it was settled for $3 billion) the case has been called "The Texas Common Law Massacre." See Texaco, Inc. v. Pennzoil, Co., 729 S.W.2d 768 (Tex. App.1987); see also Robert M. Lloyd, Pennzoil v. Texaco, Twenty Years After: Lessons for Business Lawyers, 6 TENN. J. BUS. L. 321 (2005); Kevin J. Delaney, Strategic Bankruptcy (University of California Press 1992, 1998). 
+
+
+LONERGAN V. SCOLNICK 
+District Court of Appeal, Fourth District, California 129 Cal. App. 2d 179, 276 P.2d 8 (1954) 
+BARNARD, PRESIDING JUSTICE. 
+[1] This is an action for specific performance or for damages in the event specific performance was impossible.1 
+[2] The complaint alleged that on April 15, 1952, the parties entered into a contract whereby the defendant agreed to sell, and plaintiff agreed to buy a 40-acre tract of land for $2,500; that this was a fair, just and reasonable value of the property; that on April 28, 1952, the defendant repudiated the contract and refused to deliver a deed; that on April 28, 1952, the property was worth $6,081; and that plaintiff has been damaged in the amount of $3,581.25 The answer denied that any contract had been entered into, or that anything was due to the plaintiff. 
+[3] By stipulation, the issue of whether or not a contract was entered into between the parties was first tried, reserving the other issues for a further trial if that became necessary. The issue as to the existence of a contract was submitted upon an agreed statement, including certain letters between the parties, without the introduction of other evidence. 
+[4] The stipulated facts are as follows: During March, 1952, the defendant placed an ad in a Los Angeles paper reading, so far as material 
+[Normally when a contract is breached, the non-breaching party is awarded money damages as compensation. In a few situations, the court compels the breaching party to perform the contract. This is called "specific performance." A contract for the sale of real estate is one of the few situations in which courts regularly grant specific performance. Damages and specific performance are covered in more detail in Chapters 18 to 22.-Eds.) 
+畿 [If money damages are awarded for breach of a contract to sell something, the normal measure of damages is the difference between the contract price and the value of the thing to be 
+sold. The idea is to give the non-breaching party the benefit of whatever good deal they were going 
+to get out of the contract. This is another topic covered in Chapter 18.-Eds.] 
+3 
+[$8,851 in 1954 dollars is roughly the equivalent of $36,000 in 2019 dollars using the CPI and the GNP Deflator.-Eds.) 
+32 
+ 
+ 
+here, "Joshua Tree vic. 40 acres, ... need cash, will sacrifice." In response to an inquiry resulting from this ad the defendant, who lived in New York, wrote a letter to the plaintiff dated March 26, briefly describing the property, giving directions as to how to get there, stating that his rock- bottom price was $2,500 cash, and further stating that "This is a form letter." On April 7, the plaintiff wrote a letter to the defendant saying that he was not sure he had found the property, asking for its legal description, asking whether the land was all level or whether it included certain jutting rock hills, and suggesting a certain bank as escrow agent "should I desire to purchase the land." On April 8, the defendant wrote to the plaintiff saying "From your description you have found the property"; that this bank "is O.K. for escrow agent"; that the land was fairly level; giving the legal description;4 and then saying, "If you are really interested, you will have to decide fast, as I expect to have a buyer in the next week or so.” On April 12, the defendant sold the property to a third party for $2,500. The plaintiff received defendant's letter of April 8 on April 14. On April 15 he wrote to the defendant thanking him for his letter "confirming that I was on the right land," stating that he would immediately proceed to have the escrow opened and would deposit $2,500 therein "in conformity with your offer," and asking the defendant to forward a deed with his instructions to the escrow agent. On April 17, 1952, the plaintiff started an escrow and placed in the hands of the escrow agent $100, agreeing to furnish an additional $2,400 at an unspecified time, with the provision that if the escrow was not closed by May 15, 1952, it should be completed as soon thereafter as possible unless a written demand for a return of the money or instruments was made by either party after that date. It was further stipulated that the plaintiff was ready and willing at all times to deposit the $2,400. 
+[5] The matter was submitted on June 11, 1953. On July 10, 1953, the judge filed a memorandum opinion stating that it was his opinion that the letter of April 8, 1952, when considered with the previous correspondence, constituted an offer of sale which offer was, however, qualified and conditioned upon prompt acceptance by the plaintiff; that in spite of the condition thus imposed, the plaintiff delayed more than a week before notifying the defendant of his acceptance; and that since the plaintiff was aware of the necessity of promptly communicating his acceptance to the defendant his delay was not the prompt action required by the terms of the offer. Findings of fact were filed on October 2, 1953, finding that each and all of the statements in the agreed statement are true, and that all allegations to the contrary in the complaint are untrue. As conclusions of law, it was found that the plaintiff and defendant did not enter into a contract as alleged in the complaint or otherwise, and that the defendant 
+4 [A "legal description" is a precise description of the property which allows a person to determine its exact boundaries. If it is in the form of "metes and bounds," it is also a place where you can find practical application for the rule of geometry that the sum of the interior angles of a regular n-sided polygon is 360 degrees.-Eds.] 
+ 
+ 
+33 
+is entitled to judgment against the plaintiff. Judgment was entered accordingly, from which the plaintiff has appealed. 
+[6] The appellant contends that the judgment is contrary to the evidence and to the law since the facts, as found, do not support the conclusions of law upon which the judgment is based. It is argued that there is no conflict in the evidence, and this court is not bound by the trial court's construction of the written instruments involved; that the evidence conclusively shows that an offer was made to the plaintiff by the defendant, which offer was accepted by the mailing of plaintiff's letter of April 15; that upon receipt of defendant's letter of April 8 the plaintiff had a reasonable time within which to accept the offer that had been made; that by his letter of April 15 and his starting of an escrow the plaintiff accepted said offer; and that the agreed statement of facts establishes that a valid contract was entered into between the parties. In his briefs the appellant assumes that an offer was made by the defendant, and confined his argument to contending that the evidence shows that he accepted that offer within a reasonable time. 
+[7] There can be no contract unless the minds of the parties have met and mutually agreed upon some specific thing. This is usually evidenced by one party making an offer which is accepted by the other party. Section 25 of the Restatement of the Law on Contracts reads: 
+If from a promise, or manifestation of intention, or from the circumstances existing at the time, the person to whom the promise or manifestation is addressed knows or has reason to know that the person making it does not intend it as an expression of his fixed purpose until he has given a further expression of assent, he has not made an offer. 
+The language used in Niles v. Hancock, 140 Cal. 157, 73 P. 840, 842, “It is also clear from the correspondence that it was the intention of the defendant that the negotiations between him and the plaintiff were to be purely preliminary," is applicable here. The correspondence here indicates an intention on the part of the defendant to find out whether the plaintiff was interested, rather than an intention to make a definite offer to the plaintiff. The language used by the defendant in his letters of March 26 and April 8 rather clearly discloses that they were not intended as an expression of fixed purpose to make a definite offer, and was sufficient to advise the plaintiff that some further expression of assent on the part of the defendant was necessary. 
+[8] The advertisement in the paper was a mere request for an offer. The letter of March 26 contains no definite offer, and clearly states that it is a form letter. It merely gives further particulars, in clarification of the 
+[The court seems to think it's important that this letter is a form letter. Why would that be important?-Eds.) 
+34 
+ 
+ 
+advertisement, and tells the plaintiff how to locate the property if he was interested in looking into the matter. The letter of April 8 added nothing in the way of a definite offer. It merely answered some questions asked by the plaintiff, and stated that if the plaintiff was really interested he would have to act fast. The statement that he expected to have a buyer in the next week or so indicated that the defendant intended to sell to the first-comer, and was reserving the right to do so. From this statement, alone, the plaintiff knew or should have known that he was not being given time in which to accept an offer that was being made, but that some further assent on the part of the defendant was required. Under the language used the plaintiff was not being given a right to act within a reasonable time after receiving the letter; he was plainly told that the defendant intended to sell to another, if possible, and warned that he would have to act fast if he was interested in buying the land. 
+[9] Regardless of any opinion previously expressed, the court found that no contract had been entered into between these parties, and we are in accord with the court's conclusion on that controlling issue. The court's construction of the letters involved was a reasonable one, and we think the most reasonable one, even if it be assumed that another construction was possible. 
+The judgment is affirmed. [In other words, the court affirms the result on different grounds.-Eds.] 
+GRIFFIN and MUSSELL, JJ., concur.. 
+NOTES AND QUESTIONS 
+1. The way to analyze a case like this one is to look at each communication and determine whether or not it was an offer. Make a table with column headings Date/Time, From, To, Substance, and Analysis. List each of the communications about the Joshua Tree land on this chart. Make sure that you can explain why each communication here either was or was not an offer using the standards of R2d § 24 and UNIDROIT Article 2.1.2. Be prepared to explain why each communication was or was not an offer under either standard. 
+2. Did the trial court think that the letter of April 8 was an offer? Did the court of appeal think it was? 
+ 
+ 
+LEFKOWITZ V. GREAT MINNEAPOLIS SURPLUS STORE, INC. 
+MURPHY, JUSTICE. 
+Supreme Court of Minnesota 251 Minn. 188, 86 N.W.2d 689 (1957) 
+35 
+[1] This is an appeal from an order of the Municipal Court of Minneapolis denying the motion of the defendant for amended findings of fact, or, in the alternative, for a new trial. The order for judgment awarded the plaintiff the sum of $138.506 as damages for breach of contract. 
+[2] This case grows out of the alleged refusal of the defendant to sell to the plaintiff a certain fur piece which it had offered for sale in a newspaper advertisement. It appears from the record that on April 6, 1956, the defendant published the following advertisement in a Minneapolis newspaper: 
+Saturday 9 A.M. Sharp 3 Brand New Fur Coats Worth to $100.00 
+First Come First Served $1 Each 
+[3] On April 13, the defendant again published an advertisement in the same newspaper as follows: 
+Saturday 9 A.M. 
+2 Brand New Pastel Mink 3-Skin Scarfs Selling for $89.50. 
+Out they go Saturday. Each ... $1.00 
+1 Black Lapin Stole Beautiful, worth $139.50... $1.00 
+First Come First Served 
+[4] The record supports the findings of the court that on each of the Saturdays following the publication of the above-described ads, the plaintiff was the first to present himself at the appropriate counter in the defendant's store and on each occasion demanded the coat and the stole so advertised and indicated his readiness to pay the sale price of $1. On both occasions, the defendant refused to sell the merchandise to the plaintiff, stating on the first occasion that by a "house rule" the offer was intended for women only and sales would not be made to men, and on the second visit that plaintiff knew defendant's house rules. 
+[5] The trial court properly disallowed plaintiff's claim for the value of the fur coats since the value of these articles was speculative and uncertain.7 The only evidence of value was the advertisement itself to the effect that the coats were "Worth to $100.00," how much less being speculative especially in view of the price for which they were offered for 
+($138.50 in 1957 dollars is roughly the equivalent of $1,340 in 2019 dollars using the CPI and the GNP Deflator.-Eds.) 
+ร [A party cannot be awarded damages for breach of contract if the amount of the damages is speculative or uncertain. This is covered in Chapter 19.-Eds.) 
+36 
+ 
+ 
+sale. With reference to the offer of the defendant on April 13, 1956, to sell the "1 Black Lapin Stole... worth $139.50..." the trial court held that the value of this article was established and granted judgment in favor of the plaintiff for that amount less the $1 quoted purchase price. 
+[6] The defendant contends that a newspaper advertisement offering items of merchandise for sale at a named price is a "unilateral offer" which may be withdrawn without notice. He relies upon authorities which hold that, where an advertiser publishes in a newspaper that he has a certain quantity or quality of goods which he wants to dispose of at certain prices and on certain terms, such advertisements are not offers which become contracts as soon as any person to whose notice they may come signifies his acceptance by notifying the other that he will take a certain quantity of them. Such advertisements have been construed as an invitation for an offer of sale on the terms stated, which offer, when received, may be accepted or rejected and which therefore does not become a contract of sale until accepted by the seller; and until a contract has been so made, the seller may modify or revoke such prices or terms. 
+* * * 
+[7] There are numerous authorities which hold that a particular advertisement in a newspaper or circular letter relating to a sale of articles may be construed by the court as constituting an offer, acceptance of which would complete a contract. 
+[8] The test of whether a binding obligation may originate in advertisements addressed to the general public is "whether the facts show that some performance was promised in positive terms in return for something requested." 1 Williston, Contracts (Rev. ed.) sec. 27. 
+[9] The authorities above cited emphasize that, where the offer is it clear, definite, and explicit, and leaves nothing open for negotiation, constitutes an offer, acceptance of which will complete the contract. The most recent case on the subject is Johnson v. Capital City Ford Co., La.App., 85 So.2d 75, in which the court pointed out that a newspaper advertisement relating to the purchase and sale of automobiles may constitute an offer, acceptance of which will consummate a contract and create an obligation in the offeror to perform according to the terms of the published offer. 
+[10] Whether in any individual instance a newspaper advertisement is an offer rather than an invitation to make an offer depends on the legal intention of the parties and the surrounding circumstances. Annotation, 157 A.L.R. 744, 751; 77 C.J.S., Sales, sec. 25b; 17 C.J.S., Contracts, sec. 389. We are of the view on the facts before us that the offer by the defendant of the sale of the Lapin fur was clear, definite, and explicit, and left nothing open for negotiation. The plaintiff having successfully managed to be the 
+ 
+ 
+37 
+first one to appear at the seller's place of business to be served, as requested by the advertisement, and having offered the stated purchase price of the article, he was entitled to performance on the part of the defendant. We think the trial court was correct in holding that there was in the conduct of the parties a sufficient mutuality of obligation to constitute a contract of sale. 
+[11] The defendant contends that the offer was modified by a "house rule" to the effect that only women were qualified to receive the bargains advertised. The advertisement contained no such restriction. This objection may be disposed of briefly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer. 
+Affirmed. 
+1. 
+NOTES AND QUESTIONS 
+What was it that allowed the advertisement in this case to be an offer when the advertisement in Lonergan was not an offer? 
+2. 
+This is one of the first examples in this casebook of a common error in legal reasoning: mistaking a proxy for a rule. Here, the rule is the standard of R2d § 24 or some similar common law rule. The proxy is the common conclusion from many cases that various advertisements are not offers. But the rule is not "ads are not offers." The rule is the R2d or common law standard. 
+COURTEEN SEED CO. v. ABRAHAM Supreme Court of Oregon 
+129 Or. 427, 275 P. 684 (1929) 
+[1] This is an action for damages, based upon an alleged contract for the sale of a carload of clover seed. The plaintiff, a corporation organized under the laws of Wisconsin, is engaged in the wholesale seed business. The defendant is a warehouseman and grain dealer at Amity, Or. The plaintiff alleges: 
+That on October 8, 1927, the said defendant, in writing, sold and agreed to deliver to the plaintiff one carload of red clover seed, at 23 cents per pound, f.o.b. Amity, Oregon, such carload containing approximately 50,000 pounds of red clover... 
+That this plaintiff had sold and contracted to sell the said seed to others at... a profit of 4 cents per pound, after paying freight and charges. 
+38 
+ 
+Among other things, the plaintiff then avers: 
+ 
+Though the defendant has often been requested so to do, yet said defendant has refused to ship or complete the sale of said clover seed to the plaintiff, or any part thereof, and that, by reason of the facts herein set forth, the plaintiff has been damaged in the sum of $2,750,8 
+[2] The defendant's answer consists of general admissions and denials. On the trial plaintiff secured judgment against defendant for $500, and the defendant appeals. 
+BROWN, J. (after stating the facts as above). 
+[3] The defendant assigns error of the court in overruling his motion. for nonsuit in and by which he asserts that the evidence fails to show that defendant ever made a binding offer to plaintiff to sell clover seed. 
+[4] Contracts in general are reached by an offer on the one side and acceptance on the other. So it becomes necessary to determine whether the defendant actually offered to sell the clover seed to the plaintiff corporation, and whether it was defendant's intention that contractual relations should exist between them on plaintiff's acceptance. 
+[5] The writing upon which the plaintiff relies to show an offer to sell is a telegram sent by defendant to plaintiff on October 8, 1927, which reads: "I am asking 23 cents per pound for the car of red clover seed from which your sample was taken. No. 1 seed, practically no plantain whatever. Have an offer 22 3/4 per pound, f.o.b. Amity." 
+[6] Plaintiff's acceptance of the alleged offer reads: "Telegram received. We accept your offer. Ship promptly, route care Milwaukee Road at Omaha." 
+[7] A contract should be construed to effect the intention of the parties thereto, as gathered from the entire writings constituting the contract. It is this intent that constitutes the essence of every contract. Giving due consideration to every word contained in the defendant's telegram to plaintiff, we are not prepared to say that that telegram constituted an express offer to sell. It would be poor reasoning to say that the defendant meant to make the plaintiff an offer when he used this language: "I am asking 23 cents per pound for the car of red clover." That does not say, "I "I offer to you at 23 cents per pound the car of red clover," nor does it say, will sell to you the carload of red clover at 23 cents per pound." The writer of the telegram used the word "offer" with reference to some other person when he concluded by saying: "Have an offer 22 3/4 per pound, £.o.b. Amity." Each of the words "offer" and "asking" has its meaning; and we cannot 
+B [$2,750 in 1929 dollars is roughly the equivalent of $40,300 in 2019 dollars using the CPI and the GNP Deflator.-Eds.] 
+ 
+ 
+39 
+assume that the writer of the telegram meant to use these words in the same sense, nor can we eliminate the word "asking" from the writing. 
+[8] Now, going back to September 21, 1927, we find that defendant was then mailing out samples of clover seed to divers persons, each sample being inclosed in an envelope on the face of which appeared the following words: 
+Red clover, 50,000 lbs. like sample. I am asking 24 cents per, f.o.b. Amity, Oregon. 
+AMITY SEED & GRAIN WAREHOUSE Amity, Oregon 
+[9] It will be noted that on the envelope the defendant used the language, "I am asking." The plaintiff acknowledged receipt of the sample received by it, and advised the sender that it had accumulated quite a stock of clover seed and preferred to wait a while "before operating further." On October 4th following, owing to rainy weather, which brought about conditions not favorable for hulling the clover seed, the defendant, in search of buyers, wrote the plaintiff, and, on October 8th, plaintiff wired defendant as follows: "Special delivery sample received. Your price too high. Wire firm offer, naming absolutely lowest f.o.b." The defendant then wired, in reply, that he was asking 23 cents per pound, and had received an "offer of 22 3/4." This is the writing upon which the plaintiff rests its 
+case. 
+[10] It is laid down by eminent authority that information or invitation to negotiate does not constitute an offer. Perhaps one of the most comprehensive discourses on this subject appears in 1 Page on the Law of Contracts; and, for its perspicuity and learning, we set out the following interesting excerpt from section 84 thereof: "The commonest examples of offers meant to open negotiations and to call forth offers in the technical sense are the advertisements, circulars and trade letters sent out by business houses. While it is possible that the offers made by such means may be in such form as to become contracts, they are often merely expressions of a willingness to negotiate." 
+Eds.] 
+[Additional discussion from Page on the Law of Contracts is omitted.--- 
+[11] The author then refers to and quotes from the leading case of Nebraska Seed Co. v. Harsh, 98 Neb. 89, 152 N.W. 310. In that case the defendant wrote the plaintiff company the following: 
+Lowell, Nebraska, 4-24-1912. 
+Nebraska Seed Co., Omaha, Neb.-Gentlemen: I have about 1,800 bu. or thereabouts of millet seed of which I am mailing you a 
+40 
+ 
+sample. This millet is recleaned and was grown on sod and is good seed. I want $2.25 per cwt. for this seed, f. o. b. Lowell. 
+Yours truly, 
+H.F. Harsh. 
+Upon receipt of this letter, the plaintiff wired defendant as follows: 
+4-26-12. 
+H.F. Harsh, Lowell, Nebraska. 
+Sample and letter received. Accept your offer Millet like sample $2.25 per cwt. Wire how soon can load. 
+The Nebraska Seed Co. 
+ 
+[12] On the same day the plaintiff wrote the defendant a letter confirming the wire, which stated, among other things: 
+Have booked purchase of you 1,800 bushels of millet seed to be fully equal to sample you sent us at $2.25 per cwt., your track. Please be so kind as to load this seed at once and ship to us at Omaha. We thank you in advance for prompt attention... 
+The Nebraska Seed Company 
+[13] The letter was received by defendant at Lowell in due course. After due demand and tender of the purchase price, the defendant refused to deliver the seed. An action followed, in which the alleged contract was set up. Defendant filed a demurrer to the complaint, but his pleading was overruled. On trial plaintiff had verdict. Defendant appealed, and the Supreme Court of Nebraska held that the language, "I want $2.25 per cwt. for this seed, f.o.b. Lowell," did not constitute an offer of sale; that the language was general, and, as such, might be used in an advertisement or circular addressed generally to those engaged in the seed business; and that such language was not an offer by which the defendant was bound, if accepted by any or all of the persons addressed. 
+The court then quoted with approval from 9 Cyc. 278 E. 
+[14] In the case of Moulton v. Kershaw et al., 59 Wis. 316, 18 N. W. 172, 48 Am. Rep. 516, the defendant wrote the plaintiff as follows: "In consequence of a rupture in the salt trade, we are authorized to offer Michigan fine salt, in full carload lots of 80 to 95 barrels, delivered at your city, at 85 cts. per barrel, to be shipped per C. & N.W. R.R. Co. only. At this price it is a bargain, as the price in general remains unchanged. Shall be pleased to receive your order." 
+[15] On the day the plaintiff received this letter, he wired the defendants of his acceptance, and ordered 2,000 barrels of salt. In its disposition of the case, the Supreme Court of Wisconsin held that the letter 
+ 
+ 
+41 
+upon which the plaintiff relied did not constitute an offer, for the reason that neither the word "sell" nor its equivalent was used therein. 
+[16] There are many cases of record, the great majority of which seem to follow the doctrine announced in the cases hereinabove discussed. From a review of the decisions, and of the law governing the question at issue in the instant case, we are of opinion that the motion for a nonsuit should have been sustained. 
+[17] This cause is reversed and remanded, with directions to enter a nonsuit. 
+BELT and RAND, JJ., concur, 
+BEAN, J., dissents. 
+NOTES AND QUESTIONS 
+1. The court makes much of the fact that the seller used the word "asking" instead of the word "offer." It should be clear by now that you do not have to use the word "offer" to make an offer. Nobody used that word in Lucy or in Embry. In fact, in some contexts, "ask" and "offer" are considered synonyms, For instance, stock traders use the term "asked price" for the price at which people are offering to sell a stock. There is something in this case that makes the ask/offer dichotomy important. What is it? 
+2. It is often useful to make a timeline showing the facts of the case in chronological order, together with the date on which each event occurred. This is especially useful when the facts are complex or when (as in Courteen Seed) the court relates them out of chronological order. 
+3. Practicing lawyers always prepare timelines or chronological summaries when litigating complex business cases. In the real world, you are not told the facts in the order in which they happen. You learn them bit by bit as you prepare for trial (and, unfortunately, you too often learn some of them during the trial). Putting them down in chronological order makes it easier to see relationships you might otherwise overlook. 
+4. This case may have been wrongly decided. There is one crucial fact that the court does not discuss in context. A timeline will make it easier for you to see what that fact is. Do you think the court got it right? 
+: 
+42 
+ 
+PRACTICE TIP 
+When drafting a legal document, never use the same phrase twice unless you want it to mean precisely the same thing in both contexts. Conversely, if you want to say the same thing twice, be sure to use identical language in both instances. The English literature academy's glorification of "elegant variation” in which one attempts to vary one's nouns and adjectives when referring repeatedly to the same thing is anathema to the law. 
+For example, a loan agreement will often provide that the borrower can do certain things "subject to the lender's reasonable approval.” If, in one instance, perhaps by oversight, it says that it is "subject to the lender's approval," there is, then, the implication that in that particular instance the lender does not have to be reasonable, perhaps overcoming the presumption that parties to contracts always intend a duty of reasonableness. 
+
+
+SOUTHWORTH V. OLIVER 
+Supreme Court of Oregon 
+284 Or. 361, 587 P.2d 994 (1978) 
+ 
+TONGUE, JUSTICE. 
+[1] This is a suit in equity for a declaratory judgment that defendants "are obligated to sell" to plaintiff 2,933 acres of ranch lands in Grant County. Defendants appeal from a decree of specific performance10 in favor of plaintiff. We affirm. 
+[2] Defendants contend on this appeal that a certain "writing" mailed by them to plaintiff was not an offer to sell such lands; that if it was an offer there was no proper acceptance of that offer and that any such offer and acceptance did not constitute a binding contract, at least so as to be specifically enforceable... 
++ 
+[A party may bring a declaratory judgment action in a situation where they need a court to declare what their rights are but have no other cause of action to bring. In the usual case, where the parties dispute whether there is a contract, the party claiming that there is a contract will bring a breach of contract action against the other party. In this case it may not have been possible for the plaintiff to bring a breach of contract action against the defendant because even if there was a contract, the time for performance had not yet occurred, so there would have been no breach. In that case, the plaintiff could file a complaint asking for the court to declare that there was in fact a contract. Because of the procedural posture, the party that you might expect to be the defendant in a breach of contract suit is actually the plaintiff in the declaratory judgment action, e.g., the plaintiff may be the party seeking a pre-time-for-performance declaration that there is no contract that she needs to perform. If she waited for the time of performance and did not perform, she would normally be the defendant in a later breach of contract suit.-Eds.] 
+10 [A decree of specific performance orders the defendant to perform its obligations under the contract. This is not the normal remedy in a contract case. The normal remedy is to require the defendant to pay a sum of money that will compensate the plaintiff for its loss. A contract for the sale of land is one of the few situations in which a court will normally order specific performance. Chapter 22 covers specific performance.--Eds.] 
+..... 
+ 
+ 
+The parties and the property. 
+43 
+[3] Defendants are ranchers in Grant County and owned ranches in both the Bear Valley area and also in the John Day valley. In 1976 defendants came to the conclusion that they should "cut the operation down" and sell some of the Bear Valley property, as well as some of their Forest Service grazing permits. Defendant Joseph Oliver discussed this matter with his wife, defendant Arlene Oliver, and also with his son, and the three of them "jointly arrived" at a decision to sell a portion of the Bear Valley property. Joseph Oliver also conferred with his accountant and attorney and, as a result, it was decided that the sale "had to be on terms" rather than cash, for income tax reasons. Defendant Joseph Oliver then had "a discussion with Mr. Southworth (the plaintiff) about the possibility of... selling this Bear Valley property." Plaintiff Southworth was also a cattle rancher in Bear Valley. The land which defendants had decided to sell was adjacent to land owned by him and was property that he had always wanted. 
+The initial meeting between the parties on May 20, 1976. 
+** 
+[4] According to plaintiff, defendant Joseph Oliver stopped by his ranch on May 20, 1976, and said that he (Oliver) was interested in "selling the ranch" and asked "would I be interested in buying it, and I said 'yes'.' Mr. Southworth also testified that "he thought I would be interested in the land and that Clyde (Holliday, also a neighbor) would be interested in the permits" and that "I told him that I was very interested in the land..." 
+[5] Plaintiff Southworth also testified that at that time defendant Oliver showed him a map, showing land that he "understood them to offer for sale," that there was no discussion at that time of price or terms of sale, or whether the sale of the land was contingent on sale of any of the permits, but that the conversation terminated with the understanding: 
+That he would develop and determine value and price and I would make an investigation to determine whether or not I could find the money and get everything arranged for a purchase. In other words, he was going to do A and then I would do B. 
+[6] According to plaintiff Southworth, defendant Oliver said that when he determined the value of the property he would send that information to Southworth so as to give him "notice" of "what he wanted for the land," but did not say that he was also going to give that same information to Mr. Holliday, although he did say that "he planned to talk to Clyde (Holliday) about permits," with the result that plaintiff knew that Oliver "might very well be ... talking to Clyde about the same thing he talked to you (plaintiff) about" and "give that information to Clyde Holliday as well as yourself." 
+44 
+ 
+ 
+[7] According to defendant Joseph Oliver, the substance of that initial conversation with plaintiff was as follows: 
+I told him we were going to condense our ranch down and sell some property and that we were in the process of trying to get some figures from the Assessor on it to determine what we wanted to sell and what we might want to do. Whenever we got this information together we were going to send it to him and some of my neighbors and give them the first chance at it.... 
+[8] Mr. Oliver also testified that plaintiff said that "he was interested;" that he had a map with him; that he mentioned to plaintiff that he "was going to sell some permits," but that there was no discussion "about the permits going with the land at that time" and that he (Oliver) "talked along the lines that Clyde (Holliday) would probably be interested in those permits." On cross-examination Mr. Oliver also answered in the affirmative a question to the effect that the property which he and Mr. Southworth "delineated on the map" during that conversation "was the property" that he "finally decided to sell and made the general offering to the four neighbors." 
+[9] Plaintiff also testified that on May 26, 1976, he called Clyde Holliday to ask if he was interested in buying the land and Mr. Holliday said "no," that he was interested only in the permits, but would be interested in trading some other land for some of the land plaintiff was buying from defendants. 
+The telephone call of June 13, 1976. 
+[10] Plaintiff testified that on June 13, 1976, he called defendant Oliver by telephone to "ask him if his plans for selling ... continued to be in force, and he said 'yes,"" that "he was progressing and there had been some delay in acquiring information from the Assessor, but they expected soon to have the information needed to establish the value on the land." Defendant Oliver's testimony was to the same effect, but he also recalled that at that time Mr. Southworth "said everything was in order and that I didn't have to worry, he had the money available and that everything was ready to go." 
+The letters of June 17, June 21, and June 24, 1976. 
+Several days later plaintiff received from defendants a letter dated June 17, 1976, as follows: 
+Enclosed please find the information about the ranch sales that I had discussed with you previously. These prices are the market value according to the records of the Grant County Assessor. Please contact me if there are any questions. 
+45 
+ 
+ 
+There were two enclosures with that letter. The first was as follows: 
+JOSEPH C. and ARLENE G. OLIVER 
+200 Ford Road 
+John Day, OR 97845 
+Selling approximately 2933 Acres in Grant County in T. 16 S., R. 31 E., W.M. near Seneca, Oregon at the assessed market value of: 
+LAND 
+IMPROVEMENTS 
+$ 306,409 18,010 
+Total $324,419 
+Terms available-29% down-balance over 5 years at 8% interest. Negotiate sale date for December 1, 1976 or January 1, 1977. Available after hay is harvested and arrangements made for removal of hay, equipment and supplies. 
+ALSO: Selling 
+Little Bear Creek allotment permit___ 100 head @ $225 
+Big Bear Creek allotment permit_200 head @ $250 
+[11] The second enclosure related to "selling approximately 6365 acres" in Grant County near John Day another ranch owned by the Oliver family. 
+[12] Defendant Joseph Oliver testified that this letter and enclosures were "drafted" by his wife, defendant Arlene Oliver; that he then read and signed it; that he sent it not only to plaintiff, but also to Clyde Holliday and two other neighbors; that it was sent because "I told them I would send them all this information and we would go from there," that it was "not made as an offer," and that it was his intention that the "property" and "permits" be transferred "together." 
+[13] Upon receiving that letter and enclosures, plaintiff immediately responded by letter addressed to both defendants, dated June 21, 1976, as follows: 
+Re the land in Bear Valley near Seneca, Oregon that you have offered to sell; I accept your offer. 
+[14] Plaintiff testified that on June 23, 1976, Clyde Holliday called and said he needed to acquire a portion of the land "that I had agreed to buy from Joe (Oliver), and I said I have bought the land," and that we would "work out an exchange in accord with what we have previously mentioned," but that "(h)e said he needed more land." 
+[15] Defendant Joseph Oliver testified that after receiving plaintiff's letter dated June 21, 1976, Clyde Holliday told him that "they (Holliday and plaintiff) were having a little difficulty getting this thing worked out," 
+............. 
+46 
+ 
+ 
+apparently referring to the "exchange" previously discussed between plaintiff and Holliday, and that he (Oliver) then told plaintiff that: 
+(T)here seemed to be some discrepancies between what I was getting the two parties and that I didn't exactly want to be an arbitrator or say you are right or you are wrong with my neighbors. I wished they would straighten the thing out, and if they didn't, I really didn't have to sell it, that I would pull it off the market, because I didn't want to get in trouble. I would have to live with my neighbors. 
+Finally, on June 24, 1976, defendants mailed the following letter to plaintiff: 
+"We received your letter of June 21, 1976. You have misconstrued our prior negotiations and written summaries of the lands which we and J. C. wish to sell. That was not made as or intended to be a firm offer of sale, and especially was not an offer of sale of any portion of the lands and permits described to any one person separately from the rest of the lands and permits described. The memorandum of ours was for informational purposes only and as a starting point for further negotiation between us and you and the others also interested in the properties. It is also impossible to tell from the attachment to our letter of June 17, 1976, as to the legal description of the lands to be sold, and would not in any event constitute an enforceable contract. 
+We are open to further negotiation with you and other interested parties, but do not consider that we at this point have any binding enforceable contract with you." 
+This lawsuit then followed. 
+Defendants' letter of June 17, 1976, was an "offer to sell” the ranch lands. 
+[16] Defendants first contend that defendants' letter of June 17, 1976, to plaintiff was "not an offer, both as a matter of law and under the facts of this case." In support of that contention defendants say that their testimony that the letter was not intended as an offer was uncontradicted and that similar writings have been held not to constitute offers. Defendants also say that there is "authority for the proposition that all the evidence of surrounding circumstances may be taken into consideration in making that determination" and that the circumstances in this case were such as to require the conclusion that defendants did not intend the letter 
+ 
+ 
+47 
+as an offer and that plaintiff knew or reasonably should have known that it was not intended as an offer because: 
+1. 
+Defendants obviously did not intend it as an offer. 
+2. The wording of the "offer" made it clear that this was "information" that plaintiff had previously expressed an interest in receiving. 
+3. It did not use the term offer, but only formally advised plaintiff that defendants are selling certain lands and permits and set forth generally the terms upon which they would consider selling. 
+4. 
+Plaintiff knew of the custom of transferring permits with land and had no knowledge from the writing or previous talk that defendants were selling any cattle. 
+5. Plaintiff knew and expected this same information to go to others. 
+Defendants conclude that: 
+Considering the factors determined important by the authorities cited, these factors preponderate heavily that this was not an offer to sell the land only, or to sell at all, and should not reasonably have been so construed by the plaintiff. 
+[17] In Kitzke v. Turnidge, 209 Or. 563, 573, 307 P.2d 522, 527 (1957), this court quoted with approval the following rule as stated in 1 Williston on Contracts 49-50, sec. 22A (1957): 
+In the early law of assumpsit stress was laid on the necessity of a promise in terms, but the modern law rightly construes both acts and words as having the meaning which a reasonable person present would put upon them in view of the surrounding circumstances. Even where words are used, "a contract includes not only what the parties said, but also what is necessarily to be implied from what they said." And it may be said broadly that any conduct of one party, from which the other may reasonably draw the inference of a promise, is effective in law as such. 
+[18] As also stated in 1 Restatement of Contracts sec. 25, Comment (A) (1932) as quoted by this court with approval in Metropolitan Life Ins. Co. v. Kimball, 163 Or. 31, 58, 94 P.2d 1101, 1111 (1939): 
+It is often difficult to draw an exact line between offers and negotiations preliminary thereto. It is common for one who wishes to make a bargain to try to induce the other party to the intended transaction to make the definite offer, he himself suggesting with more or less definiteness the nature of the contract he is willing to enter into. Besides any direct language indicating an intent to 
+... 
+48 
+ 
+ 
+defer the formation of a contract, the definiteness or indefiniteness of the words used in opening the negotiation must be considered, as well as the usages of business, and indeed all accompanying circumstances.11 
+[19] The difficulty in determining whether an offer has been made is particularly acute in cases involving price quotations, as in this case. It is recognized that although a price quotation, standing alone, is not an offer, there may be circumstances under which a price quotation, when considered together with facts and circumstances, may constitute an offer which, if accepted, will result in a binding contract. It is also recognized that such an offer may be made to more than one person. Thus, the fact that a price quotation is sent to more than one person does not, of itself, require a holding that such a price quotation is not an offer. 
+[20] We agree with the analysis of this problem as stated in Murray on Contracts 37-40, sec. 24 (1977), as follows: 
+If A says to B, "I am going to sell my car for $500," and B replies, "All right, here is $500, I will take it," no contract results, assuming that A's statement is taken at its face value.12 A's statement does not involve any promise, commitment or undertaking; it is at most a statement of A's present intention... .. However, a price quotation or advertisement may contain sufficient indication of willingness to enter a bargain so that the party to whom it is addressed would be justified in believing that his assent would conclude the bargain... 
++ 
+The basic problem is found in the expressions of the parties. People very seldom express themselves either accurately or in complete detail. Thus, difficulty is encountered in determining the correct interpretation of the expression in question. Over the years, some more or less trustworthy guides to interpretation have been developed. 
+The first and strongest guide is that the particular expression is to be judged on the basis of what a reasonable man in the position of the offeree has been led to believe. This requires an analysis of what the offeree should have understood under all of the surrounding circumstances, with all of his opportunities for comprehending the intention of the offeror, rather than what the offeror, in fact, intended. This guide may be regarded as simply 
+"(This quotation from the Restatement of Contracts is very helpful. It does not try to pretend there is some magic formula for determining whether something is an offer. It recognizes that you just have to take your best shot and live with the uncertainty. (Of course, if you are involved in the transaction early enough, your job is to eliminate, or at least reduce, the uncertainty.)---Eds.) 
+* [Suppose A then says, "It's a deal." Is there then a contract? If so, who made the offer and who accepted?---Eds.] 
+......... 
+........ 
+ 
+ 
+another manifestation of the objective test. Beyond this universally accepted guide to interpretation, there are other guides which are found in the case law involving factors that tend to recur. The most important of the remaining guides is the language used. If there are no words of promise, undertaking or commitment, the tendency is to construe the expression to be an invitation for an offer or mere preliminary negotiations in the absence of strong, countervailing circumstances. Another guide which has been widely accepted is the determination of the party or parties to whom the purported offer has been addressed. If the expression definitely names a party or parties, it is more likely to be construed as an offer. If the addressee is an indefinite group, it is less likely to be an offer. The fact that this is simply a guide rather than a definite rule is illustrated by the exceptional cases which must be noted. The guide operates effectively in relation to such expressions as advertisements or circular letters. The addressee is indefinite and, therefore, the expression is probably not an offer. However, in reward cases, the addressee is equally indefinite and, yet, the expression is an offer. Finally, the definiteness of the proposal itself may have a bearing on whether it constitutes an offer. In general, the more definite the proposal, the more reasonable it is to treat the proposal as involving a commitment... 
+(Footnotes omitted). 
+49 
+[21] Upon application of these tests to the facts of this case we are of the opinion that defendants' letter to plaintiff dated June 17, 1976, was an offer to sell the ranch lands. We believe that the "surrounding circumstances" under which this letter was prepared by defendants and sent by them to plaintiff were such as to have led a reasonable person to believe that defendants were making an offer to sell to plaintiff the lands described in the letter's enclosure and upon the terms as there stated. 
+[22] That letter did not come to plaintiff "out of the blue," as in some of the cases involving advertisements or price quotations. Neither was this a price quotation resulting from an inquiry by plaintiff. According to what we believe to be the most credible testimony, defendants decided to sell the lands in question and defendant Joseph Oliver then sought out the plaintiff who owned adjacent lands. Defendant Oliver told plaintiff that defendants were interested in selling that land, inquired whether plaintiff was interested, and was told by plaintiff that he was "very interested in the land," after which they discussed the particular lands to be sold. That conversation was terminated with the understanding that Mr. Oliver would "determine" the value and price of that land, i. e., "what he wanted for the land," and that plaintiff would undertake to arrange financing for the purchase of that land. In addition to that initial conversation, there 
+50 
+ 
+ 
+was a further telephone conversation in which plaintiff called Mr. Oliver "to ask him if his plans for selling... continued to be in force" and was told "yes"; that there had been some delay in getting information from the assessor, as needed to establish the value of the land; and that plaintiff then told Mr. Oliver that "everything was in order" and that "he had the money available and everything was ready to go.” 
+[23] Under these facts and circumstances, we agree with the finding and conclusion by the trial court, in its written opinion, that when plaintiff received the letter of June 17th, with enclosures, which stated a price of $324,41913 for the 2,933 acres in T. 16 S., R. 31 E., W.M., as previously identified by the parties with reference to a map, and stating "terms" of 29 percent down balance over five years at eight percent interest with a "sale date" of either December 1, 1976, or January 1, 1977, a reasonable person in the position of the plaintiff would have believed that defendants were making an offer to sell those lands to him. 
+[24] This conclusion is further strengthened by "the definiteness of the proposal," not only with respect to price, but terms, and by the fact that "the addressee was not an indefinite group." See Murray, supra at 40. 
+[25] As previously noted, defendants contend that they "obviously did not intend (the letter) as an offer." While it may be proper to consider evidence of defendants' subjective intent under the objective test to which this court is committed, it is the manifestation of a previous intention that is controlling, rather than a "person's actual intent." We do not agree with defendants' contention that it was "obvious" to a reasonable person, under the facts and circumstances of this case that the letter of June 17th was not intended to be an offer to sell the ranch lands to plaintiff. 
+[26] We recognize, as contended by defendants, that the failure to use the word "offer," the fact that the letter included the "information" previously discussed between the parties, and the fact that plaintiff knew that the same information was to be sent to others, were important facts to be considered in deciding whether plaintiff, as a reasonable person, would have been led to believe that this letter was an "offer." See also Murray, supra, at 40. We disagree, however, with defendants' contention that these and other factors relied upon by defendants "preponderate" so as to require a holding that the letter of June 17th was not an offer. 
+[27] The failure to add the word "offer" and the use of the word "information" are also not controlling, and, as previously noted, an offer may be made to more than one person. The question is whether, under all of the facts and circumstances existing at the time that this letter was 
+** [$324,419 in 1978 dollars is roughly the equivalent of $1,250,000 in 2019 dollars using the CPI and the GNP Deflator.--Eds.] 
+ 
+ 
+51 
+received, a reasonable person in the position of the plaintiff would have understood the letter to be an offer by defendants to sell the land to him. 
+[28] Defendants also contend that "plaintiff knew of the custom of transferring (Forest Service grazing) permits with the land and had no knowledge from the writing or previous talk that defendants were selling any cattle" (so as to provide such a basis for a transfer of the permits). Plaintiff testified, however, that at the time of the initial conversation, Mr. Oliver told plaintiff that he thought plaintiff "would be interested in the land and that Clyde would be interested in the permits." In addition, defendant Joseph Oliver, in response to questions by the trial judge, although denying that at that time he told plaintiff that he was "going to offer the permits to Mr. Holliday," admitted that he "knew Mr. Holliday was interested in the permits" and "could have" told plaintiff that he was "going to talk to Mr. Holliday about him purchasing the permits." 
+[29] On this record we believe that plaintiff's knowledge of the facts noted by defendants relating to the transfer of such permits did not require a holding that, as a reasonable man, he did not understand or should not have understood that defendants' letter of June 17th was an offer to sell the ranch lands to him. 
+[30] Plaintiff's letter of June 21, 1976, was an acceptance of defendants' offer to sell the ranch lands. 
+[31] The trial court, in a written opinion stating its findings of fact and conclusions of law, held that: 
+(T)his court finds that the conduct of the defendant together with the words (in Exhibit 3): "Selling... at the assessed market value... terms available ... leads to only one reasonable objective conclusion; the defendants were making an offer to sell their property." 
+[32] As previously stated, we agree with that finding and conclusion. In that same opinion, the trial court then considered the question whether plaintiff's letter of June 21, 1976, was an acceptance of that offer. 
+[33] As previously stated, plaintiff responded to defendants' letter of June 17, 1976, by a letter dated June 21, 1976, as follows: 
+Re the land in Bear Valley near Seneca, Oregon that you have offered for sale; I accept your offer. 
+[34] The further fact, as noted by defendants, that plaintiff did not rely on anything in the letter of June 17th as a "document" to "tell whether the permits had to go with the land or not" is also inconclusive, in our opinion. This is because, as previously stated, not only the words of that letter, but all of the facts and circumstances, including the initial conversation 
+52 
+ 
+ 
+between the parties and their later telephone conversation, were to be considered in making a finding or conclusion that a reasonable person in plaintiff's situation would have understood the letter of June 17th to be an offer by defendants to sell the ranch lands separately from the range permits. 
+*** 
+[35] For all of these reasons, the decree of the trial court is affirmed. 
+NOTES AND QUESTIONS 
+1. When you have only one thing to sell and you send out a communication to a number of people, that's a powerful fact in favor of finding the communication is not an offer. Why wasn't that the case in Southworth v. Oliver? 
+2. 
+Was the use of the word "information" and the failure to use the word "offer" significant in determining whether or not the communication was an offer? 
+3. What factors went into the determination that the June 17 letter was an offer? 
+4. 
+Suppose Holliday or one of the other two neighbors who received the letter wanted to buy the land. Does it necessarily follow that the letter would have been an offer as to them? 
+5. Do you think the Olivers drafted the letter of June 24, 1976, themselves? Why or why not? What was the purpose of the letter? 
+6. Is the Supreme Court of Oregon, which decided both Courteen Seed and Southworth v. Oliver, being consistent in the two opinions? Or has the law changed between 1929 and 1978? Can the two decisions be harmonized? Or is one of these decisions wrong? 
+
+
+CONTINENTAL LABORATORIES V. SCOTT PAPER CO. United States District Court, Southern District, Iowa 
+VIETOR, CHIEF JUDGE. 
+769 F. Supp. 538 (1990) 
+[1] The court has before it defendant Scott Paper Company's (Scott) motion for summary judgment. Plaintiff Continental Laboratories, Inc., (Continental) has resisted and oral arguments have been heard. 
+ 
+ 
+53 
+Background 
+A. Facts 
+[2] During early 1987, representatives of Continental and Scott14 entered into negotiations concerning a potential supply and distribution agreement whereby Continental would supply hotel amenity products15 to Scott and Scott would distribute the products within designated areas of the United States. In the course of negotiations, the parties also discussed the possibility of a partial or total acquisition of Continental by Scott, but this possibility was not pursued to fruition. Beginning in May, 1987 and continuing throughout the negotiations period, Scott representatives prepared at least five drafts of a written Supply and Distribution Agreement, which they submitted to Continental. Each new draft incorporated changes which had resulted from negotiations about the prior draft and the subsequent revised draft then became the basis for further negotiations. 
+[3] On July 19, 1987, Scott, through Jim Smith, announced internally that Scott and Continental had reached a supply and distribution agreement in principle. The parties' representatives exchanged phone calls and participated in numerous meetings between July 29 and August 26, 1987. Mr. Krislov's affidavit and deposition testimony show that Continental representatives believed that a binding oral contract was reached by the parties during a telephone conference call on either August 25 or 26, 1987, between Krislov, Hirsch, Smith, and Steve Ford, Scott's legal counsel. Continental, through Krislov, further believed that Scott representatives would reduce the terms of the allegedly binding oral contract to written form in a document entitled "Supply and Distribution Agreement," as a memorial of the contract. Mr. Smith's affidavit, on the other hand, demonstrates that Scott through Smith never intended to be bound by an oral agreement, but only by a written contract executed by both parties. 
+[4] Scott representatives sent Continental representatives a copy of a written "Supply and Distribution Agreement" which bears the stamp "DRAFT" and the stamp "REC'D SEP 02 1987." It is believed that Continental employees placed the "REC'D" stamp on the document when they received the copy on September 2, 1987, but the origin of the “DRAFT" stamp is not known for certain. The September 2nd document contains a space for the "Commencement Date," which the Scott representatives left 
+14 The individuals who represented Continental were: 1. Clinton A. Krislov, who has a legal degree and is also chairman of the board for Continental, 2. David Bequeaith, Continental's vice- president of operations, and 3. Austin Hirsch, legal counsel for Continental. Mr. Hirsch became involved in the negotiations in July, 1987, James Smith, Scott's Director, New Business Development, was the primary representative for Scott. 
+15 Hotel amenity products consist of the complimentary, personal sized, health and beauty products that are often provided by hotels to their patrons, ie., shampoo, bath gel, hand lotion, bar soap, shower caps, shoe polishing cloths, etc. 
+54 
+ 
+ 
+blank. Although the September 2nd document contains a signature page showing Scott vice-president P.N. White's signature, no officer of Continental ever signed the document. 
+[5] After Continental representatives received the September 2nd document, the parties' representatives conducted meetings on September 9th and 10th to further discuss implementation of the venture. Subsequent to these meetings, Mr. Smith, on behalf of Scott, prepared a revised copy of the "Supply and Distribution Agreement," which he presented to Mr. Krislov at O'Hare Airport in Chicago. On September 16, 1987, the parties' representatives met in Madrid, Iowa. During the September 16th meeting, Mr. Smith informed the Continental representatives that Scott was no longer interested in the venture and he terminated the meeting and any further discussions regarding the proposed venture. 
+B. Proceedings 
+[6] Continental filed suit against Scott in the Iowa District Court for Boone County, alleging that the parties had entered into a final and binding, oral contract during the August telephone conference and that Mr. Smith's actions on September 16, 1987, constituted a breach of that contract by Scott. On April 6, 1988, defendant Scott removed the action to this court on the basis of diversity of citizenship jurisdiction. Defendant Scott has moved for summary judgment on the ground that there was no binding contract. Alternatively, Scott argues that even if there was a binding contract, it contained a condition precedent to Scott's performance, which Continental never fulfilled and Scott properly canceled the contract. 
+Summary Judgment Standard 
+[7] Rule 56 of the Federal Rules of Civil Procedure provides that summary judgment "shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law." To preclude the entry of summary judgment, the nonmovant must make a sufficient showing on every essential element of its case on which it has the burden of proof at trial. Rule 56(e) requires the nonmoving party to go beyond the pleadings and by affidavits, or by the "depositions, answers to interrogatories, and admissions on file,” designate "specific facts showing that there is a genuine issue for trial." Fed. R. Civ. P. 56(e). The quantum of proof that the nonmoving party must produce is not precisely measurable, but the nonmoving party must produce enough evidence so that a reasonable jury could return a verdict for the nonmovant. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 257, 106 S.Ct. 2505, 2514, 91 L.Ed.2d 202 (1986). 
+[8] On a motion for summary judgment, the court views all the facts in the light most favorable to the nonmoving party, and that party must 
+ 
+ 
+55 
+also be given the benefit of all reasonable inferences to be drawn from the 
+facts. 
+Discussion 
+[9] Under Iowa law, a binding oral contract may exist even though the parties intend to memorialize their agreement in a fully executed document. On the other hand, the parties can make the execution of a written document a condition precedent to the birth of a binding contract. Elkader Coop. Co. v. Matt, 204 N.W.2d 873, 875 (Iowa. 1973). If either party intends not to be bound in the absence of a fully executed document, no amount of negotiation or oral agreement as to specific terms will result in the formation of a binding contract. 
+[10] It is the parties' intent which will determine the time of the contract formation. Plaintiff contends that the parties, through their representatives, intended to and did enter into a binding oral contract on August 25 or 26, 1987, during a telephone conference call. Defendant, however, argues that it never intended to be bound until the parties had fully executed a written contract. The court must determine the intent of the parties objectively from their words and actions viewed within the context of the situation and surrounding circumstances. 
+[11] In ascertaining whether the parties intended to be bound prior to execution of a written document, the court should consider the following factors: 1. whether the contract is of a class usually found to be in writing; 2. whether it is of a type needing a formal writing for its full expression; 3. whether it has few or many details; 4. whether the amount is large or small; 5. whether the contract is common or unusual; 6. whether all details have been agreed upon or some remain unresolved; and 7. whether the negotiations show a writing was discussed or contemplated. After considering these factors in the context of this case, I conclude that the summary judgment record lacks sufficient evidence from which it could be found that Scott intended to be bound in the absence of an executed written contract. 
+[12] Factors 1 and 2 support Scott's position. The matter was a large and complex commercial undertaking, which is usually put into written form. The parties, who were both represented by legal counsel, negotiated for over seven months and exchanged numerous drafts of a written proposed agreement. Mr. Smith, Scott's representative, stated in his affidavit that he considered the potential relationship with Continental to be a significant matter and that it was Scott's and his own custom and practice to require all significant business agreements to be in writing. The written Agreement does not mention the August 26th phone conference nor does it contain any language which indicates that it is a written memorial of an oral contract. It does, however, contain a clause which states: "[e]xcept as specifically provided herein, this Agreement and the Exhibits 
+} 
+56 
+ 
+ 
+hereto reflect the complete agreement of the parties and there are no other agreements or understandings applicable hereto.” 
+[13] Similarly, factors 3, 4, and 5, support Scott's contention. First, the 12 page contract contains many details and references numerous exhibits. The Agreement addresses such issues as exclusivity of distributorship, products and services supplied, pricing, purchase commitment, payment terms, advance payments, confidentiality, and termination. Additionally, the Agreement references a related agreement between Continental and Redken. Second, the transaction at issue involves a commitment by Scott to purchase a minimum of $2.25 million worth of products from Continental during the term of the contract. Lastly, although supply and distribution agreements are fairly common in the commercial world, this particular contract was unusual for Scott because it involved Scott's entrance into a new market. 
+[14] Under factor 6, although Mr. Smith announced internally to Scott officials that the parties had reached an agreement in principle in July, 1987, many details were still unresolved. Even after the August telephone conference and the exchange of the September 2nd written agreement, the parties held several meetings in September, 1987, to finalize all of the details regarding manufacture and distribution of the products. On September 14, Mr. Smith even presented Mr. Krislov with another revised draft of the agreement, which Mr. Krislov accepted grudgingly. This evidence suggests that Scott, through Smith, did not consider that there was a final and binding oral agreement. 
+[15] Finally, an analysis of the summary judgment record under factor 7 also supports Scott's position that it intended to be bound only by a written and executed contract. During the negotiations, the parties had exchanged drafts of proposed written agreements. Also, Scott representatives had left the space for the Commencement Date of the September 2nd Agreement blank, suggesting that they did not consider August 26th to be that date. In the Agreement itself, the parties required that modifications, amendments, terminations, territorial expansions, etc., would all require a writing. See Exhibit A to Complaint, p. 2, 4, 8, 9, 10, 11, and 12. It would be strange for Scott to require written modifications without first contemplating a written contract, 
+[16] Based upon the preceding analysis of the relevant factors, I conclude that Continental has failed to overcome Scott's summary judgment motion. Continental has failed to generate a genuine issue of material fact regarding whether Scott intended to be bound by an oral agreement or only by a written and executed agreement. The summary judgment record shows that, based upon all of the circumstances, Scott communicated its intent to be bound only by a written contract, signed-by 
+ 
+ 
+57 
+both parties. No such contract ever existed. Therefore, defendant's motion for summary judgment IS GRANTED. 
+Order 
+[17] IT IS ORDERED that plaintiff's complaint be dismissed. 
+NOTES AND QUESTIONS 
+1. In the first sentence of paragraph 10 under the heading "Discussion," the court says: "It is the parties' intent which will determine the time of their contract formation.” Is that a correct statement of the law? Would it be better to say "manifest intent" instead? 
+2. 
+The list of seven factors that the court gives is a good example of the type of list NOT to memorize. It's pretty much common sense, and if you want to spend time doing it, you could probably come up with a better list. It all comes down to the basic idea of the objective theory of contracts-what would a reasonable person take into account in deciding whether she was bound before the terms of the deal had been reduced to writing and signed in a big meeting with lawyers running around as if they thought the world was coming to an end? In Pennzoil v. Texaco, the fact that a toast had been drunk to celebrate the deal was a major factor leading the jury to decide the parties had made a contract for a multi-billion dollar deal. In that case, all seven of the factors listed in the Continental Laboratories opinion would have argued for finding there was no contract, but the jury thought this was outweighed by the Texas tradition of making deals on the basis of a handshake, 
+3. Review the Embry case in Chapter 1. What was the offer there? What was the acceptance? 
+PRACTICE TIP 
+Whenever you are in a course of protracted negotiations like those of the Continental Laboratories case, you should consider the advantages of getting all parties to sign a document stating that there will be no contract until the parties execute formal, final documents setting forth all of the details of the transaction. 
+METRO-GOLDWYN-MAYER V. SCHEIDER 
+Supreme Court, New York County, New York 
+347 N.Y.S.2d 756, 75 Misc. 2d 418 (1972) 
+FEIN, J. 
+[1] Metro-Goldwyn-Mayer, Inc. (MGM) sues Roy Scheider (Scheider), and Roy Scheider Productions, Inc. (Productions), for an injunction enjoining said defendants from entering into agreements which would 
+58 
+ 
+ 
+require Scheider to perform services for any third party at a time when he is obligated to render services to plaintiff, and enjoining Scheider from rendering services to any third party at a time when he is obligated to render services to plaintiff, and for damages for Scheider's refusal to render services to plaintiff, 16 
+[2] MGM is a film producer, under agreement with American Broadcasting Company (ABC), pursuant to which MGM has produced a pilot film entitled "Munich Project." A pilot film is a picture produced for a television network as a demonstration picture with the hope that the network will order a television series based upon the pilot film. During the pendency of this action, ABC has exercised its option, requiring MGM to produce and deliver to ABC a television series based upon the pilot film, for broadcast on the ABC network, beginning in September, 1972. On Sunday, April 30, 1972, during the course of the trial, ABC showed the pilot film on its TV stations. 
+[3] On September 30, 1971, after meeting and telephone conversations among MGM and ABC representatives, Scheider, and Scheider's agent Joan Scott (Scott), it was agreed: (1) Scheider would appear in and be paid $20,00017 for making the pilot film; (2) Scheider would be paid, per episode, for his services in any TV series that might result from the pilot; first year, $5,000 per episode; second year, $6,000 per episode; third year, $7,000 per episode; fourth year $9,500 per episode; fifth year, $11,500 per episode; (3) if the pilot film resulted in a television series, MGM would have a one-year option from the date of completion of the pilot for Scheider's services for such series. 
+[4] Left unresolved in these conversations was Scheider's billing. At that time Scheider was a relatively unknown actor, who had played a major role in a then unreleased picture, "The French Connection," for which he has since gained acclaim and a nomination for an Academy Award as best supporting actor. A preview of that film had been seen by ABC and MGM personnel at that time. Within a few days, it was agreed that Scheider would have second star billing in the pilot and first star billing in the series, should there be a series. These understandings were not reduced to writing, it being agreed that further terms would be worked out between Scheider's attorney and the attorneys for MGM. 
+14 [What MGM is trying to do with this injunction is force Scheider to work for them. Courts won't usually give injunctions requiring a person to work for another. This arguably violates the constitutional prohibition on involuntary servitude and, more practically, it is likely to involve the court in ongoing disputes about the quality of performance rendered. To achieve the same result indirectly, the courts will sometimes prohibit the defendant from working for anyone else. This relief is often sought and occasionally granted. Injunctions and specific performance are covered in Chapter 22.-Eds.] 
+17 [$20,000 in 1972 dollars is roughly the equivalent of $120,000 in 2019 dollars using the CPI and the GNP Deflator.--Eds.] 
+} 
+ 
+ 
+59 
+[5] On this basis, on or about October 6, 1971, Scheider proceeded to Munich, Germany, where, over a six weeks' period, the pilot was filmed. Between that time and up to on or about February 17, 1972, there were negotiations between Scheider's attorney and the attorneys for MGM. On or about February 15, 1972, MGM's attorneys and Scheider's attorney had agreed on all but one of the terms of the proposed agreement in substance, although the language of some agreed upon provisions remained to be drafted. There was disagreement as to the starting date, the date on which Scheider would be required to report to start filming the series. In the conversations between Scott and the MGM representatives, no starting date had been discussed or fixed and at the beginning of the negotiations there was no such discussion. Sometime in late October or early November, 1971, in a telephone conversation between Frederick C. Houghton (Houghton), MGM's attorney, and Daniel Kossow (Kossow), Scheider's attorney, the question of a starting date was first raised. 
+[6] Kossow pointed out that MGM's one-year option on Scheider's services might interfere with or prevent Scheider's acceptance of other performing assignments for 12 months. Houghton testified that he told Kossow that, if ABC did not exercise its option for a September, 1972 air date, MGM would not require Scheider to report for filming until November 1, 1972. 
+[7] Kossow testified that he understood Houghton to say that November 1, 1972, was "an outside date before which Mr. Scheider would not be required to render services." Kossow testified that on this basis he told Houghton, "he had a deal," and that he so advised Scheider some time later. However, it is conceded that in subsequent conversations and correspondence with Houghton during the negotiations there was reference to earlier start dates, so that Scheider would have an opportunity to do other work without jeopardizing MGM's network delivery schedule, should ABC exercise its option for a September, 1972 air date for the series, filming would have to begin in the spring of 1972. There were similar discussions between Kossow and Thomas J. Robinson (Robinson), another MGM attorney. In these various conversations and communications, the dates discussed were April and May, 1972 dates, and also June 5, 1972. 
+[8] It is the custom and practice of the industry that when a pilot is filmed in the fall of the year and shown to the network during the winter, the network has the option for a series to be shown beginning in September of the following year. In such event, filming of the series by the producer must begin in the spring, April or May, or at the latest, early June. If the network determines to show the series beginning in January or February of the next year, a so-called midyear showing, filming of the series takes place in the late fall. It is also the custom and practice that the producing company's option entitles it to require the principal actors in the pilot to 
+60 
+ 
+ 
+perform in the series, consistent with the network's option to require the producer to produce and deliver a TV series based upon the pilot. 
+[9] It is undisputed that all of the parties were aware of these customs and practices, and that the ABC-MGM agreement was consistent therewith. 
+[10] On or about February 17, 1972, Kossow advised MGM that, since MGM had refused to agree to a November 1, 1972 starting date for Scheider, Scheider would not perform in the series and considered that he had no further obligation to MGM, either to negotiate or perform. No written contract was ever executed. 
+[11] ABC has exercised its option calling upon MGM, to produce a series of eight episodes for air dates commencing September, 1972. MGM has exercised its option requiring Scheider to report on or before June 5, 1972, for filming the series. Scheider has stated that he will not do so. 
+[12] At issue is whether the terms agreed upon were sufficient to support a finding that the parties made an agreement enforceable under the Statute of Frauds or otherwise, 18 
+[13] Whether the terms agreed between Scott and MGM were sufficient to establish a contract, is not free from doubt. There was much testimony on both sides as to the custom and practice of the industry to enter into binding oral arrangements on the basic or essential terms under which a performer will render services in making a pilot film, and for negotiation of a formal contract to continue during the period the actor is performing. There was also testimony as to the custom and practice of embodying such terms in a written "Outline Deal Memo," utilized with respect to Richard Basehart, the other principal actor in the pilot. 
+[14] There was disagreement as to what terms are considered basic or essential. 
+[15] It is undisputed that many of the matters left for negotiation, such as residual rights, commercial fees, etc., would substantially affect Scheider's compensation. Moreover, there was never 
+never any specific agreement as to a starting date for Scheider's performance, although implicit in MGM's one-year option was the right to exercise the option within the year. 
+[16] Although plaintiff did not prove that Scheider and his representatives ever agreed on a particular starting date, the record establishes that Scheider and his representatives knew that if ABC exercised its option for a September, 1972 air date, MGM would be compelled to require Scheider to report for filming in the spring or early 
+1* [The Statute of Frauds provides that certain contracts will not be enforced unless there is a signed record indicating that the parties actually made the contract. The Statute of Frauds is covered in Chapter 18.-Eds.] 
+ 
+ 
+61 
+summer of 1972. Scheider knew that the MGM option gave it authority to require such a starting date. 
+[17] It is manifest that many of the essential or basic elements of the contemplated contract were left for future negotiation at the time of the original understanding. Irrespective of any custom or practice of an industry, there is no contract if material financial or time elements involving compensation or other kinds of payment or duration are left undetermined. The court cannot write a contract which the parties have not made. 
+[18] However, where the parties have completed their negotiations of what they regard as essential elements, and performance has begun on the good faith understanding that agreement on the unsettled matters will follow, the court will find and enforce a contract even though the parties have expressly left these other elements for future negotiation and agreement, if some objective method of determination is available, independent of either party's mere wish or desire. Such objective criteria may be found in the agreement itself, commercial practice or other usage and custom. If the contract can be rendered certain and complete, by reference to something certain, the court will fill in the gaps. 
+[19] Here, the subsequent agreement of the parties as to all the elements of the contract, except the starting date, provides a basis for finding a complete contract. Although there was no agreement on a start date, this missing element is not dispositive. Implicit in Scheider's agreement to make the pilot and do the series, subject to MGM's one-year option, was a promise to report in time for the filming of the series, in the event ABC picked up the picture for a series with a September, 1972 start. Scheider's agreement was "instinct with an obligation" so to report. (Wood v. Duff-Gordon, 222 N.Y. 88, 91, quoting McCall Co. v. Wright, 133 App.Div. 62.) Enough had been shown as to the custom and practice of the industry, the understanding of the parties, and their subsequent agreement as to terms, to establish a contract requiring Scheider to report during the spring of 1972 for a September, 1972, air date, if so requested by MGM. This is a reasonable time, which may be implied by law, even if not agreed upon. 
+[The court went on to hold that the Statute of Frauds rendered the contract unenforceable, but on that issue it was reversed on appeal, and MGM ultimately prevailed.-Eds.] 
+PROBLEM 2-1 
+Scarlett sends a letter to Rhett in which she says: "If you submit a written offer to buy Tara for $250,000 or more, I will accept your offer." Rhett submits 
+62 
+ 
+ 
+a written offer to buy Tara for $275,000. Scarlett says: "Rhett, I've changed my mind." Do they have a contract? Look carefully at R2d § 24 and UNIDROIT article 2.1.2 before you answer. Is the answer the same under both standards? 
+PROBLEM 2-2 
+Read carefully U.C.C. § 2-328, especially subsection (3). In an auction "with reserve," who is the offeror? In an auction "without reserve," who is the offeror and what are the terms of the offer? 
+PROBLEM 2-3 
+A rural landlord wants to convince his tenant to locate more cattle on the land that the tenant rents because the rent is measured in terms of cows on the land and goes up as the size of the herd increases. He says to the tenant, "I will see that there will be plenty of water because it never failed here before." The tenant relied upon the statement and acquired more cattle. The water failed. The tenant sued. 
+Had the landlord made an offer-to see there will be enough water-and, if so, what were the terms of the offer? 
+See Anderson v. Backlund, 159 Minn. 423, 199 N.W. 90 (1924) (held: remark was in the nature of a prediction, not a representation, warranty, or other contract term). 
+Offers--an Orientation 
+In determining whether a particular communication constitutes an offer, the analysis begins and ends with the question of whether the offeree was justified in believing that by manifesting her assent, she could form a binding contract. (Many of the cases put it in terms of whether a reasonable person in the position of the offeree would think she could form a contract by manifesting her assent, but the differences between the two formulations are immaterial.) This is, of course, the key to correctly responding to Problem 2-2, above. 
+In determining whether the offeree would be justified, you should look at any factor that might be relevant. People have put together lists of factors which should be taken into account, but there is no magic in these lists. They are just the author's judgments as to which factors are most often important. Every situation is unique, so there's no right or wrong universal list. 
+Here are some of the factors that will be important in the cases in this book: 
+ 
+ 
+1. The Language Used 
+63 
+Some courts rely heavily on the fact that the language used showed a clear intent to be bound. See Lucy, Lefkowitz, and Courteen Seed. 
+On the other hand, sometimes the circumstances under which the communication was made outweigh the language. See Southworth. 
+2. Specificity and Detail 
+The more specific and detailed the communication is, the more likely it will be construed as an offer. If the person making the communication went to the trouble of spelling out the details, it tends to indicate he intended to be bound, where as if he left important things open, it tends to indicate he thought he would have a chance to negotiate them later. The size of the deal is an important factor here. If the proposal is for a billion dollar merger, the offeree would normally expect that the offeror didn't intend to be bound unless there was an agreement spelling out things in great detail. On the other hand, if the deal is rather small, it would be inefficient to hire a platoon of lawyers to draft an agreement covering every possible contingency. 
+3. 
+Customs and Practices in the Business 
+These are important in several different ways. In some businesses, it's customary to regard certain communications as offers, whereas in other businesses a very similar communication would not be considered an offer. For instance, if an auto dealer advertises a particular car at a particular price, he's probably about to sell it to the first person who is willing to pay that price. On the other hand, if somebody advertises her house in the paper for a particular price, she can decide that she doesn't want to sell it or that she will only sell it at a higher price. Why? Because that's the way things are done, and the offeree is expected to know that and take it into account when she forms her belief as to whether her assent will form a contract. 
+Another way customs and practices become important is by providing "gap fillers" that will allow a communication that otherwise would not be specific enough to be an offer. For instance, in Lucy, there were a number of important details left unresolved: what crops, livestock, equipment etc. would be included with the land; who would pay the various expenses involved in the transaction (these expenses, called "closing costs" are often quite substantial in a real estate transaction); when would the deed be delivered; when would the price be paid; what right did the buyer have to back out if he discovered some problem with the property like a toxic waste problem; and the like? In other circumstances, a court might have found that the failure to cover these details kept the parties from forming a contract. In this case, however, the court, though it didn't discuss this, probably was influenced by the fact that in most localities there is a 
+64 
+ 
+ 
+customary way of dealing with these issues when the parties fail to provide for them. See Scheider (Hollywood custom supports finding a contract); compare Continental Laboratories (the court reached the opposite conclusion, reasoning that in the more staid business of hotel amenity supply, people would want to have all the details worked out before they bound themselves). 
+4. The Multiple Acceptance Problem 
+If a seller has a limited quantity of things to sell and the communication is sent to a number of people, this is an indication that the seller does not intend to be bound but is only soliciting offers from which she can choose. The idea is that the buyer should know the seller wouldn't want to expose herself to the risk that she will have more contracts than she can fulfill. See Lonergan (the statement "this is a form letter" perhaps suggests that the letter in Lonergan was not an offer); see also Southworth (the letter to four potential buyers was an offer to Mr. Southworth even though it had gone out to others). 
+Sometimes the multiple acceptances problem is avoided if there is an indication that the offer is good only until whatever is being offered is sold. See Lefkowitz (ad expressly said "first come, first served"). 
+5. 
+The Context in Which the Communication Is Made 
+In Southworth, the court was influenced by the fact that Mr. Southworth had been led to believe Mr. Oliver would be sending him an offer. In Courteen Seed, the court overlooked a fact that may have allowed it to come to an erroneous conclusion. 
+QUESTION 
+In terms of negotiating leverage and being in control of the substance and structure of a transaction, is it better to be the offeror or the offeree? Is there one right answer to this question? Why or why not? 
+LAWYERING SKILLS PROBLEM 
+Your client has received the following letter from a person they have never met who appears to have gotten your client's name and address by searching the city's real property tax records (available online):  
+
+
+65 
+2525 Elmwood Glen Drive 
+Anytown, Anystate 55512 
+RE: 1305 Bridge Avenue; Assessor's Parcel no. 05-24116-008 
+Dear Mr. or Ms. Yours: 
+[1] I am interested in acquiring the above-referenced property, which you are listed as owning in the county clerk's records. This letter is an offer to purchase the property from you for $1,100,000. [2] The property appears to be improved with approximately 50 3- bedroom/2-bathroom apartment units, an onsite laundry facility, and at least 50 standard-sized parking spaces. I estimate, therefore, that there are approximately 150 bedrooms and, estimating rental revenue of $450 per bedroom per month for this sort of low income, itinerant, or student housing, a rent revenue stream of approximately $67,500 per month, or $810,000 per year, assuming 100% occupancy. Deducting $35,000 for operating expenses and a vacancy allowance, then, your property should yield $775,000 per year in net operating income. Given that apartment complexes locally have been recently selling with an imputed capitalization rate of 5%, this means your property is worth $15,500,000. 
+[3] Because I have some capital that I wish to deploy in the local real estate market in the very near term, I am willing to pay you $16,000,000 for your property, subject to your being able to convey marketable title that is free and clear of all but customary encumbrances. If you accept this offer, the full purchase and sale agreement will include all the standard terms and conditions. No brokerage commission will be paid. 
+[4] If you accept this offer, please indicate that you do so by signing below where indicated and returning the original to: 
+IMA Investor, LLC 
+721 Old Colony Drive 
+I thank you for your time and consideration in this matter. 
+Very truly yours, 
+Dan Gelling 
+Dan Gelling 
+President 
+IMA Investor, LLC 
+I accept the offer stated above. 
+Signed: 
+Name: Client 0. Yours 
+Title: Owner, 1305 Bridge Avenue 
+Dated: 
+66 
+ 
+ 
+(1) Your client has come to you because, although he does not need to sell the property, being able to sell for more than it is worth is of interest. The client's first question is if this is "for real"'-i.e., is this an offer capable of immediate acceptance and, if he signs and returns the letter, will there be a binding contract? Is this an offer under the standards employed in the previous cases and in the R2d? Articulate those standards as a series of factors or elements and indicate what facts support a finding that those factors or elements have or have not been satisfied to support your conclusion. 
+(2) Is this an offer under the standards of CISG article 14 (assuming it applied to this transaction)? 
+(3) Is this an offer under the standards of UNIDROIT article 2.1.2? 
+(4) What is the legal significance of paragraph 2 of the letter, if any? Do you need to understand its details and critically analyze its argument regarding value and the like in order to answer your client's question of whether this letter is an offer? 
+(5) What is the legal significance of paragraph 3 of the letter, if any? Do you need to understand its details in order to answer your client's question as to whether this is an offer? 
+(6) There are many issues raised by this letter, whether it is an offer or not. What are these issues? Be sure to break them down to their constituent parts. Which issues that you have identified are legal issues? Which are business issues? Are there other issues and, if so, how would you categorize them if they are not legal or business issues? 
+(7) In order to accept the offer, must your client sign off on the letter and return it to the sender? If they are not required to accept by doing so, but want to accept, how would you advise them to do so?

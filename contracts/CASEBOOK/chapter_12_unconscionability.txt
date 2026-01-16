@@ -1,0 +1,584 @@
+﻿Chapter 12: Unconscionability
+
+
+■   ■   ■
+
+
+Unconscionability is a troublesome doctrine. It is the contract law equivalent of constitutional law’s now-defunct substantive due process: an ill-defined doctrine with the potential to wreak havoc that, despite the fears of business interests and the hopes of social activists, has been construed so narrowly that, outside of a few key areas, it has hardly any application at all.
+
+
+If you take nothing else from this chapter apart from the notion that unconscionability is an extreme form of unfairness, remember this: Outside of the David v. Goliath case of the struggling, good-hearted, unfortunate, unlucky individual consumer against the overreaching corporation that is practically the sole source of a particular good or service that is a necessity for the consumer, the doctrine has almost no applicability. When present, it is largely an extreme form of economic duress or a product of a contract of adhesion and is confined to those facts.
+
+
+That said, what is unconscionability? It is an extreme form of unfairness, such that a court will refuse to enforce the contract despite its meeting all the other requirements of contract law. There are two types of unconscionability: procedural and substantive.
+
+
+Procedural unconscionability focuses on the element of unfair surprise of a (hidden) term found in a contract prepared by one party and presented to the other on a “take it or leave it” basis (a so called “contract of adhesion”—the 2nd party has no choice but to “adhere” to the terms presented or not contract at all). Procedural unconscionabilty is most often applied to waivers of liability and alternative dispute resolution provisions that may effectively strip any meaningful right of recovery from the weaker party. Procedural unconscionability, based on unfair surprise, lack of meaningful choice, disparate bargaining power, and adhesion contracts, is the form of unconscionability that meets with the most success today.
+
+
+The other variety, substantive unconscionability, had its seeds sown as early as 1870, when it was recognized by the U.S. Supreme Court in Scott v. United States, 79 U.S. (12 Wall.) 443, 445, 20 L.Ed. 438 (1870) (“If a contract be unreasonable and unconscionable, but not void for fraud, a court of law will give to the party who sues for its breach damages, not according to its letter, but only such as he is equitably entitled to”), but came to full flower after enactment of the U.C.C. in the turbulent 1960’s
+324
+and 1970’s. During this period, corporate enterprise expanded into previously un- and under-served sectors of society, especially the inner city, whose inhabitants had been rendered dependent on government transfer payments by the failed experiments of the Johnson administration’s war on poverty. Increasingly isolated from other, more affluent groups by the “white flight” reaction to desegregation’s progress “with all deliberate speed” and affluent African-American flight that followed the passage of the Civil Rights Act and similar legislation prohibiting discrimination in housing, employment, and similar fields, these un- and under-served sectors provided opportunities for aggressive sales and credit practices. Some of these aggressive transactions continue today in the form of rent-to-own stores and payday advance lenders, for example.
+
+
+In the wake of cases like Williams v. Walker-Thomas Furniture Co., the first case in this chapter, which uses substantive unconscionability to invalidate aggressive, unfair financing practices in the inner city, commentators were, variously, delighted or horrified, depending on their perspective. The broad, generalized statement of the doctrine—extreme unfairness under the totality of the circumstances as viewed by the court—suggested more radical outcomes than actually came to pass. The doctrine that appeared to be a threat that could assault freedom of contract and undermine capitalism has, in fact, largely behaved more like a pussycat.
+
+
+As you read the cases that follow, concentrate on what the underlying rationale of the court appears to be. Is it simple, broad unfairness? Procedural unfairness in the form of a hidden clause in a contract of adhesion when there is an undue differential in bargaining power? Something that shocks the conscience of the court? A combination of these (and other) things?
+
+
+Remember, in practice, outside of the Consumer-with-no-Alternative v. Big Co. case, unconscionability is far easier to plead than to prove. On the other hand, because of its vague outlines and fact specific nature, it may be a cause of action that is difficult to eliminate through pre-trial motion practice, even though the issue of unconscionability is characterized as a question of law in most if not all jurisdictions, and, thus, may provide plaintiffs with leverage and an increased settlement value based upon, if nothing else, the cost of defense. Although so-called frivolous tort claims make the news, an even bigger problem for American business may be bogus contract claims that cannot be dismissed prior to trial and are often settled without regard to their lack of merit. See Robert M. Lloyd, Making Contracts Relevant: Thirteen Lessons for the First-Year Contracts Course, 36 Ariz. St. L.J. 257, 259–60 (2004).
+
+
+———
+
+
+325
+Williams v. Walker-Thomas Furniture Co., United States Court of Appeals, District of Columbia Circuit, 350 F.2d 445, 121 U.S. App. D.C. 315 (1965)
+
+
+J. Skelly Wright, Circuit Judge:
+
+
+[1]Appellee, Walker-Thomas Furniture Company, operates a retail furniture store in the District of Columbia. During the period from 1957 to 1962 each appellant in these cases purchased a number of household items from Walker-Thomas, for which payment was to be made in installments. The terms of each purchase were contained in a printed form contract which set forth the value of the purchased item and purported to lease the item to appellant for a stipulated monthly rent payment. The contract then provided, in substance, that title would remain in Walker-Thomas until the total of all the monthly payments made equaled the stated value of the item, at which time appellants could take title. In the event of a default in the payment of any monthly installment, Walker-Thomas could repossess the item.
+
+
+[2]The contract further provided that “the amount of each periodical installment payment to be made by (purchaser) to the Company under this present lease shall be inclusive of and not in addition to the amount of each installment payment to be made by (purchaser) under such prior leases, bills or accounts; and all payments now and hereafter made by (purchaser) shall be credited pro rata on all outstanding leases, bills and accounts due the Company by (purchaser) at the time each such payment is made.” The effect of this rather obscure provision was to keep a balance due on every item purchased until the balance due on all items, whenever purchased, was liquidated. As a result, the debt incurred at the time of purchase of each item was secured by the right to repossess all the items previously purchased by the same purchaser, and each new item purchased automatically became subject to a security interest arising out of the previous dealings.
+
+
+[3]On May 12, 1962, appellant Thorne purchased an item described as a Daveno, three tables, and two lamps, having total stated value of $391.10. Shortly thereafter, he defaulted on his monthly payments and appellee sought to replevy all the items purchased since the first transaction in 1958.1
+
+
+[4]Similarly, on April 17, 1962, appellant Williams bought a stereo set of stated value of $514.95.2 She too defaulted shortly thereafter, and
+326
+appellee sought to replevy all the items purchased since December, 1957. The Court of General Sessions granted judgment for appellee. The District of Columbia Court of Appeals affirmed, and we granted appellants’ motion for leave to appeal to this court.
+
+
+[5]Appellants’ principal contention, rejected by both the trial and the appellate courts below, is that these contracts, or at least some of them, are unconscionable and, hence, not enforceable. In its opinion in Williams v. Walker-Thomas Furniture Company, 198 A.2d 914, 916 (1964), the District of Columbia Court of Appeals explained its rejection of this contention as follows:
+
+
+Appellant’s second argument presents a more serious question. The record reveals that prior to the last purchase appellant had reduced the balance in her account to $164. The last purchase, a stereo set, raised the balance due to $678. Significantly, at the time of this and the preceding purchases, appellee was aware of appellant’s financial position. The reverse side of the stereo contract listed the name of appellant’s social worker and her $218 monthly stipend from the government. Nevertheless, with full knowledge that appellant had to feed, clothe and support both herself and seven children on this amount, appellee sold her a $514 stereo set.
+
+
+We cannot condemn too strongly appellee’s conduct. It raises serious questions of sharp practice and irresponsible business dealings. A review of the legislation in the District of Columbia affecting retail sales and the pertinent decisions of the highest court in this jurisdiction disclose, however, no ground upon which this court can declare the contracts in question contrary to public policy. We note that were the Maryland Retail Installment Sales Act, Art. 83 §§ 128–153, or its equivalent, in force in the District of Columbia, we could grant appellant appropriate relief. We think Congress should consider corrective legislation to protect the public from such exploitive contracts as were utilized in the case at bar.
+
+
+[6]We do not agree that the court lacked the power to refuse enforcement to contracts found to be unconscionable. In other jurisdictions, it has been held as a matter of common law that unconscionable contracts are not enforceable. While no decision of this court so holding has been found, the notion that an unconscionable bargain should not be given full enforcement is by no means novel. In Scott v. United States, 79 U.S. (12 Wall.) 443, 445, 20 L.Ed. 438 (1870), the Supreme Court stated:
+
+
+. . . If a contract be unreasonable and unconscionable, but not void for fraud, a court of law will give to the party who sues for its
+327
+breach damages, not according to its letter, but only such as he is equitably entitled to . . .
+
+
+Since we have never adopted or rejected such a rule, the question here presented is actually one of first impression.
+
+
+[7]Congress has recently enacted the Uniform Commercial Code, which specifically provides that the court may refuse to enforce a contract which it finds to be unconscionable at the time it was made. 28 D.C. Code § 2–302 (Supp. IV 1965). The enactment of this section, which occurred subsequent to the contracts here in suit, does not mean that the common law of the District of Columbia was otherwise at the time of enactment, nor does it preclude the court from adopting a similar rule in the exercise of its powers to develop the common law for the District of Columbia. In fact, in view of the absence of prior authority on the point, we consider the congressional adoption of § 2–302 persuasive authority for following the rationale of the cases from which the section is explicitly derived. Accordingly, we hold that where the element of unconscionability is present at the time a contract is made, the contract should not be enforced.
+
+
+[8]Unconscionability has generally been recognized to include an absence of meaningful choice on the part of one of the parties together with contract terms which are unreasonably favorable to the other party. Whether a meaningful choice is present in a particular case can only be determined by consideration of all the circumstances surrounding the transaction. In many cases the meaningfulness of the choice is negated by a gross inequality of bargaining power.3 The manner in which the contract was entered is also relevant to this consideration. Did each party to the contract, considering his obvious education or lack of it, have a reasonable opportunity to understand the terms of the contract, or were the important terms hidden in a maze of fine print and minimized by deceptive sales practices? Ordinarily, one who signs an agreement without full knowledge of its terms might be held to assume the risk that he has entered a one-sided bargain.4 But when a party of little bargaining power, and hence little
+328
+real choice, signs a commercially unreasonable contract with little or no knowledge of its terms, it is hardly likely that his consent, or even an objective manifestation of his consent, was ever given to all the terms. In such a case the usual rule that the terms of the agreement are not to be questioned5 should be abandoned and the court should consider whether the terms of the contract are so unfair that enforcement should be withheld.
+
+
+[9]In determining reasonableness or fairness, the primary concern must be with the terms of the contract considered in light of the circumstances existing when the contract was made. The test is not simple, nor can it be mechanically applied. The terms are to be considered “in the light of the general commercial background and the commercial needs of the particular trade or case.”6 Corbin suggests the test as being whether the terms are “so extreme as to appear unconscionable according to the mores and business practices of the time and place.” 1 Corbin, op. cit.7 We think this formulation correctly states the test to be applied in those cases where no meaningful choice was exercised upon entering the contract.
+
+
+[10]Because the trial court and the appellate court did not feel that enforcement could be refused, no findings were made on the possible unconscionability of the contracts in these cases. Since the record is not sufficient for our deciding the issue as a matter of law, the cases must be remanded to the trial court for further proceedings.
+
+
+So ordered.
+
+
+Danaher, Circuit Judge (dissenting):
+
+
+[11]The District of Columbia Court of Appeals obviously was as unhappy about the situation here presented as any of us can possibly be. Its opinion in the Williams case, quoted in the majority text, concludes: “We think Congress should consider corrective legislation to protect the public from such exploitive contracts as were utilized in the case at bar.”
+
+
+
+
+329
+[12]My view is thus summed up by an able court which made no finding that there had actually been sharp practice. Rather the appellant seems to have known precisely where she stood.
+
+
+[13]There are many aspects of public policy here involved. What is a luxury to some may seem an outright necessity to others. Is public oversight to be required of the expenditures of relief funds? A washing machine, e.g., in the hands of a relief client might become a fruitful source of income. Many relief clients may well need credit, and certain business establishments will take long chances on the sale of items, expecting their pricing policies will afford a degree of protection commensurate with the risk. Perhaps a remedy when necessary will be found within the provisions of the “Loan Shark” law, D.C. Code 26–601 et seq. (1961).
+
+
+[14]I mention such matters only to emphasize the desirability of a cautious approach to any such problem, particularly since the law for so long has allowed parties such great latitude in making their own contracts. I dare say there must annually be thousands upon thousands of installment credit transactions in this jurisdiction, and one can only speculate as to the effect the decision in these cases will have.
+
+
+[15]I join the District of Columbia Court of Appeals in its disposition of the issues.
+
+
+———
+
+
+Notes and Questions
+
+
+During the late 1950’s and early 1960’s multiple courts in the District of Columbia struggled to come up with legal ground to cease Walker-Thomas’s business practice of combining the cost of his customer’s isolated transactions into one lump sum, leaving a balance due on all items purchased until their entire balance was paid in full. If a customer defaulted on a payment, regardless of the aggregate amount she had paid towards the balance due, Walker-Thomas would reposes ALL of the items she had purchased. Three attorneys from the Legal Assistance Office in Washington D.C. decided to “vigorously” represent two defendants in lawsuits against Walker-Thomas Furniture Co. One defendant was named Williams, the other named Thorne, and their attorneys were determined to establish legal precedent that would protect other indigent individuals who were also being taken advantage of by companies like Walker-Thomas.
+
+
+The attorneys for Williams and Thorne attempted to show a lack of mutual assent, because there was valid precedent supporting that argument. However, the District of Columbia Court of General Sessions reluctantly found for Walker-Thomas, as did the District of Columbia Court of Appeals, who actually wrote in their opinion a call to Congress for “corrective legislation to protect the public from such exploitive contracts.” Ultimately, the case was argued before the United States Court of Appeals for the District of Columbia, where
+330
+the case was reversed and remanded to the general sessions court for proceedings consistent with their opinion (the edited version of which is the case, above).
+
+
+On remand both cases settled before trial, and both Williams and Thorne were compensated with an amount all parties considered to be a “reasonable value” for the items Walker-Thomas repossessed. After the ruling from the United States Court of Appeals, one of the attorneys who represented Thorne said, “[i]t is hoped that these cases will provide an impetus to civil legal aid offices to challenge exploitation of the poor in the highest court necessary to achieve results for the individual indigent client and to encourage case law which is useful at the trail level for their protection.” Dostert, Pierre E., Appellate Restatement of Unconscionability: Civil Legal Aid at Work. A.B.A.J. 54, no. 12, 1183, 1186 (1968), http://‌www.‌jstor.‌org/‌stable/‌25724619.
+
+
+———
+
+
+Problem 12-1
+
+
+You Need $3,000 Wheels!
+
+
+Christy Chenney, a resident of a desert community in Southern California, lived four days with her car’s plastic hubcaps. On day five, armed with three of her boyfriend’s pay stubs, a bank statement and the names of references, the unemployed mother of three drove to a strip mall in the suburbs and outfitted her new used-car with a set of gleaming, $57-a-week, rent-to-own chrome wheels. If she makes her payments on time for the next 52 weeks, every 11th payment will be forgiven. In the end, she will have paid $2,736 for a set of $1,800 wheels.
+
+
+Nothing’s worse than plastic hubcaps.
+
+
+(a)Does Ms. Chenney have an unconscionability claim? Under her “rent-to-own” contract, she can stop payment at any time and have no obligation to pay anything more. She just has to give back the wheels. If she doesn’t make all the payments, though, she loses all the money she’s paid to date.
+
+
+(b)Can you think of a way to use the fact that Rent-A-Wheel generously forgives every eleventh payment (providing the other payments are made in a timely manner) into an argument in favor of a finding of unconscionability?
+
+
+———
+
+
+———
+
+
+331
+Weaver v. American Oil Co., Supreme Court of Indiana, 257 Ind. 458, 276 N.E.2d 144 (1971)
+
+
+Arterburn, Chief Justice.
+
+
+[1]In this case the appellee oil company presented to the appellant-defendant lessee, a filling station operator, a printed form contract as a lease to be signed, by the defendant, which contained, in addition to the normal leasing provisions, a “hold harmless” clause which provided in substance that the lessee operator would hold harmless and also indemnify the oil company for any negligence of the oil company occurring on the leased premises. The litigation arises as a result of the oil company’s own employee spraying gasoline over Weaver and his assistant and causing them to be burned and injured on the leased premises. This action was initiated by American Oil and Hoffer (Appellees) for a declaratory judgment to determine the liability of appellant Weaver, under the clause in the lease. The trial court entered judgment holding Weaver liable under the lease.
+
+
+Clause three (3) of the lease reads as follows:
+
+
+Lessor, its agents and employees shall not be liable for any loss, damage, injuries, or other casualty of whatsoever kind or by whomsoever caused to the person or property of anyone (including Lessee) on or off the premises, arising out of or resulting from Lessee’s use, possession or operation thereof, or from defects in the premises whether apparent or hidden, or from the installation existence, use, maintenance, condition, repair, alteration, removal or replacement of any equipment thereon, whether due in whole or in part to negligent acts or omissions of Lessor, its agents or employees; and Lessee for himself, his heirs, executors, administrators, successors and assigns, hereby agrees to indemnify and hold Lessor, its agents and employees, harmless from and against all claims, demands, liabilities, suits or actions (including all reasonable expenses and attorneys’ fees incurred by or imposed on the Lessor in connection therewith) for such loss, damage, injury or other casualty. Lessee also agrees to pay all reasonable expenses and attorneys’ fees incurred by Lessor in the event that Lessee shall default under the provisions of this paragraph.
+
+
+[2]It will be noted that this lease clause not only exculpated the lessor oil company from its liability for its negligence, but also compelled Weaver to indemnify them for any damages or loss incurred as a result of its negligence. The appellate court held the exculpatory clause invalid, 261 N.E.2d 99, but the indemnifying clause valid, 262 N.E.2d 663. In our opinion, both these provisions must be read together since one may be used
+332
+to effectuate the result obtained through the other. We find no ground for any distinction and we therefore grant the petition to transfer the appeal to this court.
+
+
+[3]This is a contract, which was submitted (already in printed form) to a party with lesser bargaining power. As in this case, it may contain unconscionable or unknown provisions which are in fine print. Such is the case now before this court.
+
+
+[4]The facts reveal that Weaver had left high school after one and a half years and spent his time, prior to leasing the service station, working at various skilled and unskilled labor oriented jobs. He was not one who should be expected to know the law or understand the meaning of technical terms. The ceremonious activity of signing the lease consisted of nothing more than the agent of American Oil placing the lease in front of Mr. Weaver and saying “sign,” which Mr. Weaver did. There is nothing in the record to indicate that Weaver read the lease; that the agent asked Weaver to read it; or that the agent, in any manner, attempted to call Weaver’s attention to the “hold harmless” clause in the lease. Each year following, the procedure was the same. A salesman, from American Oil, would bring the lease to Weaver, at the station, and Weaver would sign it. The evidence showed that Weaver had never read the lease prior to signing and that the clauses in the lease were never explained to him in a manner from which he could grasp their legal significance. The leases were prepared by the attorneys of American Oil Company, for the American Oil Company, and the agents of the American Oil Company never attempted to explain the conditions of the lease nor did they advise Weaver that he should consult legal counsel, before signing the lease. The superior bargaining power of American Oil is patently obvious and the significance of Weaver’s signature upon the legal document amounted to nothing more than a mere formality to Weaver for the substantial protection of American Oil.
+
+
+[5]Had this case involved the sale of goods it would have been termed an “unconscionable contract” under sec. 2–302 of the Uniform Commercial Code. The statute reads as follows:
+
+
+19–2–302. Unconscionable contract or clause.
+
+
+(1)If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.
+
+
+(2)When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its
+333
+commercial setting, purpose and effect to aid the court in making the determination.
+
+
+[6]According to the Comment to Official Text, the basic test of unconscionability is whether, in light of the general commercial background and the commercial needs of the particular trade or case, the clauses involved are so one-sided as to be unconscionable under the circumstances existing at the time of the making of the contract. Subsection two makes it clear that it is proper for the court to hear evidence upon these questions.
+
+
+An “unconscionable contract” has been defined to be such as no sensible man not under delusion, duress or in distress would make, and such as no honest and fair man would accept. There exists here an “inequality so strong, gross and manifest that it is impossible to state it to a man of common sense without producing an exclamation at the inequality of it.” “Where the inadequacy of the price is so great that the mind revolts at it the court will lay hold on the slightest circumstances of oppression or advantage to rescind the contract.”
+
+
+It is not the policy of the law to restrict business dealings or to relieve a party of his own mistakes of judgment, but where one party has taken advantage of another’s necessities and distress to obtain an unfair advantage over him, and the latter, owing to his condition, has encumbered himself with a heavy liability or an onerous obligation for the sake of a small or inadequate present gain, there will be relief granted. Stiefler v. McCullough, 97 Ind.App. 123, 174 N.E. 823 (1931).
+
+
+[7]The facts of this case reveal that in exchange for a contract which, if the clause in question is enforceable, may cost Mr. Weaver potentially thousands of dollars in damages for negligence of which he was not the cause, Weaver must operate the service station seven days a week for long hours, at a total yearly income of $5,000—$6,000. The evidence also reveals that the clause was in fine print and contained no title heading which would have identified it as an indemnity clause. It seems a deplorable abuse of justice to hold a man of poor education, to a contract prepared by the attorneys of American Oil, for the benefit of American Oil which was presented to Weaver on a “take it or leave it basis.”
+
+
+[8]Justice Frankfurter of the United States Supreme Court spoke on the question of inequality of bargaining power in his dissenting opinion in United States v. Bethlehem Steel Corp. (1942), 315 U.S. 289, 326, 62 S.Ct. 581, 599, 86 L.Ed. 855, 876.
+
+
+[I]t is said that familiar principles would be outraged if Bethlehem were denied recovery on these contracts. But is there any principle which is more familiar or more firmly embedded in the history of Anglo-American law than the basic doctrine that the courts will
+334
+not permit themselves to be used as instruments of inequity and injustice? Does any principle in our law have more universal application than the doctrine that courts will not enforce transactions in which the relative positions of the parties are such that one has unconscionably taken advantage of the necessities of the other?
+
+
+These principles are not foreign to the law of contracts. Fraud and physical duress are not the only grounds upon which courts refuse to enforce contracts. The law is not so primitive that it sanctions every injustice except brute force and downright fraud. More specifically, the courts generally refuse to lend themselves to the enforcement of a “bargain” in which one party has unjustly taken advantage of the economic necessities of the other . . .
+
+
+[9]The traditional contract is the result of free bargaining of parties who are brought together by the play of the market, and who meet each other on a footing of approximate economic equality. In such a society there is no danger that freedom of contract will be a threat to the social order as a whole. But in present-day commercial life the standardized mass contract has appeared. It is used primarily by enterprises with strong bargaining power and position. The weaker party, in need of the good or services, is frequently not in a position to shop around for better terms, either because the author of the standard contract has a monopoly (natural or artificial) or because all competitors use the same clauses.
+
+
+[10]Judge Frankfurter’s dissent was written nearly twenty years ago. It represents a direction and philosophy which the law, at that time was taking and is now compelled to accept in our modern society over the old principle known as the parole evidence rule. The parole evidence rule states that an agreement or contract, signed by the parties, is conclusively presumed to represent an integration or meeting of the minds of the parties. This is an archaic rule from the old common law. The objectivity of the rule has as its only merit its simplicity of application which is far outweighed by its failure in many cases to represent the actual agreement, particularly where a printed form prepared by one party contains hidden clauses unknown to the other party is submitted and signed. The law should seek the truth or the subjective understanding of the parties in this more enlightened age. The burden should be on the party submitting such “a package” in printed form to show that the other party had knowledge of any unusual or unconscionable terms contained therein. The principle should be the same as that applicable to implied warranties, namely that a package of goods sold to a purchaser is fit for the purposes intended and contains no harmful materials other than that represented. Caveat lessee is no more the current law than caveat emptor. Only in this way can justice be served and the true meaning of freedom of contract preserved. The analogy is rational. We have previously pointed out a similar situation in
+335
+the Uniform Commercial Code, which prohibits unconscionable contract clauses in sales agreements.
+
+
+[11]When a party can show that the contract, which is sought to be enforced, was in fact an unconscionable one, due to a prodigious amount of bargaining power on behalf of the stronger party, which is used to the stronger party’s advantage and is unknown to the lesser party, causing a great hardship and risk on the lesser party, the contract provision, or the contract as a whole, if the provision is not separable, should not be enforceable on the grounds that the provision is contrary to public policy. The party seeking to enforce such a contract has the burden of showing that the provisions were explained to the other party and came to his knowledge and there was in fact a real and voluntary meeting of the minds and not merely an objective meeting.
+
+
+[12]Unjust contract provisions have been found unenforceable, in the past, on the grounds of being contrary to public policy, where a party has a greater superior bargaining position. In Pennsylvania Railroad Co. v. Kent (1964), 136 Ind.App. 551, 198 N.E.2d 615, Judge Hunter, speaking for the court said that although the proposition that “parties may enter into such contractual arrangement as they may desire may be conceded in the general sense; when, however, such special agreement may result in affecting the public interest and thereby contravene public policy, the abrogation of the rules governing common carriers must be zealously guarded against.”
+
+
+[13]We do not mean to say or infer that parties may not make contracts exculpating one of his negligence and providing for indemnification, but it must be done knowingly and willingly as in insurance contracts made for that very purpose.
+
+
+[14]It is the duty of the courts to administer justice and that role is not performed, in this case, by enforcing a written instrument, not really an agreement of the parties as shown by the evidence here, although signed by the parties. The parole evidence rule must yield to the equities of the case. The appeal is transferred to this court and the judgment of the trial court is reversed with direction to enter judgment for the appellant.
+
+
+Given, DeBruler and Hunter, JJ., concur.
+
+
+Prentice, J., dissents, with opinion.
+
+
+Prentice, Judge (dissenting).
+
+
+[15]My opinion is diametrically opposed to those of both the majority herein and of the Appellate Court as set forth in 261 N.E.2d 99, and 262 N.E.2d 663. There is no law to support the decisions of the Appellate Court . . .
+
+
+* * *
+
+
+* * *
+
+
+336
+[16]The decisions of the Appellate Court would not enforce the exculpatory agreement upon the theory that, although this Court has consistently refused to void exculpatory provisions as contrary to public policy, their burdens being unusual and considerable, they should not be enforced unless it appears that the party who assumes the burden under the clause was aware of it and understood its far reaching implications. The burden of proving such awareness, or lack of it, would vary depending upon the relative bargaining positions of the parties. The indemnity provision, however, was held enforceable, by reason of the availability of insurance rendering the risk manageable.
+
+
+[17]The facts as found, are that although the defendant never read the lease, he had ample opportunity to do so and to obtain counsel. A general rule in effect not only in Indiana but elsewhere, is that a person who signs a contract, without bothering to read the same, will be bound by its terms.
+
+
+[18]Without regard to whether or not he was aware of its contents, a person will be relieved of his obligations under a contract under circumstances falling into two main categories: (a) where the contract is not enforceable because of occurrences or omissions (fraud, concealment, etc.) surrounding its execution and (b) where the contract is not enforceable because of the nature or subject of the contract (illegality of subject matter). The Appellate Court would have us recognize a third category and excuse performance, at least as to harsh provisions, without a showing that he was aware of and understood the contract provisions and their implications, with the burden of proof upon such issues to vary depending upon the relative bargaining positions of the parties. The objective of such a rule is laudable, but I think it, nevertheless, totally unworkable.
+
+
+* * *
+
+
+[19]Chief Justice Arterburn, speaking for a majority of this Court, has concluded that the defendant was in an inferior position with respect to the lease and treats the lease as we might treat an adhesion contract. I find justification for neither. An adhesion contract is one that has been drafted unilaterally by the dominant party and then presented on a “take it or leave it” basis to the weaker party, who has no real opportunity to bargain about its terms. Restatement 2d, Conflict of Law § 332 a, cmt. e; 17 C.J.S. Contracts § 10, at 581. Here we have a printed form contract prepared by American. There was great disparity between the economic positions of American and Defendant; and Defendant was a man of limited educational and business background. However, there is nothing from which we can find or infer that the printed lease provisions were not subject to negotiation or that, with respect to this particular lease, Defendant was not in a bargaining position equal to that of American. The fact that Defendant did not avail himself of the opportunity to read the agreement
+337
+but elected to accept it as presented does not warrant the inference that his only options were to “take it or leave it.” That the “hold harmless” clause was or might have been in small print, as suggested by the majority, can hardly have significance in light of the claim and finding that the defendant did not read any portion of the document.
+
+
+* * *
+
+
+[20]I would accept transfer of this cause, set aside the decision of the Appellate Court, as modified, and affirm the decision of the trial court.
+
+
+———
+
+
+Haines v. St. Charles Speedway, Inc., United States Court of Appeals, Eighth Circuit, 874 F.2d 572 (1989)
+
+
+John R. Gibson, Circuit Judge.
+
+
+[1]Norman and Barbara Haines appeal an adverse summary judgment. Norman Haines was injured when struck in the infield of a racetrack by his own race car while attempting to have it started before an event. He and Barbara, his wife, sued the owner of the racetrack and the promoter of that day’s racing event. The district court granted defendants’ motions for summary judgment, holding that a release signed by Norman Haines precluded him from pursuing his claims. We affirm.
+
+
+[2]The facts of this case are essentially undisputed, and in reviewing the district court’s decision to grant summary judgment we view the facts in a light most favorable to the nonmoving parties, Norman and Barbara Haines. Norman Haines owned a Stanton sprint car and wished to race it at the St. Charles Speedway of St. Charles, Missouri, on April 26, 1986. Although he hired Mike Thurman to drive the car, Haines desired to enter the infield portion of the Speedway in order to aid in preparing for the race. As he stood in line, waiting with others to enter the infield, Haines was presented with and signed a document entitled “Release and Waiver of Liability and Indemnity Agreement.” All those who entered the infield were required to sign this form.
+
+
+[3]Haines, who has a second or third grade reading ability, signed the document without reading it, as he had done many times before. At no point did he ask his wife Barbara, who was an official of the Midwest Racing Association, or anyone else to explain the significance of the release. Some time after gaining access to the infield, Haines asked that his sprint car be started. During this process, which entailed using a separate auto to push-start the racing car, Haines was struck by his own car and injured.
+
+
+[4]Haines sued the St. Charles Speedway, Inc. and Bob Wente, the promoter of the event at which Haines was injured. Haines alleged that
+338
+they were negligent in permitting an inexperienced driver to operate the push car, in constructing and maintaining the speedway, and in failing to warn him of the dangers presented by the speedway. Norman Haines claimed for damages arising from his injury; his wife Barbara asserted loss of consortium.
+
+
+[5]The district court granted defendants’ motion for summary judgment, holding that the release signed by Haines exculpated the Speedway and Wente from any liability that they may have incurred as a consequence of their alleged negligence. Contending that this was error, Norman and Barbara Haines argue that the release constituted a contract of adhesion under controlling Missouri law and was unenforceable because at the time he signed the release Norman could not have expected that the document would grant the Speedway and promoter Wente unlimited exculpation from liability.
+
+
+[6]Initially, we observe that the language of the release signed by Haines is both unambiguous and broad in scope:
+
+
+RELEASE AND WAIVER OF LIABILITY AND INDEMNITY AGREEMENT IN CONSIDERATION of being permitted to enter for any purpose any RESTRICTED AREA (herein defined as including but not limited to the racing surface, pit areas [and] infield . . .) . . . or for any purpose participate in any way in the event, EACH OF THE UNDERSIGNED . . .
+
+
+1.HEREBY RELEASES, WAIVES, DISCHARGES AND COVENANTS NOT TO SUE the promoter, participants, racing association, sanctioning organization . . . , track operator, track owner, officials, car owners, drivers [and] pit crews . . . from all liability to the undersigned, for any or all loss or damage, and any claim or demands therefor on account of injury to the person or property or resulting in death of the undersigned, whether caused by the negligence of the releasees or otherwise while the undersigned is in or upon the restricted area . . . or for any purpose participating in the event;
+
+
+2.HEREBY AGREES TO INDEMNIFY AND SAVE AND HOLD HARMLESS the releasees and each of them from any loss, liability, damage, or cost they may incur due to the presence of the undersigned in or upon the restricted area or in any way competing, officiating, observing, or working for, or for any purpose participating in the event and whether caused by the negligence of the releasees or otherwise.
+
+
+3.HEREBY ASSUMES FULL RESPONSIBILITY FOR AND RISK OF BODILY INJURY, DEATH OR PROPERTY DAMAGE due to the negligence of releasees or otherwise
+339
+while in or upon the restricted area and/or while competing, officiating, observing, or working for or for any purpose participating in the event.
+
+
+EACH OF THE UNDERSIGNED expressly acknowledges and agrees that the activities of the event are very dangerous and involve the risk of serious injury and/or death and/or property damage. EACH OF THE UNDERSIGNED further expressly agrees that the foregoing release, waiver and indemnity agreement is intended to be as broad and inclusive as is permitted by the law of the Province or State in which the event is conducted and that if any portion thereof is held invalid, it is agreed that the balance shall, notwithstanding, continue in full legal force and effect.
+
+
+THE UNDERSIGNED HAS READ AND VOLUNTARILY SIGNS THE RELEASE AND WAIVER OF LIABILITY AND INDEMNITY AGREEMENT, and further agrees that no oral representations, statements or inducements apart from the foregoing written agreement have been made.
+
+
+[7]The parties, however, debate whether this document constitutes a “contract of adhesion.” Missouri law controls in this diversity case. Particularly illuminating are two scholarly opinions crafted by Judge Shangler of the Missouri Court of Appeals for the Western District, one of which provides this definition:
+
+
+A contract of adhesion is a form contract submitted by one party and accepted by the other on the basis of this or nothing. It is an instrument devised by skilled legal talent for mass and standard industry-wide use which does not allow for idiosyncrasy. It is a transaction not negotiated but one which literally adheres for want of choice.
+
+
+Estrin Constr. Co. v. Aetna Casualty and Sur. Co., 612 S.W.2d 413, 418 n.3 (Mo. App. 1981) (emphasis in original); see also Spychalski v. MFA Life Ins. Co., 620 S.W.2d 388 (Mo. App. 1981). We are satisfied that the document signed by Haines, one obviously crafted by lawyers, printed in small type, and signed by all who desired entry to the infield of the Speedway, constituted a contract of adhesion under this standard. While some such contracts may be enforceable, we are to examine the “total transaction” in determining the intent of the parties, rather than looking only to the literal language of the document. Id. at 420.
+
+
+[8]Haines contends that the circumstances surrounding his execution of the release mandate that we hold it invalid. He argues that the Speedway knowingly withheld the release form from all track entrants until the moment of entry, and that it had no reason to expect that the
+340
+drivers, mechanics, and car owners who frequented the track would appreciate the significance of the release when they signed it.
+
+
+[9]Here, the district court fully considered the circumstances surrounding the execution of the release. Aware of Haines’ claim that he possessed only a second or third grade reading ability, the court stated that, “If Norman Haines is functionally illiterate, it was his duty to procure someone to read or explain the release to him before signing it.” In response to Haines’ argument that he was “pressured” into signing the release, the district court observed that Haines did not produce any fact establishing that the execution of the release was a product of duress.
+
+
+[10]Indeed, Norman Haines stated in deposition that he has been involved in racing since 1952, and during that time has owned some 13 sprint cars. In 1954, Haines discontinued participating in racing events as a driver when he started to raise a family. He admits to doing so because of the dangerousness of the sport. He also admits to witnessing, in the past, crashed automobiles roll to the infield portions of the tracks. While we are sensitive to the circumstances now facing Norman Haines, he doubtlessly knew that the sport placed risks on both participants and spectators. Although Haines could have withdrawn from his hobby at any time, he did not do so.
+
+
+[11]In construing a standardized contract under Missouri law, furthermore, we are “to effectuate the reasonable expectations of the average member of the public who accepts it.” Estrin, 612 S.W.2d at 419 n.4. To hold that a reasonable person would not realize the significance of the release signed by Haines would be to ignore the unambiguous text of the document.
+
+
+* * *
+
+
+Accordingly, the judgment of the district court is affirmed.
+
+
+———
+
+
+Zapatha v. Dairy Mart, Inc., Supreme Judicial Court of Massachusetts, 381 Mass. 284, 408 N.E.2d 1370 (1980)
+
+
+Wilkins, Justice.
+
+
+[1]We are concerned here with the question whether Dairy Mart, Inc. (Dairy Mart), lawfully undertook to terminate a franchise agreement under which the Zapathas operated a Dairy Mart store on Wilbraham Road in Springfield. The Zapathas brought this action seeking to enjoin the termination of the agreement, alleging that the contract provision purporting to authorize the termination of the franchise agreement without cause was unconscionable and that Dairy Mart’s conduct was an
+341
+unfair and deceptive act or practice in violation of G.L. c. 93A. The judge ruled that Dairy Mart did not act in good faith, that the termination provision was unconscionable, and that Dairy Mart’s termination of the agreement without cause was an unfair and deceptive act. We granted Dairy Mart’s application for direct appellate review of a judgment that stated that Dairy Mart could terminate the agreement only for good cause and that the attempted termination was null and void. We reverse the judgments.
+
+
+[2]Mr. Zapatha is a high school graduate who had attended college for one year and had also taken college evening courses in business administration and business law. From 1952 to May, 1973, he was employed by a company engaged in the business of electroplating. He rose through the ranks to foreman and then to the position of operations manager, at one time being in charge of all metal finishing in the plant with 150 people working under him. In May, 1973, he was discharged and began looking for other opportunities, in particular a business of his own. Several months later he met with a representative of Dairy Mart. Dairy Mart operates a chain of franchised “convenience” stores. The Dairy Mart representative told Mr. Zapatha that working for Dairy Mart was being in business for one’s self and that such a business was very stable and secure. Mr. Zapatha signed an application to be considered for a franchise. In addition, he was presented with a brochure entitled “Here’s a Chance,” which made certain representations concerning the status of a franchise holder.8
+
+
+[3]Dairy Mart approved Mr. Zapatha’s application and offered him a store in Agawam. On November 8, 1973, a representative of Dairy Mart showed him a form of franchise agreement, entitled Limited Franchise and License Agreement, asked him to read it, and explained that his wife would have to sign the agreement as well.
+
+
+[4]Under the terms of the agreement, Dairy Mart would license the Zapathas to operate a Dairy Mart store, using the Dairy Mart trademark and associated insignia, and utilizing Dairy Mart’s “confidential” merchandising methods. Dairy Mart would furnish the store and the equipment and would pay rent and gas and electric bills as well as certain other costs of doing business. In return Dairy Mart would receive a franchise fee, computed as a percentage of the store’s gross sales. The Zapathas would have to pay for the starting inventory, and maintain a minimum stock of saleable merchandise thereafter. They were also responsible for wages of employees, related taxes, and any sales taxes. The
+342
+termination provision, which is set forth in full in the margin,9 allowed either party, after twelve months, to terminate the agreement without cause on ninety days’ written notice. In the event of termination initiated by it without cause, Dairy Mart agreed to repurchase the saleable merchandise inventory at retail prices, less 20%.
+
+
+[5]The Dairy Mart representative read and explained the termination provision to Mr. Zapatha. Mr. Zapatha later testified that, while he understood every word in the provision, he had interpreted it to mean that Dairy Mart could terminate the agreement only for cause. The Dairy Mart representative advised Mr. Zapatha to take the agreement to an attorney and said “I would prefer that you did.” However, he also told Mr. Zapatha that the terms of the contract were not negotiable. The Zapathas signed the agreement without consulting an attorney. When the Zapathas took charge of the Agawam store, a representative of Dairy Mart worked with them to train them in Dairy Mart’s methods of operation.
+
+
+[6]In 1974, another store became available on Wilbraham Road in Springfield, and the Zapathas elected to surrender the Agawam store. They executed a new franchise agreement, on an identical printed form, relating to the new location.
+
+
+[7]In November, 1977, Dairy Mart presented a new and more detailed form of “Independent Operator’s Agreement” to the Zapathas for execution. Some of the terms were less favorable to the store operator than those of the earlier form of agreement.10 Mr. Zapatha told representatives of Dairy Mart that he was content with the existing contract and had decided not to sign the new agreement. On January 20, 1978, Dairy Mart gave written notice to the Zapathas that their contract was being terminated effective in ninety days. The termination notice stated that Dairy Mart “remains available to enter into discussions with you with respect to entering into a new Independent Operator’s Agreement; however, there is no assurance that Dairy Mart will enter into a new
+343
+Agreement with you, or even if entered into, what terms such Agreement will contain.” The notice also indicated that Dairy Mart was prepared to purchase the Zapathas’ saleable inventory.
+
+
+[8]The judge found that Dairy Mart terminated the agreement solely because the Zapathas refused to sign the new agreement. He further found that, but for this one act, Dairy Mart did not behave in an unconscionable manner, in bad faith, or in disregard of its representations. There is no evidence that the Zapathas undertook to discuss a compromise of the differences that led to the notice of termination.
+
+
+[9]On these basic facts, the judge ruled that the franchise agreement was subject to the sales article of the Uniform Commercial Code (G.L. c. 106, art. 2) and, even if it were not, the principles of unconscionability and good faith expressed in that article applied to the franchise agreement by analogy. He further ruled that (1) the termination provision of the agreement was unconscionable because it authorized termination without cause, (2) the termination without cause violated Dairy Mart’s obligation of good faith, and (3) the termination constituted “an unfair method of competition and unfair and deceptive act within the meaning of G.L. c. 93A, § 2.”
+
+
+[10]We consider first the question whether the franchise agreement involves a “transaction in goods” within the meaning of those words in article two of the Uniform Commercial Code, and that consequently the provisions of the sales articles of the Uniform Commercial Code govern the relationship between the parties. The Zapathas point specifically to the authority of a court to refuse to enforce “any clause of the contract” that the court finds “to have been unconscionable at the time it was made.” [U.C.C. § 2–302]. They point additionally to the obligation of good faith in the performance and enforcement of a contract imposed by [U.C.C.], sec.1–203, and to the specialized definition of “good faith” in the sales article as meaning “in the case of a merchant . . . honesty in fact and the observance of reasonable commercial standards of fair dealing in the trade.” [U.C.C.] § 2–103(1)(b).11
+
+
+[11]We need not pause long over the question whether the franchise agreement and the relationship of the parties involved a transaction in goods. Certainly, the agreement required the plaintiffs to purchase goods from Dairy Mart. “Goods” for the purpose of the sales article means generally “all things . . . which are movable.” [U.C.C.], § 2–105(1), as appearing in St.1957, c. 765, sec.1. However, the franchise agreement dealt
+344
+with many subjects unrelated to the sale of goods by Dairy Mart.12 About 70% of the goods the plaintiffs sold were not purchased from Dairy Mart. Dairy Mart’s profit was intended to come from the franchise fee and not from the sale of items to its franchisees. Thus, the sale of goods by Dairy Mart to the Zapathas was, in a commercial sense, a minor aspect of the entire relationship.13 We would be disinclined to import automatically all the provisions of the sales article into a relationship involving a variety of subjects other than the sale of goods, merely because the contract dealt in part with the sale of goods. Similarly, we would not be inclined to apply the sales article only to aspects of the agreement that concerned goods. Different principles of law might then govern separate portions of the same agreement with possibly inconsistent and unsatisfactory consequences.
+
+
+[12]We view the legislative statements of policy concerning good faith and unconscionability as fairly applicable to all aspects of the franchise agreement, not by subjecting the franchise relationship to the provisions of the sales article but rather by applying the stated principles by analogy. This basic common law approach, applied to statutory statements of policy, permits a selective application of those principles expressed in a statute that reasonably should govern situations to which the statute does not apply explicitly.
+
+
+[13]We consider first the plaintiffs’ argument that the termination clause of the franchise agreement, authorizing Dairy Mart to terminate the agreement without cause, on ninety days’ notice, was unconscionable by the standards expressed in [U.C.C.] § 2–302.14 The same standards are set forth in Restatement (Second) of Contracts § 234 (Tent. Drafts Nos. 1–7, 1973). The issue is one of law for the court, and the test is to be made as of the time the contract was made. [U.C.C.] § 2–302(1), and comment 3 of the
+345
+Official Comments. In measuring the unconscionability of the termination provision, the fact that the law imposes an obligation of good faith on Dairy Mart in its performance under the agreement should be weighed.
+
+
+[14]The official comment to § 2–302 states that “(t)he basic test is whether, in the light of the general commercial background and the commercial needs of the particular trade or case, the clauses involved are so one-sided as to be unconscionable under the circumstances existing at the time of the making of the contract . . . The principle is one of prevention of oppression and unfair surprise . . . and not of disturbance of allocation of risks because of superior bargaining power.” Official Comment 1 to U.C.C. § 2–302.15 Unconscionability is not defined in the Code, nor do the views expressed in the official comment provide a precise definition. The annotation prepared by the Massachusetts Advisory Committee on the Code states that “(t)he section appears to be intended to carry equity practice into the sales field.” See 1 R. Anderson, Uniform Commercial Code § 2–302(7) (1970) to the same effect. This court has not had occasion to consider in any detail the meaning of the word “unconscionable” in § 2–302. Because there is no clear, all-purpose definition of “unconscionable,” nor could there be, unconscionability must be determined on a case by case basis, giving particular attention to whether, at the time of the execution of the agreement, the contract provision could result in unfair surprise and was oppressive to the allegedly disadvantaged party.
+
+
+[15]We start with a recognition that the Uniform Commercial Code itself implies that a contract provision allowing termination without cause is not per se unconscionable. Section 2–309(3) provides that “(t)ermination of a contract by one party except on the happening of an agreed event requires that reasonable notification be received by the other party and an agreement dispensing with notification is invalid if its operation would be unconscionable.” [U.C.C.] § 2–309. This language implies that termination of a sales contract without agreed “cause” is authorized by the Code, provided reasonable notice is given. There is no suggestion that the ninety days’ notice provided in the Dairy Mart franchise agreement was unreasonable.
+
+
+[16]We find no potential for unfair surprise to the Zapathas in the provision allowing termination without cause. We view the question of unfair surprise as focused on the circumstances under which the agreement was entered into.16 The termination provision was neither
+346
+obscurely worded, nor buried in fine print in the contract. Contrast Williams v. Walker-Thomas Furniture Co., 350 F.2d 445, 449 (D.C. Cir.1965). The provision was specifically pointed out to Mr. Zapatha before it was signed; Mr. Zapatha testified that he thought the provision was “straightforward,” and he declined the opportunity to take the agreement to a lawyer for advice. The Zapathas had ample opportunity to consider the agreement before they signed it.17 Significantly, the subject of loss of employment was paramount in Mr. Zapatha’s mind. He testified that he had held responsible jobs in one company from 1952 to 1973, that he had lost his employment, and that he “was looking for something that had a certain amount of security; something that was stable and something I could call my own.” We conclude that a person of Mr. Zapatha’s business experience and education should not have been surprised by the termination provision and, if in fact he was, there was no element of unfairness in the inclusion of that provision in the agreement. See Fleischmann Distilling Corp. v. Distillers Co., 395 F.Supp. 221, 233 (“(i)t is the exceptional commercial setting where a claim of unconscionability will be allowed”). Contrast Johnson v. Mobil Oil Corp., 415 F.Supp. 264, 268–269 (illiterate service station operator incapable of reading dealer contract).
+
+
+[17]We further conclude that there was no oppression in the inclusion of a termination clause in the franchise agreement. We view the question of oppression as directed to the substantive fairness to the parties of permitting the termination provisions to operate as written. The Zapathas took over a going business on premises provided by Dairy Mart, using equipment furnished by Dairy Mart. As an investment, the Zapathas had only to purchase the inventory of goods to be sold but, as Dairy Mart concedes, on termination by it without cause Dairy Mart was obliged to repurchase all the Zapathas’ saleable merchandise inventory, including items not purchased from Dairy Mart, at 80% of its retail value. There was no potential for forfeiture or loss of investment. There is no question here of a need for a reasonable time to recoup the franchisees’ initial investment. The Zapathas were entitled to their net profits through the entire term of the agreement. They failed to sustain their burden of showing that the agreement allocated the risks and benefits connected with termination in an unreasonably disproportionate way and that the termination provision
+347
+was not reasonably related to legitimate commercial needs of Dairy Mart. To find the termination clause oppressive merely because it did not require cause for termination would be to establish an unwarranted barrier to the use of termination at will clauses in contracts in this Commonwealth, where each party received the anticipated and bargained for consideration during the full term of the agreement.
+
+
+[18]The judge concluded that bad faith was also manifested by Dairy Mart’s introductory brochure, which made representations of “security, comfort, and independence.” Although this brochure and Mr. Zapatha’s mistaken understanding that Dairy Mart could terminate the agreement only for cause could not be relied on to vary the clear terms of the agreement, the introductory brochure is relevant to the question of good faith. However, although the brochure misstated a franchisee’s status as the owner of his own business, it shows no lack of honesty in fact relating to the right of Dairy Mart to terminate the agreement. Furthermore, by the time the Zapathas executed the second agreement, and even the first agreement, they knew that they would operate the franchise, but that they would not own the assets used in the business (except the goods to be sold); that the franchise agreement could be terminated by them and, at least in some circumstances, by Dairy Mart; and that in fact the major investment of funds would be made by Dairy Mart. We conclude that the use of the brochure did not warrant a finding of an absence of “honesty in fact.” See Corenswet, Inc. v. Amana Refrigeration, Inc., 594 F.2d 129, 138 (5th Cir. 1979); Mason v. Farmers Ins. Cos., 281 N.W.2d 344, 347 (Minn. 1979).
+
+
+* * *
+
+
+Judgments reversed.
+
+
+———
+
+
+Note on Economic Analysis
+
+
+The court talks about the allocation of risks and benefits. This is one of the “big ideas” in contracts discourse. Here’s how it works.
+
+
+I’m a farmer. I grow hops. You’re a brewery. You brew beer. We enter into a contract where I agree to sell you 100 thousand bushels of hops next year. Why would we do this? Why not just wait until next year when my hops crops comes in and you need hops for your beer?
+
+
+The traditional answer has been we want certainty. But a better way to look at it is to say we are both trying to reduce our risk. You’re probably saying: “Isn’t that the same thing? Isn’t risk just the opposite of certainty?” Yes it is, but looking at it from the risk point of view allows us to be a bit more sophisticated.
+
+
+You, the brewer, are trying to reduce your risk that you will not be able to get any hops. I, the farmer, am trying to reduce the risk that I will not have a
+348
+market for my hops. But by trying to reduce the risks we also create new ones. I now have the risk that I will not be able to grow 100,000 bushels of hops. I also have the risk that the price of hops will double between now and next year.
+
+
+You, the brewer, have the same sort of risk. Suppose you decide you no longer want to take part in destroying lives through the demon of alcohol. So you decide from now on you’re going to brew nothing but herb tea. This means that NASCAR team you sponsor is going to have to take off the sign that says “Jennifer’s Wicked Ale” and replace it with one that says “Jennifer’s Herb Tea.” When I deliver my hops you will not be able to say “I’m sorry we don’t use those anymore.” You’re stuck.
+
+
+Now suppose you foresee this. You could say when we make the contract, “I’d like a provision that lets me out of the contract if I ever stop brewing beer.”
+
+
+If I am smart I will say one of two things: “I’m not willing to take the risk that you’ll stop brewing beer and I’ll be stuck with 100,000 bushels of hops.” Or “Fine, we can do that, but I want something in return.” What I want in return might be more money, but it could be something like a right to get out of the contract if a drought wipes out my hops crop.
+
+
+Zapatha is based in part on the idea that when Zapatha took the risk that Dairy Mart would terminate him, he got something in return for it. The idea is that if he was concerned about getting terminated, he could have gone to some other franchisor and gotten a better deal.
+
+
+But what if all franchisors have similar clauses? That must mean that it is pretty important to franchisors. If it were not, somebody would offer franchises that can’t be terminated in return for a slightly larger percentage of the profits. It might work like this: Suppose Dairy Mart charges Zapatha 10% of his gross sales as a franchise fee. If I have a chain of convenience stores I might be willing to be stuck with a franchisee for life if I could get 12%. So I might start a chain and take away a lot of Dairy Mart’s franchisees who wanted security.
+
+
+But if the franchisors—the Dairy Marts of this world—value having that clause in there more than the franchisees value taking it out, then it stays in. The franchisors want at least (say) 14% for taking it out, but the franchisees are only willing to pay 12% to have it taken out. So it stays in, which is in everyone’s best interest, at least if their individual evaluations of what it’s worth are correct.
+
+
+And therein lies the rub. If you subscribe to traditional microeconomic analysis, you might believe that the parties’ evaluations of worth would be accurate, given the usual stipulation of a so-called “perfect market”—featuring many participants, low transaction costs, perfect information, and the like. But the real market is not perfect and it is not static. Remember all those other parties on the supply and demand curves who are not at market equilibrium at the snapshot moment of our pretty little microeconomic analysis. Remember that the market, and all the information in it, are in constant flux as to the quality, quantity, and accuracy of information. Remember that there are
+349
+substantial costs of gathering, analyzing, and using this information, providing a disincentive for doing so. And remember that in most markets there are not an infinite number of buyers and sellers who are free from a compulsion to buy or sell.
+
+
+The market is not perfect and the risk-allocation decisions will not be “right” for every party—but if properly documented, they will be binding on the parties and will govern the parties’ relationship. This is the essence of the modern institution of contract.
+
+
+———
+
+
+Note on Alternative Dispute Resolution
+
+
+Starting in the 1980s, faced with exploding litigation costs and interminable delays in processing cases due to crowded dockets, businesses began to embrace the concept of ADR and include mandatory arbitration provisions in their contracts to the extent that some courts began to invalidate these provisions on unconscionability grounds. These clauses are often deeply embedded in the contract, and unsophisticated parties were seen to have little chance of discovering or understanding them. Plaintiffs were often subject to extra costs, significant penalties in the event of breach, and stripped of many of legal rights (like choice of forum, joinder, and class action in some cases). Furthermore, it appears to many that the business would usually gain significant advantages with arbitrators based upon the “repeat customer” preference.
+
+
+In Tillman v. Commercial Credit Loans, Inc., 362 N.C. 93, 655 S.E.2d 362 (2008) the North Carolina Supreme Court refused to enforce an arbitration clause for many of these same reasons. The provision was so lopsided that the court refused to sever the clause and instead invalidated the entire agreement. The following opinion illustrates the potential unfairness of arbitration clauses in an employment setting.
+
+
+———
+
+
+Cooper v. MRM Investment Co., United States District Court, Middle District of Tennessee, 199 F. Supp. 2d 771 (2002)
+
+
+Nixon, District Judge.
+
+
+[1]Pending before the Court is Defendants’ Motion to Dismiss or, in the Alternative, to Compel Arbitration and Stay Proceedings. Plaintiff has now responded to this Motion. The Court heard oral arguments in this matter on April 8, 2002. For the reasons discussed below, Defendants’ Motion will be denied.
+
+
+350
+I.Background
+
+
+[2]This case arises from the employment of Plaintiff by Defendant MRM Investment Co. (“MRM”), a Kentucky Fried Chicken (“KFC”) franchisee. Ms. Cooper was hired by MRM to work at its Waverly, Tennessee KFC on or about January 3, 2000. Plaintiff alleges that, while working for MRM, she was sexually harassed by Defendant Terry Rogers, one of the owners of MRM, and was constructively discharged by Defendants on or about August 2000.
+
+
+[3]As part of her employment contract, and prior to commencing work at KFC, Plaintiff signed a document entitled “Arbitration of Employee Rights.” The document provides:
+
+
+. . . KFC and I agree to use confidential binding arbitration for any claims that arise between me and KFC, its related companies and/or their current or former employees. Such claims would include any concerning compensation, employment including, but not limited to any claims concerning (sexual harassment), or termination or employment . . . In any arbitration, the prevailing rules of the American Arbitration Association and, to the extent not inconsistent, the prevailing rules of the Federal Arbitration Act will apply.
+
+
+(Doc. No. 16, Exh. A) (herein, “KFC Arbitration Agreement”).
+
+
+[4]Defendants now argue that Plaintiff and Defendants have bargained for mandatory arbitration, and thus her claims under Title VII of the Civil Rights Act of 1964, 42 U.S.C. §§ 2000e et seq. (“Title VII”), and the Tennessee Human Rights Act, Tenn. Code Ann. §§ 4–21–1401 et seq. are subject to arbitration. Plaintiff responds that there is no agreement to arbitrate between herself and these particular Defendants, and, even if there is an agreement, that agreement is unenforceable because it require the Plaintiff to pay a portion of the costs associated with arbitration.
+
+
+II.Legal Standards
+
+
+[5]The Supreme Court has recently held that agreements to arbitrate employment disputes as a condition of employment are almost universally enforceable under the Federal Arbitration Act, 9 U.S.C. §§ 1, et seq. (“FAA”), Circuit City Stores, Inc. v. Adams, 532 U.S. 105, 149 L. Ed. 2d 234, 121 S.Ct. 1302 (2001). Nevertheless, arbitration agreements may be attacked under “such grounds as exist at law or in equity for the revocation of a contract.” 9 U.S.C. § 2.
+
+
+[6]The Sixth Circuit has consistently held that pre-dispute mandatory arbitration agreements are valid. Haskins v. Prudential Ins. Co. of Am., 230 F.3d 231, 239 (6th Cir. 2000); Willis v. Dean Witter Reynolds, Inc., 948 F.2d 305, 310 (6th Cir. 1991). Specifically, the Sixth Circuit has held that the employees may be required, as a condition of employment, to
+351
+waive their right to bring future Title VII claims in court. Willis, supra. Almost every other Circuit to consider this issue has agreed with the Sixth Circuit.
+
+
+[7]However, although the Supreme Court and lower courts endorse the use of arbitration, courts continue to emphasize that an employee cannot be required to forfeit any “substantive rights” as a condition of employment. See Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20, 28, 114 L. Ed. 2d 26, 111 S.Ct. 1647 (1991). Thus, “ . . . even if arbitration is generally a suitable forum for resolving a particular statutory claim, the specific arbitral forum provided under an arbitration agreement must nevertheless allow for the effective vindication of that claim.” Floss v. Ryan’s Family Steak Houses, Inc., 211 F. 3d 306 (6th Cir. 2000).
+
+
+[8]Some courts have held that requiring a plaintiff to pay for the right to vindicate their federal substantive rights would amount to an insurmountable obstacle. See e.g., Paladino v. Avnet Computer Tech., Inc., 134 F.3d 1054 (11th Cir. 1999); Shankle v. B-G Maint. Mgmt. of Colo., Inc., 163 F. 3d 1230 (10th Cir. 1999) (finding that requiring the Plaintiff to pay costs renders the arbitral format invalid).
+
+
+[9]Additionally, although mandatory arbitration is presumed valid, the waiver of any rights (substantive or procedural), must be both knowing and clear. See K.M.C. Co., Inc. v. Irving Trust Co., 757 F.2d 752 (6th Cir. 1985); Trumbull v. Century Marketing Corp., 12 F. Supp.2d 683, 687 (N.D. Ohio. 1998) (“to conclude that there was a waiver of [the right to a jury trial], there must at least be evidence that the plaintiff intended such waiver.”).
+
+
+[10]Finally, and most fundamentally, an agreement to arbitrate Title VII rights must comport with the principles of contract law. In deciding whether the arbitration agreements are enforceable, state-law contract principles control.
+
+
+[11]First, although courts may not invalidate arbitration agreements under state laws that only apply to arbitration provisions, general contract defenses may still operate to invalidate an arbitration agreement. The Sixth Circuit has held that a contractual agreement to arbitrate may be invalidated by a showing of fraud, duress, mistake, unconscionability or any other ground upon which a contract may be set aside. Haskins, 230 F.3d at 239; accord Steven M. Burton v. J.C. Bradford & Co., L.L.C., No. 3:97–0153 (March 13, 1998, Nixon, J.).
+
+
+[12]Most importantly, an arbitration agreement may not be upheld if it is unconscionable. As a Tennessee Court recently observed:
+
+
+Unconscionability may arise from a lack of a meaningful choice on the part of one party (procedural unconscionability) or from contract terms that are unreasonably harsh (substantive
+352
+unconscionability). Williams v. Walker-Thomas Furniture Co., 121 U.S. App.D.C. 315, 350 F.2d 445 (D.C. Cir. 1965). In Tennessee we have tended to lump the two together and speak of unconscionability resulting when inequality of the bargain is so manifest as to shock the judgment of a person of common sense, and where the terms are so oppressive that no reasonable person would make them on one hand, and no honest and fair person would accept them on the other.
+
+
+Trinity Indus., Inc. v. McKinnon Bridge Co., Inc., 2001 WL 1504827 (Tenn. Ct. App. 2001)
+
+
+[13]Furthermore, Tennessee law disfavors adhesion contracts. The Tennessee Supreme Court recently observed that an adhesion contract is a
+
+
+standardized form offered to consumers . . . on essentially a “take it or leave it” basis, without affording the consumer a realistic opportunity to bargain and under such conditions that the consumer cannot obtain the desired product or service except by acquiescing to the form of the contract.
+
+
+Buraczynski v. Erying, 919 S.W.2d 314, 320 (Tenn. 1996) (quoting Black’s Law Dictionary 40 (6th ed. 1990)). However, in Tennessee, an adhesion contract is only unenforceable when the terms of the contract are “beyond the reasonable expectation of an ordinary person, or oppressive or unconscionable.” Id. (citation omitted). In the mandatory arbitration or employment disputes context, the Ninth Circuit recently held, on remand, that the arbitration agreement at issue was unconscionable “because it is a contract of adhesion . . .” and was substantively one-sided, lacking a “modicum of bilaterality.’ ” Circuit City Stores, Inc. v. Adams, 279 F.3d 889 (9th Cir. 2002) (“Circuit City II”) (citation omitted).
+
+
+[14]Second, the Sixth Circuit has also held that in order for a mandatory arbitration agreement to be valid, there must be adequate consideration. Floss, 211 F.3d at 315. In deciding whether contracts are enforceable, federal courts must look to state contract law. In Tennessee, consideration is an essential element of every contract. Hence, a promise is legally enforceable only if the promisor receives an act, forbearance or a promise thereof, in return for that promise. In essence, there must be a mutuality of obligation.
+
+
+[15]Finally, as with all contracts, it is axiomatic that in order for there to be a valid contract the parties must manifest their assent to a bargain in order to be bound by it.

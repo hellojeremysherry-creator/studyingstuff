@@ -1,0 +1,1110 @@
+﻿Chapter 29: Non-Party Rights: Assignment, Delegation, Novation, and Third Party Beneficiaries
+
+
+■   ■   ■
+
+
+Prior chapters of this book examined the rights of parties to a contract. They began with issues of contract formation like offer, acceptance, and consideration. Next, they moved to selected formation defenses. Then, the rules that govern interpreting a writing that represents all or part of the contract were covered. After that, damages. Then the mechanics of the contract, including express or implied conditions and the nebulous duty of good faith and fair dealing. All these subjects were presented largely in the context of the parties to the original contract, the promissor and the promisee.
+
+
+This chapter deals with the rights and obligations of third parties that were not the original promissor or promissee. The first group of subjects is assignment, delegation, and novation. “Assignment,” classically, refers to a transfer of the right to receive the benefit of a contract, and “delegation,” classically, refers to the transfer of the duties under a contract. In modern usage the two concepts are often lumped together under the term “assignment,” probably reflecting the practical reality that contracts, unless one side has fully performed and the contract is no longer executory as to that party, are mixtures of benefits and burdens for each party. Thus, taking on one side of an executory contract will necessarily involve taking on duties as well as claiming the benefits. That said, it is certainly possible for parties to assign only the benefits or delegate only the duties under the original contract.
+
+
+For example, if A enters into an option contract to purchase B’s land for $100,000 in the next 180 days, A may be able to assign that option contract to C, a developer, who would then have the option to purchase the land for the stated sum during the given time period. If B refused to sell the land on the terms of the option, C could have the right to sue A and B for damages or specific performance. C’s right to sue A on the assignment of the option contract is fairly straightforward; the assignment is a simple two party contract between A and C. C’s right to sue B is a matter that will depend on whether the option was legally assignable (or, in our second
+838
+group of concepts in this chapter, whether C was an intended third party beneficiary of the original option).
+
+
+Closely related to assignment and delegation is the notion of a “novation” or a release of the original party who is assigning or delegating the contract (or has done so in the past). Imagine that ABC Corp. has a contract with a service that supplies and takes care of ABC’s flowers and plants in the office that ABC leases from its landlord. Imagine further that ABC Corp. decides to relocate, assigning its lease and the plant servicing contract to a replacement tenant. When the replacement tenant doesn’t pay the service, can the service look to ABC Corp. for payment under the contract? Generally, unless the plant service took actions that could be construed as releasing ABC Corp. from its contract, which would constitute a “novation,” ABC remains liable on the contract even after the assignment.
+
+
+If ABC desires to no longer be liable on the contract that it assigns, it needs to obtain a novation from the plant service in connection with the assignment to the replacement tenant. Think of a novation as a release of the original obligor from the original obligee when the original obligor transfers the contract to a new obligor. A novation theory may also provide a means to escape liability under a contract that appears to have been modified orally by conduct despite an all-modifications-must-be-in-writing clause.
+
+
+The final issues for assignment and delegation revolve around whether the contract is assignable as a matter of law. The parties can provide that assignment is permitted, is permitted only in certain circumstances, or is prohibited. Sometimes, state law regulates what conditions on assignment are permissible. For example, the California Supreme Court has held that, in commercial real property leases, the landlord may not unreasonably withhold consent for assignment. Kendall v. Ernest Pestana, Inc., 40 Cal.3d 488, 220 Cal.Rptr. 818, 709 P.2d 837 (1985). Thus, whether the law will enforce the provisions as the parties draft them is one set of issues.
+
+
+Another set of issues involves whether, if the parties do not expressly provide for assignment or delegation in the contract, it will be permitted. If a world famous opera singer contracts to give a performance, can the opera singer delegate her performance duties to someone else, say, you? Probably not. The services are very specific, very personal to the opera singer. On the other hand, can an industrial cleaning service that cleans offices at night assign its contracts to a third party cleaner for a fee? Barring issues of security and confidentiality, the answer is “probably.”
+
+
+The cases that follow illustrate these principles and highlight the issues involved. Keep in mind that in practice just about every contract drafted by modern, competent counsel contains a clause addressing assignment and delegation. Assuming this clause is enforceable in the
+839
+jurisdiction involved, this clause will specify the parties’ rights in this regard and should end the inquiry. Examples of provisions dealing with assignment and delegation include:
+
+
+Neither party to this agreement may assign any of its rights or delegate any of its duties under this Agreement without the prior written consent of the other party, which may not be unreasonably withheld. Further, despite consent to the assignment, no assignment or delegation shall release the assigning or delegating party from any of its obligations under this Agreement or modify those obligations unless the release or modification is expressly contained in the written consent to the assignment or delegation.
+
+
+-or-
+
+
+Each party to this Agreement may assign all or any part of its rights under this Agreement and may delegate all or any of its duties under this Agreement provided that [insert relevant condition here, if any].
+
+
+After covering assignment and delegation, this chapter turns to the subject of third party beneficiary contracts, that is, those made by A and B that benefit C.
+
+
+———
+
+
+A.ASSIGNMENT AND DELEGATION
+
+
+Shoreline Communications, Inc. v. Norwich Taxi, LLC
+
+
+Appellate Court of Connecticut
+70 Conn. App. 60, 797 A.2d 1165 (2002)
+
+
+Peters, J.
+
+
+[1]This appeal concerns the rights of an assignee to terminate a license agreement when it discovers, after the assignment, that it had been mistaken in its assumption that the licensed property would suit its commercial needs. The trial court held that the assignee had assumed the risk of its unilateral mistake because it had failed to inspect the licensor’s premises before assuming the license agreement. Having assumed the risk, the assignee was obligated to pay license fees during the unexpired term of the license agreement. We agree and affirm the judgment of the trial court.
+
+
+[2]The plaintiff, Shoreline Communications, Inc., the owner of a radio communications tower, sued the defendant, Norwich Taxi, LLC, to recover unpaid license fees due under a license agreement with the defendant’s assignor, Eagle Cab Corporation (Eagle). Eagle had assigned its contractual rights to use space on the tower to the defendant, which
+840
+unconditionally assumed Eagle’s obligations to the plaintiff. The defendant declined to pay the license fees once it became evident that, contrary to its expectations, its equipment could not make profitable use of the tower space. Characterizing the defendant’s disappointment as a unilateral mistake, the court held that the defendant’s mistake did not authorize its unilateral rescission of the license agreement. Accordingly, the court rendered judgment in favor of the plaintiff, awarding it damages in the amount of $12,6001 for the unpaid license fees, as well as interest of $273.92 and costs. The defendant has appealed.
+
+
+[3]The trial court’s memorandum of decision recites the relevant facts, which are undisputed. On October 30, 1997, the plaintiff and Eagle entered into a five year license agreement that enabled Eagle to use its radio equipment at a designated space on the plaintiff’s radio transmission tower in order to pursue its taxicab business. The license agreement granted Eagle the right to use the space without restriction to any particular usage. In return, Eagle undertook to pay stipulated monthly payments to the plaintiff. Eagle encountered no problems in its use of the transmission tower and promptly made license payments as they became due.
+
+
+[4]On May 20, 1999, Eagle assigned the license agreement to the defendant. Without reserving any additional rights, the defendant informed the plaintiff that it had assumed the rights and obligations stated in the license agreement. As assignee, it made payments to the plaintiff until the end of October of that year.
+
+
+[5]Between May, 1999, and October, 1999, the defendant made a good faith effort to install its radio equipment on the plaintiff’s tower. Because Eagle’s installation had encountered no difficulties, the defendant had not anticipated that its own installation would be problematic.
+
+
+[6]At the time of the assignment, the defendant did not know whether it could use Eagle’s equipment but it did know that its own taxi service differed from Eagle’s because its service area was wider and its business was conducted at a location further away from the plaintiff’s tower. Despite this uncertainty, the defendant unconditionally assumed the rights and duties set out in the license agreement. From May to October, 1999, the defendant attempted, unsuccessfully, to use the tower space. It discovered that its use of the plaintiff’s tower space would have required the services of two different telephone companies, with unacceptable uncertainties about prompt detection and remediation of transmission failures.
+
+
+[7]When these facts came to light, the defendant informed the plaintiff that the licensing agreement was terminated. The plaintiff
+841
+promptly replied that the defendant had no right to terminate the agreement unilaterally. The plaintiff reminded the defendant of the provision of the agreement that required the payment of license fees until the expiration of the agreement on October 31, 2002. It demanded prompt payment of the fees already overdue. Nevertheless, the defendant stopped making payments as of November 1, 1999.
+
+
+[8]At the time when the defendant assumed liability under the licensing agreement, it had taken no steps to ascertain whether installation of its equipment would be feasible. The defendant assumed that Eagle’s favorable experience with Eagle’s equipment would carry over to the defendant’s own operations. Despite known differences between its business operations and that of Eagle, the defendant did not avail itself of the opportunity to arrange for a preassignment inspection of the tower space.
+
+
+[9]On the basis of these findings of fact, the court concluded that, as a matter of law, the defendant had failed to establish that its mistaken assumptions entitled it to terminate the license agreement without the assent of the plaintiff. Relying on 1 Restatement (Second), Contracts §§ 153 & 154, pp. 394, 402 (1981), the court held that the defendant had assumed the risk of a misfit between the plaintiff’s tower space and the defendant’s equipment. It had assumed that risk, the court held, because prior to becoming Eagle’s assignee, it had relied on Eagle’s experience without ascertaining whether its own greater needs might encounter difficulties that Eagle had not experienced.
+
+
+[10]The defendant challenges the court’s conclusion on three grounds. Conceding that it made a unilateral mistake, the defendant maintains that the mistake terminated the licensing agreement because (1) it did not bear the risk of that mistake, (2) enforcement of an agreement that is of no benefit to the defendant is unconscionable and (3) prompt repudiation of the agreement did not injure the plaintiff because it could be restored to the rights it had before the assignment.
+
+
+[11]Because the claims that the defendant has raised challenge the trial court’s conclusions of law, our review is plenary. We conclude that none of these claims is persuasive.
+
+
+I.The Risk of Unilateral Mistake
+
+
+[12]The defendant argues that it falls within various exceptions to the general rule that a unilateral mistake is not a viable basis for rescission of a bilateral contract. The defendant maintains that it did not assume the risk of incompatibility between its equipment and the plaintiff’s tower because it had no reason to expect any such incompatibility and, therefore, was acting in good faith when it delayed its inquiry into such matters to a time subsequent to the assignment. We do not agree that, under the
+842
+circumstances of this case, the defendant was entitled unilaterally to set aside its contract obligation to pay license fees.
+
+
+[13]As the trial court noted, the principles governing the law of mistake are set out in 1 Restatement (Second), supra, §§ 53 and 154. Under § 153, a unilateral mistake may make a contract voidable if the mistaken party “does not bear the risk of the mistake under the rule stated in § 154. . . .” 1 Restatement (Second), supra, § 53, p. 394. Under § 154, “A party bears the risk of a mistake when . . . (b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient. . . .” 1 Restatement (Second), supra, § 154, pp. 402–03.
+
+
+[14]The court, in its careful and comprehensive memorandum of decision, concluded that the defendant bore the risk of its unilateral mistake because, when it assumed the licensing agreement, it was aware of significant differences between its own planned operations and that of Eagle. Relying on § 154 of the Restatement (Second) of Contracts, the court held that, because of this awareness, the defendant bore the risk of mistake when it nonetheless undertook to become an assignee, without conditioning its assigned duties in any way.
+
+
+[15]The defendant argues, to the contrary, that its knowledge of these differences was insufficient to assign the risk of loss to it because, relying on Eagle’s favorable experience, it was entitled to assume that its operations would likewise be able to make use of the plaintiff’s tower site. The defendant maintains that it did not have the kind of “limited knowledge” that would require it to bear the risk of its mistake. It was not, therefore, “consciously” aware of treating “[its] limited knowledge as sufficient.”
+
+
+[16]One difficulty with the defendant’s view of the law of mistake is that its argument rests entirely on the defendant’s subjective state of mind at the time of the assignment. The defendant concedes that its position finds no support in the terms of the license agreement. The agreement did not make a licensee’s obligation to pay license fees contingent on the licensee’s ability to make profitable use of the designated space on the plaintiff’s radio tower. Neither in writing nor orally did the plaintiff undertake any contractual obligation other than to make tower space available.
+
+
+[17]Apart from the agreement, the plaintiff had no reason to anticipate an assignment of any kind and consequently had no reason to anticipate the difficulties that an assignee might encounter. The plaintiff’s operations bore no resemblance to a business such as the construction business, in which unilateral mistakes are known to occur as a result of the pressure of last minute preparation of competitive bids. In short, the plaintiff did not contribute to the defendant’s mistake in any way.
+
+
+843
+[18]The record does not show that the defendant revealed to anyone, in advance of the assignment, that it had specific expectations about its use of the tower space. Negation of a contract obligation in these circumstances would place a risk on the plaintiff that the plaintiff could have neither foreseen nor avoided. It is the rare case in which contract rights are so ephemeral. “Where the language of the contract is clear and unambiguous, the contract is to be given effect according to its terms. A court will not torture words to import ambiguity where the ordinary meaning leaves no room for ambiguity . . . Similarly, any ambiguity in a contract must emanate from the language used in the contract rather than from one party’s subjective perception of the terms.” Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P., 252 Conn. 479, 498, 746 A.2d 1277 (2000) (internal quotation marks omitted).
+
+
+[19]A second difficulty with the defendant’s position is that the proven facts demonstrate that the defendant assumed the risk of its unilateral mistake as that risk is defined in § 154 of the Restatement. Before the assignment, the defendant knew that its use of the tower space would differ from that of Eagle because the defendant’s taxi business covered a larger geographical area and was located further away from the tower. It did not ascertain whether Eagle’s equipment would be suitable for its own needs. It made no effort to determine the suitability of the plaintiff’s tower space. The defendant could as readily have discovered possible problems before the assignment as after the assignment. The defendant cannot avoid its contractual obligation when it could have taken steps to check out the accuracy of its expectations.
+
+
+[20]On the basis of the facts found by the trial court and the law that it correctly stated and applied, we conclude that the defendant has not established that it was excused from the consequences of its unilateral mistake. Contrary to its arguments, we conclude that it bore the risk of loss attributable to its mistake.
+
+
+II.Unconscionability
+
+
+[21]The defendant further argues that, even if it bore the risk of mistake, enforcement of the license agreement would be unconscionable because it should not be required to pay for space that it cannot use. We disagree.
+
+
+[22]The text of the Restatement does not support the defendant’s argument. Although § 153 speaks of unconscionability, that provision applies only in the absence of an assumption of risk by the party that has made a unilateral mistake.
+
+
+[23]As a general matter, we know of no case, and the defendant has cited none, in which a party may invoke unconscionability without a showing of some kind of relevant misconduct by the party seeking enforcement of a contract. The usual case concerns the liability of a
+844
+consumer who assumed unexpectedly onerous contract obligations that were not fully disclosed by a commercial seller.
+
+
+[24]Many of the unconscionability cases arise in the context of some kind of misleading conduct that comes close to being fraudulent. Under the law of procedural unconscionability, such contracts may be voidable by an innocent party who has been misled about the advisability of entering into a contract.
+
+
+[25]The defendant does not claim that its duty to pay licensee fees should be set aside because the plaintiff engaged in misleading conduct. Instead, the defendant maintains that the license agreement should be set aside on the ground of substantive unconscionability. The leasing agreement is substantively unconscionable, according to the defendant, because of a “gross disparity in the values exchanged” by the parties. The defendant argues that it should not have to pay for tower space that is useless.
+
+
+[26]The defendant’s argument is unpersuasive for two reasons. The defendant fails to distinguish between personal lack of utility and general lack of utility. It fails to explain why an assignee has rights of termination that are greater than those of its assignor. It is important to restate that the tower space is not defective or valueless. It had value for some licensees, such as Eagle, and not for others, such as the defendant. So long as the plaintiff did not undertake to warrant the suitability of the tower space, it is inaccurate to describe the tower space as useless.
+
+
+[27]Further, it bears remembering that the defendant’s rights and obligations are derived from those undertaken by Eagle. The licensing agreement was fully enforceable before the assignment. There was no novation or modification of the license agreement. The defendant does not allege that Eagle, the assignor, had any right to terminate the agreement before expiration of its five year term. Eagle successfully made use of its assigned space on the plaintiff’s tower. Eagle never made a unilateral mistake of any kind. In effect, the defendant asserts that, because its equipment differs from that of Eagle, it has a greater right to terminate than Eagle had.
+
+
+[28]The defendant nonetheless claims the right to add a new condition to the license agreement to accommodate its own uncommunicated needs. It is hornbook law, however, that an assignee “stands in the shoes of the assignor.” Rumbin v. Utica Mutual Ins. Co., 254 Conn. 259, 277, 757 A.2d 526 (2000) (internal quotation marks omitted); National Loan Investors Ltd. Partnership v. Heritage Square Associates, 54 Conn. App. 67, 73, 733 A.2d 876 (1999); 3 E. Farnsworth, Contracts (1998) § 11.8, p. 105–07; 3 S. Williston, Contracts (3d Ed. 1960) § 404, p. 5, and § 432, pp. 181–83. An assignee has no greater rights or immunities than the assignor would have
+845
+had if there had been no assignment. Fairfield Credit Corp. v. Donnelly, 158 Conn. 543, 552, 264 A.2d 547 (1969).
+
+
+[29]We can find no support for the proposition that, by dint of an assignment, an enforceable agreement has become unconscionable. To the contrary, it would be unreasonable to allow an assignment to deprive the plaintiff of its unconditional contractual right to license payments. The terms of the leasing agreement did not change. The plaintiff did not solicit the assignment. Standing in the shoes of the assignor, the defendant had no authority to rewrite the contract for which it has assumed full responsibility.
+
+
+[30]We are not persuaded that the defendant was empowered, as a result of its own mistake, to change absolute contractual obligations into provisional contract obligations. Contrary to the defendant’s argument, this case does not exemplify a “gross disparity in the values exchanged by the parties.”
+
+
+[31]In its argument for “gross disparity,” the defendant underscores the cost of making license payments for space that, for its purposes, has no value. That cost must, however, be compared to the cost to the plaintiff if it does not receive such payments, because that is the other side of the equation.
+
+
+[32]The trial court analyzed the consequences to the plaintiff of failing to receive license fees. In its discussion of the plaintiff’s right to damages, the court considered whether such damages should be reduced as a result of the plaintiff’s failure to search for other users for the defendant’s tower site. The court concluded that such a reduction would be inappropriate because the plaintiff’s tower had many vacant spaces. The defendant’s nonpayment would not give the plaintiff the opportunity to profit from a new license agreement of the defendant’s tower space. In this appeal, the defendant has not challenged the validity of the court’s analysis.
+
+
+[33]It follows from the court’s conclusion that, in the event of nonpayment by the defendant, the plaintiff cannot be made whole. It cannot be restored to its situation before the leasing agreement unless it has forfeited its rights to payment because of the defendant’s mistake. Put differently, the question of “gross disparity” devolves into the question of whether the innocent plaintiff or the mistaken defendant should be $12,600 out of pocket. It would turn contract principles on their head to put this burden on the plaintiff when, as we have decided earlier in this opinion, the defendant bore the risk of its mistake.
+
+
+[34]We conclude, therefore, that enforcing the licensing agreement is not unconscionable. Two commercial parties, presumably with access to attorneys, entered into an agreement that the plaintiff has honored fully. There is nothing inherently unfair in an agreement that unambiguously and unconditionally requires one of the parties to assume the risk that its
+846
+use of the licensed space might be unprofitable. If such an agreement, in retrospect, seems harsh to the defendant, the defendant could have refused to become an assignee. Having undertaken the assignment without discussion with the plaintiff and without inspection of the tower site, the defendant cannot rely on a defense of unconscionability.
+
+
+III.Consequences of a Rescission
+
+
+[35]Underlying the defendant’s final argument for rescission is that, even if it bore the risk of unilateral mistake, its mistake was the result of good faith expectations and therefore gave it an equitable claim, apart from unconscionability, to rescind its obligations under the license agreement. We disagree with this argument as well.
+
+
+[36]Part of the defendant’s claim is its contention that the agreement is rescindable because the plaintiff can be returned to the contractual rights that it had before the assignment. We have already addressed and rejected that contention. In Milford Yacht Realty Co. v. Milford Yacht Club, Inc., 136 Conn. 544, 549, 72 A.2d 482 (1950), our Supreme Court held that “[a] court of equity is always reluctant to rescind, unless the parties can be put back in statu quo. If this cannot be done, it will give such relief only where the clearest and strongest equity imperatively demands it.” (Internal quotation marks omitted).
+
+
+[37]The other part of the defendant’s claim is that rescission is proper because the plaintiff’s rights are adequately protected by the fact that the plaintiff can seek recovery from Eagle. The defendant correctly notes that, as a matter of law, an assignor’s obligations are not extinguished by an assignment. Despite Eagle’s assignment of its contract rights and duties to the defendant, Eagle could not and did not unilaterally discharge its duties to pay license fees to the plaintiff. “When a duty is delegated . . . the delegating party . . . continues to remain liable. . . . [Delegation] does not free the obligor . . . from [its] duty to see to it that performance is rendered, unless there is a novation.” Gateway Co. v. DiNoia, 232 Conn. 223, 233, 654 A.2d 342 (1995) (internal quotation marks omitted), citing J. Calamari & J. Perillo, Contracts (3d Ed. 1987) § 18–25, p. 757; cf. Carrano v. Shoor, 118 Conn. 86, 95–98, 171 A. 17 (1934). There was neither an allegation nor a finding that the assignment constituted a novation that would have relieved Eagle from liability.
+
+
+[38]As a matter of fact, however, a judgment against Eagle would likely be unenforceable. As the defendant acknowledges in the opening paragraph of its appellate brief, it “bought the assets of Eagle Cab.” There is no suggestion in the record that Eagle ever acquired other assets or, for that matter, that it stayed in business.
+
+
+[39]It is anomalous that a party seeking equitable relief from the consequences of its own mistake should seek to justify its failure to make
+847
+license payments by pointing the innocent party to an alternate source of relief that is illusory. As far as the record shows, Eagle no longer exists.
+
+
+[40]The defendant, therefore, has no right to rescind the licensing agreement. It has not made a persuasive case that “the clearest and strongest equity imperatively demands” such a rescission. The defendant must fulfill the obligations that it assumed when it became an assignee of the licensing agreement.
+
+
+The judgment is affirmed.
+
+
+In this opinion the other judges concurred.
+
+
+———
+
+
+Notes and Questions
+
+
+1.The Shoreline Communications case, besides being well organized and well written, illustrates that assignees “stand in the shoes of their assignor” and take only those rights that the assignor had, subject to the assignor’s duties. This is the contract corollary to the property principle that one cannot receive more property rights than one’s grantor(s) had.
+
+
+2.The case also illustrates the common reaction of courts to an attempt by a not unsophisticated party to change the terms of its contract using the doctrines of mistake, unconscionability, rescission, and broad equitable powers. It bears repeating: In general, a contract means what it says. Caveat emptor. Buyers and assignees should read the contract and inspect the goods, services, or premises before entering into the assignment. Counsel should advise them accordingly.
+
+
+3.Note how, although Norwich Taxi is said to have become “an assignee of the licensing agreement,” see paragraph [40], the court holds it is bound to perform duties under the contract, thus being a classic delegatee. This illustrates the use of the term “assignment” to cover assignment and delegation of the benefits and burdens of a contract.
+
+
+4.A delegation of duties under a contract has no effect upon the delegator’s duties to the original promissee absent a novation, i.e., a release by the original promissee of the duties of the delegator, the original promisor.
+
+
+5.The following case reviews standards relating to a contract, here a lease of commercial property, that provide for its conditional assignment, as well as the successful application of the doctrine of unconscionability to defeat what the court perceives as an overreaching provision. Further, the case illustrates how a novation theory may be used to support a modification of the parties’ deal even when the original contract contains an all-modifications-must-be-in-writing clause.
+
+
+———
+———
+———
+———
+
+
+
+
+
+
+848
+Fanucchi & Limi Farms v. United Agri Products
+
+
+United States Court of Appeals, Ninth Circuit
+414 F.3d 1075 (2005)
+
+
+W. Fletcher, Circuit Judge.
+
+
+[1]Fanucchi & Limi Farms, Larry Fanucchi, and Richard Limi (collectively “Fanucchi”) sued United Agri Products Financial Services, Inc. (“United”) for breach of contract and promissory fraud. The district court granted summary judgment to United. Fanucchi appeals from the grant of summary judgment, and from an associated grant of attorneys’ fees. We conclude that the novation theory providing one basis for Fanucchi’s breach of contract claim should have survived summary judgment.
+
+
+[2]Accordingly, we reverse and remand to allow the breach of contract claim to go forward on a novation theory. We otherwise affirm the summary judgment. Because we reverse part of the summary judgment, we vacate the order granting attorneys’ fees.
+
+
+I.Background
+
+
+[3]Larry Fanucchi, Richard Limi, and Linda Limi were general partners in Fanucchi & Limi Farms, in Kern County, California. Fanucchi financed its farming operations by borrowing against its future crop proceeds. In December 1994, United lent money to Fanucchi to finance its operating costs for 1995 (“the 1994 Loan”). The 1994 Loan was memorialized in several documents, including an Agricultural Loan Agreement, a Promissory Note, an Agricultural Security Agreement, separate Commercial Guarantees personally executed by Larry Fanucchi, Richard Limi, and Linda Limi, and a Notice of Final Agreement. These documents set out the terms of the loan in considerable detail. The Agricultural Loan Agreement outlines the disbursement schedule, repayment terms, and circumstances under which the loan may be renewed in future years. The Agricultural Security Agreement establishes United’s security interest in Fanucchi’s crops. The Commercial Guarantees are individual loan guarantees by Larry Fanucchi, Richard Limi, and Linda Limi in the event United’s security interest in the crops fails to cover the loan. The Notice of Final Agreement provides that the 1994 Loan incorporates all of the above documents. The 1994 Loan documents contain language describing how the parties may modify the agreement. Both the Agricultural Loan Agreement and Agricultural Security Agreement have an integration clause that reads:
+
+
+Amendments. This Agreement, together with any Related Documents, constitutes the entire understanding and agreement of the parties as to the matters set forth in this Agreement. No alteration of or amendment to this Agreement shall be effective unless given in writing and signed by the party or parties sought to be charged or bound by the alteration or amendment.
+
+
+849
+[4]The three Commercial Guarantees also contain integration clauses requiring modifications to be in writing. Finally, the Notice of Final Agreement provides that (1) “the written loan agreement represents the final agreement between the parties,” (2) “there are no unwritten oral agreements between the parties,” and (3) “the written loan agreement may not be contradicted by evidence of any prior, contemporaneous, or subsequent oral agreements or understandings of the parties.”
+
+
+[5]After Fanucchi and United entered into the 1994 Loan agreement, United increased the amount of the note from $700,000 to $800,000 on January 30, 1995; to $900,000 on March 1, 1995; and to $1,475,000 on September 18, 1995. All increases were made in writing and provided that “[t]he terms and conditions of [the original Promissory Note] will remain in full force and effect for this increase.” Fanucchi’s 1995 crops failed. As a result, Fanucchi was unable to repay the 1994 Loan, and owed more than a million dollars to United.
+
+
+[6]Fanucchi consulted with a United representative, Wayne Keese, and with bankruptcy counsel. According to the depositions of Larry Fanucchi (“Larry”) and Richard Limi (“Richard”), Keese persuaded Fanucchi not to file for bankruptcy, but rather to continue farming. According to Larry and Richard’s depositions, Keese orally promised to subordinate United’s debt to new crop financing loans from other lenders for up to five years.2 During this period, United’s 1994 Loan would be repaid from the crop proceeds available after new crop loans were paid off. These proceeds were to be split on a 60/40 basis, with 60 percent going to United and 40 percent going to Fanucchi’s other creditors. According to Larry’s deposition, Keese said that if Fanucchi had paid its debt on the 1994 Loan down to $300,000 or $400,000 at the end of the five-year period, United would forgive that amount. Keese testified in his deposition that “[w]e discussed pretty openly possibilities, options, of which bankruptcy was one.” He stated, “[M]y approach always has been to—if you can work out an arrangement where they can continue to pay their debt in a reasonable period of time, I’m open and willing to listen to it.” Keese confirmed that there was an oral agreement that after the new crop loans were paid off the remaining money would be split 60/40, but his recollection was that this was done only on a year-to-year basis. Keese stated that he did not recall discussing a five-year term during which Fanucchi could try to pay down its debt to United. Nor did he recall promising that United would forgive the debt at the end a five-year period should Fanucchi succeed in paying it down to a certain level: “I don’t remember having any discussion of that nature” (ellipsis in original).
+
+
+850
+[7]The agreement operated as described by Larry and Richard for the crop years 1996 and 1997. New secured lenders were found for those years; those lenders were paid from the crop proceeds; and the remaining proceeds were divided 60/40 between United and Fanucchi’s other creditors. There is ample undisputed evidence in the record to show this. For example, a January 5, 1997 letter from a United representative, Bruce Carter, to Southern California Cotton Financing (“Southern California Cotton”) details United’s agreement to subordinate its debt to enable Fanucchi to obtain other sources of crop financing for that year. The secured lenders for that year include Southern California Cotton, as well as the parents of Larry and Richard. The letter provides in part:
+
+
+[A]ccording to the attached “Acknowledgment and Agreement,” on behalf of United Agri Products Financial Services, I give the authority to Southern California Financing to pay the above mentioned sums to first, Southern California Cotton Financing, secondly to Mr. & Mrs. Fanucchi and thirdly to Mr. & Mrs. Limi, prior to funds coming to United Agri Products Financial Services, Inc. All funds in excess of the Southern California Cotton Financing, Fanucchi and Limi funds should come to United Agri Products Financial Services, Inc.
+
+
+[8]A May 12, 1997 letter from Carter to Daniel Rudnick, Fanucchi’s attorney, similarly describes United’s agreement:
+
+
+This letter is to advise you that United Agri Products has agreed to split the profits from the 1997 Fanucchi-Limi Farms Partnership #2 farming operations on a basis of 60% for United Agri Products and 40% for Fanucchi-Limi Farms. Profits should be defined as those monies left after the repayment of all 1997 operating loans, including interest, to Southern California Cotton Financing, and to both sets of parents[.]
+
+
+[9]Keese’s employment at United terminated in early 1998. His last day on the payroll was March 31. Beginning in the spring of 1998, United was no longer willing to perform in accordance with the agreement described by Larry and Richard. Instead of subordinating to all of the lenders for the 1998 crop, United was willing to subordinate only to Southern California Cotton. On April 17, 1998, Denise Fitzgerald wrote on behalf of United to Southern California Cotton, confirming that United had assigned its interest in the proceeds of the 1998 crop to Southern California Cotton up to the amount of its loan, and indicating that all the remaining proceeds from the 1998 crop were to be paid to United. Unlike in 1996 and 1997, United refused to subordinate to the parents of Larry and Richard. Jerry Simmons, who had been hired by United as the new credit manager in February or March 1998, testified at his deposition that it was his decision not to subordinate to the parents: “I don’t subordinate to family
+851
+members.” In August 2000, Fanucchi sued United in California Superior Court for breach of contract and promissory fraud. The gravamen of Fanucchi’s breach of contract claim is that by promising substantially to change the terms of the 1994 Loan agreement, United induced Fanucchi not to declare bankruptcy after the failure of the 1995 crops. In return for Fanucchi’s not declaring bankruptcy, United agreed in 1995 to subordinate its lien to crop loans by new lenders for the next five years, to take only 60 percent of the crop proceeds remaining after the new crop lenders were paid off each year, and to forgive between $300,000 and $400,000 of the outstanding loan at the end of five years if Fanucchi were able to pay it down to that level. United breached this new agreement in 1998 by refusing to subordinate its lien to the two sets of parents, who had made crop loans for that year, and by taking all of that year’s excess crop proceeds for its own account. United’s actions prevented Fanucchi from obtaining financing for future crop years, effectively forcing it out of business. United removed to federal district court based on diversity of citizenship. The district court granted summary judgment and attorneys’ fees to United. Fanucchi has timely appealed. We review the district court’s grant of summary judgment de novo. Olsen v. Idaho State Bd. of Med., 363 F.3d 916, 922 (9th Cir. 2004). Viewing the evidence in the light most favorable to Fanucchi, we must determine whether there are any genuine issues of material fact and whether the district court correctly applied California’s substantive law. Id.
+
+
+II.Breach of Contract
+
+
+[10]Fanucchi makes two breach of contract arguments. First, it argues that the subsequent oral agreement between Fanucchi and United modified the original 1994 Loan. Second, it argues that the subsequent oral agreement novated the 1994 Loan. We affirm the district court’s grant of summary judgment to United on the modification argument. However, we reverse on the novation argument.
+
+
+A.Modification
+
+
+[11]Fanucchi first argues that the 1994 Loan agreement was modified through subsequent oral agreements pursuant to California Civil Code §§ 1698(b) and (c), which provide:
+
+
+(b)A contract in writing may be modified by an oral agreement to the extent that the oral agreement is executed by the parties.
+
+
+(c)Unless the contract otherwise expressly provides, a contract in writing may be modified by an oral agreement supported by new consideration.
+
+
+The statute of frauds (Section 1624) is required to be satisfied if the contract as modified is within its provisions. The district court rejected this argument. We agree with the district court.
+
+
+852
+[12]Section 1698(b) allows modification of a written contract by an oral agreement to the extent the oral agreement is executed. “Executed” in § 1698(b) has the normal meaning of that term in contract law. That is, the agreement must have been fully performed. Lockheed Missiles & Space Co. v. Gilmore Indus., 135 Cal. App. 3d 556, 559 (Ct. App. 1982) (relying on Black’s Law Dictionary to define “executed” as “completed; carried into full effect” (internal quotations omitted)); see also Cal. Civ. Code § 1661 (“An executed contract is one, the object of which is fully performed”). Fanucchi’s own argument defeats its claim under § 1698(b), for it argues that United breached its obligation under the oral agreement because it failed to perform the unexecuted part of the agreement.
+
+
+[13]Section 1698(c) allows oral modification of a written contract only if the written contract does not provide otherwise. See also Marani v. Jackson, 183 Cal. App. 3d 695, 704 (Ct. App. 1986) (noting that oral modification of a written contract is allowed only if “the written contract does not contain an express provision requiring that modification be in writing”). The 1994 Loan provides that “the written loan agreement may not be contradicted by evidence of any prior, contemporaneous, or subsequent oral agreements or understandings of the parties.” Fanucchi therefore cannot rely on § 1698(c) in support of its oral modification claim.
+
+
+B.Novation
+
+
+[14]Fanucchi next contends that the 1994 Loan agreement was novated. Taking the evidence in the light most favorable to Fanucchi, we agree. That is, if Fanucchi’s evidence is believed, the 1994 Loan agreement was novated, and the subsequent oral agreement governs the relationship between Fanucchi and United.
+
+
+California Civil Code § 1698(d) provides:
+
+
+Nothing in this section precludes in an appropriate case the application of rules of law concerning estoppel, oral novation and substitution of a new agreement, rescission of a written contract by an oral agreement, waiver of a provision of a written contract, or oral independent collateral contracts.
+
+
+[15]United does not argue that novation is unavailable because the subsequent agreement was oral. Rather, it argues Fanucchi has failed properly to plead novation, and that, even taking Fanucchi’s evidence in its most favorable light, the subsequent oral agreement does not fulfill the substantive requirements of novation under California law. We disagree.
+
+
+[16]Novation is “the substitute of a new obligation for an existing one.” [Cal. Civ. Code § 1530]. Novation may be accomplished either by the substitution of a new debtor or a new creditor, California Civil Code § 1531(2)–(3), or “[b]y the substitution of a new obligation between the same parties, with intent to extinguish the old obligation[.]” Id. § 1531(1).
+853
+Whereas a modification of a term or a provision of a contract alters only certain portions of the contract, novation wholly extinguishes the earlier contract. “The intention of the parties to extinguish the prior obligation and to substitute a new agreement in its place must clearly appear.” Hunt v. Smyth, 25 Cal. App. 3d 807, 818 (Ct. App. 1972). The existence of a new oral agreement replacing a prior written agreement must be shown with “clear and convincing” evidence. Columbia Cas. Co. v. Lewis, 14 Cal. App. 2d 64, 72 (Ct. App. 1936).
+
+
+[17]In deciding whether an agreement was meant to extinguish the old obligation and to substitute a new one, California courts seek to determine the parties’ intent. See, e.g., Alexander v. Angel, 37 Cal. 2d 856, 860 (1951) (“The question whether a novation has taken place is always one of intention”).
+
+
+[18]Determining the parties’ intent is a highly fact-specific inquiry. Such inquiries are not generally suitable for disposition on summary judgment. Courts examining a novation claim first look to the agreements themselves, and, specifically, the substance of the change or changes between the old and new agreements. Courts may also take into consideration the conduct of the parties, particularly where, as here, the subsequent agreement is oral. Indeed, “it is not necessary to meet and state either in writing or orally that the original contract was rescinded. ‘If the intent to abandon can be ascertained from the acts and conduct of the parties the same result will be attained. Abandonment may be implied from surrounding facts and circumstances.’ ” Id. (citations omitted).
+
+
+[19]Assuming the truth of Fanucchi’s evidence, United argues that there has been no novation. Specifically, United argues that the changes between the original 1994 Loan agreement and the later oral agreement were insufficient to evidence an intent to extinguish the 1994 Loan agreement and to replace it with a new agreement. The strongest case in support of United’s argument is Davies Machinery Co. v. Pine Mountain Club, Inc., 39 Cal. App. 3d 18 (Ct. App. 1974). In Davies Machinery, the Smiths entered into a security agreement under which they agreed to purchase heavy earthmoving equipment from Davies Machinery (“Davies”) for slightly over a million dollars. The contract provided that the Smiths would pay $43,574 per month for 24 months. The contract further provided that payments not made when due would accrue interest at a rate of 12 percent. About a year later, the Smiths had fallen behind in their payments and owed over $100,000 under the contract. Id. at 21. Davies agreed with the Smiths that they could keep the equipment in order to generate income from their contracting business, and that they would pay for it at a specified rate based on the actual hours the equipment was used in the business. Nothing was said about terminating the original purchase contract. While the Smiths were performing work for the Pine Mountain Club, they fell behind in the newly arranged payment schedule. Davies
+854
+repossessed the equipment and sold it. Davies then sought to impose a mechanic’s lien on the Pine Mountain Club. Under California law, Davies was entitled to a lien against Pine Mountain Club if the equipment had been rented to the Smiths, but not if it had been sold to them. No one disputed that the original agreement constituted a sale of the equipment. However, Davies contended that the change in the payment scheme after the Smiths fell behind in their payments constituted a novation of the original contract, by virtue of which the Smiths became renters rather than owners of the equipment.
+
+
+[20]The Smiths’ accountant testified at trial that the purpose of the new arrangement was “to arrange lower monthly payments on the purchase contract so that the equipment could ultimately be paid off.” Id. at 25. Davies’s manager testified that neither Davies nor the Smiths ever “released their equity in the equipment.” Id. The Court of Appeal noted that the parties had explicitly agreed only that the manner and timing of the payments should be changed. On these facts, the court held that the original contract had not been novated, and that a mechanic’s lien was improper.
+
+
+[21]If Fanucchi’s evidence is believed, the new agreement in this case did more than simply alter the timing and amount of the payments to United. For example, unlike the agreement in Davies Machinery, United agreed to “release its equity” (to use the phrase employed in Davies Machinery) in Fanucchi’s crops in order to permit Fanucchi to obtain new crop financing after 1995. Further, under the new agreement, United would forgive between $300,000 and $400,000 at the end of five years. By contrast, Davies never agreed to forgive any part of the Smiths’ obligation to pay for the equipment. This case more closely resembles Alexander v. Angel, 37 Cal. 2d 856 (1951), and San Gabriel Valley Ready-Mixt v. Casillas, 142 Cal. App. 2d 137 (1956), where the California Supreme Court and the Court of Appeals found novation. In Angel, the Alexanders sold a business to Angel and took back two promissory notes secured by a chattel mortgage. Each note was for $2,150. One note was due in one year, the other in two years. Neither note bore interest. Prior to the maturity of either note, Angel sold the business to the Hawses. Upon this sale, the Alexanders and the Hawses agreed that the Alexanders would not enforce the original notes, but would, instead, take back a new note from the Hawses. The new agreement was different from the old agreement in three respects: (1) Unlike the original notes, which were to be paid off on a lump-sum basis at the end of one and two years, the new notes would be paid at a rate of $150 per month until the entire $4,300 was paid off. (2) Unlike the original notes, the new notes bore interest. (3) Unlike the original notes, the new notes contained an acceleration clause in the event of nonpayment of the monthly obligation. When the Hawses fell behind in their payments, the Alexanders sued Angel to enforce the obligation under the original
+855
+notes. Angel defended on the ground that the agreement between the Alexanders and the Hawses was a novation, and that the obligation under the original notes was extinguished. The California Supreme Court held that the changed agreement between the Alexanders and the Hawses was a novation, extinguishing the old obligation “by the substitution of a new debtor in place of the old one” under California Civil Code § 1531(b). Even though the Court was addressing a novation in which there had been a change of parties to the agreement under § 1531(b), the Court’s analysis was the same as that required for novation between the same parties under § 1531(a). That is, the Court’s inquiry was whether the changes between the old and new obligations were sufficiently substantial to show an “extinguishment” of the old obligation and a replacement by the new one. 37 Cal. 2d at 861. Characterizing the changes between the old and new obligations as “drastic,” the Court held that there had been a novation. Id.
+
+
+[22]If Fanucchi’s evidence is believed, the changes between the 1994 Loan agreement and the new agreement were more “drastic” than the changes at issue in Angel. In Angel, the only changes between the old and new notes was the difference in payment schedule, the added obligation to pay interest, and the addition of an acceleration clause. The old and the new notes were both secured by the same underlying chattels, and the amount of principal under the two notes was the same. In the case now before us, not only was the payment schedule different, United also agreed to give up part of its security interest by subordinating its lien to new crop lenders. Further, United agreed that the principal amount owed by Fanucchi would be reduced by between $300,000 and $400,000 at the end of five years if Fanucchi sufficiently paid down the debt. In San Gabriel Valley Ready-Mixt, the San Gabriel Valley Ready-Mixt Company (“Ready-Mixt”) agreed with Casillas to supply 6,140 cubic yards of concrete at $9.45 per yard. For a short time, Ready-Mixt delivered concrete at that price. After a few months, however, Ready-Mixt informed Casillas that, due to a cement shortage, it would not be able to supply the rest of the promised concrete at the promised price. Casillas said, “To hell with it; I will get it from someone else.” Id. at 139. After about two weeks of purchasing concrete elsewhere, Casillas told Ready-Mixt that he would buy additional concrete from Ready-Mixt if they would sell it at $11.52 per cubic yard. Ready-Mixt then delivered 800 cubic yards of concrete.
+
+
+[23]After the concrete had been delivered, Casillas refused to pay the higher price, insisting on the old contract price. The Court of Appeal held that there had been a novation. A provision to pay the increased price alone “would have been insufficient to effect a novation.” Id. at 140. But “[i]f there was a mutual understanding that defendant could and would buy his concrete elsewhere and that neither party would demand further performance of the contract by the other, this would have effected an abandonment of the contract. Entering into a new oral contract under these
+856
+circumstances would have effected an abandonment of the contract.” Id. at 141.
+
+
+[24]The changes between the first and second contracts in San Gabriel Valley Ready-Mixt are no more substantial than the changes between the 1994 Loan agreement and the later oral agreement in this case. In San Gabriel Valley Ready-Mixt, external conditions made it impossible for Ready-Mixt to fulfill the terms of the original contract without losing money; after a short hiatus, Casillas agreed to purchase less concrete at a higher price. In this case, external conditions made it impossible for Fanucchi to pay off the amount of the loan from the 1995 proceeds. If Fanucchi’s evidence is believed, United then agreed to be paid over a longer period of time with less security, and, if certain conditions were fulfilled, to accept a substantially reduced amount.
+
+
+[25]Another important factor in determining whether there has been novation, besides the nature of the changes between the old and the new contracts, is the conduct of the parties. In both Angel and San Gabriel Valley Ready-Mixt, the courts concluded that the parties’ conduct indicated that they considered the new contracts to have extinguished and replaced the old contracts. In this case, the parties’ conduct during crop years 1996 and 1997 supports Fanucchi’s contention that the 1994 Loan was novated. It is undisputed that during those two years United subordinated its lien to the new crop lenders, and took only 60 percent of the proceeds remaining after the secured crop lenders had been paid off.
+
+
+[26]In sum, we conclude that if Fanucchi’s evidence is believed, the 1994 Loan agreement was novated. Summary judgment in favor of United was therefore improper on the issue of novation.
+
+
+III.Judge Beezer’s Concurrence
+
+
+[27]Judge Beezer has written a separate concurrence to express his “understanding of novation under California law.” Concurrence at 8206. To the extent Judge Beezer’s concurrence is at variance from our majority opinion, it is, of course, a dissent. We disagree with Judge Beezer in three respects.
+
+
+A.Alexander v. Angel
+
+
+[28]First, Judge Beezer contends that we mistakenly rely on Alexander v. Angel in concluding that the changes between the 1994 Loan agreement and the later oral agreement were substantial enough to constitute novation. Judge Beezer contends that Angel is inapt because, unlike in this case, there was a substitution of parties under California Civil Code § 1351(b) rather than a substitution of agreements between the same parties under § 1351(a). Judge Beezer is correct that Angel is a substitution-of-parties case. But he is incorrect in putting the case to one side. As Judge Beezer himself recognizes in a paragraph in which he
+857
+discusses Angel, the fundamental issue is whether “the parties intended to extinguish rather than merely modify the original agreement.” Concurrence at 8210. The question the Court answered in Angel was whether the changes between the two contracts were sufficiently “drastic” such that there was an “extinguishment” of the earlier contract. See 37 Cal. 2d at 861. That is exactly the question at issue in this case.
+
+
+B.Distinction Between Novation and Accord
+
+
+[29]Second, Judge Beezer contends that we have conflated novation and accord. Under California law, an accord is defined as “an agreement to accept, in extinction of an obligation, something different from or less than that to which the person agreeing to accept is entitled.” Cal. Civil Code § 1521. Once “the something different” has been delivered, there has been satisfaction of the accord. See Cal. Civ. Code § 1523; Moving Picture Mach. Operators Union Local 162 v. Glasgow Theaters, Inc., 6 Cal. App. 3d 395, 402–03 (1970). Until performance by the obligor, the accord is executory, and the old obligation has not been extinguished. Gardiner v. Gaither, 162 Cal. App. 2d 607, 620 (1958). That is, when two parties enter into an accord, “the [original] obligation is not extinguished until the accord is fully executed, even though the parties to the accord are bound to execute it.” Id. at 621 (citation and internal quotation marks omitted). A novation, on the other hand, is a substituted contract that extinguishes the previous agreement as soon as the parties enter into the new agreement, even if the new agreement is executory. Davisson v. Faucher, 105 Cal. App. 2d 445, 447 (1951); Eckart v. Brown, 34 Cal. App. 2d 182, 187 (1939); Beckwith v. Sheldon, 165 Cal. 319, 323–24 (1913). Put succinctly,
+
+
+[A]novation extinguishes one obligation by accepting for it another, that is, the creditor agrees to accept the second promise for his existing claim. But this is not true of an accord. Here it is not the new promise that is accepted in lieu of the existing claim, but the performance of that new promise.
+
+
+Gardiner, 162 Cal. App. 2d at 620. In distinguishing between an executory accord and a novation, the determinative factor is the intent of the parties. See, e.g., id. at 619–20; Rankin v. Miller, 179 Cal. App. 2d 133, 138–39 (1960).
+
+
+[30]Judge Beezer reads California law to contain an automatic across-the-board presumption in favor of accord and against novation. This is an overreading of the California case law. Judge Beezer relies heavily on Gardiner to support his argument for an across-the-board presumption. Judge Beezer quotes the first two sentences of a long paragraph from that opinion, the second of which states that there is a presumption against the conclusion that the parties intended that an executory contract would replace the old obligation. Concurrence at 8212–13. But a more extensive
+858
+quotation makes clear that the presumption comes from the overall circumstances of the case. The Court of Appeal wrote:
+
+
+[31]In the instant case there is no evidence that respondent, on behalf of his clients, agreed to accept Gran-Wood’s promise to complete three of the five structures as satisfaction of the pre-existing debts. Certainly, the presumption is against any such conclusion. The most reasonable and sensible interpretation of the correspondence is that the creditors were willing to accept performance of the agreement to finish three of the five houses in satisfaction of their existing claims, but extinguishment of those claims was conditional upon performance of the second promise. The correspondence in question between Gardiner and Selinger was a practical attempt at a practical solution by which creditors would get back some or all of their money, and Gran-Wood would be relieved of personal liability by salvaging the three buildings, which Gran-Wood obviously thought could be profitably done. But Gran-Wood found it to be unprofitable, and did not perform. Obviously, the whole agreement was prospective. What respondent’s assignors wanted was performance of the second agreement. This they did not get. Thus, the original obligation was not extinguished and may be enforced. 162 Cal. App. 2d 607, 621 (emphasis added).
+
+
+[32]The only other California case in which any kind of a presumption against novation is mentioned is Brown v. Friesleben Estate Co., 148 Cal. App. 2d 720, 730 (1957), also cited by Judge Beezer. Concurrence at 8213. The court in Brown quoted § 419 of the Restatement (First) of Contracts, which provides that “if the pre-existing duty is an undisputed duty . . . to make compensation,” “the interpretation is assumed in case of doubt,” that only actual performance or execution of the duty prescribed in a new contract will discharge the pre-existing duty (emphasis added). Comment a to that section, also quoted by the Brown court, stated that in such a case, “the creditor generally will not enter into a bargain for an immediate cancellation of his claim without obtaining satisfaction and not merely a promise of it.” See 148 Cal. App. 2d at 730 (emphasis added). We have been unable to discover in the California cases any other reference to any kind of presumption against novation.
+
+
+[33]Gardiner, Brown, and the Restatement infer a presumption against novation from the particular circumstances of the facts or example before them. They do not state a general principle that in all cases where the choice is between accord and novation, accord is to be presumed. Rather, any presumption is inferred from the circumstances of the parties. Under Gardiner, Brown and the Restatement, the question is whether Fanucchi and United were likely to have agreed that the executory contract described by Fanucchi’s evidence would extinguish and replace the old contract. This question is not an across-the-board presumption, to be applied in all cases without regard to their factual context. Rather, it is a tool to help the court ascertain the intent of Fanucchi and United in the
+859
+particular circumstances in which they found themselves after the failure of Fanucchi’s 1995 crops.
+
+
+[34]If Fanucchi’s evidence is believed, Fanucchi was seriously considering declaring bankruptcy after the crop failure. At United’s urging, Fanucchi agreed not to declare bankruptcy and, instead, to continue farming. In return, United agreed to subordinate its secured debt to new crop lenders for five years, to accept only 60 percent of the proceeds left over after the new crop lenders were paid, and to forgive between $300,000 and $400,000 if it had been paid down to that amount at the end of five years. According to Fanucchi’s evidence, the new agreement imposed new obligations on both parties that were binding as soon as the parties entered into it. According to Fanucchi’s evidence, there was nothing in the new agreement that allowed United simply to abandon the new agreement at its pleasure, and to enforce the old agreement instead. Gardiner, Brown, and the Restatement instruct the district court as part of its factfinding process on remand to consider the likelihood that Fanucchi and United, in the circumstances in which they found themselves, would have intended to enter into the novated contract described in Fanucchi’s evidence.
+
+
+C.Williams v. Reed
+
+
+[35]Finally, Judge Beezer relies on Williams v. Reed, 113 Cal. App. 2d 195 (1952), apparently for the proposition that an executor agreement cannot be a novated contract. He writes that “a central aspect of Fanucchi’s novation claim rests on a theory of novation rejected by Reed.” Concurrence at 8215. Judge Beezer misreads Reed.
+
+
+[36]Defendant Reed failed to pay promissory notes of $30,000 and $10,000 when they came due. Reed then entered into an agreement with Williams, under which Williams agreed to accept $35,000 and five percent interest as full payment. The language of the settlement specifically made the settlement agreement contingent upon Reed’s fulfillment of his obligation:
+
+
+“Upon receipt of said payment in full, W.E. Williams will execute any and all documents required to evidence full satisfaction of said obligation.”
+
+
+Id. at 198 (emphasis added). The trial court held that the settlement agreement was a novation, but the Court of Appeal reversed. Under the explicit terms of the settlement agreement, the old obligation was not extinguished unless and until Reed fulfilled the executory contract to pay off the $35,000 note, which meant that the new agreement did not of itself extinguish the old obligation. Rather, the old obligation was extinguished only if and when the new obligation to pay $35,000 was fulfilled. In other words, according to its explicit terms, the new agreement was an accord rather than a novation.
+
+
+860
+[37]Judge Beezer somehow reads Reed to contradict the novation theory of Fanucchi. But Reed is entirely consistent with Fanucchi’s theory. Reed only tells us what we already know from black-letter California law distinguishing accord and novation: (1) If the obligation contained in the old agreement is extinguished only upon execution of the promise contained in the new agreement, the new agreement is an accord. (2) However, if the new executory agreement extinguishes the old agreement as soon as the new agreement is entered into, the new agreement is a novation. That is the standard definition of novation, contained in Reed and in all the other California cases.
+
+
+[38]If Fanucchi’s evidence is believed, United agreed that the new executory agreement would extinguish the old agreement when the new agreement was entered into. The fact that the new agreement was executory is not fatal to Fanucchi’s theory of novation. As the Court of Appeal wrote in Davisson v. Faucher, 105 Cal.App.2d 445, 447 (1951): [T]he written contract was a complete novation of all obligations of the parties, one to the other, which existed prior to the execution of the written contract and in particular the obligations arising out of the oral contract. The fact that the written contract was executory is of no moment. (Emphasis added.)
+
+
+IV.Promissory Fraud
+
+
+[39]Even assuming that the 1994 Loan agreement was extinguished by the novated contract, the district court properly dismissed Fanucchi’s promissory fraud claim. “Under California law, the indispensable elements of a fraud claim include a false representation, knowledge of its falsity, intent to defraud, justifiable reliance, and damages.” Vess v. Ciba-Geigy Corp. USA, 317 F.3d 1097, 1105 (9th Cir. 2003) (internal quotation and citation omitted). Fanucchi asserts in its complaint that United had a “secret intention” not to perform on the contract. It does not, however, present any evidence supporting its claim that United intended to defraud. Affirmative evidence is necessary to avoid summary judgment because mere nonperformance is not enough to show intent to defraud. Tenzer v. Superscope, Inc., 39 Cal.3d 18, 30 (Cal. 1985) (“[S]omething more than nonperformance is required to prove the defendant’s intent not to perform his promise.” (quoting People v. Ashley, 42 Cal.2d 246, 263 (1954)) (internal citations omitted)).
+
+
+V.Attorneys’ Fees
+
+
+[40]The district court awarded attorneys’ fees to United based on a provision in the Agricultural Loan Agreement providing:
+
+
+Costs and Expenses. Borrower agrees to pay upon demand all of Lender’s out-of-pocket expenses, including without limitation attorneys’ fees, incurred in connection with the preparation, execution, enforcement and collection of this Agreement or in connection with the Loans made pursuant to this Agreement.
+
+
+
+
+861
+California Civil Code § 1717(a), deems any contract that allows attorneys’ fees to a prevailing party to one party to apply equally to the other party. Because we reverse summary judgment on Fanucchi’s novation claim, we vacate the district court’s award of attorneys’ fees to United. Once the novation claim has been resolved, the district court will be in a position to revisit the question of attorneys’ fees.
+
+
+Conclusion
+
+
+[41]We reverse the district court’s grant of summary judgment on Fanucchi’s novation claim. We otherwise affirm the district court’s grant of summary judgment. We vacate the court’s award of attorneys’ fees. We remand for further proceedings consistent with this opinion. Each party shall bear its own costs.
+
+
+AFFIRMED in part, REVERSED in part, VACATED in part, and REMANDED.
+
+
+[Judge Beezer’s concurrence, discussed above, is omitted.—Eds.]
+
+
+———
+———
+———
+———
+
+
+
+
+B.THIRD PARTY BENEFICIARY CONTRACTS
+
+
+The second group of subjects in this chapter is the rights of purported “third party beneficiaries.” Third party beneficiaries are parties other than the contracting parties that may be benefitted by the contract. Think of a life insurance contract, which is necessarily a third party beneficiary contract: The contract is between the insurer and the insured, the latter of whom will be dead when the performance (payment) is due to the third party beneficiary. Another example would be a contract between a law student’s parents and a contracts tutor to provide tutoring services for their child the law student. The parents and the tutor are the parties to the contract; the law student is the third party beneficiary.
+
+
+The individual who is the third party beneficiary need not be identified specifically in the contract and a description of attributes may be enough to suffice. Putting aside the alternative structure of using trust law, if a law professor contracts with her dean to provide a trophy to the highest scoring first year contracts student, that student, when finally identified after the end of the semester, may qualify as a third party beneficiary.
+
+
+There are only two real issues in the third party beneficiary subject area: (1) when can a third party to the contract sue to enforce the contract and (2) when, if ever, can the parties to the contract change its terms as they affect the third party?
+
+
+With regard to when third parties can sue, the common law, historically, was hostile to allowing suits by non-party beneficiaries. Gradually this position eroded. In modern contract law, largely through
+862
+the efforts of the late Professor Corbin, the categories of intended beneficiaries and incidental beneficiaries have emerged. Intended beneficiaries can enforce the contract, incidental ones can not. See R2d §§ 302 and 304.
+
+
+As to the modification of a third party beneficiary contract, the modern rule has emerged that the parties are free to modify the contract until the third party beneficiary has sued on the contract or has reasonably and materially changed position in reliance upon the contract. See R2d § 311. After that point, the parties may not modify, unless the contract itself permits this later modification. An example of a provision dealing with third party beneficiary status by purporting to eliminate it is:
+
+
+This Agreement is made solely for the benefit of the Parties and their successors and assigns and [except as provided herein] no other entity has or shall have any rights under or due to this Agreement.
+
+
+As you read the cases below, keep in mind that, in most of the cases, the courts are dealing with contracts that did not have an enforceable provision dealing with the subject at issue. All of these issues can be dealt with in the language of the contract, and competent counsel in the modern age will ensure that the contract will specify who has the right to enforce it and how and when it can be modified. Provisions like this can narrow or broaden the results that would be obtained by application of the default legal rules that apply in their absence. These cases also demonstrate the intertwined nature of subjects like assignment and delegation with formation, interpretation, enforcement, and damage issues from prior chapters, generally in a modern commercial context.
+
+
+The following case is one of the classics regarding the emergence of third party beneficiary rights.
+
+
+———
+———
+———
+———
+———
+
+
+
+
+Lawrence v. Fox
+
+
+Court of Appeals of New York
+20 N.Y. 268 (1859)
+
+
+[1]Appeal from the Superior Court of the city of Buffalo. On the trial before Mr. Justice Masten, it appeared by the evidence of a bystander, that one Holly, in November, 1857, at the request of the defendant, loaned and advanced to him $300, stating at the time that he owed that sum to the plaintiff for money borrowed of him, and had agreed to pay it to him the then next day; that the defendant in consideration thereof, at the time of receiving the money, promised to pay it to the plaintiff the then next day. Upon this state of facts the defendant moved for a nonsuit, upon three several grounds, viz.: That there was no proof tending to show that Holly
+863
+was indebted to the plaintiff; that the agreement by the defendant with Holly to pay the plaintiff was void for want of consideration, and that there was no privity between the plaintiff and defendant. The court overruled the motion, and the counsel for the defendant excepted. The cause was then submitted to the jury, and they found a verdict for the plaintiff for the amount of the loan and interest, $344.663, upon which judgment was entered; from which the defendant appealed to the Superior Court, at general term, where the judgment was affirmed, and the defendant appealed to this court. The cause was submitted on printed arguments.
+
+
+[2]H. Gray, J. The first objection raised on the trial amounts to this: That the evidence of the person present, who heard the declarations of Holly giving directions as to the payment of the money he was then advancing to the defendant, was mere hearsay and therefore not competent. Had the plaintiff sued Holly for this sum of money no objection to the competency of this evidence would have been thought of; and if the defendant had performed his promise by paying the sum loaned to him to the plaintiff, and Holly had afterwards sued him for its recovery, and this evidence had been offered by the defendant, it would doubtless have been received without an objection from any source. All the defendant had the right to demand in this case was evidence which, as between Holly and the plaintiff, was competent to establish the relation between them of debtor and creditor. For that purpose the evidence was clearly competent; it covered the whole ground and warranted the verdict of the jury. But it is claimed that notwithstanding this promise was established by competent evidence, it was void for the want of consideration. It is now more than a quarter of a century since it was settled by the Supreme Court of this State—in an able and pains-taking opinion by the late Chief Justice Savage, in which the authorities were fully examined and carefully analyzed—that a promise in all material respects like the one under consideration was valid; and the judgment of that court was unanimously affirmed by the Court for the Correction of Errors. Farley v. Cleaveland, 4 Cow., 432; same case in error, 9 id., 639.
+
+
+[3]In that case one Moon owed Farley and sold to Cleaveland a quantity of hay, in consideration of which Cleaveland promised to pay Moon’s debt to Farley; and the decision in favor of Farley’s right to recover was placed upon the ground that the hay received by Cleaveland from Moon was a valid consideration for Cleaveland’s promise to pay Farley, and that the subsisting liability of Moon to pay Farley was no objection to the recovery. The fact that the money advanced by Holly to the defendant was a loan to him for a day, and that it thereby became the property of the defendant, seemed to impress the defendant’s counsel with the idea that because the defendant’s promise was not a trust fund placed by the plaintiff
+864
+in the defendant’s hands, out of which he was to realize money as from the sale of a chattel or the collection of a debt, the promise although made for the benefit of the plaintiff could not enure to his benefit.
+
+
+[4]The hay which Cleaveland delivered to Moon was not to be paid to Farley, but the debt incurred by Cleaveland for the purchase of the hay, like the debt incurred by the defendant for money borrowed, was what was to be paid. That case has been often referred to by the courts of this State, and has never been doubted as sound authority for the principle upheld by it. (Barker v. Bucklin, 2 Denio, 45; Hudson Canal Company v. The Westchester Bank, 4 id., 97.) It puts to rest the objection that the defendant’s promise was void for want of consideration. The report of that case shows that the promise was not only made to Moon but to the plaintiff Farley. In this case the promise was made to Holly and not expressly to the plaintiff; and this difference between the two cases presents the question, raised by the defendant’s objection, as to the want of privity between the plaintiff and defendant. As early as 1806 it was announced by the Supreme Court of this State, upon what was then regarded as the settled law of England, “That where one person makes a promise to another for the benefit of a third person, that third person may maintain an action upon it.” Schermerhorn v. Vanderheyden, 1 John. R., 140, has often been re-asserted by our courts and never departed from.
+
+
+[5]The case of Seaman v. White has occasionally been referred to (but not by the courts) not only as having some bearing upon the question now under consideration, but as involving in doubt the soundness of the proposition stated in Schermerhorn v. Vanderheyden. In that case one Hill on the 17th of August, 1835, made his note and procured it to be indorsed by Seaman and discounted by the Phoenix Bank. Before the note matured and while it was owned by the Phoenix Bank, Hill placed in the hands of the defendant, Whitney, his draft accepted by a third party, which the defendant indorsed, and on the 7th of October, 1835, got discounted and placed the avails in the hands of an agent with which to take up Hill’s note; the note became due, Whitney withdrew the avails of the draft from the hands of his agent and appropriated it to a debt due him from Hill, and Seaman paid the note indorsed by him and brought his suit against Whitney. Upon this state of facts appearing, it was held that Seaman could not recover: first, for the reason that no promise had been made by Whitney to pay, and second, if a promise could be implied from the facts that Hill’s accepted draft, with which to raise the means to pay; the note, had been placed by Hill in the hands of Whitney, the promise would not be to Seaman, but to the Phoenix Bank who then owned the note; although, in the course of the opinion of the court, it was stated that, in all cases the principle of which was sought to be applied to that case, the fund had been appropriated by an express undertaking of the defendant with the creditor. But before concluding the opinion of the court in this case, the learned
+865
+judge who delivered it conceded that an undertaking to pay the creditor may be implied from an arrangement to that effect between the defendant and the debtor. This question was subsequently, and in a case quite recent, again the subject of consideration by the Supreme Court, when it was held, that in declaring upon a promise, made to the debtor by a third party to pay the creditor of the debtor, founded upon a consideration advanced by the debtor, it was unnecessary to aver a promise to the creditor; for the reason that upon proof of a promise made to the debtor to pay the creditor, a promise to the creditor would be implied.
+
+
+[6]And in support of this proposition, in no respect distinguishable from the one now under consideration, the case of Schermerhorn v. Vanderheyden, with many intermediate cases in our courts, were cited, in which the doctrine of that case was not only approved but affirmed. The Delaware and Hudson Canal Company v. The Westchester County Bank, 4 Denio, 97. The same principle is adjudged in several cases in Massachusetts. I will refer to but few of them. Arnold v. Lyman, 17 Mass. 400; Hall v. Marston, id., 575; Brewer v. Dyer, 7 Cush., 337, 340. In Hall v. Marston the court say: “It seems to have been well settled that if A promises B for a valuable consideration to pay C, the latter may maintain assumpsit for the money;” and in Brewer v. Dyer, the recovery was upheld, as the court said, “upon the principle of law long recognized and clearly established, that when one person, for a valuable consideration, engages with another, by a simple contract, to do some act for the benefit of a third, the latter, who would enjoy the benefit of the act, may maintain an action for the breach of such engagement; that it does not rest upon the ground of any actual or supposed relationship between the parties as some of the earlier cases would seem to indicate, but upon the broader and more satisfactory basis, that the law operating on the act of the parties creates the duty, establishes a privity, and implies the promise and obligation on which the action is founded.”
+
+
+[7]There is a more recent case decided by the same court, to which the defendant has referred and claims that it at least impairs the force of the former cases as authority. It is the case of Mellen v. Whipple, 1 Gray, 317. In that case one Rollins made his note for $500, payable to Ellis and Mayo, or order, and to secure its payment mortgaged to the payees a certain lot of ground, and then sold and conveyed the mortgaged premises to the defendant, by deed in which it was stated that the “granted premises were subject to a mortgage for $500, which mortgage, with the note for which it was given, the said Whipple is to assume and cancel.” The deed thus made was accepted by Whipple, the mortgage was afterwards duly assigned, and the note [e]ndorsed by Ellis and Mayo to the plaintiff’s intestate. After Whipple received the deed he paid to the mortgagees and their assigns the interest upon the mortgage and note for a time, and upon refusing to
+866
+continue his payments was sued by the plaintiff as administratrix of the assignee of the mortgage and note.
+
+
+[8]The court held that the stipulation in the deed that Whipple should pay the mortgage and note was a matter exclusively between the two parties to the deed; that the sale by Rollins of the equity of redemption did not lessen the plaintiff’s security, and that as nothing had been put into the defendant’s hands for the purpose of meeting the plaintiff’s claim on Rollins, there was no consideration to support an express promise, much less an implied one, that Whipple should pay Mellen the amount of the note. This is all that was decided in that case, and the substance of the reasons assigned for the decision; and whether the case was rightly disposed of or not, it has not in its facts any analogy to the case before us, nor do the reasons assigned for the decision bear in any degree upon the question we are now considering. But it is urged that because the defendant was not in any sense a trustee of the property of Holly for the benefit of the plaintiff, the law will not imply a promise. I agree that many of the cases where a promise was implied were cases of trusts, created for the benefit of the promiser.
+
+
+[9]The case of Felton v. Dickinson, 10 Mass. 287, and others that might be cited, are of that class; but concede them all to have been cases of trusts, and it proves nothing against the application of the rule to this case. The duty of the trustee to pay the cestuis que trust, according to the terms of the trust, implies his promise to the latter to do so. In this case the defendant, upon ample consideration received from Holly, promised Holly to pay his debt to the plaintiff; the consideration received and the promise to Holly made it as plainly his duty to pay the plaintiff as if the money had been remitted to him for that purpose, and as well implied a promise to do so as if he had been made a trustee of property to be converted into cash with which to pay. The fact that a breach of the duty imposed in the one case may be visited, and justly, with more serious consequences than in the other, by no means disproves the payment to be a duty in both.
+
+
+[10]The principle illustrated by the example so frequently quoted (which concisely states the case in hand) “that a promise made to one for the benefit of another, he for whose benefit it is made may bring an action for its breach,” has been applied to trust cases, not because it was exclusively applicable to those cases, but because it was a principle of law, and as such applicable to those cases. It was also insisted that Holly could have discharged the defendant from his promise, though it was intended by both parties for the benefit of the plaintiff, and therefore the plaintiff was not entitled to maintain this suit for the recovery of a demand over which he had no control. It is enough that the plaintiff did not release the defendant from his promise, and whether he could or not is a question not now necessarily involved; but if it was, I think it would be found difficult to maintain the right of Holly to discharge a judgment recovered by the
+867
+plaintiff upon confession or otherwise, for the breach of the defendant’s promise; and if he could not, how could he discharge the suit before judgment, or the promise before suit, made as it was for the plaintiff’s benefit and in accordance with legal presumption accepted by him, Berly v. Taylor, 5 Hill 577–584, et seq., until his dissent was shown. The cases cited, and especially that of Farley v. Cleaveland, establish the validity of a parol promise; it stands then upon the footing of a written one.
+
+
+[11]Suppose the defendant had given his note in which, for value received of Holly, he had promised to pay the plaintiff and the plaintiff had accepted the promise, retaining Holly’s liability. Very clearly Holly could not have discharged that promise, be the right to release the defendant as it may. No one can doubt that he owes the sum of money demanded of him, or that in accordance with his promise it was his duty to have paid it to the plaintiff; nor can it be doubted that whatever may be the diversity of opinion elsewhere, the adjudications in this State, from a very early period, approved by experience, have established the defendant’s liability; if, therefore, it could be shown that a more strict and technically accurate application of the rules applied, would lead to a different result (which I by no means concede), the effort should not be made in the face of manifest justice.
+
+
+The judgment should be affirmed.
+
+
+[12]Johnson, Ch.J., Denio, Selden, Allen and Strong, Js., concurred. Johnson, Ch.J., and Denio, J., were of opinion that the promise was to be regarded as made to the plaintiff through the medium of his agent, whose action he could ratify when it came to his knowledge, though taken without his being privy thereto.
+
+
+[13]Comstock, J. (Dissenting.) The plaintiff had nothing to do with the promise on which he brought this action. It was not made to him, nor did the consideration proceed from him. If he can maintain the suit, it is because an anomaly has found its way into the law on this subject. In general, there must be privity of contract. The party who sues upon a promise must be the promisee, or he must have some legal interest in the undertaking. In this case, it is plain that Holly, who loaned the money to the defendant, and to whom the promise in question was made, could at any time have claimed that it should be performed to himself personally. He had lent the money to the defendant, and at the same time directed the latter to pay the sum to the plaintiff. This direction he could countermand, and if he had done so, manifestly the defendant’s promise to pay according to the direction would have ceased to exist. The plaintiff would receive a benefit by a complete execution of the arrangement, but the arrangement itself was between other parties, and was under their exclusive control. If the defendant had paid the money to Holly, his debt would have been discharged thereby. So Holly might have released the demand or assigned
+868
+it to another person, or the parties might have annulled the promise now in question, and designated some other creditor of Holly as the party to whom the money should be paid. It has never been claimed, that in a case thus situated, the right of a third person to sue upon the promise rested on any so and principle of law. We are to inquire whether the rule has been so established by positive authority.
+
+
+[14]The cases which have sometimes been supposed to have a bearing on this question, are quite numerous. In some of them, the dicta of judges, delivered upon very slight consideration, have been referred to as the decisions of the courts. Thus, in Schermerhorn v. Vanderheyden, 1 John., 140, the court is reported as saying, “We are of opinion, that where one person makes a promise to another, for the benefit of a third person, that third person may maintain an action on such promise.” This remark was made on the authority of Dalton v. Poole, Vent., 318, 332, decided in England nearly two hundred years ago. It was, however, but a mere remark, as the case was determined against the plaintiff on another ground. Yet this decision has often been referred to as authority for similar observations in later cases.
+
+
+[15]In another class of cases, which have been sometimes supposed to favor the doctrine, the promise was made to the person who brought the suit, while the consideration proceeded from another; the question considered being, whether the promise was void by the statute of frauds. Thus, in Gold v. Phillips, 10 Johns., 412, one Wood was indebted to the plaintiffs for services as attorneys and counsel, and he conveyed a farm to the defendants, who, as part of the consideration, were to pay that debt. Accordingly, the defendants wrote to the plaintiffs, informing them that an arrangement had been made by which they were to pay the demand. The defense was, that the promise was void within the statute, because, although in writing, it did not express the consideration. But the action was sustained, on the ground that the undertaking was original and not collateral. So in the case of Farley v. Cleaveland, 4 Cow., 432; 9 id., 639, the facts proved or offered to be proved were, that the plaintiff held a note against one Moon; that Moon sold hay to the defendant, who in consideration of that sale promised the plaintiff by parol to pay the note. The only question was, whether the statute of frauds applied to the case. It was held by the Supreme Court, and afterwards by the Court of Errors, that it did not. Such is also precisely the doctrine of Ellwood v. Monk, 5 Wend., 235, where it was held, that a plea of the statute of frauds, to a count upon a promise of the defendant to the plaintiff, to pay the latter a debt owing to him by another person, the promise being founded on a sale of property to the defendant by the other person, was bad.
+
+
+[16]The cases mentioned, and others of a like character, were referred to by Mr. Justice Jewett, in Barker v. Bucklin, 2 Denio, 45. In that case, the learned justice considered at some length the question now before us.
+869
+The authorities referred to were mainly those which I have cited, and others, upon the statute of frauds. The case decided nothing on the present subject, because it was determined against the plaintiff on a ground not involved in this discussion. The doctrine was certainly advanced which the plaintiff now contends for, but among all the decisions which were cited, I do not think there is one standing directly upon it. The case of Arnold v. Lyman, 17 Mass. 400, might perhaps be regarded as an exception to this remark, if a different interpretation had not been given to that decision in the Supreme Court of the same State where it was pronounced. In the recent case of Mellen, Administratrix v. Whipple, 1 Gray, 317, that decision is understood as belonging to a class where the defendant has in his hands a trust fund, which was the foundation of the duty or promise in which the suit is brought.
+
+
+[17]The cases in which some trust was involved are also frequently referred to as authority for the doctrine now in question, but they do not sustain it. If A delivers money or property to B, which the latter accepts upon a trust for the benefit of C, the latter can enforce the trust by an appropriate action for that purpose. Berly v. Taylor, 5 Hill 577. If the trust be of money, I think the beneficiary may assent to it and bring the action for money had and received to his use. If it be of something else than money, the trustee must account for it according to the terms of the trust, and upon principles of equity. There is some authority even for saying that an express promise founded on the possession of a trust fund may be enforced by an action at law in the name of the beneficiary, although it was made to the creator of the trust. Thus, in Comyn’s Digest Action on the case upon Assumpsit, B. 15, it is laid down that if a man promise a pig of lead to A, and his executor give lead to make a pig to B, who assumes to deliver it to A, an assumpsit lies by A against him. The case of The Delaware and Hudson Canal Company v. The Westchester County Bank, 4 Denio, 97, involved a trust because the defendants had received from a third party a bill of exchange under an agreement that they would endeavor to collect it, and would pay over the proceeds when collected to the plaintiffs. A fund received under such an agreement does not belong to the person who receives it. He must account for it specifically; and perhaps there is no gross violation of principle in permitting the equitable owner of it to sue upon an express promise to pay it over. Having a specific interest in the thing, the undertaking to account for it may be regarded as in some sense made with him through the author of the trust. But further than this we cannot go without violating plain rules of law. In the case before us there was nothing in the nature of a trust or agency. The defendant borrowed the money of Holly and received it as his own. The plaintiff had no right in the fund, legal or equitable. The promise to repay the money created an obligation in favor of the lender to whom it was made and not in favor of any one else.
+
+
+870
+[18]I have referred to the dictum in Schermerhorn v. Vanderheyden, 1 Johns., 140, as favoring the doctrine contended for. It was the earliest in this State, and was founded, as already observed, on the old English case of Dutton v. Poole, in Ventris. That case has always been referred to as the ultimate authority whenever the rule in question has been mentioned, and it deserves, therefore, some further notice. The father of the plaintiff’s wife being seized of certain lands, which afterwards on his death descended to the defendant, and being about to cut £1,000 worth of timber to raise a portion for his daughter, the defendant promised the father, in consideration of his for bearing to cut the timber, that he would pay the said daughter the £1,000. After verdict for the plaintiff, upon the issue of non-assumpsit, it was urged in arrest of judgment, that the father ought to have brought the action, and not the husband and wife. It was held, after much discussion, that the action would lie. The court said, “It might be another case if the money had been to have been paid to a stranger; but there is such a manner of relation between the father and the child, and it is a kind of debt to the child to be provided for, that the plaintiff is plainly concerned.” We need not criticize the reason given for this decision. It is enough for the present purpose, that the case is no authority for the general doctrine, to sustain which it has been so frequently cited. It belongs to a class of cases somewhat peculiar and anomalous, in which promises have been made to a parent or person standing in a near relationship to the person for whose benefit it was made, and in which, on account of that relationship, the beneficiary has been allowed to maintain the action. Regarded as standing on any other ground, they have long since ceased to be the law in England.
+
+
+[19]Thus, in Crow v. Rogers, 1 Strange, 592, one Hardy was indebted to the plaintiff in the sum of £70, and upon a discourse between Hardy and the defendant, it was agreed that the defendant should pay that debt in consideration of a house, to be conveyed by Hardy to him. The plaintiff brought the action on that promise, and Dutton v. Poole was cited in support of it. But it was held that the action would not lie, because the plaintiff was a stranger to the transaction. Again, in Price v. Easton, 4 Barn. & Adolph., 433, one William Price was indebted to the plaintiff in £13. The declaration averred a promise of the defendant to pay the debt, in consideration that William Price would work for him, and leave the wages in his hands; and that Price did work accordingly, and earned a large sum of money, which he left in the defendant’s hands. After verdict for the plaintiff, a motion was made in arrest of judgment, on the ground that the plaintiff was a stranger to the consideration.
+
+
+[20]Dutton v. Poole, and other cases of that class, were cited in opposition to the motion, but the judgment was arrested. Lord Denman said, “I think the declaration cannot be supported, as it does not show any consideration for the promise moving from the plaintiff to the defendant.”
+871
+Littledale, J., said, “No privity is shown between the plaintiff and the defendant. The case is precisely like Crow v. Rogers, and must be governed by it.” Taunton, J., said, “It is consistent with all the matter alleged in the declaration, that the plaintiff may have been entirely ignorant of the arrangement between William Price and the defendant.” Patterson, J., observed, “It is clear that the allegations do not show a right of action in the plaintiff. There is no promise to the plaintiff alleged.” The same doctrine is recognized in Lilly v. Hays, 5 Ad. & Ellis, 548, and such is now the settled rule in England, although at an early day there was some obscurity arising out of the case of Dutton v. Poole, and others of that peculiar class.
+
+
+[21]The question was also involved in some confusion by the earlier cases in Massachusetts. Indeed, the Supreme Court of that State seem at one time to have made a nearer approach to the doctrine on which this action must rest, than the courts of this State have ever done. 10 Mass. 287; 17 id., 400. But in the recent case of Mellen, Administratrix v. Whipple, 1 Gray, 317, the subject was carefully reviewed and the doctrine utterly overthrown. One Rollin was indebted to the plaintiff’s testator, and had secured the debt by a mortgage on his land. He then conveyed the equity of redemption to the defendant, by a deed which contained a clause declaring that the defendant was to assume and pay the mortgage. It was conceded that the acceptance of the deed with such a clause in it was equivalent to an express promise to pay the mortgage debt; and the question was, whether the mortgagee or his representative could sue on that undertaking. It was held that the suit could not be maintained; and in the course of a very careful and discriminating opinion by Judge Metcalf, it was shown that the cases which had been supposed to favor the action belonged to exceptional classes, none of which embraced the pure and simple case of an attempt by one person to enforce a promise made to another, from whom the consideration wholly proceeded. I am of that opinion.
+
+
+[22]The judgment of the court below should therefore be reversed, and a new trial granted.
+
+
+Grover, J., also dissented.
+
+
+———
+
+
+Notes and Questions
+
+
+1.Who was the promissor, the promissee, and the third party beneficiary?
+
+
+2.Who could have sued and recovered against whom under the contract? Why?
+
+
+3.The court discusses “privity” and “privity of contract.” Privity is an older, formalist notion of a direct, in this case contractual, relationship between
+872
+the parties that gave rise to the right to sue to enforce the contract. Although notions of privity are still in use, the modern trend is to avoid or gloss over the concept in performing third party beneficiary analysis. It is still useful, however, especially in understanding where the rules in this area began—as exceptions to the strict requirement of privity. Although formalists would differ, privity is more a conclusion than a fact.
+
+
+Problem 29-1
+
+
+Old Nettie, in the belief that she was dying, asks her husband Albert to draft her a will. When she reviews it she is unhappy because it does not provide that her house should go to her favorite niece, Marion. Instead, under the will, it goes to Albert during life and then to a charity. Albert offers to write a new will, but Nettie thinks that her time is drawing near and there is no time to lose. So Nettie has Albert promise her that if she signs the will as drafted he will modify his own will to take care of Marion.
+
+
+As you by now expect, when Albert dies, shortly after Nettie, his will makes no provision for Marion whatsoever.
+
+
+Can Marion enforce the agreement between Nettie and Albert? See Seaver v. Ransom, 224 N.Y. 233, 120 N.E. 639 (1918).
+
+
+———
+———
+———
+———
+
+
+
+
+Schauer v. Mandarin Gems of California, Inc.
+
+
+Court of Appeal of California
+125 Cal. App. 4th 949, 23 Cal. Rptr. 3d 233 (2005)
+
+
+Ikola, Judge.
+
+
+[1]Ikola, J.—Sarah Jane Schauer (plaintiff) appeals from a judgment of dismissal in favor of Mandarin Gems of California, Inc., doing business as Black, Starr & Frost (defendant) after the court sustained defendant’s demurrer to plaintiff’s second amended complaint without leave to amend. Plaintiff sought to recover on various theories based on her discovery that a diamond ring given to her as an engagement gift prior to her marriage to her now former husband, Darin Erstad, allegedly was not worth the $43,0004 he paid defendant for it in 1999. Erstad is not a party to this action.
+
+
+[2]We reverse the judgment and remand. We conclude plaintiff has standing as a third party beneficiary of the sales contract between Erstad and defendant, and she has adequately pleaded a contract cause of action based on allegations of defendant’s breach of express warranty. Defendant
+873
+must answer to that claim. In all other respects, the pleading is defective and cannot be cured by amendment.
+
+
+Facts
+
+
+[3]Our factual summary “accepts as true the facts alleged in the complaint, together with facts that may be implied or inferred from those expressly alleged.” (Barnett v. Fireman’s Fund Ins. Co., 90 Cal. App. 4th 500, 505 [108 Cal. Rptr. 2d 657] (2001).)
+
+
+[4]Plaintiff and Erstad went shopping for an engagement ring on August 15, 1999. After looking at diamonds in premier jewelry establishments such as Tiffany and Company and Cartier, they went to defendant’s store, where they found a ring that salesperson Joy said featured a 3.01 carat diamond with a clarity grading of “ ‘SI1.’ ” Erstad bought the ring the same day for $43,121.55. The following month, for insurance purposes, defendant provided Erstad a written appraisal verifying the ring had certain characteristics, including an SI1 clarity rating and an average replacement value of $45,500. Paul Lam, a graduate gemologist with the European Gemological Laboratory (EGL), signed the appraisal.
+
+
+[5]The couple’s subsequent short-term marriage was dissolved in a North Dakota judgment awarding each party, “except as otherwise set forth in this Agreement,” “the exclusive right, title and possession of all personal property . . . which such party now owns, possesses, holds or hereafter acquires.” Plaintiff’s personal property included the engagement ring given to her by Erstad.
+
+
+[6]On June 3, 2002, after the divorce, plaintiff had the ring evaluated by the “Gem Trade Laboratory,” which gave the diamond a rating of “ ‘SI2’ quality,” an appraisal with which “multiple other [unidentified] jewelers, including one at [defendant’s store]” agreed. That was how plaintiff discovered defendant’s alleged misrepresentation, concealment, and breach of express warranty regarding the true clarity of the diamond and its actual worth, which is—on plaintiff’s information and belief—some $23,0005 less than what Erstad paid for it.
+
+
+[7]Plaintiff sued defendant on several theories. Three times she attempted to plead her case. In the first cause of action of the second amended complaint, she sought to recover under the Consumers Legal Remedies Act (the Act, Civ. Code, § 1760 et seq.), stating, inter alia, that had the true clarity of the diamond been known, plaintiff would not have “acquired said diamond by causing it to be purchased for her.” Thereafter, if the written verification of the clarity value sent to Erstad one month after the purchase had revealed the truth, plaintiff would have “immediately
+874
+rescinded the sale based on a failure of consideration.” The second cause of action, for breach of contract, alleged Erstad and defendant had a written contract under which Erstad agreed to purchase the ring “for the sole and stated purpose of giving it [to] Plaintiff,” making plaintiff a third party beneficiary of the sales contract. Defendant breached the contract by delivering an engagement ring that did not conform to the promised SI1 clarity rating.
+
+
+[8]In her third cause of action, for constructive fraud, plaintiff claimed the existence of a special confidential relationship in which defendant was aware plaintiff and her “predecessor in interest,” presumably Erstad, “were not knowledgeable and . . . were relying exclusively on the Defendants’ integrity,” but defendant falsely represented the clarity of the diamond with the intent to defraud “[p]laintiff and her predecessor in interest” to make the purchase at the inflated price. The fourth cause of action for fraud alleged defendant’s malicious and deceitful conduct warranted punitive damages. In the fifth cause of action, plaintiff sought rescission under Civil Code section 1689 for defendant’s alleged fraud in the inducement, mistake, and failure of consideration.
+
+
+[9]Appended to the pleading was a redacted copy of a North Dakota court’s judgment filed July 19, 2001, granting Erstad and plaintiff a divorce pursuant to their “Stipulation and Agreement,” entitling each party, as noted ante, “to the exclusive right, title and possession of all personal property of the parties, joint or several, which such party now owns, possesses, holds or hereafter acquires [except as otherwise provided in the agreement],” and awarding the parties their respective “personal effects, clothing and jewelry.”
+
+
+[10]In its general demurrer to the second amended complaint and each cause of action, defendant asserted plaintiff had no viable claim under any theory because: (1) plaintiff was neither the purchaser of the ring nor a third party beneficiary of the contract between defendant and Erstad, who was not alleged to have assigned his rights to plaintiff; (2) the statute of limitations had expired for defendant’s alleged violations of the Act; (3) plaintiff was not a buyer, and the ring tendered to Erstad conformed entirely to the contract; (4) defendant owed no special confidential or fiduciary duty to plaintiff upon which to predicate a fraud cause of action; (5) any alleged fraud was the act of EGL, not attributable to defendant; and (6) fraud was not pleaded with the required specificity.
+
+
+[11]The court again sustained the demurrer, this time without further leave to amend. The judgment of dismissal followed, and plaintiff appeals. As we will explain, the court erred. Although the complaint is fatally defective in some respects, plaintiff is entitled as a matter of law to pursue her contract claim as a third party beneficiary.
+
+
+875
+Discussion
+
+
+Standard of Review
+
+
+[12]The trial court’s decision to sustain a demurrer is a legal ruling, subject to de novo review. “[W]e give the complaint a reasonable interpretation, and treat the demurrer as admitting all material facts properly pleaded, but not the truth of contentions, deductions or conclusions of law. We reverse if the plaintiff has stated a cause of action under any legal theory. [Citation.]” Barnett v. Fireman’s Fund Ins. Co., supra, 90 Cal. App. 4th at 507.
+
+
+[13]The issue before us is whether, on well pleaded facts, plaintiff may maintain an action to recover the $23,000 difference between what Erstad paid for the diamond ring and what that gift was really worth, given its alleged inferior quality.
+
+
+[14]We begin with the rule that “[e]very action must be prosecuted in the name of the real party in interest, except as otherwise provided by statute.” Code Civ. Proc., § 367. Where the complaint shows the plaintiff does not possess the substantive right or standing to prosecute the action, “it is vulnerable to a general demurrer on the ground that it fails to state a cause of action.” Carsten v. Psychology Examining Com., 27 Cal.3d 793, 796 [166 Cal. Rptr. 844, 614 P.2d 276] (1980); Cloud v. Northrop Grumman Corp., 67 Cal.App.4th 995, 1004 [79 Cal. Rptr. 2d 544] (1998).
+
+
+[15]The second amended complaint alleges “[d]efendant entered into a written contract with [Erstad] to purchase the subject engagement ring.” The attached exhibit shows defendant issued a written appraisal to Erstad. Erstad is clearly a real party in interest, but he has not sued.
+
+
+[16]Plaintiff contends she, too, is a real party in interest because the North Dakota divorce judgment endowed her with all of Erstad’s rights and remedies. As we will explain, this theory is wrong. However, as we will also discuss, plaintiff is correct in asserting she is a third party beneficiary of the sales contract. That status enables her to proceed solely on her contract claim for breach of express warranty. For the remainder, plaintiff is without standing to recover under any legal theory alleged, and the equitable remedy of rescission is also unavailable to her.
+
+
+Transfer of Erstad’s Rights and Remedies to Plaintiff
+
+
+[17]Plaintiff alleges and argues the North Dakota divorce judgment granted her “the exclusive right, title and possession of all [of her] personal property,” including the engagement ring, and the judgment automatically divested Erstad of his substantive rights and transferred or assigned them to her by operation of law. Such is not the case.
+
+
+[18]Plaintiff undoubtedly owns the ring. See Civ. Code, § 679 (“The ownership of property is absolute when a single person has the absolute
+876
+dominion over it, and may use it or dispose of it according to his [or her] pleasure, subject only to general laws”); see also North Dakota Century Code, section 47–01–01 (2003) (“The ownership of a thing shall mean the right of one or more persons to possess and use it to the exclusion of others. In this code the thing of which there may be ownership is called property”). But ownership of gifted property, even if awarded in a divorce, does not automatically carry with it ownership of the rights of the person who bought the gift. As will be seen, contrary to plaintiff’s hypothesis, the divorce judgment did not give plaintiff the ring embellished with Erstad’s rights under the contract or his choice in action.
+
+
+[19]A cause of action for damages is itself personal property. See Civ. Code, § 953 (“A thing in action is a right to recover money or other personal property by a judicial proceeding”; Parker v. Walker, 5 Cal.App. 4th 1173, 1182–1183 [6 Cal. Rptr. 2d 908] (1992) [“A cause of action to recover money in damages . . . is a chose in action and therefore a form of personal property”]; see also Iszler v. Jordan, 80 N.W.2d 665, 668–69 [a chose in action is property] (N.D. 1957).) At the time of the divorce judgment, all causes of action that could have been asserted against the jeweler by a buyer of the ring were Erstad’s personal property. He was, after all, the purchaser of the ring. The divorce agreement awarded to each party his or her respective personal property, except as otherwise expressly provided. The disposition of the ring was expressly provided for in the agreement, i.e., plaintiff was given her jewelry. Any extant choice in action against defendant, however, were not expressly provided for in the agreement; therefore, they were retained by Erstad as part of his personal property.
+
+
+[20]To be sure, Erstad could have transferred or assigned his rights to legal recourse to plaintiff (see, e.g., Dixon-Reo Co. v. Horton Motor Co., 49 N.D. 304 [191 N.W. 780, 782] (1922) [a right arising out of an obligation, i.e., a thing in action, is the property of the person to whom the right is due and may be transferred]), but there are no allegations Erstad either did so or manifested an intention to do so.
+
+
+Third Party Beneficiary
+
+
+[21]The fact that Erstad did not assign or transfer his rights to plaintiff does not mean she is without recourse. For although plaintiff does not have Erstad’s rights by virtue of the divorce judgment, she nonetheless has standing in her own right to sue for breach of contract as a third party beneficiary under the allegation, inter alia, that “[d]efendant entered into a written contract with Plaintiff’s fiancee [sic] to purchase the subject engagement ring for the sole and stated purpose of giving it [to] Plaintiff.”
+
+
+[22]Civil Code section 1559 provides: “A contract, made expressly for the benefit of a third person, may be enforced by him [or her] at any time before the parties thereto rescind it.” Because third party beneficiary status is a matter of contract interpretation, a person seeking to enforce a
+877
+contract as a third party beneficiary “ ‘must plead a contract which was made expressly for his [or her] benefit and one in which it clearly appears that he [or she] was a beneficiary.’ ” California Emergency Physicians Medical Group v. PacifiCare of California, 111 Cal.App.4th 1127, 1138 [4 Cal. Rptr. 3d 583] (2003).
+
+
+[23]“ ‘[E]xpressly[,]’ [as used in the statute and case law,] means ‘in an express manner; in direct or unmistakable terms; explicitly; definitely; directly.’ [Citations.] ‘[A]n intent to make the obligation inure to the benefit of the third party must have been clearly manifested by the contracting parties.’ ” Sofias v. Bank of America, 172 Cal. App. 3d 583, 587 [218 Cal. Rptr. 388] (1985). Although this means persons only incidentally or remotely benefitted by the contract are not entitled to enforce it, it does not mean both of the contracting parties must intend to benefit the third party: Rather, it means the promissor—in this case, defendant jeweler—“must have understood that the promissee [Erstad] had such intent. [Citations.] No specific manifestation by the promissor of an intent to benefit the third person is required.” Lucas v. Hamm, 56 Cal.2d 583, 591 [15 Cal. Rptr. 821, 364 P.2d 685] (1961); see also Johnson v. Superior Court, 80 Cal.App.4th 1050, 1064–1065 [95 Cal. Rptr. 2d 864] (2000).
+
+
+[24]We conclude the pleading here meets the test of demonstrating plaintiff’s standing as a third party beneficiary to enforce the contract between Erstad and defendant. The couple went shopping for an engagement ring. They were together when plaintiff chose the ring she wanted or, as alleged in the complaint, she “caused [the ring] to be purchased for her.” Erstad allegedly bought the ring “for the sole and stated purpose of giving [the ring]” to plaintiff. (Italics added.) Under the alleged facts, the jeweler must have understood Erstad’s intent to enter the sales contract for plaintiff’s benefit. Thus, plaintiff has adequately pleaded her status as a third party beneficiary, and she is entitled to proceed with her contract claim against defendant to the extent it is not time-barred.
+
+
+* * *
+
+
+Breach of Contract/Breach of Express Warranty
+
+
+[25]Plaintiff’s breach of contract claim is based on allegations of defendant’s breach of express warranty in representing the engagement diamond was of an SI1 clarity rating, when in actuality it was of an inferior quality. Other than noting the breach of express warranty claim is adequately pleaded, and that plaintiff is entitled to pursue it as a third party beneficiary, we express no opinion on its ultimate viability. It will be for the fact finder to determine from all the circumstances whether defendant’s statements regarding the clarity rating of the diamond constituted an express warranty under California Uniform Commercial Code section 2313 or were merely nonactionable expressions of opinion. In
+878
+any event, this is the only cause of action on which plaintiff may proceed, as we discuss more fully, post.
+
+
+Rescission
+
+
+[26]Plaintiff has attempted to plead a separate cause of action for rescission. She is not entitled to that remedy. Civil Code section 1559 provides, “A contract, made expressly for the benefit of a third person, may be enforced by him [or her] at any time before the parties thereto rescind it.” (Italics added.) But only the parties to the contract may rescind it. Civil Code section 1689 provides, in pertinent part, “(a) A contract may be rescinded if all the parties thereto consent. (b) A party to a contract may rescind the contract in the following cases: (1) If the consent of the party rescinding, or of any party jointly contracting with him [or her], was given by mistake, or obtained through duress, menace, fraud, or undue influence, exercised by or with the connivance of the party as to whom he [or she] rescinds, or of any other party to the contract jointly interested with such party. (2) If the consideration for the obligation of the rescinding party fails, in whole or in part, through the fault of the party as to whom he [or she] rescinds.” (Italics added.)
+
+
+[27]We have found no cases specifically holding the rescission remedy unavailable to a third party beneficiary, but the proposition is self-evident to a degree that might well explain the absence of precedent. Civil Code section 1559 grants a third party beneficiary the right to enforce the contract, not rescind it, and Civil Code section 1689 limits its grant of rescission rights to the contracting parties. Not only do the relevant statutes demand making rescission unavailable to a third party beneficiary, but common sense compels the conclusion. The interest of the third party beneficiary is as the intended recipient of the benefits of the contract, and a direct right to those benefits, i.e., specific performance, or damages in lieu thereof, will protect the beneficiary’s interests. Rescission, on the other hand, extinguishes a contract between the parties. (Civ. Code, § 1688.) Plaintiff, not having participated in the agreement, not having undertaken any duty or given any consideration, is a stranger to the agreement, with no legitimate interest in voiding it. As a matter of law, without an assignment of Erstad’s contract rights, plaintiff cannot rescind the sales contract to which she was not a party.
+
+
+Statutory Remedies for Consumers or Buyers
+
+
+[28]Plaintiff argues she has remedies under the Act because she is a “consumer.” Unfortunately for plaintiff, by statutory definition Erstad was the consumer because it was he who purchased the ring. (See Civ. Code, § 1761, subd. (d) [“ ‘Consumer’ means an individual who seeks or acquires, by purchase or lease, any goods or services for personal, family, or household purposes”].) Plaintiff’s ownership of the ring was not acquired as a result of her own consumer transaction with defendant, and without
+879
+an assignment of Erstad’s rights, she does not fall within the parameters of consumer remedies under the Act.
+
+
+Actual and Constructive Fraud
+
+
+[29]Further, the absence of an assignment of rights from Erstad precludes plaintiff from maintaining a cause of action for actual fraud. It is axiomatic that plaintiff must allege she “actually relied upon the misrepresentation; i.e., that the representation was ‘an immediate cause of [her] conduct which alter[ed] [her] legal relations,’ and that without such representation, ‘[she] would not, in all reasonable probability, have entered into the contract or other transaction.’ ” 5 Witkin, Summary of Cal. Law (9th ed. 1988) Torts, § 711, p. 810. Here, Erstad allegedly relied on the representation and entered into the contract of sale. As we have explained, he retained the right, if any, to sue for actual fraud.
+
+
+[30]As for constructive fraud, the complaint fails to plead facts establishing the requisite fiduciary or special confidential relationship between plaintiff and defendant. See, e.g., Tyler v. Children’s Home Society, 29 Cal.App.4th 511, 548 [35 Cal. Rptr. 2d 291] (1994); Peterson Development Co. v. Torrey Pines Bank, 233 Cal. App. 3d 103, 116 [284 Cal. Rptr. 367] (1991) [“It is essential to the operation of the doctrine of constructive fraud that there exist a fiduciary or special relationship”]. And even assuming plaintiff could overcome the standing hurdle, fraud causes of action must be pleaded with specificity, meaning “(1) general pleading of the legal conclusion of fraud is insufficient; and (2) every element of the cause of action for fraud must be alleged in full, factually and specifically, and the policy of liberal construction of pleading will not usually be invoked to sustain a pleading that is defective in any material respect.” Wilhelm v. Pray, Price, Williams & Russell, supra, 186 Cal. App.3d at 1331. Plaintiff’s complaint utterly fails the specificity test, not because she is an inartful pleader, but because those facts that are well pleaded necessarily negate the existence of the facts supporting the requisite elements of fraud.
+
+
+Disposition
+
+
+[31]The judgment is reversed. The case is remanded with directions to the trial court to overrule defendant’s demurrer to plaintiff’s cause of action for breach of contract and order defendant to answer. In all other respects, the demurrer has been properly sustained without leave to amend. Plaintiff shall recover her costs on appeal.
+
+
+Rylaarsdam, Acting P. J., and Bedsworth, J., concurred.
+
+
+———
+———
+———
+———
+———
+
+
+
+
+880
+Notes
+
+
+1.The next case illustrates the evolution of third party beneficiary law in the context of multi-party commercial agreements that are meant to provide for mutual cooperation and benefit in order to avoid the “tragedy of the commons.” The “tragedy of the commons” describes what is otherwise known as the public goods problem: It is hard to coordinate and pay for public goods, i.e., those that are owned or used collectively. Think of the “commons” as a pasture owned by the community and used by a group. Each user owns sheep and has the incentive to put more and more sheep on the pasture to gain, privately. The overall effect of many individuals doing this overwhelms the carrying capacity of the pasture and the sheep cannot all survive.
+
+
+2.In the case that follows, a group of food vendors has banded together to assess fees to clean and maintain the common food court area. One of the vendors was not happy with the method of allocating fees between the businesses.
+
+
+———
+
+
+Gourmet Lane, Inc. v. Keller
+
+
+Court of Appeal of California
+222 Cal. App. 2d 701, 35 Cal. Rptr. 398 (1963)
+
+
+Desmond, Judge.
+
+
+[1]Action on a contractual obligation by defendant to pay his agreed share of certain expenses in a joint food purveying operation. Plaintiff, after a court trial, recovered a money judgment in an action based upon a contractual obligation by defendant to pay his agreed share of certain expenses in a joint food purveying operation.
+
+
+[2]Defendant’s appeal is on the ground that neither of the two theories of plaintiff’s complaint was established. These theories were: (1) a direct agreement between plaintiff, an incorporated association, and defendant, one of its members, whereby the latter agreed to pay at the rate charged by plaintiff’s board of directors for services admittedly received; and (2) defendant’s obligation under a third party beneficiary contract to pay at such rate. The findings and holding of the trial court are in favor of plaintiff on both counts. We agree.
+
+
+[3]Plaintiff has seven shareholder-members, all of whom are directors. The seven are operators of food-dispensing concessions under separate leases with Kassis Building Corporation in the concourse of a large Sacramento market owned by the lessor. This concourse is known as Gourmet Lane.
+
+
+[4]The lessor furnished a dining area, kitchen, dishwashing and garbage disposal facilities used in common by these seven tenants.
+
+
+881
+[5]Each lease contains the following provisions: “Lessee promises and agrees, together with such other tenants as there may be of the other concourse shops, to maintain and operate in a sanitary businesslike manner the said dining area at no cost or expense of any nature to lessor. Lessee shall enter into an association and cooperate with such other tenants in the operation of said dining area. This obligation is to be joint and several among all of said tenants. A decision of the majority of said tenants with regard to the details of the operation and maintenance of said area and allocating the costs thereof shall be binding upon lessee and all of the other tenants.” (Italics supplied.)
+
+
+[6]The tenants first operated as a voluntary unincorporated association, but soon decided to incorporate and plaintiff corporation was organized. The bylaws, approved by defendant, provide that a majority of directors shall constitute a quorum. They also provide: “Every act or decision done or made by a majority of the directors present at a meeting duly held at which a quorum is present shall be regarded as the act of the board of directors. . . .”
+
+
+[7]At an early meeting the directors discussed the method to be adopted to defray the community expenses. One member preferred a “dish count” as a basis of allocation. This would have afforded a fair distribution of dishwashing costs which were apparently a major item of expense. Defendant operated a doughnut shop, including the dispensing of coffee and doughnuts to be eaten on the premises. He would have had a higher dish count per dollar volume than some of the others. He, with others, objected to this method of cost apportionment, since dishwashing was but one of the joint operating expenses. Apportionment on the ratio which the taxable sales of each bore to the taxable sales of all with a minimum charge to be fixed was the method finally agreed to by all the members. At the first meeting after the opening of the market $100 per week was agreed to by resolution of the directors as the fixed minimum. Defendant voted for this resolution. This was on December 6, 1958. By February 1959 all members but defendant had shown, and were paying charges based upon, sales tax returns in excess of the minimum. Defendant objected to the $100 minimum and, upon his request, the directors voted to reduce the weekly minimum to $75. At the February 16, 1959, meeting Keller again requested that the minimum be dropped; this time to $50 per week. The directors refused this request. Defendant testified he “went along with” that position. Defendant continued to take an active part in the affairs of the corporation. He was its treasurer and handled all of its finances. For a short time, he actively managed the maintenance operations.
+
+
+[8]Defendant throughout this period continued to pay the $75 per week minimum. Commencing June 1, 1960, he refused to make further payments. The directors had refused his requests to abolish or lower the minimum charge. Although defendant contends the charge is unfair and
+882
+discriminates against his operation, plaintiff argues otherwise. It points out that when he pays the weekly minimum defendant’s share is but 6.54 per cent of the total expenses, the percentages of the others running from 11.99 per cent to 23.75 per cent. Defendant’s total gross receipts on the other hand are in line with the others and even exceed those of one other member. It was also shown that defendant’s expenses are less than he would have had to pay operating alone.
+
+
+[9]When defendant discontinued paying the $75 per week he discontinued all payments, although continuing to enjoy the community services furnished. He has continued so to use the facilities and is still a member of the association.
+
+
+[10]It seems clear from the testimony of all the witnesses that no perfect method of apportioning the joint expenses of an enterprise of this type could be evolved. An accountant employed by the corporation to study the matter and investigate the method of allocation adopted by food purveyors in similar markets in other localities reported they used the same basis. In any event it was the method to which a majority of the group had agreed and defendant had agreed with his associates to be bound by the decision of a majority. The trial court, moreover, has found that the “basis established by the Board of Directors for allocating the costs of operating the community kitchen and dining room facilities among each of the purveyors of food is fair, equitable, and just and binding upon defendant. . . .” Evidence supports these findings and we cannot disturb them.
+
+
+[11]Determination of the appeal could rest upon this alone. However, it is not the sole reason for affirming the judgment of the trial court.
+
+
+[12]The second theory of the complaint was that a third party beneficiary contract existed under which plaintiff was the beneficiary giving it a legal right to sue thereunder. The trial court accepted this theory and its holding is sound.
+
+
+[13]The lease provision which we have quoted above (1) creates a joint and several liability in, and between, the several tenants of the concourse to defray the maintenance costs of the dining and kitchen areas; to insure the collection of these costs in an expeditious and orderly manner the tenants (2) are required to organize themselves into an association to administer the joint operation and (3) to adopt “majority rule” in fixing maintenance cost allocation.
+
+
+[14]Under these contracts the tenants (promisors) agree with the lessor (promisee) to pay money for maintenance costs to plaintiff association (third party beneficiary). Since the plaintiff was not a party to the agreement, in fact was not then even in existence, it may be true—if courts must be obeisant to the privity rule—that we must bring ourselves
+883
+within an exception to it. One exception is in Civil Code section 1559. It provides:
+
+
+“A contract, made expressly for the benefit of a third person, may be enforced by him at any time before the parties thereto rescind it.”
+
+
+[15]Courts have found difficulty sometimes determining when a contract is made “expressly” for the benefit of a third party. See discussion in Lucas v. Hamm, 56 Cal.2d 583 [15 Cal.Rptr. 821, 364 P.2d 685]. However, as is stated by Chief Justice Gibson, id. at 590: “The effect of the section is to exclude enforcement by persons who are only incidentally or remotely benefitted.” Here plaintiff is more than incidentally or remotely benefitted.
+
+
+[16]The whole raison d’etre for plaintiff was the creation of an entity (whether incorporated or not) which could efficiently maintain the dining and kitchen area. This the tenants, of whom defendant was one, promised to accomplish. Having also promised to bear the maintenance costs jointly and severally, they agreed to a “majority rule” allocation of these costs and obviously, since an association was to be organized, it was the parties’ intent that the expression of majority rule would be through governance of that entity. Granted this is not the usual form of third party beneficiary contract, since the plaintiff was not a creditor-beneficiary (i.e., it was not a creditor of the promisee) and was not [a]donee-beneficiary in the sense that a gift was intended to be made to plaintiff. It was, however, [a]donee-beneficiary as defined by the Restatement, the purpose of the promisee in obtaining the promise being “to confer upon [the beneficiary] a right against the promisor to some performance neither due nor supposed or asserted to be due from the promisee to the beneficiary.” Rest., Contracts, § 133(1) (a). In El Rio Oils v. Pacific Coast Asphalt Co., 95 Cal.App.2d 186, 192, it was held that a preincorporation agreement made by one of the incorporators (as promisor) with another (as promisee) for the benefit of the corporation to be formed could be enforced and sued on by the [corporation, once formed] as a third party beneficiary. Plaintiff was therefore entitled to sue on the contract as a third party beneficiary.
+
+
+The judgment is affirmed.
+
+
+Notes and Questions
+
+
+1.Note how California’s statute on third party beneficiary status (quoted in paragraph 12) makes no explicit mention of creditor and donee beneficiaries or the distinction between intended or incidental beneficiaries. Those distinctions are supplied by the courts in that state. This provides a good example of the continued common law tradition of judge-made law based upon and elaborating upon statutes that purport to codify the law in a quasi-civil law format.
+
+
+884
+2.Review R2d § 133. In applying the standard of this section to the facts of the case, do you think that the court in Gourmet Lane got it right? Why or why not?
+
+
+Dolan v. Altice USA, Inc.
+
+
+Court of Chancery of Delaware
+C.A. No. 2018–0651–JRS, 2019 WL 2711280 (2019)
+
+
+* * *
+
+
+I.FACTUAL BACKGROUND
+
+
+[1]I draw the facts from the allegations in the Complaint, documents incorporated by reference or integral to the Complaint and judicially noticeable facts available in public Securities and Exchange Commission filings. For purposes of this motion to dismiss, I accept as true the Complaint’s well-pled factual allegations and draw all reasonable inferences in Plaintiffs’ favor.
+
+
+A.The Parties
+
+
+[2]Plaintiff, Charles F. Dolan, is the founder and former CEO of Cablevision Systems Corp. Prior to the Merger, he held a 14.1% interest in Cablevision. His wife, Helen A. Dolan, also held a 14.1% interest. One of their sons, James L. Dolan, held a 3.3% interest and is a former CEO of Cablevision. Another son, Patrick F. Dolan, held a 1.8% interest and was President of News12 at the time of and after the Merger.
+
+
+[3]Plaintiffs, Colleen McVey and Danielle Campbell, are current employees of News12, but both are slated to be terminated. McVey, an Emmy award-winning news anchor, has worked at News12 for over 30 years. She regularly appears on air at News12’s leading network, News12 Long Island. Campbell, also an Emmy and Edward R. Murrow award-winning news anchor, has worked at News12 for almost 30 years. Viewers rate Campbell above average as compared to other Long Island reporters and she earns a high awareness score among the viewing public.
+
+
+[4]Defendants, Altice USA and Altice Europe, are cable, fiber, telecommunications, content and media companies. Altice USA, a Delaware corporation, operates in the United States. Altice Europe, a Dutch naamloze vennootschap (i.e., a Netherlands public limited liability company), is the parent of communications companies that operate in Europe, Israel and the Dominican Republic. Both Altice USA and Altice Europe are successors in interest to Altice N.V.
+
+
+[5]Nominal Defendant, Cablevision, a Delaware corporation, is wholly-owned and operated by Altice. The Dolan family founded and led Cablevision until Altice acquired Cablevision in 2015.
+
+
+885
+[6]Nominal Defendant, News12, a Delaware limited liability company, is a local television network that provides 24-hour “hyper-local” news coverage concentrating on distinct geographic areas including New Jersey, Connecticut and New York City. Altice acquired News12 as part of the Merger.
+
+
+B.The Merger
+
+
+[7]In 2015, Altice and the Dolan family began discussing Altice’s possible acquisition of Cablevision. Initially, the Dolan family declined to include News12 in the transaction, proposing instead to spin off the asset to an entity they controlled. After intense negotiations with Altice, the Dolan family relented and agreed to include News12 in the Merger in exchange for assurances in the Merger Agreement that Altice would operate News12 in a manner that preserved its employee base, quality reporting and programming.
+
+
+[8]The Dolan family, all of whom were members of Cablevision’s “controlling stockholder group,” were not named as parties to the Merger Agreement, but were represented by Debevoise & Plimpton LLP in the transaction negotiations. As negotiations continued, Altice determined that it would be useful to lock up the Dolan family’s shares in favor of the Merger. Here again, comforted that Altice had committed to preserve the News12 asset, the Dolan family relented and committed by Written Consent to vote their substantial Class B shares “in favor of adoption of the Merger Agreement.”
+
+
+[9]Cablevision, Altice N.V. and Neptune Merger Sub Corp. entered into the Merger Agreement on September 16, 2015. The Merger consideration totaled $17.7 billion. Of that amount, the Dolan family received over $2.2 billion, or approximately 20% of the cash component of the Merger consideration. The transaction closed on June 21, 2016.
+
+
+C.The Merger Agreement
+
+
+[10]As noted, in exchange for the Dolan family’s agreement to include News12 in the Merger, Altice agreed to include a covenant in the Merger Agreement (Section 6.4(f)) that it would operate News12 in accordance with the station’s then-existing business plan:
+
+
+(i)Parent will operate News12 Networks LLC (“News12”) from and after [June 21, 2016] [(“]the Closing[”)] substantially in accordance with the existing News12 business plan (the “News12 Business Plan”), a true and complete copy of which is included in Schedule 6.4(f) of the Company Disclosure Letter, as the same may be adjusted as provided in Scheduled 6.4(f), through at least the end of plan year 2020 within the current News12 footprint as of the date of this Agreement.
+
+
+886
+(ii)The Company will operate News12 in accordance with the existing News12 Business Plan through the Closing.
+
+
+(iii)Either party may make reference to Section 6.4(f) and to Schedule 6.4(f) of the Company Disclosure Letter in connection with securing franchise and other regulatory approvals.
+
+
+[11]As referenced in Section 6.4(f), the Merger Agreement incorporated the News12 Business Plan in Schedule 6.4(f). Among other things, that plan provides for News12 to employ a full-time equivalent headcount of 462 employees for a five-year period-plan years 2016 through 2020. The Business Plan also confirms that Altice will not materially modify News12’s content or decrease any of the budgeted expenses, unless News12 should sustain a loss of $60 million or more, in which case Altice would be free to modify the plan as needed.
+
+
+[12]Although, as a practical matter, the Dolan family and News12 employees are the beneficiaries of Section 6.4(f), the Merger Agreement, at Section 9.8, disclaims the existence of third-party beneficiaries:
+
+
+Except (i) as provided in Section 6.10 (Director and Officer Liability) or Section 9.15 (Financing Sources) and (ii) for the right of holders of Shares as of the Effective Time, after the Effective Time, to receive the aggregate consideration payable pursuant to Article IV of this Agreement, which rights set forth in clauses (i) and (ii) of this Section 9.8 are hereby expressly acknowledged and agreed by Parent and Merger Sub, Parent and the Company hereby agree that their respective representations, warranties and covenants set forth in this Agreement are solely for the benefit of the other party hereto, in accordance with and subject to the terms of this Agreement, and this Agreement is not intended to, and does not, confer upon any Person other than the parties hereto any rights or remedies hereunder, including the right to rely upon the representations and warranties set forth herein . . . . The representations and warranties in this Agreement are the product of negotiations among the parties hereto and are for the sole benefit of the parties hereto.
+
+
+[13]The Merger Agreement also contains a survival provision at Section 9.1:
+
+
+This Article IX and the agreements of the Company, Parent and Merger Sub contained in Article IV and Sections 6.8 (Employee Benefits), 6.9 (Expenses) and 6.10 (Director and Officer Liability) shall survive the consummation of the Merger and the Transactions. This Article IX and the agreements of the Company, Parent and Merger Sub contained in Section 6.9 (Expenses), Section 6.11 (Financing), Section 6.12 (Indemnification Relating
+887
+to Financing) and Section 8.5 (Effect of Termination and Abandonment) and the Confidentiality Agreement shall survive the termination of this Agreement. All other representations, warranties, covenants and agreements in this Agreement shall not survive the consummation of the Merger and the Transactions or the termination of this Agreement.
+
+
+[14]As the provision clearly reflects, the Parties agreed that only certain covenants, representations, warranties and agreements would survive the consummation or termination of the Merger. Section 6.4(f) was not among them.
+
+
+[15]Finally, the parties agreed in Section 6.8(e), entitled “Employee Benefits,” that:
+
+
+Nothing contained in this Agreement is intended to (1) be treated as an amendment of any particular Company Plan, (2) prevent Parent, the Surviving Corporation or any of their Affiliates from amending or terminating any of their benefit plans or, after the Effective Time, any Company Plan in accordance with their terms, (3) prevent Parent, the Surviving Corporation or any of their Affiliates, after the Effective Time, from terminating the employment of any Continuing Employee, or (4) create any third-party beneficiary rights in any employee of the Company or any of its Subsidiaries, any beneficiary or dependent thereof, or any collective bargaining representative thereof.
+
+
+D.News12 after the Merger
+
+
+[16]In the spring of 2017, after the Merger closed, Altice terminated approximately 70 employees, allegedly “in direct violation of Section 6.4(f).” At the time, Patrick Dolan was President of News12 and opposed the layoffs to no avail. The layoffs decreased News12’s salary spend by about $7 million—dropping Operating Expenses to levels under the allocations in Section 6.4(f).
+
+
+[17]After the 2017 layoffs, Altice developed a plan to lay off 10% of News12 employees each year. On August 21, 2018, Altice’s controlling stockholder, Patrick Drahi, wrote to Patrick Dolan to confirm the planned layoffs. The downsizing plan contemplates that McVey and Campbell will be among the first of the News12 employees to lose their jobs. Michael Schreibner, President of Altice USA News, explained that the layoffs were necessary to give News12 a “fresh look.” According to Plaintiffs, the termination of long-time, beloved news anchors, coupled with the planned structural changes, will negatively affect News12’s ability to maintain its historic level of quality and hyperlocal news content.
+
+
+888
+E.Procedural Posture
+
+
+[18]On September 4, 2018, Plaintiffs initiated this action specifically to enforce Section 6.4(f) and to enjoin Altice from terminating any News12 employee other than “for obvious cause” or otherwise operating News12 in deviation of the News12 Business Plan as incorporated in the Merger Agreement. Plaintiffs amended their Complaint to add Danielle Campbell as a plaintiff on October 1, 2018. Defendants then moved to dismiss. By stipulation of the parties, Plaintiffs filed the now-operative Verified Second Amended Complaint (the “Complaint”) on March 12, 2019, to include a request that the Court appoint a monitor to enforce Altice’s specific performance of Section 6.4(f) and to enhance the allegations in support of their breach of the implied covenant of good faith and fair dealing claim.
+
+
+[19]In the Complaint, Plaintiffs assert six causes of action: breach of contract, breach of the implied covenant of good faith and fair dealing, equitable fraud, promissory estoppel, negligent misrepresentation, and declaratory relief. Plaintiffs seek specific performance, injunctive relief, monetary damages, recoverable costs, attorneys’ fees and pre-judgment and post-judgment interest.
+
+
+[20]Plaintiffs filed a Motion for a Temporary Restraining Order on October 9, 2018, along with their initial complaint. After several hearings to consider that motion were adjourned, the parties submitted a proposed status quo order. The Court entered that order on February 13, 2019, prohibiting Altice from terminating any News12 employee during the pendency of this litigation, except for actual, bona fide cause or upon approval of the Court.
+
+
+II.ANALYSIS
+
+
+[21]In considering a motion to dismiss, “(i) all well-pleaded factual allegations are accepted as true; (ii) even vague allegations are ‘well-pleaded’ if they give the opposing party notice of the claim; [and] (iii) the Court must draw all reasonable inferences in favor of the non-moving party[.]” This is to say, “Delaware follows a simple notice pleading standard.” “To meet this standard and survive a Rule 12(b)(6) motion to dismiss, a plaintiff must make allegations in its complaint which provide the defendant with sufficient notice of the basis for the plaintiff’s claim.” The court may grant a motion to dismiss only if the “plaintiff would not be entitled to recover under any reasonably conceivable set of circumstances susceptible of proof.”
+
+
+[22]Questions of contractual interpretation generally are questions of law well suited for a motion to dismiss. With that said, the Court cannot select one reasonable interpretation of a contract provision over another as a basis for dismissal. Rather, “[d]ismissal, pursuant to Rule 12(b)(6), is proper only if the defendants’ interpretation is the only reasonable construction as a matter of law.”
+
+
+889
+A.Have Plaintiffs Adequately Pled A Breach of Section 6.4(f)?
+
+
+[23]Not surprisingly, as with most contracts, the Merger Agreement features some boilerplate, some bespoke provisions and some bespoke boilerplate. The question presented here is whether the boilerplate and bespoke boilerplate should be construed, as a matter of law, to render a bespoke provision superfluous. I consider that question, in parts, below.
+
+
+1.The Dolan Family Have Adequately Pled They Are Third-Party Beneficiaries; McVey and Campbell Have Not
+
+
+[24]As a threshold matter, the parties dispute Plaintiffs’ standing to bring contractual claims as third-party beneficiaries to the Merger Agreement. Since Plaintiffs were not parties to the Merger Agreement, they must demonstrate they have standing to enforce the contract as third-party beneficiaries. To do so at this stage, Plaintiffs must plead facts that allow a reasonable inference that:
+
+
+(i) the contracting parties [ ] intended that the third party beneficiary benefit from the contract, (ii) the benefit [was] intended as a gift or in satisfaction of a pre-existing obligation to that person, and (iii) the intent to benefit the third party [was] a material part of the parties’ purpose in entering into the contract.
+
+
+[25]For the first element, Plaintiffs have adequately pled the parties intended that Plaintiffs benefit from Section 6.4(f) of the Merger Agreement. As for the Dolan family, they allege they would not have agreed to include News12 in the transaction if Altice had not agreed to operate the stations in accordance with the News12 business plan, as promised in Section 6.4(f). As for McVey and Campbell, they allege the News12 business plan contains expenditures for newsgathering and production—the bulk of which goes to employee salaries. The News12 business plan protects these salaries with particular line items by department and an incorporated estimate of $60 million in losses over five years.
+
+
+[26]The Dolan family also adequately allege that Section 6.4(f) was intended to meet a preexisting commitment made to them and that Altice intended “to give the[m] (as beneficiar[ies]) the benefit of the promised performance.” Here again, the Dolan family alleges they agreed to sell News12 only because Altice made the commitment that it would operate News12 within clearly expressed parameters. They then agreed by Written Consent to vote their Class B shares “in favor of adoption of the Merger Agreement” in reliance upon that commitment.
+
+
+[27]McVey and Campbell part ways with the Dolan family in the third-party beneficiary analysis on this second element. The Complaint contains no well-pled facts that Altice made any commitment or owed any “pre-existing obligation” to either McVey or Campbell prior to the Merger Agreement from which they could claim third-party beneficiary status with
+890
+respect to Section 6.4(f). This would explain why Section 6.8(e) of the Merger Agreement makes clear that Altice is not “prevent[ed] . . . from terminating the employment of any Continuing Employee (by definition including McVey and Campbell).” While the Dolan family may be able to advance an argument that the termination of McVey and Campbell’s employment with News12 would constitute a breach of Section 6.4(f) as to them, McVey and Campbell have no standing to assert that claim of breach either as parties to, or third-party beneficiaries of, the Merger Agreement.
+
+
+[28]Lastly, it is alleged that Section 6.4(f) was included in the Merger Agreement to induce the Dolan family to sell their Cablevision stock, merge Cablevision and News12 into Altice and sign the Written Consent in favor of the Merger Agreement. Under the circumstances, it is reasonably conceivable that “the intent to benefit the third party [was] a material part of the parties’ purpose in entering into the contract.”
+
+
+[29]The Dolan family has well pled each of the three requisite elements to establish third-party beneficiary status. But, of course, the inquiry cannot end there. Section 9.8 of the Merger Agreement states, in part, that the parties “agree that their respective representations, warranties and covenants set forth in this Agreement are solely for the benefit of the other party hereto, in accordance with and subject to the terms of this Agreement, and this Agreement is not intended to, and does not, confer upon any Person other than the parties hereto any rights or remedies hereunder.” While Section 9.8 is not absolute, it clearly does not identify the Dolan family as third-party beneficiaries. Recognizing this, the Dolan family invoke the canon that a specific provision of a contract trumps a general one in order to argue that Section 6.4(f) trumps Section 9.8. That canon does not fit here, however, because both sections are specific. Section 6.4(f) is specific in providing detailed rights that expressly benefit non-parties to the contract; Section 9.8 is specific in identifying who is and who is not intended to be a third-party beneficiary of the contract. Canons of contract construction, alone, cannot render unambiguous two specific and yet conflicting contractual provisions.
+
+
+[30]The goal of contract construction in instances like this is to “harmonize” related contractual provisions. That simply cannot be done here by looking only within the four corners of the Merger Agreement. Extrinsic evidence will be needed to determine what Section 6.4(f) was intended to mean and how, if at all, it is to be enforced.
+
+
+2.Plaintiffs Adequately Allege Section 6.4(f) Survived the Closing of the Merger
+
+
+[31]For the Dolan family’s claims under the Merger Agreement to survive Defendants’ motion, it must be reasonably conceivable that Section 6.4(f) survived the Closing. Specifically, it must be reasonably conceivable that Section 9.1, the survival provision, did not apply to Section 6.4(f).
+891
+Defendants assert that, even if the Dolan family has standing, Section 6.4(f) did not survive Closing because it was not one of the sections designated for survival in Section 9.1.
+
+
+[32]The parties offer conflicting interpretations of Section 6.4(f). The Dolan family reads Section 6.4(f) as clearly surviving Closing—why else would such a detailed, heavily negotiated provision with an accompanying schedule and five-year life span be included in the Merger Agreement? Defendants counter that Section 6.4(f) was simply a goodwill gesture and was in no way meant to bind Altice before or after the Merger closed. In reply, the Dolan family point out that Section 6.4(f) is not drafted as an expression of good will. Instead, it is drafted to state an obligation—“Parent will operate News12 in accordance with the existing News12 business plan . . . .”
+
+
+[33]For Defendants to prevail on their motion to dismiss, theirs must be the only reasonable constructions of Section 6.4(f) and Section 9.1 as a matter of law. That definitive construction is not possible here. Defendants’ construction fairly tracks the plain language of Section 9.1, but their construction of the interaction between Section 9.1 and Section 6.4(f) renders Section 6.4(f) superfluous in the sense that it is entirely unenforceable—by anyone. That result is inconsistent with the contractual cannon that discourages the court from construing a contract in a way that results in “mere surplusage.” It also creates an arguably “absurd result” by rendering meaningless the protections the Dolan family allege they bargained for with respect to News12.
+
+
+* * * * * *
+
+
+[34]The Merger Agreement is ambiguous with respect to whether Section 6.4(f) is: (a) enforceable by the Dolan family as third-party beneficiaries, and (b) enforceable as a covenant that survived the Closing of the Merger. Accordingly, the motion to dismiss Counts I and VI must be denied as to the Dolan family. As neither McVey nor Campbell have standing to enforce the Merger Agreement, however, Counts I and VI must be dismissed as to them.
+
+
+B.Plaintiffs Have Not Stated A Claim for Breach of the Implied Covenant of Good Faith and Fair Dealing
+
+
+[35]Plaintiffs allege that Altice breached the Merger Agreement’s implied covenant of good faith and fair dealing by promising pre-Closing to perform obligations to Cablevision and its stockholders while attempting to avoid this obligation after obtaining control of Cablevision, thereby “frustrating the essential purpose of Section 6.4(f).” The implied covenant is a “limited and extraordinary” legal remedy. It adheres only when “the contract is truly silent with respect to the matter at hand, and only when
+892
+the court finds that the expectations of the parties were so fundamental that it is clear that they did not feel a need to negotiate about them.”
+
+
+[36]Plaintiffs have not adequately identified any “gap” in the Merger Agreement that the Parties failed to anticipate and address. According to Plaintiffs, the alleged “gap” is revealed in the Merger Agreement’s failure to identify who has standing to enforce Section 6.4(f) in the event of breach. I reject this argument as a matter of law. Section 9.8 clearly addresses standing under the Merger Agreement. This Court “will not rewrite contractual language covering particular topics [under the guise of the implied covenant] just because one party failed to extract as complete a range of protections as it, after the fact, claims to have desired during the negotiation process.” Thus, Count II must be dismissed because it is duplicative of Plaintiffs’ breach of contract claim. If the Dolan family is to have a right to enforce Section 6.4(f), that right will have to flow from parol evidence that allows the Merger Agreement reasonably to be construed to provide for that right.
+
+
+C.The Dolan Plaintiffs Have Not Stated A Claim For Equitable Fraud Or Negligent Misrepresentation
+
+
+[37]The claims for equitable fraud and negligent misrepresentation are not well pled both because they are bootstrapped improperly to the breach of contract claim and they rest on a flawed premise—that there was some sort of legally cognizable special relationship between Altice and the Dolan family.
+
+
+[38]Conclusory allegations that a party to a contract did not intend to perform at the time of the contract’s making do not state a claim for equitable fraud and negligent misrepresentation. These types of allegations, instead, reflect nothing more than a plaintiff’s improper attempt to “bootstrap” breach of contract claims with fraud-based claims.
+
+
+[39]Moreover, the Dolan family’s equitable fraud/negligent misrepresentation claims fail as a matter of law because, in the context of a commercial arm’s-length transaction, there is no “special relationship” between Altice and the Dolan family as required by Delaware law. “[A] plaintiff claiming equitable fraud must sufficiently plead a special relationship between the parties or other special equities, such as some form of fiduciary relationship or other similar circumstances.” Cablevision and the Dolan family are sophisticated parties represented by sophisticated counsel. They bargained with Altice at arm’s-length. There is no special relationship here. Therefore, Counts III and V must be dismissed.

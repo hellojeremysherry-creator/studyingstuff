@@ -1,0 +1,743 @@
+﻿385
+Chapter 14: The Parol Evidence Rule
+
+
+■   ■   ■
+
+
+The parol evidence rule is traditionally one of, if not the, most difficult doctrines of a law school first-year contracts course. The rule is fairly simply stated, but is riddled with exceptions and seeming exceptions that have grown up around it as the courts have wrestled with circumstances in which strict application of the rule would seem to produce unjust results. Like the statute of frauds and the rule against perpetuities, the parol evidence rule is now largely a creature of American law, having been adopted in the R2d and the U.C.C. and excluded from the CISG and UNIDROIT as well as the laws of the civil law countries. See CISG article 11, UNIDROIT article 1.2.
+
+
+Keep in mind that “parol evidence” is the same thing as “extrinsic evidence”—it is evidence of any sort (not just oral statements) that is not a part of the writing that is claimed to be an integrated agreement. The parol evidence rule concerns whether or not a court will admit evidence of prior or contemporaneous agreements when determining what the terms of the parties’ agreement are when there is a written contract.
+
+
+If the written contract was intended by the parties as the final and complete expression of the terms (the R2 refers to this as a “completely integrated agreement”), then no terms from any prior or contemporaneous agreement are relevant, even if they address issues not dealt with in the written document. The completely integrated agreement essentially wipes out all those prior or contemporaneous agreements. If the written document was intended to be the final expression of some but not all of the terms of the transaction (the R2d refers to this as a “partially integrated agreement”), then terms from prior or contemporaneous agreements will not be given effect if they are inconsistent with the terms of the written document, but they may be given effect if they deal with issues not dealt with in the written document.
+
+
+For example, Holmes and Watson make a deal for Watson’s purchase of Holmes’ Stradivarius. They sign a document setting out most of the terms of the deal but failing to address the issue of when the violin will be delivered. If the court determines that the document is only partially integrated, it can give effect to Holmes’ testimony that before they signed the document they agreed that Holmes could keep the violin until the
+386
+Queen’s birthday. If the document is completely integrated, this prior agreement has no effect.
+
+
+In Individual Healthcare Specialists, Inc. v. BlueCross BlueShield of Tennessee, Inc., the Supreme Court of Tennessee noted the significant policy reasons for the parol evidence rule:
+
+
+A strict enforcement of [the parol evidence] rule tends to greater security and safety in business transactions, and leaves less opportunity for dishonesty and false swearing, induced, perhaps, by a change of purpose or a failure to obtain the result that was anticipated when the transaction was originally consummated and reduced to writing.
+
+
+Individual Healthcare Specialists, Inc. v. BlueCross BlueShield of Tennessee, Inc., 566 S.W.3d. 671, 695 (Tenn. 2019) (quoting McGannon v. Farrell, 141 Tenn. 631, 214 S.W. 432, 433 (Tenn. 1919)).
+
+
+From these general statements of the parameters of the rule, then, a number of sub-issues present themselves and are explored in the cases and problems that follow. Remember:
+
+
+1.The parol evidence rule is concerned with what evidence will be admitted to prove what the terms of an integrated agreement are. It does not bar parol evidence proffered for another purpose (such as to prove a defense to formation like misrepresentation, fraud, or duress; or to prove whether the agreement is integrated, partially or completely, or not). As such, although it is a substantive rule of law, it is one to be applied by the court as a preliminary evidentiary matter and is not a question for the jury.
+
+
+2.The parol evidence rule applies only to integrated agreements: those intended by the parties to express either the final terms agreed to about a portion of their arrangements or relationship (partial integration) or the full scope of their arrangements or relationship regarding a particular subject matter (complete integration). If the agreement is not integrated, the rule has no application. An integration or merger clause—one stating that the agreement constitutes the parties’ entire agreement with regard to its subject matter and that all prior and contemporaneous agreements regarding its subject matter, if any, are discharged and of no further force or effect—is compelling but not dispositive evidence of integration.
+
+
+Thus, the general parol evidence rule analysis should proceed as:
+
+
+A.Is the proffered parol evidence of a prior or contemporaneous agreement?
+
+
+387
+B.If so, is it offered to prove the terms of the parties’ contract?
+
+
+C.If so, is the written agreement partially or completely integrated? If partially integrated, the evidence is barred to the extent it would vary or contradict the terms, but may be admissible to supplement or explain the terms. If the agreement is completely integrated, the evidence is barred.
+
+
+The steps of this analysis can also be inverted and performed C, B, A. The specific formulation of this analysis varies between the R2d, the U.C.C., and the case law of various jurisdictions. The exact language of the relevant jurisdiction for each step should be substituted as appropriate. The cases that follow illustrate the parol evidence rule in action.
+
+
+———
+
+
+Federal Deposit Insurance Corp.1 v. Hadid
+
+
+United States Court of Appeals, Fourth Circuit
+947 F.2d 1153 (1991)
+
+
+Niemeyer, Circuit Judge.
+
+
+[1]On a complaint filed by the National Bank of Washington (NBW) to collect on two promissory notes that Mohammed Anwar M. Hadid guaranteed, a jury found in favor of Hadid, crediting his testimony of an oral agreement by which his guarantees would become null and void if he were not given control of stock which secured the notes. On NBW’s motion for judgment notwithstanding the verdict, the district court found that the oral agreement violated the parol evidence rule and entered judgment against Hadid in the amount of $1,854,875.03 on the notes plus $272,035.26 in attorneys’ fees. The Federal Deposit Insurance Corporation (FDIC) succeeded to the judgment when it declared NBW insolvent in August 1990. Hadid contends on appeal that the facts surrounding application of the parol evidence rule were properly submitted to the jury and should have been left for the jury to determine.
+
+
+[2]For the reasons that follow, we affirm the judgment of the district court on the notes but reverse with respect to the amount of the award for attorneys’ fees.
+
+
+I
+
+
+[3]As evidence of the debt arising from two loans made by NBW to Keystone Financial Corporation (Keystone) and P.S. Investment Co., Inc. (P.S. Investment) in 1986, NBW accepted two promissory notes. The one
+388
+signed by Keystone was in the amount of $1,314,209.75 and its repayment was secured by a pledge of the common stock in McDowell Enterprises, Inc. Repayment of that note was also guaranteed by Dr. P.S. Prasad and Bert Lance.2 The second, signed by P.S. Investment, was in the amount of $200,000.00, and its repayment was guaranteed by Dr. Prasad and his wife. Dr. Prasad owned both Keystone and P.S. Investment.
+
+
+[4]The loans, which were short-term, were extended by NBW on several occasions in 1986 and early 1987, but in August 1987 NBW demanded full repayment. At that time, Dr. Prasad proposed several arrangements for restructuring the loans, one of which provided that Hadid would become a new guarantor. Hadid was a well-known customer of NBW, whose creditworthiness was known to the bank. The bank therefore accepted the proposal. The agreed terms for the restructuring of the loans were set forth in two written Renewal and Extension Agreements dated November 30, 1987.
+
+
+[5]The Renewal and Extension Agreement for each loan is prefaced by introductory provisions which describe the history of the loan, the security, the guarantors and the request for restructuring. In addition to setting forth the terms of restructuring, each agreement refers to a new promissory note and guarantee to be executed simultaneously. Both agreements provide that District of Columbia law shall govern. The Renewal and Extension Agreement applicable to the Keystone loan contains an additional section that provides that the pledge agreement granting NBW a security interest in the McDowell stock “shall remain in full force and effect.” J.A. 221.
+
+
+[6]Despite the extensions granted by the Renewal and Extension Agreements, the loans were not paid by either the principals or guarantors and NBW filed suit to enforce the notes and guarantees. Hadid defended the claims against him by alleging that he should be released from his guarantees because NBW failed to release to him the McDowell stock that had been pledged to NBW. He alleged that an oral agreement was reached when the Renewal and Extension Agreements were negotiated, that he would be given control over the stock and, if not, his guarantee would be null and void. NBW disputed this claim. In addition to denying that any such agreement was ever made, NBW presented evidence that Hadid never asserted the existence of any oral agreement at any time after the Renewal and Extension Agreements were executed, including each occasion when demand on the notes was made and when thereafter he made payments of interest and gave assurances of repayment. Crediting Hadid’s oral agreement, the jury returned a verdict in his favor.
+
+
+389
+[7]Before the commencement of trial, NBW filed a motion in limine3 seeking a ruling that the parol evidence rule barred Hadid from introducing evidence at trial that NBW had orally agreed to release the stock to him. The district court took the matter under advisement so that it could receive evidence on the issue. When NBW renewed this defense in a motion for a directed verdict, the district court again deferred ruling, stating that it would let the case be presented to the jury and would take up the question “on a post-trial motion if the verdict is adverse to [NBW].” J.A. 164. When the jury returned a verdict in favor of Hadid, the district court granted NBW’s motion for a judgment notwithstanding the verdict, finding: 1) that the Renewal and Extension Agreements were fully integrated agreements and 2) that the proffered oral agreement conflicted with the express terms of the written ones. Applying the parol evidence rule applicable in the District of Columbia, the district court rejected Hadid’s defense based on the oral agreement as a matter of law and entered judgment in favor of NBW on the notes.
+
+
+* * *
+
+
+[8]After judgment was entered in this case, the Controller of the Currency declared NBW insolvent, closed the bank and appointed the FDIC as receiver. On August 23, 1990, the district court substituted FDIC for NBW in this action.
+
+
+II
+
+
+[9]“[The parol evidence] rule provides that when parties to a contract have executed a completely integrated written agreement, it supersedes all other understandings between the parties. Thus, the writing itself is viewed as the expression of the parties’ intent.” [Ozerol v. Howard University] 545 A.2d at 641 (citing Restatement (Second) of Contracts § 213 (1979)). Those principles, moreover, are not atypical. Professor Williston has more generally summarized the principle: “ ‘Where parties, without fraud or mistake, have reduced to writing a contract, it is presumed alone to express the final conclusion reached, and all previous and contemporaneous oral discussion, or written memoranda, are assumed to be either rejected or merged in it.’ ” 4 S. Williston, A Treatise on the Law of Contracts § 632A, at 984 (3d ed. 1961). Williston goes on to point out that when the writing is complete on its face and is certain and definite as to the objects of the agreement, the writing is “conclusively presumed” to be the entire contract between the parties, which cannot be contradicted or modified by parol or extrinsic evidence. Id. at 985.
+
+
+[10]Whether an agreement is integrated is a factual question that “depends on the intent of the parties [as revealed by the writing itself], the conduct and language of the parties, and the surrounding circumstances.”
+390
+Ozerol, 545 A.2d at 641. The application of the parol evidence rule, however, is a question for resolution by the court, not the jury, and, as is the case with any question for the court, it is the court and not the jury which resolves disputed facts on the point. See id. at 643 (“question of integration . . . is for the trial court to determine as ‘a question of fact. . . .’ ”) (quoting Restatement (Second) of Contracts § 209 cmt. c (1979)). If, after resolving disputed facts, the court finds that the transaction is intended to be covered by the writing, only the writing is considered by the jury in resolving liability. The court does not, and need not, decide that the oral agreement was not made. Rather, it decides only that the oral agreement is irrelevant to liability on the writing. Similarly, if the court concludes that the writing is not integrated, it does not decide that the oral agreement was made. It commits that issue to the jury. Id. at 642.
+
+
+[11]While the preferred practice under District of Columbia law is to make and resolve any objection on parol evidence preliminarily, it nevertheless permits the issue to be raised for the first time on a motion for directed verdict, since the rule is a matter of substantive law and not merely a rule of evidence. In any event, when the trial court resolves the factual question of whether the written agreement is integrated, our standard of review, as a matter of federal law, is whether the findings are clearly erroneous.
+
+
+[12]In this case we cannot, and do not, conclude that the trial court’s findings are clearly erroneous. The court found first, on the basis of all the evidence presented at trial, that the Renewal and Extension Agreements dated November 30, 1987, were fully integrated agreements. All prior understandings between the parties, including the promissory notes, the pledge agreements, and the guarantees, were reduced to formal written agreements, and no evidence suggests that any understanding prior to the Renewal and Extension Agreements was governed by oral agreements. As sophisticated businessmen, the parties not only documented their understandings on virtually all points, they retained attorneys to draft documents and have them executed formally, with witnessing and, in the case of corporations, attestation. Particularly in light of the fact that one of the formal agreements between the parties specifically addressed the continuation of the McDowell stock-pledge agreement, one would expect that other agreements reached at the time of negotiations regarding the role of the McDowell stock would also have been reduced to writing if the parties intended them to be legally binding. A different analysis would make written instruments of little value and increase the temptation to commit perjury or simply to restate agreements to the liking of the parties.
+
+
+[13]The district court also determined that even if the agreements were not fully integrated, the oral agreement proffered by Hadid conflicted with the terms of the written Renewal and Extension Agreement for the Keystone loan. Hadid testified that an oral agreement, reached at the time
+391
+he signed the Renewal and Extension Agreements, provided that he would receive “control over the McDowell stock” so that he could “sell it” if necessary, and if he did not receive control over the McDowell stock, the guarantees were null and void. The purported oral agreement to give Hadid “control over the McDowell stock” is directly inconsistent with the express language of the Renewal and Extension Agreement for the Keystone loan providing that the pledge agreement involving the McDowell stock in favor of NBW “shall remain in full force and effect.” To continue the perfection of the pledge agreement and NBW’s security interest in the stock, NBW would have to retain possession of the stock. See 28 D.C. Code Ann. § 9–304(1) (1991) (D.C.’s version of the Uniform Commercial Code). Any control by Hadid, therefore, would have conflicted with NBW’s security interest as preserved by the written instruments.4
+
+
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED WITH INSTRUCTIONS.
+
+
+———
+
+
+Notes and Questions
+
+
+1.Read carefully R2d §§ 213(1), 213(2), 209, and 210, which define “integrated agreement” and “completely integrated agreement.” As stated this way, the parol evidence rule is fairly straightforward. The tough issues are (1) when is an agreement “completely integrated”? (2) when is the prior agreement “inconsistent”? and (3) when is the prior agreement “within the scope” of a completely integrated agreement?
+
+
+2.In the first paragraph of the FDIC v. Hadid opinion, the court says “the district court found that the oral agreement violated the parol evidence rule.” Can an agreement “violate the parol evidence rule” or was the court being sloppy in its language?
+
+
+3.You should always, always, always put a merger or integration clause in your documents. If there had been one in the guaranties that Mr. Hadid signed, the bank (and the FDIC) might well have been able to avoid the expense of a trial and an appeal. Historically, for an unknown reason, guaranties have often not featured merger clauses. This began to change after the savings and loan crisis of the late 1980s during which not all the cases were resolved in favor of the banks or the government receivers.
+
+
+392
+4.A typical merger or integration clause reads:
+
+
+This Agreement is the final, complete, and exclusive expression of the terms of the Agreement between the parties pertaining to [describe scope of agreement, e.g., the lease of 1401 Laurel Avenue] and supersedes all prior and contemporaneous understandings or agreements of the parties.
+
+
+Note how the language used in the clause tracks the language of R2d §§ 209 and 210 and U.C.C. § 2–202. This is an example of drafting a contract provision to incorporate or trigger a legal standard or doctrine. If you know a legal rule, you generally either want to fall squarely within its application or to avoid it entirely. Uncertainty of coverage is time consuming and expensive in negotiations and litigation.
+
+
+5.Note that it may be possible to defeat an integration clause and the parol evidence rule by pleading fraudulent inducement to enter into the contract in the first place. See Riverisland Cold Storage, Inc. v. Fresno-Madera Credit Assn., 55 Cal. 4th 1169 (2013).
+
+
+6.Another doctrine, called the D’oench (pronounced “D-ench”) doctrine also bars evidence of secret side agreements to defend against claims by banks and other institutions that have come under receivership or otherwise been taken over by federal regulators. See Winterbrook Realty, Inc. v. FDIC, 820 F. Supp. 27 (D.N.H. 1993) (discussing evolution, application, and policy justifications for D’oench doctrine); see also 12 U.S.C. § 1823(e) (limiting enforcement of secret or side agreements). In these situations, it is said that the doctrine determines which of the two “innocents”—the FDIC or the bank customer—should bear the costs of the failed institution’s wrongs. If the customer bears any blame for his or her own predicament (e.g., by failing to get the side agreement in writing), the scales tip in favor of the FDIC, and the D’oench doctrine bars the claim or defense.
+
+
+7.The parol evidence rule is not just a rule for commercial or civil lawyers. It applies to criminal cases involving agreements, most notably settlement or plea bargain agreements, as the next case demonstrates.
+
+
+———
+
+
+United States v. Fentress
+
+
+United States Court of Appeals, Fourth Circuit
+792 F.2d 461 (1986)
+
+
+Wilkinson, Circuit Judge:
+
+
+[1]Robert Mark Fentress appeals from judgments of conviction entered by the U.S. District Court for the Western District of North Carolina upon Fentress’ guilty pleas. He argues that the prosecution breached a plea agreement by recommending to the court that Fentress be compelled to compensate the victims of his crimes and by further
+393
+recommending that Fentress’ prison sentence begin after he had completed his current period of incarceration for an unrelated felony. Fentress also argues that the district court erred in the process by which it accepted his pleas and ordered him to make restitution. As we find no prosecutorial violation of the agreement and no prejudicial departure from proper plea procedures, we affirm.
+
+
+I
+
+
+[2]On March 4, 1985, Fentress and his lawyer entered into a written plea bargain with an Assistant United States Attorney. In the agreement, Fentress promised to plead guilty to one armed bank robbery in violation of 18 U.S.C. § 2113(a) in the case docketed as C–CR–84–118, and to one bank robbery in violation of 18 U.S.C. § 2113(b) in the case docketed as C–CR–84–119. Fentress also promised to plead guilty to six other violations of 18 U.S.C. § 2113(b). Conviction under § 2113(a) authorizes a fine not exceeding $5000, a term of imprisonment not exceeding twenty years, or both of these punishments; conviction under § 2113(b) authorizes a fine not exceeding $5000, a term of imprisonment not exceeding ten years, or both of these punishments. For either offense, the court may order the perpetrator to make restitution to the victims of the theft. See 18 U.S.C. § 3579.
+
+
+[3]The prosecution promised in the plea agreement to suggest to the court that any sentence imposed in case C–CR–84–119 “not exceed 5 years imprisonment, thereby recommending that the term of imprisonment for the two counts to which the defendant pleads guilty in indictments C–CR–84–118 and C–CR–84–119 should not exceed 25 years.” It was thus expressly contemplated that those two terms would run consecutively. For the other six violations of 18 U.S.C. § 2113(b), the prosecution promised to “recommend that the sentences imposed upon defendant’s plea of guilty . . . be made to run concurrently with each other and to also run concurrently with any sentence imposed upon defendant’s plea of guilty to Indictments in cases numbered C–CR–84–118 and C–CR–84–119.” These were the only positions to which the prosecution bound itself on the punishment of Fentress. Nothing was mentioned about the relationship between the proposed sentence here and a twelve-year federal sentence that Fentress was already serving for a bank robbery in Georgia. The agreement specifically provided that “This document contains the full and complete agreement between the parties, and no promises or representations have been made except as are incorporated herein.”
+
+
+[4]The Assistant United States Attorney presented the parties’ deal to the district court and introduced testimony showing the factual basis for the guilty pleas, including a report that Fentress had stolen $37,844.61,
+394
+but the government had recovered only $239.00. Alluding to this evidence in his comments on the appropriate sentence, the prosecutor argued that
+
+
+[T]he agreement does not speak to other forms of punishment, in addition to the time limits or time frame that’s stated in the agreement. The agreement does not speak to the other forms of punishment that you might impose, such as restitution. Any amount of money this man makes during prison, for example, might be appropriately used to offset the amount of money that he took. The fine itself is about $40,000.005 in this case as it relates to the eight bank robberies, eight times the $5,000.00 for each one. Those are other possibilities, Judge, that I would bring to your attention, as I’m sure you have already considered. We do urge you to run whatever time you impose on [case C–CR–84–119] consecutively to the time that is imposed on [case C–CR–84–118], and we urge the Court to run all this time consecutively to the time that he is facing in Georgia, the twelve years that he faces down there.
+
+
+[5]The district court subsequently did sentence Fentress in C–CR–84–118 to a twenty-year term of imprisonment that would be followed by a five-year term of imprisonment for the charge in C–CR–84–119. This time would be in addition to that served for the Georgia felony. For each of the other six robberies, the court ordered five-year sentences to be served concurrently with the incarceration under C–CR–84–118 and C–CR–84–119. The court also ordered Fentress to make restitution to each of the robbed banks. Fentress now appeals.
+
+
+II
+
+
+[6]Fentress first protests that the prosecution breached the plea agreement by asking the district court to order restitution and consecutive sentences. Evaluation of this argument turns on the correct interpretation of the agreement in which the parties defined their commitments. In that analysis, “we must apply fundamental contract and agency principles to plea bargains as the best means to fair enforcement of the parties’ agreed obligations.” United States v. McIntosh, 612 F.2d 835, 837 (4th Cir. 1979). Accordingly, “any dispute over the terms of the agreement is to be resolved by objective standards.” United States v. Krasn, 614 F.2d 1229, 1233 (9th Cir.1980).
+
+
+[7]These standards indicate that the prosecutor’s comments did not violate the plea bargain. Everything the government promised to do, it did. The government kept its promises on the proposed length of imprisonment for C–CR–84–119 and on the proposed overlap among the sentences for violation of 18 U.S.C. § 2113(b). The government simply made no other
+395
+guarantees about its conduct, as Fentress himself acknowledged when he agreed to the “merger” clause of the plea bargain instrument. Perhaps for that reason, Fentress did not object when the Assistant United States Attorney argued for restitution and consecutive sentences or when the district court imposed these penalties. Certainly Fentress has never suggested that the prosecution articulated any further representations. Fundamental contract principles establish that the written plea bargain was “adopted by the parties as a complete and exclusive statement of the terms of the agreement.” Restatement (Second) of Contracts § 210 (1981). As a fully integrated agreement, the described exchange may not be supplemented with unmentioned terms. Id. at § 216. Fentress’ newly suggested provision, that the prosecution would offer no recommendations other than those identified in the plea bargain instrument, therefore cannot stand.
+
+
+[8]This conclusion from the law of contracts carries over to the law of criminal procedure. The prosecution owed Fentress no duty but that of fidelity to the agreement. Neither the Constitution nor the Federal Rules of Criminal Procedure requires that a plea agreement must encompass all of the significant actions that either side might take. If the agreement does not establish a prosecutorial commitment on the full range of possible sanctions, we should recognize the parties’ limitation of their assent. Courts have regularly upheld analogous prosecutorial measures that were not precluded by agreement. While the government must be held to the promises it made, it will not be bound to those it did not make. To do otherwise is to strip the bargaining process itself of meaning and content.
+
+
+[9]As the Supreme Court noted in Santobello v. New York, 404 U.S. at 261, 92 S.Ct. at 498, the considerations underlying enforcement of a plea bargain “presuppose fairness in securing agreement between an accused and a prosecutor.” Fentress received fair treatment in this case. He was represented by an attorney throughout the negotiations and he has not questioned that the lawyer provided effective assistance within the sense described by Hill v. Lockhart, 474 U.S. 52, 106 S.Ct. 366, 88 L.Ed.2d 203 (1985). Fentress also brought to the plea negotiations, along with counsel, bargaining leverage that was commensurate with that of the prosecution, namely his right to force the prosecution to trial. Because Fentress’ deal was thus no less voluntary than any other bargained-for exchange, we abide by the precise terms of the agreement and find that the prosecution made no promises that were violated in the request for restitution and consecutive sentences.
+
+
+———
+
+
+396
+Notes and Questions
+
+
+1.The term “merger clause” comes from the idea that the prior agreements and discussions are merged forward into the written agreement. These clauses are also called “integration clauses” because they show the intent to have a completely integrated agreement.
+
+
+2.In another criminal case, Enricho Navarroli was charged by the state of Illinois with drug dealing. The state attorney general indicated to Mr. Navarroli that it would reduce the charges against him if he would assist in breaking up the drug operation. He accepted the offer, acted as an undercover operative for the state and, before the time came for him to plead guilty, the state had a change of heart and decided not to go easy on him. He objected and the trial court agreed, finding that he had relied on the bargain he had made with the state and had performed much of his duties under that contract. The Illinois Supreme Court reversed, holding that the state was not bound by the contract for reasons of public policy. People v. Navarroli, 121 Ill.2d 516, 118 Ill.Dec. 414, 521 N.E.2d 891 (1988). Had Navarroli completed his performance and pleaded guilty to whatever charges were brought, his due process rights should have protected him from a later change of heart by the state. The lesson here: if you are representing defendants, attempt to lock down the plea agreement as early as you can and, to the extent possible, obtain judicial approval or implementation of that agreement before allowing the defendant to substantially perform in reliance on the agreement. See generally E. Allen Farnsworth, Changing Your Mind: The Law of Regretted Decisions, at 2 and 203 (1998).
+
+
+———
+
+
+Masterson v. Sine
+
+
+Supreme Court of California
+68 Cal. 2d 222, 65 Cal. Rptr. 545, 436 P.2d 561 (1968)
+
+
+Traynor, Chief Justice.
+
+
+[1]Dallas Masterson and his wife Rebecca owned a ranch as tenants in common. On February 25, 1958, they conveyed it to Medora and Lu Sine by a grant deed “Reserving unto the Grantors herein an option to purchase the above described property on or before February 25, 1968” for the “same consideration as being paid heretofore plus their depreciation value of any improvements Grantees may add to the property from and after two and a half years from this date.” Medora is Dallas’ sister and Lu’s wife. Since the conveyance Dallas has been adjudged bankrupt. His trustee in bankruptcy and Rebecca brought this declaratory relief action to establish their right to enforce the option.6
+
+
+397
+[2]The case was tried without a jury. Over defendants’ objection the trial court admitted extrinsic evidence that by “the same consideration as being paid heretofore” both the grantors and the grantees meant the sum of $50,0007 and by “depreciation value of any improvements” they meant the depreciation value of improvements to be computed by deducting from the total amount of any capital expenditures made by defendants grantees the amount of depreciation allowable to them under United States income tax regulations as of the time of the exercise of the option.
+
+
+[3]The court also determined that the parol evidence rule precluded admission of extrinsic evidence offered by defendants to show that the parties wanted the property kept in the Masterson family and that the option was therefore personal to the grantors and could not be exercised by the trustee in bankruptcy.
+
+
+[4]The court entered judgment for plaintiffs, declaring their right to exercise the option, specifying in some detail how it could be exercised, and reserving jurisdiction to supervise the manner of its exercise and to determine the amount that plaintiffs will be required to pay defendants for their capital expenditures if plaintiffs decide to exercise the option.
+
+
+[5]Defendants appeal. They contend that the option provision is too uncertain to be enforced and that extrinsic evidence as to its meaning should not have been admitted. The trial court properly refused to frustrate the obviously declared intention of the grantors to reserve an option to repurchase by an overly meticulous insistence on completeness and clarity of written expression. It properly admitted extrinsic evidence to explain the language of the deed. The trial court erred, however, in excluding the extrinsic evidence that the option was personal to the grantors and therefore nonassignable.
+
+
+[6]When the parties to a written contract have agreed to it as an “integration”—a complete and final embodiment of the terms of an agreement—parol evidence cannot be used to add to or vary its terms. When only part of the agreement is integrated, the same rule applies to that part, but parol evidence may be used to prove elements of the agreement not reduced to writing.
+
+
+398
+[7]The crucial issue in determining whether there has been an integration is whether the parties intended their writing to serve as the exclusive embodiment of their agreement. The instrument itself may help to resolve that issue. It may state, for example, that “there are no previous understandings or agreements not contained in the writing,” and thus express the parties’ “intention to nullify antecedent under standings or agreements.” (See 3 Corbin, Contracts (1960) sec. 578, p. 411.) Any such collateral agreement itself must be examined, however, to determine whether the parties intended the subjects of negotiation it deals with to be included in, excluded from, or otherwise affected by the writing. Circumstances at the time of the writing may also aid in the determination of such integration.
+
+
+[8]California cases have stated that whether there was an integration is to be determined solely from the face of the instrument, and that the question for the court is whether it “appears to be a complete . . . agreement . . .” Neither of these strict formulations of the rule, however, has been consistently applied. The requirement that the writing must appear incomplete on its face has been repudiated in many cases where parol evidence was admitted “to prove the existence of a separate oral agreement as to any matter on which the document is silent and which is not inconsistent with its terms”—even though the instrument appeared to state a complete agreement. Even under the rule that the writing alone is to be consulted, it was found necessary to examine the alleged collateral agreement before concluding that proof of it was precluded by the writing alone. It is therefore evident that “The conception of a writing as wholly and intrinsically self-determinative of the parties’ intent to make it a sole memorial of one or seven or twenty-seven subjects of negotiation is an impossible one.” (9 Wigmore, Evidence (3d ed. 1940) sec. 2431, p. 103.) For example, a promissory note given by a debtor to his creditor may integrate all their present contractual rights and obligations, or it may be only a minor part of an underlying executory contract that would never be discovered by examining the face of the note.
+
+
+[9]In formulating the rule governing parol evidence, several policies must be accommodated. One policy is based on the assumption that written evidence is more accurate than human memory. This policy, however, can be adequately served by excluding parol evidence of agreements that directly contradict the writing. Another policy is based on the fear that fraud or unintentional invention by witnesses interested in the outcome of the litigation will mislead the finder of facts. McCormick has suggested that the party urging the spoken as against the written word is most often the economic underdog, threatened by severe hardship if the writing is enforced. In his view the parol evidence rule arose to allow the court to control the tendency of the jury to find through sympathy and without a dispassionate assessment of the probability of fraud or faulty memory that
+399
+the parties made an oral agreement collateral to the written contract, or that preliminary tentative agreements were not abandoned when omitted from the writing. (See McCormick, Evidence (1954) sec. 210.) He recognizes, however, that if this theory were adopted in disregard of all other considerations, it would lead to the exclusion of testimony concerning oral agreements whenever there is a writing and thereby often defeat the true intent of the parties. (See McCormick, op. cit. supra, sec. 216, p. 441.)
+
+
+[10]Evidence of oral collateral agreements should be excluded only when the fact finder is likely to be misled. The rule must therefore be based on the credibility of the evidence. One such standard, adopted by section 240(1)(b) of the Restatement of Contracts, permits proof of a collateral agreement if it “is such an agreement as might naturally be made as a separate agreement by parties situated as were the parties to the written contract.” (see McCormick, Evidence (1954) sec. 216, p. 441.) The draftsmen of the Uniform Commercial Code would exclude the evidence in still fewer instances: “If the additional terms are such that, if agreed upon, they would certainly have been included in the document in the view of the court, then evidence of their alleged making must be kept from the trier of fact.” (Com. 3, sec. 2–202, italics added.)8
+
+
+[11]The option clause in the deed in the present case does not explicitly provide that it contains the complete agreement, and the deed is silent on the question of assignability. Moreover, the difficulty of accommodating the formalized structure of a deed to the insertion of collateral agreements makes it less likely that all the terms of such an agreement were included. The statement of the reservation of the option might well have been placed in the recorded deed solely to preserve the grantors’ rights against any possible future purchasers and this function could well be served without any mention of the parties’ agreement that the option was personal. There is nothing in the record to indicate that the parties to this family transaction, through experience in land transactions or otherwise, had any warning of the disadvantages of failing to put the whole agreement in the deed. This case is one, therefore, in which it can be said that a collateral agreement such as that alleged “might naturally be made as a separate agreement.” A fortiori, the case is not one in which the parties “would certainly” have included the collateral agreement in the deed.
+
+
+[12]It is contended, however, that an option agreement is ordinarily presumed to be assignable if it contains no provisions forbidding its
+400
+transfer or indicating that its performance involves elements personal to the parties . . . In the absence of a controlling statute the parties may provide that a contract right or duty is nontransferable. Moreover, even when there is no explicit agreement—written or oral—that contractual duties shall be personal, courts will effectuate presumed intent to that effect if the circumstances indicate that performance by substituted person would be different from that contracted for.
+
+
+[13]In the present case defendants offered evidence that the parties agreed that the option was not assignable in order to keep the property in the Masterson family. The trial court erred in excluding that evidence.
+
+
+The judgment is reversed.
+
+
+Peters, Tobriner, Mosk, and Sullivan, JJ., concur.
+
+
+Burke, Justice.
+
+
+[1]I dissent. The majority opinion:
+
+
+(1)Undermines the parol evidence rule as we have known it in this state since at least 1872 by declaring that parol evidence should have been admitted by the trial court to show that a written option, absolute and unrestricted in form, was intended to be limited and nonassignable;
+
+
+(2)Renders suspect instruments of conveyance absolute on their face;
+
+
+(3)Materially lessens the reliance which may be placed upon written instruments affecting the title to real estate; and
+
+
+(4)Opens the door, albeit unintentionally, to a new technique for the defrauding of creditors.
+
+
+[2]The opinion permits defendants to establish by parol testimony that their grant to their brother (and brother-in-law) of a written option, absolute in terms, was nevertheless agreed to be nonassignable by the grantee (now bankrupt), and that therefore the right to exercise it did not pass, by operation of the bankruptcy laws, to the trustee for the benefit of the grantee’s creditors.
+
+
+[3]And how was this to be shown? By the proffered testimony of the bankrupt optionee himself! Thereby one of his assets (the option to purchase defendants’ California ranch) would be withheld from the trustee in bankruptcy and from the bankrupt’s creditors. Understandably the trial court, as required by the parol evidence rule, did not allow the bankrupt by parol to so contradict the unqualified language of the written option.
+
+
+[4]The court properly admitted parol evidence to explain the intended meaning of the “same consideration” and “depreciation value” phrases of the written option to purchase defendants’ land, as the intended
+401
+meaning of those phrases was not clear. However, there was nothing ambiguous about the granting language of the option and not the slightest suggestion in the document that the option was to be nonassignable. Thus, to permit such words of limitation to be added by parol is to contradict the absolute nature of the grant, and to directly violate the parol evidence rule.
+
+
+* * *
+
+
+[5]The majority opinion arrives at its holding via a series of false premises which are not supported either in the record of this case or in such California authorities as are offered.
+
+
+* * *
+
+
+[6]At the outset the majority in the present case reiterated that the rule against contradicting or varying the terms of a writing remains applicable when only part of the agreement is contained in the writing, and parol evidence is used to prove elements of the agreement not reduced to writing. But having restated this established rule, the majority opinion inexplicably proceeds to subvert it.
+
+
+[7]Each of the three cases cited by the majority holds that although parol evidence is admissible to prove the parts of the contract not put in writing, it is not admissible to vary or contradict the writing or prove collateral agreements which are inconsistent therewith. The meaning of this rule (and the application of it found in the cases) is that if the asserted unwritten elements of the agreement would contradict, add to, detract from, vary or be inconsistent with the written agreement, then such elements may not be shown by parol evidence.
+
+
+[8]The contract of sale and purchase of the ranch property here involved was carried out through a title company upon written escrow instructions executed by the respective parties after various preliminary negotiations. The deed to defendant grantees, in which the grantors expressly reserved an option to repurchase the property within a ten-year period and upon a specified consideration, was issued and delivered in consummation of the contract. In neither the written escrow instructions nor the deed containing the option is there any language even suggesting that the option was agreed or intended by the parties to be personal to the grantors, and so nonassignable. The trial judge, on at least three separate occasions, correctly sustained objections to efforts of defendant optionors to get into evidence the testimony of Dallas Masterson (the bankrupt holder of the option) that a part of the agreement of sale of the parties was that the option to repurchase the property was personal to him, and therefore unassignable for benefit of creditors. But the majority hold that that testimony should have been admitted, thereby permitting defendant optionors to limit, detract from and contradict the plain and unrestricted
+402
+terms of the written option in clear violation of the parol evidence rule and to open the door to the perpetration of fraud.
+
+
+[9]Options are property, and are widely used in the sale and purchase of real and personal property. One of the basic incidents of property ownership is the right of the owner to sell or transfer it . . . Moreover, the right of transferability applies to an option to purchase, unless there are words of limitation in the option forbidding its assignment or showing that it was given because of a peculiar trust or confidence reposed in the optionee.
+
+
+[10]The right of an optionee to transfer his option to purchase property is accordingly one of the basic rights which accompanies the option unless limited under the language of the option itself. To allow an optionor to resort to parol evidence to support his assertion that the written option is not transferable is to authorize him to limit the option by attempting to restrict and reclaim rights with which he has already parted. A clearer violation of two substantive and basic rules of law—the parol evidence rule and the right of free transferability of property—would be difficult to conceive.
+
+
+* * *
+
+
+V
+[11]Upon this structure of incorrect premises and unfounded assertions the majority opinion arrives at its climax: The pronouncement of “several policies (to) be accommodated . . . (i)n formulating the rule governing parol evidence.” Two of the “policies” as declared by the majority are: Written evidence is more accurate than human memory; fraud or unintentional invention by interested witnesses may well occur.
+
+
+[12]I submit that these purported “policies” are in reality two of the basic and obvious reasons for adoption by the Legislature of the parol evidence rule as the policy in this state. Thus the speculation of the majority concerning the views of various writers on the subject and the advisability of following them in this state is not only superfluous but flies flatly in the face of established California law and policy. It serves only to introduce uncertainty and confusion in a field of substantive law which was codified and made certain in this state a century ago.
+
+
+[13]However, despite the law which until the advent of the present majority opinion has been firmly and clearly established in California and relied upon by attorneys and courts alike, that parol evidence may not be employed to vary or contradict the terms of a written instrument, the majority now announce that such evidence “should be excluded only when the fact finder is likely to be misled,” and that “The rule must therefore be based on the credibility of the evidence.” But was it not, inter alia, to avoid misleading the fact finder, and to further the introduction of only the
+403
+evidence which is most likely to be credible (the written document), that the Legislature adopted the parol evidence rule as a part of the substantive law of this state?
+
+
+[The dissenting opinion continues on in this vein, attacking each of the majority’s premises.—Eds.]
+
+
+[14]Comment hardly seems necessary on the convenience to a bankrupt of such a device to defeat his creditors. He need only produce parol testimony that any options (or other property, for that matter) which he holds are subject to an oral “collateral agreement” with family members (or with friends) that the property is nontransferable “in order to keep the property in the family” in the friendly group. In the present case the value of the ranch which the bankrupt and his wife held an option to purchase has doubtless increased substantially during the years since they acquired the option. The initiation of this litigation by the trustee in bankruptcy to establish his right to enforce the option indicates his belief that there is substantial value to be gained for the creditors from this asset of the bankrupt. Yet the majority opinion permits defeat of the trustee and of the creditors through the device of an asserted collateral oral agreement that the option was “personal” to the bankrupt and nonassignable “in order to keep the property in the family”!9
+
+
+* * *
+
+
+[15]I would hold that the trial court ruled correctly on the proffered parol evidence, and would affirm the judgment.
+
+
+McComb, J., concurs.
+
+
+Rehearing denied; McComb and Burke, JJ., dissenting.
+
+
+———
+
+
+Notes and Questions
+
+
+1.If the trial court used the parol evidence rule to exclude the testimony showing the option was personal to the grantors, why did it not exclude the evidence that “same consideration” meant $50,000 and the evidence as to how the depreciation value was to be computed?
+
+
+2.Note carefully the way Justice Traynor uses the word “integration.” Is he using it the same way the R2d uses “integrated agreement?”
+
+
+3.In Hadid, the court says: “Williston goes on to point out that when the writing is complete on its face and is certain and definite as to the objects of the agreement, the writing is ‘conclusively presumed’ to be the entire contract between the parties, which cannot be contradicted or modified by
+404
+parol or extrinsic evidence.” Is this the test Justice Traynor is applying in the majority opinion?
+
+
+———
+
+
+Hunt Foods v. Doliner
+
+
+Supreme Court of New York, Appellate Division
+26 A.D.2d 41, 270 N.Y.S.2d 937 (1966)
+
+
+Steuer, Justice.
+
+
+[1]In February 1965 plaintiff corporation undertook negotiations to acquire the assets of Eastern Can Company. The stock of the latter is owned by defendant George M. Doliner and his family to the extent of 73%. The balance is owned by independent interests. At a fairly early stage of the negotiations agreement was reached as to the price to be paid by plaintiff ($5,922,50010 if in cash, or $5,730,000 in Hunt stock), but several important items, including the form of the acquisition, were not agreed upon. At this point it was found necessary to recess the negotiations for several weeks. The Hunt negotiators expressed concern over any adjournment and stated that they feared that Doliner would use their offer as a basis for soliciting a higher bid from a third party. To protect themselves they demanded an option to purchase the Doliner stock. Such an option was prepared and signed by George Doliner and the members of his family and at least one other person associated with him who were stockholders. It provides that Hunt has the option to buy all of the Doliner stock at $5.50 per share. The option is to be exercised by giving notice on or before June 1, 1965, and if notice is not given the option is void. If given, Hunt is to pay the price and the Doliners to deliver their stock within seven days thereafter. The agreement calls for Hunt to pay $1,000 for the option, which was paid. To this point there is substantial accord as to what took place.
+
+
+[2]Defendant claims that when his counsel called attention to the fact that the option was unconditional in its terms, he obtained an understanding that it was only to be used in the event that he solicited an outside offer; and that plaintiff insisted that unless the option was signed in unconditional form negotiations would terminate. Plaintiff contends there was no condition. Concededly, on resumption of negotiations the parties failed to reach agreement and the option was exercised. Defendants declined the tender and refused to deliver the stock.
+
+
+[3]Plaintiff moved for summary judgment for specific performance. We do not believe that summary judgment lies. Plaintiff’s position is that
+405
+the condition claimed could not be proved under the parol evidence rule and, eliminating that, there is no defense to the action.
+
+
+[4]The parol evidence rule, at least as that term refers to contracts of sale,11 is now contained in Section 2–202 of the Uniform Commercial Code, which reads:
+
+
+Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented
+
+
+* * *
+
+
+(b)by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.
+
+
+[5]The term (that the option was not to be exercised unless Doliner sought outside bids), admittedly discussed but whose operative effect is disputed, not being set out in the writing, is clearly “additional” to what is in the writing. So the first question presented is whether that term is “consistent” with the instrument. In a sense any oral provision which would prevent the ripening of the obligations of a writing is inconsistent with the writing. But that obviously is not the sense in which the word is used. To be inconsistent the term must contradict or negate a term of the writing. A term or condition which has a lesser effect is provable.
+
+
+[6]The Official Comment prepared by the drafters of the Code contains this statement:
+
+
+If the additional terms are such that, if agreed upon, they would certainly have been included in the document in the view of the court, then evidence of their alleged making must be kept from the trier of fact.
+
+
+(McKinney’s Uniform Commercial Code, Part 1, p. 158)
+
+
+[7]Special Term interpreted this language as not only calling for an adjudication by the court in all instances where proof of an “additional oral term” is offered, but making that determination exclusively the function of the court. We believe the proffered evidence to be inadmissible only where the writing contradicts the existence of the claimed additional term. The conversations in this case, some of which are not disputed, and the
+406
+expectation of all the parties for further negotiations, suggest that the alleged oral condition precedent cannot be precluded as a matter of law or as factually impossible. It is not sufficient that the existence of the condition is implausible. It must be impossible.
+
+
+[8]The order should be reversed on the law and the motion for summary judgment denied with costs and disbursements to abide the event.
+
+
+[9]Order and judgment (one paper) unanimously reversed, on the law, with $50 costs and disbursements to abide the event, and plaintiff’s motion for summary judgment denied. All concur.
+
+
+———
+
+
+Luria Bros. & Co. v. Pielet Bros. Scrap Iron & Metal, Inc.
+
+
+United States Court of Appeals, Seventh Circuit
+600 F.2d 103 (1979)
+
+
+Fairchild, Chief Judge.
+
+
+[1]This is a diversity action for breach of contract. Most of the events giving rise to this litigation occurred in Illinois and we accept the parties’ assumption that Illinois law is applicable. The action below was tried before a jury which returned a verdict in the amount of $600,000, having found that a contract for the purchase of barge scrap steel existed between plaintiff, Luria Brothers & Co., Inc. (hereinafter referred to as “Luria”) and defendant, Pielet Brothers Scrap Iron & Metal, Inc. (hereinafter referred to as “Pielet”), and that Luria was damaged as a consequence of Pielet’s failure to deliver. Defendant appeals, arguing among other things that no enforceable agreement was ever made, and therefore, plaintiff was not entitled to damages. We affirm.
+
+
+[2]A consideration of the issues requires a statement of the facts in some detail. Luria, in its capacity as both a broker and a dealer is in the business of buying, selling, and processing scrap metal. Pielet is in the same business. The parties had done business with each other on a number of occasions prior to the transaction giving rise to this litigation. In fact, Lawrence Bloom, who represented Pielet in this matter had formerly been employed by Luria as a scrap trader.
+
+
+[3]Most of the facts surrounding the subject transaction are not in dispute and were stipulated to at trial. In mid-September, 1973, Bloom, a vice-president of Pielet, telephoned Richard Fechheimer, a vice-president of Luria. Bloom informed Fechheimer that Pielet might offer a substantial quantity of scrap metal for sale. Bloom inquired as to whether Luria would be interested in purchasing the metal and Fechheimer said that it would be. Subsequent telephone conversations took place between Bloom and
+407
+Fechheimer in which price quotations and other matters were discussed. The quantity was to be 35,000 net tons of scrap steel from old barges cut into sections measuring five feet by five feet by twenty feet. The shipment date was to be on or before December 31, 1973. The price was set at $42 per net ton if Luria took delivery in Houston or $49 if Luria took delivery in Brownsville (Texas). This transaction was unusual in two respects. First, the amount of scrap involved was much larger than that in a typical scrap transaction. Secondly, while the type or grade of scrap was not unusual, the dimensions were. Luria intended to process the scrap for resale as “No. 1 heavy melting” scrap by reducing it to a size that would fit into a steel furnace, generally in pieces at least 1/4 inch thick and not more than 5 feet long by 18 inches wide.
+
+
+[4]Shortly after the foregoing conversations between Bloom and Fechheimer, Fechheimer telephoned Mr. Forlani, an account executive at Luria’s Chicago office, to discuss the purchase of scrap from Pielet. Forlani made some handwritten notes on a worksheet which Luria uses in connection with buying and selling scrap. These notes related to the terms of the barge scrap transaction between Pielet and Luria. Subsequently, and sometime before September 24, Forlani made a telephone call to Bloom to discuss this scrap transaction. At some point, but before September 24, Bloom made some handwritten notes on a worksheet Pielet employed in connection with buying and selling scrap.
+
+
+[5]On September 24, 1973, Bloom caused to be prepared a sales confirmation relating to the scrap transaction between Pielet and Luria. The following information was typed on the confirmation form:
+
+
+Quantity: Thirty-five thousand (35,000) net tons
+
+
+Material: Steel barges cut 5’ X 5’ X 20’ free of non metallics
+
+
+Price: $42.00 per net ton F.O.B. Shipping point barge Houston,
+
+
+Texas or $49.00 per net ton delivered Brownsville, Texas
+
+
+Shipment: On or before December 31, 1973
+
+
+Terms: 90% Advance on receipt of surveyor’s weights and bill of lading
+[6]Bloom signed the sales confirmation and mailed the original and one copy to Forlani. The copy bore the printed words “confirmation copy.” The following words are printed at the bottom of both the original and the confirmation copy of Pielet’s confirmation form: “PLEASE SIGN AND RETURN THE COPY OF THIS CONFIRMATION FOR OUR FILES. FAILURE TO RETURN COPY DOES NOT VOID CONTRACT.” Neither Forlani nor any officer or other employee of Luria ever signed or returned the confirmation copy to Bloom or anyone else at Pielet.
+
+
+408
+[7]In the ordinary course of business when Luria makes a purchase of scrap, information regarding the purchase is typed or written on its own purchase confirmation form. On or about October 4, 1973, Forlani caused to be prepared a purchase confirmation containing the same terms as in Pielet’s form, except with respect to the delivery date and mode of shipment. The delivery date typed on the form was by October 31, 1973 and the mode of shipment appeared to be left to the discretion of Luria. On the reverse side of this form are printed standard terms including ones referring to warranties, insurance, and taxes, as well as one stating “This order constitutes the entire contract between the parties.” The original and one copy of this form are sent to the seller. These bear in red letters the words “RETURN ACCEPTANCE COPY IMMEDIATELY” in the lower right hand corner. There were no other words on this document to indicate any condition as to the existence of a contract.
+
+
+[8]Forlani sent the original and a copy of the October 4th purchase confirmation to Bloom. Bloom testified that upon receipt of this document, he immediately or shortly thereafter called Forlani to inform him that the Luria confirmation was erroneous with respect to delivery date and mode of shipment. Forlani agreed that the confirmation was erroneous in these two particulars. Bloom asked Forlani to send him an amendment correcting these errors, but Forlani never did. Neither Bloom nor any other officer or employee of Pielet ever signed or returned the acceptance copy to Luria.
+
+
+[9]During late October and November, Forlani called Bloom several times to ask why Pielet had not begun to deliver the steel. Although the delivery date stated in Pielet’s confirmation form and orally agreed upon was on or before December 31, 1973, it is “common trade practice” to space deliveries out during the contract period, especially where the quantity involved is very large. On December 3, 1973, Forlani wrote a letter to Pielet saying Luria had not received notification of shipment and requesting that prompt attention be given. On February 6, 1974 representatives of Luria met with Bloom. Bloom stated he was having trouble with his supplier, and further mentioned that his supplier could not obtain the propane necessary for the torches used to cut the barges. On February 13, a week after the meeting, Luria wrote a letter to Bloom to make it clear that the matter had to be resolved. Luria never received a reply and Pielet never delivered the scrap. Luria filed its complaint in the district court on April 25, 1974.
+
+
+[The court determined that the evidence established a contract.—‍Eds.]
+
+
+II
+
+
+[10]Next, Pielet contends that even if the evidence is sufficient to establish the existence of a binding contract between the parties, it was error for the district court to exclude evidence that the sales contract was expressly conditional upon Pielet obtaining the scrap metal from a
+409
+particular supplier. In an offer of proof, Bloom testified that in their first conversation in September, he told Fechheimer “I was doing business with people that I had never heard of, that they were fly-by-night people, that I was worried about shipment and if I didn’t get shipment, I didn’t want any big hassle, but if I got the scrap, he would get it.” Trans. at 268.12
+
+
+[11]In excluding this offered testimony, the district court relied on the Uniform Commercial Code’s parol evidence rule, sec. 2–202, which provides:
+
+
+Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented
+
+
+(a)By course of dealing or usage of trade (sec. 1–205) or by course of performance (sec. 2–208); and
+
+
+(b)By evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.
+
+
+[12]The determination that the writings of the parties were intended to be a final expression of their agreement is to be made by the trial court. In light of Luria’s acceptance of the terms stated in the Pielet writing, we agree with the district court’s conclusion that the Pielet sales confirmation brought sec. 2–202 into play to bar Bloom’s testimony.
+
+
+[13]Nevertheless, Pielet contends that sec. 2–202 is not applicable to this case. According to Pielet, Luria sued on an oral contract and therefore the parol evidence rule is not applicable because the writings of the parties were not the basis of the action but only collateral to it.
+
+
+[14]It is true that although these writings were relied on to satisfy the Code’s Statute of Frauds, sec. 2–201, and to exclude parol evidence, Luria had to go outside these writings to prove to the jury the existence of an enforceable sales contract. But the writings are insufficient in themselves only because of two differing terms and are directly related to the contract sought to be proved.
+
+
+[15]As noted in 1 Anderson, Uniform Commercial Code sec. 2–202(3) (2d 1970), sec. 2–202 of the Code “extends (the operation of the parol
+410
+evidence rule) to some degree to writings which are not the complete contract of the parties.” The code itself refers to this fact in sec. 2–207(3) which provides that where a contract is established by the conduct of the parties, the terms of the contract consist, at least, of those terms on which the writings agree even though “the writings of the parties do not otherwise establish a contract.”
+
+
+[16]In a case construing Illinois law, the court in Jones & McKnight Corp. v. Birdsboro Corporation, 320 F.Supp. 39 (N.D. Ill., E.D.1970) noted that where the existence of a sales contract was clear (in that case because of the actual delivery of goods and payment), sec. 2–202 “obviates the necessity of determining . . . whether the contract was oral or written.” Id. at 42. Evidence of an alleged prior oral agreement cannot be used to contradict the terms on which the writings of the parties agree.
+
+
+[17]In this case, of course, the existence of a sales contract was in issue. At first glance, it is troublesome that Luria was allowed to introduce testimony of the September conversations between the parties to help establish its case while Pielet was denied the opportunity to introduce statements made in the course of those same conversations. However, the fairness of this result becomes clear upon examination of why it was necessary for Luria to use parol evidence to prove the existence of the sales contract. Pielet’s sales confirmation and Luria’s purchase confirmation differed on two important terms, delivery date[,] and mode of shipment. Luria used undisputed parol evidence that there had been a “meeting of the minds” as to these terms prior to the confirmatory memoranda to support its position that these two discrepancies were due to inadvertence and clerical error on Luria’s part rather than disagreement between the parties. If the writings had agreed on these two important terms, Pielet would be hard pressed to argue that no contract for sale existed. In fact, Bloom testified that had the Luria purchase confirmation been correct on these points he would have signed and returned it. (Trans. at 67.) Allowing one party to use parol evidence to clarify a mistake in a writing, does not open the flood gates to any and all parol evidence bearing on the agreement.13
+
+
+[18]Having found sec. 2–202 applicable, the next question is whether the excluded evidence contradicts or is inconsistent with the terms of the writings. Pielet argues that the offered testimony did not “contradict” but instead “explained or supplemented” the writings with “consistent additional terms.” For this contention, Pielet relies upon Hunt Foods & Industries, Inc. v. Doliner, 26 A.D.2d 41, 270 N.Y.S.2d 937 (1966). In
+411
+reversing the trial court’s summary judgment for plaintiff, the court in Hunt held that evidence of an oral condition precedent did not contradict the terms of a written stock option which was unconditional on its face. Therefore evidence of the condition precedent should not have been barred by U.C.C. sec. 2–202. “In a sense any oral provision which would prevent the ripening of the obligations of a writing is inconsistent with the writing. But that obviously is not the sense in which the word is used. (Citation omitted.) To be inconsistent the term must contradict or negate a term of the writing.” Id. at 43, 270 N.Y.S.2d at 940. This reasoning in Hunt was followed in Michael Schiavone & Sons, Inc. v. Securalloy Co., 312 F.Supp. 801 (D.Conn. 1970). In that case, the court found that parol evidence that the quantity in a sales contract was “understood to be up to 500 tons cannot be said to be inconsistent with the terms of the written contract which specified the quantity as ‘500 Gross Ton.’ ” Id. at 804.
+
+
+[19]The narrow view of inconsistency espoused in these two cases has been criticized. In Snyder v. Herbert Greenbaum & Assoc., Inc., 38 Md.App. 144, 380 A.2d 618 (1977), the court held that parol evidence of a contractual right to unilateral rescission was inconsistent with a written agreement for the sale and installation of carpeting. The court defined “inconsistency” as used in sec. 2–202(b) as “the absence of reasonable harmony in terms of the language and respective obligations of the parties.” Id. at 623 (citing U.C.C. sec. 1–205(4)). See also Southern Concrete v. Mableton Contractors, 407 F.Supp. 581 (N.D.Ga. 1975), aff’d memo., 569 F.2d 1154 (5th Cir. 1978).
+
+
+[20]We adopt this latter view of inconsistency and reject the view expressed in Hunt. Where writings intended by the parties to be a final expression of their agreement call for an unconditional sale of goods, parol evidence that the seller’s obligations are conditioned upon receiving the goods from a particular supplier is inconsistent and must be excluded.
+
+
+[21]Had there been some additional reference such as “per our conversation” on the written confirmation indicating that oral agreements were meant to be incorporated into the writing, the result might have been different. See Ralston Purina v. Rooker, 346 So.2d 901 (Miss. 1977), distinguishing Paymaster Oil Mill Company v. Mitchell, 319 So.2d 652 (Miss. 1975).
+
+
+[22]We also note that Comment 3 of the Official Comment to sec. 2–202 provides, among other things:
+
+
+If the additional terms are such that, if agreed upon, they would certainly have been included in the document in the view of the court, then evidence of their alleged making must be kept from the trier of fact.
+
+
+[23]Pielet makes much of the fact that this transaction was an unusual one due to the size and the amount of scrap involved. Surely a
+412
+term relieving Pielet of its obligations under the contract in the event its supplier failed it would have been included in the Pielet sales confirmation.
+
+
+* * *
+
+
+The judgment appealed from is affirmed.
+
+
+———
+
+
+Notes and Questions
+
+
+1.Was there an integrated agreement (as the R2d uses that term) in this case? If so, what document or documents constituted the integrated agreement?
+
+
+2.Suppose the writings had said nothing about who had to pay for the insurance on the shipment. Should the court let in oral testimony to the effect that the parties had agreed that the seller would pay for the insurance?
+
+
+———
+
+
+Zell v. American Seating Co.
+
+
+United States Court of Appeals, Second Circuit
+138 F.2d 641 (1943)
+
+
+Frank, Circuit Judge.
+Frank, Circuit Judge.
+
+
+[1]On defendant’s motion for summary judgment, the trial court, after considering the pleadings and affidavits, entered judgment dismissing the action. From that judgment, plaintiff appeals.
+
+
+[2]On a motion for summary judgment, where the facts are in dispute, a judgment can properly be entered against the plaintiff only if, on the undisputed facts, he has no valid claim; if, then, any fact asserted by the plaintiff is contradicted by the defendant, the facts as stated by the plaintiff must, on such a motion, be taken as true. Accordingly for the purpose of our decision here, we take the facts as follows:
+
+
+[3]Plaintiff, by a letter addressed to defendant company dated October 17, 1941, offered to make efforts to procure for defendant contracts for manufacturing products for national defense or war purposes, in consideration of defendant’s agreement to pay him $1,000 per month for a three months’ period if he were unsuccessful in his efforts, but, if he were successful, to pay him a further sum in an amount not to be less than 3% nor more than 8% of the “purchase price of said contracts.” On October 31, 1941, at a meeting in Grand Rapids, Michigan, between plaintiff and defendant’s President, the latter, on behalf of his company, orally made an agreement with plaintiff substantially on the terms set forth in plaintiff’s letter, one of the terms being that mentioned in plaintiff’s letter as to commissions; it was orally agreed that the exact amount within the two
+413
+percentages was to be later determined by the parties. After this agreement was made, the parties executed, in Grand Rapids, a written instrument dated October 31, 1941, appearing on its face to embody a complete agreement between them; but that writing omitted the provision of their agreement that plaintiff, if successful, was to receive a bonus varying from three to eight per cent; instead, there was inserted in the writing a clause that the $1,000 per month “will be full compensation, but the company may, if it desires, pay you something in the nature of a bonus.” However, at the time when they executed this writing, the parties orally agreed that the previous oral agreement was still their actual contract, that the writing was deliberately erroneous with respect to plaintiff’s commissions, and that the misstatement in that writing was made solely in order to “avoid any possible stigma which might result” from putting such a provision “in writing,” the defendant’s President stating that “his fears were based upon the criticism of contingent fee contracts.” Nothing in the record discloses whose criticism the defendant feared; but plaintiff, in his brief, says that defendant was apprehensive because adverse comments had been made in Congress of such contingent-fee arrangements in connection with war contracts. The parties subsequently executed further writings extending, for two three-month periods, their “agreement under date of October 31, 1941.” Through plaintiff’s efforts and expenditures of large sums for traveling expenses, defendant, within this extended period, procured contracts between it and companies supplying aircraft to the government for war purposes, the aggregate purchase price named in said contracts being $5,950,000.14 The defendant has refused to pay the plaintiff commissions thereon in the agreed amount (i.e., not less than three per cent) but has paid him merely $8,950 (at the rate of $1,000 a month) and has offered him, by way of settlement, an additional sum of $9,000 which he has refused to accept as full payment.
+
+
+[4]Defendant argues that the summary judgment was proper on the ground that, under the parol evidence rule, the court could not properly consider as relevant anything except the writing of October 31, 1941, which appears on its face to set forth a complete and unambiguous agreement between the parties. If defendant on this point is in error, then, if the plaintiff at a trial proves the facts as alleged by him, and no other defenses are successfully interposed, he will be entitled to a sum equal to 3% of $5,950,000.
+
+
+* * *
+
+
+[5]It is not surprising that confusion results from a rule called “the parol evidence rule” which is not a rule of evidence, which relates to extrinsic proof whether written or parol, and which has been said to be
+414
+virtually no rule at all. As Thayer said of it, “Few things are darker than this, or fuller of subtle difficulties.” The rule is often loosely and confusingly stated as if, once the evidence establishes that the parties executed a writing containing what appears to be a complete and unambiguous agreement, then no evidence may be received of previous or contemporaneous oral understandings which contradict or vary its terms. But, under the parol evidence rule correctly stated, such a writing does not acquire that dominating position if it has been proved by extrinsic evidence that the parties did not intend it to be an exclusive authoritative memorial of their agreement. If they did intend it to occupy that position, their secret mutual intentions as to the terms of the contract or its meaning are usually irrelevant, so that parties who exchange promises may be bound, at least “at law” as distinguished from “equity,” in a way which neither intended, since their so-called “objective” intent governs. When, however, they have previously agreed that their written promises are not to bind them, that agreement controls and no legal obligations flow from the writing. It has been held virtually everywhere, when the question has arisen that (certainly in the absence of any fraudulent or illegal purpose) a purported written agreement, which the parties designed as a mere sham, lacks legal efficacy, and that extrinsic parol or other extrinsic evidence will always be received on that issue. So the highest court of Michigan has several times held. It has gone further: In Woodard v. Walker, 192 Mich. 188, 158 N.W. 846, that court specifically enforced against the seller an oral agreement for the sale of land which had been followed by a sham written agreement, for sale of the same land at a higher price, intended to deceive the seller’s children who were jealous of the buyer.
+
+
+[6]We need not here consider cases where third persons have relied on the delusive agreement to their detriment or cases in other jurisdictions (we find none in Michigan) where the mutual purpose of the deception was fraudulent or illegal. For the instant case involves no such elements. As noted above, the pleadings and affidavits are silent as to the matter of whom the parties here intended to mislead, and we cannot infer a fraudulent or illegal purpose. Even the explanation contained in plaintiff’s brief discloses no fraud or illegality: No law existed rendering illegal the commission provision of the oral agreement which the parties here omitted from the sham writing; while it may be undesirable that citizens should prepare documents so contrived as to spoil the scent of legislators bent on proposing new legislation, yet such conduct is surely not unlawful and does not deserve judicial castigation as immoral or fraudulent; the courts should not erect standards of morality so far above the customary. Woodard v. Walker leaves no doubt that the Michigan courts would hold the parol evidence rule inapplicable to the facts as we have interpreted them.
+
+
+[7]Candor compels the admission that, were we enthusiastic devotees of that rule, we might so construe the record as to bring this case
+415
+within the rule’s scope; we could dwell on the fact that plaintiff, in his complaint, states that the acceptance of his offer “was partly oral and partly contained” in that October 31 writing, and could then hold that, as that writing unambiguously covers the item of commissions, the Plaintiff is trying to use extrinsic evidence to “contradict” the writing. But the plaintiff’s affidavit, if accepted as true and liberally construed, makes it plain that the parties deliberately intended the October 31 writing to be a misleading, untrue, statement of their real agreement.
+
+
+[8]We thus construe the record because we do not share defendant’s belief that the rule is so beneficent, so promotive of the administration of justice, and so necessary to business stability, that it should be given the widest possible application. The truth is that the rule does but little to achieve the ends it supposedly serves15 Although seldom mentioned in modern decisions, the most important motive for perpetuation of the rule is distrust of juries, fear that they cannot adequately cope with, or will be unfairly prejudiced by, conflicting “parol” testimony. If the rule were frankly recognized as primarily a device to control juries, its shortcomings would become obvious, since it is not true that the execution by the parties of an unambiguous writing, “facially complete,” bars extrinsic proof. The courts admit such “parol” testimony (other than the parties’ statements of what they meant by the writing) for a variety of purposes: to show “all the operative usages” and “all the surrounding circumstances prior to and contemporaneous with the making” of a writing; to show an agreed oral condition, nowhere referred to in the writing, that the writing was not to be binding until some third person approved; to show that a deed, absolute on its face, is but a mortgage. These and numerous other exceptions have removed most of that insulation of the jury from “oral” testimony which the rule is said to provide.
+
+
+416
+[9]The rule, then, does relatively little to deserve its much advertised virtue of reducing the dangers of successful fraudulent recoveries and defenses brought about through perjury. The rule is too small a hook to catch such a leviathan. Moreover, if at times it does prevent a person from winning, by lying witnesses, a lawsuit which he should lose, it also, at times, by shutting out the true facts, unjustly aids other persons to win lawsuits they should and would lose, were the suppressed evidence known to the courts. Exclusionary rules, which frequently result in injustice, have always been defended—as was the rule, now fortunately extinct, excluding testimony of the parties to an action—with the danger-of-perjury argument.16 Perjury, of course, is pernicious and doubtless much of it is used in our courts daily with unfortunate success. The problem of avoiding its efficacious use should be met head on. Were it consistently met in an indirect manner—in accordance with the viewpoint of the adulators of the parol evidence rule—by wiping out substantive rights provable only through oral testimony, we would have wholesale destruction of familiar causes of action such as, for instance, suits for personal injury and for enforcement of wholly oral agreements.
+
+
+[Several long and even less relevant paragraphs of this rant are omitted.—Eds.]
+
+
+[10]In sum, a rule so leaky cannot fairly be described as a stout container of legal certainty. John Chipman Gray, a seasoned practical lawyer, expressed grave doubts concerning the reliance of businessmen on legal precedents generally. If they rely on the parol evidence rule in particular, they will often be duped. It has been seriously questioned whether in fact they do so to any considerable extent. We see no good reason why we should strain to interpret the record facts here to bring them within such a rule.
+
+
+Reversed and remanded.
+
+
+———
+
+
+Notes
+
+
+1.Judge Jerome Frank, the author of this opinion, is considered to have been one of the most extreme followers of the Legal Realist school of jurisprudence. In an attempt to emphasize the importance of the judge’s subjective impressions to the outcome of litigation, he once said that the
+417
+outcome of cases could depend on what the judge ate for breakfast. This led critics to refer to Legal Realism as “gastronomic jurisprudence.”
+
+
+2.Learned Hand, considered one of the greatest American judges of all time, was on the panel that decided Zell and joined in the opinion. This fact should not be taken too seriously, however. When Hand was asked about Frank’s long opinions, he reportedly said: “I see how [Frank] comes out and pay no attention to the shit.” Laura Kalman, Legal Realism at Yale, 1927–1960, 284 n.92 (1986), quoted in Paul Brickner, Book Review Comment, The Lemon Test and Subjective Intent in Establishment Clause Analysis: The Case for Abandoning the Purpose Prong, 76 KY. L.J. 1061, 1082 (1988).
+
+
+3.Judge Frank is also reputed to have said: “most lawsuits are won on a balance of the perjury.” (quoted in S.G. Supply Co. v. Greenwood Int’l, Inc., 769 F.Supp. 1430, 1442 (N.D.Ill. 1991)). Strange words from someone who wanted to abolish a rule designed to protect against perjured testimony.
+
+
+4.Some judges and legal commentators argue that when courts are construing a parties’ agreement, one should generally consider both the language of the parties’ agreement and extrinsic evidence to properly determine the intent of the parties and the contractual meaning (Contextualists). However, there are many who disagree with that approach and instead argue that extrinsic evidence—such as preliminary negotiations, the surrounding circumstances, course of performance, course of dealing, and usage of trade—is of little importance, and courts should construe only the language of the parties’ agreement without these additional materials (Textualists). The justification for the latter position is allowing parties to introduce extrinsic evidence results in more litigation over the meaning of the contracts than if the courts only considered the four corners of the agreement.
+
+
+However, an empirical study that sought to determine if enforcement costs were higher under either approach found very little support that either approach results in more litigation or higher enforcement costs. See Joshua Silverstein, Contract Interpretation Enforcement Costs: An Empirical Study of Textualism Versus Contextualism Conducted via the West Key Number System, 47 Hofstra L. Rev. 1011 (2019).
+Lawyering Skills Problem
+
+
+Imagine that the parol evidence a rule has been abolished. What would be the effect of this development? Specifically, if you were a sophisticated lawyer documenting a deal, how would this affect your drafting, if at all?
+
+
+1[In this case, the FDIC has stepped in to represent the failed bank, National Bank Washington, and is prosecuting this action to maximize the recovery of the failed bank’s assets. To the extent there is a shortfall of assets to cover insured deposits at the bank, the FDIC will use government depository insurance funds to make up the shortfall.—Eds.]
+
+
+2[Bert Lance served as Director of the Office of Management and Budget under President Jimmy Carter—Eds.]
+
+
+3[A motion in limine is a pre-trial motion to exclude certain evidence that for one reason or another should not be heard by the jury.—Eds.]
+
+
+4[Here, the court may be disingenuous. There is a difference between ownership of a thing and having control over a thing. At any one time, these two types of rights can be held by different entities. Thus, even if NBW were to have perfected its security interest in the stock through possession, there could be nothing inconsistent with the pledge agreement giving Mr. Hadid the right to control the disposition of the stock and cause the proceeds to be applied, under the pledge, to the principal indebtedness, thus decreasing his exposure to liability under the renewal and extension agreements. This line of reasoning, however, is more appropriate to a course in commercial law dealing with article 9 of the U.C.C.—Eds.]
+
+
+5[$40,000 in 1986 dollars is roughly the equivalent of $91,600 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+6[The court doesn’t make it clear, but what is happening is this: When a person files for relief under the bankruptcy laws, all their assignable, nonexempt property becomes the property of a bankruptcy “estate” controlled by a trustee. The trustee’s job is to collect and liquidate the property and distribute the proceeds pro rata among the creditors in strict priority under the rules of the bankruptcy code and otherwise applicable law. Historically, these distributions have averaged about 10 cents on the dollar. Here, the trustee is trying to exercise the option so he can turn around and sell the ranch in order to raise money for the creditors, the ranch apparently being worth a lot more than the option price. Dallas Masterson preferred that the ranch belong to his sister and her husband rather than to his (Dallas’s) creditors. As a result, he granted the sister and husband the land and reserved to himself what he asserts is a “personal” option that was unassignable and did not become property of his bankruptcy estate and, thus, could not be exercised by the trustee for the benefit of creditors. The dissenting opinion makes a great deal of this.—Eds.]
+
+
+7[$50,000 in 1968 dollars is roughly the equivalent of $361,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+8Corbin suggests that, even in situations where the court concludes that it would not have been natural for the parties to make the alleged collateral oral agreement, parol evidence of such an agreement should nevertheless be permitted if the court is convinced that the unnatural actually happened in the case being adjudicated. (3 Corbin, Contracts, sec. 485, pp. 478, 480.) This suggestion may be based on a belief that judges are not likely to be misled by their sympathies. If the court believes that the parties intended a collateral agreement to be effective, there is no reason to keep the evidence from the jury.
+
+
+9As noted at the outset of this dissent, it was by means of the bankrupt’s own testimony that defendants (the bankrupt’s sister and her husband) sought to show that the option was personal to the bankrupt and thus not transferable to the trustee in bankruptcy.
+
+
+10[$5,922,500 in 1966 dollars is roughly the equivalent of $45,800,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+11While article 2 of the Uniform Commercial Code which contains this section does not deal with the sale of securities, this section applies to article 8, dealing with securities. All parties and Special Term so regarded it.
+
+
+12During the presentation of Luria’s case, Bloom did testify on cross-examination that in conversations subsequent to the writings he told Forlani “if I get it (the scrap), you will get it.” We agree with Pielet that in that context, the jury would take this statement as an excuse for not delivering rather than as a condition of the contract. Therefore, if Bloom’s testimony relating to his first conversation with Fechheimer was wrongfully excluded, the harm would be prejudicial.
+
+
+13Pielet cites McCormick on Evidence sec. 56 (2d ed. 1972) for the proposition that once one party has introduced part of a conversation, the other party automatically has the right to introduce the remainder of the conversation relating to the same subject. This is a general rule of evidence based on materiality and relevance. The parol evidence rule, on the other hand, is a rule of substantive law. Evidence is excluded not because it is not credible or not relevant but because of a policy favoring the reliability of written representations of the terms of a contract.
+
+
+14[$5,950,000 in 1943 dollars is roughly the equivalent of $86,400,000 in 2019 dollars using the CPI and the GNP Deflator.—Eds.]
+
+
+15That this fear was one of the causes of the creation of the rule. See Thayer, A Preliminary Treatise on Evidence 409, 410 (1898); 9 Wigmore on Evidence § 2446 (3d ed.).
+
+
+Formalism was also a causal factor. See 9 Wigmore, ibid. However, for criticism of over-emphasis on the formalism of the so-called “strict period of law,” see United States v. Forness, 125 F.2d 928, 935–36 (2d Cir. 1942).
+
+
+Another factor was veneration for the written word. See Wigmore, ibid. Paul Radin, Primitive Man as Philosopher (1927) 59–60, says: “Much if not all of the magical quality and potency possessed by the word is derived from its connection with the written script. That is quite intelligible. Granted a dynamic and ever-changing world, then the written word with its semi-permanence and its static character was a much desired oasis . . . But culturally and psychologically it possessed even a greater significance, for it completed the victory of the visual-minded man over his competitors. From that time on, at least for the literate man, the main verities were the visual verities.”
+
+
+The perpetuation of the parol evidence rule doubtless owes much to inertia. Any profession, the medical as well as the legal, possessed of a monopoly in its field, tends to develop what are today called “bureaucratic” habits of strong disinclination to alter its established ways. Unconscious sadism perhaps, too, influences some of the academic praise of the parol evidence rule: some cloistered scholars seem to take satisfaction in “hard cases” which, they feel should not lead to deviations from “good law.”
+
+
+16Perjury is one of the great bugaboos of the law. Every change in procedure by which the disclosure of the truth has been made easier has raised the spectra of perjury to frighten the profession. It was only in 1851 that Lord Brougham’s Act for the first time made the parties to civil actions competent to testify in the higher courts of England. There was great dread of the Act, lest the interest of the parties should prove too powerful an incentive to false swearing . . . But the fear that the temptation to perjury would ruin the value of the testimony of interested parties has so completely vanished that no one would seriously think of restoring the disqualification. Sunderland, Scope and Method of Discovery Before Trial, 42 Yale L.J. (1933) 863, 867.
