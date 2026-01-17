@@ -13,10 +13,8 @@ try:
     from nltk.corpus import stopwords
     STOPWORDS = set(stopwords.words("english"))
 except Exception:
-    # fallback if nltk stopwords not available
     STOPWORDS = set()
 
-# Add "legal-ish" and outline-ish stopwords so the cloud is more meaningful
 LEGAL_STOP = {
     "court", "case", "held", "holding", "rule", "rules", "element", "elements",
     "thus", "therefore", "because", "example", "examples",
@@ -31,14 +29,13 @@ NON_WORD_RE = re.compile(r"[^a-zA-Z']+")
 
 
 def _parse_exts(exts_csv: str) -> tuple[str, ...]:
-    # "md,txt" -> (".md", ".txt")
     raw = [e.strip().lower() for e in exts_csv.split(",") if e.strip()]
     out = []
     for e in raw:
         if not e.startswith("."):
             e = "." + e
         out.append(e)
-    return tuple(dict.fromkeys(out))  # de-dupe, preserve order
+    return tuple(dict.fromkeys(out))
 
 
 def _iter_files(base: Path, exts: tuple[str, ...], exclude_dirs: set[str]) -> Iterable[Path]:
@@ -52,28 +49,30 @@ def _iter_files(base: Path, exts: tuple[str, ...], exclude_dirs: set[str]) -> It
         yield p
 
 
-def read_target_text(root: Path, topic: str, exts: tuple[str, ...], exclude_dirs: set[str]) -> str:
-    """
-    Reads all matching files under root/topic (topic can include subfolders, e.g. 'R2D' or 'UCC FULL').
-    """
-    target_dir = (root / topic).resolve()
-    if not target_dir.exists():
-        raise FileNotFoundError(f"Target folder not found: {target_dir}")
+def load_text(root: Path, topic: str, exts: tuple[str, ...], exclude_dirs: set[str]) -> str:
+    target = (root / topic).resolve()
 
-    paths = sorted(_iter_files(target_dir, exts=exts, exclude_dirs=exclude_dirs))
+    paths: list[Path] = []
+
+    if target.is_file():
+        if target.suffix.lower() not in exts:
+            raise ValueError(f"File extension not in {exts}: {target}")
+        paths = [target]
+
+    elif target.is_dir():
+        paths = sorted(_iter_files(target, exts=exts, exclude_dirs=exclude_dirs))
+
+    else:
+        raise FileNotFoundError(f"Target not found: {target}")
+
     if not paths:
-        raise FileNotFoundError(f"No files with {exts} found under: {target_dir}")
+        raise FileNotFoundError(f"No matching files found for: {target}")
 
-    chunks: list[str] = []
-    for p in paths:
-        chunks.append(p.read_text(encoding="utf-8", errors="ignore"))
-    return "\n".join(chunks)
+    return "\n".join(p.read_text(encoding="utf-8", errors="ignore") for p in paths)
 
 
 def tokenize(text: str) -> list[str]:
-    # Strip markdown blocks/links/images/code
     text = MD_JUNK_RE.sub(" ", text)
-    # Remove headings/bullets emphasis clutter
     text = text.replace("#", " ").replace("*", " ").replace("_", " ")
     text = text.lower()
     text = NON_WORD_RE.sub(" ", text)
@@ -92,7 +91,6 @@ def tokenize(text: str) -> list[str]:
 
 
 def _slug(s: str) -> str:
-    # nice filenames even if topic has spaces/slashes
     s = s.strip().replace("\\", "/")
     s = s.replace("/", "__")
     s = re.sub(r"\s+", "_", s)
@@ -101,37 +99,24 @@ def _slug(s: str) -> str:
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Generate a word cloud from a doctrine/topic folder.")
+    ap = argparse.ArgumentParser(description="Generate a word cloud from a doctrine folder, subfolder, or file.")
     ap.add_argument("--doctrine", default="crimlaw", help="Top-level folder name (default: crimlaw)")
     ap.add_argument("--root", default=None, help="Override root path (if set, ignores --doctrine)")
-    ap.add_argument("--topic", required=True, help="Folder path under root (e.g., homicide OR R2D OR 'UCC FULL')")
-
+    ap.add_argument("--topic", required=True, help="Folder OR file path under root (e.g., CASEBOOK OR CASEBOOK/chapter_7...txt)")
     ap.add_argument("--exts", default="md,txt", help="Comma-separated extensions to include (default: md,txt)")
-    ap.add_argument(
-        "--include-casebook",
-        action="store_true",
-        help="Do not exclude 'casebook_text' directory (kept for backward compatibility)",
-    )
     ap.add_argument("--exclude-dirs", default=None, help="Comma-separated dir names to exclude (optional)")
     ap.add_argument("--max-words", type=int, default=200, help="Max words in cloud")
-    ap.add_argument(
-        "--out",
-        default=None,
-        help="Output PNG path (default: studytools/out/<doctrine>__<topic>_wordcloud.png)",
-    )
+    ap.add_argument("--out", default=None, help="Output PNG path (optional)")
     args = ap.parse_args()
 
     root = Path(args.root) if args.root else Path(args.doctrine)
-
     exts = _parse_exts(args.exts)
 
     exclude_dirs = set()
-    if not args.include_casebook:
-        exclude_dirs.add("casebook_text")
     if args.exclude_dirs:
         exclude_dirs |= {d.strip() for d in args.exclude_dirs.split(",") if d.strip()}
 
-    text = read_target_text(root=root, topic=args.topic, exts=exts, exclude_dirs=exclude_dirs)
+    text = load_text(root=root, topic=args.topic, exts=exts, exclude_dirs=exclude_dirs)
     tokens = tokenize(text)
 
     freqs = Counter(tokens)

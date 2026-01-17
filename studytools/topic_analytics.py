@@ -49,7 +49,7 @@ def _iter_files(base: Path, exts: tuple[str, ...], exclude_dirs: set[str]) -> It
         yield p
 
 
-def load_text(root: Path, topic: str, exts: tuple[str, ...], exclude_dirs: set[str]) -> str:
+def collect_documents(root: Path, topic: str, exts: tuple[str, ...], exclude_dirs: set[str]) -> list[str]:
     target = (root / topic).resolve()
 
     paths: list[Path] = []
@@ -72,12 +72,14 @@ def load_text(root: Path, topic: str, exts: tuple[str, ...], exclude_dirs: set[s
     else:
         raise FileNotFoundError(f"Target not found: {target}")
 
+    paths = sorted(paths)
     if not paths:
         raise FileNotFoundError(f"No matching files found for: {target}")
 
-    return "\n".join(
-        p.read_text(encoding="utf-8", errors="ignore") for p in sorted(paths)
-    )
+    docs: list[str] = []
+    for p in paths:
+        docs.append(p.read_text(encoding="utf-8", errors="ignore"))
+    return docs
 
 
 
@@ -149,7 +151,8 @@ def main():
     if args.exclude_dirs:
         exclude_dirs |= {d.strip() for d in args.exclude_dirs.split(",") if d.strip()}
 
-    text = load_text(root=root, topic=args.topic, exts=exts, exclude_dirs=exclude_dirs)
+    docs = collect_documents(root=root, topic=args.topic, exts=exts, exclude_dirs=exclude_dirs)
+    text = "\n".join(docs)  # for token counts/bigrams
     tokens = tokenize(text)
 
     out_dir = Path("studytools/out")
@@ -168,11 +171,19 @@ def main():
     bigram_counts = Counter(bi).most_common(args.topn)
     bar_plot(bigram_counts, f"Top bigrams — {args.topic}", out_dir / f"{prefix}_top_bigrams.png")
 
-    # TF-IDF keywords (single-doc TF-IDF still helpful for “distinctive-ish” terms)
-    vec = TfidfVectorizer(stop_words=list(STOPWORDS), ngram_range=(1, 2), min_df=2)
-    X = vec.fit_transform([text])
-    scores = X.toarray()[0]
+    # TF-IDF keywords across documents (folder = many docs, file = 1 doc)
+    min_df = 1 if len(docs) == 1 else 2
+
+    vec = TfidfVectorizer(
+        stop_words=list(STOPWORDS),
+        ngram_range=(1, 2),
+        min_df=min_df,
+    )
+
+    X = vec.fit_transform(docs)
+    scores = X.mean(axis=0).A1  # average tf-idf across docs
     feats = vec.get_feature_names_out()
+
     top_idx = scores.argsort()[-args.topn:][::-1]
     tfidf_top = [(feats[i], float(scores[i])) for i in top_idx if scores[i] > 0]
 
