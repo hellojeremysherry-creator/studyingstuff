@@ -8,12 +8,21 @@ for name in os.listdir(HERE):
     if not name.endswith(".txt"):
         continue
 
-    # Skip the script itself just in case
     if name == "rename_files.py":
         continue
 
-    # Replace one or more spaces with a single underscore
-    new_name = re.sub(r"\s+", "_", name)
+    base, ext = os.path.splitext(name)
+
+    # Replace spaces, dashes, periods, commas, semicolons with underscores
+    cleaned = re.sub(r"[ \-.,;()]+", "_", base)
+
+    # Collapse multiple underscores
+    cleaned = re.sub(r"_+", "_", cleaned)
+
+    # Strip leading/trailing underscores (optional but nice)
+    cleaned = cleaned.strip("_")
+
+    new_name = cleaned + ext
 
     if new_name != name:
         old_path = os.path.join(HERE, name)

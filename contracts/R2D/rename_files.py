@@ -13,8 +13,8 @@ for name in os.listdir(HERE):
 
     base, ext = os.path.splitext(name)
 
-    # Replace spaces, dashes, periods, semicolons with underscores
-    cleaned = re.sub(r"[ \-.;]+", "_", base)
+    # Replace spaces, dashes, periods, commas, semicolons with underscores
+    cleaned = re.sub(r"[ \-.,;()]+", "_", base)
 
     # Collapse multiple underscores
     cleaned = re.sub(r"_+", "_", cleaned)
