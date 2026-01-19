@@ -1,6 +1,10 @@
 site_name: iMustudy
 site_url: https://imustudy.online
+
 theme:
   name: material
+
 nav:
   - Home: index.md
+  - Contracts:
+      - Acceptance: contracts/acceptance.md

@@ -4,10 +4,11 @@ import os
 EXCLUDED_DIRS = {'.venv', '__pycache__', '.git'}
 
 # Only these directories will be shown directly under the project root
-ALLOWED_TOP_LEVEL_DIRS = {'contracts', 'crimlaw', 'crimpro', 'studytools'}
+ALLOWED_TOP_LEVEL_DIRS = {'contracts', 'studytools', 'docs'}
 
 # Only these file types will be shown
-ALLOWED_FILE_EXTS = {'.txt'}
+ALLOWED_FILE_EXTS = {'.txt', '.md'}
+PRINT_FILE_CONTENTS = True
 
 # Toggle: show file contents under each file (default OFF)
 PRINT_FILE_CONTENTS = False

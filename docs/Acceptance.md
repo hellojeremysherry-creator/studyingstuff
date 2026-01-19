@@ -1,4 +1,4 @@
-﻿## CHAPTER 3: HAS THE OFFER BEEN ACCEPTED?:
+## CHAPTER 3: HAS THE OFFER BEEN ACCEPTED?:
 
 Once it has been determined that an offer was made, there is still often a question as to whether the offer was accepted. This is often closely related to the question of whether the offer was still valid at the time the purported acceptance took place. Chapter 4 examines in detail the question of when an offer terminates or ceases to be effective, but you need to understand a few basics of this issue in order to appreciate the material in this chapter. There are four basic ways an offer may terminate. For purposes of illustrating all four, we’ll assume A has made the usual offer to B: “I’ll sell you my car for $1,000.” Any of these terminates the original offer:
 
