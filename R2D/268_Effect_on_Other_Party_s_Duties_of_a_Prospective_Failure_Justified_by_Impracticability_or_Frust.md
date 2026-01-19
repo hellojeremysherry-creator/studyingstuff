@@ -1,0 +1,76 @@
+Restat 2d of Contracts, § 268
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 268 Effect on Other Party's Duties of a Prospective Failure Justified by 
+Impracticability or Frustration
+(1)  A party's prospective failure of performance may, except as stated in Subsection (2), discharge the 
+other party's duties or allow him to suspend performance under the rules stated in §§ 251(1) and 253(2) 
+even though the failure would be justified under the rules stated in this Chapter.
+(2)  The rule stated in Subsection (1) does not apply if the other party assumed the risk that he would 
+have to perform in spite of such a failure.
+## Comments & Illustrations
+### Comment
+a.  Relation to other rules.  This Restatement adopts the principle "that a continuing sense of reliance and 
+security that the promised performance will be forthcoming when due, is an important feature of the bargain." 
+Comment 1 to Uniform Commercial Code § 2-609; see Comment a to § 251.  If there is reason to expect that a 
+party will not perform as promised, the other party has the protection afforded by the rules stated in §§ 250 and 
+253 if the first party has repudiated, and by the rule stated in § 251 if reasonable grounds for insecurity have 
+arisen with respect to the first party's future performance.  However, those sections apply only if such 
+prospective non-performance would amount to a breach.  This Section applies when the prospective non-
+performance would not be a breach because of the rules on impracticability of performance or frustration of 
+purpose stated in this Chapter.  Subsection (2) makes it clear that if the other party has assumed the risk that 
+he will have to perform although he receives no return performance, his duties are not discharged.
+b.  Statement or voluntary act.  If a party properly states that he will not perform because of impracticability of 
+his performance or frustration of his purpose, the other party cannot treat that statement as a repudiation under 
+the rule stated in § 250(a) because the threatened non-performance would not be a breach.  It therefore gives 
+him no claim for breach of contract.  Nevertheless, under the rule stated in this Section it discharges his 
+remaining duties to render the agreed exchange.  The same rule applies to a voluntary affirmative act that 
+would otherwise be a repudiation under the rule stated in § 250(b).  The rules on nullification of a repudiation (§ 
+256) and urging performance (§ 257) also apply to situations that come under this Section.
+### Illustration
+1.  A, an impresario, contracts with B, a singer, for an engagement for three months beginning on January 1.  
+On the preceding November 30, B contracts pneumonia, and states to A that he will be unable to sing before 
+February 1.  A employs another singer to fill B's place.  On January 1, B, having recovered, offers to perform 
+but A refuses.  Since B's statement would have been a repudiation under the rule stated in § 250 but for the 
+operation of the rules on impracticability of performance stated in §§ 261 and 262, A's duty to employ B is 
+discharged, and A is not liable to B for breach of contract.  Cf. Illustration 2 to § 242.
+c.  Failure to give assurances.  If reasonable grounds arise to believe that a party will not perform because of 
+impracticability of his performance or frustration of his purpose, the other party cannot demand assurances and 
+treat a failure to give them as a repudiation under the rule stated in § 251, because the prospective non-
+performance would not be a breach.  It therefore gives him no claim for breach of contract.  Nevertheless, 
+under the rule stated in this Section, he may in a proper case suspend his own performance and treat a failure 
+to give assurance as discharging any remaining duties that he has to render the agreed exchange.
+### Illustrations
+
+§ 268 Effect on Other Party’s Duties of a Prospective Failure Justified by Impracticability or Frustration
+2.  A, an impresario, contracts with B, a singer, for an engagement for three months beginning on January 1.  
+On the preceding November 30, B contracts pneumonia, and A is advised by competent medical authority that 
+B will not be able to sing before February 1.  A reasonably demands assurances of due performance by B.  B 
+ignores the demand, and A employs another singer to fill B's place.  On January 1, B, having recovered, offers 
+to perform, but A refuses.  Since B's failure to furnish assurance of due performance would have been a 
+repudiation under the rule stated in § 251 but for the operation of the rules on impracticability of performance 
+stated in §§ 261 and 262, A's duty to employ B is discharged, and A is not liable to B for breach of contract.
+3.  A contracts to sell land to B, title to be conveyed one year from the date of the contract.  B then learns from 
+reliable sources that the state plans to condemn the land for a highway before that time and reasonably 
+demands assurance of due performance by A.  A ignores the demand, and B acquires other land as a 
+substitute for that which A contracted to convey.  The state then abandons its plans to build the highway and A 
+tenders the deed one year from the date of the contract.  B refuses to perform.  Since A's failure to furnish 
+assurance of due performance would have been a repudiation under the rule stated in § 251 but for the 
+operation of the rules on impracticability of performance stated in §§ 261 and 264, B's duty to take and pay for 
+the land is discharged, and B is not liable to A for breach of contract.
+## Reporter'S Notes
+This Section is new.  It is suggested by Uniform Commercial Code § 2-609 and by § 251 of this Restatement.  It 
+replaces former §§ 281, 282 and 286.  See 6 Corbin, Contracts §§ 1259, 1260 (1962 & Supp. 1980); 6 
+Williston, Contracts §§ 877, 885 (3d ed. 1962).
+Comment b.  The facts in Illustration 1 are suggested by Illustration 2 to § 242 and by Poussard v. Spiers & 
+Pond, 1 Q.B. Div. 410 (1896).
+Comment c.  The facts in Illustration 2 are suggested by Illustration 2 to § 242 and by Poussard v. Spiers & 
+Pond, supra; see Illustration 3 to former § 282; Illustration 7 to former § 275; cf.  Illustration 4 to former § 323.  
+The facts in Illustration 3 are suggested by Hess v. Dumouchel Paper Co., 154 Conn. 343, 225 A.2d 797 
+(1966).
+Cross Reference
+### Digest System Key Numbers
+Contracts 309
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

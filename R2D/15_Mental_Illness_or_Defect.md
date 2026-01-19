@@ -1,0 +1,168 @@
+Restat 2d of Contracts, § 15
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 2- Formation of 
+Contracts -- Parties and Capacity        
+§ 15 Mental Illness or Defect
+(1)  A person incurs only voidable contractual duties by entering into a transaction if by reason of 
+mental illness or defect
+(a)  he is unable to understand in a reasonable manner the nature and consequences of the transaction, 
+or
+(b)  he is unable to act in a reasonable manner in relation to the transaction and the other party has 
+reason to know of his condition.
+(2)  Where the contract is made on fair terms and the other party is without knowledge of the mental 
+illness or defect, the power of avoidance under Subsection (1) terminates to the extent that the contract 
+has been so performed in whole or in part or the circumstances have so changed that avoidance would 
+be unjust.  In such a case a court may grant relief as justice requires.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  A contract made by a person who is mentally incompetent requires the reconciliation of two 
+conflicting policies: the protection of justifiable expectations and of the security of transactions, and the 
+protection of persons unable to protect themselves against imposition.  Each policy has sometimes prevailed to 
+a greater extent than is stated in this Section.  At one extreme, it has been said that a lunatic has no capacity to 
+contract because he has no mind; this view has given way to a better understanding of mental phenomena and 
+to the doctrine that contractual obligation depends on manifestation of assent rather than on mental assent.  
+See §§ 2, 19.  At the other extreme, it has been asserted that mental incompetency has no effect on a contract 
+unless other grounds of avoidance are present, such as fraud, undue influence, or gross inadequacy of 
+consideration; it is now widely believed that such a rule gives inadequate protection to the incompetent and his 
+family, particularly where the contract is entirely executory.
+b.  The standard of competency.  It is now recognized that there is a wide variety of types and degrees of 
+mental incompetency.  Among them are congenital deficiencies in intelligence, the mental deterioration of old 
+age, the effects of brain damage caused by accident or organic disease, and mental illnesses evidenced by 
+such symptoms as delusions, hallucinations, delirium, confusion and depression.  Where no guardian has been 
+appointed, there is full contractual capacity in any case unless the mental illness or defect has affected the 
+particular transaction: a person may be able to understand almost nothing, or only simple or routine 
+transactions, or he may be incompetent only with respect to a particular type of transaction.  Even though 
+understanding is complete, he may lack the ability to control his acts in the way that the normal individual can 
+and does control them; in such cases the inability makes the contract voidable only if the other party has reason 
+to know of his condition.  Where a person has some understanding of a particular transaction which is affected 
+by mental illness or defect, the controlling consideration is whether the transaction in its result is one which a 
+reasonably competent person might have made.
+### Illustration
+1.  A, a school teacher, is a member of a retirement plan and has elected a lower monthly benefit in order to 
+provide a benefit to her husband if she dies first.  At age 60 she suffers a "nervous breakdown," takes a leave 
+of absence, and is treated for cerebral arteriosclerosis.  When the leave expires she applies for retirement, 
+revokes her previous election, and elects a larger annuity with no death benefit.  In view of her reduced life 
+
+§ 15 Mental Illness or Defect
+expectancy, the change is foolhardy, and there are no other circumstances to explain the change.  She fully 
+understands the plan, but by reason of mental illness is unable to make a decision based on the prospect of her 
+dying before her husband.  The officers of the plan have reason to know of her condition.  Two months after the 
+changed election she dies.  The change of election is voidable.
+c.  Proof of incompetency.  Where there has been no previous adjudication of incompetency, the burden of 
+proof is on the party asserting incompetency.  Proof of irrational or unintelligent behavior is essential; almost 
+any conduct of the person may be relevant, as may lay and expert opinions and prior and subsequent 
+adjudications of incompetency.  Age, bodily infirmity or disease, use of alcohol or drugs, and illiteracy may 
+bolster other evidence of incompetency.  Other facts have significance when there is mental illness or defect 
+but some understanding: absence of independent advice, confidential or fiduciary relationship, undue influence, 
+fraud, or secrecy; in such cases the critical fact often is departure from the normal pattern of similar 
+transactions, and particularly inadequacy of consideration.
+d.  Operative effect of incompetency.  Where no guardian has been appointed, the effect on executory 
+contracts of incompetency by reason of mental illness or defect is very much like that of infancy.  Regardless of 
+the other party's knowledge or good faith and regardless of the fairness of the terms, the incompetent person 
+on regaining full capacity may affirm or disaffirm the contract, or the power to affirm or disaffirm may be 
+exercised on his behalf by his guardian or after his death by his personal representative.  There may, however, 
+be related obligations imposed by law independently of contract which cannot be disaffirmed.  See Comment f 
+to § 12, Comment b to § 14.  And if the other party did not know of the incompetency at the time of contracting 
+he cannot be compelled to perform unless the contract is effectively affirmed.
+### Illustration
+2.  A, an incompetent not under guardianship, contracts to sell land to B, who does not know of the 
+incompetency.  A continues to be incompetent.  On discovering the incompetency, B may refuse to perform 
+until a guardian is appointed, and if none is appointed within a reasonable time may obtain a decree canceling 
+the contract.
+e.  Effect of performance.  Where the contract has been performed in whole or in part, avoidance is permitted 
+only on equitable terms.  In the traditional action at law, the doing of equity by or on behalf of the incompetent 
+was accomplished by a tender before suit, but in equity or under modern merged procedure it is provided for in 
+the decree.  Any benefits still retained by the incompetent must be restored or paid for, and restitution must be 
+made for any necessaries furnished under the contract.  See Comment f to § 12.  If the other party knew of the 
+incompetency at the time of contracting, or if he took unfair advantage of the incompetent, consideration not 
+received by the incompetent or dissipated without benefit to him need not be restored.
+### Illustrations
+3.  A, an incompetent not under guardianship, contracts to buy land for a fair price from B, who does not know 
+of the incompetency.  Shortly after transfer of title to A and part payment by A, A dies.  A's personal 
+representative may recover A's part payment on reconveying the land to B.
+4.  The facts being otherwise as stated in Illustration 3, C, with knowledge of A's incompetency, renders legal 
+services to A in the transaction; after learning of A's incompetency, B pays $ 500 to C pursuant to the contract.  
+A's personal representative need not reimburse B for the payment.
+f.  When avoidance is inequitable.  If the contract is made on fair terms and the other party has no reason to 
+know of the incompetency, performance in whole or in part may so change the situation that the parties cannot 
+be restored to their previous positions or may otherwise render avoidance inequitable.  The contract then 
+ceases to be voidable.  Where the other party, though acting in good faith, had reason to know of the 
+incompetency at the time of contracting or performance, or where the equities can be partially adjusted by the 
+decree, the court may grant or deny relief as the situation requires.  Factors to be taken into account in such 
+cases include not only benefits conferred and received on both sides but also the extent to which avoidance will 
+benefit the incompetent and the extent to which others who will benefit from avoidance had opportunities to 
+prevent the situation from arising.
+### Illustrations
+5.  A, an incompetent spouse not under guardianship, mortgages land on fair terms to B, a bank which has no 
+knowledge or reason to know of the incompetency, for a loan of $ 2,000.  At A's request the money is paid to 
+the other spouse, C, who absconds with it.  The contract is not voidable.
+
+§ 15 Mental Illness or Defect
+6.  A, a congenital imbecile not under guardianship, has an interest in unimproved land which is contingent on 
+his surviving his father B.  A joins B and C, a cousin, in leasing the land on fair terms for 25 years to D, who has 
+no reason to know of the incompetency.  Subsequently A assigns his interest in the rent to C in return for C's 
+agreement to support A for life, which C duly performs.  Five years later A joins B and C in an outright sale of 
+the land to D.  On B's death avoidance of the sale of A's interest may be equitable if D can be assured 
+ofrepayment of the price and of retaining improvements made by him after the sale; avoidance of the lease 
+would be inequitable.
+7.  A, an incompetent not under guardianship, lives on a homestead with his mother B and brother C.  A also 
+holds a mortgage on a second tract of land owned by C.  To prevent foreclosure of a mortgage on the 
+homestead, A, B and C join in borrowing money from D on a mortgage of both tracts on fair terms.  D acts in 
+good faith but has reason to know of A's incompetency.  A dies, leaving B his sole heir.  The mortgage to D is 
+not voidable for the benefit of B.
+## Reporter'S Notes
+This Section is new.  See 2 Williston, Contracts §§ 249-56 (3d ed. 1959); 1 Corbin, Contracts § 6 (1963 & 
+Supp. 1980); Allen, Ferster & Weihofen, Mental Impairment and Legal Incompetency 263-82 (1968); Brakel & 
+Rock, The Mentally Disabled and the Law 304-05, 315-21 (rev. ed. 1971); Madden, Persons and Domestic 
+Relations §§ 235-40 (1931); Smoot, Insanity §§ 333-49 (1929); Weihofen, Mental Incompetency to Contract or 
+Convey, 39 So. Cal. L. Rev. 211 (1966); Green, Public Policies Underlying the Law of Mental Incompetency, 38 
+Mich. L. Rev. 1189 (1940); Green, Proof of Mental Incompetency, 6 Mo. L. Rev. 141 (1941); Green, Proof of 
+Mental Incompetency and the Unexpressed Major Premise, 53 Yale L.J. 271 (1944); Green, The Operative 
+Effect of Mental Incompetency on Agreements and Wills, 21 Tex. L. Rev. 554 (1943); Virtue, Restitution from 
+the Mentally Infirm, 26 N.Y.U.L. Rev. 132, 291 (1951); Comment, 45 N.Y.U.L. Rev. 585 (1970); Note, 16 Wayne 
+L. Rev. 1188 (1970); Note, Mental Illness and the Law of Contracts, 57 Mich. L. Rev. 1020 (1959); Annots., 46 
+A.L.R. 416 (1927), 95 A.L.R. 1442 (1935). Additional readings through 1974 may be found in Brooks, Law, 
+Psychiatry and the Mental Health System 999-1000 (1974).
+Comment b.  For a discussion of the types of incompetency and analysis of the authorities indicating that the 
+cognitive test has been supplanted by the standard of the fairness of the particular transaction, see Green, 
+Proof of Mental Incompetency and the Unexpressed Major Premise, 53 Yale L.J. 271 (1944).
+An additional and major distinction has been made between the cognitive test and one which also considers the 
+impact of psychosis on judgment and control of behavior even though a party understands the nature of an 
+"unwise and foolhardy" transaction.  This "affective" or "motivational" approach is found in Ortelere v. Teachers' 
+Retirement Bd., 25 N.Y.2d 196, 303 N.Y.S.2d 362, 250 N.E.2d 460 (1969) (Breitel, J.), 45 N.Y.U.L. Rev. 585 
+(1970), 16 Wayne L. Rev. 1188 (1970), upon which Illustration 1 is based, and which relied in substantial part 
+on the Tentative Draft of Subsection (1) (b).  A contract entered into during the manic phase of manic-
+depressive illness was invalidated without a finding of unfairness in the important case of Faber v. Sweet Style 
+Mfg. Corp., 40 Misc. 2d 212, 242 N.Y.S.2d 763 (Sup. Ct. 1963), 39 N.Y.U.L. Rev. 356 (1964). The general 
+approach of Faber was approved of by the New York Court of Appeals in Ortelere, but Faber was limited by a 
+lower court in Fingerhut v. Kralyn Enterprises, 71 Misc. 2d 846, 337 N.Y.S.2d 394 (Sup. Ct. 1971), aff'd, 40 
+A.D.2d 595, 335 N.Y.S.2d 926 (1972), to psychotic mania, in accordance with a dictum in Ortelere limiting relief 
+to medically classified psychoses.  This psychosis-neurosis distinction is criticized in Note, 16 Wayne L. Rev. 
+1188, 1194-96 (1970), and (implicitly) in Danzig, The Capability Problem in Contract Law 202-03 (1978).
+The Faber-Ortelere motivational approach was approved of, and the Tentative Draft of this Section quoted in 
+support, in Nohra v. Evans, 509 S.W.2d 648 (Tex. Civ. App. 1974). See also Krasner v. Berk, 366 Mass. 464, 
+319 N.E.2d 897 (1974), and Gore v. Gadd, 268 Or. 527, 522 P.2d 212 (1974). The approach is criticized in 
+Alexander & Szasz, From Contract to Status Via Psychiatry, 13 Santa Clara Law. 537 (1973), and a California 
+court refused to follow Faber, relying, however, on the text of a state statute, which the court interpreted as 
+mandating a cognitive approach only.  See Smalley v. Baker, 262 Cal. App.2d 824, 69 Cal. Rptr. 521 (1968). 
+Compare discussion of the analogous problem of the criminal law in United States v. Brawner, 471 F.2d 969 
+(D.C. Cir. 1972); Model Penal Code § 4.01 and Comment.
+Comment c.  A substantial excerpt from the trial in Ortelere v. Teachers' Retirement Bd., supra, is reprinted in 
+Danzig, The Capability Problem in Contract Law 161-200 (1978).  Procedural and evidentiary problems in 
+
+§ 15 Mental Illness or Defect
+mental incapacity cases are discussed in Note, Mental Illness and the Law of Contracts, 57 Mich. L. Rev. 1020, 
+1038-58 (1959).
+Comments d-f.  Illustrations 2-7 are new.
+Cross Reference
+### ALR Annotations
+Termination of continuing guaranty by appointment of guardian or conservator for guarantor.  55 A.L.R.3d 344.
+Commitment of grantor to institution for insane as ground for setting aside conveyance in consideration of 
+support.  18 A.L.R.2d 906.
+Rights, duties, and liability of corporation in connection with transfer of stock of infant or incompetent.  3 
+A.L.R.2d 881.
+### Digest System Key Numbers
+Contracts 92
+Mental Health 372
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

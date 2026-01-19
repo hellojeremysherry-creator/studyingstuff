@@ -1,0 +1,109 @@
+Restat 2d of Contracts, § 26
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 3- Making of Offers        
+§ 26 Preliminary Negotiations
+A manifestation of willingness to enter into a bargain is not an offer if the person to whom it is 
+addressed knows or has reason to know that the person making it does not intend to conclude a 
+bargain until he has made a further manifestation of assent.
+## Comments & Illustrations
+### Comment
+a.  Interpretation of proposals for exchange.  The rule stated in this Section is a special application of the 
+definition in § 24 and of the principles governing the interpretation of manifestations of assent.  See § 20 and 
+Chapter 9.  Conduct which resembles an offer may not be so intended either because there is an intent not to 
+affect legal relations (see § 18), or because the actor does not intend to engage in the conduct (see § 19), or 
+because the proposal is not addressed to the recipient or is not received by the addressee (see § 23), or 
+because the proposal contemplates a gift rather than a bargain (see Comment b to § 24).  This Section deals 
+rather with the case where the actor intends to make a bargain in the future, but only if he makes some further 
+manifestation of assent.  If the addressee of a proposal has reason to know that no offer is intended, there is no 
+offer even though he understands it to be an offer.  "Reason to know" depends not only on the words or other 
+conduct, but also on the circumstances, including previous communications of the parties and the usages of 
+their community or line of business.
+b.  Advertising.  Business enterprises commonly secure general publicity for the goods or services they supply 
+or purchase.  Advertisements of goods by display, sign, handbill, newspaper, radio or television are not 
+ordinarily intended or understood as offers to sell.  The same is true of catalogues, price lists and circulars, 
+even though the terms of suggested bargains may be stated in some detail.  It is of course possible to make an 
+offer by an advertisement directed to the general public (see § 29), but there must ordinarily be some language 
+of commitment or some invitation to take action without further communication.
+### Illustrations
+1.  A, a clothing merchant, advertises overcoats of a certain kind for sale at $ 50.  This is not an offer, but an 
+invitation to the public to come and purchase.  The addition of the words "Out they go Saturday; First Come 
+First Served" might make the advertisement an offer.
+2.  A advertises that he will pay $ 5 for every copy of a certain book that may be sent to him.  This is an offer, 
+and A is bound to pay $ 5 for every copy sent while the offer is unrevoked.
+c.  Quotation of price.  A "quotation" of price is usually a statement of price per unit of quantity; it may omit the 
+quantity to be sold, time and place of delivery, terms of payment, and other terms.  It is sometimes associated 
+with a price list or circular, but the word "quote" is commonly understood as inviting an offer rather than as 
+making one, even when directed to a particular customer.  But just as the word "offer" does not necessarily 
+mean that an offer is intended, so the word "quote" may be used in an offer.  In determining whether an offer is 
+made relevant factors include the terms of any previous inquiry, the completeness of the terms of the 
+suggested bargain, and the number of persons to whom a communication is addressed.
+### Illustration
+3.  A writes to B, "I can quote you flour at $ 5 a barrel in carload lots." This is not an offer, in view of the word 
+"quote" and incompleteness of the terms.  The same words, in response to an inquiry specifying detailed terms, 
+would probably be an offer; and if A added "for immediate acceptance" the intent to make an offer would be 
+unmistakable.
+
+§ 26 Preliminary Negotiations
+d.  Invitation of bids or other offers.  Even though terms are specified in detail, it is common for one party to 
+request the other to make an offer.  The words "Make me an offer" would normally indicate that no offer is being 
+made, and other conduct such as the announcement of an auction may have similar effect.  See § 28.  A 
+request for bids on a construction project is similar, even though the practice may be to accept the lowest bid 
+conforming to specifications and other requirements.  And forms used or statements made by a traveling 
+salesman may make it clear that the customer is making an offer to be accepted at the salesman's home office.  
+See § 69.
+### Illustration
+4.  A writes B, "I am eager to sell my house.  I would consider $ 20,000 for it." B promptly answers, "I will buy 
+your house for $ 20,000 cash." There is no contract.  A's letter is a request or suggestion that an offer be made 
+to him.  B has made an offer.
+e.  Written contract documents.  A standard method of making an offer is to submit to the offeree a written 
+agreement signed by the offeror and to invite the offeree to sign on a line provided for that purpose.  See § 27.  
+But the signature even in such a case is not conclusive if the other party has reason to know that no offer is 
+intended.  More common is the use of promissory expressions or words of assent in unsigned documents or 
+letters where the document is intended not as an offer but only as a step in the preliminary negotiation of terms, 
+or as a specimen for use in other transactions, or as something to be shown to a third person to influence his 
+action.  Reason to know that such is the intention may exist even though the document on its face seems to be 
+clear and unambiguous.
+f.  Preliminary manifestations as terms of later offer.  Even though a communication is not an offer, it may 
+contain promises or representations which are incorporated in a subsequent offer and hence become part of 
+the contract made when the offer is accepted.  Indeed, the preliminary communication may thus form part of a 
+written contract, or of a memorandum satisfying the Statute of Frauds, or of an integrated contract.  See 
+Comment c to § 20, §§ 132, 202.
+## Reporter'S Notes
+This Section is based on former § 25.  See 1 Williston, Contracts §§ 26-27 (3d ed. 1957); 1 Corbin, Contracts 
+§§ 22-29 (1963 & Supp. 1980); Murray, Contracts § 24 (1977).
+Comment a.  On the importance of context in resolving whether an offer is made, see R.E. Crummer & Co. v. 
+Nuveen, 147 F.2d 3 (7th Cir. 1945). In Redman v. Whitney, 541 S.W.2d 889 (Tex. Civ. App. 1976), the words "it 
+is my understanding that my client is desirous of paying the balance" were held not definite enough to be an 
+offer.
+Comment b.  Illustration 1 is based on Illustration 1 to former § 25 and is supported by many cases; see, e.g., 
+Craft v. Elder & Johnston Co., 38 N.E.2d 416 (Ohio Ct. App. 1941); Steinberg v. Chicago Medical School, 69 
+Ill.2d 320, 13 Ill. Dec. 699, 371 N.E.2d 634 (1977), citing this Illustration in Tentative Draft.  The last sentence of 
+Illustration 1 is based on Lefkowitz v. Great Minneapolis Surplus Store, 251 Minn. 188, 86 N.W.2d 689 (1957); 
+see also O'Keefe v. Lee Calan Imports, Inc., 128 Ill. App.2d 410, 262 N.E.2d 758 (1970). Illustration 2 is based 
+on Illustration 3 to former § 25.
+Comment c.  Typical examples of price quotations held not to be offers are found in Thomas J. Sheehan v. 
+Crane Co., 418 F.2d 642 (8th Cir. 1969); Interstate Indus. v. Barclay Indus., 540 F.2d 868 (7th Cir. 1976). In 
+both opinions the courts went beyond the bare words of the price quotation to consider the surrounding 
+circumstances.  In Southworth v. Oliver, 284 Or. 361, 587 P.2d 994 (1978), the court found that the impact 
+upon a reasonable recipient turned a quotation into an offer.  In Maryland Supreme Corp. v. Blake, 279 Md. 
+531, 369 A.2d 1017 (1977), a "quotation" by a subcontractor, which stated that "the price will be guaranteed to 
+hold throughout the job" was held to be an offer.  Illustration 3 is based on Illustration 2 to former § 25; its last 
+sentence is based on Fairmount Glass Works v. Crunden-Martin Woodenware Co., 106 Ky. 659, 51 S.W. 196 
+(1899).
+Comment d.  For analyses of tender offers to buy corporate securities, see Kroeze v. Chloride Group Ltd., 572 
+F.2d 1099 (5th Cir. 1978); Lowenschuss v. Kane, 520 F.2d 255, 265 n.9 (2d Cir. 1975), on remand, 72 F.R.D. 
+498 (1976). Illustration 4 is based on Illustration 4 to former § 25; see Owen v. Tunison, 131 Me. 42, 158 A. 926 
+(1932); Harvey v. Facey, [1893] A.C. 552 (P.C.); In re Johnson's Estate, 74 Misc.2d 788, 346 N.Y.S.2d 283 
+(1973).
+Comment e.  Cf.  Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 (1966).
+
+§ 26 Preliminary Negotiations
+Comment f.  See Steinberg v. Chicago Medical School, 69 Ill.2d 320, 13 Ill. Dec. 699, 371 N.E.2d 634 (1977).
+Cross Reference
+### ALR Annotations
+Manner and sufficiency of pleading agency in contract action.  45 A.L.R.2d 583.
+### Digest System Key Numbers
+Contracts 16
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

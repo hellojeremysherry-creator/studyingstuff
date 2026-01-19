@@ -1,0 +1,9 @@
+## U.C.C. § 2-721
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 7. REMEDIES
+§ 2-721. Remedies for Fraud.
+Remedies for material misrepresentation or fraud include all remedies available under this Article for non-fraudulent 
+breach.  Neither rescission or a claim for rescission of the contract for sale nor rejection or return of the goods shall 
+bar or be deemed inconsistent with a claim for damages or other remedy.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

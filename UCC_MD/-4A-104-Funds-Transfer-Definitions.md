@@ -1,0 +1,18 @@
+## U.C.C. § 4A-104
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4A. FUNDS TRANSFERS  >  PART 1. SUBJECT 
+## Matter And Definitions
+§ 4A-104. Funds Transfer-Definitions.
+### In this Article
+(a)  "Funds transfer" means the series of transactions, beginning with the originator's payment order, 
+made for the purpose of making payment to the beneficiary of the order.  The term includes any 
+payment order issued by the originator's bank or an intermediary bank intended to carry out the 
+originator's payment order.  A funds transfer is completed by acceptance by the beneficiary's bank of a 
+payment order for the benefit of the beneficiary of the originator's payment order.
+(b)  "Intermediary bank" means a receiving bank other than the originator's bank or the beneficiary's 
+bank.
+(c)  "Originator" means the sender of the first payment order in a funds transfer.
+(d)  "Originator's bank" means (i) the receiving bank to which the payment order of the originator is 
+issued if the originator is not a bank, or (ii) the originator if the originator is a bank.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

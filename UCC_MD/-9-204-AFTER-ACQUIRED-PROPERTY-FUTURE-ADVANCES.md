@@ -1,0 +1,18 @@
+## U.C.C. § 9-204
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 2. 
+## Effectiveness Of Security Agreement; Attachment Of Security Interest; Rights
+## Of Parties To Security Agreement  >  Subpart 1. Effectiveness And Attachment
+## § 9-204. After-Acquired Property; Future Advances
+(a) [After-acquired collateral.]  Except as otherwise provided in subsection (b), a security agreement may 
+create or provide for a security interest in after-acquired collateral.
+(b) [When after-acquired property clause not effective.]  A security interest does not attach under a 
+### term constituting an after-acquired property clause to
+(1)  consumer goods, other than an accession when given as additional security, unless the debtor 
+acquires rights in them within 10 days after the secured party gives value; or
+(2)  a commercial tort claim.
+(c) [Future advances and other value.]  A security agreement may provide that collateral secures, or that 
+accounts, chattel paper, payment intangibles, or promissory notes are sold in connection with, future 
+advances or other value, whether or not the advances or value are given pursuant to commitment.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,213 @@
+Restat 2d of Contracts, § 251
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 3- Effect of Prospective Non-Performance        
+§ 251 When a Failure to Give Assurance May Be Treated as a Repudiation
+(1)  Where reasonable grounds arise to believe that the obligor will commit a breach by non-
+performance that would of itself give the obligee a claim for damages for total breach under § 243, the 
+obligee may demand adequate assurance of due performance and may, if reasonable, suspend any 
+performance for which he has not already received the agreed exchange until he receives such 
+assurance.
+(2)  The obligee may treat as a repudiation the obligor's failure to provide within a reasonable time such 
+assurance of due performance as is adequate in the circumstances of the particular case.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Ordinarily an obligee has no right to demand reassurance by the obligor that the latter will 
+perform when his performance is due.  However, a contract "imposes an obligation on each party that the 
+other's expectation of receiving due performance will not be impaired." Uniform Commercial Code § 2-609(1).  
+When, therefore, an obligee reasonably believes that the obligor will commit a breach by non-performance that 
+would of itself give him a claim for damages for total breach (§ 243), he may, under the rule stated in this 
+Section, be entitled to demand assurance of performance.  The rule is a generalization, applicable without 
+regard to the subject matter of the contract, from that of Uniform Commercial Code § 2-609.  The latter applies 
+only to contracts for the sale of goods and gives a party a right to adequate assurance of performance where 
+"reasonable grounds for insecurity arise with respect to the performance" of the other party.  Both rules rest on 
+the principle that the parties to a contract look to actual performance "and that a continuing sense of reliance 
+and security that the promised performance will be forthcoming when due, is an important feature of the 
+bargain." Comment 1 to Uniform Commercial Code § 2-609.  This principle is closely related to the duty of good 
+faith and fair dealing in the performance of the contract (§ 205).  See also Comment b to § 141.  The rule stated 
+in this Section may be modified by agreement of the parties, and where they have done so their rights depend 
+on the application of the rules on interpretation stated in Chapter 9, The Scope of Contractual Obligations.
+b.  Relation to other rules.  An obligee who believes, for whatever reason, that the obligor will not or cannot 
+perform without a breach, is always free to act on that belief.  If he is not himself under a duty to perform before 
+the obligor, he may simply await the obligor's performance and, if his belief is confirmed, he will have a claim for 
+damages for breach by non-performance.  If he can prove that his belief would have been confirmed, he is at 
+least shielded from liability even if he has failed to give a performance that is due before that of the obligor or 
+has, by making alternative arrangements, done an act that amounts to a repudiation.  For example, under § 
+254, the obligee's duty to pay damages for total breach by repudiation is discharged if the obligor himself would 
+not or could not have performed when his performance was due.  If, however, the obligee's belief is incorrect, 
+his own failure to perform or his making of alternate arrangements may subject him to a claim for damages for 
+total breach.  This Section affords him an opportunity, in appropriate cases, to demand assurance of due 
+performance and thereby avoid the uncertainties that would otherwise inhere in acting on his belief.  If it is then 
+reasonable for the obligee to suspend his own performance while he awaits assurance by the obligor, he may 
+do so under Subsection (1).  Under the special rule stated in § 252, the obligee may always suspend his own 
+performance where his belief that the obligor will commit a breach is based on the obligor's insolvency.  If the 
+obligee does not, within a reasonable time, obtain adequate assurance of due performance, he may under 
+Subsection (2) treat the obligor's failure to provide such an assurance as a repudiation.  His right to do so is, 
+however, subject to the rule stated in § 256 under which the manifestation of doubt or the apparent inability, on 
+
+§ 251 When a Failure to Give Assurance May Be Treated as a Repudiation
+which the obligee bases his belief that the obligor will commit a breach, may be nullified.  In contrast to the 
+situation where the obligor has actually repudiated under § 250, the obligee may choose not to treat the failure 
+to provide assurances as a repudiation and may continue to perform without affecting his right to recover 
+damages for subsequent loss that he could have avoided by so treating it.  See Comment a to § 257 and § 350.  
+If he chooses to treat the obligor's failure as a repudiation, it may have any of the three effects that any other 
+repudiation may have: it may give him a claim for damages for total breach (§ 253(1)), it may discharge his own 
+remaining duties of performance (§ 253(2)), and it may excuse the non-occurrence of a condition of the other 
+party's duty (§ 255).  The effect on the obligee's remaining duties of performance of prospective non-
+performance by the obligor that would not be a breach because it would be justified on the ground of 
+impracticability of performance is dealt with in § 268.
+### Illustrations
+1.  A contracts to let B use his concert hall on the evening of May 7 for a performance by B's string quartet, in 
+return for B's promise to perform and to pay A a percentage of the receipts.  The contract provides that B is not 
+discharged even if he is unable to transport his quartet to A's hall.  On May 6, because of an unexpected airline 
+strike, A reasonably believes that B's quartet will be unable to come the 3,000 miles necessary to perform in his 
+hall as scheduled.  Without demanding adequate assurance of due performance under the rule stated in this 
+Section, A then contracts with C to let C hold a meeting in the hall on the evening of May 7.  A's contract with C 
+is a repudiation of his contract with B (§ 250), which gives rise to a claim by B against A for damages for total 
+breach (§ 253).  If, however, B is in fact unable to bring his quartet to A's hall on May 7, B's claim against A is 
+discharged (§ 254).
+2.  The facts being otherwise as stated in Illustration 1, B succeeds in chartering a plane and flies the 3,000 
+miles with his quartet in his private plane.  He arrives in time to perform, but is unable to do so because C is 
+using the hall.  B has a claim against A for damages for total breach (§ 243).
+c.  Reasonable grounds for belief.  Whether "reasonable grounds" have arisen for an obligee's belief that there 
+will be a breach must be determined in the light of all the circumstances of the particular case.  The grounds for 
+his belief must have arisen after the time when the contract was made and cannot be based on facts known to 
+him at that time.  Nor, since the grounds must be reasonable, can they be based on events that occurred after 
+that time but as to which he took the risk when he made the contract.  But minor breaches may give reasonable 
+grounds for a belief that there will be more serious breaches, and the mere failure of the obligee to press a 
+claim for damages for those minor breaches will not preclude him from basing a demand for assurances on 
+them.  Compare § 241(d), Comment e to that section, and Comment b to § 242.  Even circumstances that do 
+not relate to the particular contract, such as defaults under other contracts, may give reasonable grounds for 
+such a belief.  See Comment a to § 252.  Conduct by a party that indicates his doubt as to his willingness or 
+ability to perform but that is not sufficiently positive to amount to a repudiation (see Comment b to § 250), may 
+give reasonable grounds for such a belief.  And events that indicate a party's apparent inability, but do not 
+amount to a repudiation because they are not voluntary acts, may also give reasonable grounds for such a 
+belief.  One important application of the rule stated in this Section occurs when a party who has contracted to 
+buy specific property, land or goods, discovers that the seller has neither present ownership of the property nor 
+a right to become or at least a reasonable expectation of becoming the owner in time to perform.  Another 
+important application of the rule occurs when an obligor who is allowed a period of time within which to perform 
+makes an offer of defective performance.  It may still be possible for him, if the offer is refused, to make an offer 
+of conforming performance within the period allowed.  Nevertheless, the offer of defective performance may 
+give the obligee reasonable grounds to believe that the obligor will commit a breach under this Section.  A third 
+important application of the rule occurs when a party becomes insolvent.  The effect of insolvency will vary 
+according to the nature of the obligor's duty.  If, for example, it is merely to perform personal services, the fact 
+of insolvency alone may not give reasonable grounds to believe that the obligor will commit a breach, but if it is 
+to pay for goods on credit it will.  See Uniform Commercial Code § 2-702(1).  A special rule on insolvency is 
+stated in § 252.  In any case, in order for this Section to apply, the breach that the obligee believes the obligor 
+will commit must be a breach by non-performance that would so substantially impair the value of the contract to 
+the obligee that it would of itself, unaccompanied by a repudiation, give him a claim for damages for total 
+breach under § 243.
+### Illustrations
+
+§ 251 When a Failure to Give Assurance May Be Treated as a Repudiation
+3.  On May 1, A contracts to sell and B to buy a parcel of land for $ 50,000, delivery of the deed and payment of 
+the price to be on July 30.  Unknown to both A and B, C has a dower interest in the land.  On May 15, B 
+discovers this and demands that A give him adequate assurance of due performance.  A fails to do so, and B 
+commences an action against A on July 1.  B had reasonable grounds to believe that A would commit a breach 
+by non-performance that would of itself have given B a claim for damages for total breach.  If the court 
+concludes that a reasonable time for A to give assurances had passed on July 1, B properly treated A's failure 
+to give assurances as a repudiation.  B then has a claim for damages against A for total breach.
+4.  The facts being otherwise as stated in Illustration 3, C's interest in the land is that of mortgagee under a 
+mortgage that A can discharge at any time by payment of the mortgage debt.  B had no reasonable grounds to 
+believe that A would commit a breach, B could not treat A's failure to give assurances as a repudiation, and B 
+has no claim for damages against A.  Compare Illustration 6 to § 250.
+5.  A contracts to sell and B to buy A's house, delivery of the deed and payment of the price to be made during 
+September.  On September 1, A offers to deliver a deed to B which is defective in that a fence projects beyond 
+the front line of the house and the swimming pool lacks a certificate of occupancy.  Both defects can be cured 
+by A within the month, but A fails to reply to a demand by B that A assure B that A will cure them within that 
+time.  On September 20, B notifies A that he cancels the contract.  On September 30, A, having cured the 
+defects, offers to deliver a conforming deed to B.  A court may conclude that, as a result of A's apparent inability 
+to perform, B had reasonable grounds to believe that A would commit a breach by non-performance that would 
+of itself have given B a claim for damages for total breach, that A failed upon demand by B to give adequate 
+assurance of due performance within a reasonable time, and therefore that B properly treated A's failure as a 
+repudiation.  B then has a claim against A for damages for total breach.
+d.  Nature of demand.  A party who demands assurances must do so in accordance with his duty of good faith 
+and fair dealing in the enforcement of the contract (§ 205).  Whether a particular demand for assurance 
+conforms to that duty will depend on the circumstances.  The demand need not be in writing.  Although a 
+written demand is usually preferable to an oral one, if time is of particular importance the additional time 
+required for a written demand might necessitate an oral one.  Compare Uniform Commercial Code § 2-609(1), 
+which controls in the case of a sale of goods and which requires a demand "in writing." Harrassment by means 
+of frequent unjustified demands may amount to a violation of the duty of good faith and fair dealing.
+### Illustration
+6.  The facts being otherwise as stated in Illustration 1, before contracting with C, A telephones B on May 6 and 
+asks B to assure him that he will be there on May 7.  B says only "We will do our best to get there." B succeeds 
+in chartering a plane and flies the 3,000 miles with his quartet.  He arrives in time to perform, but is unable to do 
+so because C is using the hall.  In the absence of countervailing circumstances, a court should conclude that, 
+as a result of B's apparent inability to perform, A had reasonable grounds to believe that B would commit a 
+breach by non-performance that would of itself have given A a claim for damages for total breach, that because 
+of the shortness of time a demand by telephone conformed to the duty of good faith and fair dealing (§ 205), 
+that B failed upon such a demand to give adequate assurance of due performance, and therefore that A 
+properly treated B's failure as a repudiation.  A then has a claim against B for damages for total breach.
+e.  Nature and time of assurance.  Whether an assurance of due performance is "adequate" depends on what it 
+is reasonable to require in a particular case taking account of the circumstances of that case.  The relationship 
+between the parties, any prior dealings that they have had, the reputation of the party whose performance has 
+been called into question, the nature of the grounds for insecurity, and the time within which the assurance 
+must be furnished are all relevant factors.  (If the obligor's insolvency constitutes the grounds for the obligee's 
+insecurity, the special rule stated in § 252 empowers him to suspend performance until he receives assurance 
+in the form of actual performance, an offer of performance, or reasonable security.) What is a "reasonable time" 
+within which to give assurance under Subsection (2) will also depend on the particular circumstances.  Like the 
+demand, the assurance is subject to the general requirement of good faith and fair dealing in the enforcement 
+of the contract (§ 205; see Comment d).
+### Illustrations
+7.  The facts being otherwise as stated in Illustration 1, before contracting with C, A telephones B on May 6 and 
+asks B to assure him that he will be there on May 7.  B explains over the telephone that he has been able to 
+charter a plane and expects to come as planned.  B then flies the 3,000 miles with his quartet.  He arrives in 
+
+§ 251 When a Failure to Give Assurance May Be Treated as a Repudiation
+time to perform, but is unable to do so because C is using the hall.  The assurance given by B was adequate in 
+view of what it was reasonable to require, and therefore A could not treat B's failure to do more as a 
+repudiation.  B then has a claim against A for damages for total breach.
+8.  The facts being otherwise as stated in Illustration 1, before contracting with C, A telephones B on May 6 and 
+asks B to assure him that he will be there on May 7.  B replies that he hopes to be able to charter a plane and 
+that he will telephone A to let him know.  A tells B that he must know by noon on May 7 in order to make 
+alternative arrangements with C.  B succeeds in chartering a plane and flies the 3,000 miles with his quartet.  
+After he has arrived on the afternoon of May 7, he telephones A to assure him that he will perform.  A court may 
+conclude that, as a result of B's apparent inability to perform, A had reasonable grounds to believe that B would 
+commit a breach by non-performance that would of itself have given A a claim for damages for total breach, 
+that the assurances given by B were not within a reasonable time, and therefore that B properly treated B's 
+delay in giving them as a repudiation.  A then has a claim against B for damages for total breach.
+## Reporter'S Notes
+This Section is based on Uniform Commercial Code § 2-609.  It replaces former §§ 280, 283 and 323 and 
+rejects, as founded on insufficient authority and as inferior to the Code rule in practice, the notion that, if an 
+obligor manifests doubt or is apparently unable to perform, the obligee can, by mere change of position, deprive 
+that obligor of his rights under the contract and subject him to a claim for its breach even if that obligor is 
+prepared, in fact, to perform.  See Wardrop, Prospective Inability in the Law of Contracts, 20 Minn. L. Rev. 380, 
+392-400 (1936); Patterson, Constructive Conditions in Contracts, 42 Colum. L. Rev. 903, 923 (1942); 6 Corbin, 
+Contracts §§ 1259, 1260 (1962 & Supp. 1980); 6 Williston, Contracts §§ 875-79 (3d ed. 1962).  See also 
+Hillman, Keeping the Deal Together After Material Breach -- Common Law Mitigation Rules, the UCC, and the 
+Restatement (Second) of Contracts, 47 U. Colo. L. Rev. 553 (1976); Rosett, Contract Performance: Promises, 
+Conditions and the Obligation to Communicate, 22 U.C.L.A. L. Rev. 1083 (1975).
+In Ranger Constr. Co. v. Dixie Floor Co., 433 F. Supp. 442 (D.S.C. 1977), the court reviewed the authorities on 
+the applicability of Article 2 of the Uniform Commercial Code to contracts involving both goods and services and 
+found Article 2, and thus § 2-609, inapplicable to the transaction before the court.  Nonetheless the court found 
+it a question of fact for the jury whether one party's refusal to pay under an unrelated contract between the 
+parties was a manifestation that it could not or would not substantially perform the present contract sufficient to 
+constitute an anticipatory repudiation of the latter.  See also Schenectady Steel Co. v. Bruno Trimpoli Gen. 
+Constr. Co., 34 N.Y.2d 939, 359 N.Y.S.2d 560, 316 N.E.2d 875 (1974), in which the court declined to consider 
+whether § 2-609 applied to a contract to furnish and erect structural steel.
+Comment a.  See Comment 1 to Uniform Commercial Code § 2-609.
+Comment b.  On the advantages of the demand for assurances, and the dangers of not using it, see National 
+Farmers Organization v. Bartlett and Co., 560 F.2d 1350, 1355 (8th Cir. 1977) (dictum).  The facts in 
+Illustrations 1 and 2 are suggested by Hathaway v. Sabin, 63 Vt. 527, 22 A. 633 (1891). As to Illustration 1, see 
+Illustrations 1 and 2 to former § 277.
+Comment c.  See L.E. Spitzer Co. v. Barron, 581 P.2d 213 (Alaska 1978), applying the Tentative Draft of this 
+Section and citing the Tentative Draft of this Comment; see also Comment 3 to Uniform Commercial Code § 2-
+609.  For discussions of inadequate grounds under § 2-609, see National Ropes, Inc. v. National Diving Serv., 
+513 F.2d 53 (5th Cir. 1975); Westinghouse Elec. Corp. v. Garrett Corp., 437 F. Supp. 1301, 1338-39 (D. Md. 
+1977). For a case finding adequate grounds for insecurity, relying on the common law and former § 280, see 
+Ranger Constr. Co. v. Dixie Floor Co., 433 F. Supp. 442 (D.S.C. 1977). Illustration 3 is based on Illustration 1 to 
+former § 283.  Illustration 4 is supported by Clark v. Ingle, 58 N.M. 136, 266 P.2d 672 (1954). The facts in 
+Illustration 5 are suggested by those in Cohen v. Kranz, 12 N.Y.2d 242, 238 N.Y.S.2d 928, 189 N.E.2d 473 
+(1963).
+Comment d.  In L.E. Spitzer Co. v. Barron, 581 P.2d 213 (Alaska 1978), a case not involving the sale of goods, 
+a demand by telephone was held adequate, while in Kunian v. Development Corp. of America, 165 Conn. 300, 
+334 A.2d 427 (1973), a sale of goods case, an oral demand at a meeting was held the equivalent of the written 
+demand referred to in Uniform Commercial Code § 2-609.
+Comment e.  See Comment 4 to Uniform Commercial Code § 2-609.
+
+§ 251 When a Failure to Give Assurance May Be Treated as a Repudiation
+Cross Reference
+### Digest System Key Numbers
+Contracts 313(2)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

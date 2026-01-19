@@ -1,0 +1,18 @@
+## U.C.C. § 2A-531
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 5. DEFAULT  >   C. 
+## Default By Lessee
+§ 2A-531. Standing to Sue Third Parties for Injury to Goods.
+(1)  If a third party so deals with goods that have been identified to a lease contract as to cause actionable 
+injury to a party to the lease contract (a) the lessor has a right of action against the third party, and (b) the 
+lessee also has a right of action against the third party if the lessee:
+(i)  has a security interest in the goods;
+(ii)  has an insurable interest in the goods; or
+(iii)  bears the risk of loss under the lease contract or has since the injury assumed that risk as against 
+the lessor and the goods have been converted or destroyed.
+(2)  If at the time of the injury the party plaintiff did not bear the risk of loss as against the other party to the 
+lease contract and there is no arrangement between them for disposition of the recovery, his [or her] suit or 
+settlement, subject to his [or her] own interest, is as a fiduciary for the other party to the lease contract.
+(3)  Either party with the consent of the other may sue for the benefit of whom it may concern.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

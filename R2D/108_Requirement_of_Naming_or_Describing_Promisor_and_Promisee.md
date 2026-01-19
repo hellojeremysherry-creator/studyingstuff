@@ -1,0 +1,46 @@
+Restat 2d of Contracts, § 108
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 108 Requirement of Naming or Describing Promisor and Promisee
+A promise under seal is not binding without consideration unless both the promisor and the promisee 
+are named in the document or so described as to be capable of identification when it is delivered.
+## Comments & Illustrations
+### Comment
+a.  Historical Note.  In the common-law courts of medieval England the sealed instrument was treated as almost 
+complete in itself, and evidence of extrinsic circumstances was not permitted even to show that the instrument 
+was voidable for fraud.  A different view was taken in equity, and in modern times extrinsic evidence may be 
+relevant to show conditional delivery or for a variety of other purposes.  The rule of this Section is a remnant of 
+the former strictness, and it may not be followed where the law of seals has been changed by statute or 
+decision.  Compare Restatement, Second, Agency §§ 151, 191, 296, under which a principal is not a party to a 
+sealed instrument unless he appears in the instrument as a party.  Where the seal is not essential to the validity 
+of the contract, it may be treated as superfluous, and a party not named in the writing may then have rights or 
+duties under the rules governing unsealed contracts.
+### Illustrations
+1.  A promise under seal purporting to be by "the eldest son of A," is duly sealed and delivered by B under this 
+description without the use of his own name.  B is at the time the eldest son of A.  The promise is operative as a 
+contract under seal by him.  The fact that before the time for performance the eldest living son of A, owing to 
+the death of B, is a different person, does not alter this effect or make the instrument binding upon the survivor.
+2.  A promise purporting to be made by whoever may be the eldest son of A at the time when performance 
+thereof is due, though sealed and delivered by the son who ultimately turns out to be the eldest at the time of 
+the promised performance, is not his contract under seal.
+3.  A promise under seal to whoever shall be the wife of A at the time when performance of the promise is due, 
+is not a contract under seal with the person who ultimately fulfills that description, though she is A's wife at the 
+time when the writing is delivered, as well as when performance is due.
+4.  A gives an option under seal to B.  B is acting on behalf of C, but C's name does not appear in the 
+instrument.  Within the time limited in the option B accepts by an unsealed writing delivered to A.  C is bound by 
+an unsealed contract created by the unsealed acceptance by B.
+## Reporter'S Notes
+This Section is based on former § 108, with the reference to consideration made explicit.  See 1 Williston, 
+Contracts § 206 (3d ed. 1957); 1A Corbin, Contracts § 243 (1963).
+Comment a.  For an action by a promisee not identified when the contract was made, based on treatment of a 
+seal as surplusage, see JohnsonFoster Co. v. D'Amore Constr. Co., 314 Mass. 416, 50 N.E.2d 89 (1943). 
+Illustrations 1-4 are based on Illustrations 1-4 to former § 108.
+Cross Reference
+### Digest System Key Numbers
+
+§ 108 Requirement of Naming or Describing Promisor and Promisee
+Contracts 33, 48
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,46 @@
+Restat 2d of Contracts, § 285
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 3- Agreement of Rescission, Release and Contract Not to 
+Sue        
+§ 285 Contract Not to Sue
+(1)  A contract not to sue is a contract under which the obligee of a duty promises never to sue the 
+obligor or a third person to enforce the duty or not to do so for a limited time.
+(2)  Except as stated in Subsection (3), a contract never to sue discharges the duty and a contract not to 
+sue for a limited time bars an action to enforce the duty during that time.
+(3)  A contract not to sue one co-obligor bars levy of execution on the property of the promisee during 
+the agreed time but does not bar an action or the recovery of judgment against any co-obligor.
+## Comments & Illustrations
+### Comment
+a.  Nature of contract not to sue.  Sometimes an obligee does not manifest an intention to discharge the obligor 
+but merely makes a contract by which he promises not to sue him.  See § 295.  Such a contract is often called 
+"a covenant not to sue," a term that is not used in this Restatement in order to avoid any suggestion that it must 
+be under seal.  Although a contract never to sue an obligor does not in terms discharge the obligor's duty 
+immediately, it is given this effect in order to avoid circuity of action.  A contract not to sue for a limited time bars 
+an action to enforce the duty during that time.  As to a contract not to sue one co-obligor, see Comment b.
+### Illustration
+1.  A owes B $ 1,000 payable immediately.  B assigns his right to C, receiving in return C's promise not to sue A 
+for one year.  C cannot maintain an action against A before the end of the year.
+b.  Co-obligors.  If an obligee makes a contract not to sue one co-obligor and then joins that co-obligor in an 
+action merely for the purpose of obtaining judgment against the other co-obligors, this is not regarded as a 
+breach of the contract not to sue the one co-obligor if none of his assets are seized in satisfaction of the 
+judgment.  See Comment b to § 295.  Therefore, the effect of the contract is merely to bar levy of execution on 
+his property during the agreed time.
+## Reporter'S Notes
+This Section is based on former § 405.  See 5A Corbin, Contracts § 1251 (1964 & Supp. 1980); 15 Williston, 
+Contracts § 1823 (3d ed. 1972).
+Comment a.  On the differences between a release and a contract not to sue, see Comments b and c to § 284.  
+Illustration 1 is based on Illustration 1 to former § 405.
+Comment b.  Compare Finney v. Farmers Ins. Co., 21 Wash. App. 601, 586 P.2d 519 (1978).
+Cross Reference
+### ALR Annotations
+Restitution as prerequisite of setting aside release or compromise of claim under Federal Employers' Liability 
+Act, as affected by provision thereof invalidating contract, rule, or device to exempt carrier from liability.  96 
+A.L.R.2d 655.
+Specific performance of compromise and settlement agreement.  48 A.L.R.2d 1211.
+
+§ 285 Contract Not to Sue
+### Digest System Key Numbers
+Release 7, 37
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

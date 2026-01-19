@@ -1,0 +1,75 @@
+Restat 2d of Contracts, § 149
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 7- Consequences of Non-Compliance        
+§ 149 Oral Modification
+(1)  For the purpose of determining whether the Statute of Frauds applies to a contract modifying but 
+not rescinding a prior contract, the second contract is treated as containing the originally agreed terms 
+as modified.  The Statute may, however, apply independently of the original terms to a contract to 
+modify a transfer of property.
+(2)  Where the second contract is unenforceable by virtue of the Statute of Frauds and there has been 
+no material change of position in reliance on it, the prior contract is not modified.
+## Comments & Illustrations
+### Comment
+a.  Modification.  Where one contract modifies another, the terms of the new contract are found partly in the 
+original contract and partly in the modifying contract.  In applying the Statute of Frauds, the new contract is 
+viewed as a whole.  See Uniform Commercial Code § 2-209(3) (sale of goods).  But where a transfer of 
+property has been made, the modifying contract must be viewed separately in applying the Statute insofar as 
+there is a new transfer of property.  See § 148; compare Restatement of Property § 557, Comment e; 
+Restatement, Second, Property (Landlord and Tenant) § 2.4 (modification of a lease).
+### Illustrations
+1.  A and B make a written contract that A will employ B for two years at $ 500 a month.  At the time B begins 
+work, they agree orally to substitute a contract for six months at $ 600 a month.  The second contract is not 
+within the Statute, is enforceable, and at once discharges the prior contract.
+2.  A and B make a written contract that A will repair and sell to B two specific appliances for $ 3,000.  Later 
+they agree orally to eliminate one appliance and to reduce the price.  Whether the second contract is within the 
+Statute depends on whether the reduced price is $ 500 or more.  See Uniform Commercial Code § 2-201.
+3.  A and B make mutual promises to marry within one month.  Later they orally agree that the marriage will be 
+postponed for two years.  The oral agreement is not enforceable.
+b.  Effect of unenforceable modification.  Subsection (2) is an application of the rule stated in § 147: where part 
+of a contract is unenforceable by virtue of the Statute, the whole contract is ordinarily unenforceable.  An 
+agreement to rescind a prior contract and to substitute a new contract is normally indivisible; if the substitution 
+is unenforceable, the rescission is also unenforceable.  There is no difference for this purpose between 
+modification of a term and substitution of an entire new contract.  But it is possible for the parties to include in a 
+single agreement two separate contracts, one to rescind a prior contract and the other to make a new contract; 
+in such a case they may intend the rescission to be effective even though the new contract is unenforceable.  
+See § 148.
+### Illustrations
+4.  In Illustration 3 the original promises to marry are not within the Statute.  They remain enforceable unless 
+there is a material change of position.  See § 150.
+5.  A promises to sell and B to buy a specific automobile for $ 3,000, delivery to be made in 30 days and 
+payment in 60 days.  Both parties sign a sufficient memorandum.  The next day they orally agree on delivery in 
+45 days and payment in 90 days.  Before any change of position B repudiates the oral agreement.  The oral 
+agreement is not enforceable; the original contract remains enforceable.
+
+§ 149 Oral Modification
+6.  A and B make an enforceable oral contract that A will work for B for 30 days at $ 20 a day.  The next day A 
+and B orally contract to substitute employment for two years at $ 6,000 a year.  The first contract remains 
+enforceable; the second is not.
+7.  A contracts with B that A will manufacture and sell to B described goods in installments at stated prices.  
+Later A and B agree in a writing signed by B but not by A that the undelivered balance of the goods will be 
+cancelled and that A will deliver a different type of goods at different prices.  Even though the later agreement is 
+not enforceable against A and even though no action is taken under it, the original contract is rescinded.
+c.  Change of position.  The effect of a change of position in reliance on an oral modification is stated in § 150.
+## Reporter'S Notes
+This Section is based on former § 223.  See 4 Williston, Contracts §§ 593-94 (3d ed. 1961); 2 Corbin, Contracts 
+§§ 303-09, 312 (1950 & Supps. 1971 & 1980).
+Comment a.  Illustrations 1 and 2 are new.  Illustration 3 is based on Illustration 1 to former § 223.  See 
+Dracopoulas v. Rachal, 411 S.W.2d 719 (Tex. 1967). For a discussion of the impact of the Uniform Commercial 
+Code on this area, see Dangerfield v. Markel, 252 N.W.2d 184 (N.D. 1977). As to oral modifications of 
+agreements involving real property, see Willow Brook Recreation Center v. Selle, 96 N.J. Super. 358, 233 A.2d 
+77 (1967), cert. denied, 51 N.J. 187, 238 A.2d 473 (1968).
+Comment b.  Illustration 4 is based on Illustration 1 to former § 223.  Illustrations 5 and 6 are based on 
+Illustrations 2 and 3 to former § 223.  Illustration 7 is new; it is suggested by the facts of Morris v. Baron, [1918] 
+A.C. 1; cf.  Executive Towers v. Leonard, 7 Ariz. App. 331, 439 P.2d 303 (1968); Producers Fruit Co. v. 
+Goddard, 75 Cal. App. 737, 243 P. 686 (1926).
+Cross Reference
+### ALR Annotations
+Comment Note. -- Promissory Estoppel as basis for avoidance of statute of frauds.  56 A.L.R.3d 1037.
+Oral acceptance of written offer by party sought to be charged as satisfying statute of frauds.  30 A.L.R.2d 972.
+Failure to object to parol evidence, or voluntary introduction thereof, as waiver of defense of statute of frauds.  
+15 A.L.R.2d 1330.
+### Digest System Key Numbers
+Frauds, Statute of 131
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

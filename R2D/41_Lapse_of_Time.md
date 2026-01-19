@@ -1,0 +1,126 @@
+Restat 2d of Contracts, § 41
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 41 Lapse of Time
+(1)  An offeree's power of acceptance is terminated at the time specified in the offer, or, if no time is 
+specified, at the end of a reasonable time.
+(2)  What is a reasonable time is a question of fact, depending on all the circumstances existing when 
+the offer and attempted acceptance are made.
+(3)  Unless otherwise indicated by the language or the circumstances, and subject to the rule stated in § 
+49, an offer sent by mail is seasonably accepted if an acceptance is mailed at any time before midnight 
+on the day on which the offer is received.
+## Comments & Illustrations
+### Comment
+a.  Specified time.  Just as the offer may prescribe the identity of the offeree (§ 29) or the form of acceptance (§ 
+30), so it may prescribe a time limit for acceptance.  Such a limitation must be complied with.  See § 60.  In 
+cases of misunderstanding, the principles underlying § 20 are applicable.  See Chapter 9.
+b.  Reasonable time.  In the absence of a contrary indication, just as acceptance may be made in any manner 
+and by any medium which is reasonable in the circumstances (§ 30), so it may be made at any time which is 
+reasonable in the circumstances.  The circumstances to be considered have a wide range: they include the 
+nature of the proposed contract, the purposes of the parties, the course of dealing between them, and any 
+relevant usages of trade.  In general, the question is what time would be thought satisfactory to the offeror by a 
+reasonable man in the position of the offeree; but circumstances not known to the offeree may be relevant to 
+show that the time actually taken by the offeree was satisfactory to the offeror.  See Illustration 6 to § 23.
+c.  Time for acceptance by act; rewards.  Where the offeree is invited to accept by performing or refraining from 
+performing an act, a reasonable time for so doing is ordinarily a reasonable time for accepting.  But the 
+purposes of the offeror, if the offeree knows or has reason to know of them, must also be taken into account.  
+Thus an offer of reward for the capture of the person guilty of a specific crime cannot ordinarily be accepted 
+after the statute of limitations has barred prosecution.
+### Illustrations
+1.  A publishes an offer of reward for information leading to the arrest and conviction of the person guilty of a 
+specified murder.  B, intending to obtain the reward, gives the requested information a year after the publication 
+of the offer.  The acceptance is timely.
+2.  After a series of incendiary attempts, a city publishes each day for a week an offer of reward for information 
+leading to the arrest and conviction of any person who shall set fire to any building within the city.  The 
+responsible city officials serve for one year terms.  A fire set three years after the last publication is not within 
+the terms of the offer.
+3.  A bank posts in its office an offer of reward for information leading to the arrest and conviction of any person 
+who robs any bank which is a member of an association of banks in the same county.  After several years the 
+poster is removed.  A robbery three years after the removal may be found to be within the terms of the offer.
+d.  Direct negotiations.  Where the parties bargain face to face or over the telephone, the time for acceptance 
+does not ordinarily extend beyond the end of the conversation unless a contrary intention is indicated.  A 
+contrary intention may be indicated either by express words or by the circumstances.  For example, the delivery 
+
+§ 41 Lapse of Time
+of a written offer to the offeree, or an expectation that some action will be taken before acceptance, may 
+indicate that a delayed acceptance is invited.
+### Illustration
+4.  While A and B are engaged in conversation, A makes B an offer to which B then makes no reply, out on 
+meeting A again a few hours later B states that he accepts the offer.  There is no contract unless the offer or 
+the circumstances indicate that the offer is intended to continue beyond the immediate conversation.
+e.  Offers made by mail or telegram.  Where the parties are at a distance from each other, the normal 
+understanding is that the time for acceptance is extended at least by the normal time for transmission of the 
+offer and for the sending of the offeree's reply.  Compare § 49.  Subsection (3) reflects the normal 
+understanding that mail is promptly answered if a reply is mailed at any time on the day of receipt.  Compare 
+Uniform Commercial Code §§ 4-301, 4-302, fixing the time for settlement by a bank for demand items.  But in 
+the absence of a significant speculative element in the situation, a considerably longer time may be reasonable.  
+The fact that an offer is made by telegram or mailgram may or may not indicate that the time for reply is shorter 
+than it would be if the mail were used.  Compare § 65.
+### Illustration
+5.  A makes B an offer by mail to sell goods.  B receives the offer at the close of business hours and accepts it 
+by letter promptly the next morning.  The acceptance is timely.
+f.  Speculative transactions.  The rule that an offer becomes irrevocable when an acceptance is mailed (§§ 42, 
+63) in effect imposes a risk of commitment on the offeror during the period required for communication of the 
+acceptance, although during that period the offeror has no assurance that the bargain has been concluded.  
+The rule that the power of acceptance is terminated by the lapse of a reasonable time serves to limit this risk.  
+The more significant the risk, the greater is the need for limitation, and hence the shorter is the time which is 
+reasonable.
+These considerations have their principal application in the sale of property which may be subject to rapid 
+fluctuation in value, such as commodities, securities or land.  The value of such property, however, may be 
+stable for substantial periods of time, particularly in the case of land.  Absence of actual fluctuation during the 
+period before acceptance is a factor tending to indicate that acceptance occurred within a reasonable time.  
+Similarly, delay in acceptance of an offer to insure may not be unreasonable if there is no change in the risk or 
+in the applicable insurance rates.
+The reasonable time for acceptance in a speculative transaction is brief not only because the offeror does not 
+ordinarily intend to assume an extended risk without compensation but also because he does not intend to give 
+the offeree an extended opportunity for speculation at the offeror's expense.  If the offeree makes use for 
+speculative purposes of time allowed for communication, there may be a lack of good faith, and an acceptance 
+may not be timely even though it arrives within the time contemplated by the offeror.  Compare Uniform 
+Commercial Code §§ 1-203, 2-103.
+### Illustrations
+6.  A sends B an offer by mail to sell a piece of farm land.  B does not reply for three days and then mails an 
+acceptance.  It is a question of fact under the circumstances of the particular case whether the delay is 
+unreasonable.
+7.  A sends B a telegraphic offer to sell oil which at the time is subject to rapid fluctuations in price.  The offer is 
+received near the close of business hours, and a telegraphic acceptance is sent the next day, after the offeree 
+has learned of a sharp price rise.  The acceptance is too late if a fixed price was offered, but may be timely if 
+the price is market price at time of delivery.
+8.  A sends B an offer by mail to sell at a fixed price corporate stock not listed on an exchange.  B waits two 
+days after receiving the offer and then sends a telegraphic acceptance after learning of a sharp rise in the price 
+bid over-the-counter.  The acceptance may be too late even though it arrives before a prompt acceptance by 
+mail would have arrived.
+## Reporter'S Notes
+This Section is based on former § 40.  See 1 Williston, Contracts §§ 53-54 (3d ed. 1957); 1 Corbin, Contracts 
+§§ 35-36 (1963).
+
+§ 41 Lapse of Time
+Comment a.  For an example of termination of the power of acceptance by lapse of a specified time, see Kurio 
+v. United States, 429 F. Supp. 42, 63-66 (S.D. Tex. 1970).
+Comment b.  Examples of courts' factual determinations of whether time periods were reasonable include 
+Twining v. National Mortgage Corp., 268 Md. 549, 302 A.2d 604 (1973); and Modern Pool Prods. v. Rudel 
+Mach. Co., 58 Misc.2d 83, 294 N.Y.S.2d 426 (Civ. Ct. 1968).
+Comment c.  Illustration 1 is based on Illustration 1 to former § 40.  Illustration 2 is based on Loring v. City of 
+Boston, 48 Mass. (7 Met.) 409 (1844). Illustration 3 is based on the facts of Carr v. Mahaska County Bankers 
+Ass'n, 222 Iowa 411, 269 N.W. 494, 107 A.L.R. 1080 (1936).
+Comment d.  Illustration 4 is based on Illustration 2 to former § 40.
+Comment e.  Illustration 5 is based on Illustration 4 to former § 40.  In Coffman Indus., Inc. v. Gorman-Taber 
+Co., 521 S.W.2d 763, 771 (Mo. Ct. App. 1975), the attorney for a contractor's bonding company told the 
+attorney for a subcontractor that the subcontractor's claim would be paid if the subcontractor settled a collateral 
+matter.  The court found this an offer and found that a letter written eleven months later could have been 
+reasonably understood to continue the offer.  Because lengthy negotiations over the collateral claim were 
+begun by the subcontractor, the amount of the main claim was conceded, and time was not of the essence, the 
+court found that two and one-half years from the original offer to the resolution of the collateral claim was not 
+per se an unreasonable period of delay and did not cause the offer to lapse.  See also § 45.
+Comment f.  See Nussbaum, Comparative Aspects of the Anglo-American Offer-and-Acceptance Doctrine, 36 
+Colum. L. Rev. 920 (1936); compare Llewellyn, Our Case-Law of Contract: Offer and Acceptance, II, 48 Yale L. 
+J. 779, 795, 805 (1939). Illustrations 6 and 8 are new.  Illustration 7, although based on Illustration 5 to former § 
+40, is changed, from the former conclusion that there is no contract, to emphasize that the resolution of the 
+issue is heavily dependent upon the factual context.
+Cross Reference
+### ALR Annotations
+Timeliness of notice of exercise of option to purchase realty.  87 A.L.R.3d 805.
+### Digest System Key Numbers
+Contracts 20
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

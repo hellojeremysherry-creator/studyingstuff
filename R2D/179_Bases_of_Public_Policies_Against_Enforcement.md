@@ -1,0 +1,159 @@
+Restat 2d of Contracts, § 179
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 1- Unenforceability in General        
+§ 179 Bases of Public Policies Against Enforcement
+A public policy against the enforcement of promises or other terms may be derived by the court from
+(a)  legislation relevant to such a policy, or
+(b)  the need to protect some aspect of the public welfare, as is the case for the judicial policies against, 
+for example,
+(i)  restraint of trade (§§ 186-188),
+(ii)  impairment of family relations (§§ 189-191), and
+(iii)  interference with other protected interests (§§ 192-196, 356).
+## Comments & Illustrations
+### Comment
+a.  Development of the judicial role.  Historically, the public policies against enforcement of terms were 
+developed by judges themselves on the basis of their own perception of the need to protect some aspect of the 
+public welfare.  Some of these policies are now rooted in precedents accumulated over centuries.  Important 
+examples are the policies against restraint of trade, impairment of domestic relations, and interference with 
+duties owed to individuals.  These are singled out for mention in Paragraph (b) because they are dealt with in 
+detail in Topics 2-4 of this Chapter.  Society has, however, many other interests that are worthy of protection, 
+and as society changes so do these interests.  Courts remain alert to other and sometimes novel situations in 
+which enforcement of a term may contravene those interests.  See Illustration 1.  At the same time, courts 
+should not implement obsolete policies that have lost their vigor over the course of years.  The rule of this 
+Section is therefore an open-ended one that does not purport to exhaust the categories of recognized public 
+policies.
+### Illustration
+1.  A and B make a written agreement that contains a term providing that "no prior negotiations shall be used to 
+interpret this agreement." Prior negotiations would otherwise be admissible to establish the meaning of the 
+writing (§ 214(c)).  If the court decides that the term would unreasonably deprive it of relevant evidence that 
+would enable it toresolve an ambiguity in the agreement and thereby hamper it in the fair administration of 
+justice, it will hold that the term is unenforceable on grounds of public policy.
+b.  Modern role of legislation.  The declaration of public policy has now become largely the province of 
+legislators rather than judges.  This is in part because legislators are supported by facilities for factual 
+investigations and can be more responsive to the general public.  When proscribing conduct, however, 
+legislators seldom address themselves explicitly to the problems of contract law that may arise in connection 
+with such conduct.  See § 178(a).  Usually they do not even have these problems in mind and say nothing as to 
+the enforceability of terms.  In such situations it is pointless to search for the "intention of the legislature," and 
+the court's task is to determine on its own whether it should, by refusing to enforce the promise, add a sanction 
+to those already provided by the legislature.  This is a question of "law," in the conventional sense, rather than 
+one of "fact." The legislation is significant, not as controlling the disposition of the case, but as enlightening the 
+court concerning some specific policy to which it is relevant.  A court will examine the particular statute in the 
+light of the whole legislative scheme in the jurisdiction to see, for example, if similar statutes in the same area 
+
+§ 179 Bases of Public Policies Against Enforcement
+contain explicit provisions making comparable promises unenforceable.  It will look to the purpose and history 
+of the statute.  The fact that the statute explicitly prohibits the making of a promise or the engaging in the 
+promised conduct may be persuasive in showing a policy against enforcement of a promise but it is not 
+necessarily conclusive.  On the other hand, the fact that the statute provides a civil sanction, whether in addition 
+to a criminal penalty or not, may suggest that no other civil sanction such as unenforceability is intended, but 
+this is not necessarily conclusive either.  See Illustration 2.  Furthermore, even though a field is the subject of 
+legislation, a court may decide that the legislature has not entirely occupied the field and may refuse to enforce 
+a term on grounds of a judicially developed public policy even though there is no contravention of the 
+legislation.  The term "legislation" is used here in the same broad sense as in the preceding section.  See 
+Comment a to § 178.  Although no attempt is made in this Restatement to state rules to deal with any of the 
+myriad of specific pieces of legislation that may be involved in such controversies, § 181 deals with the 
+important cases involving licensing requirements.
+### Illustration
+2.  A induces B to make an agreement to buy goods on credit from A by bribing B's purchasing agent.  A 
+delivers the goods to B.  A state statute makes such bribery a crime and gives B a civil action to recover the 
+amount of the bribe against A.  Although the statute already provides for a civil sanction, a court may decide 
+that B's promise to pay the price is unenforceable on grounds of public policy.  Cf. Illustration 12 to § 178.
+c.  When refusal to enforce may frustrate policy.  In some instances, refusal to enforce a term may frustrate 
+rather than further public policy.  This is likely to be the case where legislation was enacted to protect a class of 
+persons to which the promisee belongs in transactions of the kind involved.  In such instances, there is no 
+policy against the enforcement of the promise by one who belongs to that class.
+### Illustrations
+3.  A, a corporation, makes an agreement to do work for B, a city.  C, an official of B, is also a principal 
+shareholder of A, and a statute prohibits the making of such agreements and subjects those who make them to 
+penalties.  A's performance of the agreement is defective.  Since the statute was enacted to protect a class of 
+persons to which B belongs against a class to which A belongs, enforcement of A's promise is not precluded on 
+grounds of public policy and B can recover damages from A for breach of contract.
+4.  A, an insurance company, issues a policy of fire insurance to B on his house.  The policy differs from that 
+required by a state statute prescribing a standard fire policy.  B's house is destroyed by fire.  Since the statute 
+was enacted to protect a class of persons to which B belongs against a class to which A belongs, enforcement 
+of A's promise is not precluded on grounds of public policy and B can recover the insurance proceeds from A.
+5.  A employs B to work in his factory and promises to pay him double for the overtime if B works ten hours a 
+day instead of the usual eight.  A state statute, designed to protect the health of workers in such factories, 
+provides a maximum period of employment of eight hours a day and makes violation a crime for both employer 
+and employee.  B works ten hours a day but A refuses to pay him extra for the overtime.  A court may decide 
+that the statute was enacted to protect a class of persons to which B belongs against a class to which A 
+belongs and that therefore enforcement of A's promise is not precluded on grounds of public policy.
+6.  A, a bank, invests in a real estate mortgage.  A statute prohibits it from making such investments and 
+subjects it to penalties for doing so.  Since otherwise the creditors and shareholders of the bank, for whose 
+protection the statute was enacted, would be injured, enforcement of the mortgage debt is not precluded on 
+grounds of public policy and the bank may recover on the debt and foreclose the mortgage.
+d.  Change of circumstances.  Whether a promise is unenforceable on grounds of public policy is determined as 
+of the time that the promise is made and is not ordinarily affected by a subsequent change of circumstances, 
+whether of fact or law.  If, however, both parties were excusably ignorant of facts or of legislation of a minor 
+character that made it unenforceable, a change as to these may make the promise enforceable.  Compare § 
+180.
+## Reporter'S Notes
+This Section is based on former §§ 512 and 580.  See 6A Corbin, Contracts §§ 1373-78 (1962 & Supp. 1980); 
+14 Williston, Contracts §§ 1628-30 (3d ed. 1972).
+Comment a.  For cases in which courts discarded public policies as obsolete, see Marvin v. Marvin, 18 Cal.3d 
+660, 134 Cal. Rptr. 815, 557 P.2d 106 (1976); Davis v. Boston Mut. Life Ins. Co., 370 Mass. 602, 351 N.E.2d 
+
+§ 179 Bases of Public Policies Against Enforcement
+207 (1976). Illustration 1 is based on Garden State Plaza Corp. v. S.S. Kresge Co., 78 N.J. Super. 485, 189 
+A.2d 448 (1963).
+Comment b.  For an elaborate analysis of legislative purpose, see Homestead Supplies v. Executive Life Ins. 
+Co., 81 Cal. App.3d 978, 147 Cal. Rptr. 22 (1978). That the fact that similar statutes say "void" or 
+"unenforceable" may be relevant, see Murphy v. Mallos, 59 A.2d 514 (D.C. Ct. App. 1948); Shepard v. Finance 
+Assoc., 366 Mass. 182, 316 N.E.2d 597 (1974). Illustration 2 is based on United States v. Acme Process Equip. 
+Co., 385 U.S. 138 (1966). In Marriage of Dawley, 17 Cal.3d 342, 131 Cal. Rptr. 3, 551 P.2d 323 (1976), the 
+court considered statutes, case law and changing social patterns in determiningthe public policy relating to 
+antenuptial agreements.
+Comment c.  Illustration 3 is based on Illustration 2 to former § 601.  Illustration 4 is based on Illustration 5 to 
+former § 601.  Illustration 5 is based on Gates v. Rivers Constr. Co., 515 P.2d 1020 (Alaska 1973), and on 
+criticism of Short v. Bullion-Beck and Champion Mining Co., 20 Utah 20, 57 P. 720 (1899), in Gellhorn, 
+Contracts and Public Policy, 35 Colum. L. Rev. 679, 688 (1935), and Furmston, The Analysis of Illegal 
+Contracts, 16 U. Toronto L.J. 267, 280 (1966). See also Nizamuddowlah v. Bengal Cabaret, 92 Misc.2d 220, 
+399 N.Y.S.2d 854 (1977) (illegal alien).  But cf. Illustration 3 to former § 580.  Illustration 6 is based on 
+Illustration 1 to former § 601.
+Comment d.  This Comment is based on former § 609.  In Mazda Motors of America v. Southwestern Motors, 
+36 N.C. App. 1, 243 S.E.2d 793 (1978), the court applied a regulatory statute retroactively to invalidate a 
+contract provision arguably entered into before the statute's effective date.  Compare the dictum in Di Giacomo 
+v. City of New York, 58 A.D.2d 347, 355, 397 N.Y.S.2d 632, 638 (1977). In Continental Mortgage Investors v. 
+Sailboat Key, Inc., 354 So.2d 67 (Fla. Dist. Ct. App. 1977), a statute deemed criminal in nature provided for 
+forfeiture in usurious transactions.  The court refused to apply the statute retroactively.
+Cross Reference
+### ALR Annotations
+Validity of contract for sale of "good will" of law practice.  79 A.L.R.3d 1243.
+Failure of vendor to comply with statute or ordinance requiring approval or recording of plat prior to conveyance 
+of property as rendering sale void or voidable.  77 A.L.R.3d 1058.
+Law of forum against wagering transactions as precluding enforcement of claim based on gambling 
+transactions valid under applicable foreign law.  71 A.L.R.3d 178.
+Comment Note. -- Validity and duration of contract purporting to be for permanent employment.  60 A.L.R.3d 
+226.
+Validity of agreement to pay royalties for use of patented articles beyond patent expiration date.  3 A.L.R.3d 
+770.
+Attorney's recovery in quantum meruit for legal services rendered under a contract which is illegal or void as 
+against public policy.  100 A.L.R.2d 1378.
+Validity and effect of contractual waiver of trial by jury.  73 A.L.R.2d 1332.
+Conditions printed on confirmation slips as binding on customers of stock or commodity broker.  71 A.L.R.2d 
+1089.
+Right to recover money lent for gambling purposes.  53 A.L.R.2d 345.
+Validity and effect of agreement controlling the vote of corporate stock.  45 A.L.R.2d 799.
+Validity and enforceability of agreement to drop or compromise will contest or withdraw objections to probate, or 
+of agreement to induce others to do so.  42 A.L.R.2d 1319.
+Validity and effect of promise not to make a will.  32 A.L.R.2d 370.
+Enforceability of option to purchase, consideration for which is payment of rentals exceeding rent control law 
+maximum.  28 A.L.R.2d 1204.
+
+§ 179 Bases of Public Policies Against Enforcement
+Validity and effect of side agreement affecting cost of property covered by veteran's loan under Servicemen's 
+Readjustment Act.  19 A.L.R.2d 836.
+Contract provisions for deduction of union dues from wages of employees and their payment to union as within 
+statute prohibiting or regulating assignment of future earnings or wages.  14 A.L.R.2d 177.
+Application of federal antitrust laws to professional sports.  18 A.L.R.Fed. 489.
+Provisions of franchise agreement as constituting unlawful tying arrangements under federal antitrust laws.  14 
+A.L.R.Fed. 473.
+Validity or enforceability, under carriage of goods by Sea Act (46 U.S.C. § 1300 et seq.), of clauses in bill of 
+lading or shipping contract as to jurisdiction of foreign courts or applicability of foreign law.  2 A.L.R.Fed. 963.
+Validity, under the Federal Antitrust Laws (15 U.S.C. § 1 et seq.), of agreements between employers or 
+employer associations imposing restrictions on employment.  2 A.L.R.Fed. 839.
+### Digest System Key Numbers
+Contracts 108
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

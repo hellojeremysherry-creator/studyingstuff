@@ -1,0 +1,62 @@
+Restat 2d of Contracts, § 64
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 64 Acceptance by Telephone or Teletype
+Acceptance given by telephone or other medium of substantially instantaneous two-way 
+communication is governed by the principles applicable to acceptances where the parties are in the 
+presence of each other.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Where the parties are in each other's presence, the offeree can accept without being in doubt as 
+to whether the offeror has attempted to revoke his offer or whether the offeror has received the acceptance.  
+His need of a dependable basis for decision whether to accept is therefore met without the rules stated in § 63.  
+The situation prevents the question from arising whether a revocation of the offer or acceptance can be 
+effective during the period required for communication of the acceptance, and all that remains is the risk of 
+misunderstanding.  Where the parties are not in each other's presence, but are able to communicate with each 
+other without any substantial lapse of time, the situation is similar and the governing principles are the same.
+b.  Failure of communication.  Where the parties are in each other's presence, ambiguities and 
+misunderstandings, if perceived by either party, can be cleared up on the spot.  The governing rules where a 
+misunderstanding is not corrected are stated in § 20.  The risk of failure of telephone, teletype or other similar 
+communication is similar in that ordinarily one or both parties will know or have reason to know of the failure, 
+and the same principles apply.  If one party has reason to know of a failure of communication and hence that 
+the other party's understanding may be different from his own, he runs the risk of being held to a manifestation 
+of assent unless he takes immediate steps to clear up any misunderstanding.  But if both parties are equally 
+innocent or equally at fault, there is no contract.
+### Illustrations
+1.  A makes an offer to B by telephone.  The telephone connection is then broken, but B speaks an acceptance 
+in ignorance of the break.  A's failure to answer gives B reason to know of the break.  There is no contract.
+2.  A makes an offer to B by teletype.  B transmits an acceptance, and A knows that a reply has been 
+transmitted; but a mechanical failure at A's end, unknown to B, prevents A from learning the contents of the 
+reply.  There is a contract.
+c.  Place of contracting.  The question where an acceptance takes effect may arise in cases turning on policies 
+beyond the scope of the Restatement of this Subject.  Compare Comment d to § 63.  To the extent that the 
+issue is referred to the rule governing private contract disputes, the analogy of acceptance by mail or telegram 
+is controlling in cases of contracts made by parties in each other's presence and also in cases of contracts 
+made by telephone or teletype: the contract is created at the place where the acceptor speaks or otherwise 
+completes his manifestation of assent.  See, e.g., Restatement, Second, Conflict of Laws § 332, Comment b.
+## Reporter'S Notes
+This Section is rewritten from former § 65.  See 1 Williston, Contracts § 82A (3d ed. 1957); 1 Corbin, Contracts 
+§ 79 (1963).
+Comment b.  Illustrations 1 and 2 are based on dicta of Denning, L.J. in Entores Ltd. v. Miles, Far East Corp., 
+## [1955] 2 Q.B. 327 (C.A.).
+Comment c.  In several cases issues of jurisdiction or choice of law have led the court into an extensive 
+discussion of the issue, largely theoretical in contracts law, whether acceptance by telegraph, telephone or a 
+similar electronic medium is effective upon dispatch or upon receipt.In Linn v. Employers Reins. Corp., 392 Pa. 
+
+§ 64 Acceptance by Telephone or Teletype
+58, 139 A.2d 638 (1958), the court, citing numerous cases, said that former § 65, requiring receipt, "represents 
+a sound theoretical view," but that the reported cases "are uniform in holding that by analogy to the situations in 
+which acceptance is mailed or telegraphed, an acceptance by telephone is effective, and a contract is created 
+at the place where the acceptor speaks." In Entores Ltd. v. Miles Far East Corp., supra, Denning, L.J., followed 
+the reasoning of former § 65 in arriving at the conclusion that the place of contracting was where a teletyped 
+acceptance was received, but indicated that the American law was otherwise.  All the cases found deal with the 
+issue of place of contracting.  See, e.g., Lipshutz v. Gordon Jewelry Corp., 373 F. Supp. 375 (S.D. Tex. 1974); 
+Pierce v. Foley Bros., 283 Minn. 360, 168 N.W.2d 346 (1969).
+Cross Reference
+### ALR Annotations
+Oral acceptance of written offer by party sought to be charged as satisfying statute of frauds.  30 A.L.R.2d 972.
+### Digest System Key Numbers
+Contracts 22(3)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,123 @@
+Restat 2d of Contracts, § Scope
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 6- Mistake        
+Introductory Note
+The law of contracts supports the finality of transactions lest justifiable expectations be disappointed.  This 
+Chapter deals with exceptional situations in which the law departs from this policy favoring finality and allows 
+either avoidance or reformation on the ground of mistake.  As § 151 makes clear, the word "mistake" is here 
+used to refer to a belief that is not in accord with existing facts, rather than to an act that is the result of such an 
+erroneous belief.
+The type of mistake dealt with in this Chapter is one that relates to existing facts that the parties regard as a 
+basis for making an agreement.  An important sub-category of such mistake is mistake as to expression, in 
+which the mistake relates to the contents or effect of a writing that expresses an agreement.  In general, the 
+appropriate relief for mistake takes the form of avoidance of the contract.  Where, however, because of a 
+mistake of both parties as to expression the writing fails to express an agreement that they have reached 
+previously, the appropriate relief ordinarily takes the form of reformation of the writing to make it conform to 
+their intention.  To the extent that reformation is available, as it usually will be, to correct the effects of such a 
+mistake, it is the exclusive remedy and avoidance is unnecessary and unavailable.  See § 152.  A mistake of 
+only one party as to expression, however, may be a basis for avoidance under the rule stated in § 153.  See 
+Illustrations 5 and 6 to § 153.
+The basic rule for mistake of both parties is stated in § 152.  It allows avoidance by the adversely affected party 
+if the mistake was one as to a basic assumption on which the contract was made, if it had a material effect on 
+the agreed exchange of performances, and if he does not bear the risk of the mistake.  The situations to which 
+this rule is applicable are often similar to those governed by § 266 on existing impracticability or frustration, 
+since those latter situations also involve mistake.  However, the justification underlying the two sections is 
+significantly different.  Underlying § 266 is the notion of unexpected extreme hardship, either through 
+impracticability of performance or frustration of purpose, and the legal consequence is that no duty to render 
+performance arises.  Underlying § 152 is the notion of an unexpected material imbalance in the exchange, and 
+the legal consequence is merely that the contract is voidable by the party adversely affected.  The 
+consequences of impracticability of performance or frustration of purpose are so extreme that it is relatively 
+unusual for a party to agree to perform in spite of mistake that results in such unexpected hardship as would 
+justify his non-performance on one of these grounds.  Therefore, § 266 provides for an exception only in the 
+relatively narrow case where "the language or the circumstances indicate the contrary." See Comment c to § 
+261.  The consequences of a mistake that materially affects the exchange of performances may be, on the 
+contrary, much less extreme.  It is, therefore, much more common for a party to undertake to perform in spite of 
+mistake that would justify his avoidance on this ground.  (Indeed, in the absence of provision to the contrary 
+and aside from the exceptional cases of supervening impracticability (§ 261) and frustration (§ 265), a party 
+generally bears the entire risk of subsequent changes that affect the agreed exchange.) Therefore, § 152 
+provides for an exception, much broader than that in § 266, in all cases where the adversely affected party 
+"bears the risk of mistake." The scope of this exception is spelled out in more detail in a separate section, § 
+154, since the notion of allocation of risk plays a much more significant role in connection with the law of 
+mistake than it does in connection with the law of impracticability and frustration.
+The basic rule for mistake of only one party is stated in § 153.  In situations where the rule stated in § 153 
+allows the mistaken party to avoid the contract, avoidance will more clearly disappoint the expectations of the 
+other party, who was not mistaken, than will avoidance under the rule stated in § 152, where he too was 
+mistaken.  Therefore, the rule stated in § 153 is more restrictive than that stated in § 152 and generally allows 
+
+Introductory Note
+the mistaken party to avoid only in extreme cases where it would be unconscionable to require him to perform, 
+or where the other party had reason to know of the mistake or his fault caused it.
+The rules stated in §§ 152 and 153 tell only whether a contract is voidable (§ 7) on the ground of mistake.  A 
+party wishing to exercise a power of avoidance will usually simply notify the other party of his rescission, 
+offering to return what he has received or the equivalent.  He may then either sue for the return of his own 
+performance or the equivalent or set up his rescission as a defense to a suit on the contract.  Sometimes he will 
+instead institute direct proceedings for rescission of the contract.  In any case there may be limitations on his 
+power of avoidance.  The rules governing this power are stated elsewhere (§§ 380-85), together with those for 
+contracts voidable on the ground of incapacity (§§ 12-16) or misrepresentation, duress or undue influence 
+(Chapter 7).
+The basic rule for mistake of both parties as to expression is stated in § 155.  It allows reformation where the 
+parties are mistaken in thinking that a writing correctly expresses an agreement that they have previously 
+reached.  Avoidance is not an appropriate remedy where the mistake can be corrected by reformation.  Under 
+the rule stated in § 214(d), the parol evidence rule does not prevent reformation in such a case, and, under the 
+rule stated in § 156, the Statute of Frauds does not prevent reformation.  However, since reformation is a 
+discretionary equitable remedy, the rule stated in § 155 tells only when a court "may" grant such relief, leaving 
+open the possibility that it might deny it on equitable grounds.  See Comment d to § 155.
+If there is a mistake of only one party as to expression, avoidance may be an appropriate remedy under the rule 
+stated in § 153.  See Illustrations 5 and 6 to § 153.  If, however, his mistake is in believing that a writing 
+correctly expresses a prior agreement and the other party knows that it does not correctly express that 
+agreement, the problem is one of the effect of the latter's failure to disclose this fact.  This is dealt with in §§ 
+160-61, together with other instances in which nondisclosure may be tantamount to misrepresentation.
+The rules governing all of the situations dealt with in this Chapter have traditionally been marked by flexibility 
+and have conferred considerable discretion on the court.  In part, this has been due to the protean character of 
+the situations involved and the circumstance that they are almost inevitably unforeseen by the parties.  In part it 
+has been due to the fact that the law of mistake was shaped largely by courts of equity which had broad 
+discretionary powers.  This characteristic of flexibility marks the rules stated in this Chapter, as is evidenced by 
+such necessarily imprecise language as "materially" (§ 152), "unconscionable" (§ 153), and "bears the risk" (§§ 
+152, 153, 154).  In addition, § 158 makes it clear that if these rules will not suffice to do substantial justice, it is 
+within the discretion of the court to grant relief on such terms as justice requires.  Compare § 272, which makes 
+this clear in cases of impracticability and frustration.
+A number of problems closely related to those dealt with in this Chapter are found elsewhere in the 
+Restatement of this Subject.  Some of these, in contrast to those dealt with here, involve the question whether a 
+contract was formed at all.  Thus, the effect of misunderstanding, where the parties attach such different 
+meanings to their language or other manifestations that there is no manifestation of mutual assent, is governed 
+by the rule stated in § 20.  But cf. Illustration 6 to § 153.  Similarly, the effect of a mistake of the offeree as to 
+the fact of a delay in the transmission of an offer is dealt with in § 49, and the effect of a mistake of the offeree 
+as to the terms of the offer, caused by defective transmission, would be determined by analogous principles.  
+As to the effect of a mistake of a party who makes a contract unaware of the death or insanity of the other, see 
+§§ 15 and 48.  Other problems, involving a mistake of one party caused by the fraud or misrepresentation of the 
+other, are dealt with in § 161.
+Only those aspects of mistake that affect contract law are dealt with in the Restatement of this Subject.  
+Important questions may arise as to money paid or other performance rendered by mistake, for example, under 
+a mistaken belief that such performance is due under an actual or supposed contract.  These questions, 
+however, are not dealt with here unless they are inextricably bound up with the enforceability of contract duties, 
+as may be the case for restitution in connection with avoidance of a contract.  Similarly, the Restatement of this 
+Subject does not generally cover present transfers, as by assignment or deed.  Such matters are, for the most 
+part, left to the Restatement of Restitution.  (As to the effect of mistake on equitable remedies, see § 364(a).)
+Furthermore, for the sake of simplicity, the rules stated in this Chapter have been formulated in terms of the 
+typical contract based on an exchange of consideration by two parties.  It does not, therefore, deal exhaustively 
+
+Introductory Note
+with situations involving several parties (§ 9) including intended beneficiaries (§ 302), promises enforceable 
+because of reliance (§ 90), promises enforceable because under seal (§ 95), and other less typical situations.  
+See Comment c to § 158
+## Reporter'S Notes
+This Chapter deals with matters covered in former Chapter 17, Mistake.  It avoids, as confusing, the use of 
+such terms as "unilateral," "mutual," and "common" mistake, and refers instead to the various types of mistake 
+in terms more fully descriptive.  Sections 152 and 153 make clearer the distinction between mistake take on the 
+one hand and impracticability of performance and frustration of purpose on the other by emphasizing the effect 
+on the agreed exchange of performances.  Section 153 states a rule that is substantially more liberal than that 
+of former § 503 in allowing avoidance where only one party is mistaken.  This change accords with the current 
+trend of judicial decisions.  Section 154 follows a current trend of academic and judicial thought in giving 
+considerably more significance to the notion of allocation of risk as a basis of resolving disputes involving 
+mistake as to assumption.  Section 156 states a rule that is substantially more liberal than that of former § 509 
+in allowing reformation in spite of the Statute of Frauds.  This also accords with the current trend of judicial 
+decisions.  Section 158 states a flexible rule for mistake that is analogous to that stated in § 272 for 
+impracticability and frustration, giving the court the discretionary power to fashion appropriate relief in the rare 
+cases where the other rules stated in this Chapter will not avoid injustice.  The rule stated in former § 505, 
+concerning reformation where a mistake of one party is known to the other, is omitted from this Chapter, since 
+that matter is now dealt with in connection with fraud and misrepresentation in § 161.
+See 3 Corbin, Contracts chs. 27-29 (1960 & Supp. 1980); 13 Williston, Contracts ch. 46 (3d ed. 1970); 2 
+Palmer, Law of Restitution chs. 11-12 (1978); 3 id. passim; Palmer, Mistake and Unjust Enrichment (1962); 
+McClintock, Mistake and the Contractual Interests, 28 Minn. L. Rev. 460 (1944).
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

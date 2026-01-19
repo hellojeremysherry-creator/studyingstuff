@@ -1,0 +1,47 @@
+Restat 2d of Contracts, § 189
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 3- Impairment of Family 
+Relations        
+§ 189 Promise in Restraint of Marriage
+A promise is unenforceable on grounds of public policy if it is unreasonably in restraint of marriage.
+## Comments & Illustrations
+### Comment
+a.  Rule of reason.  Marriage is regarded by the common law as of concern to the state as well as to the 
+individual, and the freedom of individuals to marry should not be impaired except for good reason.  A promise in 
+restraint of marriage is not necessarily unenforceable, but is subject to a rule of reason, analogous to that 
+applicable to promises in restraint of trade.  See § 186.  Here, as there, the duration of the restraint and its 
+extent, in terms of the narrowing of the likely area of choice, are important.  In order for the restraint to be 
+reasonable, it must serve some purpose other than that of merely discouraging marriage.  The most common 
+acceptable purpose is that of providing support until marriage.  Courts are, therefore, relatively tolerant of 
+restraints on marriages that condition a promise of support on the promisee's not marrying and thereby 
+acquiring another provider.  Particularly is this so when the restraint is imposed by one spouse on remarriage 
+by the other spouse, since both the close family relationship and the limitation of the restraint to a subsequent 
+marriage argue in favor of enforceability.
+### Illustrations
+1.  A pays B, his twenty-one-year-old child, $ 100,000 in return for B's promise not to marry for ten years.  B's 
+promise is unreasonably in restraint of marriage and is unenforceable on grounds of public policy.
+2.  A, a man of seventy years, promises B, his fifty-year-old unmarried niece, that if she will remain in his home 
+as housekeeper and will not marry, he will leave her $ 50,000 in his will.  B does so until A's death.  A's promise 
+is not unreasonably in restraint of marriage and its enforcement is not precluded on grounds of public policy.
+3.  A and B, who are about to marry, make an antenuptial agreement in which A promises B that in case of A's 
+death B shall receive a specified income from A's estate as long as B remains unmarried.  A's promise is not 
+unreasonably in restraint of marriage and its enforcement is not precluded on grounds of public policy.
+## Reporter'S Notes
+This Section is derived from former § 581.  See 6A Corbin, Contracts § 1474 (1962 & Supp. 1980); 15 Williston, 
+Contracts § 1741 (3d ed. 1972).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 581.  Illustration 2 is based on Illustration 5 to 
+former § 581.  Illustration 3 is based on Illustration 4 to former § 581; cf.  Cowan v. Cowan, 247 Iowa 729, 75 
+N.W.2d 920 (1956). But cf.  Shackleton v. Food Mach. and Chem. Corp., 279 F.2d 919 (7th Cir. 1960). As to 
+the enforceability of agreements between partners to a nonmarital sexual relationship, see Marvin v. Marvin, 18 
+Cal.3d 660, 134 Cal. Rptr. 815, 557 P.2d 106 (1976); Carlson v. Olson, 256 N.W.2d 249 (Minn. 1977).
+Cross Reference
+### ALR Annotations
+What constitutes contract between husband or wife and third person promotive of divorce or separation.  93 
+A.L.R.3d 523.
+
+§ 189 Promise in Restraint of Marriage
+### Digest System Key Numbers
+Contracts 111
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,13 @@
+## U.C.C. § 3-119
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 1. 
+## General Provisions And Definitions
+## § 3-119. Notice Of Right To Defend Action
+ In an action for breach of an obligation for which a third person is answerable over pursuant to this Article or Article 
+4, the defendant may give the third person notice of the litigation in a record, and the person notified may then give 
+similar notice to any other person who is answerable over. If the notice states (i) that the person notified may come 
+in and defend and (ii) that failure to do so will bind the person notified in an action later brought by the person giving 
+the notice as to any determination of fact common to the two litigations, the person notified is so bound unless after 
+seasonable receipt of the notice the person notified does come in and defend.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

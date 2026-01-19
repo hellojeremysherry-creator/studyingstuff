@@ -1,0 +1,16 @@
+## U.C.C. § 9-709
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 7. 
+## Transition
+## § 9-709. Priority
+(a) [Law governing priority.]  This [Act] determines the priority of conflicting claims to collateral. However, 
+if the relative priorities of the claims were established before this [Act] takes effect, [former Article 9] 
+determines priority.
+(b) [Priority if security interest becomes enforceable under   Section 9-203.] For purposes of Section 
+9-322(a), the priority of a security interest that becomes enforceable under Section 9-203 of this [Act] dates 
+from the time this [Act] takes effect if the security interest is perfected under this [Act] by the filing of a 
+financing statement before this [Act] takes effect which would not have been effective to perfect the security 
+interest under [former Article 9]. This subsection does not apply to conflicting security interests each of 
+which is perfected by the filing of such a financing statement.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

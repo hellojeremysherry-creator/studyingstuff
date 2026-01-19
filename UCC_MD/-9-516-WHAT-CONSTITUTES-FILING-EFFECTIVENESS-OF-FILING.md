@@ -1,0 +1,51 @@
+## U.C.C. § 9-516
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 5. FILING  
+## >  Subpart 1. Filing Office; Contents And Effectiveness Of Financing Statement
+## § 9-516. What Constitutes Filing; Effectiveness Of Filing
+(a) [What constitutes filing.]  Except as otherwise provided in subsection (b), communication of a record 
+to a filing office and tender of the filing fee or acceptance of the record by the filing office constitutes filing.
+(b) [Refusal to accept record; filing does not occur.]  Filing does not occur with respect to a record that 
+### a filing office refuses to accept because
+(1)  the record is not communicated by a method or medium of communication authorized by the filing 
+office;
+(2)  an amount equal to or greater than the applicable filing fee is not tendered;
+### (3)  the filing office is unable to index the record because
+(A)  in the case of an initial financing statement, the record does not provide a name for the debtor;
+### (B)  in the case of an amendment or information statement, the record
+(i)  does not identify the initial financing statement as required by Section 9-512 or 9-518, as 
+applicable; or
+(ii)  identifies an initial financing statement whose effectiveness has lapsed under Section 9-
+515;
+(C)  in the case of an initial financing statement that provides the name of a debtor identified as an 
+individual or an amendment that provides a name of a debtor identified as an individual which was 
+not previously provided in the financing statement to which the record relates, the record does not 
+identify the debtor's surname; or
+(D)  in the case of a record filed [or recorded] in the filing office described in Section 9-501(a)(1), 
+the record does not provide a sufficient description of the real property to which it relates;
+(4)  in the case of an initial financing statement or an amendment that adds a secured party of record, 
+the record does not provide a name and mailing address for the secured party of record;
+(5)  in the case of an initial financing statement or an amendment that provides a name of a debtor 
+which was not previously provided in the financing statement to which the amendment relates, the 
+### record does not
+(A)  provide a mailing address for the debtor;
+(B)  indicate whether the name provided as the name of the debtor is the name of an individual or 
+an organization;
+(6)  in the case of an assignment reflected in an initial financing statement under Section 9-514(a) or an 
+amendment filed under Section 9-514(b), the record does not provide a name and mailing address for 
+the assignee; or
+(7)  in the case of a continuation statement, the record is not filed within the six-month period 
+prescribed by Section 9-515(d).
+### (c) [Rules applicable to subsection (b).]  For purposes of subsection (b)
+
+## § 9-516. What Constitutes Filing; Effectiveness Of Filing
+(1)  a record does not provide information if the filing office is unable to read or decipher the 
+information; and
+(2)  a record that does not indicate that it is an amendment or identify an initial financing statement to 
+which it relates, as required by Section 9-512, 9-514, or 9-518, is an initial financing statement.
+(d) [Refusal to accept record; record effective as filed record.]  A record that is communicated to the 
+filing office with tender of the filing fee, but which the filing office refuses to accept for a reason other than 
+one set forth in subsection (b), is effective as a filed record except as against a purchaser of the collateral 
+which gives value in reasonable reliance upon the absence of the record from the files.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

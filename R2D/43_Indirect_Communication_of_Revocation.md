@@ -1,0 +1,69 @@
+Restat 2d of Contracts, § 43
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 43 Indirect Communication of Revocation
+An offeree's power of acceptance is terminated when the offeror takes definite action inconsistent with 
+an intention to enter into the proposed contract and the offeree acquires reliable information to that 
+effect.
+## Comments & Illustrations
+### Comment
+a.  Direct and indirect communication.  This Section extends the principle giving effect to a revocation 
+communicated directly by the offeror to the offeree, and is subject to the same qualifications.  See § 42.  Thus a 
+revocation is ineffective, whether communication is direct or indirect, if the offer is itself a contract, or after the 
+power of acceptance has been duly exercised.  On the other hand, no communication at all is necessary for 
+revocation if the offer so provides.  Where a revocation is communicated through a person or persons having 
+power to act for the offeror or offeree, the case is governed by § 42, supplemented by the law of agency.
+b.  Sale of land.  The rule of this Section has been applied most frequently to offers for the sale of an interest in 
+land.  If the offeror, after making such an offer, sells or contracts to sell the interest to another person than the 
+offeree, his act manifests an intention not to perform in accordance with the offer and creates a probable 
+inability to perform.  Compare the rules on vendor's prospective inability in §§ 250-52.  Moreover, the other 
+person has title to the land or a right to specific performance prior to any right of the offeree, and interference by 
+the offeree with the rights of the other person may be tortious.  See Restatement, Second, Torts §§ 766, 773.  
+An agreement in derogation of those rights may be unenforceable as against public policy.  See §§ 192, 194.
+### Illustration
+1.  A offers a parcel of land to B at a stated price, and gives B a week in which to consider the proposal.  Within 
+the week A contracts to sell the parcel to C, and B is informed of that fact by a tenant of the premises.  B 
+nevertheless sends a formal acceptance which is received by A within the week.  There is no contract between 
+A and B.
+c.  Other transactions.  The considerations applicable to offers to sell land are equally applicable to offers to sell 
+other specific property, if the offeror enters into a transaction which confers on a third person rights prior to 
+those of the offeree.  But the rule stated is not limited to such cases.  Nor is this Section an exhaustive 
+statement of the circumstances under which indirect communication may result in termination of the offeree's 
+power of acceptance.  Compare, e.g., §§ 20, 153 on the effect of the offeree's acquisition of knowledge of a 
+misunderstanding or mistake.
+### Illustration
+2.  A offers to employ B to replace C, an employee of A who has given A a month's notice of intention to quit.  A 
+gives B a week to consider the proposal.  C changes his mind and makes a contract with A for continued 
+employment for a year.  B asks C about his duties, and C informs B of the new contract.  B immediately mails a 
+letter of acceptance to A, which arrives within the week allowed for acceptance.  There is no contract between 
+A and B.
+d.  Definite action; reliable information.  This Section does not apply to cases where the offeror takes no action 
+or takes equivocal action.  Thus mere negotiations with a third person, or even a definite offer to a second 
+offeree, may be consistent with an intention on the part of the offeror to honor an acceptance by the original 
+offeree.  Even a binding contract with a third person may be expressly subject to any rights arising under the 
+outstanding offer.  Moreover, a mere rumor does not terminate the power of acceptance, if the offeree 
+
+§ 43 Indirect Communication of Revocation
+disbelieves it and is reasonable in doing so, even though the rumor is later verified.  The basic standard to 
+which the offeree is held is that of a reasonable person acting in good faith.
+### Illustration
+3.  A offers to sell B a hundred shares of stock at a fixed price, and states that the offer will not be revoked for a 
+week.  Within the week C offers A a higher price for the same stock, and B learns of the higher offer.  B's power 
+of acceptance is not terminated, since he is entitled to assume that A will honor his commitment regardless of 
+its legal effect.
+## Reporter'S Notes
+This Section is based on former § 42.  See 1 Williston, Contracts § 57 (3d ed. 1957); 1 Corbin, Contracts § 40 
+(1963).
+Comment b.  Illustration 1 is based on Illustration 1 to former § 42; see Dickinson v. Dodds, 2 Ch. D. 463 (C.A. 
+1876); Berryman v. Kmoch, 221 Kan. 304, 559 P.2d 790 (1977), citing this Section in Tentative Draft; but see 
+Butler v. Wehrley, 5 Ariz. App. 228, 425 P.2d 130 (1967).
+Comment c.  Illustration 2 is new.  No case not involving land has been found which follows the rule of 
+Dickinson v. Dodds, supra. In that case the offeree learned that the offeror had been "offering or agreeing to 
+sell" to a third person, and acceptance was held ineffective.
+Comment d.  Illustration 3 is new; compare Illustration 2 to former § 42.
+Cross Reference
+### Digest System Key Numbers
+Contracts 19
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

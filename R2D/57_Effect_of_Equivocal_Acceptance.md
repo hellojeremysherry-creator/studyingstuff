@@ -1,0 +1,56 @@
+Restat 2d of Contracts, § 57
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 57 Effect of Equivocal Acceptance
+Where notification is essential to acceptance by promise, the offeror is not bound by an acceptance in 
+equivocal terms unless he reasonably understands it as an acceptance.
+## Comments & Illustrations
+### Comment
+a.  Requirement of notification.  Notification of acceptance by promise is required in most circumstances.  See § 
+56.  Where notification is dispensed with by the terms of the offer, the offeror cannot complain of the resulting 
+uncertainty of his position.  See § 69.  In cases of acceptance by performance, the reliance of the offeree or the 
+unjust enrichment of the offeror may justify a legal remedy for breach in spite of uncertainty in the offeror's 
+position.  Compare §§ 34, 54.  Hence this Section is limited to cases of acceptance by promise in which 
+notification is required.
+b.  Equivocation.  This Section is a particular application of the general principles stated in § 20.  Where 
+notification is essential to acceptance by promise, the offeror is entitled to know in clear terms whether the 
+offeree accepts his proposal.  It is not enough that the words of a reply justify a probable inference of assent.  
+But the circumstances may make it proper to protect an offeror who acts on such an inference.  Or subsequent 
+conduct of one or both parties may bind one to an agreement in accordance with the understanding of the 
+other.  Compare § 70.
+### Illustrations
+1.  A gives an order for goods to B's traveling salesman, subject to approval by B at his home office.  B sends a 
+letter to A stating that the order has been received and will receive B's attention.  A promptly sends a letter of 
+revocation to B, which B receives before doing anything further.  There is no contract.
+2.  The facts being otherwise as stated in Illustration 1, A does not revoke, but after two months, when it is too 
+late for A to procure substitute goods, B writes a letter to A stating that "it is necessary to cancel this order." B 
+has broken a contract with A.
+3.  Pursuant to the terms of a lease from A to B, A writes to B that he is about to sell the premises and that B 
+may have the option to purchase by meeting an offer of $ 37,000.  B replies, "I tender you $ 37,000 in exercise 
+of my option rights.  I demand that I be notified concerning your acceptance or rejection of my offer within ten 
+days." Within ten days, A notifies B that A has decided not to sell.  There is no contract.
+4.  A writes to B offering to extend a lease for two years.  B replies, "I accept your offer, but I am assigning my 
+interest to C, and have had a lease drawn up from you to C.  C has signed it in duplicate, and when you sign it 
+will be complete.  Keep one copy and mail the other to me for C.  If this is not satisfactory let me know." A's 
+letter of revocation crosses B's letter in the mail.  There is no contract.
+## Reporter'S Notes
+This Section is rewritten from former § 58.  See 1 Williston, Contracts § 72 (3d ed. 1957); 1 Corbin, Contracts § 
+67 (1963 & Supp. 1980).
+Comment b.  On the general proposition that an acceptance must be unequivocal, see Kurio v. United States, 
+429 F. Supp. 42, 66 (S.D. Tex. 1970). Illustration 1 is based on Krohn-Fechheimer Co. v. Palmer, 282 Mo. 82, 
+221 S.W. 353 (1920); see Annot., 10 A.L.R. 683 (1921). Illustration 2 is based on Hill's, Inc. v. William B. 
+Kessler, Inc., 41 Wash.2d 42, 246 P.2d 1099 (1952); see also Empire Mach. Co. v. Litton Business Tel. Sys., 
+115 Ariz. App. 568, 566 P.2d 1044 (Ct. App. 1977). Cf.  Bauman v. McManus, 75 Kan. 106, 89 P. 15 (1907). 
+
+§ 57 Effect of Equivocal Acceptance
+Illustration 3 is based on Minar v. Skoog, 235 Minn. 262, 50 N.W.2d 300 (1951). Illustration 4 is based on 
+Polhamus v. Roberts, 50 N.M. 236, 175 P.2d 196 (1946).
+Cross Reference
+### ALR Annotations
+Vendor and purchaser: contract provision referring to purchaser's uncompleted arrangement for financing 
+balance of purchase price as creating condition precedent.  81 A.L.R.2d 1338.
+### Digest System Key Numbers
+Contracts 22(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

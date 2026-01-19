@@ -1,0 +1,19 @@
+## U.C.C. § 2A-524
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 5. DEFAULT  >   C. 
+## Default By Lessee
+§ 2A-524. Lessor's Right to Identify Goods to Lease Contract.
+(1)  After default by the lessee under the lease contract of the type described in Section 2A-523(1) or 2A-
+523(3)(a) or, if agreed, after other default by the lessee, the lessor may:
+(a)  identify to the lease contract conforming goods not already identified if at the time the lessor 
+learned of the default they were in the lessor's or the supplier's possession or control; and
+(b)  dispose of goods ( Section 2A-527(1)) that demonstrably have been intended for the particular 
+lease contract even though those goods are unfinished.
+(2)  If the goods are unfinished, in the exercise of reasonable commercial judgment for the purposes of 
+avoiding loss and of effective realization, an aggrieved lessor or the supplier may either complete 
+manufacture and wholly identify the goods to the lease contract or cease manufacture and lease, sell, or 
+otherwise dispose of the goods for scrap or salvage value or proceed in any other reasonable manner.
+As amended in 1990.
+See Appendix VI for material relating to changes made in text in 1990.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

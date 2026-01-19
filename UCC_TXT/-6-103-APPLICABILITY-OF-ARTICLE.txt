@@ -1,0 +1,86 @@
+U.C.C. § 6-103
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 6. BULK SALES  >  ALTERNATIVE B [Including 
+Article 6 as revised]
+§ 6-103. APPLICABILITY OF ARTICLE.
+(1)  Except as otherwise provided in subsection (3), this Article applies to a bulk sale if:
+(a)  the seller's principal business is the sale of inventory from stock; and
+(b)  on the date of the bulk-sale agreement the seller is located in this state or, if the seller is located in 
+a jurisdiction that is not a part of the United States, the seller's major executive office in the United 
+States is in this state.
+(2)  A seller is deemed to be located at his [or her] place of business.  If a seller has more than one place of 
+business, the seller is deemed located at his [or her] chief executive office.
+(3)  This Article does not apply to:
+(a)  a transfer made to secure payment or performance of an obligation;
+(b)  a transfer of collateral to a secured party pursuant to Section 9-609;
+(c)  a disposition of collateral pursuant to Section 9-610;
+(d)  retention of collateral pursuant to Section 9-620;
+(e)  a sale of an asset encumbered by a security interest or lien if (i) all the proceeds of the sale are 
+applied in partial or total satisfaction of the debt secured by the security interest or lien or (ii) the 
+security interest or lien is enforceable against the asset after it has been sold to the buyer and the net 
+contract price is zero;
+(f)  a general assignment for the benefit of creditors or to a subsequent transfer by the assignee;
+(g)  a sale by an executor, administrator, receiver, trustee in bankruptcy, or any public officer under 
+judicial process;
+(h)  a sale made in the course of judicial or administrative proceedings for the dissolution or 
+reorganization of an organization;
+(i)  a sale to a buyer whose principal place of business is in the United States and who:
+(i)  not earlier than 21 days before the date of the bulk sale, (A) obtains from the seller a verified 
+and dated list of claimants of whom the seller has notice three days before the seller sends or 
+delivers the list to the buyer or (B) conducts a reasonable inquiry to discover the claimants;
+(ii)  assumes in full the debts owed to claimants of whom the buyer has knowledge on the date the 
+buyer receives the list of claimants from the seller or on the date the buyer completes the 
+reasonable inquiry, as the case may be;
+(iii)  is not insolvent after the assumption; and
+(iv)  gives written notice of the assumption not later than 30 days after the date of the bulk sale by 
+sending or delivering a notice to the claimants identified in subparagraph (ii) or by filing a notice in 
+the office of the [Secretary of State];
+(j)  a sale to a buyer whose principal place of business is in the United States and who:
+
+§ 6-103. APPLICABILITY OF ARTICLE.
+(i)  assumes in full the debts that were incurred in the seller's business before the date of the bulk 
+sale;
+(ii)  is not insolvent after the assumption; and
+(iii)  gives written notice of the assumption not later than 30 days after the date of the bulk sale by 
+sending or delivering a notice to each creditor whose debt is assumed or by filing a notice in the 
+office of the [Secretary of State];
+(k)  a sale to a new organization that is organized to take over and continue the business of the seller 
+and that has its principal place of business in the United States if:
+(i)  the buyer assumes in full the debts that were incurred in the seller's business before the date of 
+the bulk sale;
+(ii)  the seller receives nothing from the sale except an interest in the new organization that is 
+subordinate to the claims against the organization arising from the assumption; and
+(iii)  the buyer gives written notice of the assumption not later than 30 days after the date of the 
+bulk sale by sending or delivering a notice to each creditor whose debt is assumed or by filing a 
+notice in the office of the [Secretary of State];
+(l)  a sale of assets having:
+(i)  a value, net of liens and security interests, of less than $10,000.  If a debt is secured by assets 
+and other property of the seller, the net value of the assets is determined by subtracting from their 
+value an amount equal to the product of the debt multiplied by a fraction, the numerator of which is 
+the value of the assets on the date of the bulk sale and the denominator of which is the value of all 
+property securing the debt on the date of the bulk sale; or
+(ii)  a value of more than $25,000,000
+on the date of the bulk-sale agreement; or
+(m)  a sale required by, and made pursuant to, statute.
+(4)  The notice under subsection (3)(i)(iv) must state: (i) that a sale that may constitute a bulk sale has been 
+or will be made; (ii) the date or prospective date of the bulk sale; (iii) the individual, partnership, or corporate 
+names and the addresses of the seller and buyer; (iv) the address to which inquiries about the sale may be 
+made, if different from the seller's address; and (v) that the buyer has assumed or will assume in full the 
+debts owed to claimants of whom the buyer has knowledge on the date the buyer receives the list of 
+claimants from the seller or completes a reasonable inquiry to discover the claimants.
+(5)  The notice under subsections (3)(j)(iii) and (3)(k)(iii) must state: (i) that a sale that may constitute a bulk 
+sale has been or will be made; (ii) the date or prospective date of the bulk sale; (iii) the individual, 
+partnership, or corporate names and the addresses of the seller and buyer; (iv) the address to which 
+inquiries about the sale may be made, if different from the seller's address; and (v) that the buyer has 
+assumed or will assume the debts that were incurred in the seller's business before the date of the bulk 
+sale.
+(6)  For purposes of subsection (3)(l), the value of assets is presumed to be equal to the price the buyer 
+agrees to pay for the assets.  However, in a sale by auction or a sale conducted by a liquidator on the 
+seller's behalf, the value of assets is presumed to be the amount the auctioneer or liquidator reasonably 
+estimates the assets will bring at auction or upon liquidation.
+As amended in 1999
+See Appendix I contained within revised Article 9 for material relating to changes made in text in 1999.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+
+§ 6-103. APPLICABILITY OF ARTICLE.
+End of Document

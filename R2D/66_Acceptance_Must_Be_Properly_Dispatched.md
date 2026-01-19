@@ -1,0 +1,35 @@
+Restat 2d of Contracts, § 66
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 66 Acceptance Must Be Properly Dispatched
+An acceptance sent by mail or otherwise from a distance is not operative when dispatched, unless it is 
+properly addressed and such other precautions taken as are ordinarily observed to insure safe 
+transmission of similar messages.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Under § 50, acceptance by promise is not effective until the offeree has completed every act 
+essential to the making of the promise.  Reasonable diligence to notify is essential under § 56, except as stated 
+in § 69.  It follows that, notwithstanding § 63, acceptance by mail or telegram is not effective on dispatch unless 
+the acceptor exercises reasonable diligence to notify the offeror.  Compare the rules as to acceptance by 
+performance stated in § 54.  This Section specifies what constitutes reasonable diligence: it would be most 
+unusual for an offer to invite acceptance by the sending, for example, of a misdirected letter or telegram.
+b.  Proper address.  The offeree may fulfill the requirement that an acceptance be properly addressed by using 
+a return address indicated in the offer, whether in a letterhead or otherwise.  But any other place held out by the 
+offeror as the place for receipt of such communications will do as well.  Compare Uniform Commercial Code § 
+1-201(26).  Whether a reply to an offer may properly be sent to a residential address not specified in the 
+negotiations depends on the circumstances.  If the acceptance is duly received despite misdirection, the rule of 
+§ 67 may apply.
+c.  Other precautions.  The other precautions to be taken depend on what is ordinarily observed to insure safe 
+transmission of similar messages.  In cases of acceptance by mail, the postal regulations are ordinarily 
+controlling on such matters as the necessity for prepayment of postage.  In unusual circumstances, however, 
+as when the mails are stopped by war, reasonable diligence may require more than compliance with postal 
+regulations.  Unless the offeror manifests a contrary intention, an acceptance is not effective on dispatch if the 
+offeree knows or has reason to know that it will not reach the offeror.
+## Reporter'S Notes
+This Section was former § 67.  See 1 Williston, Contracts § 84 (3d ed. 1957).
+Cross Reference
+### Digest System Key Numbers
+Contracts 22(3)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

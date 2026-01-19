@@ -1,0 +1,44 @@
+Restat 2d of Contracts, § 106
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 106 What Amounts to Acceptance of Instrument
+Acceptance of a conveyance or of a document containing a promise is a manifestation of assent to the 
+terms thereof made, either before or after delivery, in accordance with any requirements imposed by 
+the grantor or promisor.  If the acceptance occurs before delivery and is not binding as an option 
+contract, it is revocable until the moment of delivery.
+## Comments & Illustrations
+### Comment
+a.  Manifestation of assent.  Acceptance of a promise under seal or a conveyance is the acceptance of an offer 
+if the acceptance is made after delivery.  Compare § 50.  An acceptance before delivery can be thought of as 
+an offer accepted by the delivery.  Compare § 24.  In either case the effect of misunderstanding is governed by 
+the principles stated in § 20.
+### Illustration
+1.  The facts being otherwise as stated in Illustration 3 to § 105, C hands the deed to B and B takes it without 
+objection.  Unless A or C has reason to know that B is ignorant of the clause relating to the mortgage, B is 
+bound by a contract to pay the mortgage debt.  The question whether the contract is voidable by reason of such 
+ignorance is governed by the rules stated in Chapters 6 and 7 on mistake, misrepresentation, duress and 
+undue influence.
+b.  Acceptance before delivery.  Like other offers, a manifestation of assent to a promise under seal or 
+conveyance to be delivered in the future is ordinarily revocable.  Compare § 42.  But such an acceptance in 
+advance may be irrevocable by virtue of a seal or consideration.  See § 25.  In any event delivery of the 
+instrument terminates the power of revocation.
+### Illustration
+2.  A and B agree orally that A shall transfer to B Blackacre, which is subject to a mortgage, that the deed shall 
+contain a promise by B to pay the mortgage debt, and that the deed may be delivered to C on B's behalf.  A 
+makes and delivers to C a deed in accordance with the oral agreement.  There has been acceptance by B, and 
+though he refuses to take the deed from C, he is bound by a contract to pay the mortgage debt.
+## Reporter'S Notes
+This Section is based on former § 106.  See 1 Williston Contracts § 213 (3d ed. 1957); 1A Corbin, Contracts § 
+245 (1963).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 106, with the reference to Chapters 6 and 7 
+added.
+Comment b.  Illustration 2 was Illustration 2 to former § 106.
+Cross Reference
+### Digest System Key Numbers
+Contracts 43
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+
+§ 106 What Amounts to Acceptance of Instrument
+End of Document

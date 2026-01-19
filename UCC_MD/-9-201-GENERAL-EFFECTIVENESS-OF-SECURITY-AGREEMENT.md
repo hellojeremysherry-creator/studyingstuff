@@ -1,0 +1,23 @@
+## U.C.C. § 9-201
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 2. 
+## Effectiveness Of Security Agreement; Attachment Of Security Interest; Rights
+## Of Parties To Security Agreement  >  Subpart 1. Effectiveness And Attachment
+## § 9-201. General Effectiveness Of Security Agreement
+(a) [General effectiveness.]  Except as otherwise provided in [the Uniform Commercial Code], a security 
+agreement is effective according to its terms between the parties, against purchasers of the collateral, and 
+against creditors.
+(b) [Applicable consumer laws and other law.]  A transaction subject to this article is subject to any 
+applicable rule of law which establishes a different rule for consumers and [insert reference to (i) any other 
+statute or regulation that regulates the rates, charges, agreements, and practices for loans, credit sales, or 
+other extensions of credit and (ii) any consumer-protection statute or regulation].
+(c) [Other applicable law controls.]  In case of conflict between this article and a rule of law, statute, or 
+regulation described in subsection (b), the rule of law, statute, or regulation controls. Failure to comply with 
+a statute or regulation described in subsection (b) has only the effect the statute or regulation specifies.
+### (d) [Further deference to other applicable law.]  This article does not
+(1)  validate any rate, charge, agreement, or practice that violates a rule of law, statute, or regulation 
+described in subsection (b); or
+(2)  extend the application of the rule of law, statute, or regulation to a transaction not otherwise subject 
+to it.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

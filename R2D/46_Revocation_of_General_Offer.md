@@ -1,0 +1,53 @@
+Restat 2d of Contracts, § 46
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 46 Revocation of General Offer
+Where an offer is made by advertisement in a newspaper or other general notification to the public or to 
+a number of persons whose identity is unknown to the offeror, the offeree's power of acceptance is 
+terminated when a notice of termination is given publicity by advertisement or other general notification 
+equal to that given to the offer and no better means of notification is reasonably available.
+## Comments & Illustrations
+### Comment
+a.  Revocability.  This Section is an extension of the principle giving effect to a communicated revocation, and is 
+subject to the same limitations.  See § 42; compare § 43.  Theoretically, a general offer may be made 
+irrevocable under §§ 25 and 37 in the same ways as any other offer, but irrevocable offers to a number of 
+unidentified persons are rare except where such documents as letters of credit are issued.  See Illustration 2 to 
+§ 29.  An irrevocable offer, or a revocable offer which has been duly accepted, cannot of course be revoked 
+under this Section.  On the other hand, this Section does not exclude revocation under § 42 or § 43 or under a 
+power to revoke expressly reserved in the offer; a published notice of revocation which does not comply with 
+this Section is nonetheless effective as to an offeree who actually learns of it.
+b.  Available means of notice.  The rule of this Section reconciles the principle that an offer is ordinarily 
+revocable with the fact that general publication is not a reliable means of informing offerees of the revocation of 
+an offer.  Revocation by a notification not actually received is given effect only where such revocation is 
+provided for in the offer or where the alternative is that the offer is as a practical matter irrevocable.  Where a 
+feasible and customary substitute is available which is better calculated to produce actual receipt of notice, 
+newspaper publication is not enough.  Even where publication is the only or the best available means of giving 
+notice, it may not be effective immediately.  There must be publicity equivalent to that given the offer, including 
+in appropriate cases a reasonable time for equivalent indirect circulation.  Compare Illustration 1 to § 23.
+### Illustrations
+1.  A, a newspaper, publishes an offer of prizes to the persons who procure the largest number of subscriptions 
+as evidenced by cash or checks received by a specified time.  B completes and mails an entry blank giving his 
+name and address, which is received by A.  Thereafter, during the contest, A publishes a notice that personal 
+checks will not be counted; B does not see the notice.  Unless the original offer provided otherwise, B is not 
+bound by the later notice, since A could have given B personal notice.
+2.  The United States Government publishes an offer of reward for the arrest of a named fugitive.  Seven 
+months later the President publishes a proclamation revoking the offer, which is given the same publicity as the 
+offer.  Five months after the proclamation, A, who has been in Italy continuously and who learned indirectly of 
+the offer but not of the revocation, arrests the fugitive in Italy.  There is no contract.
+## Reporter'S Notes
+This Section is based on former § 43; the final clause is new.  See 1 Williston, Contracts §§ 59-59A (3d ed. 
+1957); 1 Corbin, Contracts § 41 (1963); Annot., 107 A.L.R. 1085 (1936).
+Comment a.  Compare the service of process by publication, which is sometimes held ineffective because 
+better means of notification are available.  See Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306 
+(1950); Walker v. City of Hutchinson, 352 U.S. 112 (1956).
+
+§ 46 Revocation of General Offer
+Comment b.  Illustration 1 is based on Long v. Chronicle Publishing Co., 68 Cal. App. 171, 228 P. 873 (1924). 
+Illustration 2 is based on Shuey v. United States, 92 U.S. 73 (1875); cf.  Federal Crop Ins. Corp. v. Merrill, 332 
+## U.S. 380 (1947).
+Cross Reference
+### Digest System Key Numbers
+Contracts 19
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

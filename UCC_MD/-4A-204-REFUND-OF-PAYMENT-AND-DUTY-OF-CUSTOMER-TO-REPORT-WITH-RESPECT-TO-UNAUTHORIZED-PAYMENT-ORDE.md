@@ -1,0 +1,12 @@
+U.C.C. Art. 1, Appx. I § 4A-204
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 1. GENERAL PROVISIONS  >   APPENDIX I. 
+## Conforming Amendments To Other Articles
+## § 4A-204. Refund Of Payment And Duty Of Customer To Report
+## With Respect To Unauthorized Payment Order
+- * *
+(b)  Reasonable time under subsection (a) may be fixed by agreement as stated in Section 1-302(b), 
+but the obligation of a receiving bank to refund payment as stated in subsection (a) may not otherwise 
+be varied by agreement.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

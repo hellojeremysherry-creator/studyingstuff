@@ -1,0 +1,34 @@
+Restat 2d of Contracts, § 296
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 296 Survivorship of Joint Duties
+On the death of one of two or more promisors of the same performance in a contract, the estate of the 
+deceased promisor is bound by the contract, whether the duty was joint, several, or joint and several.
+## Comments & Illustrations
+### Comment
+a.  Historical note.  By the common law of England, joint duties bound only the surviving obligors or the estate 
+of the last survivor.  The same rule was applied to the joint part of a joint and several duty, and the 
+representative of a deceased promisor could not be joined in an action against survivors.  Where a joint debt 
+could be collected from a solvent survivor, no injustice was done; the survivor could then enforce contribution 
+by the estate.  But if the survivor was insolvent, the rule as to joint duties left the obligee without a legal remedy.  
+Equitable relief was given in some such cases, but such relief has sometimes been denied where the deceased 
+promisor was a surety.
+b.  The modern rule.  The survivorship rule has been abolished in most states by statute or decision.  Statutes 
+making joint duties joint and several have this effect, and specific statutes on the point have been widely 
+enacted.  See Introductory Note to this Chapter.  General statutes on the survival of actions have sometimes 
+been given the same effect, and a number of judicial decisions have simply negated the rule.  The question 
+whether the representatives of deceased promisors may be joined in an action against survivors may be 
+resolved by specific statute or left to general procedural statutes or rules.
+## Reporter'S Notes
+Former §§ 125 and 126 stated the rule explained in Comment a, limited to joint promisors.
+See Williams, Joint Obligations §§ 21-30 (1949); 2 Williston, Contracts §§ 344-44A (3d ed. 1959); 4 Corbin, 
+Contracts § 930 (1951); Annot., 67 A.L.R. 608 (1930).
+Comment b.  See Burka v. Patrick, 34 Md. App. 181, 366 A.2d 1070 (1976); In re Estate of Morrow, 9 Storey 
+262, 219 A.2d 137 (Del. Super. Ct. 1966).
+For decisions abolishing the rule of survivorship, see Bowman v. Kistler, 33 Pa. 106 (1859); Susong v. Vaiden, 
+10 S.C. 247 (1878); Brownfield v. Holland, 63 Wash. 86, 114 P. 890 (1911); Fisher v. Chadwick, 4 Wyo. 379, 
+34 P. 899 (1893). For application of a general statute on survival of actions, see Brill v. Jewett, 262 F. 935 (5th 
+Cir. 1920) (Florida law); Nadstanek v. Trask, 130 Or. 669, 281 P. 840 (1929).
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

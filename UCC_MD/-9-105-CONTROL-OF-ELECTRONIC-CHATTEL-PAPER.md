@@ -1,0 +1,22 @@
+## U.C.C. § 9-105
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 1. 
+## General Provisions  >  Subpart 1. Short Title, Definitions, And General Concepts
+## § 9-105. Control Of Electronic Chattel Paper
+(a) [General rule: control of electronic chattel paper.]  A secured party has control of electronic chattel 
+paper if a system employed for evidencing the transfer of interests in the chattel paper reliably establishes 
+the secured party as the person to which the chattel paper was assigned.
+(b) [Specific facts giving control.]  A system satisfies subsection (a) if the record or records comprising 
+the chattel paper are created, stored, and assigned in such a manner that:
+(1)  a single authoritative copy of the record or records exists which is unique, identifiable and, except 
+as otherwise provided in paragraphs (4), (5), and (6), unalterable;
+(2)  the authoritative copy identifies the secured party as the assignee of the record or records;
+(3)  the authoritative copy is communicated to and maintained by the secured party or its designated 
+custodian;
+(4)  copies or amendments that add or change an identified assignee of the authoritative copy can be 
+made only with the consent of the secured party;
+(5)  each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is 
+not the authoritative copy; and
+(6)  any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

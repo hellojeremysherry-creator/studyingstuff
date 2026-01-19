@@ -1,0 +1,52 @@
+Restat 2d of Contracts, § 248
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 2- Effect of Performance and Non-Performance        
+§ 248 Effect of Insufficient Reason for Rejection as Excusing the Non-
+Occurrence Of a Condition
+Where a party rejecting a defective performance or offer of performance gives an insufficient reason for 
+rejection, the non-occurrence of a condition of his duty is excused only if he knew or had reason to 
+know of that non-occurrence and then only to the extent that the giving of an insufficient reason 
+substantially contributes to a failure by the other party to cure.
+## Comments & Illustrations
+### Comment
+a.  Failure to give a reason for rejection.  Ordinarily a party whose performance or offer of performance has 
+been rejected must determine at his peril the reason for that rejection.  Whether or not he is under a duty to 
+give that performance, he is not entitled to a statement of reasons from the other party and the other party is 
+not prejudiced if he refuses to give such a statement.  The following section states a limited exception to this for 
+the case in which the payment of legal tender is required.  (And cf. Uniform Commercial Code § 2-605, under 
+which a buyer who fails to particularize his reasons for rejection is precluded, in some circumstances, from 
+relying on an unstated defect.)
+b.  Giving insufficient reason for rejection.  Just as the injured party is not, as a general rule, precluded from 
+relying on a reason for rejection because he stated no reasons (Comment a), he is not precluded by the mere 
+fact that he stated an insufficient reason, even though he knew or had reason to know of a sufficient one.  The 
+giving of an insufficient reason may, however, so mislead the other party as to induce his failure to cure the 
+defective performance or offer of performance within the time allowed by the agreement.  If it does so, the non-
+occurrence of the condition is excused, although the injured party still has a claim for damages.  This is a 
+specific application of the general rule that requires good faith and fair dealing in the enforcement of contracts.  
+See § 205 and Illustration 10 to that section.  As to the requirement that the giving of the insufficient reason 
+contribute materially to the failure to cure, see Comment b to § 245.  Where there isa question of fact as to 
+whether performance was defective or not, the failure to state a reason or the stating of an insufficient reason 
+may be considered in resolving that question, but this Section does not deal with such problems of proof.
+### Illustrations
+1.  The facts being otherwise as stated in Illustration 6 to § 246, on moving into the house B gives A a list of 
+seventeen defects to be cured, but omits three others of which he knew or had reason to know.  Absent a 
+showing that A could have cured the three defects in time if B had specified them then, B can rely on all of the 
+defects to show that A's breach is material and that A has no claim to $ 10,000 under the contract.
+2.  A, a subcontractor, makes a contract with B, a contractor, to install a roof on a school that B is building.  
+After A has begun work, B notifies him that the contract is cancelled because of A's failure to provide enough 
+skilled workmen as required by the contract.  A sues B.  B attempts to show that, although A may have 
+provided enough skilled workmen, A so failed to follow specifications as to constitute a material breach.  B is 
+not precluded from showing this, even if he knew it at the time of the cancellation, unless A could have cured 
+the defects in time if B had specified them then.
+## Reporter'S Notes
+This Section is based on former § 304.  See also 5 Williston, Contracts §§ 743, 744 (3d ed. 1961).
+Comment a.  Illustration 1 is based on Cawley v. Weiner, 236 N.Y. 357, 140 N.E. 724 (1923). Illustration 2 is 
+based on New England Structures, Inc. v. Loranger, 354 Mass. 62, 234 N.E.2d 888 (1968).
+
+§ 248 Effect of Insufficient Reason for Rejection as Excusing the Non-Occurrence Of a Condition
+Cross Reference
+### Digest System Key Numbers
+Contracts 321
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

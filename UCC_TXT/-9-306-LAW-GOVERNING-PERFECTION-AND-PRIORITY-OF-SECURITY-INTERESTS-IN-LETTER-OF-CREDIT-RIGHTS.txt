@@ -1,0 +1,17 @@
+U.C.C. § 9-306
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+PERFECTION AND PRIORITY  >  SUBPART 1. LAW GOVERNING PERFECTION AND PRIORITY
+§ 9-306. LAW GOVERNING PERFECTION AND PRIORITY OF SECURITY 
+INTERESTS IN LETTER-OF-CREDIT RIGHTS
+(a) [Governing law: issuer's or nominated person's jurisdiction.]  Subject to subsection (c), the local 
+law of the issuer's jurisdiction or a nominated person's jurisdiction governs perfection, the effect of 
+perfection or nonperfection, and the priority of a security interest in a letter-of-credit right if the issuer's 
+jurisdiction or nominated person's jurisdiction is a State.
+(b) [Issuer's or nominated person's jurisdiction.]  For purposes of this part, an issuer's jurisdiction or 
+nominated person's jurisdiction is the jurisdiction whose law governs the liability of the issuer or nominated 
+person with respect to the letter-of-credit right as provided in Section 5-116.
+(c) [When section not applicable.]  This section does not apply to a security interest that is perfected only 
+under Section 9-308(d).
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

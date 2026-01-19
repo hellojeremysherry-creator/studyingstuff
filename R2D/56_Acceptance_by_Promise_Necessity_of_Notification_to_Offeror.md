@@ -1,0 +1,54 @@
+Restat 2d of Contracts, § 56
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 56 Acceptance by Promise; Necessity of Notification to Offeror
+Except as stated in § 69 or where the offer manifests a contrary intention, it is essential to an 
+acceptance by promise either that the offeree exercise reasonable diligence to notify the offeror of 
+acceptance or that the offeror receive the acceptance seasonably.
+## Comments & Illustrations
+### Comment
+a.  Necessity of notification.  Where the offeree has performed in whole or in part, notification to the offeror is 
+not essential to acceptance, although failure to notify may discharge the offeror's duty of performance.  See § 
+54.  Similarly, where the offeror has rendered a performance and the offeree has taken the benefit of that 
+performance, the offeree may be bound without notification to the offeror.  See § 69.  In such cases the 
+enforcement of the promise rests in part on a change of position in justifiable reliance on a promise, often 
+reinforced by a corresponding benefit received by the promisor.  Section 69 also provides for some cases of 
+offers which manifest an intention to dispense with notification.  In other cases of the exchange of promises 
+which are entirely executory on both sides, the offeror is entitled to notification of acceptance unless the offer 
+manifests a contrary intention.
+### Illustrations
+1.  A gives an order to B Company's traveling salesman for a $ 2000 machine "to purify water of the character 
+shown by sample to be submitted," shipment to be made in one month.  The order provides: "This proposal 
+becomes a contract when approved by an executive officer of B Company at its home office." Notation of such 
+approval on the order is an acceptance by promise without any notification, but A's duty to perform is 
+conditional on reasonable notification to send the sample.
+2.  A makes written application for life insurance through an agent for B Insurance Company, pays the first 
+premium, and is given a receipt stating that the insurance "shall take effect as of the date of approval of the 
+application" at B's home office.  Approval at the home office in accordance with B's usual practice is an 
+acceptance of A's offer even though no steps are taken to notify A.
+b.  Failure of communication.  It is sometimes said that the acceptance must be communicated to the offeror, 
+and when the parties deal face to face communication is ordinarily required.  The rule is more accurately stated 
+as one requiring reasonable diligence on the part of the offeree, however, since in cases of misunderstanding 
+acceptance turns on what each party knew or had reason to know.  See § 20.  In cases of communication by 
+mail or telegram, moreover, an acceptance may be effective on dispatch even though it fails to reach the 
+addressee.  See § 63.  Failure of diligence becomes immaterial if the offeror receives the acceptance 
+seasonably.  See § 67.  As to when a written acceptance is received, see § 68.  Compare Restatement, 
+Second, Agency §§ 268-83, Uniform Commercial Code § 1-201(25)-(27).  Of course reasonable diligence, or 
+even receipt, is not enough if the terms of the offer require more.  See § 58.
+## Reporter'S Notes
+The explicit statement of a requirement of notification for an acceptance by promise is new.  See 1 Williston, 
+Contracts §§ 70-72 (3d ed. 1957); 1 Corbin, Contracts § 67 (1963 & Supp. 1980).
+Comment a.  Illustration 1 is based on International Filter Co. v. Conroe Gin, Ice & Light Co., 277 S.W. 631 
+(Tex. Comm. App. 1925). Compare both opinions in Kendel v. Pontious, 261 So.2d 167 (Fla. 1972).
+Illustration 2 is based on form used in Field v. Missouri State Life Ins. Co., 77 Utah 45, 290 P. 979 (1930); see 
+Annot., 2 A.L.R.2d 943 (1948); Note, 44 Yale L.J. 1223 (1935).
+
+§ 56 Acceptance by Promise; Necessity of Notification to Offeror
+Comment b.  That no attempt at notification is needed if the offeror actually learns promptly of the acceptance, 
+see Southern Nat'l Bank v. Tri Fin. Corp., 317 F. Supp. 1173, 1179 n.1 (S.D. Tex. 1970).
+Cross Reference
+### Digest System Key Numbers
+Contracts 22(3)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

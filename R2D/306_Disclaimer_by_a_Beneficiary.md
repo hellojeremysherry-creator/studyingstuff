@@ -1,0 +1,38 @@
+Restat 2d of Contracts, § 306
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 306 Disclaimer by a Beneficiary
+A beneficiary who has not previously assented to the promise for his benefit may in a reasonable time 
+after learning of its existence and terms render any duty to himself inoperative from the beginning by 
+disclaimer.
+## Comments & Illustrations
+### Comment
+a.  Acceptance unnecessary.  No assent by a beneficiary to the contract and no knowledge on his part is 
+necessary to give him a right of action on it.  Compare §§ 53, 104; Restatement, Second, Trusts § 36.  Of 
+course, the promise may be conditional on knowledge or assent, or the performance promised may be such 
+that it can only be rendered with the cooperation of the beneficiary.
+b.  Disclaimer.  Like an offeree, a beneficiary is entitled to reject a promised benefit, whether or not there is a 
+related burden.Compare § 38.  No particular formality is required for disclaimer, and its effect on the promisor's 
+duty to the beneficiary is the same as if no promise had been made.  But once the beneficiary has manifested 
+assent, disclaimer is operative only if the requirements are met for discharge of a contractual duty.  Compare § 
+37.
+c.  Rights of promisee.  This Section does not deal with the effect on the rights of the promisee of a disclaimer 
+by the beneficiary.  That effect depends on the circumstances.  In some situations there may be a discharge by 
+non-occurrence of a condition (see § 225(2)), by impossibility or frustration (see §§ 261, 265), or by virtue of the 
+law of suretyship (see § 314; Restatement of Security § 116; Uniform Commercial Code § 3-604).  In such 
+situations, if the promisor would otherwise be unjustly enriched, the promisee may have a right to restitution of 
+benefits conferred on the promisor; see Comment a to § 370.
+d.  Rights of third persons.  The effect of disclaimer on other claims which have intervened, such as a claim for 
+taxes owed by the beneficiary, is beyond the scope of this Restatement.  A disclaimer may be ineffective 
+against third persons if it is a breach of duty to them.  Examples are disclaimer in fraud of creditors and 
+disclaimer by a trustee.  Compare Restatement, Second, Trusts §§ 35, 102.
+## Reporter'S Notes
+This Section is based on former § 137.  See 2 Williston, Contracts § 396 (3d ed. 1959); 4 Corbin, Contracts § 
+811 (1951).
+Comment a.  See Chitlik v. Allstate Ins. Co., 34 Ohio App.2d 193, 299 N.E.2d 995 (1973).
+Cross Reference
+### Digest System Key Numbers
+Contracts 187(5)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

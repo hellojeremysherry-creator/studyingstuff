@@ -1,0 +1,14 @@
+## U.C.C. § 2A-514
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 5. DEFAULT  >   B. 
+## Default By Lessor
+§ 2A-514. Waiver of Lessee's Objections.
+(1)  In rejecting goods, a lessee's failure to state a particular defect that is ascertainable by reasonable 
+inspection precludes the lessee from relying on the defect to justify rejection or to establish default:
+(a)  if, stated seasonably, the lessor or the supplier could have cured it ( Section 2A-513); or
+(b)  between merchants if the lessor or the supplier after rejection has made a request in writing for a 
+full and final written statement of all defects on which the lessee proposes to rely.
+(2)  A lessee's failure to reserve rights when paying rent or other consideration against documents 
+precludes recovery of the payment for defects apparent in the documents.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,48 @@
+Restat 2d of Contracts, § 138
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 7- Consequences of Non-Compliance        
+§ 138 Unenforceability
+Where a contract within the Statute of Frauds is not enforceable against the party to be charged by an 
+action against him, it is not enforceable by a set-off or counterclaim in an action brought by him, or as a 
+defense to a claim by him.
+## Comments & Illustrations
+### Comment
+a.  Contracts within the Statute.  Section 110 lists the classes of contracts which are subject to the Statute of 
+Frauds, and Topics 1-5, §§ 111-30 elaborate the descriptions of some of those classes and the circumstances 
+in which certain contracts originally within the Statute may cease to be within it.
+b.  Unenforceability.  Despite variations in wording, the American statutes based on the English Statute of 
+Frauds are read to make contracts unenforceable by action or defense unless the Statute is satisfied by a 
+signed memorandum.  See § 8, defining "unenforceable contract." Satisfaction by a memorandum is the subject 
+of Topic 6, §§ 131-37.  Under the rule stated in § 135, the Statute may be satisfied as against one party and not 
+as against another; in that event the Statute does not prevent enforcement by action, set-off, counterclaim or 
+defense against the former party.
+c.  Exceptions.  In many situations a contract within the Statute becomes enforceable even though the Statute 
+is not satisfied by a memorandum.  Of particular importance are cases where denial of enforcement would be 
+unjust because of part or full performance or other reliance by the aggrieved party.  Some such cases are dealt 
+with by rules withdrawing the case from the class of contracts within the Statute (see, e.g., §§ 125, 130), others 
+by a rule making particular remedies available (see, e.g., §§ 129, 375).  Exceptions relating to particular classes 
+of contracts are stated in appropriate sections in the Topics relating to those classes.
+## Reporter'S Notes
+This Section is based on the first sentence of former § 217.  The remainder of former § 217 is rewritten for 
+clarification as §§ 139-43.  See 3 Williston, Contracts § 529 (3d ed. 1960); 2 Corbin, Contracts § 317 (1950).
+Cross Reference
+### ALR Annotations
+Construction and application of UCC § 2-201(3)(c) rendering contract of sale enforceable notwithstanding 
+statute of frauds with respect to goods for which payment has been made and accepted or which have been 
+received and accepted.  97 A.L.R.3d 908.
+Construction and application of UCC § 2-201(3)(b) rendering contract of sale enforceable notwithstanding 
+statute of frauds, to extent it is admitted in pleading, testimony, or otherwise in court.  88 A.L.R.3d 416.
+Comment Note. -- Statute of frauds and conflict of laws.  47 A.L.R.3d 137.
+Enforceability, under statute of frauds provision as to contracts not to be performed within a year, of oral 
+employment contract for more than one year but specifically made terminable upon death of either party.  88 
+A.L.R.2d 701.
+Statute of frauds as applicable to seller's oral warranty as to quality or condition of chattel.  40 A.L.R.2d 760.
+
+§ 138 Unenforceability
+Oral contract for personal services so long as employee is able to continue in work, to do satisfactory work, or 
+the like, as within statute of frauds relating to contracts not to be performed within year.  28 A.L.R.2d 878.
+### Digest System Key Numbers
+Frauds, Statute of 119(1), 125
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,116 @@
+Restat 2d of Contracts, § 34
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 3- Making of Offers        
+§ 34 Certainty and Choice of Terms; Effect of Performance or Reliance
+(1)  The terms of a contract may be reasonably certain even though it empowers one or both parties to 
+make a selection of terms in the course of performance.
+(2)  Part performance under an agreement may remove uncertainty and establish that a contract 
+enforceable as a bargain has been formed.
+(3)  Action in reliance on an agreement may make a contractual remedy appropriate even though 
+uncertainty is not removed.
+## Comments & Illustrations
+### Comment
+a.  Choice in the course of performance.  A bargain may be concluded which leaves a choice of terms to be 
+made by one party or the other.  If the agreement is otherwise sufficiently definite to be a contract, it is not 
+made invalid by the fact that it leaves particulars of performance to be specified by one of the parties.  Uniform 
+Commercial Code § 2-311(1).  The more important the choice is, the more it is likely that the parties do not 
+intend to be bound until the choice is made.  But even on such matters as subject matter and price, one party is 
+often given a wide choice.  If the parties intend to make a contract and there is a reasonably certain basis for 
+granting an appropriate remedy, such alternative terms do not invalidate the contract.  See § 33.  Often a basis 
+for remedy can be found in the rule of Comment b to § 362, permitting a remedy in accordance with the 
+alternative chosen or in accordance with the alternative that will result in the smallest recovery.  In other cases 
+the failure of one party to choose may shift the right to choose to the other party or to an arbitrator or to the 
+court.
+### Illustrations
+1.  A promises B to give him any one of a number of specified things which A shall choose, and B promises A to 
+pay a specified price.  The agreement is sufficiently definite to be a contract.  A method is provided for 
+determining what A is to give; though what he gives is subject to his choice, he must give some one of the 
+things specified.
+2.  A agrees to sell and B to buy 50,000 pounds of white worsted yarn on a basis which enables the parties to 
+compute 48 prices for 48 styles and sizes.  The agreement is sufficiently definite to be a contract.  Unless 
+otherwise agreed specifications relating to assortment of the goods are at the buyer's option, but if B does not 
+make a seasonable specification, A may proceed to perform in any reasonable manner.  Uniform Commercial 
+Code § 2-311.
+b.  Unlimited choice; good faith and fair dealing.  If one party to an agreement is given an unlimited choice, that 
+party may not be a promisor (see Comment e to § 2), and the contract may fail for want of consideration.  See § 
+79.  The other party's promise may be unconscionable and may be wholly or partly illegal.  Compare §§ 178, 
+208; see Uniform Commercial Code § 2-302.  These difficulties are commonly avoided, however, by the fact 
+that the choice granted is limited.  Just as the power of selection may be given not only by explicit agreement 
+but also by course of dealing or usage of trade or course of performance under the particular agreement or by 
+other implication from circumstances, so limits on the power may be either express or implied.  Often the choice 
+made must be reasonable in the circumstances.  See § 228; Uniform Commercial Code §§ 2-306, 2-311(1).  
+And in any event discretionary power granted by a commercial contract must be exercised in good faith and in 
+accordance with fair dealing.  Uniform Commercial Code §§ 1-203, 2-103(1)(b).  A price to be fixed by a seller 
+
+§ 34 Certainty and Choice of Terms; Effect of Performance or Reliance
+or buyer of goods, for example, means a price for him to fix in good faith.  Uniform Commercial Code § 2-
+305(2).
+### Illustration
+3.  A promises B to do specified work or to transfer certain goods or land and B promises A to make specified 
+payments if the work or property is satisfactory to B in specified respects.  These promises are sufficiently 
+definite to form contracts, since B's duty depends not on his mere whim but on his exercise of an honest 
+judgment, or in some cases of a reasonable judgment.  See § 228.
+c.  Subsequent conduct removing uncertainty.  Indefiniteness may prevent enforcement of a contract in two 
+different ways: it may mean that a manifestation of intention is not intended to be understood as an offer; or, 
+even though the parties intended to enter into a contract, there may be no sufficient basis for giving an 
+appropriate remedy.  See § 33.  Subsequent conduct of one or both parties may remove either obstacle or 
+both.  Preliminary manifestations may propose terms which are incorporated in a subsequent offer and become 
+part of a contract.  See Comment f to § 26.  The contract may then be thought of as concluded only at the time 
+of the acceptance of the subsequent offer.  Or part performance may give meaning to indefinite terms of an 
+agreement, or may have the effect of eliminating indefinite alternatives by waiver or modification.  Uniform 
+Commercial Code § 2-208.  In such cases a bargain may be concluded, but it may be impossible to identify 
+offer or acceptance or to determine the moment of formation.  See § 22(2).  The obstacle of indefiniteness may 
+nevertheless be removed.
+d.  Reliance and appropriate remedies.  The need for a particular remedy may sometimes become apparent as 
+a result of part performance or other action in reliance on an indefinite agreement, even though the original 
+uncertainty remains.  The appropriate remedy may be non-contractual.  Thus benefits conferred on the other 
+party under an agreement void for indefiniteness may ordinarily be recovered.  Restatement of Restitution §§ 
+15, 40, 47, 53.  In some such cases the measure of benefit may appropriately be the value of the plaintiff's 
+performance rather than the economic benefit to the defendant.  See Restatement of Restitution § 155 and 
+Caveat; compare § 370 of this Restatement.  Where one party has suffered loss because of his reliance on 
+such an agreement, the other party may be subject to liability in tort.  See Restatement, Second, Torts § 323, 
+and Caveat; Restatement, Second, Agency § 378.
+In many cases, however, reliance makes appropriate a contractual remedy.  Thus the agreement may be 
+treated as divisible and recovery for benefits conferred may then be permitted at the promised rate.  An express 
+or implied promise may be found to reimburse expenses incurred pursuant to the indefinite agreement.  In 
+some cases partial or full enforcement through an award of damages for breach of contract or a decree of 
+specific performance may become appropriate.  See § 90.  As to detrimental reliance not consisting of the 
+performance of the agreement, compare Comment a to § 129.
+### Illustrations
+4.  A says to B: "I will employ you for some time at $ 10 a day." An acceptance by B either orally or in writing will 
+not create a contract.  But if B serves one or more days with A's assent A is bound to pay $ 10 for each day's 
+service.
+5.  A agrees to sell and B to buy a specific house and lot for $ 10,000, mortgage terms to be agreed.  At B's 
+request, reinforced by a threat not to perform, A makes certain alterations in the house, which add nothing to its 
+value.  B then repudiates the agreement without reference to mortgage terms.  A may recover the cost of the 
+alterations.  See § 349.
+6.  A leases land to B for three years, giving B an option to buy the land for $ 10,000 "on terms to be agreed 
+on." B occupies the land for three years, making extensive improvements, and seeks to exercise the option, 
+offering to pay "either in cash or upon such terms as A may impose." B may obtain a decree of specific 
+performance.  See Illustration 2 to § 362.
+## Reporter'S Notes
+Subsections (1) and (3) are new.  Subsection (2) is based on former § 33 and Comment c to former § 32.  See 
+1 Williston, Contracts §§ 43-49 (3d ed. 1957); 1 Corbin, Contracts §§ 98-102 (1963 & Supp. 1980); Fuller & 
+Perdue, The Reliance Interest in Contract Damages: II, 46 Yale L.J. 373, 394-96 (1937).
+
+§ 34 Certainty and Choice of Terms; Effect of Performance or Reliance
+Comment a.  Illustration 1 is based on Illustration 8 to former § 32; see also § 79.  Illustration 2 is based on 
+William Whitman & Co. v. Namquit Worsted Co., 206 F. 549 (D.R.I. 1913), aff'd, 221 F. 49 (1st Cir. 1915); for 
+conflicting decisions see Annot., 106 A.L.R. 1284 (1937).
+Comment b.  See California Lettuce Growers, Inc. v. Union Sugar Co., 45 Cal.2d 474, 289 P.2d 785 (1955), 
+and Annot., 49 A.L.R.2d 508 (1956); Prosser, Open Price in Contracts for the Sale of Goods, 16 Minn. L. Rev. 
+733 (1932). Illustration 3 is based on Illustration 9 to former § 32.  For the application of Illustration 3 to the sale 
+of land, see Mattei v. Hopper, 51 Cal.2d 119, 330 P.2d 625 (1958).
+Comment c.  On subsequent conduct, see Yoder v. Rock Island Bank, 47 Ill. App.3d 486, 5 Ill. Dec. 755, 362 
+N.E.2d 68 (1977), citing this Comment in Tentative Draft; Maryland Supreme Corp. v. Blake Co., 279 Md. 531, 
+369 A.2d 1017 (1977); Tanenbaum Textile Co. v. Sidran, 423 S.W.2d 635 (Tex. Civ. App. 1968).
+Comment d.  Illustration 4 is based on Illustration 1 to former § 33.  Illustration 5 is based on Kearns v. Andree, 
+107 Conn. 181, 139 A. 695 (1928); see Annot., 59 A.L.R. 604 (1929); Costigan, Implied in Fact Contracts and 
+Mutual Assent, 33 Harv. L. Rev. 376 (1920); Note, 44 Harv. L. Rev. 623 (1931). Illustration 6 is based on Morris 
+v. Ballard, 16 F.2d 175 (D.C. Cir. 1926); see 5A Corbin, Contracts § 1174 (1964).
+Cross Reference
+### Digest System Key Numbers
+Contracts 9
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

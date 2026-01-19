@@ -1,0 +1,122 @@
+Restat 2d of Contracts, § 321
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 1- What Can Be Assigned or Delegated        
+§ 321 Assignment of Future Rights
+(1) Except as otherwise provided by statute, an assignment of a right to payment expected to arise out 
+of an existing employment or other continuing business relationship is effective in the same way as an 
+assignment of an existing right.
+(2) Except as otherwise provided by statute and as stated in Subsection (1), a purported assignment of 
+a right expected to arise under a contract not in existence operates only as a promise to assign the 
+right when it arises and as a power to enforce it.
+## Comments & Illustrations
+### Comment
+a.  Rights under existing contracts.  This Section does not apply to rights in existence at the time of assignment.  
+Such rights are assignable under the rules stated in §§ 317 and 320 even though they are conditional or have 
+not matured.  For this purpose rights arising under a contract are treated as existing from the moment of its 
+formation, even though the chance is slight that there will ever be a duty of immediate performance.
+### Illustration
+1.  A contracts to build a house for B for a stated price.  The contract provides that if A performs any work on 
+the house beyond what the specifications require, he shall have compensation therefor, to be determined by 
+the architect.  Before any such work has been agreed upon, A, for value, assigns his right to compensation for 
+extra work to C.  Subsequently A becomes bankrupt, and still later extra work under the contract is agreed upon 
+and performed.  Immediately on completion of the work A assigns the right to compensation to D.  The 
+assignment to C is effective and is not defeated by A's bankruptcy or the assignment to D.
+b.  Rationale.  The conceptual difficulty posed by transfer of a right which does not exist can be met by giving 
+effect to the attempted transfer when the right later arises.  Uniform Commercial Code § 9-204, for example, 
+provides that with certain exceptions a security agreement may provide that all obligations covered by the 
+security agreement are to be secured by after-acquired collateral; in an appropriate case, the security interest is 
+said by § 9-203 to "attach" when it becomes enforceable against the debtor with respect to the collateral.  The 
+effect given in such cases is limited, not because of any logical necessity, but by virtue of a public policy which 
+seeks to protect the assignor and third parties against transfers which may be improvident or fraudulent.  
+Similar limitations are placed on attempted transfers of future rights in property other than contractual rights.  
+See Restatement of Property § 316; Restatement of Security § 10; Restatement, Second, Trusts § 86; Uniform 
+Commercial Code §§ 2-401, 2-501, 9-203(4), 9-204(2).
+c.  Continuing relationships.  Subsection (1) gives effect to an assignment of a right to compensation for 
+services expected to be rendered in the course of an existing employment, even though there is no contract to 
+continue the employment, and states a similar rule for rights expected to arise out of other continuing business 
+relationships.  Even where there is no continuing relationship, a purported assignment of a right expected to 
+arise out of a subsequent transaction may sometimes become a part of the subsequent transaction and take 
+effect as such a part.
+### Illustrations
+2.  B employs A from week to week in his factory at a salary of $ 50 a week.  A, in the first week of January, 
+assigns to C any salary which he may earn during the last week in that month in his employment by B.  The 
+assignment is effective, and if A works for B during that week B will come under a duty to C to pay him $ 50.
+
+§ 321 Assignment of Future Rights
+3.  B employs A at a stated rate of pay from day to day.  A assigns to C whatever A may become entitled to 
+from work done for B during the ensuing month.  During the ensuing month A not only earns his regular pay but 
+acquires a right to extra compensation in the course of his employment.  The assignment is effective both as to 
+the right to regular pay and the right to extra compensation.
+4.  In January A assigns to C as security for a loan the salary he expects to earn in March under his existing 
+employment by B, though A has no contract with B to work during that month.  A becomes bankrupt in 
+February, and later receives a discharge in bankruptcy.  He continues his employment during March.  Even 
+though the assignment is otherwise effective, A's debt to C is discharged, and A's March salary belongs to A 
+free of C's claim.
+5.  A receives from B an order for brick to be used by B in performing an existing contract with D to build a 
+school, with an assurance that A "has been awarded the job of furnishing bricks for the school." Before prices 
+or specifications for the brick have been determined, A assigns to C as security for a loan the money to become 
+due from B for material for the school.  The brick is later delivered as expected.  The assignment is effective.
+6.  A is negotiating to sell to B property part of which is subject to a mortgage from A to C.  In consideration of 
+C's release of the mortgage, A assigns to C a payment to be made by B.  Later the same day A and B sign a 
+contract to sell the property which provides for the payment expected.  Notwithstanding the lack of a continuing 
+business relationship, the assignment to C is effective when the contract to sell is made.
+d.  Other future rights.  In the absence of statute, a purported assignment of a future right not within the rule 
+stated in Subsection (1) has only the effect stated in Subsection (2).  That effect is that the assignee has 
+enforceable rights against the assignor only to the extent that contractual remedies are available, as in the case 
+of a promise to make a future assignment.  See § 330.  As against third parties, the purported assignment 
+operates as a grant to the assignee of the assignor's power to enforce the right.  But unless specific 
+enforcement against the assignor is appropriate, the grant of power is revocable and can be defeated by the 
+assignor's creditors until it is exercised.
+### Illustrations
+7.  A is employed as a teacher for the school year by X, a municipality.  A, in the expectation of employment by 
+B, another municipality, for the following school year, assigns to C the salary for the first month of service which 
+A may render for B.  A is subsequently employed by B as expected, and A's salary for the first month becomes 
+due.  C makes demand upon B for payment of the salary.  B refuses and pays A.  In the absence of statute, B 
+has violated no right of C.
+8.  The facts being otherwise as stated in Illustration 7, D, a creditor of A, garnishes A's salary after it becomes 
+due.  C intervenes, claiming the funds as assignee.  In the absence of statute, D's claim is prior to C's.
+e.  Statutory provisions.  The limitations imposed by this Section on the assignment of future rights are not the 
+only possible mode of safeguarding the interests of the assignor and third parties. Particularly when a method is 
+provided for giving public notice of the transaction, statutes commonly relax the limitations stated here.  For 
+transactions subject to Article 9 of the Uniform Commercial Code, the Code provides a notice-filing system, and 
+§ 9-204 gives effect to a security agreement (not involving consumer goods) providing that a security interest 
+shall attach to after-acquired collateral.  Such collateral may include contractual rights.  Somewhat similar 
+variations from the rules of this Section have been made in other statutes relating to the assignment of 
+accounts receivable.  Again, wage-assignment statutes sometimes limit amount and duration, but within the 
+limits set may permit assignment of wages to be earned under future engagements.  See Introductory Note to 
+Chapter 15.
+## Reporter'S Notes
+Subsection (1) of former § 154 is omitted as repetitive of § 317; former Subsection (2) is divided into two 
+subsections.  The provision for "other continuing business relationships" than employment is new.  The last 
+clause of the original Subsection (2) is omitted so as to leave to § 330 the consequences of an assignment 
+operative as a promise to assign.
+See 3 Williston, Contracts § 413 (3d ed. 1960); 4 Corbin, Contracts § 874 (1951 & Supp. 1971).
+Comment a.  For a discussion of the difference between the assignment of a future right and the assignment of 
+a present right that is conditional upon a future event and may never mature, see Stathos v. Murphy, 26 A.D.2d 
+
+§ 321 Assignment of Future Rights
+500, 276 N.Y.S.2d 727 (1966), aff'd, 19 N.Y.2d 883, 281 N.Y.S.2d 81, 227 N.E.2d 880 (1967). Glassman 
+Constr. Co. v. Fidelity & Cas. Co., 356 F.2d 340 (D.C. Cir.), cert. denied, 384 U.S. 987 (1966). Illustration 1 is 
+based on Illustration 1 to former § 154.
+Comment c.  Illustrations 2-3 are based on Illustrations 2-3 to former § 154.  See also Valley Nat'l Bank v. 
+Flagstaff Dairy, 116 Ariz. 513, 570 P.2d 200 (Ct. App. 1977) (proceeds from future sales of milk to regular 
+customer without contract; decided under pre-1972 text of Uniform Commercial Code § 9-204); du Pont deBie 
+v. Vredenburg, 490 F.2d 1057 (4th Cir. 1974) (assignment of future support payments).  Illustration 4 is based 
+on Illustration 4 to former § 154, but is revised to reflect the decision in Local Loan Co. v. Hunt, 292 U.S. 234 
+(1934). Illustration 5 is based on Claycraft Co. v. John Bowen Co., 287 Mass. 255, 191 N.E. 403 (1934); cf.  
+H.S. Mann Corp. v. Moody, 144 Cal. App.2d 310, 301 P.2d 28 (1956). Illustration 6 is based on Bergson v. H.P. 
+Hood & Sons, 300 Mass. 340, 15 N.E.2d 196 (1938); see Annot., 116 A.L.R. 955 (1938). See also University 
+Casework Systems v. Bahre, 172 Ind. App. 624, 362 N.E.2d 155 (1977). Illustration 7 is based on Illustration 5 
+to former § 154.  See also Trak Microwave Corp. v. Medaris Mgt., Inc., 236 So.2d 189 (Fla. Dist. Ct. App. 
+1970). Illustration 8 is new and is suggested by Herbert v. Bronson, 125 Mass. 475 (1878).
+Cross Reference
+### ALR Annotations
+Prospective assignment of renewal rights in copyright.  1 A.L.R.3d 1403.
+Right of assignee or sublessee to enforce option contained in lease for purchase of property.  45 A.L.R.2d 
+1034.
+Assignability of warranty of goods and chattels.  17 A.L.R.2d 1196.
+### Digest System Key Numbers
+Assignments 10-13
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

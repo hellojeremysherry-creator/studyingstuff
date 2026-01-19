@@ -1,0 +1,17 @@
+## U.C.C. § 2A-104
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 1. GENERAL PROVISIONS
+§ 2A-104. Leases Subject to Other Law.
+(1)  A lease, although subject to this Article, is also subject to any applicable:
+(a)  certificate of title statute of this State: (list any certificate of title statutes covering automobiles, 
+trailers, mobile homes, boats, farm tractors, and the like);
+(b)  certificate of title statute of another jurisdiction ( Section 2A-105); or
+(c)  consumer protection statute of this State, or final consumer protection decision of a court of this 
+State existing on the effective date of this Article.
+(2)  In case of conflict between this Article, other than Sections 2A-105, 2A-304(3), and 2A-305(3), and a 
+statute or decision referred to in subsection (1), the statute or decision controls.
+(3)  Failure to comply with an applicable law has only the effect specified therein.
+As amended in 1990.
+See Appendix VI for material relating to changes made in text in 1990.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

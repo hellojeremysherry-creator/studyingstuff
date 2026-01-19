@@ -1,0 +1,60 @@
+Restat 2d of Contracts, § 114
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 2- The Suretyship Provision        
+§ 114 Independent Duty of Promisor
+A contract to perform or otherwise to satisfy all or part of a duty of a third person to the promisee is not 
+within the Statute of Frauds as a contract to answer for the duty of another if, by the terms of the 
+promise when it is made, performance thereof can involve no more than
+(a)  the application of funds or property held by the promisor for the purpose, or
+(b)  performance of any other duty owing, irrespective of his promise, by the promisor to the promisee, 
+or
+(c)  performance of a duty which is either owing, irrespective of his promise, by the promisor to the 
+third person, or which the promisee reasonably believes to be so owing.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Where the promisor, if he keeps his promise, will be doing no more than he is bound to do by 
+reason of a duty other than that imposed by the promise, the promise is not within the Statute.  Even though the 
+promisor is a surety, he promises to answer for his own obligation as well as that of another and is not within 
+the reason of the Statute.  The terms of the promise will commonly refer to the independent duty, but need not 
+do so.  The independent duty may exist when the promise is made or may arise subsequently.
+b.  Application of funds.  Subsection (a) deals primarily with cases where the promisor is a trustee and the 
+promisee a beneficiary of the trust, although the trust relationship is not essential.  In such cases the promise 
+usually shows by its terms the independent duty and the limitation of the promise.  To the extent that the 
+promise goes beyond the duty, the case is not within Subsection (a).
+### Illustrations
+1.  D owes C $ 100 and pays that sum to S in trust to pay it to C.  Then or thereafter S orally promises C to pay 
+D's debt.  Whether or not C knows of the trust, C acquires an enforceable right against S.
+2.  D pays $ 100 to S in trust to apply it to whatever judgment C may recover against D in an action then 
+pending.  S orally promises C to pay the judgment in full.  C recovers judgment for $ 125.  C has an enforceable 
+right against S for only $ 100.
+c.  Other independent duties.  Where the promisor merely promises to perform an independent duty owed to 
+the promisee or to the principal obligor, the promise is not within the Statute.  In such cases the terms of the 
+promise often do not disclose the independent duty.  Where the promisee in good faith believes, when the 
+promise is made, that such a duty is owed by the promisor to his co-obligor, the same rule is applied even 
+though the duty does not in fact exist.
+### Illustrations
+3.  S is a member of a partnership.  After he retires but before the debts of the partnership are paid, S orally 
+promises C, a partnership creditor, to pay the amount due him.  The promise is not within the Statute of Frauds.
+4.  S, at D's request, orally promises C to guarantee the payment by D to C of the price of any goods sold by C 
+to D, to the extent of the indebtedness S may owe D at the time when C notifies S that D has made default.  C 
+thereupon sells goods to D.  S's promise is not within the Statute of Frauds.
+
+§ 114 Independent Duty of Promisor
+5.  S and D severally promise C to pay for goods to be delivered to D.  The goods are really for S and D is the 
+real surety, but S and D lead C to suppose that S is the surety.  S's promise is not within the Statute of Frauds; 
+under § 113(c) neither is D's.
+## Reporter'S Notes
+This Section is based on former § 182.  See 3 Williston, Contracts §§ 459, 479 (3d ed. 1960); 2 Corbin, 
+Contracts §§ 363, 391 (1950 & Supp. 1971).
+Comments b and c.  Illustrations 1-5 are based on Illustrations 1-5 to former § 182.
+Cross Reference
+### ALR Annotations
+Applicability of statute of frauds to promise to pay for medical, dental, or hospital services furnished to another.  
+64 A.L.R.2d 1071.
+Question, as one of law for court or of fact for jury, whether oral promise was an original one or was a collateral 
+promise to answer for the debt, default, or miscarriage of another.  20 A.L.R.2d 246.
+### Digest System Key Numbers
+Frauds, Statute of 23 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

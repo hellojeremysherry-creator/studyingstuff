@@ -1,0 +1,17 @@
+## U.C.C. § 3-604
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 6. 
+## Discharge And Payment
+## § 3-604. Discharge By Cancellation Or Renunciation
+(a)  A person entitled to enforce an instrument, with or without consideration, may discharge the obligation 
+of a party to pay the instrument (i) by an intentional voluntary act, such as surrender of the instrument to the 
+party, destruction, mutilation, or cancellation of the instrument, cancellation or striking out of the party's 
+signature, or the addition of words to the instrument indicating discharge, or (ii) by agreeing not to sue or 
+otherwise renouncing rights against the party by a signed record.
+(b)  Cancellation or striking out of an indorsement pursuant to subsection (a) does not affect the status and 
+rights of a party derived from the indorsement.
+(c)  In this section, "signed," with respect to a record that is not a writing, includes the attachment to or 
+logical association with the record of an electronic symbol, sound, or process with the present intent to 
+adopt or accept the record.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

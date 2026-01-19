@@ -1,0 +1,20 @@
+## U.C.C. § 9-303
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+## Perfection And Priority  >  Subpart 1. Law Governing Perfection And Priority
+## § 9-303. Law Governing Perfection And Priority Of Security
+## Interests In Goods Covered By A Certificate Of Title
+(a) [Applicability of section.]  This section applies to goods covered by a certificate of title, even if there is 
+no other relationship between the jurisdiction under whose certificate of title the goods are covered and the 
+goods or the debtor.
+(b) [When goods covered by certificate of title.]  Goods become covered by a certificate of title when a 
+valid application for the certificate of title and the applicable fee are delivered to the appropriate authority. 
+Goods cease to be covered by a certificate of title at the earlier of the time the certificate of title ceases to 
+be effective under the law of the issuing jurisdiction or the time the goods become covered subsequently by 
+a certificate of title issued by another jurisdiction.
+(c) [Applicable law.]  The local law of the jurisdiction under whose certificate of title the goods are covered 
+governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in goods 
+covered by a certificate of title from the time the goods become covered by the certificate of title until the 
+goods cease to be covered by the certificate of title.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

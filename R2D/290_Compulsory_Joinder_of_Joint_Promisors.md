@@ -1,0 +1,83 @@
+Restat 2d of Contracts, § 290
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 290 Compulsory Joinder of Joint Promisors
+(1)  By statute in most states where the distinction between joint duties and joint and several duties 
+retains significance, an action can be maintained against one or more promisors who incur only a joint 
+duty, even though other promisors subject to the same duty are not served with process.
+(2)  In the absence of statute, an action can be maintained against promisors who incur only a joint duty 
+without joinder of those beyond the jurisdiction of the court, the representatives of deceased 
+promisors, or those against whom the duty is not enforceable at the time of suit.
+## Comments & Illustrations
+### Comment
+a.  Historical note.  Compulsory joinder of joint promisors is a remnant of a procedural system which was largely 
+displaced by nineteenth-century reforms.  In the English common-law courts the objection was waived unless 
+non-joinder appeared from the plaintiff's declaration or was asserted by plea in abatement naming those not 
+joined.  Absent waiver, except in cases of infancy or death, the requirement was strictly enforced that all those 
+originally jointly bound be joined as defendants.  Where some were beyond the jurisdiction of the court and did 
+not appear, the plaintiff's proper course was to proceed to outlaw them; judgment could then be had against 
+those who did appear.  Even in cases of joint and several duties, the plaintiff had to elect to sue all or one; he 
+could not sue two or more unless he sued all.
+b.  Statutes.  The requirement of joinder has been modified by statute in at least four different ways in various 
+states.  Perhaps the most common change is a provision that when less than all joint promisors are served with 
+process, the action may in the discretion of the court proceed against those served, the judgment binding the 
+joint property of all and the separate property of those served.  A second common provision simply permits the 
+action to proceed against those served as if they were the sole defendants.  Third, in some states suit may be 
+brought against any or all of a number of joint promisors; such provisions differ from the first two types in 
+eliminating any requirement that all be named as defendants.  Finally, whatever the rule as to joint obligors 
+generally, partners may in many states be sued in the firm name.
+c.  Judicial mitigation.  Unless changed by statute a requirement of joinder of promisors who incur only a joint 
+duty remains in force in those states where the distinction between joint duties and joint and several duties 
+retains significance.  But the strict common-law requirement was mitigated by judicial decision in the United 
+States in a number of situations which required statutory relief in England.  Thus joinder of parties not within the 
+jurisdiction of the court has not been required in the United States.  Exceptions have been made for dormant 
+partners, bankrupt co-promisors, and promisors against whom the claim is barred by the statute of limitations.  
+Compare § 291.  Modern procedure commonly permits joinder of several as well as joint claims, and misjoinder 
+or nonjoinder can be cured by amendment.
+### Illustrations
+1.  A and B are jointly indebted to C.  C sues A, who makes no objection to the nonjoinder of B.  C is entitled to 
+judgment against A for the full amount of the debt.
+2.  The facts being otherwise as stated in Illustration 1, A makes proper objection to the nonjoinder of B, and C 
+joins B by amendment.  C is entitled to judgment against A and B.
+3.  A, B and C jointly contract to pay money to D.  C was an infant when he made the promise, or has since 
+been discharged in bankruptcy, or has a defense under the statute of limitations.  D may sue A and B without 
+joining C as a defendant.
+
+§ 290 Compulsory Joinder of Joint Promisors
+## Reporter'S Notes
+Subsection (1) is new.  Subsection (2) embodies part of former § 117, part having been transferred to § 289.  
+Subsection (2) limits the requirement of joinder to those against whom the joint duty is enforceable at the time 
+of suit; the original Section referred instead to those "originally jointly bound."
+See Williams, Joint Obligations §§ 15-20 (1949); Dicey, Parties to Actions 247-52 (2d Am. ed. 1886); 2 
+Williston, Contracts §§ 327-29 (3d ed. 1959); 4 Corbin, Contracts §§ 929, 937 (1951); Reed, Compulsory 
+Joinder of Parties in Civil Actions, 55 Mich. L. Rev. 327, 356-67 (1957). For a modern case requiring joinder, 
+see Edward Corp. v. David M. Woolin & Son, Inc., 133 So.2d 252 (Fla. App. 1959).
+Comment b.  The first type of statute was enacted in New York in 1788, and seems now to be effective in 
+Alaska, Indiana, Nevada, New York, North Carolina, North Dakota, Oklahoma, Oregon, South Carolina, 
+Washington, Wisconsin; the second type in California, Georgia, Idaho, Nebraska, New Jersey, Ohio, Utah, 
+Virginia, Wyoming; the third in Iowa, Kentucky, Mississippi and West Virginia.  Statutes in Connecticut, 
+Michigan and Texas may have the same effect as the third type.  Citations are given in the Introductory Note to 
+this Chapter.  As to firmname statutes, see, e.g., Ala. Code tit. 7, § 141 (1958); Cal. Code Civ. Proc. § 388 
+(1973); Mich. Stat. Ann. § 27A.2051(2) (1976); N.Y. CPLR § 1025 (1976); 2 Rowley, Partnerships § 49.3 (2d 
+ed. 1960).
+Comment c.  For modern procedural rules, see Fed. R. Civ. P. 19-21; 3A Moore's Federal Practice PP18.03-
+21.05 (1979); 7 Wright & Miller, Federal Practice and Procedure: Civil §§ 1601-89 (1972); see also Jones 
+Knitting Corp. v. A.M. Pullen & Co., 50 F.R.D. 311 (S.D.N.Y. 1970); Scott v. Kay, 227 A.2d 572 (Del. 1967). 
+Illustrations 1 and 2 are based on Illustrations 1 and 2 to former § 117.
+Illustration 3 reverses the effect of Illustration 3 to former § 117 to accord with the change in Subsection (2).  
+Nonjoinder of aco-promisor discharged in bankruptcy was upheld in Belden v. Curtis, 48 Conn. 32 (1880); 
+Tinkum v. O'Neale, 5 Nev. 93, 97 (1869) (dictum); J.A. Fay & Co. v. James Jenks & Co., 78 Mich. 312, 44 N.W. 
+380 (1889) (service may be omitted); Noke v. Ingham, 1 Wils. 89, 95 Eng. Rep. 508 (1745) (upholding nolle 
+prosequi).  Contra: Roberts v. McLean, 16 Vt. 608 (1844); cf.  Woods v. Berry, 111 Cal. App. 675, 296 P. 332 
+(1931); Jenks v. Opp, 43 Ind. 108 (1873). As to infancy, see Cutts v. Gordon, 13 Me. 474 (1836); Woodward v. 
+Newhall, 18 Mass. (1 Pick.) 500 (1823); Robertson v. Smith, 18 Johns. 459, 478-79 (N.Y. 1821); Allen v. Butler, 
+9 Vt. 122, 128 (1837). As to the statute of limitations, see Arocena v. Sawyer, 60 Cal. App. 581, 213 P. 523 
+(1923); Cutler v. Wright, 22 N.Y. 471 (1860). Compare Baldwin v. Ely, 127 Pa. Super. Ct. 110, 193 A. 299 
+(1937) (requiring joinder of co-obligor despite covenant not to sue); Babbitt v. Gibbs, 51 A.D. 387, 64 N.Y.S. 
+699 (1st Dep't 1900) (joinder of discharged co-obligor unnecessary).
+Cross Reference
+### Digest System Key Numbers
+Contracts 330(4)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

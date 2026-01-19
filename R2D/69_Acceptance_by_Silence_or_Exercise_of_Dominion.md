@@ -1,0 +1,151 @@
+Restat 2d of Contracts, § 69
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 69 Acceptance by Silence or Exercise of Dominion
+(1)  Where an offeree fails to reply to an offer, his silence and inaction operate as an acceptance in the 
+### following cases only
+(a)  Where an offeree takes the benefit of offered services with reasonable opportunity to reject them 
+and reason to know that they were offered with the expectation of compensation.
+(b)  Where the offeror has stated or given the offeree reason to understand that assent may be 
+manifested by silence or inaction, and the offeree in remaining silent and inactive intends to accept the 
+offer.
+(c)  Where because of previous dealings or otherwise, it is reasonable that the offeree should notify the 
+offeror if he does not intend to accept.
+(2)  An offeree who does any act inconsistent with the offeror's ownership of offered property is bound 
+in accordance with the offered terms unless they are manifestly unreasonable.  But if the act is 
+wrongful as against the offeror it is an acceptance only if ratified by him.
+## Comments & Illustrations
+### Comment
+a.  Acceptance by silence is exceptional.  Ordinarily an offeror does not have power to cause the silence of the 
+offeree to operate as acceptance.  See Comment b to § 53.  The usual requirement of notification is stated in § 
+54 on acceptance by performance and § 56 on acceptance by promise.  The mere receipt of an unsolicited 
+offer does not impair the offeree's freedom of action or inaction or impose on him any duty to speak.  The 
+exceptional cases where silence is acceptance fall into two main classes: those where the offeree silently takes 
+offered benefits, and those where one party relies on the other party's manifestation of intention that silence 
+may operate as acceptance.  Even in those cases the contract may be unenforceable under the Statute of 
+Frauds.  See Chapter 5.
+b.  Acceptance of offered services.  Services rendered cannot be recovered in specie, and there is in general 
+no right to restitution of the value of services rendered officiously or gratuitously.  Even where services are 
+rendered by mistake, the right to restitution is limited.  See Restatement of Restitution §§ 40-42, 56.  But when 
+the recipient knows or has reason to know that the services are being rendered with an expectation of 
+compensation, and by a word could prevent the mistake, his privilege of inaction gives way; under Subsection 
+(1) (a) he is held to an acceptance if he fails to speak.  The resulting duty is not merely a duty to pay fair value, 
+but a duty to pay or perform according to the terms of the offer.
+### Illustration
+1.  A gives several lessons on the violin to B's child, intending to give the child a course of twenty lessons, and 
+to charge B the price.  B never requested A to give this instruction but silently allows the lessons to be 
+continued to their end, having reason to know A's intention.  B is bound to pay the price of the course.
+c.  Intent to accept.  The mere fact that an offeror states that silence will constitute acceptance does not deprive 
+the offeree of his privilege to remain silent without accepting.  But the offeree is entitled to rely on such a 
+statement if he chooses.  The case for acceptance is strongest when the reliance is definite and substantial or 
+when the intent to accept is objectively manifested though not communicated to the offeror.  Compare §§ 54, 
+
+§ 69 Acceptance by Silence or Exercise of Dominion
+87(2).  Even though the intent to accept is manifested only by silent inaction, however, the offeror who has 
+invited such an acceptance cannot complain of the resulting uncertainty in his position.
+### Illustrations
+2.  A offers by mail to sell to B a horse already in B's possession for $ 250, saying: "I am so sure that you will 
+accept that you need not trouble to write me.  Your silence alone will operate as acceptance." B makes no 
+reply, but he does not intend to accept.  There is no contract.
+3.  The facts being otherwise as stated in Illustration 2, B replies by return mail, saying: "I accept your offer." 
+There is a contract.
+4.  The facts being otherwise as stated in Illustration 2, B makes no reply and remains inactive with the intention 
+of thereby expressing his acceptance.  There is a contract.
+d.  Prior conduct of the offeree.  Explicit statement by the offeree, usage of trade, or a course of dealing 
+between the parties may give the offeror reason to understand that silence will constitute acceptance.  In such 
+a situation the offer may tacitly incorporate that understanding, and if the offeree intends to accept the case 
+then falls within Subsection (1) (b).  Under Subsection (1) (c) the offeree's silence is acceptance, regardless of 
+his actual intent, unless both parties understand that no acceptance is intended.  See § 20.
+In a number of recurring situations, statutes have codified the application of theses rules.  See Uniform 
+Commercial Code § 2-207(2) on additional terms proposed in an acceptance or written confirmation of a 
+contract between merchants for the sale of goods, § 2-327(1) on retention of goods sold on approval, § 4-302 
+on retention by a bank of commercial paper received for payment or acceptance.  In many states by statute or 
+decision an insurance company is under a duty to act without unreasonable delay on insurance applications 
+solicited by its agents; circumstances may be such as to give the applicant reason to understand that he is 
+insured if that duty is not performed, particularly where a premium payment has been made.  Compare § 56.
+### Illustrations
+5.  A, through salesmen, has frequently solicited orders for goods from B, the orders to be subject to A's 
+personal approval.  In every case A has shipped the goods ordered within a week and without other notification 
+to B than billing the goods to him on shipment.  A's salesman solicits and receives another order from B.  A 
+receives the order and remains silent.  B relies on the order and forbears to buy elsewhere for a week.  A is 
+bound to fill the order.
+6.  A has for years insured B's property against fire under annual policies.  At the expiration of one policy, in 
+accordance with the usual practice, A sends B a renewal policy and a bill for the premium.  B retains the policy 
+for two months and then refuses to pay the premium on demand.  B is liable for the premium accrued prior to 
+his rejection. .
+e.  Exercise of dominion.  An offeree in possession of offered property commonly has a duty or privilege to hold 
+it for the offeror, or, if storage, is inconvenient or hazardous, to return it, sell it for the offeror's account, or 
+otherwise dispose of it.  Compare Uniform Commercial Code §§ 2-602 through 2-604, 7-206.  But the offeree's 
+privilege to remain silent without accepting does not extend to acts of ownership not assented to by the offeror.  
+Hence exercise of dominion, even though not intended as acceptance under Subsection (1) (b) and not given 
+meaning by prior conduct under Subsection (1) (c), is a sufficient manifestation of assent under Subsection (2).  
+Compare Uniform Commercial Code § 2-606.
+Where the exercise of dominion does not comply with the terms of the offer, the offeror is not bound to treat it 
+as an acceptance but may instead pursue his remedies for tortious interference with his property.  But the 
+offeree is not ordinarily permitted to avoid contract obligation by asserting that he is a tortfeasor rather than a 
+promisor; atthe option of the offeror he may be held to an acceptance despite his manifestation of a contrary 
+intention.  Such an obligation may fairly be characterized as quasi-contractual rather than contractual, but its 
+terms are fixed by the offer rather than by the fair value of the property.  Compare Restatement of Restitution § 
+56.
+An exception is made where the offered terms are manifestly unreasonable.  In such cases the offeror has 
+reason to know that no acceptance is intended, and the offered terms do not serve as an administratively 
+convenient substitute for fair value.  Particularly where the offeror seeks to take unconscionable advantage of a 
+mistake made in good faith, no social purpose is served by an award plainly in excess of reasonable value even 
+though the exercise of dominion is tortious.
+
+§ 69 Acceptance by Silence or Exercise of Dominion
+### Illustrations
+7.  A sends B a one-volume edition of Shakespeare with a letter, saying, "If you wish to buy this book send me 
+$ 6.50 within one week after receipt hereof, otherwise notify me and I will forward postage for return." B 
+examines the book and without replying makes a gift of it to his wife.  B owes A $ 6.50.
+8.  The facts being otherwise as stated in Illustration 7, B examines the book and without replying carefully lays 
+it on a shelf to await A's messenger.  There is no contract.
+9.  The facts being otherwise as stated in Illustration 7, B examines the book and uses it or gives it to his wife, 
+writing A at the same time that he has taken the book, but that it is worth only $ 5 and that he will pay no more.  
+A may at his option treat B as a tort-feasor or as contracting to pay $ 6.50.
+10.  Under a claim of right made in error but in good faith, A digs a well on B's unused land and takes water 
+therefrom which has no market value and no value to B, doing no injury to the value of the land.  B notifies A 
+that he will charge A $ 50 a day for every day on which A takes water from his land.  Even after it is adjudicated 
+that A's right is nonexistent, A does not accept B's terms by taking water.
+## Reporter'S Notes
+This Section is based on former § 72.  Subsection (1) (c) is revised to harmonize with the common reference to 
+"duty to speak" in judicial discussion.  Subsection (2) is revised to conform to the language of Uniform 
+Commercial Code § 2-606, and the exclusion of offered terms which are "manifestly unreasonable" is new.
+See 1 Williston, Contracts §§ 91-91D (3d ed. 1957); 1 Corbin, Contracts §§ 72-75 (1963 & Supp. 1980); Laufer, 
+Acceptance by Silence: A Critique, 7 Duke B. A. J. 87 (1939).
+Comment a.  On the traditional reluctance of courts to find acceptance by silence, see Karlin v. Avis, 457 F.2d 
+57, 61-62 (2d Cir. 1972), cert. denied, 409 U.S. 849 (1972); Dorton v. Collins & Aikman Corp., 453 F.2d 1161, 
+1168 n.4 (6th Cir. 1972) (overstating the rule).  On the changes made by this Section, see William F. 
+Klingensmith, Inc. v. District of Columbia ex. rel. Reliance Ins. Co., 370 A.2d 1341 (D.C. Ct. App. 1977)(citing 
+this Comment in Tentative Draft).  On the interplay with the Statute of Frauds, see Karlin v. Avis, supra.
+Comment b.  Illustration 1 was Illustration 1 to former § 72; see Richard A. Berjian, D.O., Inc. v. Ohio Bell Tel. 
+Co., 54 Ohio St.2d 147, 375 N.E.2d 410 (1978).
+Comment c.  Illustrations 2-4 were Illustrations 2-4 to former § 72.
+Comment d.  See Richard A. Berjian, D.O., Inc. v. Ohio Bell Tel. Co., supra, citing Subsection (1) (c) in 
+Tentative Draft; Brooks Towers Corp. v. Hunkin-Conkey Constr. Co., 454 F.2d 1203, 1207 (10th Cir. 1972). For 
+a discussion of the role of reliance, see William F. Klingensmith, Inc. v. District of Columbia ex rel. Reliance Ins. 
+Co., 370 A.2d 1341 (D.C. Ct. App. 1977). As to delay in acting on insurance applications, see Annot., 32 
+A.L.R.2d 487 (1953). Illustration 5 is based on Illustration 5 to former § 72, which was the basis of decision in 
+Ammons v. Wilson, 176 Miss. 645, 170 So. 227 (1936). Illustration 6 is based on National Union Fire Ins. Co. v. 
+Ehrlich, 122 Misc. 682, 203 N.Y.S. 434 (1924).
+Comment e.  See Whittier, The Restatement of Contracts and Mutual Assent, 17 Calif. L. Rev. 441, 452 (1929). 
+In Empire Mach. Co. v. Litton Business Tel. Sys., 115 Ariz. App. 568, 566 P.2d 1044 (1977), cashing a down-
+payment check and retention of the proceeds for several months was held to raise an issue of fact as to the 
+payee's intention to accept an offer that accompanied the check.  Compare Hermes v. William F. Meyer Co., 65 
+Ill. App.3d 745, 22 Ill. Dec. 451, 382 N.E.2d 841 (1978). On the offeror's power to treat an exercise of dominion 
+as either a conversion or an acceptance, see Raible v. Puerto Rico Indus. Dev. Co., 392 F.2d 424 (1st Cir. 
+1968). Illustrations 7-9 were Illustrations 6-8 to former § 72.  Modern consumer protection statutes have greatly 
+restricted the power of an offeror of unsolicited merchandise to create an obligation in the recipient.  Under 
+such statutes the merchandise may be deemed a gift and the practice may be forbidden and enjoinable.  See, 
+e.g., 39 U.S.C. § 3009 (1976) (mailing of unordered merchandise); N.Y. Gen. Bus. Law § 396 (1968) (voluntary 
+and unsolicited sending of goods, wares or merchandise); Neb. Rev. Stat. § 63-101 (1976) (similar to New York 
+statute).  See Note, 1970 Duke L.J. 991. Illustration 10 is based on Wright v. Sonoma County, 156 Cal. 475, 
+## 105 P. 409 (1909).
+Cross Reference
+
+§ 69 Acceptance by Silence or Exercise of Dominion
+### Digest System Key Numbers
+Contracts 22(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

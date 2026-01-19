@@ -1,0 +1,52 @@
+Restat 2d of Contracts, § 3
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 1- Meaning of 
+Terms        
+§ 3 Agreement Defined; Bargain Defined
+An agreement is a manifestation of mutual assent on the part of two or more persons.  A bargain is an 
+agreement to exchange promises or to exchange a promise for a performance or to exchange 
+performances.
+## Comments & Illustrations
+### Comment
+a.  Agreement distinguished from bargain.  Agreement has in some respects a wider meaning than contract, 
+bargain or promise.  On the other hand, there are contracts which do not require agreement.  See, e.g., §§ 82-
+90, 94, 104.  The word "agreement" contains no implication that legal consequences are or are not produced.  It 
+applies to transactions executed on one or both sides, and also to those that are wholly executory.  The word 
+contains no implication of mental agreement.  Such agreement usually but not always exists where the parties 
+manifest assent to a transaction.
+b.  Manifestation of assent.  Manifestation of assent may be made by words or by any other conduct (see § 19).  
+Even silence in some circumstances is such a manifestation (see § 69).  Compare the definition of "agreement" 
+in Uniform Commercial Code § 1-201(3).
+c.  Bargain distinguished from agreement.  Bargain has a narrower meaning than agreement, since it is 
+applicable only to a particular class of agreements.  It includes agreements which are not contracts, such as 
+transactions where one party makes a promise and the other gives something in exchange which is not 
+consideration, or transactions where what would otherwise be a contract is invalidated by illegality.  As here 
+defined, it includes completely executed transactions, such as exchanges of goods (barters) or of services, or 
+sales where goods have been transferred and the price paid for them, although such transactions are not within 
+the scope of this Restatement unless a promise is made.
+d.  Offer.  A bargain is ordinarily made by an offer by one party and an acceptance by the other party or parties, 
+the offer specifying the two subjects of exchange to which the offeror is manifesting assent (see §§ 22 and 24).
+e.  Contract distinguished from bargain.  A contract is not necessarily a bargain.  Thus, a promise to make a 
+gift, if made under seal, may be a contract (see § 95), but it is not a bargain.  Other contracts which are not 
+bargains are the subject of §§ 82-94.  Such contracts do not require manifestations of mutual assent in the form 
+of offer and acceptance.
+## Reporter'S Notes
+This Section is based on former §§ 3 and 4.  See 1 Williston, Contracts §§ 2, 2A (3d ed. 1957); 1 Corbin, 
+Contracts §§ 9-10 (1963).
+Comment a.  On the difference between an agreement and a contract, see Corbit v. J. I. Case Co., 70 Wash.2d 
+522, 424 P.2d 290 (1967), quoting from the similar Comment a to former § 3; Gaskins v. Blue Cross-Blue 
+Shield of South Carolina, 271 S.C. 101, 245 S.E.2d 598 (1978).
+Comment b.  See Kabil Devs. Corp. v. Mignot, 279 Or. 151, 566 P.2d 505 (1977), discussing the admissibility of 
+testimony about a person's state of mind as evidence of his manifestation of assent; see also Gaskins v. Blue 
+Cross-Blue Shield of South Carolina, supra, regarding inference of assent from parties' acts.
+Comment c.  In ordinary usage, "bargain" includes executed transactions.  1 Williston, Contracts § 2A (3d ed. 
+1957); 1 Corbin, Contracts § 10 (1963).
+Cross Reference
+
+§ 3 Agreement Defined; Bargain Defined
+### ALR Annotations
+What constitutes a contract for sale under uniform commercial code § 2-314.  78 A.L.R.3d 696.
+### Digest System Key Numbers
+Contracts 15, 25
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

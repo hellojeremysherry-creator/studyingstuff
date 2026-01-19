@@ -1,0 +1,17 @@
+## U.C.C. § 8-203
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 8. INVESTMENT SECURITIES  >  PART 2. ISSUE 
+## And Issuer
+## § 8-203. Staleness As Notice Of Defect Or Defense
+After an act or event, other than a call that has been revoked, creating a right to immediate performance of 
+the principal obligation represented by a certificated security or setting a date on or after which the security 
+is to be presented or surrendered for redemption or exchange, a purchaser is charged with notice of any 
+defect in its issue or defense of the issuer, if the act or event:
+(1)  requires the payment of money, the delivery of a certificated security, the registration of transfer of 
+an uncertificated security, or any of them on presentation or surrender of the security certificate, the 
+money or security is available on the date set for payment or exchange, and the purchaser takes the 
+security more than one year after that date; or
+(2)  is not covered by paragraph (1) and the purchaser takes the security more than two years after the 
+date set for surrender or presentation or the date on which performance became due.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

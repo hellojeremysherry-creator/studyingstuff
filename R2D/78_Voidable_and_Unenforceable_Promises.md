@@ -1,0 +1,62 @@
+Restat 2d of Contracts, § 78
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+§ 78 Voidable and Unenforceable Promises
+The fact that a rule of law renders a promise voidable or unenforceable does not prevent it from being 
+consideration.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  The value of a promise depends on its terms and on the probability that it will be performed.  The 
+value is not necessarily affected adversely by the fact that no legal remedy will be available in the event of 
+breach; the probability of performance may be greater for a voidable or unenforceable promise, or even for a 
+promise which is not binding or is against public policy, than for the judgment or decree of a court.  In general 
+the law of contracts leaves to the parties the valuation of a promise in the formation of a bargain.  See § 79.  
+The fact that no legal remedy is available for breach of a promise does not prevent it from being a part of a 
+bargain or remove the bargain from the scope of the general principle that bargains are enforceable.  See §§ 
+17, 71.  As to "void" promises, see Comment d to § 75.
+b.  Voidable promises.  A contract may be voidable by one party by reason of his incapacity or mistake, or by 
+reason of the fraud, breach or other fault of the other party.  See § 7.  In many such cases a reservation of a 
+similar power by the terms of the agreement would mean that he had made no promise or that his promise was 
+not consideration for a return promise.  See § 77.  But where the power of avoidance is given by the law to 
+protect one party from actual or possible imposition, he often regards himself as bound in conscience if not in 
+law.  He may in some circumstance lose the power by ratification without consideration.  See § 85.  Until the 
+power is exercised, it does not prevent enforcement of a return promise.
+### Illustration
+1.  A makes a promise in exchange for a return promise by B.  The fact that the contract is voidable by A 
+because of his own infancy or because of B's fraud does not prevent A's promise from being consideration for 
+B's promise.
+c.  Unenforceable promises.  A promise may be unenforceable by reason of lack of consideration or public 
+policy, or because of a statute relating to remedies, such as the Statute of Frauds, or because of the traditional 
+immunity of the sovereign from suit.  See § 8.  In such cases a return promise may or may not be 
+unenforceable on the same or other grounds.  But the fact that a promise is unenforceable does not mean that 
+the return promise lacks consideration.  See Illustrations 4-6 to § 75.
+### Illustrations
+2.  A makes a promise in exchange for a return promise by B.  The fact that A's promise is unenforceable under 
+the local Statute of Frauds does not prevent it from being consideration for B's promise.
+3.  A makes a promise in exchange for a promise by B, a foreign government not subject to suit.  The fact that 
+B's promise is unenforceable does not prevent it from being consideration for A's promise.
+## Reporter'S Notes
+This Section consolidates subject matter found in former §§ 80 and 84(e).  The principle stated in former § 80 is 
+abandoned, since former § 84(e) deprived it of effect.  See 1 Williston, Contracts §§ 103, 105 (3d ed. 1957); 1 
+Corbin, Contracts §§ 146-47 (1963 & Supp. 1980).
+Comment a.  For a holding contrary to the rule of this Section, see In re Johnson's Estate, 74 Misc.2d 788, 346 
+N.Y.S.2d 283 (Surr. Ct. 1973).
+Comment b.  Illustration 1 was Illustration 6 to former § 84.
+
+§ 78 Voidable and Unenforceable Promises
+Comment c.  Courts sometimes speak loosely of contracts as involving illegal or immoral "consideration." See, 
+e.g., Rehak v. Mathis, 239 Ga. 541, 238 S.E.2d 81 (1977). Compare Dick v. Dick, 167 Conn. 210, 355 A.2d 110 
+(1974). See Comment a to § 71.  Illustrations 2 and 3 are revised from Illustrations 7 and 8 to former § 84.
+Cross Reference
+### ALR Annotations
+Establishment of "family" relationship to raise presumption that services were rendered gratuitously, as 
+between persons living in same household but not related by blood or affinity.  92 A.L.R.3d 726.
+Failure of artisan or construction contractor to procure occupational or business license or permit as affecting 
+validity or enforceability of contract.  82 A.L.R.2d 1429.
+Recovery, on theory of quasi contract, unjust enrichment, or restitution, of money paid in reliance upon 
+unenforceable promise to accept a bill of exchange or draft.  81 A.L.R.2d 587.
+### Digest System Key Numbers
+Contracts 57, 81
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

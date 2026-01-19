@@ -1,0 +1,118 @@
+Restat 2d of Contracts, § 262
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 262 Death or Incapacity of Person Necessary for Performance
+If the existence of a particular person is necessary for the performance of a duty, his death or such 
+incapacity as makes performance impracticable is an event the non-occurrence of which was a basic 
+assumption on which the contract was made.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  This Section states a common specific instance for the application of the rule stated in § 261.  If, 
+as both parties understand, the existence of a particular person is necessary for the performance of a duty, it is 
+a "basic assumption on which the contract was made" that he will neither die nor be deprived of the necessary 
+capacity before the time for performance.  Therefore, the death of that person or his loss of capacity discharges 
+the obligor's duty to render the performance, subject to the qualifications stated in § 261.  Usually, the person in 
+question will be the obligor, but he may also be the obligee or a third person.  Where the obligor is personally to 
+perform the duty, his death or incapacity results in "objective," not merely in "subjective," impracticability 
+(Comment e to § 261), since it is no longer practicable for anyone to perform the duty.  The result is, of course, 
+different if the language or the circumstances indicate the contrary (Comment c to § 261), but it is sufficiently 
+rare for a party to undertake a duty to render personal service in spite of his death or incapacity that an 
+intention to do so must be clearly manifested. Although the obligor's fault will prevent his disability from 
+discharging that duty, it is often so difficult to foresee the effect of conduct on health that fault in bringing about 
+disability must be clear in order to prevent the disability from resulting in discharge.  The rule applies not only to 
+the disability of a natural person but also, by analogy, to the dissolution of a legal person such as a corporation.  
+However, it is seldom applicable to such cases in practice because the dissolution ordinarily must not be due to 
+its financial inability (see Comment b to § 261) and, since it must not be due to its own fault, it must not be 
+within its control.  If the disability exists at the time the contract is made, the rule stated in § 266(1) rather than 
+that stated in § 261 controls, and this Section applies for the purpose of that rule as well.
+### Illustrations
+1.  A contracts to employ B as his confidential secretary for a year.  B dies before the end of the year.  B's duty 
+to work for A is discharged, and B's estate is not liable to A for breach of contract.
+2.  The facts being otherwise as stated in Illustration 1, A rather than B dies before the end of the year, and B 
+takes other employment.  B's duty to work for A is discharged, and B is not liable to A's estate for breach of 
+contract.
+3.  A, a corporation, contracts to employ B as itssecretary for five years.  Within that time the state legislature 
+enacts a law requiring the dissolution of corporations engaged in A's business.  On dissolution, A's duty to 
+employ B is discharged, and A is not liable to B for breach of contract.  See also § 264.  B may have a claim 
+against A under the rule stated in § 272(1).
+4.  The facts being otherwise as in Illustration 3, A's dissolution is voluntary or the result of insolvency.  A's duty 
+to employ B is not discharged, and A is liable to B for breach of contract.  See Comment b and Illustration 3 to § 
+261.  Cf. Illustration 5 to § 319.
+5.  A contracts with B to produce a play starring C, a famous actor, in B's theater on December 16.  Early in 
+December, while the play is being performed elsewhere, C experiences a worsening throat condition and, 
+although it does not prevent his performing, he is advised by his doctor to cancel his further performances and 
+have a minor operation.  On December 12, A notifies B that the December 16 performance of the play is 
+
+§ 262 Death or Incapacity of Person Necessary for Performance
+cancelled for this reason.  A's duty to produce the play is discharged, and A is not liable to B for breach of 
+contract.  Compare Illustration 7 to § 261.
+b.  Where particular person is necessary.  The parties may effectively provide that a particular person is or is 
+not necessary for performance.  The agreement may, for example, require the obligor's personal service.  
+Where, as is often the case, the agreement is silent on the subject, all the circumstances will be considered to 
+determine whether the duty, as understood by the parties, sufficiently involves elements of personal service or 
+discretion to require performance by a particular person.  In this connection, resort may be had to the rules laid 
+down in Chapter 9, The Scope of Contractual Obligations, including those on usage and course of dealing (§§ 
+219-23).  The question whether a duty requires performance by a particular person is essentially the same 
+question that arises where a party seeks to delegate performance of his duty to another and is to be determined 
+by the same criteria.  See § 318 and Comment b to that Section.  If an obligor can discharge his duty by the 
+performance of another, his own disability will not discharge him.
+### Illustrations
+6.  A contracts with B to cut a tract of standing timber.  A dies, and his estate refuses to complete performance.  
+In the absence of special circumstances showing that A's personal service or supervision is necessary to 
+performance of his duty, A's duty to cut the timber is not discharged, and A's estate is liable to B for breach of 
+contract.
+7.  A and B make a contract under which A is to devote full time to prospecting for coal on B's land, and, if he is 
+successful, B personally is to finance and manage a corporation for the exploitation of the coal.  B is to pay A a 
+salary and convey to him a one-quarter interest in any resulting corporation.  A locates coal and is paid his 
+salary, but B dies before he is able to finance and manage a corporation to exploit it, and no such corporation is 
+formed.  Whether performance of B's duty to finance and manage a corporation became impracticable on B's 
+death depends on whether that duty, as understood by the parties, could only be performed by B himself.  If the 
+court concludes that it could, B's duty to convey an interest in any resulting corporation is discharged, and B's 
+estate is not liable to A for breach of contract.  A may have a claim against B under the rule stated in § 272(1).
+8.  A and B, a firm of architects, contract with C to design a building for C.  It is understood by the parties that 
+both A and B shall render services under the contract.  A dies and B fails to complete performance.  Both A's 
+and B's duties to design the building are discharged, and neither A's estate nor B is liable to C for breach of 
+contract.
+9.  A and B, a firm of contractors doing an extensive business in many localities, contract with C to fill a tract of 
+low land.  A dies and B fails to complete performance.  Neither A's nor B's duty to fill the land is discharged, and 
+both A's estate and B are liable to C for breach of contract.
+## Reporter'S Notes
+This Section is based on former § 459.  Cf. former § 282.  See 6 Corbin, Contracts §§ 1334-36 (1962 & Supp. 
+1980); 18 Williston, Contracts §§ 1940, 1941 (3d ed. 1978); Patterson, The Apportionment of Business Risks 
+Through Legal Devices, 24 Colum. L. Rev. 335, 350-51 (1924).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 459; see Kowal v. Sportswear by Revere, Inc., 
+351 Mass. 541, 222 N.E.2d 778 (1967). Illustration 2 is also based on Illustration 1 to former § 459.  Illustration 
+3 is new; cf.  Holton v. Cook, 181 Ark. 806, 27 S.W.2d 1017 (1930); Parker v. Arthur Murray, 10 Ill. App.3d 
+1000, 295 N.E.2d 487 (1973). Illustration 4 is based on Illustration 10 to former § 459; cf. 407 East 61st 
+Garage, Inc. v. Savoy Fifth Ave. Corp., 23 N.Y.2d 275, 296 N.Y.S.2d 338, 244 N.E.2d 37 (1968). Illustration 5 is 
+based on Wasserman Theatrical Enterprise v. Harris, 137 Conn. 371, 77 A.2d 329 (1950); cf. Illustration 6 to 
+former § 459; Illustrations 1 and 3 to former § 465; Lakeman v. Pollard, 43 Me. 463 (1857).
+Comment b.  Illustration 6 is based on Illustration 2 to former § 459; cf.  Matter of Gaylord, 552 P.2d 392 (Okla. 
+1976). Illustration 7 is based on Kelley v. Thompson Land Co., 112 W. Va. 454, 164 S.E. 667 (1932); cf.  Mullen 
+v. Wafer, 252 Ark. 541, 480 S.W.2d 332 (1972). Illustrations 8 and 9 are based on Illustrations 3 and 4 to 
+former § 459.
+Cross Reference
+
+§ 262 Death or Incapacity of Person Necessary for Performance
+### ALR Annotations
+Modern status as to duration of employment where contract specifies no term but fixes daily or longer 
+compensation.  93 A.L.R.3d 659.
+Validity and construction of preincorporation agreement between promoters as to future employment.  66 
+A.L.R.3d 1138.
+Comment Note. -- Validity and duration of contract purporting to be for permanent employment.  60 A.L.R.3d 
+226.
+Employer's termination of professional athlete's services as constituting breach of employment contract.  57 
+A.L.R.3d 257.
+Validity and construction of contract under which applicant for admission to home for aged or infirm turns over 
+his property to institution in return for lifetime care.  44 A.L.R.3d 1174.
+Validity and effect of agreement that debt or legal obligation contemporaneously or subsequently incurred shall 
+be canceled by death of creditor or obligee.  11 A.L.R.3d 1427.
+Modern status of the rules regarding impossibility of performance as defense in action for breach of contract.  
+84 A.L.R.2d 12.
+Provision for post-mortem payment or performance as affecting instrument's character and validity as a 
+contract.  1 A.L.R.2d 1178.
+### Digest System Key Numbers
+Contracts 311
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

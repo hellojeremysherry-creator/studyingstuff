@@ -1,0 +1,17 @@
+## U.C.C. § 4A-108
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4A. FUNDS TRANSFERS  >  PART 1. SUBJECT 
+## Matter And Definitions
+## § 4A-108. Relationship To Electronic Fund Transfer Act.
+(a)  Except as provided in subsection (b), this Article does not apply to a funds transfer any part of which is 
+governed by the Electronic Fund Transfer Act of 1978 (Title XX, Public Law 95-630, 92 Stat. 3728, 15 
+U.S.C. § 1693 et seq.) as amended from time to time.
+(b)  This Article applies to a funds transfer that is a remittance transfer as defined in the Electronic Fund 
+Transfer Act (15 U.S.C.  Sec. 1693o-1) as amended from time to time, unless the remittance transfer is an 
+electronic fund transfer as defined in the Electronic Fund Transfer Act ( 15 U.S.C. Sec. 1693a) as 
+ammended from time to time.
+(c)  In a funds transfer to which this Article applies, in the event of an inconsistency between an applicable 
+provision of this Article and an applicable provision of the Electronic Fund Transfer Act, the provision of the 
+Electronic Fund transfer Act governs to the extent of the inconsistency.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

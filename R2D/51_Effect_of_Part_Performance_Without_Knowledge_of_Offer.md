@@ -1,0 +1,54 @@
+Restat 2d of Contracts, § 51
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 51 Effect of Part Performance Without Knowledge of Offer
+Unless the offeror manifests a contrary intention, an offeree who learns of an offer after he has 
+rendered part of the performance requested by the offer may accept by completing the requested 
+performance.
+## Comments & Illustrations
+### Comment
+a.  Performance without knowledge.  Where an offer invites a return promise, the offeree may manifest assent 
+and thereby make a return promise even though he does not have actual knowledge of the offer.  See § 23 
+Comment c; § 69.  But when an offer contemplates no commitment, as in cases of offers of reward, it is 
+ordinarily essential to the acceptance of the offer that the offeree know of the proposal made.  In general, 
+performance completed before the offer comes to the offeree's knowledge does not have reference to the offer, 
+and the terms of the offer are not satisfied by such action.  See §§ 23, 71.
+b.  Completion of performance with knowledge.  Where part performance has been rendered by a person 
+ignorant of the existence of an offer, the offer can no longer serve the purpose of inducing that performance.  
+But it can induce the completion of performance.  It is commonly intended by the offeror to have that effect and 
+so understood by the offeree.  The inference that the offeror so intends is strengthened when the part 
+performance is valueless to him unless completed, or when the offeror knows of the offeree's continuing 
+performance and fails to revoke.  In the absence of contrary indications, the law gives effect to the common 
+understanding.  But there may be no consideration if the offeree is under a legal duty to the offeror to complete 
+the performance.  See § 73.
+### Illustrations
+1.  A offers a reward for the apprehension and delivery into police custody of a criminal.  Before learning of the 
+reward, B arrests the criminal.  After learning of the reward, B delivers the criminal into police custody.  B is 
+entitled to the reward.
+2.  A posts a notice on his bulletin board offering a specified bonus to any employee who remains in A's 
+employment for four months.  B, one of the employees, continues to work for one month before learning of the 
+offer.  Thereafter, B completes the four-month period of employment.  B is entitled to the bonus.
+## Reporter'S Notes
+This Section is based on former § 53, which is here limited to cases where performance is complete before the 
+offeree learns of the offer.  See 1 Williston, Contracts § 33B (3d ed. 1957); 1 Corbin, Contracts § 60 (1963).
+Comment a.  See Williams v. West Chicago St. R.R., 191 Ill. 610, 61 N.E. 456 (1901); Arkansas Bankers' Ass'n 
+v. Ligon, 174 Ark. 234, 295 S.W. 4, 53 A.L.R. 534 (1927); State v. Malm, 143 Conn. 462, 123 A.2d 276 (1956); 
+Glover v. Jewish War Veterans, 68 A.2d 233 (D.C. Ct. App. 1949); Sumerel v. Pinder, 83 So.2d 692 (Fla. 
+1955).
+Comment b.  Illustration 1 is based on Coffey v. Commonwealth, 18 Ky. L. Rep. 646, 37 S.W. 575 (1896). 
+Accord: Smith v. Vernon County, 188 Mo. 501, 87 S.W. 949 (1905); Hoggard v. Dickinson, 180 Mo. App. 70, 
+165 S.W. 1135 (1914); cf. Genesee County v. Pailthorpe, 246 Mich. 356, 224 N.W. 418 (1929) (reward for 
+information).  Compare cases of finders who learn of rewards before returning the found property.  Wood v. 
+Pierson, 45 Mich. 313, 7 N.W. 888 (1881); Pierson v. Morch, 82 N.Y. 503 (1880) (semble); MacFarlane v. 
+Bloch, 59 Or. 1, 115 P. 1056 (1911); Cummings v. Gann, 52 Pa. 484 (1866). Illustration 2 is based on 
+Henderson Land & Lumber Co. v. Barber, 17 Ala. App. 337, 85 So. 35 (1920).
+
+§ 51 Effect of Part Performance Without Knowledge of Offer
+Cross Reference
+### ALR Annotations
+Knowledge of reward as condition of right thereto.  86 A.L.R.3d 1142.
+### Digest System Key Numbers
+Contracts 22
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

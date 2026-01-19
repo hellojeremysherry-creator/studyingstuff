@@ -1,0 +1,21 @@
+Restat 2d of Contracts, § 91
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 2- Contracts Without Consideration        
+§ 91 Effect of Promises Enumerated in 82-90 When Conditional
+If a promise within the terms of §§ 82-90 is in terms conditional or performable at a future time the 
+promisor is bound thereby, but performance becomes due only upon the occurrence of the condition or 
+upon the arrival of the specified time.
+## Comments & Illustrations
+### Illustration
+1.  A owes B a debt of $ 60, but B's claim is barred by the statute of limitations.  A promises in a signed writing 
+to pay B in satisfaction of the claim $ 5 monthly for a year.  The promise is binding but B's only right is to the 
+payment of $ 5 at the end of each month.
+## Reporter'S Notes
+This Section was former § 91.  See 1 Williston, Contracts § 179 (3d ed. 1957); 1A Corbin, Contracts § 215 
+(1963).  Illustration 1 was Illustration 1 to former § 91.
+Cross Reference
+### Digest System Key Numbers
+Contracts 58
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

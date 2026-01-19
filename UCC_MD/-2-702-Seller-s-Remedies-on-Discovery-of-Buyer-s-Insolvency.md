@@ -1,0 +1,18 @@
+## U.C.C. § 2-702
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 7. REMEDIES
+§ 2-702. Seller's Remedies on Discovery of Buyer's Insolvency.
+(1)  Where the seller discovers the buyer to be insolvent he may refuse delivery except for cash including 
+payment for all goods theretofore delivered under the contract, and stop delivery under this Article ( Section 
+2-705).
+(2)  Where the seller discovers that the buyer has received goods on credit while insolvent he may reclaim 
+the goods upon demand made within ten days after the receipt, but if misrepresentation of solvency has 
+been made to the particular seller in writing within three months before delivery the ten day limitation does 
+not apply.  Except as provided in this subsection the seller may not base a right to reclaim goods on the 
+buyer's fraudulent or innocent misrepresentation of solvency or of intent to pay.
+(3)  The seller's right to reclaim under subsection (2) is subject to the rights of a buyer in ordinary course or 
+other good faith purchaser under this Article ( Section 2-403).  Successful reclamation of goods excludes all 
+other remedies with respect to them.
+As amended in 1966.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

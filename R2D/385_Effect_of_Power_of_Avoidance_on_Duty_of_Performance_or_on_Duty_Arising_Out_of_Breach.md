@@ -1,0 +1,46 @@
+Restat 2d of Contracts, § 385
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 5- Preclusion by Election and Affirmance        
+§ 385 Effect of Power of Avoidance on Duty of Performance or on Duty 
+Arising Out of Breach
+(1) Unless an offer to restore performance received is a condition of avoidance, a party has no duty of 
+performance while his power of avoidance exists.
+(2) If an offer to restore performance received is a condition of avoidance, a duty to pay damages is 
+terminated by such an offer made before the power of avoidance is lost.
+## Comments & Illustrations
+### Comment
+a.  No duty of performance.  If a party has the power to avoid the contract simply by disaffirmance, without 
+offering to restore performance received, his refusal or failure to perform is not a breach under the rule stated in 
+Subsection (1).  This is so even if he is ignorant of his power of avoidance and believes that his refusal or 
+failure is a breach.  As a general rule, the legal consequences of a party's refusal or failure to perform are not 
+affected by the fact that he is ignorant of some justification or excuse for his refusal or failure.  See Comment e 
+to § 225 and Comment c to § 237.
+### Illustrations
+1.  A is induced by B's fraud to make a contract to buy goods from B.  While A is still ignorant of the fraud and 
+before he has received the goods from B, A writes a letter telling him that he refuses to perform.  B sues A for 
+damages for total breach by repudiation.  A is not liable to B because, since A has no duty of performance, his 
+letter was not a repudiation.
+2.  A is induced by B's fraud to make a contract to buy goods from B.  A delays for an unreasonable time after 
+discovery of the fraud and then, before he has received the goods, writes B a letter telling him that he refuses to 
+perform on the ground of fraud.  B sues A for damages for total breach by repudiation.  A is liable to B because, 
+A's power of avoidance having been lost by delay, he had a duty of performance and his letter was a 
+repudiation.
+b.  Duty arising out of breach terminated.  If an offer to restore performance received is a condition of avoidance 
+(§ 384), a party with a power of avoidance is under a duty of performance until such an offer is made.  His 
+refusal or failure to perform is therefore a breach.  A subsequent offer to restore performance, however, 
+terminates the duty to pay damages that arises from that breach if the offer is made before the power of 
+avoidance is lost.
+### Illustration
+3.  A is induced by B's fraud to make a contract to buy goods from B.  While A is still ignorant of the fraud but 
+after he has received the goods from B, A commits a material breach by failure to pay B.  A then discovers the 
+fraud and tenders the goods back to B.  B sues A for damages for total breach of contract.  Even if an offer to 
+return the goods was a condition of avoidance by A, A is not liable to B because A's breach was nullified by the 
+tender of what he had received.
+Cross Reference
+### Digest System Key Numbers
+
+§ 385 Effect of Power of Avoidance on Duty of Performance or on Duty Arising Out of Breach
+Contracts 98, 275
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

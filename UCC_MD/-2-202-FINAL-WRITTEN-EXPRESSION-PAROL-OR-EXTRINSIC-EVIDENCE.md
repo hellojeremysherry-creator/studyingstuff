@@ -1,0 +1,14 @@
+U.C.C. Art. 1, Appx. I § 2-202
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 1. GENERAL PROVISIONS  >   APPENDIX I. 
+## Conforming Amendments To Other Articles
+## § 2-202. Final Written Expression: Parol Or Extrinsic Evidence
+Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set 
+forth in a writing intended by the parties as a final expression of their agreement with respect to such terms 
+as are included therein may not be contradicted by evidence of any prior agreement or of a 
+contemporaneous oral agreement but may be explained or supplemented
+(a)  by course of performance, course of dealing, or usage of trade ( Section 1-303); and
+(b)  by evidence of consistent additional terms unless the court finds the writing to have been intended 
+also as a complete and exclusive statement of the terms of the agreement.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

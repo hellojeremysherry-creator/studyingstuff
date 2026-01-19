@@ -1,0 +1,18 @@
+## U.C.C. § 8-210
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 8. INVESTMENT SECURITIES  >  PART 2. ISSUE 
+## And Issuer
+## § 8-210. Overissue
+(a)  In this section, "overissue" means the issue of securities in excess of the amount the issuer has 
+corporate power to issue, but an overissue does not occur if appropriate action has cured the overissue.
+(b)  Except as otherwise provided in subsections (c) and (d), the provisions of this Article which validate a 
+security or compel its issue or reissue do not apply to the extent that validation, issue, or reissue would 
+result in overissue.
+(c)  If an identical security not constituting an overissue is reasonably available for purchase, a person 
+entitled to issue or validation may compel the issuer to purchase the security and deliver it if certificated or 
+register its transfer if uncertificated, against surrender of any security certificate the person holds.
+(d)  If a security is not reasonably available for purchase, a person entitled to issue or validation may 
+recover from the issuer the price the person or the last purchaser for value paid for it with interest from the 
+date of the person's demand.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

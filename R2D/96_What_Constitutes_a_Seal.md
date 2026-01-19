@@ -1,0 +1,80 @@
+Restat 2d of Contracts, § 96
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 96 What Constitutes a Seal
+(1)  A seal is a manifestation in tangible and conventional form of an intention that a document be 
+sealed.
+(2)  A seal may take the form of a piece of wax, a wafer or other substance affixed to the document or of 
+an impression made on the document.
+(3)  By statute or decision in most States in which the seal retains significance a seal may take the form 
+of a written or printed seal, word, scrawl or other sign.
+## Comments & Illustrations
+### Comment
+a.  Historical note.  The use of the seal in England seems to have begun after the Norman Conquest, spreading 
+from royalty and a few of the nobility to those of lesser rank.  Originally a seal often consisted of wax bearing 
+the imprint of an individualized signet ring, and in the seventeenth century Lord Coke said that wax without 
+impression was not a seal.  But in the United States the courts have not required either wax or impression.  
+Impressions directly on the paper were recognized early and are still common for notarial and corporate seals, 
+and gummed wafers have been widely used.  In the absence of statute decisions have divided on the 
+effectiveness of the written or printed word "seal," the printed initials "L. S." (locus sigilli, meaning place of the 
+seal), a scrawl made with a pen (often called a "scroll") and a recital of sealing.  Most states in which the seal is 
+still recognized now have statutes giving effect to one or more such devices.
+b.  Extrinsic circumstances.  In the early law a contract under seal was treated as a grant rather than a promise, 
+and the document was treated as the obligation rather than as evidence of it.  It is still sometimes said that 
+whether a document is under seal is to be determined from the document itself, without recourse to extrinsic 
+circumstances.  But a document which bears a seal does not establish its own authenticity.  Evidence of 
+extrinsic circumstances may be necessary to show that a promisor affixed or adopted a seal and that the 
+document was delivered.  See §§ 98, 102.  It may be shown that a seal was accidentally or wrongfully removed, 
+or even, as a ground for equitable relief, that sealing was omitted by accident or mistake.  Similarly, where the 
+printed word "seal" or the scrawl of a pen may serve as a seal if so intended, the circumstances may be 
+relevant to the question whether it manifests such an intention.
+### Illustrations
+1.  A signs a written promise to B and after his signature attaches a gummed wafer.  The document contains no 
+recital that it is sealed.  In the absence of circumstances manifesting a contrary intention, it is inferred from A's 
+act that he intended the wafer to serve as a seal.
+2.  A signs a written promise to B and after his signature adds a dash or wavy line.  The document contains no 
+recital that it is sealed.  Even though a seal may consist of a pen scrawl, these facts are insufficient to establish 
+a contract under seal.
+3.  The facts being otherwise as stated in Illustration 2, the document recites that it is under seal.  The court 
+may infer that the dash or line is a seal.
+## Reporter'S Notes
+
+§ 96 What Constitutes a Seal
+This Section is based on former § 96.  See 1 Williston, Contracts §§ 205-09 (3d ed. 1957); 1A Corbin, 
+Contracts §§ 240-42 (1963 & Supp. 1980).
+Comment a.  That no special form of seal is needed, see, e.g., Pitts v. Pitchford, 201 So.2d 563 (Fla. Dist. Ct. 
+App. 1967) ("L.S.," scrawl or scroll); Avery v. Kane Gas Light & Heating Co., 403 F. Supp. 14 (W.D. Pa. 1975) 
+(printed word "Seal" as personal or corporate seal); Gildenhorn v. Columbia Real Estate Title Ins. Co., 271 Md. 
+387, 317 A.2d 836 (1974) (printed corporate seal plus printed recitation of sealing on title insurance policy; 
+extensive discussion of other available forms of corporate seals).
+Comment b.  Extrinsic circumstances were held relevant to the question whether the printed word "seal" was 
+intended as a seal in Transbel Inv. Co. v. Venetos, 279 N.Y. 207, 18 N.E.2d 129 (1938), despite a concurring 
+opinion asserting the contrary and relying on the former Restatement.  That extrinsic evidence may be admitted 
+on the question of intent to adopt the seal, see Graybill v. Juniata Co. School Dist., 21 Pa. Commw. Ct. 630, 
+347 A.2d 524 (1976) (dictum); Pitts v. Pitchford, 201 So.2d 563 (Fla. Dist. Ct. App. 1967) (Dead Man's Statute 
+does not bar testimony rebutting any presumption of the apparent validity of a seal); Garrison v. Blakeney, 37 
+N.C. App. 73, 246 S.E.2d 144, cert. denied, 295 N.C. 646, 248 S.E.2d 151 (1978) (summary judgment improper 
+on issue of grantor's intent to adopt word "Sign" next to his signature as his seal).  In the later case of Mobil Oil 
+Corp. v. Wolfe, 297 N.C. 36, 252 S.E.2d 809 (1979), the North Carolina Supreme Court held that such extrinsic 
+evidence is admissible only when special circumstances such as ambiguity or claim of fraud or mistake are 
+present.  See also Bank of North Carolina v. Cranfill, 297 N.C. 43, 253 S.E.2d 1 (1979).
+It appears that courts are more willing to allow extrinsic evidence to rebut the presumption of adoption when the 
+contract involves a consumer transaction or contract of adhesion and the seal operates to the detriment of the 
+weaker party.  A suggestion to this effect is present in dictum in Mobil Oil Corp. v. Wolfe, supra, and it is stated 
+explicitly in Avery v. Kane Gas Light & Heating Co., 403 F. Supp. 14, 15, 17 (W.D. Pa. 1975). On the other 
+hand, in Graybill v. Juniata Co. School Dist., supra, the presence of the seal aided the schoolteacher plaintiffs 
+in a salary dispute, and the court showed no inclination to go out of its way to question the school district's 
+intention to adopt the seal.  In two other cases, the courts suggested, without extensive analysis, that the seal 
+need not apply to all aspects of a document.  See Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 
+(1966) (since seal was apparently adopted because long-term leases must be in form of a deed, seal would not 
+be applied as substitute for consideration to make offer into an option contract) (service station lease); Di Biase 
+v. A & D, Inc., 351 A.2d 865 (Del. Super. Ct. 1976) (twenty-year statute of limitations for sealed instruments 
+does not apply to implied warranties contained in contract under seal).  Illustrations 1-3 are based on 
+Illustrations 1-3 to former § 96.
+Cross Reference
+### Digest System Key Numbers
+Seals 1-5
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

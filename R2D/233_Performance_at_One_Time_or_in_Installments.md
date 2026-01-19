@@ -1,0 +1,65 @@
+Restat 2d of Contracts, § 233
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 1- Performances to Be Exchanged Under an Exchange 
+of Promises        
+§ 233 Performance at One Time or in Installments
+(1)  Where performances are to be exchanged under an exchange of promises, and the whole of one 
+party's performance can be rendered at one time, it is due at one time, unless the language or the 
+circumstances indicate the contrary.
+(2)  Where only a part of one party's performance is due at one time under Subsection (1), if the other 
+party's performance can be so apportioned that there is a comparable part that can also be rendered at 
+that time, it is due at that time, unless the language or the circumstances indicate the contrary.
+## Comments & Illustrations
+### Comment
+a.  Performance at one time.  Subsection (1) states the established rule that a party who can give his whole 
+performance at one time is expected to do so.  He is not entitled to perform a part at a time, nor is the other 
+party entitled to demand that he do so.  Uniform Commercial Code § 2-307 so provides for contracts for the 
+sale of goods.  The rule expresses the usual understanding of parties in such cases.  A party who asserts a 
+different understanding may establish a contrary intention by an express agreement such as one for delivery in 
+installments, or by usage of trade (§ 221; Uniform Commercial Code § 1-205) or by course of dealing (§ 223; 
+Uniform Commercial Code § 1-205).  Or he may establish it by showing special circumstances, as where under 
+a contract for brick to be used to build a building it is understood that the buyer's storage space is so limited that 
+it would be impossible for him to receive the entire amount at once.  See Comment 3 to Uniform Commercial 
+Code § 2-307.  The rule does not apply where performance requires a period of time.  The requirement that 
+performance be possible at one time may, however, be met even though the performance, as in the case of 
+delivery of a large quantity of bulky goods, cannot be instantaneous.
+### Illustrations
+1.  A contracts to sell and B to buy ten identical carloads of coal for $ 100,000.  Delivery by A of all ten carloads 
+is due in a single lot.
+2.  The facts being otherwise as stated in Illustration 1, it is known by both A and B that only one carload of coal 
+will be available at a time.  A may deliver one carload at a time.
+b.  Right to other party's performance.  If the language or circumstances indicate that, contrary to the general 
+rule stated in Subsection (1), only a part of one party's performance is due at one time, a question then arises 
+as to when the other party's performance is due.  Under the rule stated in Subsection (2), if the other party's 
+performance can be so apportioned that there is a comparable part that can also be given at that time, part 
+performance by both parties is due at that time.  See § 234(1).  In the typical case the other party's performance 
+will consist of the price and the question is whether the price can be apportioned.  See Comment d to § 240.  
+This is the way in which the rule is stated for the sale of goods in Uniform Commercial Code § 2-307.
+### Illustration
+3.  The facts being as stated in Illustration 2, payment of $ 10,000 by B is due at the same time that A delivers 
+each carload of coal.
+## Reporter'S Notes
+
+§ 233 Performance at One Time or in Installments
+This section is new.  It is based on Uniform Commercial Code § 2-307, although it is limited to performances to 
+be exchanged under an exchange of promises to conform to the scope of this Topic.  See 3A Corbin, Contracts 
+§§ 687, 694, 695 (1951 & Supp. 1980); 6 Williston, Contracts § 862 (3d ed. 1962).
+Comment a.  Illustrations 1 and 2 are based on Comment 3 to Uniform Commercial Code § 2-307; see also 
+Lynn M. Ranger, Inc. v. Gildersleeve, 106 Conn. 372, 138 A. 142 (1927).
+Comment b.  Illustration 3 follows the rule in Uniform Commercial Code § 2-307 and Tipton v. Feitner, 20 N.Y. 
+423 (1859); see also William Feinstein Bros., Inc. v. L.Z. Hotte Granite Co., 123 Vt. 167, 184 A.2d 540 (1962). It 
+rejects the reasoning in Kelly Constr. Co. v. Hackensack Brick Co., 91 N.J.L. 585, 103 A. 417 (1918). On 
+apportionment of the price, see Comment 1 to Uniform Commercial Code § 2-607.
+Cross Reference
+### ALR Annotations
+Excess of payment for one period as applicable to subsequent period under contract or mortgage providing for 
+periodic payments.  89 A.L.R.3d 947.
+Construction and operation of "optional agreement-flat payment" land contract under which optionee has right 
+to take title when periodic payments (otherwise to be treated as rent) equal agreed price.  55 A.L.R.3d 159.
+Building or construction contract providing for instalment or "progress" payments as entire or divisible.  22 
+A.L.R.2d 1343.
+### Digest System Key Numbers
+Contracts 213
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

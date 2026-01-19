@@ -1,0 +1,106 @@
+Restat 2d of Contracts, § 289
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 289 Joint, Several, and Joint and Several Promisors of the Same 
+Performance
+(1)  Where two or more parties to a contract promise the same performance to the same promisee, each 
+is bound for the whole performance thereof, whether his duty is joint, several, or joint and several.
+(2)  Where two or more parties to a contract promise the same performance to the same promisee, they 
+incur only a joint duty unless an intention is manifested to create several duties or joint and several 
+duties.
+(3)  By statute in most states some or all promises which would otherwise create only joint duties 
+create joint and several duties.
+## Comments & Illustrations
+### Comment
+a.  Liability of each for the whole performance.  In the civil-law system of Louisiana, derived from the Roman 
+and French law, promises of the same performance create "joint" liability on the part of each promisor unless an 
+intention is manifested to create a "solidary" obligation.  "Joint" liability means liability only for an aliquot share 
+of the total obligation; a "solidary" obligation is substantially the same as a "joint and several" obligation at 
+common law.  Common-law terminology and results are quite different: promises of the same performance may 
+create joint duties, several duties, or joint and several duties; and each promisor is liable for the whole 
+performance promised.  A contrary agreement may be effective either to show that separate performances are 
+promised or to limit the liability which would otherwise be created.
+### Illustrations
+1.  A and B owe $ 100 to C jointly, and C obtains a judgment against A and B for $ 100.  Execution may be 
+levied wholly on the property of either A or B, or partially on the property of each.
+2.  A and B severally promise to pay C the same $ 100.  C may obtain separate judgments against each for $ 
+100, and may levy execution under either judgment until $ 100 is collected.
+3.  A and B and several others make a written offer to guarantee the repayment of loans to be made to C by D, 
+"provided that our total liability shall not at any time exceed $ 4,000 and our individual liability shall not exceed $ 
+200." D lends C $ 100 in reliance on the guaranty.  Each signer of the guaranty is responsible for the entire $ 
+100, whether the liability is joint, several, or joint and several.
+b.  The presumption of joint obligation.  The question whether promisors of the same performance undertake 
+"several" duties in addition to or instead of a "joint" duty has traditionally been treated as a question of the 
+application of deductions from legal concepts rather than as a question of manifested intention.  Where a "joint" 
+duty differs from "joint and several" duties, the joint duty is invariably less advantageous to the promisee, while 
+the advantage to the promisor does not normally serve any legitimate interest.  Joint duties, as distinguished 
+from joint and several duties, are likely to reflect ignorance or inadvertence on the part of the promisee.  But in 
+the absence of statute both common-law courts and courts of equity long held promises of the same 
+performance to be joint only unless the promises took a linguistic form appropriate to several duties.  The 
+modern tendency is to treat the question as one of interpretation and therefore to give weight to manifestations 
+of contrary intention in whatever form.  Subsection (2) reflects this tendency.
+c.  Severance.  The fact that one promisor is under a duty to another to perform the promise or that one 
+promisor has received all or the greater portion of the consideration does not prevent their duty from being joint 
+
+§ 289 Joint, Several, and Joint and Several Promisors of the Same Performance
+rather than several or joint and several.  But the fact that the promises are made in separate documents or are 
+separately stated in the same document sufficiently shows an intention to undertake several duties.  The 
+standard modern form to create duties which are both joint and several is "We jointly and severally promise," 
+but any equivalent words will do as well.  In particular, a promise in the first person singular, signed by several 
+persons, creates joint and several duties.
+### Illustrations
+4.  A, B and C sign a contract stating that "A as principal, and B and C as sureties, promise" a certain 
+performance.  A, B and C are jointly bound.  In the absence of statute, the statement of the suretyship relation 
+does not manifest an intention to create several duties or joint and several duties.
+5.  A and B sign a contract in these terms: "We, and each of us, promise D that C shall be paid the sum of $ 
+100" on a certain date.  This creates joint and several duties on the part of the signers.
+6.  A, B and C sign a contract in writing in these words: "I promise to pay D $ 100" on a certain date.  This 
+creates joint and several duties on the part of A, B and C to see that D is paid $ 100.
+7.  A, B and C sign a paper reading: "Each of us guarantees to D that he shall be duly repaid $ 100, which he 
+has this day lent E." A, B and C promise the same performance, but their duties are several.
+d.  Statutes.  As is indicated in the Statutory Note preceding § 288, statutes in a sizable number of jurisdictions 
+provide that joint promises have the effect of creating joint and several duties, and statutes in others create a 
+presumption of joint and several duties either in all cases or where all promisors receive a benefit from the 
+consideration.  Although Uniform Partnership Act § 15 provides a presumption of joint liability on partnership 
+contracts, that section has been modified in several states to provide instead a presumption of joint and several 
+liability.  Uniform Commercial Code § 3-118(e) provides that, unless the instrument otherwise specifies, two or 
+more persons who sign a negotiable instrument as maker, acceptor or drawer or indorser and as a part of the 
+same transaction are jointly and severally liable.  In addition, the consequences of joint liability have been 
+modified by statute in most of the States where it retains significance.
+### Illustration
+8.  A makes a negotiable promissory note payable to B and C.  B and C indorse and sell the note to D.  Under 
+Uniform Commercial Code § 3-118(e), B and C are jointly and severally liable to D.  If B and C are partners, 
+notice of dishonor to one is notice to each under Uniform Commercial Code § 3-508(5).  But Uniform 
+Partnership Act § 15 provides that partners are liable jointly.
+## Reporter'S Notes
+This Section consolidates parts in former §§ 111-17.
+Subsection (2) places greater emphasis on the manifested intention of the parties and less on the words used.  
+Verbal formulas are relegated to Comment.  Subsection (3), referring to statutes, is new.
+Comment a.  As to the civil law, see Town of Winnsboro v. Barnard & Burk, Inc., 294 So.2d 867 (La. App.), 
+application denied, 295 So.2d 445 (La. 1974); Wilks v. Allstate Ins. Co., 195 So.2d 390 (La. Ct. App. 1967); 
+Notes, 14 La. L. Rev. 828 (1954); 25 Tulane L. Rev. 217 (1951). As to the common law, see 4 Corbin, 
+Contracts § 928 (1951 & Supp. 1980); 2 Williston, Contracts § 327 (3d ed. 1959).  Illustrations 1 and 2 are 
+based on Illustrations 1 and 2 to former § 117.  Illustration 3 is based on Marine Trust Co. v. Richardson, 171 
+Misc. 556, 12 N.Y.S.2d 834 (1939).
+Comment b and c.  See 2 Williston, Contracts §§ 316, 320 (3d ed. 1959); 4 Corbin, Contracts § 925 (1951 & 
+Supp. 1980); Williams, Joint Obligations §§ 1-5 (1949).  For examples of courts examining transactions to 
+ascertain the parties' intentions on joint or several liability, see Clayman v. Goodman Props., 518 F.2d 1026 
+(D.C. Cir. 1973); Schubert v. Ivey, 158 Conn. 583, 264 A.2d 562 (1969). Compare Pelletier v. Dwyer, 334 A.2d 
+867 (Me. 1975). Illustration 4 is based on Illustration 1 to former § 112; cf.  Union Bank v. Dorn, 254 Cal. 
+App.2d 157, 61 Cal. Rptr. 893 (1967); Edward Corp. v. David M. Woolin & Son, Inc., 113 So.2d 252 (Fla. Dist. 
+Ct. App. 1959). Illustration 5 is based on Illustration 1 to former § 114; see United States v. Kohn, 243 F. Supp. 
+293 (W.D.S.C. 1965). Illustration 6 is based on Illustration 1 to former § 115.  Illustration 7 is based on 
+Illustration 2 to former § 113; cf.  Demas v. Convention Motor Inns, 268 S.C. 186, 232 S.E.2d 724 (1977).
+Comment d.  For a discussion and application of statutory changes, see Clayman v. Goodman Props., 518 F.2d 
+1026 (D.C. Cir. 1973). Section 15 of the Uniform Partnership Act is modified to provide that all partnership 
+
+§ 289 Joint, Several, and Joint and Several Promisors of the Same Performance
+obligations are joint and several in Alabama, Arizona, Colorado, Kansas, Mississippi, Missouri, North Carolina, 
+Tennessee and Texas.  See also Crane, Partnership §§ 58-60 (2d ed. 1952); Burdick, Joint and Several 
+Liability of Partners, 11 Colum. L. Rev. 101 (1911). Illustration 8 is a revision of Illustration 1 to former § 116.
+Cross Reference
+### Digest System Key Numbers
+Contracts 181-184
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

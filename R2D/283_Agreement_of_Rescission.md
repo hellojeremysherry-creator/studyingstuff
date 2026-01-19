@@ -1,0 +1,98 @@
+Restat 2d of Contracts, § 283
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 3- Agreement of Rescission, Release and Contract Not to 
+Sue        
+§ 283 Agreement of Rescission
+(1)  An agreement of rescission is an agreement under which each party agrees to discharge all of the 
+other party's remaining duties of performance under an existing contract.
+(2)  An agreement of rescission discharges all remaining duties of performance of both parties.  It is a 
+question of interpretation whether the parties also agree to make restitution with respect to 
+performance that has been rendered.
+## Comments & Illustrations
+### Comment
+a.  Nature of agreement of rescission.  Sometimes the parties to a contract that is at least partly executory on 
+each side make an agreement under which each party agrees to discharge all of the other party's duties of 
+performance.  Such an agreement is called an "agreement of rescission" in this Restatement.  Consideration is 
+provided by each party's discharge of the duties of the other.  This is so even though one or both parties have 
+partly performed their duties or one or both have a claim for damages for partial breach.  The surrender of a 
+doubtful claim may be enough under the rule stated in § 74.  The agreement need not be expressed in words.  
+Other conduct may show an intent by both parties to abandon their contract.  If one party, even wrongfully, 
+expresses a wish or an intention to cease performance and the other party fails to object, circumstances may 
+justify the inference that there has been an agreement of rescission.  Sometimes mere inaction on both sides, 
+such as the failure to take any steps looking toward performance or enforcement, may indicate an intent to 
+abandon the contract.  Mere failure to object to a repudiation, however, is not a manifestation of assent to an 
+agreement of rescission.  See § 257.  The term "agreement of rescission" is used in this Restatement to avoid 
+confusion with the word "rescission," which courts sometimes use to refer to the exercise by one party of a 
+power of avoidance (§ 7).  An agreement of "partial rescission" that would discharge less than all the parties' 
+remaining duties of performance is treated as a modification.  See Comment b.  An agreement of rescission 
+differs from a "termination," which "occurs when either party pursuant to a power created by agreement or law 
+puts an end to the contract otherwise than for its breach" and from a "cancellation," which "occurs when either 
+party puts an end to the contract for breach by the other." Uniform Commercial Code § 2-106.
+### Illustrations
+1.  A and B make a contract under which A promises to paint B's house and B promises to pay A $ 1,000.  A 
+finds, after beginning the work, that he will lose more money by finishing than by giving up at once and makes B 
+an offer to rescind the contract.  B accepts.  There is an agreement of rescission and the duties of both A and B 
+are discharged.
+2.  A and B make a contract under which A promises to paint B's house and B promises to pay A $ 1,000.  After 
+A has finished the work, B's financial condition has become impaired, and A tells B, "You need never pay me 
+the $ 1,000 that you owe me." There is no agreement of rescission and B's duty to pay A $ 1,000 is not 
+discharged.  The result is the same if the original contract results from B's offer to pay A $ 1,000 if A paints B's 
+house and A's acceptance by doing the work.
+b.  The Statute of Frauds and oral agreement of rescission.  Under the rule stated in § 148, the Statute of 
+Frauds does not affect the enforceability of an oral agreement of rescission unless rescission of a transfer of 
+property is involved.  An attempt to make an agreement of "partial rescission" that would discharge less than all 
+of their remaining duties under the existing contract is considered a modification, subject to the rule stated in § 
+
+§ 283 Agreement of Rescission
+149, and not an agreement of rescission.  Even a provision of the earlier contract to the effect that it can be 
+rescinded only in writing does not impair the effectiveness of an oral agreement of rescission.  In the absence 
+of statute, such a self-imposed limitation does not limit the power of the parties subsequently to contract.  A 
+different rule is laid down in Uniform Commercial Code § 2-209(2) for contracts for the sale of goods.
+c.  Whether promise of restitution is included.  If the original contract has been partly performed on one or both 
+sides at the time of the agreement of rescission, a question arises as to whether a party is entitled to restitution 
+for such performance as he has rendered.  There is no rule of law establishing a presumption to answer this 
+question.  It is a question of interpretation of the agreement of rescission that is to be determined on the facts of 
+each case.
+### Illustration
+3.  A and B make a contract under which A promises to sell B land for $ 100,000, payable in five installments of 
+$ 20,000 each.  B pays the first installment and takes possession under the contract.  A and B then make an 
+agreement of rescission.  Whether A has a duty to return the $ 20,000 payment, either in full or less the fair 
+rental value of the land for the time that B was in possession, is a question of interpretation of the agreement of 
+rescission.
+## Reporter'S Notes
+This Section is based on former §§ 406 and 409.  See also 5A Corbin, Contracts §§ 1236, 1237 (1964 & Supp. 
+1980); 6 id. §§ 1294, 1295, 1316 (1962 & Supp. 1980); 15 Williston, Contracts §§ 1826-29, 1834-36 (3d ed. 
+1972).
+Comment a.  That an offer of rescission may be withdrawn before acceptance, see Lemlich v. Board of 
+Trustees, 282 Md. 495, 385 A.2d 1185 (Ct. Spec. App. 1978). That an agreement of rescission may be inferred 
+from conduct, see Mitchell v. Aetna Cas. Co., 579 F.2d 342 (5th Cir. 1978); National Indem. Co. v. St. Paul Fire 
+Ins. Co., 176 Mont. 137, 576 P.2d 733 (1978); cf.  Keeth Gas Co. v. Jackson Creek Cattle Co., 91 N.M. 87, 570 
+P.2d 918 (1977). Illustration 1 is based on Illustration 1 to former § 406.  Illustration 2 is based on Illustrations 2 
+and 3 to former § 406.
+Comment b.  This Comment is based on former § 407.  See also National Indem. Co. v. St. Paul Fire Ins. Co., 
+176 Mont. 137, 576 P.2d 733 (1978). The effect of a contract provision precluding oral rescission is discussed 
+in Note, 31 U. Pitt. L. Rev. 314 (1969); see also ABC Outdoor Advertising v. Dolhun's Marine, 38 Wis.2d 457, 
+157 N.W.2d 680 (1968). A few states by statute give effect to a provision in a writing that it cannot be 
+terminated orally.  See Cal. Civ. Code § 1698 (West Supp. 1977); N.Y. Gen. Obl. Law § 15-301 (McKinney 
+1964).
+Comment c.  Illustration 3 is based on Illustration 1 to former § 409 and on Lewis v. Marsters, 139 Me. 17, 26 
+A.2d 649 (1942).
+Cross Reference
+### ALR Annotations
+Vendor and purchaser: Mutual mistake as to physical condition of realty as ground for rescission.  50 A.L.R.3d 
+1188.
+Circumstances justifying delay in rescinding land contract after learning of ground of rescission.  1 A.L.R.3d 
+542.
+Comment Note. -- Mutual rescission or release of contract as affecting rights of third-party beneficiary.  97 
+A.L.R.2d 1262.
+Asserted right to rescission or cancellation of contract with decedent as claim which must be presented to his 
+personal representative.  73 A.L.R.2d 883.
+Relief by way of rescission or adjustment of purchase price for mutual mistake as to quantity of land, where the 
+sale is in gross.  1 A.L.R.2d 9.
+### Digest System Key Numbers
+Contracts 252-254, 274
+
+§ 283 Agreement of Rescission
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

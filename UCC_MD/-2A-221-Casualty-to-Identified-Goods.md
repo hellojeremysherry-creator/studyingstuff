@@ -1,0 +1,16 @@
+## U.C.C. § 2A-221
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 2. FORMATION AND 
+## Construction Of Lease Contract
+§ 2A-221. Casualty to Identified Goods.
+If a lease contract requires goods identified when the lease contract is made, and the goods suffer casualty 
+without fault of the lessee, the lessor or the supplier before delivery, or the goods suffer casualty before risk 
+of loss passes to the lessee pursuant to the lease agreement or Section 2A-219, then:
+(a)  if the loss is total, the lease contract is avoided; and
+(b)  if the loss is partial or the goods have so deteriorated as to no longer conform to the lease contract, 
+the lessee may nevertheless demand inspection and at his [or her] option either treat the lease contract 
+as avoided or, except in a finance lease that is not a consumer lease, accept the goods with due 
+allowance from the rent payable for the balance of the lease term for the deterioration or the deficiency 
+in quantity but without further right against the lessor.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

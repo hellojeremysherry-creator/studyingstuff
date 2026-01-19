@@ -1,0 +1,76 @@
+Restat 2d of Contracts, § 30
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 3- Making of Offers        
+§ 30 Form of Acceptance Invited
+(1)  An offer may invite or require acceptance to be made by an affirmative answer in words, or by 
+performing or refraining from performing a specified act, or may empower the offeree to make a 
+selection of terms in his acceptance.
+(2)  Unless otherwise indicated by the language or the circumstances, an offer invites acceptance in 
+any manner and by any medium reasonable in the circumstances.
+## Comments & Illustrations
+### Comment
+a.  Required form.  The offeror is the master of his offer.  See Comment a to § 29.  The form of acceptance is 
+less likely to affect the substance of the bargain than the identity of the offeree, and is often quite immaterial.  
+But the offeror is entitled to insist on a particular mode of manifestation of assent.  The terms of the offer may 
+limit acceptance to a particular mode; whether it does so is a matter of interpretation.
+### Illustration
+1.  A sends a letter to B stating the terms of a proposed contract.  At the end he writes, "You can accept this 
+offer only by signing on the dotted line below my own signature." a replies by telegram, "I accept your offer." 
+There is no contract.
+b.  Invited form.  Insistence on a particular form of acceptance is unusual.  Offers often make no express 
+reference to the form of acceptance; sometimes ambiguous language is used.  Language referring to a 
+particular mode of acceptance is often intended and understood as suggestion rather than limitation; the 
+suggested mode is then authorized, but other modes are not precluded.  In other cases language which in 
+terms refers to the mode of acceptance is intended and understood as referring to some more important aspect 
+of the transaction, such as the time limit for acceptance.  See §§ 60, 63.
+c.  Term supplied in acceptance.  An offer may contain a choice of terms, and may invite or require an 
+acceptance making a selection among the terms stated.  Or the offer may indicate a term such as quantity to be 
+filled in by the offeree.  An acceptance to be effective must comply with the terms of the offer, and those terms 
+or the circumstances may make it plain that the acceptance must specify terms.  Section 60.  In such cases the 
+offer does not fail for indefiniteness, but no contract is made by an attempted acceptance which does not 
+supply the term as indicated.  See § 33.  The offer assents in advance to the term chosen or filled in by the 
+offeree.
+### Illustration
+2.  A offers to deliver to B at any time during the next 30 days any amount of coal, up to 100 tons, for which B 
+will promise to pay $ 15 a ton.  In order to accept this offer B must specify the amount of coal he desires and 
+must promise to pay $ 15 a ton for it.  An order for 50 tons by B concludes a definite agreement.
+d.  Form not specified.  Interpretation of the offer is necessary in order to determine whether there is any 
+limitation on the mode of acceptance.  The meaning given the offer by the offeree controls if it is a meaning of 
+which the offeror knew or had reason to know.  See §§ 19, 20.  Since limitation is not customary, the offeror has 
+reason to know that the offeree may understand that the offer can be accepted in any reasonable manner, and 
+a contrary intention is not operative unless manifested.  See Uniform Commercial Code § 2-206(1).
+### Illustrations
+
+§ 30 Form of Acceptance Invited
+3.  A orally offers to sell and deliver to B 100 tons of coal at $ 20 a ton payable 30 days after delivery.  B replies, 
+"I accept your offer." B has manifested assent in a sufficient form, even though A neither suggested nor 
+required that form.
+4.  A makes a bid at an auction sale.  By the usual custom at auctions, the auctioneer may accept by letting the 
+hammer fall, by saying "Sold", or by any words manifesting acceptance.
+e.  Reasonable manner.  As to acceptance by promise or nonpromissory performance, see § 32.  Cases where 
+the contract leaves terms to be chosen in the course of performance are the subject of § 34.  What manner and 
+medium are reasonable is governed by the rules stated in §§ 60 and 65.  Sometimes, though not ordinarily, 
+even silent inaction may be effective as a mode of acceptance.  See § 69.
+## Reporter'S Notes
+Subsection (1) is based on former § 29.  Subsection (2) is new.  See 1 Williston, Contracts §§ 31A, 76 (3d ed. 
+1957); 1 Corbin, Contracts §§ 62, 70, 77 (1963 & Supp. 1980).
+Comment a.  Illustration 1 is new; see Kroeze v. Chloride Group Ltd., 572 F.2d 1099 (5th Cir. 1978); Town of 
+Lindsay v. Cooke County Elec. Coop. Ass'n, 502 S.W.2d 117 (Tex. 1973). See also Golden Dipt Co. v. Systems 
+Eng'r & Mfg. Co., 465 F.2d 215 (7th Cir. 1972) (while the dictum in the opinion is correct, the court appears 
+incorrect in categorizing the proposal involved as an offer rather than an invitation to make an offer; see 
+Comment d to § 26).
+Comment c.  Illustration 2 is based on Illustrations 1 and 2 to former § 29.
+Comment d.  Illustration 3 is new.  Illustration 4 is based on Illustration 3 to former § 29.
+Cross Reference
+### ALR Annotations
+Reward for disproving commercial claim.  96 A.L.R.3d 907.
+Timeliness of notice of exercise of option to purchase realty.  87 A.L.R.3d 805.
+Knowledge of reward as condition of right thereto.  86 A.L.R.3d 1142.
+Advertisement addressed to public relating to sale or purchase of goods at specified price as an offer the 
+acceptance of which will consummate a contract.  43 A.L.R.3d 1102.
+Private rights and remedies growing out of prize-winning contests.  87 A.L.R.2d 649.
+### Digest System Key Numbers
+Contracts 22
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

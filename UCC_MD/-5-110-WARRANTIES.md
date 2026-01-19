@@ -1,0 +1,13 @@
+## U.C.C. § 5-110
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 5. LETTERS OF CREDIT
+## § 5-110. Warranties
+### (a)  If its presentation is honored, the beneficiary warrants
+(1)  to the issuer, any other person to whom presentation is made, and the applicant that there is no 
+fraud or forgery of the kind described in Section 5-109(a); and
+(2)  to the applicant that the drawing does not violate any agreement between the applicant and 
+beneficiary or any other agreement intended by them to be augmented by the letter of credit.
+(b)  The warranties in subsection (a) are in addition to warranties arising under Article 3, 4, 7, and 8 
+because of the presentation or transfer of documents covered by any of those articles.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

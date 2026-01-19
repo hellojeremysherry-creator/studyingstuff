@@ -1,0 +1,59 @@
+## U.C.C. § 6-107
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 6. BULK SALES  >  ALTERNATIVE B [Including 
+Article 6 as revised]
+## § 6-107. Liability For Noncompliance.
+(1)  Except as provided in subsection (3), and subject to the limitation in subsection (4):
+(a)  a buyer who fails to comply with the requirements of Section 6-104(1)(e) with respect to a creditor 
+is liable to the creditor for damages in the amount of the claim, reduced by any amount that the creditor 
+would not have realized if the buyer had complied; and
+(b)  a buyer who fails to comply with the requirements of any other subsection of Section 6-104 with 
+respect to a claimant is liable to the claimant for damages in the amount of the claim, reduced by any 
+amount that the claimant would not have realized if the buyer had complied.
+(2)  In an action under subsection (1), the creditor has the burden of establishing the validity and amount of 
+the claim, and the buyer has the burden of establishing the amount that the creditor would not have realized 
+if the buyer had complied.
+### (3)  A buyer who
+(a)  made a good faith and commercially reasonable effort to comply with the requirements of Section 
+6-104(1) or to exclude the sale from the application of this Article under Section 6-103(3); or
+(b)  on or after the date of the bulk-sale agreement, but before the date of the bulk sale, held a good 
+faith and commercially reasonable belief that this Article does not apply to the particular sale
+is not liable to creditors for failure to comply with the requirements of Section 6-104.  The buyer has the 
+burden of establishing the good faith and commercial reasonableness of the effort or belief.
+(4)  In a single bulk sale the cumulative liability of the buyer for failure to comply with the requirements of 
+### Section 6-104(1) may not exceed an amount equal to
+(a)  if the assets consist only of inventory and equipment, twice the net contract price, less the amount 
+of any part of the net contract price paid to or applied for the benefit of the seller or a creditor; or
+(b)  if the assets include property other than inventory and equipment, twice the net value of the 
+inventory and equipment less the amount of the portion of any part of the net contract price paid to or 
+applied for the benefit of the seller or a creditor which is allocable to the inventory and equipment.
+(5)  For the purposes of subsection (4)(b), the "net value" of an asset is the value of the asset less (i) the 
+amount of any proceeds of the sale of an asset, to the extent the proceeds are applied in partial or total 
+satisfaction of a debt secured by the asset and (ii) the amount of any debt to the extent it is secured by a 
+security interest or lien that is enforceable against the asset before and after it has been sold to a buyer.  If 
+a debt is secured by an asset and other property of the seller, the amount of the debt secured by a security 
+interest or lien that is enforceable against the asset is determined by multiplying the debt by a fraction, the 
+numerator of which is the value of the asset on the date of the bulk sale and the denominator of which is 
+the value of all property securing the debt on the date of the bulk sale.  The portion of a part of the net 
+contract price paid to or applied for the benefit of the seller or a creditor that is "allocable to the inventory 
+and equipment" is the portion that bears the same ratio to that part of the net contract price as the net value 
+of the inventory and equipment bears to the net value of all of the assets.
+(6)  A payment made by the buyer to a person to whom the buyer is, or believes he [or she] is, liable under 
+subsection (1) reduces pro tanto the buyer's cumulative liability under subsection (4).
+
+## § 6-107. Liability For Noncompliance.
+(7)  No action may be brought under subsection (1)(b) by or on behalf of a claimant whose claim is 
+unliquidated or contingent.
+(8)  A buyer's failure to comply with the requirements of Section 6-104(1) does not (i) impair the buyer's 
+rights in or title to the assets, (ii) render the sale ineffective, void, or voidable, (iii) entitle a creditor to more 
+than a single satisfaction of his [or her] claim, or (iv) create liability other than as provided in this Article.
+(9)  Payment of the buyer's liability under subsection (1) discharges pro tanto the seller's debt to the 
+creditor.
+(10)  Unless otherwise agreed, a buyer has an immediate right of reimbursement from the seller for any 
+amount paid to a creditor in partial or total satisfaction of the buyer's liability under subsection (1).
+(11)  If the seller is an organization, a person who is in direct or indirect control of the seller, and who 
+knowingly, intentionally, and without legal justification fails, or causes the seller to fail, to distribute the net 
+contract price in accordance with the schedule of distribution is liable to any creditor to whom the seller 
+undertook to make payment under the schedule for damages caused by the failure.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

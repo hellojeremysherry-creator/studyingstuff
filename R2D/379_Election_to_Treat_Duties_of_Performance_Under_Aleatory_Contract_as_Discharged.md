@@ -1,0 +1,54 @@
+Restat 2d of Contracts, § 379
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 5- Preclusion by Election and Affirmance        
+§ 379 Election to Treat Duties of Performance Under Aleatory Contract as 
+Discharged
+If a right or duty of the injured party is conditional on an event that is fortuitous or is supposed by the 
+parties to be fortuitous, he cannot treat his remaining duties to render performance as discharged on 
+the ground of the other party's breach by non-performance if he does not manifest to the other party 
+his intention to do so before any adverse change in the situation of the injured party resulting from the 
+occurrence of that event or a material change in the probability of its occurrence.
+## Comments & Illustrations
+### Comment
+a.  Election under an aleatory contract.  An aleatory contract is one in which at least one party is under a duty 
+that is conditional on the occurrence of an event that, so far as the parties to the contract are aware, is 
+dependent on chance.  Its occurrence may be within the control of third persons or beyond the control of any 
+person.  The event may have already occurred, as long as that fact is unknown to the parties.  It may be the 
+failure of something to happen as well as its happening.  Common examples are contracts of insurance and 
+suretyship, as well as gambling contracts.  If the injured party's duty is conditional on such an event, it would be 
+unfair if, after the breach, he were allowed to take advantage of a material change in the likelihood of its 
+occurrence when deciding whether to treat his remaining duties as discharged.  If it was more likely that it 
+would occur it would be to his advantage to treat those duties as discharged.  For this reason, he is precluded 
+from treating them as discharged if there has been an adverse change in his situation because the event has 
+occurred or because there has been a material increase in the probability of its occurrence.  The same principle 
+applies to the case where a right rather than a duty of the injured party is conditional on the occurrence of such 
+an event.
+### Illustrations
+1.  A, an insurance company, issues to B a policy of fire insurance on B's house for a year in the amount of $ 
+100,000.  In consideration, B gives A his promissory note for the premium, payable in three months.  B fails to 
+pay the note at maturity.  Four months later, before A has given notice of cancellation, B's house burns.  A 
+cannot treat B's failure to pay as discharging it from its duty to pay for the loss under the policy.  A is liable for 
+the loss less the amount of the note.
+2.  A makes a contract with B under which A guarantees that C will pay a $ 100,000 debt owed B by C and due 
+on July 1.  In consideration, B promises to pay A $ 1,000 on May 1.  B fails to pay on that date.  Before A 
+manifests to B his intention to treat B's failure as discharging him from his duty to honor his guarantee of C's 
+debt, C becomes insolvent.  A cannot treat B's failure as discharging him from that duty and is liable on his $ 
+100,000 guarantee less the $ 1,000.
+3.  A and B make a contract under which A guarantees a $ 50,000 debt owed to B by C and due on July 1 in 
+consideration of a guarantee by B of a $ 100,000 debt owed to A by D and due on August 1.  C fails to pay on 
+July 1 and A fails to honor his guarantee.  Before B manifests his intention to treat A's failure as discharging B 
+from his duty to honor his guarantee of D's debt, D becomes insolvent.  B cannot treat A's failure as discharging 
+him from that duty and is liable on his $ 100,000 guarantee less the $ 50,000 that A owes on his guarantee.
+## Reporter'S Notes
+This Section is based on former § 293.  See also former §§ 291, 292.  See 3A Corbin, Contracts § 730 (1960); 
+5 Williston, Contracts §§ 683-88 (3d ed. 1961).
+
+§ 379 Election to Treat Duties of Performance Under Aleatory Contract as Discharged
+Comment b.  Illustration 1 is based on Illustration 4 to former § 293.  Illustrations 2 and 3 are based on 
+Illustrations 1 and 3 to former § 292.
+Cross Reference
+### Digest System Key Numbers
+Contracts 312
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

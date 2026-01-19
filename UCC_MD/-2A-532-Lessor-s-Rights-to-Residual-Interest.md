@@ -1,0 +1,12 @@
+## U.C.C. § 2A-532
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 5. DEFAULT  >   C. 
+## Default By Lessee
+§ 2A-532. Lessor's Rights to Residual Interest.
+In addition to any other recovery permitted by this Article or other law, the lessor may recover from the lessee an 
+amount that will fully compensate the lessor for any loss of or damage to the lessor's residual interest in the goods 
+caused by the default of the lessee.
+As added in 1990.
+See Appendix VI for material relating to adoption of section in 1990.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

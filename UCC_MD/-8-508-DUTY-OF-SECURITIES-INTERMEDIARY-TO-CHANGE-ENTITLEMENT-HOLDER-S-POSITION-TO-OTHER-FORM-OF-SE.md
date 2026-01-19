@@ -1,0 +1,16 @@
+## U.C.C. § 8-508
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 8. INVESTMENT SECURITIES  >  PART 5. 
+## Security Entitlements
+## § 8-508. Duty Of Securities Intermediary To Change Entitlement
+## Holder'S Position To Other Form Of Security Holding
+A securities intermediary shall act at the direction of an entitlement holder to change a security entitlement 
+into another available form of holding for which the entitlement holder is eligible, or to cause the financial 
+asset to be transferred to a securities account of the entitlement holder with another securities intermediary. 
+### A securities intermediary satisfies the duty if
+(1)  the securities intermediary acts as agreed upon by the entitlement holder and the securities 
+intermediary; or
+(2)  in the absence of agreement, the securities intermediary exercises due care in accordance with 
+reasonable commercial standards to follow the direction of the entitlement holder.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

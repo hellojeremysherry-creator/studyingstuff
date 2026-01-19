@@ -1,0 +1,244 @@
+Restat 2d of Contracts, § 237
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 2- Effect of Performance and Non-Performance        
+§ 237 Effect on Other Party's Duties of a Failure to Render Performance
+Except as stated in § 240, it is a condition of each party's remaining duties to render performances to 
+be exchanged under an exchange of promises that there be no uncured material failure by the other 
+party to render any such performance due at an earlier time.
+## Comments & Illustrations
+### Comment
+a.  Effect of non-occurrence of condition.  Under the rule stated in this Section, a material failure of 
+performance, including defective performance as well as an absence of performance, operates as the non-
+occurrence of a condition.  Under § 225, the non-occurrence of a condition has two possible effects on the duty 
+subject to that condition.  See Comment a to § 225.  The first is that of preventing performance of the duty from 
+becoming due, at least temporarily (§ 225(1)).  The second is that of discharging the duty when the condition 
+can no longer occur (§ 225(2)).  A material failure of performance has, under this Section, these effects on the 
+other party's remaining duties of performance with respect to the exchange.  It prevents performance of those 
+duties from becoming due, at least temporarily, and it discharges those duties if it has not been cured during 
+the time in which performance can occur.  The occurrence of conditions of the type dealt with in this Section is 
+required out of a sense of fairness rather than as a result of the agreement of the parties.  Such conditions are 
+therefore sometimes referred to as "constructive conditions of exchange." Cf. § 204.  What is sometimes 
+referred to as "failure of consideration" by courts and statutes (e.g., Uniform Commercial Code § 3-408) is 
+referred to in this Restatement as "failure of performance" to avoid confusion with the absence of consideration.  
+Circumstances significant in determining whether a failure is material are set out in § 241.  Circumstances 
+significant in determining the period of time after which remaining duties are discharged, if a material failure has 
+not been cured, are set out in § 242.  The rules stated in this Section and the one following apply without regard 
+to whether or not the failure of performance is a breach.  They apply, for example, even though the failure is 
+justified on the ground of impracticability of performance (Chapter 11).  Illustrations of the operation of these 
+rules in situations in which the failure is justified are given in other chapters under the sections that deal with the 
+particular justification, such as impracticability.  See, e.g., §§ 267, 268.  The illustrations in this Chapter 
+concern, for the most part, their operation in situations where the failure is a breach.  But see, e.g., Illustration 
+3.  The rules of this Section and the one following apply even when the promise of the party in default is 
+unenforceable under the Statute of Frauds, while the promise of the other party is enforceable.  See § 140.  
+They are, of course, subject to variation by agreement of the parties.
+### Illustrations
+1.  A contracts to build a house for B for $ 50,000, progress payments to be made monthly in an amount equal 
+to 85% of the price of the work performed during the preceding month, the balance to be paid on the architect's 
+certificate of satisfactory completion of the house.  Without justification B fails to make a $ 5,000 progress 
+payment.  A thereupon stops work on the house and a week goes by.  A's failure to continue the work is not a 
+breach and B has no claim against A.  B's failure to make the progress payment is an uncured material failure 
+of performance which operates as the non-occurrence of a condition of A's remaining duties of performance 
+under the exchange.  If B offers to make the delayed payment and in all the circumstances it is not too late to 
+cure the material breach, A's duties to continue the work are not discharged.  A has a claim against B for 
+damages for partial breach because of the delay.
+2.  The facts being otherwise as stated in Illustration 1, B fails to make the progress payment or to give any 
+explanation or assurances for one month.  If, in all the circumstances, it is now too late for B to cure his material 
+
+§ 237 Effect on Other Party’s Duties of a Failure to Render Performance
+failure of performance by making the delayed payment, A's duties to continue the work are discharged.  
+Because B's failure to make the progress payment was a breach, A also has a claim against B for total breach 
+of contract (§ 243).
+3.  A, a theater manager, contracts with B, an actress, for performance by her for a period of six months in a 
+play that A is about to present.  B dies during the first week of the performance.  A's remaining duties with 
+respect to the exchange of performances are discharged by B's uncured material failure of performance.  
+Because B's failure is justified on the ground of impossibility (§ 262), A has no claim against B's estate.
+b.  First material failure of performance.  In many disputes over failure of performance, both parties fail to finish 
+performance, and the question is whether one of them is justified in so doing by the other party's failure.  
+(Compare Comment d.)  This Section states the fundamental rule under which that question is to be answered.  
+(The liability of the other party for damages for total breach is governed by the rule stated in § 243.) The rule is 
+based on the principle that where performances are to be exchanged under an exchange of promises, each 
+party is entitled to the assurance that he will not be called upon to perform his remaining duties of performance 
+with respect to the expected exchange if there has already been an uncured material failure of performance by 
+the other party.  The central problem is in determining which party is chargeable with the first uncured material 
+failure of performance.  In determining the relative times when performance is due, the terms of the agreement 
+and the supplementary rules on time for performance should be considered (§§ 233, 234).  In determining 
+whether there has been a failure of performance, the terms of the agreement and the supplementary rules such 
+as those on omitted essential terms (§ 204) and the duty of good faith and fair dealing (§ 205) should be 
+considered.  In determining whether a failure of performance is material, the circumstances listed in § 241 
+should be considered.  Even if the failure is material, it may still be possible to cure it by subsequent 
+performance without a material failure.  In the event of cure the injured party may still have a claim for any 
+remaining non-performance as well as for any delay.  In determining when it is too late to cure a failure of 
+performance, the circumstances listed in § 242 should be considered.  In making all of these determinations the 
+situation of the parties is to be viewed as of the time for performance and in terms of the actual failure.  If, for 
+example, under the terms of the agreement the order of performance depends on an event subsequent to the 
+time of the making of the contract, that event is to be taken into account.
+### Illustrations
+4.  A contracts to sell and B to buy at a stated price four parcels of land which A does not own but which the 
+parties expect A to acquire by purchase at a foreclosure sale.  A bids on the four parcels at the foreclosure 
+sale, but each time B bids against him and acquires all four for less than the contract price.  A does not convey 
+the four parcels to B.  B has no claim against A.  B's bidding at the sale was a material breach of his duty of 
+good faith and fair dealing (§ 205), which operated as the non-occurrence of a condition of A's duties and 
+discharged them.
+5.  A, a contractor, and B, a subcontractor, make a contract under which B promises to install sewer pipe in a 
+trench which A is to dig and maintain during installation.  A unjustifiably so fails to maintain the trench that it fills 
+with water, severely hindering installation.  B thereupon stops work and refuses to continue unless the breach is 
+cured.  A does not cure his breach.  If A's breach is material (§ 241), it operates as the non-occurrence of a 
+condition of B's duty to build the sewer, discharging it, and A has no claim against B.  If A's breach is not 
+material, B's duties are not discharged, and B's stopping work and refusing to continue is a breach.
+6.  A contracts to sell and B to buy on 30 days credit 3,000 tons of iron rails at a stated price.  B purchases iron 
+rails heavily from various sources for use in his business, and in consequence A has difficulty in securing 3,000 
+tons and the market price is substantially increased.  A fails to deliver the rails.  B has a claim against A for 
+breach of contract.  B's purchase of iron rails from other sources for use in his business is not a failure of 
+performance because B is under no duty to refrain from purchasing for that purpose.  A's failure to deliver the 
+rails is therefore a breach.
+7.  The facts being otherwise as stated in Illustration 6, B maliciously buys iron rails heavily from various 
+sources in order to prevent A from performing his contract with B.  B has no claim against A.  B's malicious 
+purchase of iron rails from other sources is a material breach of his duty of good faith and fair dealing (§ 204), 
+which operates as the non-occurrence of a condition of A's duty to deliver the rails, discharging it.
+
+§ 237 Effect on Other Party’s Duties of a Failure to Render Performance
+c.  Ignorance immaterial.  The non-occurrence of a condition of a party's duty has the effects stated in § 225 
+even though that party does not know of its non-occurrence.  See Comment e to § 225.  It follows that one 
+party's material failure of performance has the effect of the non-occurrence of a condition of the other party's 
+remaining duties, under the rule stated in this Section, even though that other party does not know of the 
+failure.  If the other party is discharged as the result of an unjustified material failure of which he is ignorant, he 
+has a claim for damages for total breach (§ 245).  But any loss that he has suffered as a result of his own 
+actions taken in ignorance of the breach cannot be recovered since his actions were not caused by the other's 
+breach.  See Illustrations 8 and 9.
+A party's ignorance may, however, cause him to lose rights under rules other than the one stated in this section.  
+He may, for example, be precluded from relying on a condition where, through ignorance, he fails to make 
+timely objection.  So, under Uniform Commercial Code § 2-608, a buyer of goods who accepts them in 
+ignorance of their defects loses his right to insist upon strict performance as a condition of his duty to pay the 
+price.  Other rules may preclude a party from relying on a failure of performance as the non-occurrence of a 
+condition where, because of unreasonable ignorance, he has accepted the other party's performance or has 
+given no reasons or the wrong reasons for its rejection.  See, e.g., §§ 246 and 248; Uniform Commercial Code 
+§§ 2-605, 2-607.
+### Illustrations
+8.  A and B make an employment contract.  After the service has begun, A, the employee, commits a material 
+breach of his duty to give efficient service that would justify B in discharging him.  B is not aware of this but 
+discharges A for an inadequate reason.  A has no claim against B for discharging him.  B has a claim against A 
+for damages for total breach (§ 243) based on B's loss due to A's failure to give efficient service up to the time 
+of discharge, but not for damages based on the loss of A's services after that time, because that loss was 
+caused by B's discharge of A and not by A's failure to give efficient service.
+9.  A contracts to sell and B to buy goods on 30 days credit.  A delivers defective goods, which B rejects in 
+ignorance of their defects.  A has no claim against B.  B has a claim against A for total breach (§ 243), but can 
+recover nominal damages only since the unavailability of the goods to B was caused by B's rejection and not by 
+their defects.
+10.  The facts being otherwise as stated in Illustration 9, when B rejects the goods he states an insufficient 
+reason, which induces a failure by A to cure the defects in the goods.  B is precluded from relying on the 
+defects to justify his rejection, not because of his ignorance itself, but because his giving of an insufficient 
+reason for rejection excused the non-occurrence of the condition of his duty to take and pay for the goods (§ 
+248; Uniform Commercial Code § 2-605).
+d.  Substantial performance.  In an important category of disputes over failure of performance, one party 
+asserts the right to payment on the ground that he has completed his performance, while the other party 
+refuses to pay on the ground that there is an uncured material failure of performance.  (Compare Comment 
+b.)  A typical example is that of the building contractor who claims from the owner payment of the unpaid 
+balance under a construction contract.  In such cases it is common to state the issue, not in terms of whether 
+there has been an uncured material failure by the contractor, but in terms of whether there has been substantial 
+performance by him.  This manner of stating the issue does not change its substance, however, and the rule 
+stated in this Section also applies to such cases.  If there has been substantial although not full performance, 
+the building contractor has a claim for the unpaid balance and the owner has a claim only for damages.  If there 
+has not been substantial performance, the building contractor has no claim for the unpaid balance, although he 
+may have a claim in restitution (§ 374).  The considerations in determining whether performance is substantial 
+are those listed in § 241 for determining whether a failure is material.  See Comment b to § 241.  If, however, 
+the parties have made an event a condition of their agreement, there is no mitigating standard of materiality or 
+substantiality applicable to the non-occurrence of that event.  If, therefore, the agreement makes full 
+performance a condition, substantial performance is not sufficient and if relief is to be had under the contract, it 
+must be through excuse of the non-occurrence of the condition to avoid forfeiture.  See § 229 and Illustration 1 
+to that section.
+### Illustration
+
+§ 237 Effect on Other Party’s Duties of a Failure to Render Performance
+11.  A contracts to build a house for B, for which B promises to pay $ 50,000 in monthly progress payments 
+equal to 85% of the value of the work with the balance to be paid on completion.  When A completes 
+construction, B refuses to pay the $ 7,500 balance claiming that there are defects that amount to an uncured 
+material breach.  If the breach is material, A's performance is not substantial and he has no claim under the 
+contract against B, although he may have a claim in restitution (§ 374).  If the breach is not material, A's 
+performance is said to be substantial, he has a claim under the contract against B for $ 7,500, and B has a 
+claim against A for damages because of the defects.
+e.  Duties affected.  Under the rule stated in this Section, only duties with respect to the performances to be 
+exchanged under the particular exchange of promises are affected by a failure of one of those performances.  A 
+duty under a separate contract is not affected (see Comment d to § 231 and Illustration 5 to that section), nor is 
+a duty under the same contract affected if it was not one to render a performance to be exchanged under an 
+exchange of promises (see Illustrations 3 and 4 to § 232).  Furthermore, only duties to render performance are 
+affected.  A claim for damages that has already arisen as a result of a claim for partial breach is not discharged 
+under the rule stated in this Section.
+### Illustration
+12.  A contracts to build a building for B.  B delays making the site available to A, giving A a claim against B for 
+damages for partial breach.  A then commits a material breach and B properly cancels the contract.  B has a 
+claim against A for damages for total breach, but A still has a claim against B for damages for partial breach.
+## Reporter'S Notes
+This section is based on former §§ 269 and 274.  See also former § 268(2).  It rejects, however, the approach 
+reflected in former § 271 under which an attempt was made to determine whether particular promises of one 
+party were conditional on the performance of particular promises of the other.  It also abandons as misleading 
+the term "failure of consideration" (see, e.g., former § 274) in favor of "failure of performance." As Corbin 
+suggested, the former may incorrectly suggest an absence of consideration.  See 3A Corbin, Contracts § 658 
+(1960); Cowman v. Allen Monuments, Inc., 500 S.W.2d 223, 227-28 (Tex. Civ. App. 1973). For criticism of the 
+term "failure of consideration," see Patterson, Constructive Conditions in Contracts, 42 Colum. L. Rev. 903, 
+921-22 (1942). For Williston's defense of the term, see 6 Williston, Contracts § 814 (3d ed. 1962).  The term 
+"cure" is used in a broader sense than in Uniform Commercial Code § 2-508, to include performance by one 
+party before the other party's remaining duties of performance have been discharged, even though the other 
+party has a claim for damages for partial breach because of the delay.  See, e.g., Cohen v. Kranz, 12 N.Y.2d 
+242, 238 N.Y.S.2d 928, 189 N.E.2d 473 (1963). See generally 3A Corbin, Contracts §§ 657-60, 675, 677-78, 
+700-02, 762 (1960 & Supp. 1980); 6 Williston, Contracts §§ 820-28, 839, 841-42 (3d ed. 1962).
+Comment a.  With respect to discharge, see former §§ 397 and 399.  Illustration 1 is based on Illustration 5 to 
+former § 276 and on Pelletier v. Masse, 49 R.I. 408, 143 A. 609 (1928); Harton v. Hildebrand, 230 Pa. 335, 79 
+A. 571 (1911). See also Turner Concrete Steel Co. v. Chester Constr. & Contracting Co., 271 Pa. 205, 114 A. 
+780 (1921). Cf.  Taylor v. Johnston, 15 Cal.3d 130, 123 Cal. Rptr. 641, 539 P.2d 425 (1975). On the claim for 
+damages for partial breach during the delay, see Underground Constr. Co. v. Sanitary Dist. of Chicago, 367 Ill. 
+360, 11 N.E.2d 361 (1937). Illustration 2 is based on Illustration 5 to former § 276 and on Guerini Stone Co. v. 
+P.J. Carlin Constr. Co., 248 U.S. 334 (1919). See also R.G. Pope Constr. Co. v. Guard Rail of Roanoke, 219 
+Va. 111, 244 S.E.2d 774 (1978). Compare the questionable decision in Wagstaff v. Remco, Inc., 540 P.2d 931 
+(Utah 1975), in which the defendant's failure to make a timely payment was held a material breach justifying the 
+plaintiff's permanent discontinuance of the work.  Nonetheless, defendant was permitted to set off its costs of 
+completion.  Illustration 3 is suggested by Illustration 1 to former § 275; see also Poussard v. Spiers & Pond, 1 
+Q.B. Div. 410 (1876).
+Comment b.  As to the case where the order of performance depends on a future event, see former § 271.  
+Illustration 4 is based on Patterson v. Meyerhofer, 204 N.Y. 96, 97 N.E. 472 (1912). The facts in Illustration 5 
+are suggested by Quintin Vespa Co. v. Construction Serv. Co., 343 Mass. 547, 179 N.E.2d 895 (1962); see 
+also Clarke Contracting Co. v. City of New York, 229 N.Y. 413, 128 N.E. 241 (1920). For cases in which a 
+contractor's failure tokeep to a schedule constituted a material failure of performance justifying a 
+subcontractor's refusal to proceed and giving the latter a claim for total breach, see e.g., R.G. Pope Constr. Co. 
+v. Guard Rail of Roanoke, 219 Va. 111, 244 S.E.2d 774 (1978); Gamm Constr. Co. v. Townsend, 32 Ill. App.3d 
+848, 336 N.E.2d 592 (1975); Curators of Univ. of Missouri v. Nebraska Prestressed Concrete Co., 526 S.W.2d 
+
+§ 237 Effect on Other Party’s Duties of a Failure to Render Performance
+903 (Mo. Ct. App. 1975). Contrast the special situation of government procurement contracts, felicitously 
+described and interestingly applied in Westinghouse Elec. Corp. v. Garrett Corp., 437 F. Supp. 1301, 1331-40 
+(D. Md. 1977). For a question of who first materially failed to perform in a sales rather than construction context, 
+see Cargill, Inc. v. Atkins Farms, Inc., 422 F. Supp. 239 (W.D. Ark. 1976). Illustration 6 is based on and 
+Illustration 7 is suggested by Iron Trade Prod. Co. v. Wilkoff Co., 272 Pa. 172, 116 A. 150 (1922). See also 
+Illustration 3 to former § 315.
+Comment c.  This Comment is based on former § 278.  See also 3A Corbin, Contracts § 762 (1960); 6 
+Williston, Contracts § 839 (3d ed. 1962); Western Auto Supply v. Sullivan, 210 F.2d 36 (8th Cir. 1954). 
+Illustration 8 is based on Illustration 1 to former § 278, Illustration 2 to former § 304, Illustration 2 to former § 
+315, and Green v. Edgar, 28 N.Y. Sup. Ct. 414 (1880); see also Wechsler v. Capitol Trailer Sales, 220 Cal. 
+App.2d 252, 33 Cal. Rptr. 680 (1963). Illustration 9 is based on Illustration 2 to former § 278.  Illustration 10 is 
+suggested by Uniform Commercial Code § 2-605(1)(a).
+Comment d.  This Comment is based on former § 268(2).  On substantial performance generally, see Della 
+Ratta, Inc. v. American Better Community Devs., 38 Md. App. 119, 380 A.2d 627 (Ct. Spec. App. 1977). 
+Compare Franklin E. Penny Co. v. United States, 207 Ct. Cl. 842, 524 F.2d 668 (1975). This Section (in 
+Tentative Draft) was quoted and applied in Roland A. Wilson & Assocs. v. Forty-O-Four Grand Corp., 246 
+N.W.2d 922 (Iowa 1976). The approach of the Section is used in Della Ratta, Inc. v. American Better 
+Community Devs., supra. In Bridgkort Racquet Club v. University Bank, 85 Wis.2d 706, 271 N.W.2d 165 (Ct. 
+App. 1978), the court used the term "substantial performance" in a dispute over a loan commitment rather than 
+actual construction.  The opinion illustrates the substantive equivalence of substantial performance and the 
+absence of an uncured material failure of performance.  Illustration 11 is suggested by Illustration 6 to former § 
+275; see also Jacob & Youngs v. Kent, 230 N.Y. 239, 129 N.E. 889 (1921).
+Comment e.  Illustration 12 is supported by Sitlington v. Fulton, 281 F.2d 552 (10th Cir. 1960); Sitlington v. 
+Fulton, 297 F.2d 458 (10th Cir. 1961).
+Cross Reference
+### ALR Annotations
+Employer's termination of professional athlete's services as constituting breach of employment contract.  57 
+A.L.R.3d 257.
+Tenant's rights under unexercised option to purchase as affected by landlord's breach of lease or lease 
+agreement.  12 A.L.R.3d 1128.
+Construction contractor's liability to contractee for defects or insufficiency of work attributable to the latter's 
+plans and specifications.  6 A.L.R.3d 1394.
+Water well-drilling contracts.  90 A.L.R.2d 1346.
+Mining grubstake contracts.  70 A.L.R.2d 904.
+### Digest System Key Numbers
+Contracts 318
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

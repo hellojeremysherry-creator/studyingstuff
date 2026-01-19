@@ -1,0 +1,127 @@
+Restat 2d of Contracts, § 357
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 3- Enforcement by Specific Performance and Injunction        
+§ 357 Availability of Specific Performance and Injunction
+(1) Subject to the rules stated in §§ 359-69, specific performance of a contract duty will be granted in 
+the discretion of the court against a party who has committed or is threatening to commit a breach of 
+the duty.
+(2) Subject to the rules stated in §§ 359-69, an injunction against breach of a contract duty will be 
+granted in the discretion of the court against a party who has committed or is threatening to commit a 
+breach of the duty if
+(a) the duty is one of forbearance, or
+(b) the duty is one to act and specific performance would be denied only for reasons that are 
+inapplicable to an injunction.
+## Comments & Illustrations
+### Comment
+a.  Specific performance.  An order of specific performance is intended to produce as nearly as is practicable 
+the same effect that the performance due under a contract would have produced.  It usually, therefore, orders a 
+party to render the performance that he promised.  (On the form of the order, see § 358.) Such relief is seldom 
+granted unless there has been a breach of contract, either by non-performance or by repudiation.  In unusual 
+circumstances, however, it may be granted where there is merely a threatened breach.  See Subsection (1).
+b.  Injunction.  A court may by injunction direct a party to refrain from doing a specified act.  This is appropriate 
+in two types of cases.
+In the first, the performance due under the contract consists simply of forbearance, and the injunction in effect 
+orders specific performance.  See Paragraph (2)(a).  Duties of forbearance are often imposed not as a matter of 
+agreement but as a matter of law, as is usually the case for the duty not to interfere with the other party's 
+performance of the contract.  Duties of forbearance are ordinarily accompanied by other duties that require 
+affirmative action by both parties.  The presence of such other duties does not, of itself, preclude issuance of an 
+injunction ordering forbearance only, but an injunction will not be issued if the performance of those other duties 
+cannot be secured.  See § 363.
+In the second type of case, the performance due under the contract consists of the doing of an act rather than 
+of forbearance, and the injunction is used as an indirect means of enforcing the duty to act.  See Paragraph 
+(2)(b).  Instead of ordering that the act be done, the court orders forbearance from inconsistent action.  This is 
+appropriate in situations where an injunction will afford a measure of relief and the duty to act would have been 
+specifically enforced were it not for some objection that can be avoided by ordering forbearance from 
+inconsistent action.  For example, the difficulties involved in supervising compliance with the order may be less 
+in the case of an injunction that in the case of specific performance.  See § 366.  An injunction will not be 
+issued, however, if the reason for refusing specific performance is not merely that the practical difficulties of 
+such relief are too great but that compelling performance of the duty is itself undesirable.  For example, an 
+injunction is not ordinarily appropriate as an indirect means of enforcing a duty to render personal service.  See 
+Comment c to § 367.
+### Illustrations
+
+§ 357 Availability of Specific Performance and Injunction
+1.  A contracts with B to give B the "first refusal" of A's house on stated terms.  A later offers to sell the house to 
+others without first offering it to B and B sues A to enjoin him from doing this.  An injunction may properly be 
+granted.
+2.  A, B and C form a partnership to practice veterinary medicine in a town for ten years.  In the partnership 
+agreement each makes an enforceable promise that if, on the termination of the partnership, the practice is 
+continued by the other two members, he will not practice veterinary medicine in the same town during its 
+continuance up to a maximum of three years.  See Illustration 11 to § 188.  A leaves the partnership and the 
+practice is continued by B and C.  A immediately threatens to begin the practice of veterinary medicine in the 
+same town, and B and C sue to enjoin A from doing so.  An injunction may properly be granted.
+3.  A, the owner of a large factory, contracts to take all of his requirements of electricity from B, who promises to 
+build a new electric plant at a place where it would not otherwise be profitable.  A repudiates the contract and B 
+sues A to enjoin him from using electricity that is not supplied by B.  An injunction may properly be granted.
+4.  A makes a contract with B under which A promises to sell exclusively B's dress patterns in A's stores for a 
+period of five years.  The contract provides details as to manner of exhibition and division of profits.  On 
+anticipatory repudiation of the contract by A, B sues A for specific performance of his duty to sell B's patterns 
+and to enjoin him from selling competing dress patterns.  Even if the court refuses specific performance on the 
+ground that enforcement and supervision would be too difficult (§ 366), it may properly grant an injunction.
+5.  A, a fruit growers' cooperative, contracts to sell to B, a fruit processor, 1,000 tons of loganberries a year for 
+five years.  In reliance on the contract, B substantially expands his plant and engages in an extensive 
+advertising campaign.  A then repudiates the contract.  The loss to B is difficult to estimate but will probably 
+exceed $ 500,000.  A's entire assets do not exceed $ 100,000.  B sues A for specific performance and to enjoin 
+A from selling loganberries to anyone other than B.  Even if the court refuses specific performance on the 
+ground that enforcement and supervision would be too difficult (§ 366), it may properly grant an injunction.
+c.  Discretionary nature of relief.  The granting of equitable relief has traditionally been regarded as within 
+judicial discretion.  The exercise of that discretion is subject to the rules stated in §§ 359-69.  It is also subject to 
+general principles of equity that are not peculiar to contract disputes, such as those that bar relief to one who 
+has been guilty of laches or who has come into court with unclean hands. Furthermore, it is subject to principles 
+of common sense so that, for example, a court will not order a performance that is impossible.  In granting 
+relief, as well as in denying it, a court may take into consideration the public interest.
+## Reporter'S Notes
+Subsection (1) is based on former § 359(1).  Subsection (2) is based on former § 380(1).  See 5A Corbin, 
+Contracts §§ 1136, 1205-07 (1964 & Supp. 1980); 11 Williston, Contracts §§ 1418, 1418B, 1425-25B, 1445 (3d 
+ed. 1968).
+Comment b.  Illustrations 1, 3 and 4 are based on Illustrations 1, 3 and 4 to former § 380.  Illustration 2 is based 
+on Bauer v. Sawyer, 8 Ill.2d 351, 134 N.E.2d 329 (1956); see also Illustration 7 to former § 380; Morgan's 
+Home Equip. Corp. v. Martucci, 390 Pa. 618, 136 A.2d 838 (1957). Illustration 5 is based on Illustration 4 to 
+former § 359.
+Comment c.  For a brief survey of when courts have granted specific performance, see First Nat'l State Bank v. 
+Commonwealth Fed. Sav. & Loan Ass'n, 455 F. Supp. 464 (D.N.J. 1978). The rule that a court will not order an 
+impossible performance is taken from former § 368.  As to the public interest, see Pennsylvania R.R. v. City of 
+Louisville, 277 Ky. 402, 126 S.W.2d 840 (1939); Schmidt v. Louisville & N.R. Co., 101 Ky. 441, 41 S.W. 1015 
+(1897).
+Cross Reference
+### ALR Annotations
+Specific performance of agreement to lend or borrow money.  82 A.L.R.3d 1116.
+Specific performance of agreement for sale of private franchise.  82 A.L.R.3d 1102.
+
+§ 357 Availability of Specific Performance and Injunction
+Construction and effect of tenure provisions of contract or statute governing employment of college or university 
+faculty member.  66 A.L.R.3d 1018.
+Enforceability, insofar as restrictions would be reasonable, of contract containing unreasonable restrictions on 
+competition.  61 A.L.R.3d 397.
+Specific performance of land contract notwithstanding failure of vendee to make required payments on time.  55 
+A.L.R.3d 10.
+Construction and operation of "Equal Opportunities Clause" requiring pledge against racial discrimination in 
+hiring under construction contract.  44 A.L.R.3d 1283.
+Specific performance of lease of, or binding option to lease, building or part of building to be constructed.  38 
+A.L.R.3d 1052.
+Comment Note. -- Contractual provision as to remedy as excluding other possible remedies.  84 A.L.R.2d 322.
+Specific performance of agreement, or provisions thereof, involving partnership at will.  70 A.L.R.2d 618.
+Uncertainty as to terms of mortgage or of accompanying note or bond contemplated by real-estate sales 
+contract as affecting right to specific performance.  60 A.L.R.2d 251.
+Specific performance of compromise and settlement agreement.  48 A.L.R.2d 1211.
+Specific performance of provisions of separation agreement other than those for support or alimony.  44 
+A.L.R.2d 1091.
+Parties to action for specific performance of contract for conveyance of realty after death of party to the 
+contract.  43 A.L.R.2d 938.
+Comment Note. -- Mutuality of remedy as essential to granting of specific performance.  22 A.L.R.2d 508.
+Enforceability as between the parties of agreement to purchase property at judicial or tax sale for their joint 
+benefit.  14 A.L.R.2d 1267.
+Change of conditions after execution of contract or option for sale of real property as affecting right to specific 
+performance.  11 A.L.R.2d 390.
+Option executed simultaneously with mortgage for purchase of mortgaged property by mortgagee as subject of 
+specific performance.  10 A.L.R.2d 231.
+Specific performance or injunctive relief against breach of contract, other than lease or agreement therefor, or 
+contract for services, terminable by one party but not the other.  8 A.L.R.2d 1208.
+Specific performance of contract for sale of real property as affected by provision making it conditional upon 
+purchaser's obtaining loan.  5 A.L.R.2d 287.
+### Digest System Key Numbers
+Injunctions 57-63
+Specific Performance 1 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

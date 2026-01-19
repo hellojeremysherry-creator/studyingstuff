@@ -1,0 +1,159 @@
+Restat 2d of Contracts, § 356
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 2- Enforcement by Award of Damages        
+§ 356 Liquidated Damages and Penalties
+(1) Damages for breach by either party may be liquidated in the agreement but only at an amount that is 
+reasonable in the light of the anticipated or actual loss caused by the breach and the difficulties of 
+proof of loss.  A term fixing unreasonably large liquidated damages is unenforceable on grounds of 
+public policy as a penalty.
+(2) A term in a bond providing for an amount of money as a penalty for non-occurrence of the condition 
+of the bond is unenforceable on grounds of public policy to the extent that the amount exceeds the loss 
+caused by such non-occurrence.
+## Comments & Illustrations
+### Comment
+a.  Liquidated damages or penalty.  The parties to a contract may effectively provide in advance the damages 
+that are to be payable in the event of breach as long as the provision does not disregard the principle of 
+compensation.  The enforcement of such provisions for liquidated damages saves the time of courts, juries, 
+parties and witnesses and reduces the expense of litigation.  This is especially important if the amount in 
+controversy is small.  However, the parties to a contract are not free to provide a penalty for its breach.  The 
+central objective behind the system of contract remedies is compensatory, not punitive.  Punishment of a 
+promisor for having broken his promise has no justification on either economic or other grounds and a term 
+providing such a penalty is unenforceable on grounds of public policy.  See Chapter 8.  The rest of the 
+agreement remains enforceable, however, under the rule stated in § 184(1), and the remedies for breach are 
+determined by the rules stated in this Chapter.  See Illustration 1.  A term that fixes an unreasonably small 
+amount as damages may be unenforceable as unconscionable.  See § 208.  As to the liquidation of damages 
+and modification or limitation of remedies in contracts of sale, see Uniform Commercial Code §§ 2-718, 2-719.
+b.  Test of penalty.  Under the test stated in Subsection (1), two factors combine in determining whether an 
+amount of money fixed as damages is so unreasonably large as to be a penalty.  The first factor is the 
+anticipated or actual loss caused by the breach.  The amount fixed is reasonable to the extent that it 
+approximates the actual loss that has resulted from the particular breach, even though it may not approximate 
+the loss that might have been anticipated under other possible breaches.  See Illustration 2.  Furthermore, the 
+amount fixed is reasonable to the extent that it approximates the loss anticipated at the time of the making of 
+the contract, even though it may not approximate the actual loss.  See Illustration 3.  The second factor is the 
+difficulty of proof of loss.  The greater the difficulty either of proving that loss has occurred or of establishing its 
+amount with the requisite certainty (see § 351), the easier it is to show that the amount fixed is reasonable.  To 
+the extent that there is uncertainty as to the harm, the estimate of the court or jury may not accord with the 
+principle of compensation any more than does the advance estimate of the parties.  A determination whether 
+the amount fixed is a penalty turns on a combination of these two factors.  If the difficulty of proof of loss is 
+great, considerable latitude is allowed in the approximation of anticipated or actual harm.  If, on the other hand, 
+the difficulty of proof of loss is slight, less latitude is allowed in that approximation.  If, to take an extreme case, 
+it is clear that no loss at all has occurred, a provision fixing a substantial sum as damages is unenforceable.  
+See Illustration 4.
+### Illustrations
+1.  A and B sign a written contract under which A is to act in a play produced by B for a ten week season for $ 
+4,000.  A term provides that "if either party shall fail to perform as agreed in any respect he will pay $ 10,000 as 
+
+§ 356 Liquidated Damages and Penalties
+liquidated damages and not as a penalty." A leaves the play before the last week to take another job.  The play 
+is sold out for that week and A is replaced by a suitable understudy.  The amount fixed is unreasonable in the 
+light of both the anticipated and the actual loss and, in spite of the use of the words "liquidated damages," the 
+term provides for a penalty and is unenforceable on grounds of public policy.  The rest of the agreement is 
+enforceable (§ 184(1)), and B's remedies for A's breach are governed by the rules stated in this Chapter.
+2.  A, B and C form a partnership to practice veterinary medicine in a town for ten years.  In the partnership 
+agreement, each promises that if, on the termination of the partnership, the practice is continued by the other 
+two members, he will not practice veterinary medicine in the same town during its continuance up to a 
+maximum of three years.  A term provides that for breach of this duty "he shall forfeit $ 50,000 to be collected 
+by the others as damages." A leaves the partnership, and the practice is continued by B and C.  A immediately 
+begins to practice veterinary medicine in the same town.  The loss actually caused to B and C is difficult of 
+proof and $ 50,000 is not an unreasonable estimate of it.  Even though $ 50,000 may be unreasonable in 
+relation to the loss that might have resulted in other circumstances, it is not unreasonable in relation to the 
+actual loss.  Therefore, the term does not provide for a penalty and its enforcement is not precluded on grounds 
+of public policy.  See Illustration 14 to § 188.
+3.  A contracts to build a grandstand for B's race track for $ 1,000,000 by a specified date and to pay $ 1,000 a 
+day for every day's delay in completing it.  A delays completion for ten days.  If $ 1,000 is not unreasonable in 
+the light of the anticipated loss and the actual loss to B is difficult to prove, A's promise is not a term providing 
+for a penalty and its enforcement is not precluded on grounds of public policy.
+4.  The facts being otherwise as stated in Illustration 3, B is delayed for a month in obtaining permission to 
+operate his race track so that it is certain that A's delay of ten days caused him no loss at all.  Since the actual 
+loss to B is not difficult to prove, A's promise is a term providing for a penalty and is unenforceable on grounds 
+of public policy.
+c.  Disguised penalties.  Under the rule stated in this Section, the validity of a term providing for damages 
+depends on the effect of that term as interpreted according to the rules stated in Chapter 9.  Neither the parties' 
+actual intention as to its validity nor their characterization of the term as one for liquidated damages or a penalty 
+is significant in determining whether the term is valid.  Sometimes parties attempt to disguise a provision for a 
+penalty by using language that purports to make payment of the amount an alternative performance under the 
+contract, that purports to offer a discount for prompt performance, or that purports to place a valuation on 
+property to be delivered.  Although the parties may in good faith contract for alternative performances and fix 
+discounts or valuations, a court will look to the substance of the agreement to determine whether this is the 
+case or whether the parties have attempted to disguise a provision for a penalty that is unenforceable under 
+this Section.  In determining whether a contract is one for alternative performances, the relative value of the 
+alternatives may be decisive.
+### Illustration
+5.  A contracts to build a house for B for $ 50,000 by a specified date or in the alternative to pay B $ 1,000 a 
+week during any period of delay.  A delays completion for ten days.  If $ 1,000 a week is unreasonable in the 
+light of both the anticipated and actual loss, A's promise to pay $ 1,000 a week is, in spite of its form, a term 
+providing for a penalty and is unenforceable on grounds of public policy.
+d.  Related types of provisions.  This Section does not purport to cover the wide variety of provisions used by 
+parties to control the remedies available to them for breach of contract.  A term that fixes as damages an 
+amount that is unreasonably small does not come within the rule stated in this Section, but a court may refuse 
+to enforce it as unconscionable under the rule stated in § 208.  A mere recital of the harm that may occur as a 
+result of a breach of contract does not come within the rule stated in this Section, but may increase damages by 
+making that harm foreseeable under the rule stated § 351.  As to the effect of a contract provision on the right 
+to equitable relief, see Comment a to § 359.  As to the effect of a term requiring the occurrence of a condition 
+where forfeiture would result, see § 229.  Although attorneys' fees are not generally awarded to the winning 
+party, if the parties provide for the award of such fees the court will award a sum that it considers to be 
+reasonable.  If, however, the parties specify the amount of such fees, the provision is subject to the test stated 
+in this Section.
+
+§ 356 Liquidated Damages and Penalties
+e.  Penalties in bonds.  Bonds often fix a flat sum as a penalty for non-occurrence of the condition of the bond.  
+A term providing for a penalty is not unenforceable in its entirety but only to the extent that it exceeds the loss 
+caused by the non-occurrence of the condition.
+### Illustration
+6.  A executes a bond obligating himself to pay B $ 10,000, on condition that the bond shall be void, however, if 
+C, who is B's cashier, shall properly account for all money entrusted to him.  C defaults to the extent of $ 500.  
+A's promise is unenforceable on grounds of public policy to the extent that it exceeds the actual loss, $ 500.
+## Reporter'S Notes
+This Section is based on former §§ 339 and 579, but Subsection (1) has been redrafted to harmonize with 
+Uniform Commercial Code § 2-718(1).  The Code's reference to "the inconvenience or nonfeasibility of 
+otherwise obtaining an adequate remedy" has been omitted as already being expressed by the language of 
+Subsection (1), as explained in the Comment.  See 5 Corbin, Contracts ch. 58 (1964 & Supp. 1980); 5 Williston, 
+Contracts §§ 776-89 (3d ed. 1961); Clarkson, Miller & Muris, Liquidated Damages v. Penalties: Sense or 
+Nonsense, 1978 Wis. L. Rev. 351; Goetz & Scott, Liquidated Damages, Penalties and the Just Compensation 
+Principle: Some Notes on an Enforcement Model and a Theory of Efficient Breach, 77 Colum. L. Rev. 554 
+(1977); Macneil, Power of Contract and Agreed Remedies, 47 Cornell L.Q. 495 (1962); Sweet, Liquidated 
+Damages in California, 60 Calif. L. Rev. 84 (1972); The [English] Law Commission, Penalty Clauses and 
+Forfeiture of Monies Paid (Law of Contract Working Paper No. 61, 1975).  Notes, 45 Fordham L. Rev. 1349 
+(1977); 72 Nw. U.L. Rev. 1055 (1978).
+Comment b.  Illustration 1 is based on Illustration 1 to former § 339; H.J. McGrath Co. v. Wisner, 189 Md. 260, 
+55 A.2d 793 (1947). Illustration 2 is based on Illustration 2 to former § 339; Jaquith v. Hudson, 5 Mich. 123 
+(1858). It is supported by 5 Corbin, Contracts § 1066 (1964 & Supp. 1980); McCormick, Damages § 151 
+(1935); and is consistent with the rationale behind § 184(2).  But cf.  Bauer v. Sawyer, 8 Ill.2d 351, 134 N.E.2d 
+329 (1956); Management, Inc. v. Schassberger, 39 Wash.2d 321, 235 P.2d 293 (1951). Illustration 3 is based 
+on Illustration 3 to former § 339; United States v. Bethlehem Steel Co., 205 U.S. 105 (1907); Banta v. Stamford 
+Motor Co., 89 Conn. 51, 92 A. 665 (1914); Dave Gustafson & Co. v. State, 83 S.D. 160, 156 N.W.2d 185 
+(1968). But cf.  Priebe & Sons v. United States, 332 U.S. 407 (1947); Hungerford Constr. Co. v. Florida Citrus 
+Exposition, Inc., 410 F.2d 1229 (5th Cir.), cert. denied, 396 U.S. 928 (1969). Illustration 4 is supported by 
+Massman Constr. Co. v. City Council of Greenville, Miss., 147 F.2d 925 (5th Cir. 1945); Northwest Fixture Co. 
+v. Kilbourne & Clark Co., 128 F. 256 (9th Cir. 1904); Norwalk Door Closer Co. v. Eagle Lock and Screw Co., 
+153 Conn. 681, 220 A.2d 263 (1966). It rejects the view of Illustration 7 to former § 339; Southwest Eng'r Co. v. 
+United States, 341 F.2d 998 (8th Cir.), cert. denied, 382 U.S. 819 (1965); McCarthy v. Tally, 46 Cal.2d 577, 297 
+P.2d 981 (1956); cf.  Bethlehem Steel Corp. v. Chicago, 350 F.2d 649 (7th Cir. 1965). That the difficulties of 
+proof of loss are to be determined at the time the contract is made, not at the time of the breach, see Hutchison 
+v. Tompkins, 259 So.2d 129 (Fla. 1972). As to whether the actual loss must be reasonably foreseeable, 
+compare comment, 45 Fordham L. Rev. 1349, 1357 (1977), with 1 N.Y.L. Rev'n Comm'n, Study of the Uniform 
+Commercial Code, Leg. Doc. (1955) No. 65, p. 581 n. 468.
+Comment c.  Illustration 5 is based on Illustration 5 to former § 339.
+Comment d.  Allowing attorneys' fees, see Puget Sound Mutual Sav. Bank v. Lillions, 50 Wash.2d 799, 314 
+P.2d 935 (1957), cert. denied, 357 U.S. 926 (1958). As to whether a specified sum as attorney's fees is a 
+penalty, see Equitable Lumber Corp. v. IPA Land Dev. Corp., 38 N.Y.2d 516, 381 N.Y.S.2d 459, 344 N.E.2d 
+391 (1976).
+Comment e.  Illustration 6 is based on Illustration 8 to former § 339.
+Cross Reference
+### ALR Annotations
+Damages for wrongful termination of automobile dealership contracts.  54 A.L.R.3d 324.
+Right and measure of recovery for breach of obligation to drill exploratory oil or gas wells.  4 A.L.R.3d 284.
+
+§ 356 Liquidated Damages and Penalties
+Measure of damages, to advertiser, for radio or television station's breach or wrongful termination of contract.  
+90 A.L.R.2d 1199.
+Liability of building or construction contractor for liquidated damages for breach of time limit provision where he 
+abandons work after time fixed for its completion.  42 A.L.R.2d 1134.
+Measure and items of compensation of contractor under cost-plus contract which is terminated, without breach, 
+before completion.  28 A.L.R.2d 867.
+Provision in land contract for forfeiture of payments as one for liquidated damages or penalty.  6 A.L.R.2d 1401.
+### Digest System Key Numbers
+Damages 74-86
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

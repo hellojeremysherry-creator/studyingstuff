@@ -1,0 +1,15 @@
+U.C.C. § 9-104
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 1. 
+GENERAL PROVISIONS  >  SUBPART 1. SHORT TITLE, DEFINITIONS, AND GENERAL CONCEPTS
+§ 9-104. CONTROL OF DEPOSIT ACCOUNT
+(a) [Requirements for control.]  A secured party has control of a deposit account if:
+(1)  the secured party is the bank with which the deposit account is maintained;
+(2)  the debtor, secured party, and bank have agreed in an authenticated record that the bank will 
+comply with instructions originated by the secured party directing disposition of the funds in the deposit 
+account without further consent by the debtor; or
+(3)  the secured party becomes the bank's customer with respect to the deposit account.
+(b) [Debtor's right to direct disposition.]  A secured party that has satisfied subsection (a) has control, 
+even if the debtor retains the right to direct the disposition of funds from the deposit account.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,32 @@
+## U.C.C. § 9-403
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 4. 
+## Rights Of Third Parties
+## § 9-403. Agreement Not To Assert Defenses Against Assignee
+(a) ["Value."]  In this section, "value" has the meaning provided in Section 3-303(a).
+(b) [Agreement not to assert claim or defense.]  Except as otherwise provided in this section, an 
+agreement between an account debtor and an assignor not to assert against an assignee any claim or 
+defense that the account debtor may have against the assignor is enforceable by an assignee that takes an 
+### assignment
+(1)  for value;
+(2)  in good faith;
+(3)  without notice of a claim of a property or possessory right to the property assigned; and
+(4)  without notice of a defense or claim in recoupment of the type that may be asserted against a 
+person entitled to enforce a negotiable instrument under Section 3-305(a).
+(c) [When subsection (b) not applicable.]  Subsection (b) does not apply to defenses of a type that may 
+be asserted against a holder in due course of a negotiable instrument under Section 3-305(b).
+(d) [Omission of required statement in consumer transaction.]  In a consumer transaction, if a record 
+evidences the account debtor's obligation, law other than this article requires that the record include a 
+statement to the effect that the rights of an assignee are subject to claims or defenses that the account 
+debtor could assert against the original obligee, and the record does not include such a statement:
+(1)  the record has the same effect as if the record included such a statement; and
+(2)  the account debtor may assert against an assignee those claims and defenses that would have 
+been available if the record included such a statement.
+(e) [Rule for individual under other law.]  This section is subject to law other than this article which 
+establishes a different rule for an account debtor who is an individual and who incurred the obligation 
+primarily for personal, family, or household purposes.
+(f) [Other law not displaced.]  Except as otherwise provided in subsection (d), this section does not 
+displace law other than this article which gives effect to an agreement by an account debtor not to assert a 
+claim or defense against an assignee.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

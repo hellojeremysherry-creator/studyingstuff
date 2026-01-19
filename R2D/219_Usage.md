@@ -1,0 +1,37 @@
+Restat 2d of Contracts, § 219
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 4- Scope as Affected by Usage        
+§ 219 Usage
+Usage is habitual or customary practice.
+## Comments & Illustrations
+### Comment
+a.  Scope of usage.  Although rules of law are often founded on usage, usage is not in itself a legal rule but 
+merely habit or practice in fact.  A particular usage may be more or less widespread.  It may prevail throughout 
+an area, and the area may be small or large -- a city, a state or a larger region.  A usage may prevail among all 
+people in the area, or only in a special trade or other group.  Usages change over time, and persons in close 
+association often develop temporary usages peculiar to themselves.
+b.  Usage of words.  A word usage exists when few or many people use a word or phrase to convey a standard 
+meaning or several standard meanings and develop a common understanding of the meaning or meanings.  
+Dictionaries record word usages which have achieved some generality, with varying degrees of completeness 
+and accuracy.  See § 201.
+## Reporter'S Notes
+This Section is based on former § 245.  See 3 Corbin, Contracts §§ 555-57 (1960 & Supp. 1980); 5 Williston, 
+Contracts § 649 (3d ed. 1961).
+Cross Reference
+### ALR Annotations
+Validity and construction of contract between hospital and physician providing for exclusive medical services.  
+74 A.L.R.3d 1268.
+Landlord and tenant: What amounts to "sale" of property for purposes of provision giving tenant right of first 
+refusal if landlord desires to sell.  70 A.L.R.3d 203.
+Construction and effect of tenure provisions of contract or statute governing employment of college or university 
+faculty member.  66 A.L.R.3d 1018.
+Who is "employee" under employee stock-option plan or contract.  57 A.L.R.3d 787.
+Sufficiency of contractual designation of place of performance to fix venue at that place, under statute 
+authorizing or requiring such venue.  97 A.L.R.2d 934.
+Construction and effect of provision in contract for sale of realty by which purchaser agrees to take property "as 
+is" or in the condition in which it is.  97 A.L.R.2d 849.
+### Digest System Key Numbers
+Customs and Usages 1
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

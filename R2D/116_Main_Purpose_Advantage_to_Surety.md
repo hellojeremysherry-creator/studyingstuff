@@ -1,0 +1,102 @@
+Restat 2d of Contracts, § 116
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 2- The Suretyship Provision        
+§ 116 Main Purpose; Advantage to Surety
+A contract that all or part of a duty of a third person to the promisee shall be satisfied is not within the 
+Statute of Frauds as a promise to answer for the duty of another if the consideration for the promise is 
+in fact or apparently desired by the promisor mainly for his own economic advantage, rather than in 
+order to benefit the third person.  If, however, the consideration is merely a premium for insurance, the 
+contract is within the Statute.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  This Section states what is often called the "main purpose" or "leading object" rule.  Where the 
+surety-promisor's main purpose is his own pecuniary or business advantage, the gratuitous or sentimental 
+element often present in suretyship is eliminated, the likelihood of disproportion in the values exchanged 
+between promisor and promisee is reduced, and the commercial context commonly provides evidentiary 
+safeguards.  Thus there is less need for cautionary or evidentiary formality than in other cases of suretyship.  
+The situation is comparable to a sale or purchase of a third person's obligation, which is also outside the 
+purposes of the suretyship provision of the Statute of Frauds.  See §§ 121, 122.  Historically, the rule could be 
+reconciled with the words of the Statute on the ground that a promisor who received a bargained-for benefit 
+could be sued in debt or indebitatus assumpsit; hence he promised to pay his own debt rather than the debt "of 
+another", and the promise was not "special" in the sense that special assumpsit was the only appropriate 
+remedy.  In modern times, however, the rule is applied in terms of its reason rather than to accord with 
+abandoned procedural categories.
+b.  Factors affecting application of the rule.  The fact that there is consideration for the surety's promise is 
+insufficient to bring the rule into play.  Slight and indirect possible advantage to the promisor is similarly 
+insufficient.  The expected advantage must be such as to justify the conclusion that his main purpose in making 
+the promise is to advance his own interests.  Facts such as the following tend to indicate such a main purpose 
+when there is an expected pecuniary or business advantage: prior default, inability or repudiation of the 
+principal obligor; forbearance of the creditor to enforce a lien on property in which the promisor has an interest 
+or which he intends to use; equivalence between the value of the benefit and the amount promised; lack of 
+participation by the principal obligor in the making of the surety's promise; a larger transaction to which the 
+suretyship is incidental.  The benefit may be supplied to the promisor by the promisee, by the principal obligor, 
+or by some other person; if it is substantial and meets the main purpose test it may come indirectly through 
+benefit to the principal obligor.
+### Illustrations
+1.  D owes C $ 1,000.  C is about to levy an attachment on D's factory.  S, who is a friend of D's desiring to 
+prevent his friend's financial ruin, orally promises C that if C will forbear to take legal proceedings against D for 
+three months S will pay D's debt if D fails to do so.  S has no purpose to benefit himself and C has no reason to 
+suppose so.  S's promise is not enforceable.
+2.  D owes C $ 1,000.  C is about to levy an attachment on D's factory.  S, who is also a creditor of D's, fearing 
+that the attachment will ruin D's business and thereby destroy his own chance of collecting his claim, orally 
+promises C that if C will forbear to take legal proceedings against D for three months, S will pay D's debt if D 
+fails to do so.  S's promise is enforceable.
+3.  D contracts with S to build a house for S.  C contracts with D to furnish materials for the purpose.  D, in 
+violation of his contract with C, fails to pay C for some of the materials furnished.  C justifiably refuses to furnish 
+
+§ 116 Main Purpose; Advantage to Surety
+further materials.  S orally promises C, that if C will continue to furnish D with materials that C had previously 
+agreed to furnish, S will pay the price not only for the materials already furnished but also for the remaining 
+materials if D fails to do so.  S's promise is enforceable.
+4.  C, a bank, discounts negotiable promissory notes of D, a corporation.  D becomes financially involved.  An 
+official bank examiner threatens to close the bank on account of the impairment of its assets because of the 
+loans to D.  S, a substantial shareholder of the bank, in consideration of forbearance by the examiner, orally 
+promises the bank that if D fails to pay the note, he will do so.  The promise of S is enforceable.
+c.  Insurance premiums.  The rule of this Section excludes from the main purpose rule contracts of guaranty 
+insurance whether making such contracts is or is not the promisor's regular business.  Promises of commercial 
+surety companies are practically always in writing.  See Restatement of Security § 82 Comment i, defining 
+"compensated surety." An isolated oral guaranty by an individual is within the reason of the Statute if a small 
+fee is paid for guaranty of a much larger debt.
+### Illustration
+5.  In consideration of a premium of $ 100, S guarantees C in an unsigned writing the fidelity of D, C's 
+employee, during D's term of employment.  The guaranty is not enforceable.
+## Reporter'S Notes
+This Section is based on former § 184, but the limitation in former § 184 to an antecedent duty of a third person 
+is eliminated.  See 3 Williston, Contracts §§ 470-76 (3d ed. 1960); 2 Corbin, Contracts §§ 366-83 (1950 & 
+Supps. 1971 & 1980); Morris, The Leading Purpose Doctrine as Applied to the Statute of Frauds, 62 W. Va. L. 
+Rev. 339 (1960). Annots., 99 A.L.R. 79 (1935), 144 A.L.R. 1110 (1943), 35 A.L.R.2d 906 (1954). Statutes in 
+several States codify an exception to the Statute of Frauds for promises made "upon a consideration beneficial 
+to the promisor, whether moving from either party to the antecedent obligation or from another person." Cal. 
+Civ. Code § 2794 (1974); Idaho Code § 9-506 (1979); Mont. Rev. Code Ann. tit. 30, § 105 (1961); N.D. Cent. 
+Code § 22-01-05 (1978); Okla. Stat. Ann. tit. 15, § 325 (1966); S.D. Code § 56-1-7 (1967); Utah Code Ann. § 
+25-5-6 (1976).
+Comment a.  See Cooper Petroleum Co. v. LaGloria Oil & Gas Co., 436 S.W.2d 889 (Tex. 1969); Jefferson-
+Travis, Inc. v. Giant Eagle Markets, 393 F.2d 426 (3d Cir. 1968).
+Comment b.  Illustrations 1-4 are based, respectively, on Illustrations 3, 2, 1 and 4 to former § 184.
+As to Illustration 1, compare Burlington Indus. v. Foil, 284 N.C. 740, 202 S.E.2d 591 (1974), 54 N.C. L. Rev. 
+117 (1976) (oral guaranty of corporate debt of $ 125,000 by one-sixth shareholder, director and officer with only 
+$ 750 investment in corporation held not within main purpose rule because benefit to him was too indirect) with 
+Farr & Stone Ins. Brokers, Inc. v. Lopez, 61 Cal. App.3d 618, 132 Cal. Rptr. 641 (1976) (guaranty of corporate 
+obligation by "elected chairman of the board" whose children were corporate officers with promised ownership if 
+corporation survived held within main purpose rule despite any apparent financial investment by either the 
+father or the children, because of father's concern for the welfare of his children and their economic venture, 
+and because his own business reputation was at stake).  Arguably, both these decisions are incorrect.
+As to Illustration 2, see Howard M. Schoor Assoc., Inc. v. Holmdel Heights Constr. Co., 68 N.J. 95, 343 A.2d 
+401 (1975); Kline v. Lightman, 243 Md. 460, 221 A.2d 675 (1966); cf.  Brock & Davis Co. v. Charleston Nat'l 
+Bank, 443 F. Supp. 1175 (S.D. W. Va. 1977) (applying the main purpose rule to § 6 of Lord Tenterden's Act).  
+Contrast Cooper Petroleum Co. v. LaGloria Oil & Gas Co., supra; Burlington Indus. v. Foil, supra; and Carrolton 
+Assoc. v. Abrams, 57 Misc.2d 617, 293 N.Y.S.2d 159 (Sup. Ct. 1968), in which the benefit to the guarantor was 
+found to be too remote to justify the main purpose rule.
+As to Illustration 3, see Mercantile Nat'l Bank v. Hudgens, 412 S.W.2d 364 (Tex. Civ. App. 1967), ref. n.r.e.
+Comment c.  Illustration 5 is based on Illustration 5 to former § 184.  Contrast Klag v. Home Ins. Co., 116 Ga. 
+App. 678,158 S.E.2d 444 (1967).
+Cross Reference
+### ALR Annotations
+Statute of frauds: promise by stockholder, officer, or director to pay debt of corporation.  35 A.L.R.2d 906.
+
+§ 116 Main Purpose; Advantage to Surety
+### Digest System Key Numbers
+Frauds, Statute of 33
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

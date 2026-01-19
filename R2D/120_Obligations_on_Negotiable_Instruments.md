@@ -1,0 +1,34 @@
+Restat 2d of Contracts, § 120
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 2- The Suretyship Provision        
+§ 120 Obligations on Negotiable Instruments
+(1)  An obligation on a negotiable instrument or a guaranty written on the instrument is not within the 
+Statute of Frauds.
+(2)  A promise to pay a negotiable instrument, made by a party to it who has been or may be discharged 
+by the holder's failure or delay in making presentment or giving notice of dishonor or in making protest, 
+is not within the Statute of Frauds.
+## Comments & Illustrations
+### Comment
+a.  Uniform Commercial Code.  Under Article 3 of the Uniform Commercial Code, the obligation of a party to a 
+negotiable instrument is required to be evidenced by his signature on the instrument.  See Uniform Commercial 
+Code §§ 3-104 (maker or drawer), 3-202 (indorser), 3-410 (acceptor).  A party who signs in any capacity for the 
+purpose of lending his name to another party is an "accommodation party" and a surety; he is liable in the 
+capacity in which he signs even though the taker knows of the suretyship.  See § 3-415.  A guaranty written on 
+the instrument is explicitly made enforceable "notwithstanding any statute of frauds," to make clear the 
+nonapplication of any requirement of "a writing which states the consideration for the promise." See § 3-416 
+and Comment.  Section 3-805 extends these rules to certain non-negotiable instruments, and they may also 
+apply to instruments not within the scope of Article 3.  See, e.g., § 8-105(1).  On the other hand, promises not 
+written on an instrument are left to general contract law and may be subject to the Statute of Frauds.  See §§ 1-
+103, 3-409 on obligation of drawee.
+b.  Waiver.  Subsection (2) deals with promises which are enforced as waivers.  Presentment, notice of 
+dishonor, or protest may be waived expressly or by implication, either before or after the instrument is due.  See 
+Uniform Commercial Code § 3-511.
+## Reporter'S Notes
+This Section is based on former § 188; see also Comment b to former § 181.  See 3 Williston, Contracts § 458 
+(3d ed. 1960); 2 Corbin, Contracts § 492 (1950).
+Cross Reference
+### Digest System Key Numbers
+Frauds, Statute of 27, 28
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

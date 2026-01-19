@@ -1,0 +1,14 @@
+## U.C.C. § 3-403
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 4. 
+## Liability Of Parties
+## § 3-403. Unauthorized Signature
+(a)  Unless otherwise provided in this Article or Article 4, an unauthorized signature is ineffective except as 
+the signature of the unauthorized signer in favor of a person who in good faith pays the instrument or takes 
+it for value. An unauthorized signature may be ratified for all purposes of this Article.
+(b)  If the signature of more than one person is required to constitute the authorized signature of an 
+organization, the signature of the organization is unauthorized if one of the required signatures is lacking.
+(c)  The civil or criminal liability of a person who makes an unauthorized signature is not affected by any 
+provision of this Article which makes the unauthorized signature effective for the purposes of this Article.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

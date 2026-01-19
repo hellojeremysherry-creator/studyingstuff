@@ -1,0 +1,12 @@
+## U.C.C. § 8-305
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 8. INVESTMENT SECURITIES  >  PART 3. 
+## Transfer Of Certificated And Uncertificated Securities
+## § 8-305. Instruction
+(a)  If an instruction has been originated by an appropriate person but is incomplete in any other respect, 
+any person may complete it as authorized and the issuer may rely on it as completed, even though it has 
+been completed incorrectly.
+(b)  Unless otherwise agreed, a person initiating an instruction assumes only the obligations imposed by 
+Section 8-108 and not an obligation that the security will be honored by the issuer.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

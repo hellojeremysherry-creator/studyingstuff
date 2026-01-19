@@ -1,0 +1,8 @@
+## U.C.C. § 2-101
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 1. SHORT TITLE, GENERAL 
+## Construction And Subject Matter
+§ 2-101. Short Title.
+This Article shall be known and may be cited as Uniform Commercial Code-Sales.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

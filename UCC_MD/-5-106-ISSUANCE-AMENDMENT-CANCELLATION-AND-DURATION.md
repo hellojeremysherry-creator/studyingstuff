@@ -1,0 +1,17 @@
+## U.C.C. § 5-106
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 5. LETTERS OF CREDIT
+## § 5-106. Issuance, Amendment, Cancellation, And Duration
+(a)  A letter of credit is issued and becomes enforceable according to its terms against the issuer when the 
+issuer sends or otherwise transmits it to the person requested to advise or to the beneficiary. A letter of 
+credit is revocable only if it so provides.
+(b)  After a letter of credit is issued, rights and obligations of a beneficiary, applicant, confirmer, and issuer 
+are not affected by an amendment or cancellation to which that person has not consented except to the 
+extent the letter of credit provides that it is revocable or that the issuer may amend or cancel the letter of 
+credit without that consent.
+(c)  If there is no stated expiration date or other provision that determines its duration, a letter of credit 
+expires one year after its stated date of issuance or, if none is stated, after the date on which it is issued.
+(d)  A letter of credit that states that it is perpetual expires five years after its stated date of issuance, or if 
+none is stated, after the date on which it is issued.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,131 @@
+Restat 2d of Contracts, § 229
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 5- Conditions and Similar Events        
+§ 229 Excuse of a Condition to Avoid Forfeiture
+To the extent that the non-occurrence of a condition would cause disproportionate forfeiture, a court 
+may excuse the non-occurrence of that condition unless its occurrence was a material part of the 
+agreed exchange.
+## Comments & Illustrations
+### Comment
+a.  Relation to other rules.  As is pointed out in Comment b to § 227, the non-occurrence of a condition of the 
+obligor's duty may result in forfeiture by the obligee.  Forfeiture may sometimes be avoided by application of the 
+general rules of interpretation stated in the present Chapter, such as the rule on interpretation against the 
+draftsman (§ 206).  It may sometimes be avoided by application of the special rules on interpretation stated in 
+the present Topic with regard to conditions (§§ 227(1), 228).  But if the term that requires the occurrence of the 
+event as a condition is expressed in unmistakable language, the possibility of forfeiture will not affect the 
+interpretation of that language.  See Comment b to § 227.  Nevertheless, forfeiture may sometimes still be 
+avoided by application of the rules on excuse of conditions.  See Comment b to § 225.  Under the present 
+Section a court may, in appropriate circumstances, excuse the non-occurrence of a condition solely on the 
+basis of the forfeiture that would otherwise result.  Although both this Section and § 208, on unconscionable 
+contract or term, limit freedom of contract, they are designed to reach different types of situations.  While § 208 
+speaks of unconscionability "at the time the contract is made," this Section is concerned with forfeiture that 
+would actually result if the condition were not excused.  It is intended to deal with a term that does not appear to 
+be unconscionable at the time the contract is made but that would, because of ensuing events, cause forfeiture.
+b.  Disproportionate forfeiture.  The rule stated in the present Section is, of necessity, a flexible one, and its 
+application is within the sound discretion of the court.  Here, as in § 227(1), "forfeiture" is used to refer to the 
+denial of compensation that results when the obligee loses his right to the agreed exchange after he has relied 
+substantially, as by preparation or performance on the expectation of that exchange.  See Comment b to § 227.  
+The extent of the forfeiture in any particular case will depend on the extent of that denial of compensation.  In 
+determining whether the forfeiture is "disproportionate," a court must weigh the extent of the forfeiture by the 
+obligee against the importance to the obligor of the risk from which he sought to be protected and the degree to 
+which that protection will be lost if the non-occurrence of the condition is excused to the extent required to 
+prevent forfeiture.  The character of the agreement may, as in the case of insurance agreements, affect the 
+rigor with which the requirement is applied.
+### Illustrations
+1.  A contracts to build a house for B, using pipe of Reading manufacture.  In return, B agrees to pay $ 75,000 
+in progress payments, each payment to be made "on condition that no pipe other than that of Reading 
+manufacture has been used." Without A's knowledge, a subcontractor mistakenly uses pipe of Cohoes 
+manufacture which is identical in quality and is distinguishable only by the name of the manufacturer which is 
+stamped on it.  The mistake is not discovered until the house is completed, when replacement of the pipe will 
+require destruction of substantial parts of the house.  B refuses to pay the unpaid balance of $ 10,000.  A court 
+may conclude that the use of Reading rather than Cohoes pipe is so relatively unimportant to B that the 
+forfeiture that would result from denying A the entire balance would be disproportionate, and may allow 
+recovery by A subject to any claim for damages for A's breach of his duty to use Reading pipe.
+2.  A, an ocean carrier, carries B's goods under a contract providing that it is a condition of A's liability for 
+damage to cargo that "written notice of claim for loss or damage must be given within 10 days after removal of 
+
+§ 229 Excuse of a Condition to Avoid Forfeiture
+goods." B's cargo is damaged during carriage and A knows of this.  On removal of the goods, B notes in writing 
+on the delivery record that the cargo is damaged, and five days later informs A over the telephone of a claim for 
+that damage and invites A to participate in an inspection within the ten day period.A inspects the goods within 
+the period, but B does not give written notice of its claim until 25 days after removal of the goods.  Since the 
+purpose of requiring the condition of written notice is to alert the carrier and enable it to make a prompt 
+investigation, and since this purpose had been served by the written notice of damage and the oral notice of 
+claim, the court may excuse the non-occurrence of the condition to the extent required to allow recovery by B.
+c.  Limitation on scope.  The rule of this Section applies only where occurrence of the condition was not a 
+material part of the agreed exchange.  These are situations where, under § 84, the non-occurrence of the 
+condition could have been excused by a promise to perform the duty in spite of its non-occurrence.  It is not 
+enough that the actual non-occurrence happened to involve a departure that was not a material part of the 
+agreed exchange, if the occurrence of the condition was a material part of that exchange.  A court may, of 
+course, ignore trifling departures.
+A court need not excuse entirely the non-occurrence of the condition, but may merely excuse its non-
+occurrence during the period of time in which it would otherwise have to occur (see Comment c to § 225), if it 
+concludes that the time of its occurrence is not a material part of the agreed exchange.  This conclusion is 
+sometimes summed up by the phrase that "time is not of the essence."
+### Illustrations
+3.  A contracts to make repairs on B's house, in return for which B agrees to pay $ 10,000 "on condition that the 
+repairs are completed by October 1." The repairs are not completed until October 2.  A court may decide that 
+there are two cumulative conditions, repair of the house and completion of the repairs by October 1, and that 
+the non-occurrence of the second condition is excused to the extent of one day.
+4.  On July 1, A makes an option contract with B, under which B has the right to buy land for $ 200,000, on 
+condition that he exercise it no later than June 30 five years later.  B makes an initial payment of $ 10,000 and 
+agrees to make additional $ 10,000 payments on or before June 30 of each of the four succeeding years, 
+unless he has already exercised the option, his right being "conditional on his paying the $ 10,000 on or before 
+the prescribed date." These payments are not to be applied to the purchase price.  After paying for two years 
+and building on adjacent land, substantially increasing the value of the land subject to the option, B mails a $ 
+10,000 check for the third year on June 30.  A receives it on July 1 and returns it to B, stating that the option 
+contract is cancelled.  A court may decide that there are two cumulative conditions, payment of $ 10,000 and 
+payment on or before June 30, and that the non-occurrence of the second condition is excused to the extent of 
+one day.
+5.  The facts being otherwise as in Illustration 4, B makes the payments on June 30 of each of the four 
+succeeding years, but does not exercise the option by tendering the $ 200,000 until July 1, following the June 
+30 expiration date.  Even if a court decides that there are two cumulative conditions, payment of $ 200,000 and 
+payment on or before June 30, it may not decide that the non-occurrence of the second condition is excused to 
+the extent of one day because that would give B a more extensive option than that on which the parties agreed.
+## Reporter'S Notes
+This Section is based on former § 302.  See 5 Williston, Contracts §§ 769-811 (3d ed. 1961); 3A Corbin, 
+Contracts § 754 (1960 & Supp. 1980); Childres, Conditions in the Law of Contracts, 45 N.Y.U. L. Rev. 33 
+(1970).
+Comment a.  For an excellent discussion of the principle on which this Section is based, see Burger King Corp. 
+v. Family Dining, Inc., 426 F. Supp. 485 (E.D. Pa.), aff'd mem., 566 F.2d 1168 (3d Cir. 1977). For examples of 
+courts avoiding forfeiture by construing provisions to create duties rather than to condition the other party's 
+duties, see, in addition to the Reporter's Notes to § 227, Schwartz-Jordan, Inc. v. Delisle Constr. Co., 569 
+S.W.2d 878 (Tex. 1978); and Carter v. Sherburne Corp., 132 Vt. 88, 315 A.2d 870 (1974). In Mackie v. State 
+Farm Mut. Auto. Ins. Co., 13 Mich. App. 556, 164 N.W.2d 777 (1968), involving a condition that was 
+unenforceable as against public policy, the court tortured a clearly conditional provision into what it termed a 
+"condition subsequent" to the vesting of the plaintiff's right (cf. § 230).  It then declared the "condition 
+subsequent" void and held that the already vested right was undisturbed by the failure of the subsequent event 
+
+§ 229 Excuse of a Condition to Avoid Forfeiture
+to happen.  A better approach would have been either to excuse the condition on grounds of public policy (§ 
+185) or to apply the rule of this Section.
+Comment b.  Illustration 1 is suggested by Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239, 129 N.E. 889 (1921). 
+Compare Della Ratta, Inc. v. American Better Comm. Devs., 38 Md. App. 119, 380 A.2d 627 (1977). Illustration 
+2 is based on Delaware Steel Co. v. Calmar Steamship Corp., 378 F.2d 386 (3d Cir. 1967).
+Comment c.  When an obligee has acquiesced in an obligor's failure strictly to adhere to a timetable of payment 
+or performance, courts often are inhospitable to the obligee's sudden invocation of forfeiture provisions.  The 
+courts may find a "waiver" -- an implicit subsequent agreement modifying the requirement of strictly timely 
+payment or performance (see §§ 84, 89, 90, 278-80); it may find the obligee's acquiescence evidence that time 
+was not of the essence; or it may treat the obligee's acquiescence as a factor, which because it induced 
+reliance, triggers the court's power of equity.  See, e.g., Fritts v. Cloud Oak Flooring Co., 478 S.W.2d 8 (Mo. Ct. 
+App. 1972) ("waiver" despite contractual provision providing that failure to insist on strict compliance was not to 
+be deemed a waiver; court found an implicit modification of the provision); Burger King Corp. v. Family Dining, 
+Inc., 426 F. Supp. 485 (E.D. Pa.), aff'd mem., 566 F.2d 1168 (3d Cir. 1977) (court found that timely 
+performance was not of the essence and that obligor had induced obligee's reliance); Williamson v. Wanlass, 
+545 P.2d 1145 (Utah 1976) (court found that obligor had induced obligee's reliance, and suggested that 
+obligee's subsequent conduct showed that strict compliance was not of the essence); Franklin E. Penny Co. v. 
+United States, 207 Ct. Cl. 842, 524 F.2d 668 (1975) (time not ordinarily of the essence).  Each of these cases 
+also discussed the reluctance of courts to permit forfeitures.  Illustration 3 is based on Illustration 1 to former § 
+302.  See also Hegeberg v. New England Fish Co., 7 Wash.2d 509, 110 P.2d 182 (1941). Illustration 4 is based 
+on Holiday Inns of America, Inc. v. Knight, 70 Cal.2d 327, 74 Cal. Rptr. 722, 450 P.2d 42 (1969). See also 
+Williamson v. Wanlass, supra; Fritts v. Cloud Oak Flooring Co., supra; Elliott v. Snyder, 246 S.C. 186, 143 
+S.E.2d 374 (1965) (check drawn against uncollected funds).  Illustration 5 is suggested by Holiday Inns of 
+America, Inc. v. Knight, supra. See also Cummings v. Bullock, 367 F.2d 182 (9th Cir. 1966). But cf.  Sy Jack 
+Realty Co. v. Pergament Syosset Corp., 27 N.Y.2d 449, 318 N.Y.S.2d 720, 267 N.E.2d 462 (1971) (notice lost 
+in mail).
+Cross Reference
+### Digest System Key Numbers
+Contracts 278(1), 303
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

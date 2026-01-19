@@ -1,0 +1,10 @@
+## U.C.C. § 9-107
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 1. 
+## General Provisions  >  Subpart 1. Short Title, Definitions, And General Concepts
+## § 9-107. Control Of Letter-Of-Credit Right
+ A secured party has control of a letter-of-credit right to the extent of any right to payment or performance by the 
+issuer or any nominated person if the issuer or nominated person has consented to an assignment of proceeds of 
+the letter of credit under Section 5-114(c) or otherwise applicable law or practice.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

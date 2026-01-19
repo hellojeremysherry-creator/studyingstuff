@@ -1,0 +1,17 @@
+## U.C.C. § 4-209
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4. BANK DEPOSIT  >  PART 2. COLLECTION OF 
+## Items: Depositary And Collecting Banks
+## § 4-209. Encoding And Retention Warranties
+(a)  A person who encodes information on or with respect to an item after issue warrants to any subsequent 
+collecting bank and to the payor bank or other payor that the information is correctly encoded. If the 
+customer of a depositary bank encodes, that bank also makes the warranty.
+(b)  A person who undertakes to retain an item pursuant to an agreement for electronic presentment 
+warrants to any subsequent collecting bank and to the payor bank or other payor that retention and 
+presentment of the item comply with the agreement. If a customer of a depositary bank undertakes to retain 
+an item, that bank also makes this warranty.
+(c)  A person to whom warranties are made under this section and who took the item in good faith may 
+recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a 
+result of the breach, plus expenses and loss of interest incurred as a result of the breach.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

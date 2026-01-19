@@ -1,0 +1,122 @@
+Restat 2d of Contracts, § 294
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 1- Joint and Several Promisors        
+§ 294 Effect of Discharge on Co-Promisors
+(1)  Except as stated in § 295, where the obligee of promises of the same performance discharges one 
+promisor by release, rescission or accord and satisfaction,
+(a)  co-promisors who are bound only by a joint duty are discharged unless the discharged promisor is 
+a surety for the co-promisor;
+(b)  co-promisors who are bound by joint and several duties or by several duties are not discharged 
+except to the extent required by the law of suretyship.
+(2)  By statute in many states a discharge of one promisor does not discharge other promisors of the 
+same performance except to the extent required by the law of suretyship.
+(3)  Any consideration received by the obligee for discharge of one promisor discharges the duty of 
+each other promisor of the same performance to the extent of the amount or value received.  An 
+agreement to the contrary is not effective unless it is made with a surety and expressly preserves the 
+duty of his principal.
+## Comments & Illustrations
+### Comment
+a.  The common-law rule.  The English rule that release of one joint obligor releases all was applied to joint and 
+several obligations as well as joint obligations, and to tort as well as contract obligations.  See Restatement, 
+Second, Torts § 885.  Historically the rule rested on the unitary character of the obligee's right and possibly on 
+the principle that a deed is construed against the grantor.  It has been suggested that a contrary rule might 
+permit the obligee to obtain more than just compensation, and that the legitimate expectations of the released 
+obligor might be frustrated by claims of co-obligors for contribution.  None of these considerations justifies the 
+rule, however, and it has often been denounced as anomalous and unjust.  It has long been possible to avoid it 
+by use of the form of a contract not to sue.  See § 295(1).  Modern decisions have converted it from a rule 
+defeating intention to a rule of presumptive intention: where an intention contrary to the rule of Subsection (1)(a) 
+is manifested, the purported release or other discharge has the effect of a contract not to sue.  See § 295(2).
+b.  Discharge of a surety.  Where the released promisor is surety for a co-promisor, the co-promisor is 
+adequately protected against double recovery by the rule of Subsection (3), since the surety loses his right to 
+reimbursement to the extent that he agrees that consideration given by him is not credited to the principal.  
+There is no danger of indirect attack on the surety, since the principal has no right to contribution from the 
+surety.  Thus the only basis for discharge of the co-promisor is the unitary character of the obligation.  The 
+obsolescence of that concept has therefore led to the exception stated in Subsection (1)(a).
+c.  Joint and several promises.  Where the English view is followed, joint and several promisors have the benefit 
+of the rule stated in Subsection (1)(a) for joint promisors.  Statutes converting joint obligations into joint and 
+several obligations do not, in this view, affect the rule on releases.  See Introductory Note to this Chapter.  But 
+the English view is out of harmony with the rule stated in § 292(1) as to the effect of a judgment against one 
+joint and several obligor, and is not supported either by logic or by convenience.  Subsection (1)(b) therefore 
+rejects the English view and follows the contrary authorities and the analogy of the rule governing judgments.
+d.  Suretyship defenses.  Where a promisee knows that a promisor is surety for a co-promisor, release of the 
+principal discharges the surety unless the surety consents or the promisee reserves his rights against the 
+
+§ 294 Effect of Discharge on Co-Promisors
+surety.  Restatement of Security § 122.  In modern times similar rules have been applied to agreements 
+between the promisee and the principal modifying their contract, including agreements to extend the time of 
+payment.  See Restatement of Security §§ 128, 129; Uniform Commercial Code §§ 3-415, 3-606.  These rules 
+of suretyship developed independently of the rules for joint obligations; they are beyond the scope of this 
+Restatement.
+e.  Statutes.  The Model Joint Obligations Act provides explicitly in § 4 that a release of one co-obligor does not 
+discharge others if there is an express reservation of the obligee's rights.  In the absence of a reservation of 
+rights, § 5 provides that an obligee's claim is satisfied to the extent that he knows that a released obligor paid 
+less than he was bound to pay by his contract or relation with the co-obligor, or in the absence of such 
+knowledge to the lesser extent of the fractional share of the released obligor.  Compare Restatement of 
+Security §§ 114, 122.  Other statutes vary in clarity and in their terms, but substantially similar rules seem to 
+have been adopted by statute or decision in about half the states.  See Introductory Note to this Chapter.
+f.  Consideration for discharge.  If the circumstances are such that a co-promisor is not discharged under the 
+rules stated in Subsections (1) and (2), he is nevertheless entitled to the benefit of consideration received by 
+the obligee as stated in Subsection (3).  This pro tanto discharge relates only to the co-promisor's duty to the 
+obligee; it does not affect any right the promisor giving the consideration may have as a surety, whether by way 
+of indemnity or contribution or subrogation.  The co-promisor is not deprived of the right to the pro tanto 
+discharge by an agreement to which he is not a party except in the suretyship cases mentioned below.
+g.  Settlement with a surety.  Under Subsection (1) discharge of a surety does not discharge a co-promisor who 
+is the principal obligor.  In the absence of a contrary agreement, the principal must be credited with any 
+consideration received from the surety.  But the surety is entitled to reimbursement from the principal, and upon 
+full satisfaction of the obligation he is subrogated to the obligee's rights against the principal to secure his right 
+to reimbursement.  See Restatement of Security §§ 104, 141.  If the surety buys his peace by paying the 
+obligee under an agreement that the payment is not to be credited on the obligation, he has no right to 
+reimbursement from the principal and violates no duty to him.  The agreement is therefore effective.  See Model 
+Joint Obligations Act § 3.  The payment either has the effect of an assignment to the obligee of the surety's right 
+to reimbursement or enlists the obligee's cooperation in securing reimbursement.
+### Illustrations
+1.  A as principal and B as surety owe C $ 100 for money lent to A.  B pays C $ 25 for a contract not to sue B, 
+under an agreement that the payment is not to be deducted from the amount of the debt.  C may enforce the 
+full claim for $ 100 against A.  Unless otherwise agreed, B is entitled to any amount over $ 75 which C receives 
+from A.
+2.  A and B owe C $ 100 for money lent for their common benefit in equal shares.  B pays C $ 75 for a contract 
+not to sue B, under an agreement that only $ 50 is to be deducted from the amount of the debt.  C may enforce 
+the claim for $ 50 against A.  Unless otherwise agreed, B is entitled to any amount over $ 25 which C receives 
+from A.
+## Reporter'S Notes
+This Section consolidates former §§ 120(3), 121(1) and 123.  The rule of former § 121(1), as revised in 
+Subsection (1)(a), is newly qualified by reference to contrary intention and to discharge of a surety.  Subsection 
+(2), referring to statutory change, is new.  Subsection (3), unlike former § 120(3), denies the effectiveness of 
+contrary agreements except where the party giving the consideration is a surety.  Former § 121(2) is transferred 
+to § 295.
+See Williams, Joint Obligations §§ 50, 55-60, 63-64 (1949); 2 Williston, Contracts §§ 333-35, 339 (3d ed. 1959); 
+4 Corbin, Contracts §§ 931, 935-37 (1951 & Supp. 1980); Havighurst, The Effect of a Settlement with One Co-
+Obligor upon the Obligations of the Others, 45 Cornell L.Q. 1 (1959); Annot., 53 A.L.R. 1420 (1928). As to 
+release of tortfeasors, see Annot., 73 A.L.R.2d 403 (1960).
+Comment c.  See Misco Leasing, Inc. v. Bush, 208 Kan. 45, 490 P.2d 367 (1971). The rule of Subsection (1)(b) 
+was stated in former § 123 in the form that discharge of one joint and several promisor does not discharge the 
+several duties of co-promisors.  That statement was followed in Singer v. Ritter, 167 Pa. Super. Ct. 154, 74 
+A.2d 520 (1950). See also Snyder v. Miller, 216 Ind. 143, 22 N.E.2d 985 (1939); Federal Land Bank v. 
+Christiansen, 230 Iowa 537, 298 N.W. 641 (1941); Bell v. Sundheim, 40 Pa. D. & C. 380 (1941).
+
+§ 294 Effect of Discharge on Co-Promisors
+Comment e.  See Melo v. National Fuse and Powder Co., 267 F. Supp. 611 (D. Colo. 1967), discussing the 
+abrogation of the common law rule, and applying § 4 of the Model Joint Obligations Act.  See also Annot., 73 
+A.L.R.2d 403 (1960). The statutes in California, North Dakota and South Dakota do not apply where the co-
+obligor of the released obligor is a "mere guarantor." The statutes in Colorado, Kansas, Minnesota, Montana, 
+New Jersey, Pennsylvania, Rhode Island, South Carolina and Vermont provide for complete release of the 
+"proportionate share" of the released obligor, the "proportionate amount" owed by him, his "ratable portion," or 
+the like.  In Texas the rule of Subsection (1)(a) was abrogated by decision, without explicit statute.  The statutes 
+are cited in the Introductory Note to this Chapter.
+Comment f.  On the co-promisor's right to the benefit of the consideration received by the obligor, see Misco 
+Leasing, Inc. v. Bush, 208 Kan. 45, 490 P.2d 367 (1971). On a co-guarantor's right to "exoneration" by his co-
+guarantors, see D'Ippolito v. Castoro, 51 N.J. 584, 242 A.2d 617 (1968).
+Comment g.  The validity of an agreement that a payment by a surety shall not diminish the obligation of the 
+principal is supported by 2 Williston, Contracts § 332 n. 6 (3d ed. 1959), and 4 Corbin, Contracts § 935 n. 24 
+(1951).  The authorities cited to sustain similar agreements with nonsureties in 2 Williston, Contracts § 341 nn. 
+12, 13, involve tort actions and are contrary to Restatement, Second, Torts § 885.  Compare 4 Corbin, 
+Contracts § 936 n. 27.  Illustrations 1 and 2 are based on In re Kimbrough-Veasey Co., 292 F. 757 (N.D. Ga. 
+1923); compare Bolton v. Ziegler, 111 F. Supp. 516 (N.D. Iowa 1953), denying effect to a "loan receipt" in a tort 
+case because of state policy against contribution.  See also M. Zerman Realty Corp. v. Borough of Westwood, 
+64 N.J. 590, 319 A.2d 441 (1974).
+Cross Reference
+### Digest System Key Numbers
+Release 28
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

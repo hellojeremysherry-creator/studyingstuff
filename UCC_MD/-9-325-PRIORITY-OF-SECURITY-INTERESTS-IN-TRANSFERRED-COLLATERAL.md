@@ -1,0 +1,19 @@
+## U.C.C. § 9-325
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+## Perfection And Priority  >  Subpart 3. Priority
+## § 9-325. Priority Of Security Interests In Transferred
+## Collateral
+(a) [Subordination of security interest in transferred collateral.]  Except as otherwise provided in 
+subsection (b), a security interest created by a debtor is subordinate to a security interest in the same 
+### collateral created by another person if
+(1)  the debtor acquired the collateral subject to the security interest created by the other person;
+(2)  the security interest created by the other person was perfected when the debtor acquired the 
+collateral; and
+(3)  there is no period thereafter when the security interest is unperfected.
+(b) [Limitation of subsection (a) subordination.]  Subsection (a) subordinates a security interest only if 
+### the security interest
+(1)  otherwise would have priority solely under Section 9-322(a) or 9-324; or
+(2)  arose solely under Section 2-711(3) or 2A-508(5).
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

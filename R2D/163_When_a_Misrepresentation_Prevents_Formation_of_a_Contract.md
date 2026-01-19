@@ -1,0 +1,73 @@
+Restat 2d of Contracts, § 163
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 163 When a Misrepresentation Prevents Formation of a Contract
+If a misrepresentation as to the character or essential terms of a proposed contract induces conduct 
+that appears to be a manifestation of assent by one who neither knows nor has reasonable opportunity 
+to know of the character or essential terms of the proposed contract, his conduct is not effective as a 
+manifestation of assent.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Under the general principle stated in § 19(2), a party's conduct is not effective as a manifestation 
+of his assent unless he knows or has reason to know that the other party may infer from it that he assents.  This 
+Section involves an application of that principle where a misrepresentation goes to what is sometimes calledthe 
+"factum" or the "execution" rather than merely the "inducement." If, because of a misrepresentation as to the 
+character or essential terms of a proposed contract, a party does not know or have reasonable opportunity to 
+know of its character or essential terms, then he neither knows nor has reason to know that the other party may 
+infer from his conduct that he assents to that contract.  In such a case there is no effective manifestation of 
+assent and no contract at all.  Compare § 174.  This result only follows, however, if the misrepresentation 
+relates to the very nature of the proposed contract itself and not merely to one of its nonessential terms.  The 
+party may believe that he is not assenting to any contract or that he is assenting to a contract entirely different 
+from the proposed contract.  The mere fact that a party is deceived as to the identity of the other party, as when 
+a buyer of goods obtains credit by impersonating a person of means, does not bring the case within the present 
+Section, unless it affects the very nature of the contract.  See Uniform Commercial Code § 2-403(1)(a).  It is 
+immaterial under the rule stated in this Section whether the misrepresentation is made by a party to the 
+transaction or by a third person.  See Comment e to § 164.
+### Illustration
+1.  A, seeking to induce B to make a contract to sell him goods on credit, tells B that he is C, a well-known 
+millionaire.  B is induced by the statement to make the proposed contract with A.  B's apparent manifestation of 
+assent is effective.  However, the contract is voidable by B under the rule stated in § 164(1).  Contrast 
+Illustrations 2 and 4.
+b.  Effect of fault.  If the recipient had a reasonable opportunity to know the character or essential terms of the 
+proposed contract, the rule stated in this Section does not apply, and his conduct is effective as a manifestation 
+of assent.  Compare § 172.  The case then comes within § 164 on avoidance or § 166 on reformation.  In 
+deciding whether the recipient has had such an opportunity, less care will ordinarily be expected of him if he did 
+not intend to assume a legal obligation at all than if he intended to assume a legal obligation, although one of a 
+different nature.
+### Illustrations
+2.  A and B reach an understanding that they will execute a written contract containing terms on which they 
+have agreed.  It is properly prepared and is read by B, but A substitutes a writing containing essential terms that 
+are different from those agreed upon and thereby induces B to sign it in the belief that it is the one he has read.  
+B's apparent manifestation of assent is not effective.
+3.  A and B reach an understanding that they will execute a written contract containing terms on which they 
+have agreed.  A prepares a writing containing essential terms that are different from those agreed upon and 
+induces B to sign it by telling him that it contains the terms agreed upon and that it is not necessary for him to 
+read it.  B's apparent manifestation of assent is effective if B had a reasonable opportunity to read the writing.  
+
+§ 163 When a Misrepresentation Prevents Formation of a Contract
+However, the contract is voidable by B under the rule stated in § 164.  See Illustration 3 to § 164.  In the 
+alternative, at the request of B, the court will decree that the writing be reformed to conform to their 
+understanding under the rule stated in § 166.  See Illustration 1 to § 166.
+4.  The facts being otherwise as stated in Illustration 3, B is blind and gets C to read the writing to him, but C, in 
+collusion with A, reads it wrongly.  B's apparent manifestation of assent is not effective.
+c.  "Void" rather than voidable.  It is sometimes loosely said that, where the rule stated in this Section applies, 
+there is a "void contract" as distinguished from a voidable one.  See Comment a to § 7.  This distinction has 
+important consequences.  For example, the recipient of a misrepresentation may be held to have ratified the 
+contract if it is voidable but not if it is "void." Furthermore, a good faith purchaser may acquire good title to 
+property if he takes it from one who obtained voidable title by misrepresentation but not if he takes it from one 
+who obtained "void title" by misrepresentation.
+## Reporter'S Notes
+This Section is based on former § 475 and on Uniform Commercial Code § 3-305(2)(c).  See 12 Williston, 
+Contracts § 1488 (3d ed. 1970); Annot., 78 A.L.R.2d 1020 (1977).
+Comment a.  Illustration 1 is based on Illustration 6 to former § 475; Uniform Commercial Code § 2-403(1)(a); 
+Phelps v. McQuade, 220 N.Y. 232, 115 N.E. 441 (1917); see also 3 Corbin, Contracts § 602 (1960).  But see 
+Bancredit, Inc. v. Bethea, 68 N.J. Super. 62, 172 A.2d 10 (1961).
+Comment b.  Illustration 2 is based on Illustration 1 to former § 475.  Illustration 3 is based on Illustration 2 to 
+former § 475; First Nat'l Bank of Odessa v. Fazzari, 10 N.Y.2d 394, 223 N.Y.S.2d 483, 179 N.E.2d 493 (1961). 
+Illustration 4 is based on Illustration 2 to former § 475.
+Cross Reference
+### Digest System Key Numbers
+Contracts 94, 98
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,33 @@
+## U.C.C. § 4-213
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4. BANK DEPOSIT  >  PART 2. COLLECTION OF 
+## Items: Depositary And Collecting Banks
+## § 4-213. Medium And Time Of Settlement By Bank
+(a)  With respect to settlement by a bank, the medium and time of settlement may be prescribed by Federal 
+Reserve regulations or circulars, clearing-house rules, and the like, or agreement. In the absence of such 
+### prescription
+(1)  the medium of settlement is cash or credit to an account in a Federal Reserve bank of or specified 
+by the person to receive settlement; and
+### (2)  the time of settlement, is
+(i)  with respect to tender of settlement by cash, a cashier's check, or teller's check, when the cash 
+or check is sent or delivered;
+(ii)  with respect to tender of settlement by credit in an account in a Federal Reserve Bank, when 
+the credit is made;
+(iii)  with respect to tender of settlement by a credit or debit to an account in a bank, when the 
+credit or debit is made or, in the case of tender of settlement by authority to charge an account, 
+when the authority is sent or delivered; or
+(iv)  with respect to tender of settlement by a funds transfer, when payment is made pursuant to 
+Section 4A-406(a) to the person receiving settlement.
+(b)  If the tender of settlement is not by a medium authorized by subsection (a) or the time of settlement is 
+not fixed by subsection (a), no settlement occurs until the tender of settlement is accepted by the person 
+receiving settlement.
+(c)  If settlement for an item is made by cashier's check or teller's check and the person receiving 
+### settlement, before its midnight deadline
+(1)  presents or forwards the check for collection, settlement is final when the check is finally paid; or
+(2)  fails to present or forward the check for collection, settlement is final at the midnight deadline of the 
+person receiving settlement.
+(d)  If settlement for an item is made by giving authority to charge the account of the bank giving settlement 
+in the bank receiving settlement, settlement is final when the charge is made by the bank receiving 
+settlement if there are funds available in the account for the amount of the item.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

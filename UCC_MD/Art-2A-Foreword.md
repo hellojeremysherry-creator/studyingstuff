@@ -1,0 +1,46 @@
+U.C.C. Art. 2A, Foreword
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES
+Art. 2A, Foreword
+Article 2A of the Uniform Commercial Code, along with Conforming Amendments to Articles 1 and 9, is presented, 
+upon the recommendation of the Permanent Editorial Board for the Uniform Commercial Code, by the National 
+Conference of Commissioners on Uniform State Laws and the American Law Institute.  It represents a major 
+development in commercial law, addressing a type of business transaction, the leasing of personal property, that 
+has long existed.  Under present law, transactions of this type are governed partly by common law principles 
+relating to personal property, partly by principles relating to real estate leases, and partly by reference to Articles 2 
+and 9 of the Uniform Commercial Code, dealing with Sales and Secured Transactions respectively.  The legal rules 
+and concepts derived from these sources imperfectly fit a transaction that involves personal property rather than 
+realty, and a lease rather than either a sale or a security interest as such.  A statute directly addressing the personal 
+property lease is therefore appropriate.
+Such a statute has become especially appropriate with the exponential expansion of the number and scale of 
+personal property lease transactions.  Article 2A will apply to transactions involving billions of dollars annually.  It 
+will apply to consumer's rental of automobiles or do-it-yourself equipment, on the one hand, and to leases of such 
+items as commercial aircraft (to the extent not preempted by federal law) and industrial machinery, on the other.  
+The text recognizes the differences between consumer and business leasing, while resting upon concepts that 
+apply generally to any personal property lease transactions.
+The final product represents an important undertaking of the Conference and the Institute.  It has proceeded, 
+following recommendations by the Conference's Study Committee in 1981, through preparation and review by the 
+Conference's Drafting Committee first of a proposed free-standing Uniform Personal Property Leasing Act, which 
+was approved by the Conference, and later of Article 2A, which proceeded through the Permanent Editorial Board, 
+the Executive Committee of the Conference, the Conference, and the Council of the Institute and the Annual 
+Meeting of the members of the Institute.  Carrying the text through these several stages has required coordination 
+of somewhat different procedures, and continued patience and mutual forbearance.  At the same time, the text has 
+been subjected to analysis and criticism from many points of view and thereby steadily improved.
+The resulting product borrows from both Articles 2 and 9.  These existing Articles of the Uniform Commercial Code 
+have certain imperfections revealed by the long experience since their adoption.  Article 2A cannot overcome those 
+imperfections but seeks to minimize their significance as applied to leases.  More fundamentally, there is important 
+conceptual dissonance between Article 2 and Article 9.  The formulation of Article 2A takes Articles 2 and 9 as they 
+are for the time being and hence has required careful adjustment to this dissonance.
+The drafting task has been complicated both as a matter of substance and as a matter of process.  The Reporter, 
+Ronald DeKoven, has been a master of substance and a steady and receptive principal in the process.  We join 
+with the Conference and the Institute in expressing our admiration and appreciation for his contribution to this 
+important field of law.
+Geoffrey C. Hazard, Jr., Chairman
+Permanent Editorial
+Board for the Uniform
+Commercial Code
+
+ Art. 2A, Foreword
+October 1, 1987
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

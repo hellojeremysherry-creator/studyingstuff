@@ -1,0 +1,19 @@
+U.C.C. Art. 1, Appx. I § 2A-519
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 1. GENERAL PROVISIONS  >   APPENDIX I. 
+## Conforming Amendments To Other Articles
+## § 2A-519. Lessee'S Damages For Non-Delivery, Repudiation,
+## Default, And Breach Of Warranty In Regard To Accepted
+## Goods
+(1)  Except as otherwise provided with respect to damages liquidated in the lease agreement ( Section 2A-
+504) or otherwise determined pursuant to agreement of the parties ( Sections 1-302 and 2A-503), if a 
+lessee elects not to cover or a lessee elects to cover and the cover is by lease agreement that for any 
+reason does not qualify for treatment under Section 2A-518(2), or is by purchase or otherwise, the measure 
+of damages for non-delivery or repudiation by the lessor or for rejection or revocation of acceptance by the 
+lessee is the present value, as of the date of the default, of the then market rent minus the present value as 
+of the same date of the original rent, computed for the remaining lease term of the original lease 
+agreement, together with incidental and consequential damages, less expenses saved in consequence of 
+the lessor's default.
+- * *
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

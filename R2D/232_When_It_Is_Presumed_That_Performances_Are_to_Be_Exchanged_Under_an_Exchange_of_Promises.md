@@ -1,0 +1,100 @@
+Restat 2d of Contracts, § 232
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 1- Performances to Be Exchanged Under an Exchange 
+of Promises        
+§ 232 When It Is Presumed That Performances Are to Be Exchanged Under 
+an Exchange of Promises
+Where the consideration given by each party to a contract consists in whole or in part of promises, all 
+the performances to be rendered by each party taken collectively are treated as performancesto be 
+exchanged under an exchange of promises, unless a contrary intention is clearly manifested.
+## Comments & Illustrations
+### Comment
+a.  Reason for presumption.  The rules applicable to performances to be exchanged under an exchange of 
+promises are designed to give the parties maximum protection, consistent with freedom of contract, against 
+disappointment of their expectation of a subsequent exchange of those performances.  When the parties have 
+exchanged promises, there is ordinarily every reason to suppose that they contracted on the basis of such an 
+expectation since the exchange of promises would otherwise have little purpose.  Even absent a showing of 
+their actual intentions, fairness dictates that such an expectation be assumed.  This Section therefore states a 
+presumption in favor of the conclusion that, in such a case, the performances are to be exchanged under the 
+exchange of promises.  For one of the parties to show that the expectation was otherwise, the contrary intention 
+must be clearly manifested.  The presumption applies regardless of whether the promises are written or oral or 
+both, and even where a negotiable instrument is involved.  See Uniform Commercial Code § 3-408.  It also 
+applies even though the consideration given by a party consists partly of some performance and only partly of a 
+promise (see Comment c to § 231), although it is possible that in such a case the promise may be so minor and 
+incidental that its non-performance would not be a material failure of performance.  See Comment b to § 241.
+### Illustrations
+1.  A, a wholesaler, promises to sell and B, a retailer, promises to buy goods together with related advertising 
+material, payment to be made within 30 days of delivery.  A also promises not to sell similar advertising material 
+to any other retailer in B's city.  A sells similar advertising material to another retailer in B's city, and B 
+thereupon refuses to take or pay for the goods.  A's selling B goods together with advertising material and not 
+selling others similar advertising material, taken collectively, and B's payment are to be exchanged under the 
+exchange of promises.  Therefore, under the rule stated in § 237, if A's failure of performance is material, A has 
+no claim against B.
+2.  A promises to sell to B a lot in a subdivision for $ 8,000.  B promises to pay in four annual installments of $ 
+2,000 each, beginning one year after execution of the contract.  A promises to begin to make improvements 
+and pave the streets within 60 days and to complete work within a reasonable time and promises to deliver a 
+deed at the time of the final payment.  A fails to pave the streets, and B thereupon refuses to pay any 
+installments.  A's making improvements, paving streets, and delivering a deed, taken collectively, and B's 
+paying installments are to be exchanged under the exchange of promises.  Therefore, under the rule stated in § 
+237, if A's failure of performance is material, A has no claim against B.
+3.  A employs B under a five-year employment contract, which contains a valid covenant under which B 
+promises not to engage in the same business in a designated area for two years after the termination of the 
+employment.  It expressly provides that "this covenant is independent of any other provision in this agreement." 
+After B has begun work, A unjustifiably discharges him, and B thereupon engages in business in violation of the 
+covenant.  A's employing B and B's working for A are to be exchanged under the exchange of promises.  The 
+
+§ 232 When It Is Presumed That Performances Are to Be Exchanged Under an Exchange of Promises
+quoted words indicate an intention that A's employing B is not to be exchanged for B's refraining from engaging 
+in the same business.  If the court concludes that this intention is clearly manifested, A has a claim against B for 
+damages for breach of his promise not to compete.
+4.  A contracts to sell and B to buy a machine, to be delivered immediately, for $ 10,000.  As part of the same 
+bargain, B gives A his negotiable promissory note for $ 10,000 to A's order, payable in 90 days, but the note 
+makes no reference to the transaction out of which it arises.  A fails to deliver the machine.  A's delivering the 
+machine and B's paying the note are to be exchanged under the exchange of promises.  Therefore, under the 
+rule stated in § 237, A has no claim on the note or the contract against B.  See Uniform Commercial Code §§ 3-
+306, 3-408, and 3-307(3).
+b.  Promises taken collectively.  When the rule stated in this Section applies, all of the performances to be 
+rendered by each party taken collectively are to be exchanged under the exchange of promises.  A court need 
+not determine whether separate performances on either side are the subject of a single promise or of separate 
+promises.  Nor need a court concern itself with the relationship among separate promises viewed as of the time 
+of their making.  Instead the court is to focus on the relative importance of the failure of performance in the light 
+of the situation of the parties at the time of that failure.  See §§ 237, 238, 241.
+c.  Performances need not be treated as equivalent.  When an exchange consists exclusively of promises, the 
+values of the performances to be subsequently exchanged are usually regarded by the parties as equivalent.  
+This is not always so since a party may make what is often called an "aleatory" promise, under which his duty to 
+perform is conditional on the occurrence of a fortuitous event.  Or it may be understood that the value of one 
+party's performance will be affected by chance, as where he promises to deliver his output or to pay during 
+another's lifetime.  Even when one or both of the parties makes such a promise, however, they contemplate a 
+subsequent exchange of performances, subject of course to the occurrence of the required conditions.  Such 
+cases are therefore subject to the rules stated in this Chapter (see § 239), along with some special rules 
+relating to the election of remedies which are stated in §§ 378-80.
+### Illustration
+5.  A, an insurance company, issues to B a group health insurance policy covering B's employees for one year 
+beginning January 1 in return for B's promise to pay the premium on February 1.  During the month of January 
+A unjustifiably rejects proper claims filed by B's employees under the policy.  B refuses to pay the premium on 
+February 1.  A's paying proper claims of B's employees and B's paying the premium are to be exchanged under 
+the exchange of promises.  Therefore, under the rule stated in § 237, if A's breach is material, A has no claim 
+against B.
+## Reporter'S Notes
+This Section is derived from former § 266(2).  The exception stated there for aleatory contracts is now dealt 
+with in § 239 and in connection with remedies in § 379.  The exception stated there for mutual promises for the 
+benefit of a donee beneficiary has been omitted.  See the criticism of this exception in Patterson, Constructive 
+Conditions in Contracts 42 Colum. L. Rev. 903, 916-17 (1942). See 6 Williston, Contracts §§ 816-28 (3d ed. 
+1962).
+Comment a.  The presumption stated in this Section is supported by K & G Constr. Co. v. Harris, 223 Md. 305, 
+164 A.2d 451 (1960), and Morgan v. Singley, 560 S.W.2d 746 (Tex. Civ. App. 1977). The facts in Illustration 1 
+are suggested by Tichnor Bros. v. Evans, 92 Vt. 278, 102 A. 1031 (1918). Illustration 2 follows Palmer v. Fox, 
+274 Mich. 252, 264 N.W. 361 (1936), and rejects the reasoning in Zambetti v. Commodores Land Co., 102 Fla. 
+586, 136 So. 644 (1931). Cf.  Gold Bond Stamp Co. v. Gilt-Edge Stamps, Inc., 437 F.2d 27 (5th Cir. 1971). 
+Illustration 3 is based on Orkin Exterminating Co. v. Harris, 224 Ga. 759, 164 S.E.2d 727 (1968); Orkin 
+Exterminating Co. v. Gill, 222 Ga. 760, 152 S.E.2d 411 (1966). But cf.  Kaye v. Orkin Exterminating Co., 472 
+F.2d 1213 (5th Cir. 1973); Associated Spring Corp. v. Roy F. Wilson & Avnet, 410 F. Supp. 967 (D.S.C. 1976). 
+Illustration 4 is based on Illustration 1 to former § 279 and on Uniform Commercial Code §§ 3-306, 3-408, and 
+3-307(3).
+Comment b.  Cf.  Bart Arconti & Sons, Inc. v. Ames-Ennis, Inc., 275 Md. 295, 340 A.2d 225 (1975).
+Comment c.  Illustration 5 is new.  See former § 293(2).
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+
+§ 232 When It Is Presumed That Performances Are to Be Exchanged Under an Exchange of Promises
+End of Document

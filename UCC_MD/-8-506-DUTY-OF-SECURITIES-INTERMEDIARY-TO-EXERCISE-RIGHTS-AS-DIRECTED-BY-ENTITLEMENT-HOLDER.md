@@ -1,0 +1,15 @@
+## U.C.C. § 8-506
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 8. INVESTMENT SECURITIES  >  PART 5. 
+## Security Entitlements
+## § 8-506. Duty Of Securities Intermediary To Exercise Rights As
+## Directed By Entitlement Holder
+A securities intermediary shall exercise rights with respect to a financial asset if directed to do so by an 
+### entitlement holder. A securities intermediary satisfies the duty if
+(1)  the securities intermediary acts with respect to the duty as agreed upon by the entitlement holder 
+and the securities intermediary; or
+(2)  in the absence of agreement, the securities intermediary either places the entitlement holder in a 
+position to exercise the rights directly or exercises due care in accordance with reasonable commercial 
+standards to follow the direction of the entitlement holder.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

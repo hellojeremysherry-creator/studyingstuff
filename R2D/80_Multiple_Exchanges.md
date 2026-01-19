@@ -1,0 +1,61 @@
+Restat 2d of Contracts, § 80
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+§ 80 Multiple Exchanges
+(1)  There is consideration for a set of promises if what is bargained for and given in exchange would 
+have been consideration for each promise in the set if exchanged for that promise alone.
+(2)  The fact that part of what is bargained for would not have been consideration if that part alone had 
+been bargained for does not prevent the whole from being consideration.
+## Comments & Illustrations
+### Comment
+a.  One consideration for a number of promises.  Since consideration is not required to be adequate in value 
+(see § 79), two or more promises may be binding even though made for the price of one.  A single performance 
+or return promise may thus furnish consideration for any number of promises.  But if the performance or return 
+promise would not be consideration for a single promise, it is not consideration for that promise as part of a set 
+of promises, or for the other promises in the set.
+### Illustrations
+1.  A pays B or promises B to pay him $ 5, not then owed by A, in consideration of which B promises A to give 
+him a book and also promises to surrender a letter.  Both of B's promises are supported by consideration.
+2.  A pays B or promises B to pay him $ 50 not then owed by A, in exchange for the following promises: a 
+promise by C to dig a well for D, a promise by E to discharge F from a debt of $ 100 owing by F to E.  All the 
+promises are supported by consideration.
+b.  Several performances or return promises as consideration.  In cases within Subsection (2) the promisor has 
+received all he bargained for.  The fact that part of it would not have been consideration standing alone does 
+not make enforcement of the bargain unjust to the promisor or contrary to the public interest.  The effect of 
+public policy on part of the consideration, however, may invalidate the entire bargain under some 
+circumstances.  See §§ 178, 183-85.
+### Illustration
+3.  A owes B $ 5.  B promises to give A a book if A will pay the $ 5 and $ 1 in addition.  A pays the $ 6.  B's 
+promise is binding, although A's payment of the $ 5 which he owed would not of itself have been consideration.
+c.  Compositions with creditors.  Composition agreements between a debtor and his creditors illustrate 
+Subsection (2).  The consideration for which each assenting creditor bargains may be any or all of the following: 
+(1) part payment of the sum due him, (2) the promise of each other creditor to forego a portion of his claim, (3) 
+forbearance or promise of forbearance by the debtor to pay the assenting creditors more than equal 
+proportions, (4) the action of the debtor in securing the assent of the other creditors, (5) the part payments 
+made to the other creditors.  The first is not consideration, but each of the others may be consideration.  The 
+last two are seldom bargained for in fact, but (2) and (3) are practically always bargained for by implication if not 
+in so many words.  Still other considerations may be agreed upon in any case.
+### Illustration
+4.  A makes a composition with B, C and D, three of his creditors, whereby each of them promises to accept 
+forty cents on the dollar as full satisfaction, A promising to treat all assenting creditors equally.  A's promise and 
+the promises of the other two creditors are consideration for the promise of each creditor, even though there 
+are other non-assenting creditors.
+## Reporter'S Notes
+
+§ 80 Multiple Exchanges
+Subsection (1) is former § 83 rewritten to reflect the abandonment of the principle stated in former § 80.  
+Subsection (2) is a revision of former § 84(b).  See 1 Williston, Contracts §§ 134, 137A (3d ed. 1957); 1 Corbin, 
+Contracts §§ 125, 126 (1963 & Supp. 1980).
+Comment a.  Illustrations 1 and 2 were Illustrations 1 and 2 to former § 83.
+Comment b and c.  These are revised from Comments c and d to former § 84.  Illustration 3 was Illustration 2 to 
+former § 84; see Mitchell v. Lawson, 444 S.W.2d 192 (Tex. Civ. App. 1969); compare Illustration 3 to former § 
+83.  Illustration 4 was Illustration 3 to former § 84.
+Cross Reference
+### ALR Annotations
+Construction of provision in real-estate mortgage, land contract, or other security instrument for release of 
+separate parcels of land as payments are made.  41 A.L.R.3d 7.
+### Digest System Key Numbers
+Contracts 50
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

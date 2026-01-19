@@ -1,0 +1,18 @@
+## U.C.C. § 3-407
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 4. 
+## Liability Of Parties
+## § 3-407. Alteration
+(a)  "Alteration" means (i) an unauthorized change in an instrument that purports to modify in any respect 
+the obligation of a party, or (ii) an unauthorized addition of words or numbers or other change to an 
+incomplete instrument relating to the obligation of a party.
+(b)  Except as provided in subsection (c), an alteration fraudulently made discharges a party whose 
+obligation is affected by the alteration unless that party assents or is precluded from asserting the 
+alteration. No other alteration discharges a party, and the instrument may be enforced according to its 
+original terms.
+(c)  A payor bank or drawee paying a fraudulently altered instrument or a person taking it for value, in good 
+faith and without notice of the alteration, may enforce rights with respect to the instrument (i) according to 
+its original terms, or (ii) in the case of an incomplete instrument altered by unauthorized completion, 
+according to its terms as completed.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

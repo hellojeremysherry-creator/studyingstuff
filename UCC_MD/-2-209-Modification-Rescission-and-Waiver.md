@@ -1,0 +1,19 @@
+## U.C.C. § 2-209
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 2. FORM, FORMATION AND 
+## Readjustment Of Contract
+§ 2-209. Modification, Rescission and Waiver.
+(1)  An agreement modifying a contract within this Article needs no consideration to be binding.
+(2)  A signed agreement which excludes modification or rescission except by a signed writing cannot be 
+otherwise modified or rescinded, but except as between merchants such a requirement on a form supplied 
+by the merchant must be separately signed by the other party.
+(3)  The requirements of the statute of frauds section of this Article ( Section 2-201) must be satisfied if the 
+contract as modified is within its provisions.
+(4)  Although an attempt at modification or rescission does not satisfy the requirements of subsection (2) or 
+(3) it can operate as a waiver.
+(5)  A party who has made a waiver affecting an executory portion of the contract may retract the waiver by 
+reasonable notification received by the other party that strict performance will be required of any term 
+waived, unless the retraction would be unjust in view of a material change of position in reliance on the 
+waiver.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

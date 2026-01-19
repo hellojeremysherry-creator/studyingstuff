@@ -1,0 +1,14 @@
+## U.C.C. § 2A-522
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 5. DEFAULT  >   B. 
+## Default By Lessor
+§ 2A-522. Lessee's Right to Goods on Lessor's Insolvency.
+(1)  Subject to subsection (2) and even though the goods have not been shipped, a lessee who has paid a 
+part or all of the rent and security for goods identified to a lease contract ( Section 2A-217) on making and 
+keeping good a tender of any unpaid portion of the rent and security due under the lease contract may 
+recover the goods identified from the lessor if the lessor becomes insolvent within 10 days after receipt of 
+the first installment of rent and security.
+(2)  A lessee acquires the right to recover goods identified to a lease contract only if they conform to the 
+lease contract.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

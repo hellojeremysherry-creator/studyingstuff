@@ -1,0 +1,7 @@
+## U.C.C. § 5-105
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 5. LETTERS OF CREDIT
+## § 5-105. Consideration
+ Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or confirmation.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

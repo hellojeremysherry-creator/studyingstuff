@@ -1,0 +1,8 @@
+## U.C.C. § 10-101
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 10. EFFECTIVE DATE AND REPEALER
+§ 10-101. Effective Date.
+This Act shall become effective at midnight on December 31st following its enactment.  It applies to transactions 
+entered into and events occurring after that date.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

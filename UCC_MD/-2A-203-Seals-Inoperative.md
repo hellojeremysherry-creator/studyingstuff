@@ -1,0 +1,10 @@
+## U.C.C. § 2A-203
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 2. FORMATION AND 
+## Construction Of Lease Contract
+§ 2A-203. Seals Inoperative.
+The affixing of a seal to a writing evidencing a lease contract or an offer to enter into a lease contract does not 
+render the writing a sealed instrument and the law with respect to sealed instruments does not apply to the lease 
+contract or offer.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

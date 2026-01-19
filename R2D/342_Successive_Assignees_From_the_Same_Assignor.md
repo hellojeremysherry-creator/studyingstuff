@@ -1,0 +1,122 @@
+Restat 2d of Contracts, § 342
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 5- Priorities Between Assignee and Adverse Claimants        
+§ 342 Successive Assignees From the Same Assignor
+Except as otherwise provided by statute, the right of an assignee is superior to that of a subsequent 
+assignee of the same right from the same assignor, unless
+(a) the first assignment is ineffective or revocable or is voidable by the assignor or by the subsequent 
+assignee; or
+(b) the subsequent assignee in good faith and without knowledge or reason to know of the prior 
+assignment gives value and obtains
+(i) payment or satisfaction of the obligation,
+(ii) jjudgment against the obligor,
+(iii) a new contract with the obligor by novation, or
+(iv) possession of a writing of a type customarily accepted as a symbol or as evidence of the right 
+assigned.
+## Comments & Illustrations
+### Comment
+a.  Scope.  No attempt is made in this Section to state the effect of statutory changes, which often make priority 
+depend on filing in a public office.  In the absence of statute, the rules stated in this Section are applicable to 
+both total and partial assignments and to assignments as security for an obligation as well as to outright sales 
+of contractual rights.  If the first assignment is partial, or if the assignor retains a beneficial interest, the 
+subsequent assignee is entitled to any balance after the first assignee has been satisfied.
+b.  Dearle v. Hall.  In England and in a number of states, aside from statute, a different rule has been followed, 
+giving priority to the assignee who first gives notice to the obligor, regardless of the order in which the 
+assignments were made.  That rule stems from the leading case of Dearle v. Hall, 3 Russ. 1, 48 (1828), 
+involving successive assignments of the interest of a beneficiary of a trust.  The English rule has consequences 
+similar to that of a system of public filing, except that the obligor acts as the filing office; it is somewhat more 
+convenient where a single obligor is involved such as a trustee or the owner or prime contractor on a 
+construction project than in cases of multiple obligors, as where a business concern assigns its accounts 
+receivable.  The English rule was not adopted in Restatement, Second, Trusts § 163.
+c.  Filing statutes.  In modern times the rules of this Section have been greatly affected by statute.  From 1938 
+to 1950 Section 60 of the Bankruptcy Act made the validity of an assignment in the assignor's bankruptcy turn 
+on perfection of the assignment as against a hypothetical subsequent assignee.  As a result numerous state 
+statutes were enacted, directed particularly at assignments of accounts receivable.  In 1950 amendments to the 
+Bankruptcy Act reduced the significance of the problem of successive assignments.  The current formulation is 
+### found in Bankruptcy Reform Act of 1978, 11 U.S.C. § 547(e)(1)(B) (1978)
+a transfer of a fixture or property other than real property is perfected when a creditor on a simple contract 
+cannot acquire a judicial lien that is superior to the interest of the transferee.
+
+§ 342 Successive Assignees From the Same Assignor
+The subject is now largely governed by the Uniform Commercial Code, except in cases of wage claims, 
+some rights under insurance polices, deposit accounts, and certain other excluded types of transactions.  
+See § 9-104.
+Under the Code, filing or the taking of possession is generally required to "perfect" a "security interest," which 
+includes the interest of a buyer of accounts or chattel paper.  Sections 1-201(37), 9-302.  An unperfected 
+security interest is subordinate to the rights of a person who is not a secured party to the extent that he gives 
+value for accounts or general intangibles without knowledge of the security interest and before it is perfected.  
+Section 9-301.  As between secured parties, priority is determined by the order of filing or perfection, or if 
+neither security interest is filed or perfected, by the order of attachment.  Sections 9-312(5) and (6).
+d.  Defective assignment.  If the prior assignment is revocable or voidable by the assignor a subsequent 
+assignment is an effective manifestation of an intent to revoke or avoid.  The subsequent assignment therefore 
+has priority.  A subsequent assignment may be similarly used to effectuatea power of avoidance of the 
+subsequent assignee.
+### Illustrations
+1.  A has a right to the payment of $ 100 by B, and orally assigns it to C by way of gift.  Subsequently A assigns 
+the right to D, who gives value but knows of the assignment to C.  Unless B has paid C without notice of D's 
+assignment, B must pay D.
+2.  B owes A $ 100.  A is an infant in a state where an infant may avoid his contract without restoring any 
+consideration received.  A assigns his right to C for value.  Subsequently, on becoming of age, A assigns his 
+right to D, who gives value but knows of the assignment to C.  Unless B has paid C without notice of D's 
+assignment, B must pay D.
+e.  Payment, jjudgment or novation.  Where the subsequent assignee as a bona fide purchaser for value 
+obtains performance by the obligor, jjudgment against him, or a new contract with him by novation, he is 
+entitled to retain what he has received and to enforce the jjudgment or novation against the obligor, free of any 
+obligation to account to the prior assignee.  Historically, this rule was justified on the ground that the right of an 
+assignee was equitable and was not enforceable against a bona fide purchaser of the legal right.  In modern 
+times the doctrine of bona fide purchase has been extended in the interest of the security of transactions.  But 
+where the interest of the first assignee has been perfected pursuant to statute, whether by filing or otherwise, 
+subsequent bona fide purchasers are not protected unless the statute so provides or there is an estoppel.  See 
+Uniform Commercial Code §§ 1-103, 9-306, 9-309, 9-312.
+### Illustration
+3.  B owes $ 100 to A.  A assigns the right to C for value.  Later A assigns it for value to D, who takes it in good 
+faith.  D notifies B of the assignment to him before C notifies B of his assignment.  C's right is superior to D's.  
+But if D, still without knowledge or reason to know of the assignment to C, receives $ 50 from B, D can retain 
+what he receives.
+f.  Symbolic writings.  Certain writings are treated in the ordinary course of business as symbols of contractual 
+rights.  See Comment c to § 332; Comment h to § 338.  To the extent that such writings are negotiable by 
+ccommon law or by statute, they are beyond the scope of this Section.  The rights of bona fide purchasers of 
+some such writings, both negotiable and non-negotiable, are governed by the Uniform Commercial Code.  See, 
+e.g., § 9-308 (chattel paper).  Aside from statute, a person who takes possession of such a writing as a bona 
+fide purchaser is protected in his reasonable expectations arising from the apparent ownership of his assignor.  
+This rule may be regarded as an application of a broader doctrine of estoppel.  See Restatement, Second, 
+Agency §§ 8B, 176.
+### Illustrations
+4.  A, the holder of a savings bank book which records a deposit of $ 100 in the B savings bank, assigns the 
+deposit to C for value without delivering the book.  A then delivers the book to D, who pays value therefore in 
+ignorance of the assignment to C.  D is entitled to the deposit.
+5.  A holds a life insurance policy issued by the B insurance company.  By written assignment A assigns the 
+policy to C as security for a debt, but does not deliver the policy.  Later A assigns the policy to D as security for 
+a loan of $ 3,000, and delivers the policy to D. Still later D lends an additional $ 1,000 to A on A's note, relying 
+
+§ 342 Successive Assignees From the Same Assignor
+in good faith on a notation added to the note without A's authority that the note is secured by the policy.  C is 
+entitled to redeem the policy from D on payment of $ 3,000.
+g.  Relation to discharge of obligor.  Priority between successive assignees is independent of the protection of 
+the obligor under § 338.  An assignee who acts in good faith may take priority under this Section by receiving 
+payment from an obligor who acts in bad faith and hence is not discharged.  Conversely, an assignee who 
+receives a payment with knowledge of a prior assignment must account to the prior assignor even though the 
+obligor acts in good faith and is discharged to the extent of the payment.
+h.  Value.  As to what constitutes value, see Comments c and d to § 338.
+## Reporter'S Notes
+Former § 173 is here rephrased without change of substance.  See 3 Williston, Contracts § 435 (3d ed. 1960); 
+4 Corbin, Contracts § 902 (1951); Annots., 31 A.L.R. 876 (1924), 110 A.L.R. 774 (1937).
+Comments a and b.  Compare Restatement, Second, Trusts § 163.  As to the first-to-notify rule, see American 
+Fire & Cas. Co. v. First Nat'l City Bank, 411 F.2d 755 (1st Cir. 1969), cert. denied, 396 U.S. 1007 (1970).
+Comment c.  See the authorities in the Reporter's Note to § 341, Comment d.
+Comment d.  Illustrations 1 and 2 are based on Illustrations 1 and 2 to former § 173.
+Comment e.  For analysis in terms of equitable and legal title, see Judson v. Corcoran, 58 U.S. (17 How.) 612 
+(1854); In re Rosen, 157 F.2d 997 (3d Cir. 1946), cert. denied, 330 U.S. 835 (1947). Illustration 3 is based on 
+Illustration 3 to former § 173; cf.  Rabinowitz v. People's Nat'l Bank, 235 Mass. 102, 126 N.E. 289 (1920); 
+Evans v. Joyner, 195 Va. 85, 77 S.E.2d 420 (1953). Contra: Superior Brassiere Co. v. Zimetbaum, 214 A.D. 
+525, 212 N.Y.S. 473 (1st Dep't 1925).  For a debate over the interpretation of two carefully drafted assignments 
+in light of perceived equities, see Terry Contracting, Inc. v. Levitt, 54 A.D.2d 1, 386 N.Y.S.2d 233 (1976), aff'd 
+mem., 42 N.Y.2d 833, 397 N.Y.S.2d 382, 366 N.E.2d 83 (1977).
+Comment f.  Illustration 4 is based on Illustration 4 to former § 173.  Illustration 5 is based on Herman v. 
+Connecticut Mut. Life Ins. Co., 218 Mass. 181, 105 N.E. 450 (1914).
+Cross Reference
+### Digest System Key Numbers
+Assignments 90, 104
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

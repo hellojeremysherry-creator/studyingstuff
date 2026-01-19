@@ -1,0 +1,11 @@
+## U.C.C. § 2-205
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 2. FORM, FORMATION AND 
+## Readjustment Of Contract
+§ 2-205. Firm Offers.
+An offer by a merchant to buy or sell goods in a signed writing which by its terms gives assurance that it will be held 
+open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, 
+but in no event may such period of irrevocability exceed three months; but any such term of assurance on a form 
+supplied by the offeree must be separately signed by the offeror.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

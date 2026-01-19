@@ -1,0 +1,110 @@
+Restat 2d of Contracts, § 221
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 4- Scope as Affected by Usage        
+§ 221 Usage Supplementing an Agreement
+An agreement is supplemented or qualified by a reasonable usage with respect to agreements of the 
+same type if each party knows or has reason to know of the usage and neither party knows or has 
+reason to know that the other party has an intention inconsistent with the usage.
+## Comments & Illustrations
+### Comment
+a.  Agreed terms and omitted terms.  Where the parties have in fact agreed to incorporate a usage into their 
+agreement, the case is within § 220.  This Section extends the same principle to cases where the parties did 
+not advert to the problem with which the usage deals, or where one or each separately foresaw the problem but 
+failed to manifest any intention with respect to it.  In such cases, in the absence of usage, the court would 
+supply a reasonable term.  See § 204.  But if there is a reasonable usage which supplies an omitted term and 
+the parties know or have reason to know of the usage, it is a surer guide than the court's own judgment of what 
+is reasonable.  Thus a usage may make it unnecessary to inquire into or prove what the actual intentions of the 
+parties were with respect to an unstated term.  Compare Uniform Commercial Code §§ 1-205(3), 2-202(a).
+### Illustrations
+1.  A, a canner, and B, a wholesale grocer, contract for the sale by A to B of canned fruit products, using a 
+standard form of contract approved by canning and wholesale grocer trade associations.  By uniform usage 
+among canners, where the standard form is used title to unshipped goods passes on billing dates specified on 
+the form.  In the absence of contrary indication, the usage is part of the contract.
+2.  A, an ordained rabbi, is employed by B, an orthodox Jewish congregation, to officiate as cantor at specified 
+religious services.  At the time the contract is made, it is the practice of such congregations to seat men and 
+women separately at services, and a contrary practice would violate A's religious beliefs.  At a time when it is 
+too late for A to obtain substitute employment, B adopts a contrary practice.  A refuses to officiate.  The practice 
+is part of the contract, and A is entitled to the agreed compensation.
+b.  Reason to know and reasonableness.  The more general and well-established a usage is, the stronger is the 
+inference that a party knew or had reason to know of it.  Similarly, the fact that a usage is reasonable may tend 
+to show that the parties contracted with reference to it or that a particular party knew or had reason to know of 
+it.  Where the parties in fact agree to a usage, there is no general requirement that their usage seem 
+reasonable to others; but where there is no agreement only a reasonable usage supplies an omitted term.  
+What is reasonable for this purpose depends on the circumstances; it may be reasonable to hold a 
+nonmerchant to mercantile standards if he is represented by a mercantile agent.  See Uniform Commercial 
+Code § 2-104, defining "merchant." Ordinarily an agent is authorized to comply with relevant usages of 
+business if the principal has notice that usages of such a nature may exist.  See Restatement, Second, of 
+Agency § 36.
+### Illustrations
+3.  A, in Washington, sends an order to B, a broker in Baltimore, to be executed on the New York Stock 
+Exchange.  Unless both A and B give the order a different and identical interpretation or B has reason to know 
+that A has a different intention, the order is interpreted in accordance with the reasonable usages of the New 
+York Stock Exchange.
+4.  A, a publisher, contracts with B to publish a two-volume work.  The contract provides for binding "10,000 
+copies at .538," which by usage of the publishing business refers to the number of volumes rather than the 
+
+§ 221 Usage Supplementing an Agreement
+number of sets.  The usage is part of the contract even though the work is B's first and he does not know of the 
+usage.
+c.  Effect of usage on law.  It is often said that usage cannot change a rule of law, but a distinction must be 
+drawn.  If the rule of law is one which overrides contrary agreement, it also overrides usage; but if the law 
+merely supplies a term in the absence of contrary agreement, usage can have the same effect as contrary 
+agreement.  See Uniform Commercial Code § 1-201(3).
+### Illustrations
+5.  A and B, both members of a Mercantile Exchange, enter into an oral contract within the Statute of Frauds.  
+By usage of the Exchange oral agreements between members of the Exchange are enforceable.  The usage 
+does not make the contract enforceable if it is otherwise unenforceable.
+6.  A makes B a promise without consideration.  By usage such promises are binding without consideration.  
+The usage does not make the promise legally binding.
+7.  A makes an offer to B by telephone, and B accepts by telephone.  By usage known to both parties such an 
+agreement is not binding unless promptly confirmed in writing by the acceptor.  Unless a contrary intention is 
+indicated, the usage is part of the agreement, and there is no contract unless B gives prompt written 
+confirmation.
+d.  Intention inconsistent with usage.  The parties to an agreement are not bound to follow the usages of others 
+or their own prior usages.  If either party has reason to know that the other has an intention inconsistent with a 
+particular usage, the usage is not applicable.  Such an intention need not be manifested in any particular way; 
+whether the parties contracted with reference to a usage is determined on the basis of all the circumstances, 
+and a usage may be excluded by the same type of proof which would include it.
+### Illustrations
+8.  A, a resident of Philadelphia, makes a contract with B, a resident of New York, by which A promises to build 
+a brick wall in Philadelphia.  There is a local usage in Philadelphia as to measuring brick which differs from that 
+elsewhere.  B is not aware of the Philadelphia usage, as A has reason to know.  The usage is not part of the 
+contract.
+9.  A, a bank, issues a letter of credit promising to honor drafts accompanied by bills of lading covering 
+"Coromandel groundnuts." Dealers in groundnuts understand "Coromandel groundnuts" to mean "machine-
+shelled groundnut kernels." A is not bound to honor drafts accompanied by bills of lading covering "machine-
+shelled groundnut kernels." See Uniform Commercial Code § 5-109(1)(c).
+## Reporter'S Notes
+This Section combines former §§ 246(b) and 247.  See 5 Williston, Contracts §§ 652-61 (3d ed. 1966); 3 
+Corbin, Contracts §§ 556-57 (1960 & Supp. 1980).
+Comment a.  On the use of established usage to fill gaps left by the parties, see Lambourne v. Manchester Cty. 
+Props., 135 Vt. 178, 374 A.2d 122 (1977). Illustration 1 is based on Pacific Grape Prods. Co. v. Commissioner, 
+219 F.2d 862 (9th Cir. 1955). Illustration 2 is based on Fisher v. Congregation B'Nai Yitzhok, 177 Pa. Super. Ct. 
+359, 110 A.2d 881 (1955).
+Comment b.  Illustration 3 is based on Illustration 1 to former § 247; cf.  Lynch v. Maw, 3 Utah 2d 271, 282 P.2d 
+841 (1955); Annot., 79 A.L.R. 592 (1932). Illustration 4 is based on Berwick & Smith Co. v. Salem Press, Inc., 
+331 Mass. 196, 117 N.E.2d 825 (1954); Lambourne v. Manchester Cty. Props., supra.
+Comment c.  The position of this Comment is supported by Chicago Bridge & Iron Co. v. Reliance Ins. Co., 46 
+Ill.2d 522, 264 N.E.2d 134 (1970); Clark Adv. Agency v. Avco Broadcasting Co.,     Ind. App.    , 383 N.E.2d 353 
+(1978); Hayward Tamkin & Co. v. Carpenteria Inv. Co., 265 Cal. App.2d 617, 71 Cal. Rptr. 462 (1968). This 
+replaces former § 249.  Illustrations 5-7 are based on Illustrations 1-3 to former § 249.  As to Illustration 5, see 
+Ozier v. Haines, 411 Ill. 160, 103 N.E.2d 485 (1952), discussed in dictum in Chicago Bridge & Iron Co. v. 
+Reliance Ins. Co., supra.
+Comment d.  Illustration 8 is based on Illustration 3 to former § 247.  Illustration 9 is based on J.H. Rayner & 
+Co. v. Hambro's Bank, Ltd., [1943] 1 K.B. 37 (C.A.); see also North Unit Potato Co. v. Spada Distrib. Co., 260 
+Or. 468, 490 P.2d 995 (1971).
+
+§ 221 Usage Supplementing an Agreement
+Cross Reference
+### ALR Annotations
+Landlord and tenant: What amounts to "sale" of property for purposes of provision giving tenant right of first 
+refusal if landlord desires to sell.  70 A.L.R.3d 203.
+Validity and construction of contract exempting agricultural fair or similar bailee from liability for articles 
+delivered for exhibition.  69 A.L.R.3d 1025.
+Construction and effect of tenure provisions of contract or statute governing employment of college or university 
+faculty member.  66 A.L.R.3d 1018.
+### Digest System Key Numbers
+Customs and Usages 16
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

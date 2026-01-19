@@ -1,0 +1,46 @@
+Restat 2d of Contracts, § 60
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 60 Acceptance of Offer Which States Place, Time or Manner of Acceptance
+If an offer prescribes the place, time or manner of acceptance its terms in this respect must be 
+complied with in order to create a contract.  If an offer merely suggests a permitted place, time or 
+manner of acceptance, another method of acceptance is not precluded.
+## Comments & Illustrations
+### Comment
+a.  Interpretation of offer.  If the offeror prescribes the only way in which his offer may be accepted, an 
+acceptance in any other way is a counter-offer.  But frequently in regard to the details of methods of 
+acceptance, the offeror's language, if fairly interpreted, amounts merely to a statement of a satisfactory method 
+of acceptance, without positive requirement that this method shall be followed.
+### Illustrations
+1.  A mails an offer to B in which A says, "I must receive your acceptance by return mail." An acceptance sent 
+within a reasonable time by any other means, which reaches A as soon as a letter sent by return mail would 
+normally arrive, creates a contract on arrival.  As to what is a reasonable time, see Illustration 8 to § 41.
+2.  A makes an offer to B and adds, "Send your office boy around with an answer to this by twelve o'clock." The 
+offeree comes himself before twelve o'clock and accepts.  There is a contract.
+3.  A offers to sell his land to B on certain terms, also saying: "You must accept this, if at all, in person at my 
+office at ten o'clock tomorrow." B's power is strictly limited to one method of acceptance.
+4.  A offers to sell his land to B on certain terms, also saying: "You may accept by leaving word at my house." 
+This indicates one operative mode of acceptance; but B's power is not limited to that mode alone.  A personal 
+statement to A would serve just as well.
+5.  A makes an offer to B and adds, "my address is 53 State Street." This is a business address.  B sends an 
+acceptance to A's home which A receives promptly.  Unless the circumstances indicate that A has made a 
+positive requirement of the place where the acceptance must be sent, there is a contract.
+## Reporter'S Notes
+This Section was former § 61.  See 1 Williston, Contracts § 76 (3d ed. 1957); 1 Corbin, Contracts § 77 (1963).
+Comment a.  See generally Town of Lindsay v. Cooke County Elec. Coop. Ass'n, 502 S.W.2d 117 (Tex. 1973), 
+cert. denied, 416 U.S. 970 (1974). Illustrations 1-5 were Illustrations 1-5 to former § 61.  Illustration 1 is 
+modified to provide for the speculative transactions discussed in Comment f to § 41.
+Cross Reference
+### ALR Annotations
+Timeliness of notice of exercise of option to purchase realty.  87 A.L.R.3d 805.
+Necessity of payment or tender of purchase money within option period in order to exercise option, in absence 
+of specific time requirement for payment.  71 A.L.R.3d 1201.
+Difference between offer and acceptance as regards place of payment or of delivery as variance preventing 
+consummation of contract.  3 A.L.R.2d 256.
+### Digest System Key Numbers
+
+§ 60 Acceptance of Offer Which States Place, Time or Manner of Acceptance
+Contracts 22(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

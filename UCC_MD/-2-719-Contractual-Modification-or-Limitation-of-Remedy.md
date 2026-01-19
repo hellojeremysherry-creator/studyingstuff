@@ -1,0 +1,19 @@
+## U.C.C. § 2-719
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 7. REMEDIES
+§ 2-719. Contractual Modification or Limitation of Remedy.
+(1)  Subject to the provisions of subsections (2) and (3) of this section and of the preceding section on 
+liquidation and limitation of damages,
+(a)  the agreement may provide for remedies in addition to or in substitution for those provided in this 
+Article and may limit or alter the measure of damages recoverable under this Article, as by limiting the 
+buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-
+conforming goods or parts; and
+(b)  resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in 
+which case it is the sole remedy.
+(2)  Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may 
+be had as provided in this Act.
+(3)  Consequential damages may be limited or excluded unless the limitation or exclusion is 
+unconscionable.  Limitation of consequential damages for injury to the person in the case of consumer 
+goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

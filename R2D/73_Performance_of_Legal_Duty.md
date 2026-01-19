@@ -1,0 +1,155 @@
+Restat 2d of Contracts, § 73
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 1- The Requirement of Consideration        
+§ 73 Performance of Legal Duty
+Performance of a legal duty owed to a promisor which is neither doubtful nor the subject of honest 
+dispute is not consideration; but a similar performance is consideration if it differs from what was 
+required by the duty in a way which reflects more than a pretense of bargain.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  A claim that the performance of a legal duty furnished consideration for a promise often raises a 
+suspicion that the transaction was gratuitous or mistaken or unconscionable.  If the performance was not in fact 
+bargained for and given in exchange for the promise, the case is not within this Section: in such cases there is 
+no consideration under the rule stated in § 71(1).  Mistake, misrepresentation, duress, undue influence, or 
+public policy may invalidate the transaction even though there is consideration.  See Chapters 6-8.  But the rule 
+of this Section renders unnecessary any inquiry into the existence of such an invalidating cause, and denies 
+enforcement to some promises which would otherwise be valid.  Because of the likelihood that the promise was 
+obtained by an express or implied threat to withhold performance of a legal duty, the promise does not have the 
+presumptive social utility normally found in a bargain.  Enforcement must therefore rest on some substantive or 
+formal basis other than the mere fact of bargain.  See Comments b and c to § 72.  As to such bases, see 
+Topics 2 and 3, and particularly § 89.
+b.  Public duties; torts and crimes.  A legal duty may be owed to the promisor as a member of the public, as 
+when the promisee is a public official.  In such cases there is often no direct sanction available to a member of 
+the public to compel performance of the duty, and the danger of express or implied threats to withhold 
+performance affects public as well as private interests.  A bargain by a public official to obtain private advantage 
+for performing his duty is therefore unenforceable as against public policy.  See Chapter 8.  And under this 
+Section performance of the duty is not consideration for a promise.
+Similar reasoning may apply to duties of public utilities, duties of fiduciaries, and in some cases to duties of 
+citizens generally.  Thus a bargain to pay a witness for testimony may be unenforceable as against public 
+policy.  See §§ 178-80.  A bargain induced by an improper threat may be voidable for duress.  See §§ 175-76.  
+If the only thing bargained for is forbearance to commit a crime or tort, the bargain may be unenforceable as 
+against public policy.  See § 178.  The performance of legal duty is not consideration for a promise in any such 
+case if the duty is owed to the promisor.  If the legal duty is not owed to the promisor, there is consideration but 
+the violation of public policy or other invalidating cause may remain.
+In applying this Section it is first necessary to define the legal duty.  The requirement of consideration is 
+satisfied if the duty is doubtful or is the subject of honest dispute, or if the consideration includes a performance 
+in addition to or materially different from the performance of the duty.  Whether such facts eliminate duress or 
+violation of public policy or other invalidating cause depends on the circumstances.  Ordinarily a mere formality 
+such as the affixing of a seal, though sufficient to render consideration unnecessary, does not cure such 
+defects.  In some situations, however, where there is no other invalidating cause but lack of consideration, the 
+bargain may be enforceable by virtue of reliance or unjust enrichment or formality.  See §§ 82-109.
+### Illustrations
+1.  A offers a reward to whoever produces evidence leading to the arrest and conviction of the murderer of B.  C 
+produces such evidence in the performance of his duty as a police officer.  C's performance is not consideration 
+for A's promise.
+
+§ 73 Performance of Legal Duty
+2.  In Illustration 1, C's duties as a police officer are limited to crimes committed in a particular State, and while 
+on vacation he gathers evidence as to a crime committed elsewhere.  C's performance is consideration for the 
+promise.
+3.  In a State where contracts between husband and wife are enforced and spouses are under a duty not to 
+leave without just cause, A's wife, B, leaves him without just cause.  A promises to pay B $ 1,000 if she will 
+return.  Induced thereby, B returns.  Her return is not consideration.  Compare §§ 175-77, 190.
+c.  Contractual duty to the promisor.  Legal remedies for breach of contract ordinarily involve delay and expense 
+and rarely put the promisee in fully as good a position as voluntary performance.  It is therefore often to a 
+promisee's advantage to offer a bonus to a recalcitrant promisor to induce performance without legal 
+proceedings, and an unscrupulous promisor may threaten breach in order to obtain such a bonus.  In extreme 
+cases, a bargain for additional compensation under such circumstances may be voidable for duress.  See §§ 
+175-76.  And the lack of social utility in such bargains provides what modern justification there is for the rule 
+that performance of a contractual duty is not consideration for a new promise.
+But the rule has not been limited to cases where there was a possibility of unfair pressure, and it has been 
+much criticized as resting on scholastic logic.  Slight variations of circumstance are commonly held to take a 
+case out of the rule, particularly where the parties have made an equitable adjustment in the course of 
+performance of a continuing contract, or where an impecunious debtor has paid part of his debt in satisfaction 
+of the whole.  See §§ 89, 273-77.  And in some states the rule has simply been repudiated.
+### Illustrations
+4.  A, an architect, agrees with B to superintend a construction project for a fixed fee.  During the course of the 
+project, without excuse, A takes away his plans and refuses to continue, and B promises him an extra fee if A 
+will resume work.  A's resumption of work is not consideration for B's promise of an extra fee.
+5.  A files a claim for total disability under an accident insurance policy written by B.  Without investigation, 
+discussion or dispute, B pays A the lesser amount which would be payable for partial disability, and A signs a 
+receipt for "full payment" of the claim.  The payment is not consideration for A's promise to accept it in full 
+satisfaction of his claim for total disability.
+6.  A, being insolvent and contemplating bankruptcy, offers B $ 30 in full settlement of a debt of $ 100.  B 
+dissuades A from going into bankruptcy, accepts the offer, receives the money, and closes the account.  A's 
+forbearance to seek a discharge in bankruptcy is consideration for B's promise not to seek further payment.
+7.  A owes B a liquidated sum.  Any payment by A at an earlier time, or in a different medium from that required 
+by the duty, is consideration for B's promise to accept it in full satisfaction if the difference in performance is part 
+of what is requested and given in exchange for the promise.
+8.  A owes B a matured liquidated debt bearing interest.  Mutual promises to extend the debt for a year even at 
+a lower rate of interest are binding.  By such an agreement A gives up the right to terminate the running of 
+interest by paying the debt.
+d.  Contractual duty to third person.  The rule that performance of legal duty is not consideration for a promise 
+has often been applied in cases involving a contractual duty owed to a person other than the promisor.  In such 
+cases, however, there is less likelihood of economic coercion or other unfair pressure than there is if the duty is 
+owed to the promisee.  In some cases consideration can be found in the fact that the promisee gives up his 
+right to propose to the third person the rescission or modification of the contractual duty.  But the tendency of 
+the law has been simply to hold that performance of contractual duty can be consideration if the duty is not 
+owed to the promisor.  Relief may still be given to the promisor in appropriate cases under the rules governing 
+duress and other invalidating causes.
+### Illustrations
+9.  A and B are engaged to be married.  In an antenuptial agreement C, A's father, promises B that C will pay 
+an annuity to A, and A and B marry in reliance on the promise.  The marriage is consideration for C's promise.
+10.  A and her husband B are employed as domestic servants of C.  B having become ill, C employs A to care 
+for B in the home of A and B.  A's care for B is consideration for C's promise to pay wages to A.
+
+§ 73 Performance of Legal Duty
+11.  A contracts with B to install heating units in houses being built by B for C.  B becomes insolvent and 
+discontinues work, and C promises to pay A if A completes the installation in accordance with the contract 
+between A and B.  A's performance is consideration for C's promise.
+12.  A is employed to drive B's horse in a race.  C owns the dam of B's horse and is entitled to a prize if B's 
+horse wins the race.  C promises A a bonus if he wins the race.  A's driving in the race is consideration for C's 
+promise, but B may be entitled to the bonus.  See Restatement, Second, Agency §§ 313, 388.
+e.  Voidable and unenforceable duties.  The duty referred to in the Section is confined to a duty for which any 
+remedy ordinarily allowed by the law for that kind of duty is still available.  One who may at will avoid a legal 
+relation or refrain from any performance without legal consequences, or against whom all remedies appropriate 
+to the enforcement of his duty have become barred, is not under a duty within the meaning of the Section.
+### Illustrations
+13.  A, an infant, promises B to pay B $ 50 for a set of books which A does not need.  B delivers the books.  A 
+becomes of age and threatens to rescind the bargain, as the law permits him to do.  B promises A that if A will 
+pay the $ 50 as originally agreed, B will give A another book.  A, induced thereby, pays the $ 50.  The payment 
+is consideration.
+14.  A sells goods to B, who becomes indebted therefor in the sum of $ 100.  The Statute of Limitations bars 
+any remedy of A to recover the debt.  A promises B that if B will pay the debt, A will give B a specified book.  B 
+pays the debt.  The payment is consideration.
+f.  Doubtful, disputed and unliquidated duties.  Such duties are not within this Section.  They are the subject of § 
+74.
+## Reporter'S Notes
+This Section consolidates the subject matter of former §§ 76(a) and 84 (c) and (d).  The provisions of the former 
+§ 76(a) for public duties and for duties owed to third persons under the law of torts or crimes are omitted, and 
+the requirement that a dispute be "reasonable" as well as "honest" is dropped, as urged in Whittier, The 
+Restatement of Contracts and Consideration, 18 Calif. L. Rev. 611 618-23 (1930). Compare § 74 on disputed 
+claims.  The qualification in terms of "pretense" did not appear in former § 84(c); the present qualification 
+excludes accidental and inconsequential differences as well as pretended differences.
+See 1 Williston, Contracts §§ 120-34 (3d ed. 1957); 1A Corbin, Contracts §§ 171-92 (1963 & Supp. 1980); 
+Whittier, The Restatement of Contracts and Consideration, 18 Calif. L. Rev. 611, 616-24 (1930); Sharp, Pacta 
+Sunt Servanda, 41 Colum. L. Rev. 783, 786-88 (1941); Havighurst, Consideration, Ethics and Administration, 
+42 Colum. L. Rev. 1, 25-30 (1942); Dalzell, Duress by Economic Pressure, 20 N.C.L. Rev. 237, 341, 384-86 
+(1942); Dawson, Economic Duress -- An Essay in Perspective, 45 Mich. L. Rev. 253, 276-82 (1947); Patterson, 
+An Apology for Consideration, 58 Colum. L. Rev. 929, 936-39 (1958); von Mehren, Civil-Law Analogues to 
+Consideration: An Exercise in Comparative Analysis, 72 Harv. L. Rev. 1009, 1062-64 (1959).
+Comment b.  See Whittier, The Restatement of Contracts and Consideration, 18 Calif. L. Rev. 611, 622 (1930). 
+Illustrations 1 and 2 are new.  Illustration 3 is based on Illustration 1 to former § 76, which was approved in 
+Campbell v. Prater, 64 Who. 293, 191 P.2d 160 (1948).
+Comment c.  Several aspects of the Comment are illustrated by Cohen v. Sabin, 452 Pa. 447, 307 A.2d 845 
+(1973). See Annot., 12 A. L.R.2d 78 (1949). For cases repudiating the rule see Annot., 119 A.L.R. 1123 (1939). 
+Illustration 4 is based on Lingenfelder v. Wainwright Brewery Co., 103 Mo. 578, 15 S.W. 844 (1891). Illustration 
+5 is based on Metropolitan Life Ins. Co. v. Richter, 173 Okl. 489, 49 P.2d 94 (1935). Illustration 6 is based on 
+Melroy v. Kemmerer, 218 Pa. 381, 67 A. 699 (1907); see also Cohen v. Sabin, supra. Illustration 7 was 
+Illustration 6 to former § 76.  Illustration 8 is based on Benson v. Phipps, 87 Tex. 578, 29 S.W. 1061 (1895).
+Comment d.  The rationale and rule discussed in this Comment are supported by Morrison Flying Serv. v. 
+Deming Nat'l Bank, 404 F.2d 856 (10th Cir. 1968), cert. denied, 393 U.S. 1020 (1969), and the authorities cited 
+in that opinion.  Illustration 9 is based on De Cicco v. Schweizer, 221 N.Y. 431, 117 N.E. 807 (1917); cf.  
+Shadwell v. Shadwell, 30 L.J.C.P. 145 (1860). Illustration 10 is based on Willard v. Hobby, 134 F. Supp. 66 
+(E.D. Pa. 1955). Illustration 11 is based on Joseph Lande & Son v. Wellsco Realty, Inc., 131 N.J.L. 191, 34 
+A.2d 418 (Ct. Err. & App. 1943).  Compare Morrison Flying Serv. v. Deming Nat'l Bank, supra. Illustration 12 
+repudiates the reasoning but not necessarily the result of McDevitt v. Stokes, 174 Ky. 515, 192 S.W. 681 
+(1917).
+
+§ 73 Performance of Legal Duty
+Cross Reference
+### Digest System Key Numbers
+Contracts 75
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

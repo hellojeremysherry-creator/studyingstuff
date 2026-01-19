@@ -1,0 +1,57 @@
+Restat 2d of Contracts, § 207
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 2- Considerations of Fairness and the Public Interest        
+§ 207 Interpretation Favoring the Public
+In choosing among the reasonable meanings of a promise or agreement or a term thereof, a meaning 
+that serves the public interest is generally preferred.
+## Comments & Illustrations
+### Comment
+a.  Scope.  The rule preferring an interpretation which favors an interest of the public applies only to 
+agreements which affect a public interest.  It is a rule of legal effect as well as interpretation, and rests more on 
+considerations of public policy than on the probable intention of the parties.  It has often been relied on to justify 
+narrow construction of a grant of a public franchise or an agreement for a tax exemption.  In general, it does not 
+prefer the interest of a governmental agency as a party to a contract; government contracts are likely to be 
+construed against the government as the drafting party.
+### Illustration
+1.  A is employed by B as an inventor.  In an agreement settling their disputes on termination of the 
+employment, A promises to assign to B all A's rights in a pending patent application and all improvements on 
+the invention covered.  Thereafter A makes an invention and applies for a patent, and B claims it as an 
+improvement.  The public interest in encouraging invention supports an interpretation of the agreement 
+excluding future improvements unless future improvements were specifically included.
+## Reporter'S Notes
+This Section carries forward the substance of former § 236(f).  See 3 Corbin, Contracts § 550 (1962); 4 
+Williston, Contracts § 626 (3d ed. 1961).
+Comment a.  Illustration 1 is based on De Long Corp. v. Lucas, 176 F. Supp. 104 (S.D.N.Y. 1959), aff'd, 278 
+F.2d 804 (2d Cir.), cert. denied, 364 U.S. 833 (1960); cf.  Loblaw, Inc. v. Warren Plaza, Inc., 163 Ohio St. 581, 
+127 N.E.2d 754 (1955) (lessor's covenant against competition with lessee).  See also Houk v. Ross, 34 Ohio 
+St.2d 77, 296 N.E.2d 266 (1973) (construction favored that least restricts the free use of land).
+Cross Reference
+### ALR Annotations
+Construction and application of agreement by medical or social work student to work in particular position or at 
+particular location in exchange for financial aid in meeting costs of education.  83 A.L.R.3d 1273.
+Validity and construction of contract between hospital and physician providing for exclusive medical services.  
+74 A.L.R.3d 1268.
+Validity and construction of "No Damage" clause with respect to delay in building or construction contract.  74 
+A.L.R.3d 187.
+Landlord and tenant: What amounts to "sale" of property for purposes of provision giving tenant right of first 
+refusal if landlord desires to sell.  70 A.L.R.3d 203.
+Validity and construction of contract exempting agricultural fair or similar bailee from liability for articles 
+delivered for exhibition.  69 A.L.R.3d 1025.
+
+§ 207 Interpretation Favoring the Public
+Validity and construction of provision (Escalator Clause) in land contract or mortgage that rate of interest 
+payable shall increase if legal rate is raised.  60 A.L.R.3d 473.
+Construction and operation of "Equal Opportunities Clause" requiring pledge against racial discrimination in 
+hiring under construction contract.  44 A.L.R.3d 1283.
+Validity and construction of contract under which applicant for admission to home for aged or infirm turns over 
+his property to institution in return for lifetime care.  44 A.L.R.3d 1174.
+Validity and construction of putative father's promise to support or provide for illegitimate child.  20 A.L.R.3d 
+500.
+"Escalator" price adjustment clauses.  63 A.L.R.2d 1337.
+Special requirements of consumer as giving rise to implied contract by public utility to furnish particular amount 
+of electricity, gas, or water.  13 A.L.R.2d 1233.
+### Digest System Key Numbers
+Contracts 143
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

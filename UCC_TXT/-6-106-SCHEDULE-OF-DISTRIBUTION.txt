@@ -1,0 +1,57 @@
+U.C.C. § 6-106
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 6. BULK SALES  >  ALTERNATIVE B [Including 
+Article 6 as revised]
+§ 6-106. SCHEDULE OF DISTRIBUTION.
+(1)  The seller and buyer shall agree on how the net contract price is to be distributed and set forth their 
+agreement in a written schedule of distribution.
+(2)  The schedule of distribution may provide for distribution to any person at any time, including distribution 
+of the entire net contract price to the seller.
+(3)  The buyer's undertakings in the schedule of distribution run only to the seller.  However, a buyer who 
+fails to distribute the net contract price in accordance with the buyer's undertakings in the schedule of 
+distribution is liable to a creditor only as provided in Section 6-107(1).
+(4)  If the buyer undertakes in the schedule of distribution to distribute any part of the net contract price to a 
+person other than the seller, and, after the buyer has given notice in accordance with Section 6-105, some 
+or all of the anticipated net contract price is or becomes unavailable for distribution as a consequence of the 
+buyer's or seller's having complied with an order of court, legal process, statute, or rule of law, the buyer is 
+excused from any obligation arising under this Article or under any contract with the seller to distribute the 
+net contract price in accordance with the buyer's undertakings in the schedule if the buyer:
+(a)  distributes the net contract price remaining available in accordance with any priorities for payment 
+stated in the schedule of distribution and, to the extent that the price is insufficient to pay all the debts 
+having a given priority, distributes the price pro rata among those debts shown in the schedule as 
+having the same priority;
+(b)  distributes the net contract price remaining available in accordance with an order of court;
+(c)  commences a proceeding for interpleader in a court of competent jurisdiction and is discharged 
+from the proceeding; or
+(d)  reaches a new agreement with the seller for the distribution of the net contract price remaining 
+available, sets forth the new agreement in an amended schedule of distribution, gives notice of the 
+amended schedule, and distributes the net contract price remaining available in accordance with the 
+buyer's undertakings in the amended schedule.
+(5)  The notice under subsection (4)(d) must identify the buyer and the seller, state the filing number, if any, 
+of the original notice, set forth the amended schedule, and be given in accordance with subsection (1) or (2) 
+of Section 6-105, whichever is applicable, at least 14 days before the buyer distributes any part of the net 
+contract price remaining available.
+(6)  If the seller undertakes in the schedule of distribution to distribute any part of the net contract price, 
+and, after the buyer has given notice in accordance with Section 6-105, some or all of the anticipated net 
+contract price is or becomes unavailable for distribution as a consequence of the buyer's or seller's having 
+complied with an order of court, legal process, statute, or rule of law, the seller and any person in control of 
+the seller are excused from any obligation arising under this Article or under any agreement with the buyer 
+to distribute the net contract price in accordance with the seller's undertakings in the schedule if the seller:
+(a)  distributes the net contract price remaining available in accordance with any priorities for payment 
+stated in the schedule of distribution and, to the extent that the price is insufficient to pay all the debts 
+having a given priority, distributes the price pro rata among those debts shown in the schedule as 
+having the same priority;
+
+§ 6-106. SCHEDULE OF DISTRIBUTION.
+(b)  distributes the net contract price remaining available in accordance with an order of court;
+(c)  commences a proceeding for interpleader in a court of competent jurisdiction and is discharged 
+from the proceeding; or
+(d)  prepares a written amended schedule of distribution of the net contract price remaining available 
+for distribution, gives notice of the amended schedule, and distributes the net contract price remaining 
+available in accordance with the amended schedule.
+(7)  The notice under subsection (6)(d) must identify the buyer and the seller, state the filing number, if any, 
+of the original notice, set forth the amended schedule, and be given in accordance with subsection (1) or (2) 
+of Section 6-105, whichever is applicable, at least 14 days before the seller distributes any part of the net 
+contract price remaining available.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

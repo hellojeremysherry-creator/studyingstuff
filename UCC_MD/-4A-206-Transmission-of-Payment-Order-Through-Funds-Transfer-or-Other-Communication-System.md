@@ -1,0 +1,16 @@
+## U.C.C. § 4A-206
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4A. FUNDS TRANSFERS  >  PART 2. ISSUE AND 
+## Acceptance Of Payment Order
+§ 4A-206. Transmission of Payment Order Through Funds-Transfer or Other 
+Communication System.
+(a)  If a payment order addressed to a receiving bank is transmitted to a funds-transfer system or other 
+third-party communication system for transmittal to the bank, the system is deemed to be an agent of the 
+sender for the purpose of transmitting the payment order to the bank.  If there is a discrepancy between the 
+terms of the payment order transmitted to the system and the terms of the payment order transmitted by the 
+system to the bank, the terms of the payment order of the sender are those transmitted by the system.  This 
+section does not apply to a funds-transfer system of the Federal Reserve Banks.
+(b)  This section applies to cancellations and amendments of payment orders to the same extent it applies 
+to payment orders.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

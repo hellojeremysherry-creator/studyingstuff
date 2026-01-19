@@ -1,0 +1,15 @@
+## U.C.C. § 2-611
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 6. BREACH, REPUDIATION 
+## And Excuse
+§ 2-611. Retraction of Anticipatory Repudiation.
+(1)  Until the repudiating party's next performance is due he can retract his repudiation unless the aggrieved 
+party has since the repudiation cancelled or materially changed his position or otherwise indicated that he 
+considers the repudiation final.
+(2)  Retraction may be by any method which clearly indicates to the aggrieved party that the repudiating 
+party intends to perform, but must include any assurance justifiably demanded under the provisions of this 
+Article ( Section 2-609).
+(3)  Retraction reinstates the repudiating party's rights under the contract with due excuse and allowance to 
+the aggrieved party for any delay occasioned by the repudiation.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

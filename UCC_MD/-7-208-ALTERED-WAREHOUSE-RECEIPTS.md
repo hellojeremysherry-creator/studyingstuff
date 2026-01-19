@@ -1,0 +1,11 @@
+## U.C.C. § 7-208
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 7. DOCUMENTS OF TITLE  >  PART 2. 
+## Warehouse Receipts: Special Provisions
+## § 7-208. Altered Warehouse Receipts
+ If a blank in a negotiable tangible warehouse receipt has been filled in without authority, a good-faith purchaser for 
+value and without notice of the lack of authority may treat the insertion as authorized. Any other unauthorized 
+alteration leaves any tangible or electronic warehouse receipt enforceable against the issuer according to its 
+original tenor.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

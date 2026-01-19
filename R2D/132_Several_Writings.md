@@ -1,0 +1,107 @@
+Restat 2d of Contracts, § 132
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 6- Satisfaction of the Statute by a Memorandum        
+§ 132 Several Writings
+The memorandum may consist of several writings if one of the writings is signed and the writings in the 
+circumstances clearly indicate that they relate to the same transaction.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  The requirements of the Statute of Frauds, designed primarily to serve an evidentiary purpose, 
+are less rigorous than those of the Statute of Wills, which is designed to serve cautionary and channeling 
+purposes as well.  See Comment c to § 72; Statutory Note preceding § 110.  A will may refer to facts which 
+have independent significance, and in some States a will may incorporate by reference an unattested existing 
+document.  See Restatement Second, Trusts § 54.  A memorandum of a contract need only give assurance 
+that the contract enforced was in fact made and provide evidence of its terms.  It may consist of several 
+separate documents, even though not all of them are signed and even though no one of them is itself a 
+sufficient memorandum.  At least one must be signed by the party to be charged, and the documents and 
+circumstances must be such that the documents can be read together as "some memorandum or note" of the 
+agreement.  Explicit incorporation by reference is unnecessary, but if the connection depends on evidence 
+outside the writings, the evidence of connection must be clear and convincing.
+b.  Several signed writings.  Where two or more documents are signed by the party to be charged, they may be 
+read together even though neither contains any reference to the other.  The question whether they constitute a 
+sufficient memorandum is substantially the same as if they had been incorporated in a single document.
+### Illustration
+1.  A signs and sends to B a letter stating that he is interested in leasing aparcel of land from B.  After six 
+months of negotiations A and B orally agree on an eight-year lease of the parcel with an option to purchase, 
+and both sign a memorandum which is sufficient except that it does not identify the land.  The two documents 
+together constitute a sufficient memorandum to charge A.
+c.  Reference to unsigned writing:  physical connection.  Where the signature of the party to be charged is 
+made or adopted with reference to an unsigned writing, the signed and unsigned writings together may 
+constitute a memorandum.  It is sufficient that the signed writing refers to the unsigned writing explicitly or by 
+implication, or that the party to be charged physically attaches one document to the other or encloses them in 
+the same envelope.  Even if there is no internal reference or physical connection, the documents may be read 
+together if in the circumstances they clearly relate to the same transaction and the party to be charged has 
+acquiesced in the contents of the unsigned writing.
+### Illustrations
+2.  A and B make an oral contract within the Statute.  A writes and signs a letter to B which is a sufficient 
+memorandum except that it does not identify B.  The deficiency may be supplied by the name and address on 
+the envelope in which the letter arrives.
+3.  A and B make an oral contract within the Statute.  A memorandum of the contract is made on two sheets of 
+paper which are not connected physically, and A signs one of the sheets.  The two sheets may be read 
+together as a memorandum to charge A if an incomplete sentence on one is completed on the other, if the 
+contract partially disclosed by one is clearly the same contract partially disclosed by the other, or if the fact that 
+one is a continuation of the other is otherwise shown by clear and convincing evidence.
+
+§ 132 Several Writings
+4.  A and B enter into an oral contract within the Statute.  A memorandum of the contract is made on two sheets 
+of paper.  The contents of the sheets do not show that they belong together, but A signs one and then fastens 
+the sheets together with a clip.  Even though the clip is later removed, the fastening is a sufficient adoption of 
+A's signature with reference to both sheets to charge A, but only if the evidence of the fastening is clear and 
+convincing.
+5.  A agrees orally to employ B for two years.  An unsigned memorandum of the contract, stating its terms, is 
+prepared at A's direction.  Later B begins work and payroll cards are made and initialed by A which state some 
+of the terms but not the duration of the employment.  If it is clear that the unsigned memorandum and the 
+payroll cards refer to the same agreement, they may be read together as a sufficient memorandum to charge A.
+d.  Reference to future writings.  Ordinarily a signature does not authenticate a document not in existence at the 
+time the signature is made.  But when several documents are executed by different parties in a single 
+transaction, the signature of one may have reference to a subsequent signature of another.  In some such 
+cases the earlier signature may be adopted with reference to a document prepared later, whether signed by 
+anyone or not.  In other cases the reference is to an event of independent significance, or to the exercise of a 
+power granted by the signer.  Thus a signed offer authenticates the acceptance invited by it.
+### Illustrations
+6.  A and B enter into a contract within the Statute and sign a memorandum, otherwise sufficient, stating that 
+the price to be paid shall be the same as the price agreed upon by C and D in a similar contract expected to be 
+made on the following day.  The memorandum is sufficient if it accurately states the entire agreement between 
+A and B.  The contract made between C and D is an event of independent significance, and may be referred to 
+for the price whether or not there is a memorandum signed by C or D.
+7.  A and B enter into an oral contract for the purchase and sale of a tract of land and sign a memorandum, 
+otherwise sufficient, stating that the contract is "contingent upon A's ability to arrange $ 7,000 purchase money 
+mortgage." A subsequently applies in writing to a financial institution for such a mortgage loan on specific terms 
+as to duration, interest rate and payment.  The mortgage loan application may be read with the memorandum to 
+satisfy the Statute against either party.
+## Reporter'S Notes
+The Section is revised from former § 208 to state the doctrine "which has gained increasing support over the 
+years," "that a sufficient connection between the papers is established simply by a reference in them to the 
+same subject matter or transaction." See Crabtree v. Elizabeth Arden Sales Corp., 305 N.Y. 48, 110 N.E.2d 
+551 (1953). See 4 Williston, Contracts §§ 580-84 (3d ed. 1961); 2 Corbin, Contracts §§ 512-16 (1950 & Supps. 
+1971 & 1980); Annots., 73 A.L.R. 1383 (1931), 85 A.L.R. 1184 (1933), 81 A.L.R.2d 991 (1962). Illustrations 7 
+and 8 to former § 208, dealing with inaccurate memoranda, are omitted.
+Comment b.  Illustration 1 is based on Shell Eastern Pet. Prods. v. White, 68 F.2d 379 (D.C. Cir. 1933); cf.  
+Dunlap v. Foss, 82 N.H. 449, 136 A. 257 (1926); Oliver v. Corzelius, 215 S.W.2d 231 (Tex. Civ. App. 1948), 
+rev'd on other grounds, 148 Tex. 76, 220 S.W.2d 632 (1949); Illustration 1 to former § 208.
+Comment c.  Illustrations 2, 3 and 4 are based on Illustrations 2, 3 and 4 to former § 208.  Illustration 5 is based 
+on Crabtree v. Elizabeth Arden Sales Corp., 305 N.Y. 48, 110 N.E.2d 551 (1953); see also Blue Valley 
+Creamery Co. v. Consolidated Prods. Co., 81 F.2d 182 (8th Cir. 1936); Clifford v. Carrols New York Dev. Corp., 
+50 Misc.2d 741, 271 N.Y.S.2d 465 (Sup. Ct. 1966). A more rigid view requiring each document expressly to 
+refer to the other is espoused by Owen v. Hendricks, 433 S.W.2d 164 (Tex. 1968). In that case, A wrote to B on 
+October 7 asking about the possibility of A's selling "your 960 acres in Dallam County;" B wrote to A on October 
+11, saying "the 960 acres in Dallam County is for sale," and discussing various details including price and A's 
+commission.  The court said that "the two letters obviously relate to the same subject matter, but there is 
+nothing in the letter signed by [B] that even remotely suggests the existence of another writing," and found the 
+two letters insufficient as a memorandum satisfying the Statute of Frauds.  Cf.  Grant v. Auvil, 39 Wash.2d 722, 
+238 P.2d 393 (1951); Pettigrew v. Denwalt, 431 P.2d 333 (Okl. 1967); Illustration 9 to former § 208.
+Comment d.  See Annot., 85 A.L.R. 1184, 1193 (1933).  Illustration 6 is based on Illustration 5 to former § 208.  
+Illustration 7 is based on Kovarik v. Vesely, 3 Wis.2d 573, 89 N.W.2d 279 (1958); cf.  Beltsman v. Sherman, 
+224 Mich. 347, 194 N.W. 1003 (1923). But cf.  Spragg v. Polino, 114 W. Va. 369, 171 S.E. 897 (1933); 
+Illustration 6 to former § 208.
+
+§ 132 Several Writings
+Cross Reference
+### ALR Annotations
+Admissibility of parol evidence to connect signed and unsigned documents relied upon as memorandum to 
+satisfy statute of frauds.  81 A.L.R.2d 991.
+### Digest System Key Numbers
+Frauds, Statute of 118
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

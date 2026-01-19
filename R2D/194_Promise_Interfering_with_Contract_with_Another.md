@@ -1,0 +1,53 @@
+Restat 2d of Contracts, § 194
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 4- Interference with Other 
+Protected Interests        
+§ 194 Promise Interfering with Contract with Another
+A promise that tortiously interferes with performance of a contract with a third person or a tortiously 
+induced promise to commit a breach of contract is unenforceable on grounds of public policy.
+## Comments & Illustrations
+### Comment
+a.  Scope.  Interfering with performance of a contract may be a tort.  See Restatement, Second, Torts § 766.  A 
+promise that tortiously interferes with performance of a contract with a third person is therefore unenforceable 
+on grounds of public policy.  The same is true of a promise to commit a breach of contract that has been 
+tortiously induced.  The rule stated in this Section applies even though the contract interfered with is 
+unenforceable because of the Statute of Frauds.
+### Illustrations
+1.  A and B make an agreement under which A promises to employ B to work full time and B promises to begin 
+to work immediately.  As A knows, B is under an existing contract of full time employment with C.  A's promise 
+tends tortiously to interfere with B's contract with C, and B's is a tortiously induced promise to commit a breach 
+of that contract.  Both promises are unenforceable on grounds of public policy.  Compare Illustration 1 to § 180.
+2.  A induces B, a member of a stock exchange, to make an agreement under which B promises to charge A 
+reduced commissions that A knows are in violation of the rules of the exchange by which B agreed to be bound 
+when he became a member.  B's promise is a tortiously induced promise to commit a breach of his contract 
+with the exchange and is unenforceable on grounds of public policy.  Compare Illustration 1 to § 180.
+## Reporter'S Notes
+This Section is based on former § 576.  See 6A Corbin, Contracts § 1470 (1962); 15 Williston, Contracts § 1738 
+(3d ed. 1972).  On the development of the tort, see Note, 93 Harv. L. Rev. 1510 (1980).
+Comment a.  The proposition implicit in Illustration 2 to former § 576, that the rule does not apply if the contract 
+is unenforceable because of the Statute of Frauds, is rejected as inconsistent with the rule that intentional 
+interference with such a contract is tortious.  See Comment f to Restatement, Second, Torts § 766; see also §§ 
+14, 217.  The tort rules are discussed in Adler, Barish, Daniels, Levin and Creskoff v. Epstein, 482 Pa. 416, 393 
+A.2d 1175 (1978), cert. denied, 442 U.S. 907 (1979); and Special Event Entertainment v. Rockefeller Center, 
+Inc., 458 F. Supp. 72 (S.D.N.Y. 1978). For a holding that a willful breach of contract may also be a tortious 
+interference with the victim's prospective commercial advantage, see Cherberg v. Peoples Nat'l Bank, 88 
+Wash.2d 595, 564 P.2d 1137 (1977), criticized in Note, Misapplication of the Tort of Interference with Business 
+Relations, 53 Wash. L. Rev. 525 (1978). Illustrations 1 and 2 are based on Illustrations 1 and 3 to former § 576.
+Cross Reference
+### ALR Annotations
+Validity and construction of contract between hospital and physician providing for exclusive medical services.  
+74 A.L.R.3d 1268.
+Validity, construction, and enforcement of business opportunities or "Finder's Fee" contract.  24 A.L.R.3d 1160.
+
+§ 194 Promise Interfering with Contract with Another
+Attorney's recovery in quantum meruit for legal services rendered under a contract which is illegal or void as 
+against public policy.  100 A.L.R.2d 1378.
+Validity, construction, and effect of contract between grower of vegetable or fruit crops, and purchasing 
+processor, packer, or canner.  87 A.L.R.2d 732.
+Validity, under the Federal Antitrust Laws (15 U.S.C. § 1 et seq.), of agreements between employers or 
+employer associations imposing restrictions on employment.  2 A.L.R.Fed. 839.
+### Digest System Key Numbers
+Contracts 113(4)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

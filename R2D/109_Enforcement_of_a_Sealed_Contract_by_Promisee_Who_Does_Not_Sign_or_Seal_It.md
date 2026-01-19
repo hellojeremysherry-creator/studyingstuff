@@ -1,0 +1,24 @@
+Restat 2d of Contracts, § 109
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 109 Enforcement of a Sealed Contract by Promisee Who Does Not Sign or 
+Seal It
+The promisee of a promise under seal is not precluded from enforcing it as a sealed contract because 
+he has not signed or sealed the document, unless his doing so was a condition of the delivery, whether 
+or not the document contains a promise by him.
+## Comments & Illustrations
+### Comment
+a.  Failure to sign or seal.  Other circumstances (as indicated by §§ 105 and 107) than the fact that the 
+promisee has not signed or sealed the document may prevent the promisee from acquiring a right, but the 
+failure to sign or seal does not itself have this effect, unless such an act is made a condition when the 
+document is delivered.
+## Reporter'S Notes
+This Section is based on former § 109.  See 1 Williston, Contracts § 213 (3d ed. 1957); 1A Corbin, Contracts § 
+245 (1963).
+Cross Reference
+### Digest System Key Numbers
+Contracts 36
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

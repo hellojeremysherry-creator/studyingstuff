@@ -1,0 +1,19 @@
+## U.C.C. § 2A-218
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 2. FORMATION AND 
+## Construction Of Lease Contract
+§ 2A-218. Insurance and Proceeds.
+(1)  A lessee obtains an insurable interest when existing goods are identified to the lease contract even 
+though the goods identified are nonconforming and the lessee has an option to reject them.
+(2)  If a lessee has an insurable interest only by reason of the lessor's identification of the goods, the lessor, 
+until default or insolvency or notification to the lessee that identification is final, may substitute other goods 
+for those identified.
+(3)  Notwithstanding a lessee's insurable interest under subsections (1) and (2), the lessor retains an 
+insurable interest until an option to buy has been exercised by the lessee and risk of loss has passed to the 
+lessee.
+(4)  Nothing in this section impairs any insurable interest recognized under any other statute or rule of law.
+(5)  The parties by agreement may determine that one or more parties have an obligation to obtain and pay 
+for insurance covering the goods and by agreement may determine the beneficiary of the proceeds of the 
+insurance.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,27 @@
+## U.C.C. § 4-210
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4. BANK DEPOSIT  >  PART 2. COLLECTION OF 
+## Items: Depositary And Collecting Banks
+## § 4-210. Security Interest Of Collecting Bank In Items,
+## Accompanying Documents And Proceeds
+(a)  A collecting bank has a security interest in an item and any accompanying documents or the proceeds 
+### of either
+(1)  in case of an item deposited in an account, to the extent to which credit given for the item has been 
+withdrawn or applied;
+(2)  in case of an item for which it has given credit available for withdrawal as of right, to the extent of 
+the credit given, whether or not the credit is drawn upon or there is a right of charge-back; or
+(3)  if it makes an advance on or against the item.
+(b)  If credit given for several items received at one time or pursuant to a single agreement is withdrawn or 
+applied in part, the security interest remains upon all the items, any accompanying documents or the 
+proceeds of either. For the purpose of this section, credits first given are first withdrawn.
+(c)  Receipt by a collecting bank of a final settlement for an item is a realization on its security interest in the 
+item, accompanying documents, and proceeds. So long as the bank does not receive final settlement for 
+the item or give up possession of the item or possession or control of the accompanying documents for 
+purposes other than collection, the security interest continues to that extent and is subject to Article 9, but:
+(1)  no security agreement is necessary to make the security interest enforceable ( Section 9-
+203(b)(3)(A));
+(2)  no filing is required to perfect the security interest; and
+(3)  the security interest has priority over conflicting perfected security interests in the item, 
+accompanying documents, or proceeds.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

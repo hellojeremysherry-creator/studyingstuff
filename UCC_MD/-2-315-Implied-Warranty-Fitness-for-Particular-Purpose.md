@@ -1,0 +1,10 @@
+## U.C.C. § 2-315
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 3. GENERAL OBLIGATION 
+## And Construction Of Contract
+§ 2-315. Implied Warranty: Fitness for Particular Purpose.
+Where the seller at the time of contracting has reason to know any particular purpose for which the goods are 
+required and that the buyer is relying on the seller's skill or judgment to select or furnish suitable goods, there is 
+unless excluded or modified under the next section an implied warranty that the goods shall be fit for such purpose.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,14 @@
+## U.C.C. § 2A-217
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 2. FORMATION AND 
+## Construction Of Lease Contract
+§ 2A-217. Identification.
+Identification of goods as goods to which a lease contract refers may be made at any time and in any 
+manner explicitly agreed to by the parties.  In the absence of explicit agreement, identification occurs:
+(a)  when the lease contract is made if the lease contract is for a lease of goods that are existing and 
+identified;
+(b)  when the goods are shipped, marked, or otherwise designated by the lessor as goods to which the 
+lease contract refers, if the lease contract is for a lease of goods that are not existing and identified; or
+(c)  when the young are conceived, if the lease contract is for a lease of unborn young of animals.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

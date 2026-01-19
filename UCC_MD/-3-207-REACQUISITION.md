@@ -1,0 +1,12 @@
+## U.C.C. § 3-207
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 2. 
+## Negotiation, Transfer, And Indorsement
+## § 3-207. Reacquisition
+ Reacquisition of an instrument occurs if it is transferred to a former holder, by negotiation or otherwise. A former 
+holder who reacquires the instrument may cancel indorsements made after the reacquirer first became a holder of 
+the instrument. If the cancellation causes the instrument to be payable to the reacquirer or to bearer, the reacquirer 
+may negotiate the instrument. An indorser whose indorsement is canceled is discharged, and the discharge is 
+effective against any subsequent holder.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

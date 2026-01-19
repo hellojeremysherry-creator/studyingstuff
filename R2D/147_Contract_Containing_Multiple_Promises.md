@@ -1,0 +1,83 @@
+Restat 2d of Contracts, § 147
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 7- Consequences of Non-Compliance        
+§ 147 Contract Containing Multiple Promises
+(1)  Where performance of the promises in a contract which subject it to the Statute of Frauds is 
+exclusively beneficial to one party, that party by agreeing to forego the performance may render the 
+remainder of the contract enforceable, but this rule does not apply to a contract to transfer property on 
+the promisor's death.
+(2)  Where the promises in a contract which subject it to the Statute have become enforceable or where 
+the duty to perform them has been discharged by performance or otherwise, the Statute does not 
+prevent enforcement of the remaining promises.
+(3)  Except as stated in this Section, where some of the unperformed promises in a contract are 
+unenforceable against a party under the Statute of Frauds, all the promises in the contract are 
+unenforceable against him.
+## Comments & Illustrations
+### Comment
+a.  Waiver of unenforceable part by party seeking enforcement.  Where the part of the contract which renders it 
+subject to the Statute is exclusively beneficial to the party seeking enforcement, he may agree to forego that 
+part and enforce the rest.  This rule has particular application to cases where the party seeking enforcement 
+has paid the entire consideration.  But the rule is not applied to a promise to make a will covering both real and 
+personal property for a single consideration, even though the entire consideration has been given, presumably 
+because of the policy of the Statute of Wills and because of the availability of the remedy of restitution.
+### Illustrations
+1.  In consideration of A's oral promise to marry B and to settle $ 5,000 upon her, B promises to marry A.  If A 
+refuses to marry B after B expresses assent to forego the settlement, the Statute of Frauds does not preclude 
+an action by B against A for breach of promise to marry.
+2.  For a single premium A orally insures a shipment of B's goods against fire and also orally agrees to answer 
+for certain defaults of the carrier.  The goods are damaged by fire.  The Statute of Frauds does not prevent 
+enforcement of the fire insurance.
+3.  A promises to make a will leaving real and personal property to B in return for services to be rendered by B.  
+B renders the services, but A dies leaving the property to someone else.  If the Statute of Frauds makes the 
+contract unenforceable as to the real property, it is equally unenforceable as to the personal property.
+b.  Performance or discharge of the part within the Statute.  Where a contract includes promises within the 
+Statute and also promises not within it, the objection to enforcement disappears when the part within the 
+Statute becomes enforceable or is performed or where performance is excused.  The part remaining 
+unperformed, if not of itself within the Statute, can be enforced as if it were a separate contract.  On the effect of 
+part performance, compare §§ 125(3), 129, 130, 139; Uniform Commercial Code §§ 2-201(3), 8-319(b).
+### Illustrations
+4.  A and B orally agree that A will work for B for six months and that B will transfer to A an automobile valued 
+at $ 2,400 and pay A $ 600 a month salary.  Later the Statute is satisfied with respect to the sale of the 
+automobile by receipt and acceptance.  The balance of the contract becomes enforceable.
+5.  A employs B as plant manager under an oral agreement that B will be paid $ 600 a month and given an 
+option to buy the plant, including real and personal property, on stated terms, but that A may substitute for the 
+
+§ 147 Contract Containing Multiple Promises
+option an additional payment of $ 900 per month from the time B starts work.  The amounts involved are not 
+disproportionate.  B works for several months and gives notice of his exercise of the option, but A refuses to 
+sell.  The Statute of Frauds does not prevent B's recovery of the additional payment.
+c.  Unenforceability of multiple promises.  Where an undischarged part of a contract is unenforceable by virtue 
+of the Statute of Frauds, the whole contract is unenforceable, unless the party to be charged has signed a 
+memorandum.  As to the situation where a memorandum is signed by fewer than all parties to the contract, see 
+§ 135.  Whether an agreement creates a single contract or more than one for the present purpose depends 
+primarily on the terms of the agreement, the interdependence of its parts, and the possibility of apportioning the 
+consideration on one side among several promises on the other without doing violence to the expectations of 
+the parties.
+### Illustrations
+6.  A and B orally agree that A will work for B for six months and that B will transfer to A an automobile worth $ 
+2,400 and pay A $ 600 a month salary.  The Statute is not satisfied with respect to the sale of the automobile.  
+In the absence of a waiver by A, the entire contract is unenforceable.
+7.  A written agreement between A and B provides that A's manufacturing facilities will be shipped to B and set 
+up and operated by B, that within one year A will buy from B for $ 70,000 certain goods to be manufactured by 
+B, and that for two years A and B will engage in a joint selling enterprise with respect to other goods on terms to 
+be mutually agreed upon.  A and B later agree orally on the terms for the joint enterprise.  After B begins 
+manufacture, A repudiates the agreement.  The Statute of Frauds does not prevent B's recovery of damages for 
+refusal to complete the $ 70,000 purchases.
+## Reporter'S Notes
+Subsections (1) and (3) are based on former § 221.  Subsection (2) is an expansion of former § 221.  The final 
+clause of Subsection (1) is new.  See 3 Williston, Contracts §§ 528, 532 (3d ed. 1960); 4 id. § 595A (1961); 2 
+Corbin, Contracts §§ 313-16 (1950 & Supp. 1971); Annots., 13 A.L.R. 271 (1921) (alternative contracts), 71 
+A.L.R. 479 (1931) (divisibility).
+Comment a.  Illustration 1 is based on Illustration 2 to former § 221.  Illustration 2 is based on Mobile Marine D. 
+& M. Ins. Co. v. McMillan & Son, 31 Ala. 711 (1858). Illustration 3 is based on Jewell v. Harper, 199 Or. 223, 
+258 P.2d 115, reh. denied, 199 Or. 223, 260 P.2d 784 (1953); cf.  Bitzer v. Moock's Executor and Trustee, 271 
+S.W.2d 877 (Ky. 1954). But cf.  Frantz v. Maher, 106 Ohio App. 465, 155 N.E.2d 471 (1957).
+Comment b.  Illustration 4 is based on Illustration 1 to former § 221.Illustration 5 is based on Chandler v. Doran 
+Co., 44 Wash.2d 396, 267 P.2d 907 (1954). Illustration 6 is based on Illustration 1 to former § 221.  Illustration 7 
+is based on Canister Co. v. Wood & Selick, Inc., 73 F.2d 312 (3d Cir. 1934), cert. denied, 296 U.S. 590 (1935).
+Cross Reference
+### Digest System Key Numbers
+Frauds, Statute of 130
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,105 @@
+Restat 2d of Contracts, § 204
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 1- The Meaning of Agreements        
+§ 204 Supplying an Omitted Essential Term
+When the parties to a bargain sufficiently defined to be a contract have not agreed with respect to a 
+term which is essential to a determination of their rights and duties, a term which is reasonable in the 
+circumstances is supplied by the court.
+## Comments & Illustrations
+### Comment
+a.  Scope; relation to other rules.  This Section states a principle governing the legal effect of a binding 
+agreement.  The supplying of an omitted term is not technically interpretation, but the two are closely related; 
+courts often speak of an "implied" term.  In many common situations the principle has been elaborated in more 
+detailed rules, applicable unless otherwise agreed.  See the rules on the effect of failure of performance stated 
+in §§ 231-49 and the rules on impossibility and frustration stated in Chapter 11, and compare §§ 158 and 272, 
+regarding the supplying of terms in cases of mistake and impracticability or frustration.  A similar principle is 
+often applicable in determining whether the terms of an agreement are sufficiently certain to constitute a 
+contract.  See §§ 33, 34.  In both situations the supplying of an omitted term may resemble or overlap 
+interpretation (see § 200) or the effect given to usage (see §§ 219-23).
+b.  How omission occurs.  The parties to an agreement may entirely fail to foresee the situation which later 
+arises and gives rise to a dispute; they then have no expectations with respect to that situation, and a search 
+for their meaning with respect to it is fruitless.  Or they may have expectations but fail to manifest them, either 
+because the expectation rests on an assumption which is unconscious or only partly conscious, or because the 
+situation seems to be unimportant or unlikely, or because discussion of it might be unpleasant or might produce 
+delay or impasse.
+c.  Interpretation and omission.  Interpretation may be necessary to determine that the parties have not agreed 
+with respect to a particular term, but the supplying of an omitted term is not within the definition of interpretation 
+in § 200.  Where there is tacit agreement or a common tacit assumption or where a term can be supplied by 
+logical deduction from agreed terms and the circumstances, interpretation may be enough.  But interpretation 
+may result in the conclusion that there was in fact no agreement on a particular point, and that conclusion 
+should be accepted even though the omitted term could be supplied by giving agreed language a meaning 
+different from the meaning or meanings given it by the parties.
+d.  Supplying a term.  The process of supplying an omitted term has sometimes been disguised as a literal or a 
+purposive reading of contract language directed to a situation other than the situation that arises.  Sometimes it 
+is said that the search is for the term the parties would have agreed to if the question had been brought to their 
+attention.  Both the meaning of the words used and the probability that a particular term would have been used 
+if the question had been raised may be factors in determining what term is reasonable in the circumstances.  
+But where there is in fact no agreement, the court should supply a term which comports with community 
+standards of fairness and policy rather than analyze a hypothetical model of the bargaining process.  Thus 
+where a contract calls for a single performance such as the rendering of a service or the delivery of goods, the 
+parties are most unlikely to agree explicitly that performance will be rendered within a "reasonable time;" but if 
+no time is specified, a term calling for performance within a reasonable time is supplied.  See Uniform 
+Commercial Code §§ 1-204, 2-309(1).  Similarly, where there is a contract for the sale of goods but nothing is 
+said as to price the price is a reasonable price at the time for delivery.  See Uniform Commercial Code § 2-305.
+e.  Effect of the parol evidence rule.  The fact that an essential term is omitted may indicate that the agreement 
+is not integrated or that there is partial rather than complete integration.  In such cases the omitted term may be 
+
+§ 204 Supplying an Omitted Essential Term
+supplied by prior negotiations or a prior agreement.  See § 216.  But omission of a term does not show 
+conclusively that integration was not complete and a completely integrated agreement, if binding, discharges 
+prior agreements within its scope.  See § 213.  Where there is complete integration and interpretation of the 
+writing discloses a failure to agree on an essential term, evidence of prior negotiations or agreements is not 
+admissible to supply the omitted term, but such evidence may be admissible, if relevant, on the question of 
+what is reasonable in the circumstances.
+### Illustration
+1.  A and his wife convey their ranch to A's sister and her husband, reserving an option to repurchase.  The 
+parties agree orally that the property will be kept in the family, but the deed says nothing as to assignment of 
+the option.  If the deed is found to be a partial integration, the oral agreement is effective to show that the option 
+is not assignable.  If the deed is found to be a complete integration, the oral agreement is discharged and the 
+option is assignable.
+## Reporter'S Notes
+This Section is new.  See 3 Corbin, Contracts §§ 561-72A (1960 & Supp. 1980); 4 Williston, Contracts §§ 600-
+610B, 614-15, 640 (3d ed. 1961); Farnsworth, Disputes Over Omissions in Contracts, 68 Colum. L. Rev. 860 
+(1968).
+Comment a.  For a discussion of the duty of good faith and fair dealing, see § 205.  For its relation to the court's 
+power to supply omitted terms, and application of these concepts to different parts ofa contract with differing 
+results, see Snyder v. Howard Johnson's Motor Lodges, Inc., 412 F. Supp. 724 (S.D. Ill. 1976). In Chemetron 
+Corp. v. McLouth Steel Corp., 522 F.2d 469 (7th Cir. 1975), the court, from the ungrammatical language of a 
+provision, concluded that the draftsman had inadvertently omitted either "and" or "or." Compare § 158.
+Comment d.  Examples of courts adding a reasonable time requirement to contracts silent on the point include 
+Haines v. City of New York, 41 N.Y.2d 769, 396 N.Y.S.2d 155, 364 N.E.2d 820 (1977) (long-term maintenance 
+of a sewer system; cites this Section in Tentative Draft); and Houston County v. Leo L. Landauer & Assoc., 424 
+S.W.2d 458 (Tex. Civ. App. 1968), ref. n.r.e. (time for performance under a contract).  In Southern Bell Tel. & 
+Tel. Co. v. Florida E. Coast Ry. Co., 399 F.2d 854 (5th Cir. 1968), 47 N.C. L. Rev. 710 (1969), a power to place 
+telephone and telegraph lines over and under railroad tracks, duration of which was unspecified, was held 
+subject to termination upon reasonable notice.  The power had already been in existence for more than fifty 
+years.  As to a court's power to find an omitted term limiting restrictive employment agreements to a reasonable 
+time or area, compare Toch v. Eric Schuster Corp., 490 S.W.2d 618 (Tex. Civ. App. 1972), ref. n.r.e., with 
+Haines v. City of New York, supra (dictum).  In Snyder v. Howard Johnson's Motor Lodges, Inc., supra, the 
+court refused to find an implied covenant not to compete, but found an implied covenant that a restaurant would 
+be operated in a manner consistent with others operated by the defendants.  For an example of a court refusing 
+to supply an allegedly omitted term, see Hinckley v. Bechtel Corp., 41 Cal. App.3d 206, 116 Cal. Rptr. 33 
+(1974).
+Comment e.  On the interplay with the parol evidence rule see Snyder v. Howard Johnson's Motor Lodges, Inc., 
+supra. Illustration 1 is based on Masterson v. Sine, 68 Cal.2d 222, 65 Cal. Rptr. 545, 436 P.2d 561 (1968).
+Cross Reference
+### ALR Annotations
+Admissibility of extrinsic evidence to identify person or persons intended to be designated by the name in which 
+a contract is made.  80 A.L.R.2d 1137.
+Implied obligation of purchaser or lessee to conduct search for, or to develop or work premises for, minerals 
+other than oil and gas.  76 A.L.R.2d 721.
+Sale of business or of real estate upon which business is conducted as transferring good will by implication, in 
+absence of covenant not to compete.  65 A.L.R.2d 502.
+Effect of failure of contract for sale or exchange of real estate to specify time for giving of possession.  56 
+A.L.R.2d 1272.
+
+§ 204 Supplying an Omitted Essential Term
+Place, in absence of written provision in sales contract, where cash consideration for goods purchased is 
+payable.  49 A.L.R.2d 1350.
+Implied covenant in lease for business purposes, that lessor will not compete in business activity for conducting 
+of which lessee leased the premises.  22 A.L.R.2d 1466.
+### Digest System Key Numbers
+Contracts 152
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

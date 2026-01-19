@@ -1,0 +1,136 @@
+Restat 2d of Contracts, § 246
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 2- Effect of Performance and Non-Performance        
+§ 246 Effect of Acceptance as Excusing the Non-Occurrence Of a Condition
+(1)  Except as stated in Subsection (2), an obligor's acceptance or his retention for an unreasonable 
+time of the obligee's performance, with knowledge of or reason to know of the non-occurrence of a 
+condition of the obligor's duty, operates as a promise to perform in spite of that non-occurrence, under 
+the rules stated in § 84.
+(2)  If at the time of its acceptance or retention the obligee's performance involves such attachment to 
+the obligor's property that removal would cause material loss, the obligor's acceptance or retention of 
+that performance operates as a promise to perform in spite of the non-occurrence of the condition, 
+under the rules stated in § 84, only if the obligor with knowledge of or reason to know of the defects 
+manifests assent to the performance.
+## Comments & Illustrations
+### Comment
+a.  Acceptance or retention as a promise.  Section 84 states the circumstances in which a promise to perform a 
+duty in spite of the non-occurrence of a condition is binding.  Non-verbal conduct, such as continued 
+performance with knowledge of the non-occurrence, may amount to a promise under that section.  See 
+Comment e and Illustration 4 to § 84.  Because acceptance and retention of the other party's performance in 
+spite of the non-occurrence of a condition are both particularly important kinds of such conduct, this Section 
+sets out in detail the circumstances in which acceptance or retention amounts to a promise under the rules 
+stated in § 84.  In this context, acceptance of performance means merely voluntary receipt of it, with no 
+implication that it is received in full satisfaction.  The acceptance or retention must, of course, be with 
+knowledge of or reason to know of the non-occurrence of the condition.
+b.  Effect of promise.  The rule stated in this Section applies to all conditions other than those excepted by § 84.  
+A particularly important situation in which it finds application occurs where performances are being exchanged 
+under an exchange of promises, and the party who has accepted or retained the other's performance asserts 
+that because of defects in that performance there has been a non-occurrence of a condition of his remaining 
+duties to perform (§ 237).  If the rule stated in this Section applies, however, the non-occurrence of the 
+condition is excused, and even if the defects amount to a material failure they do not have the asserted effect.  
+Under the Uniform Commercial Code §§ 2-607, 2-608, and 2-709, for example, the buyer must pay the price for 
+goods accepted and retained in spite of a defective tender if the acceptance was with knowledge of or reason 
+to know of the defect.  But it does not follow from one party's mere voluntary receipt of performance that the 
+other party's defective performance has discharged his own duty under § 235(1).  Therefore, subject to the 
+rules on discharge in Chapter 12, he is liable for damages for partial breach because of his defective 
+performance.  Under Uniform Commercial Code §§ 2-607(2) and 2-714, for example, the buyer's acceptance 
+and retention of the goods does not preclude him from recovering damages for any non-conformity of tender.  
+Not only may a party excuse entirely the non-occurrence of a condition of his duty, but he may excuse a delay 
+in its occurrence.  See Comment c to § 225.  He may then claim damages for partial breach because of the 
+delay.  See Illustration 1.
+### Illustrations
+1.  A, a subcontractor, contracts to do excavation and earth moving on a housing subdivision project for B, the 
+owner and general contractor, and to do all work "in a workmanlike manner." B is to make monthly progress 
+payments for the work performed during the preceding month less a retainer of ten percent.  A negligently 
+
+§ 246 Effect of Acceptance as Excusing the Non-Occurrence Of a Condition
+damages a building with his bulldozer causing serious damage and denies any liability for B's loss.  B refuses to 
+make further progress payments until A repairs the damage or admits liability, but allows A to continue work on 
+the project.  Without any advance notice, B then notifies A that he cancels the contract.  A has a claim against 
+B for total breach of contract.  Even if a court would otherwise have determined that A's uncured material failure 
+had continued long enough to discharge B's remaining duties of performance, B's acceptance of performance 
+by A operated as a promise to perform, excusing the delay in cure.  Cf. Illustration 1 to § 241.
+2.  A contracts to sell and B to buy a machine for $ 10,000, delivery to be on March 1 and payment to be within 
+30 days thereafter.  A does not deliver the machine until March 10, in such circumstances that the delay is a 
+material breach.  B accepts the machine but refuses to pay the price.  A has a claim against B for the price of $ 
+10,000 under Uniform Commercial Code § 2-709, subject to a claim by B against A for damages for partial 
+breach because of the delay under Uniform Commercial Code §§ 2-607(2) and 2-714.
+c.  Acceptance or retention of part.  The rule stated in this Section also applies where there has been only a 
+part performance and this has been accepted or retained.  Therefore the acceptance of an installment has the 
+same effect as to defects in that installment and in prior installments as the acceptance of the whole 
+performance would have.  See Uniform Commercial Code § 2-612(3).  Furthermore, the recipient of a whole 
+performance has no right as a general rule to accept part and reject part, and therefore his acceptance of part 
+has the same effect as to defects in the whole as the acceptance of the whole would have.  (But cf. Uniform 
+Commercial Code § 2-601(c), which permits a buyer of goods to accept "some commercial units" and reject the 
+rest.) But sometimes a party will accept a conforming part of the other party's performance without knowing or 
+having reason to know that there will subsequently be a failure as to the balance of the performance.  Such an 
+acceptance of part will not amount to a promise under the rule stated in this Section.  But if the injured party 
+retains that part for an unreasonable time after he knows or has reason to know of the failure with respect to the 
+balance, that retention will amount to a promise, unless it comes within the exception stated in this Section.  A 
+comparable rule governs revocation of acceptance under Uniform Commercial Code § 2-608.
+### Illustrations
+3.  A contracts to sell and B to buy 10,000 tons of steel, to be delivered in installments of 1,000 tons a month for 
+ten months, payment to be made 90 days after each delivery.  A commits a material breach by delay in delivery 
+of the first two installments under such circumstances that B's remaining duties of performance are discharged 
+(§ 237).  B nevertheless accepts delivery of the third installment without complaining of the previous breach.  
+B's acceptance amounts to a promise to accept future installments in spite of the material breach.  A has a 
+claim against B for the price of each of the three installments, after the 90 day period has passed, under 
+Uniform Commercial Code § 2-709, subject to a claim by B against A for damages for partial breach because of 
+the delay under Uniform Commercial Code §§ 2-607(2) and 2-714.  See Uniform Commercial Code § 2-612(3).
+4.  A contracts to sell and B to buy a machine and governor that are sold as a single unit for $ 10,000, payment 
+to be within 30 days of delivery.  A delivers the machine with a defective governor, which constitutes a material 
+breach.  B accepts the machine but tenders back the defective governor.  B's acceptance of the machine 
+amounts to a promise to pay $ 10,000 in spite of the defect in the governor.  A has a claim against B for the 
+price of $ 10,000, subject to a claim by B against A for damages for partial breach because of the defect in the 
+governor.  See Uniform Commercial Code §§ 2-601 and 2-607.
+5.  The facts being otherwise as stated in Illustration 4, A is entitled under the contract to deliver the machine 
+first and the governor later.  B accepts the machine, but when he receives the governor he promptly revokes his 
+acceptance and tenders back both the machine and the governor.  B's acceptance of the machine does not 
+amount to a promise.  A has no claim against B.  B has a claim against A for damages for total breach of 
+contract.  See Uniform Commercial Code § 2-608.
+d.  Performance attached to obligor's property.  If the performance is so attached to the obligor's property, real 
+or personal, that removal would cause him material expense or injury, it would be unfair to put him to the choice 
+of either removing the performance or excusing the non-occurrence of the condition.  The Section therefore 
+makes an exception for that case.  (See § 373 as to the possibility of a right to restitution in that case.) If, 
+however, the obligor goes beyond mere acceptance and retention of the performance and manifests assent to it 
+in spite of the non-occurrence of the condition, Subsection (2) provides that his conduct amounts to a promise 
+under the rule stated in § 84.  In order to have this effect his assent need only be to treat the performance as 
+
+§ 246 Effect of Acceptance as Excusing the Non-Occurrence Of a Condition
+the occurrence of the condition; it need not be to receive it in full satisfaction of the other's duty.  See Comment 
+b.
+### Illustrations
+6.  A contracts to build a house for B on B's land for $ 50,000, payable in part in monthly progress payments 
+with the balance due on completion.  A builds the house but unjustifiably departs from the specifications in a 
+number of respects.  B moves into and uses the house, knowing of some of the departures and not knowing or 
+having reason to know of others.  B refuses to pay the balance of $ 10,000.  B can rely on all of the departures, 
+including those of which he knew, to show that A's breach is material and that A has no claim against B for the 
+$ 10,000 balance under the contract.
+7.  The facts being otherwise as stated in Illustration 6, B tells A that he "will take" the house in spite of those 
+departures of which he knows.  B can rely on the departures of which he did not know or have reason to know, 
+but not on the departures of which he knew, to show that A's breach is material and that A has no claim against 
+B to the $ 10,000 balance under the contract.  If B fails to show that A's breach is material, A's claim against B 
+for the $ 10,000 balance is subject to B's claim against A for damages for partial breach because of all of the 
+departures, including those of which he knew.
+## Reporter'S Notes
+This Section is based on former § 298.  See also former § 309.  It has been reworded to indicate that it involves 
+a specific application of the general rule stated in § 84.  It accords with the principles behind Uniform 
+Commercial Code §§ 2-607 and 2-608.  See 3A Corbin, Contracts §§ 699, 755 (1960 & Supp. 1980); 5 
+Williston, Contracts §§ 700-25 (3d ed. 1961).
+Comment b.  Illustration 1 is based on K & G Constr. Co. v. Harris, 223 Md. 305, 164 A.2d 451 (1960); see also 
+Dunn v. Steubing, 120 N.Y. 232, 24 N.E. 315 (1890); Grady-Gould Watershed Improvement Dist. v. 
+Transamerica Ins. Co., 570 F.2d 720 (8th Cir. 1978); Longenecker v. Brommer, 59 Wash.2d 552, 368 P.2d 900 
+(1962). Illustration 2 is based on Uniform Commercial Code §§ 2-607(2) and 2-714.  See also Illustration 1 to 
+former § 298.
+Comment c.  Illustration 3 is based on Illustration 7 to former § 317; see also Uniform Commercial Code § 2-
+612(3); Dangerfield v. Markel, 252 N.W.2d 184 (N.D. 1977). Illustration 4 is based on Uniform Commercial 
+Code §§ 2-601 and 2-607.  Illustration 5 is based on Uniform Commercial Code § 2-206.  On what constitutes 
+notice of defects inthese situations, see Bonebrake v. Cox, 499 F.2d 951 (8th Cir. 1974).
+Comment d.  Illustration 6 is based on Cawley v. Weiner, 236 N.Y. 357, 140 N.E. 724 (1923) and on Illustration 
+2 to former § 298.  Illustration 7 is based on Illustration 4 to former § 298.
+Cross Reference
+### Digest System Key Numbers
+Contracts 304
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,111 @@
+Restat 2d of Contracts, § 154
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 6- Mistake        
+§ 154 When a Party Bears the Risk of a Mistake
+A party bears the risk of a mistake when
+(a)  the risk is allocated to him by agreement of the parties, or
+(b)  he is aware, at the time the contract is made, that he has only limited knowledge with respect to the 
+facts to which the mistake relates but treats his limited knowledge as sufficient, or
+(c)  the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to 
+do so.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Absent provision to the contrary, a contracting party takes the risk of most supervening changes 
+in circumstances, even though they upset basic assumptions and unexpectedly affect the agreed exchange of 
+performances, unless there is such extreme hardship as will justify relief on the ground of impracticability of 
+performance or frustration of purpose.  A party also bears the risk of many mistakes as to existing 
+circumstances even though they upset basic assumptions and unexpectedly affect the agreed exchange of 
+performances.  For example, it is commonly understood that the seller of farm land generally cannot avoid the 
+contract of sale upon later discovery by both parties that the land contains valuable mineral deposits, even 
+though the price was negotiated on the basic assumption that the land was suitable only for farming and the 
+effect on the agreed exchange of performances is material.  In such a case a court will ordinarily allocate the 
+risk of the mistake to the seller, so that he is under a duty to perform regardless of the mistake.  The rule stated 
+in this Section determines whether a party bears the risk of a mistake for the purposes of both §§ 152 and 153.  
+Stating these rules in terms of the allocation of risk avoids such artificial and specious distinctions as are 
+sometimes drawn between "intrinsic" and "extrinsic" mistakes or between mistakes that go to the "identity" or 
+"existence" of thesubject matter and those that go merely to its "attributes," "quality" or "value." Even though a 
+mistaken party does not bear the risk of a mistake, he may be barred from avoidance if the mistake was the 
+result of his failure to act in good faith and in accordance with reasonable standards of fair dealing.  See § 157.
+b.  Allocation by agreement.  The most obvious case of allocation of the risk of a mistake is one in which the 
+parties themselves provide for it by their agreement.  Just as a party may agree to perform in spite of 
+impracticability or frustration that would otherwise justify his non-performance, he may also agree, by 
+appropriate language or other manifestations, to perform in spite of mistake that would otherwise justify his 
+avoidance.  An insurer, for example, may expressly undertake the risk of loss of property covered as of a date 
+already past.  Whether the agreement places the risk on the mistaken party is a question to be answered under 
+the rules generally applicable to the scope of contractual obligations, including those on interpretation, usage 
+and unconscionability.  See Chapter 9.
+### Illustration
+1.  A contracts to sell and B to buy a tract of land.  A and B both believe that A has good title, but neither has 
+made a title search.  The contract provides that A will convey only such title as he has, and A makes no 
+representation with respect to title.  In fact, A's title is defective.  The contract is not voidable by B, because the 
+risk of the mistake is allocated to B by agreement of the parties.
+c.  Conscious ignorance.  Even though the mistaken party did not agree to bear the risk, he may have been 
+aware when he made the contract that his knowledge with respect to the facts to which the mistake relates was 
+limited.  If he was not only so aware that his knowledge was limited but undertook to perform in the face of that 
+
+§ 154 When a Party Bears the Risk of a Mistake
+awareness, he bears the risk of the mistake.  It is sometimes said in such a situation that, in a sense, there was 
+not mistake but "conscious ignorance."
+### Illustration
+2.  The facts being otherwise as stated in Illustration 2 to § 152, A proposes to B during the negotiations the 
+inclusion of a provision under which the adversely affected party can cancel the contract in the event of a 
+material error in the surveyor's report, but B refuses to agree to such a provision.  The contract is not voidable 
+by A, because A bears the risk of the mistake.
+d.  Risk allocated by the court.  In some instances it is reasonably clear that a party should bear the risk of a 
+mistake for reasons other than those stated in Subparagraphs (a) and (b).  In such instances, under the rule 
+stated in Subparagraph (c), the court will allocate the risk to that party on the ground that it is reasonable to do 
+so.  A court will generally do this, for example, where the seller of farm land seeks to avoid the contract of sale 
+on the ground that valuable mineral rights have newly been found.  See Comment a.  In dealing with such 
+issues, the court will consider the purposes of the parties and will have recourse to its own general knowledge 
+of human behavior in bargain transactions, as it will in the analogous situation in which it is asked to supply a 
+term under the rule stated in § 204.  The rule stated in Subsection (c) is subject to contrary agreement and to 
+usage (§ 221).
+### Illustrations
+3.  The facts being otherwise as stated in Illustration 6 to § 152, C is not dead but is afflicted with an incurable 
+fatal disease and cannot live more than a year.  The contract is not voidable by A, because the court will 
+allocate to A the risk of the mistake.
+4.  A, an owner of land, and B, a builder, make a contract under which B is to take from A's land, at a stated 
+rate per cubic yard, all the gravel and earth necessary for the construction of a bridge, an amount estimated to 
+be 114,000 cubic yards.  A and B believe that all of the gravel and earth is above water level and can be 
+removed by ordinary means, but in fact about one quarter of it is below water level, so that removal will require 
+special equipment at an additional cost of about twenty percent.  The contract is not voidable by B, because the 
+court will allocate to B the risk of the mistake.  Compare Illustration 5 to § 266.
+5.  A contracts with B to build a house on B's land.  A and B believe that subsoil conditions are normal, but in 
+fact some of the land must be drained at an expense that will leave A no profit under the contract.  The contract 
+is not voidable by A, because the court will allocate to A the risk of the mistake.  Compare Illustration 8 to § 
+266.
+6.  The facts being otherwise as stated in Illustration 1 to § 153, the $ 50,000 error in A's bid is the result of A's 
+mistaken estimate as to the amount of labor required to do the work.  A cannot avoid the contract, because the 
+court will allocate to A the risk of the mistake.
+## Reporter'S Notes
+This Section is new.  See 3 Corbin, Contracts §§ 598, 600, 605 (1960 & Supp. 1980); 13 Williston, Contracts §§ 
+1543A, 1559, 1560, 1566A, 1568, 1568A (3d ed. 1970); Kronman, Mistake, Disclosure, Information, and the 
+Law of Contracts, 7 J. Leg. Stud. 1 (1978), reprinted in Kronman & Posner, The Economics of Contract Law 
+114 (1979); Rabin, A Proposed Black-Letter Rule Concerning Mistaken Assumptions in Bargain Transactions, 
+45 Tex. L. Rev. 1273 (1967); Patterson, The Apportionment of Business Risks Through Legal Devices, 24 
+Colum. L. Rev. 335, 355-57 (1924).
+Comment b.  Illustration 1 is based on Illustration 7 to former § 502 and Talman v. Dixon, 253 N.C. 193, 116 
+S.E.2d 338 (1960); see Beecher v. Able, 575 F.2d 1010 (2d Cir. 1978); Flippin Materials Co. v. United States, 
+312 F.2d 408 (Ct. Cl. 1963); United States v. Hathaway, 242 F.2d 897 (9th Cir. 1957); cf.  Raddue v. LeSage, 
+138 Cal. App.2d 852, 292 P.2d 522 (1956).
+Comment c.  The facts in Illustration 2 are suggested by those in Illustration 2 to § 152, and the result is 
+supported by Friedman v. Grevnin, 360 Mich. 193, 103 N.W.2d 336 (1960); Highway Prods. v. United States, 
+208 Ct. Cl. 926, 530 F.2d 911 (1976); cf.  Wright and Pierce v. Wilmington, 290 F.2d 30 (1st Cir. 1961).
+Comment d.  Illustration 3 is based on Aldrich v. Travelers Ins. Co., 317 Mass. 86, 56 N.E.2d 888 (1944); 
+Woodworth v. Prudential Ins. Co., 258 A.D. 103, 15 N.Y.S.2d 541 (1939), aff'd mem., 282 N.Y. 704, 26 N.E.2d 
+820 (1940); cf.  Backus v. MacLaury, 278 A.D. 504, 106 N.Y.S.2d 401 (1951); Wood v. Boynton, 64 Wis. 265, 
+25 N.W. 42 (1885). The facts in Illustration 4 are suggested by Illustration 5 to § 266 and by Mineral Park Land 
+
+§ 154 When a Party Bears the Risk of a Mistake
+Co. v. Howard, 172 Cal. 289, 156 P. 458 (1916), and Edwards v. Trinity & B. V. Ry. Co., 54 Tex. Civ. App. 334, 
+118 S.W. 572 (1909), error ref.; cf.  Flippin Materials Co. v. United States, 312 F.2d 408 (Ct. Cl. 1963). The 
+facts in Illustration 5 are suggested by Illustration 8 to § 266 and by Rowe v. Town of Peabody, 207 Mass. 26, 
+93 N.E. 604 (1911), and Stees v. Leonard, 20 Minn. 494 (1874); see Illustration 8 to former § 502.
+Cross Reference
+### ALR Annotations
+Measure and elements of damages recoverable from vendor where there has been mistake as to amount of 
+land conveyed.  94 A.L.R.3d 1091.
+### Digest System Key Numbers
+Contracts 93
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

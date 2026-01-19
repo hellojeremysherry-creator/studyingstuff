@@ -1,0 +1,29 @@
+## U.C.C. § 2A-216
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 2. FORMATION AND 
+## Construction Of Lease Contract
+§ 2A-216. Third-Party Beneficiaries of Express and Implied Warranties.
+## Alternative A
+A warranty to or for the benefit of a lessee under this Article, whether express or implied, extends to any natural 
+person who is in the family or household of the lessee or who is a guest in the lessee's home if it is reasonable to 
+expect that such person may use, consume, or be affected by the goods and who is injured in person by breach of 
+the warranty.  This section does not displace principles of law and equity that extend a warranty to or for the benefit 
+of a lessee to other persons.  The operation of this section may not be excluded, modified, or limited, but an 
+exclusion, modification, or limitation of the warranty, including any with respect to rights and remedies, effective 
+against the lessee is also effective against any beneficiary designated under this section.
+## Alternative B
+A warranty to or for the benefit of a lessee under this Article, whether express or implied, extends to any natural 
+person who may reasonably be expected to use, consume, or be affected by the goods and who is injured in 
+person by breach of the warranty.  This section does not displace principles of law and equity that extend a 
+warranty to or for the benefit of a lessee to other persons.  The operation of this section may not be excluded, 
+modified, or limited, but an exclusion, modification, or limitation of the warranty, including any with respect to rights 
+and remedies, effective against the lessee is also effective against the beneficiary designated under this section.
+## Alternative C
+A warranty to or for the benefit of a lessee under this Article, whether express or implied, extends to any person 
+who may reasonably be expected to use, consume, or be affected by the goods and who is injured by breach of the 
+warranty.  The operation of this section may not be excluded, modified, or limited with respect to injury to the person 
+of an individual to whom the warranty extends, but an exclusion, modification, or limitation of the warranty, including 
+any with respect to rights and remedies, effective against the lessee is also effective against the beneficiary 
+designated under this section.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

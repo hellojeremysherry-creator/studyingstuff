@@ -1,0 +1,16 @@
+U.C.C. § 9-605
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 6. 
+DEFAULT  >  SUBPART 1. DEFAULT AND ENFORCEMENT OF SECURITY INTEREST
+§ 9-605. UNKNOWN DEBTOR OR SECONDARY OBLIGOR
+A secured party does not owe a duty based on its status as secured party:
+(1)  to a person that is a debtor or obligor, unless the secured party knows:
+(A)  that the person is a debtor or obligor;
+(B)  the identity of the person; and
+(C)  how to communicate with the person; or
+(2)  to a secured party or lienholder that has filed a financing statement against a person, unless the 
+secured party knows:
+(A)  that the person is a debtor; and
+(B)  the identity of the person.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

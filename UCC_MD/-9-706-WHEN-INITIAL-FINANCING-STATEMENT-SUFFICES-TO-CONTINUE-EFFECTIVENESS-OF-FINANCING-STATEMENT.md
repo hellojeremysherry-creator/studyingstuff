@@ -1,0 +1,29 @@
+## U.C.C. § 9-706
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 7. 
+## Transition
+## § 9-706. When Initial Financing Statement Suffices To Continue
+## Effectiveness Of Financing Statement
+(a) [Initial financing statement in lieu of continuation statement.]  The filing of an initial financing 
+statement in the office specified in Section 9-501 continues the effectiveness of a financing statement filed 
+### before this [Act] takes effect if
+(1)  the filing of an initial financing statement in that office would be effective to perfect a security 
+interest under this [Act];
+(2)  the pre-effective-date financing statement was filed in an office in another State or another office in 
+this State; and
+(3)  the initial financing statement satisfies subsection (c).
+(b) [Period of continued effectiveness.]  The filing of an initial financing statement under subsection (a) 
+### continues the effectiveness of the pre-effective-date financing statement
+(1)  if the initial financing statement is filed before this [Act] takes effect, for the period provided in 
+[former Section 9-403] with respect to a financing statement; and
+(2)  if the initial financing statement is filed after this [Act] takes effect, for the period provided in Section 
+9-515 with respect to an initial financing statement.
+(c) [Requirements for initial financing statement under subsection (a).]  To be effective for purposes of 
+### subsection (a), an initial financing statement must
+(1)  satisfy the requirements of Part 5 for an initial financing statement;
+(2)  identify the pre-effective-date financing statement by indicating the office in which the financing 
+statement was filed and providing the dates of filing and file numbers, if any, of the financing statement 
+and of the most recent continuation statement filed with respect to the financing statement; and
+(3)  indicate that the pre-effective-date financing statement remains effective.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

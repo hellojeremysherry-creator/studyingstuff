@@ -1,0 +1,54 @@
+## U.C.C. § 9-208
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 2. 
+## Effectiveness Of Security Agreement; Attachment Of Security Interest; Rights
+## Of Parties To Security Agreement  >  Subpart 2. Rights And Duties
+## § 9-208. Additional Duties Of Secured Party Having Control Of
+## Collateral
+(a) [Applicability of section.]  This section applies to cases in which there is no outstanding secured 
+obligation and the secured party is not committed to make advances, incur obligations, or otherwise give 
+value.
+(b) [Duties of secured party after receiving demand from debtor.]  Within 10 days after receiving an 
+### authenticated demand by the debtor
+(1)  a secured party having control of a deposit account under Section 9-104(a)(2) shall send to the 
+bank with which the deposit account is maintained an authenticated statement that releases the bank 
+from any further obligation to comply with instructions originated by the secured party;
+(2)  a secured party having control of a deposit account under Section 9-104(a)(3) shall:
+(A)  pay the debtor the balance on deposit in the deposit account; or
+(B)  transfer the balance on deposit into a deposit account in the debtor's name;
+(3)  a secured party, other than a buyer, having control of electronic chattel paper under Section 9-105 
+### shall
+(A)  communicate the authoritative copy of the electronic chattel paper to the debtor or its 
+designated custodian;
+(B)  if the debtor designates a custodian that is the designated custodian with which the 
+authoritative copy of the electronic chattel paper is maintained for the secured party, communicate 
+to the custodian an authenticated record releasing the designated custodian from any further 
+obligation to comply with instructions originated by the secured party and instructing the custodian 
+to comply with instructions originated by the debtor; and
+(C)  take appropriate action to enable the debtor or its designated custodian to make copies of or 
+revisions to the authoritative copy which add or change an identified assignee of the authoritative 
+copy without the consent of the secured party;
+(4)  a secured party having control of investment property under Section 8-106(d)(2) or 9-106(b) shall 
+send to the securities intermediary or commodity intermediary with which the security entitlement or 
+commodity contract is maintained an authenticated record that releases the securities intermediary or 
+commodity intermediary from any further obligation to comply with entitlement orders or directions 
+originated by the secured party;
+(5)  a secured party having control of a letter-of-credit right under Section 9-107 shall send to each 
+person having an unfulfilled obligation to pay or deliver proceeds of the letter of credit to the secured 
+party an authenticated release from any further obligation to pay or deliver proceeds of the letter of 
+credit to the secured party; and
+### (6)  a secured party having control of an electronic document shall
+(A)  give control of the electronic document to the debtor or its designated custodian;
+
+## § 9-208. Additional Duties Of Secured Party Having Control Of Collateral
+(B)  if the debtor designates a custodian that is the designated custodian with which the 
+authoritative copy of the electronic document is maintained for the secured party, communicate to 
+the custodian an authenticated record releasing the designated custodian from any further 
+obligation to comply with instructions originated by the secured party and instructing the custodian 
+to comply with instructions originated by the debtor; and
+(C)  take appropriate action to enable the debtor or its designated custodian to make copies of or 
+revisions to the authoritative copy which add or change an identified assignee of the authoritative 
+copy without the consent of the secured party.
+As amended in 2003.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

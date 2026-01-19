@@ -1,0 +1,9 @@
+## U.C.C. § 2-303
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 3. GENERAL OBLIGATION 
+## And Construction Of Contract
+§ 2-303. Allocation or Division of Risks.
+Where this Article allocates a risk or a burden as between the parties "unless otherwise agreed", the agreement 
+may not only shift the allocation but may also divide the risk or burden.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

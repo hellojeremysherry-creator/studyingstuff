@@ -1,0 +1,54 @@
+Restat 2d of Contracts, § 104
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 104 Acceptance or Disclaimer by the Promisee
+(1)  Neither acceptance by the promisee nor knowledge by him of the existence of a promise is 
+essential to the formation of a contract by the delivery of a written promise which is binding without 
+consideration.
+(2)  A promisee who has not manifested assent to a written promise may, within a reasonable time after 
+learning of its existence and terms, render it inoperative by disclaimer.
+(3)  Acceptance or disclaimer is irrevocable.
+## Comments & Illustrations
+### Comment
+a.  Acceptance.  It is sometimes said that acceptance of a promise which is beneficial to the promisee is 
+presumed.  But the "presumption" cannot be rebutted in the cases governed by the rule stated in Subsection 
+(1), and a more accurate form of statement is that acceptance is unnecessary.  Compare §§ 306, 327.  Thus a 
+promise under seal to make a gift to a person without capacity to assent by reason of infancy or mental illness 
+is not revoked by the death of the promisor, and may be accepted thereafter.  But Subsection (1) is applicable 
+only to promises binding without consideration; where by statute a seal merely raises a presumption of 
+consideration, proof of failure to accept may rebut the presumption.
+The promise may of course be explicitly conditional on an acceptance by the promisee, or such a condition may 
+be imposed by the terms of delivery under § 103.  Where a return promise is contemplated, such a condition 
+may be implied, or the promisor may manifest an intention to create an option contract pending acceptance by 
+return promise.  The rules governing cases where an acceptance is contemplated are stated in §§ 105-07.
+### Illustration
+1.  A makes a promise to B under seal, and unconditionally delivers the document to C, an independent third 
+person, as a present contract.  It is immediately operative according to its terms and remains so unless B 
+disclaims within a reasonable time after learning of its existence and terms.
+b.  Disclaimer.  An offeree is entitled to reject an offered benefit, whether or not there is a related burden.  See 
+§ 38.  Where no return promise is invited, there is no problem of justifiable reliance by the promisor, and a 
+disclaimer by the promisee is effective in accordance with his manifested intention.  See § 53(3).  No particular 
+formality is required for disclaimer, and its usual effect is the same as if no promise had been made.  But once 
+the promisee has manifested assent, either before or after the making of the promise, disclaimer is effective 
+only if the requirements are met for discharge of a contractual duty.  Compare § 37.
+### Illustration
+2.  A seals and delivers to B a written promise to C to transfer Blackacre to C, stating at the time that the 
+promise is to be enforceable only when C shall marry X.  On learning of the promise either before or after 
+marrying X, C notifies either A or B that he refuses the benefit of the promise.  The contract under seal is 
+discharged, and an intervening conveyance by A to D is validated even though D knew of the contract.
+## Reporter'S Notes
+This Section is based on former § 104.  See 1 Williston, Contracts §§ 213-14 (3d ed. 1957); 1A Corbin, 
+Contracts § 245 (1963).
+
+§ 104 Acceptance or Disclaimer by the Promisee
+Comment a.  Illustration 1 is based on Illustration 1 to former § 104; see Twining v. National Mortgage Corp., 
+268 Md. 549, 302 A.2d 604 (1973). Contrast, Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 
+(1966), discussed in Reporter's Note to Comment c to § 103.
+Comment b.  Illustration 2 is based on Illustration 1 to former § 104.
+Cross Reference
+### Digest System Key Numbers
+Contracts 43
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

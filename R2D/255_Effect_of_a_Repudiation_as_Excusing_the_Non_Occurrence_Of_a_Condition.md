@@ -1,0 +1,57 @@
+Restat 2d of Contracts, § 255
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 3- Effect of Prospective Non-Performance        
+§ 255 Effect of a Repudiation as Excusing the Non-Occurrence Of a 
+Condition
+Where a party's repudiation contributes materially to the non-occurrence of a condition of one of his 
+duties, the non-occurrence is excused.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  This Section accords the same effect to a repudiation that § 245 accords to a breach by non-
+performance.  No one should be required to do a useless act, and if, because of a party's repudiation, it 
+appears that the occurrence of a condition of a duty would not be followed by performance of the duty, the non-
+occurrence of the condition is generally excused.  In judging whether occurrence of the condition would be 
+followed by performance of the duty the obligee may take the obligor at his word.  Nevertheless, the repudiation 
+must contribute materially to the non-occurrence of the condition, and if the condition would not have occurred 
+in any event, its non-occurrence is not excused.  In such a case both parties are discharged.
+### Illustrations
+1.  A, an insurance company, issues a policy insuring B against theft, and providing that no payment will be 
+made unless written notice is given within 60 days after loss.  A loss occurs, and B immediately notifies A by 
+telephone.  A repudiates by informing B without adequate reason that it will not pay the loss.  Because of this, B 
+does not give written notice to A.  B has a claim against A for the amount of the loss.
+2.  On February 1, A contracts to sell and B to buy a house for $ 50,000, B's duty being "conditional on approval 
+by X Bank of B's pending mortgage application." On March 1, B repudiates by telling A that he will not buy the 
+house.  On March 10, the X Bank, which is unaware of B's repudiation, disapproves B's application on financial 
+grounds.  A has no claim against B.  The non-occurrence of the condition, approval by X Bank, is not excused 
+because B's repudiation did not contribute materially to its non-occurrence.
+b.  Exceptions.  Under §§ 237 and 238, it may be required as a condition of one party's duty that the other party 
+perform or offer to perform his duty.  A repudiation by the first party will, in those circumstances, discharge that 
+duty of the other party (§ 253(2)), eliminating the requirement that the other party perform or offer to perform it.  
+The discharge has the additional effect of excusing the non-occurrence of the condition.  But non-occurrence of 
+the condition is excused only if the duty is discharged.  See Comment c to § 245 and Illustrations 1 and 2 to § 
+253.
+### Illustration
+3.  A, a contractor, makes a contract with B, a subcontractor, under which B is to be paid $ 300,000 for 
+furnishing heating and air conditioning units for a housing project to be built by A, "on condition that Contractor 
+is furnished with a performance bond within two weeks." No provision is made for progress payments.  A week 
+after the making of the contract, A repudiates by telling B that he will not perform the contract.  Because of the 
+repudiation, B does not furnish a performance bond.  B has a claim against A for damages for total breach.  
+The non-occurrence of one condition, B's furnishing of a performance bond, is excused under this Section 
+because A's repudiation contributed materially to its non-occurrence.  The non-occurrence of another condition, 
+B's furnishing heating and air conditioning units, is excused because B's duty to furnish the units was 
+discharged when A repudiated (§ 253(2)), and its performance was therefore no longer a condition under § 237.
+## Reporter'S Notes
+
+§ 255 Effect of a Repudiation as Excusing the Non-Occurrence Of a Condition
+This Section is based on former § 306.  See also 4 Corbin, Contracts §§ 977, 978 (1951 & Supp. 1980); 5 
+Williston, Contracts § 699 (1961).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 306.  See also Chemetron Corp. v. McLouth 
+Steel Corp., 522 F.2d 469 (7th Cir. 1975). As to Illustration 2, see Alabama Football, Inc. v. Greenwood, 452 F. 
+Supp. 1191 (W.D. Pa. 1978); Carlson v. Leonardo Truck Lines, 13 Wash. App. 795, 538 P.2d 130 (1975).
+Comment b.  Illustration 3 is based on Craddock v. Greenhut Constr. Co., 423 F.2d 111 (5th Cir. 1970).
+Cross Reference
+### Digest System Key Numbers
+Contracts 313(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

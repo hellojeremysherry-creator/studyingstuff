@@ -1,0 +1,17 @@
+U.C.C. § 9-704
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 7. 
+TRANSITION
+§ 9-704. SECURITY INTEREST UNPERFECTED BEFORE EFFECTIVE DATE
+A security interest that is enforceable immediately before this [Act] takes effect but which would be 
+subordinate to the rights of a person that becomes a lien creditor at that time:
+(1)  remains an enforceable security interest for one year after this [Act] takes effect;
+(2)  remains enforceable thereafter if the security interest becomes enforceable under Section 9-203 
+when this [Act] takes effect or within one year thereafter; and
+(3)  becomes perfected:
+(A)  without further action, when this [Act] takes effect if the applicable requirements for perfection 
+under this [Act] are satisfied before or at that time; or
+(B)  when the applicable requirements for perfection are satisfied if the requirements are satisfied 
+after that time.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

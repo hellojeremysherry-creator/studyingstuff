@@ -1,0 +1,70 @@
+Restat 2d of Contracts, § 148
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 7- Consequences of Non-Compliance        
+§ 148 Rescission by Oral Agreement
+Notwithstanding the Statute of Frauds, all unperformed duties under an enforceable contract may be 
+discharged by an oral agreement of rescission.  The Statute may, however, apply to a contract to 
+rescind a transfer of property.
+## Comments & Illustrations
+### Comment
+a.  Rescission of an executory contract.  This Section may be regarded as a particular application of the rules 
+stated in §§ 145 and 149.  In determining whether the Statute applies to a contract modifying a prior contract, 
+the second contract is treated as creating a single new contract containing the terms as modified.  So treated, it 
+is not within the Statute if there is no remaining unperformed promise.
+### Illustration
+1.  A and B enter into a written contract of employment for a term exceeding a year.  Later they orally agree to 
+rescind the contract.  The oral agreement is effective and the written contract is rescinded.
+b.  Sale of goods.  A contract for the sale of goods may be unenforceable under Uniform Commercial Code § 2-
+201 or because the contract is also a contract to answer for the debt of another or a land contract or a contract 
+not to be performed within a year.  Each provision of the Statute of Frauds must be considered separately, and 
+this Section is applicable no matter which provision is under consideration.  Uniform Commercial Code § 2-
+209(2), however, gives effect to a signed agreement which excludes modification "or rescission" except by a 
+signed writing.  That provision, applicable to "transactions in goods" (§ 2-102), by its terms negates the rule 
+stated in this Section.
+Where title to goods passes to the buyer under a contract for sale, or where the buyer acquires a special 
+property in the goods (Uniform Commercial Code § 2-401), the rule stated in the first sentence of this Section 
+applies if the contract is unenforceable.  If the contract is enforceable by virtue of a sufficient memorandum, a 
+contract to rescind the transfer of property may be within the Statute.  Compare Uniform Commercial Code § 2-
+326(4) on contracts for "sale or return." If the seller retains possession, the contract to rescind may be 
+enforceable on the ground that the goods "have been received and accepted" by the seller.  See Uniform 
+Commercial Code § 2-201(3) (c).  But if the original contract for sale is enforceable because the buyer has 
+"received and accepted" the goods, a contract to rescind is treated as a contract for resale by the buyer to the 
+seller in applying the Statute of Frauds.
+### Illustration
+2.  A contracts to sell and B to buy a refrigerator for the price of $ 500, and the refrigerator is delivered and paid 
+for.  One week later A and B orally agree that if B is not satisfied after a week's further trial the transaction will 
+be rescinded.  There is no redelivery or repayment.  The contract of rescission is unenforceable.
+c.  Land contracts; right to specific performance.  Where land has been transferred by an effective deed, an 
+agreement to rescind the transaction is a contract for the transfer of an interest in land within the Statute of 
+Frauds.  The same rule has sometimes been applied to executory land contracts which were enforceable by 
+virtue of a memorandum or of action in reliance, on the ground that a specifically enforceable contract creates 
+an equitable property interest in the purchaser.  But the reasoning is circular: if the rule of the first sentence of 
+this Section is applied, an oral contract to rescind is a defense to an action for specific enforcement of the 
+executory contract, and there is no equitable property interest.  The prevailing rule is that an executory land 
+contract may be rescinded orally like other contracts within the Statute, even though enforceable.  Compare 
+Restatement of Property § 557, Comment e.  In any event the contract to rescind becomes enforceable when 
+
+§ 148 Rescission by Oral Agreement
+there has been a material change of position in reliance on it.  See § 150.  The same reasoning applies to 
+specifically enforceable contracts to transfer property other than land.
+### Illustration
+3.  A and B contract in writing that A will sell and B will buy Blackacre for $ 140,000.  Later A and B orally 
+rescind the written contract.  The written contract is not enforceable.
+## Reporter'S Notes
+This Section is based on former § 222.  See 4 Williston, Contracts §§ 591-98 (3d ed. 1961); 2 Corbin, Contracts 
+§§ 301-12, 414 (1950 & Supps. 1971 & 1980).
+Comment a.  Illustration 1 is based on Illustration 1 to former § 222; see also ABC Outdoor Adv., Inc. v. 
+Dolhun's Marine, Inc., 38 Wis.2d 457, 157 N.W.2d 680 (1968).
+Comment b.  As to satisfaction of the Statute of Frauds by receipt and acceptance, see 3 Williston, Contracts 
+§§ 539-63 (3d ed. 1960); 2 Corbin, Contracts §§ 482-93 (1950 & Supps. 1971 & 1980).  Illustration 2 is based 
+on Padgham v. Wilson Music Co., 3 Wis.2d 363, 88 N.W.2d 679 (1958); cf. Illustration 2 to former § 222.
+Comment c.  Illustration 3 is based on Solana Land Co. v. National Realty Co., 77 Ariz. 18, 120, 266 P.2d 739, 
+267 P.2d 895 (1954); see Annots., 42 A.L.R.3d 242 (1972); 78 A.L.R.2d 933 (1961) (oral surrender of written 
+lease).  But cf.  Reyes v. Smith, 288 S.W.2d 822 (Tex. Civ. App. 1956), ref. n.r.e. Illustration 3 to former § 222 
+is reversed in result in deference to the weight of authority.
+Cross Reference
+### Digest System Key Numbers
+Frauds, Statute of 140
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

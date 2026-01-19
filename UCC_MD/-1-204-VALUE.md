@@ -1,0 +1,15 @@
+## U.C.C. § 1-204
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 1. GENERAL PROVISIONS  >  PART 2. GENERAL 
+## Definitions And Principles Of Interpretation
+## § 1-204. Value
+Except as otherwise provided in Articles 3, 4, [and] 5, [and 6], a person gives value for rights if the person 
+### acquires them
+(1)  in return for a binding commitment to extend credit or for the extension of immediately available 
+credit, whether or not drawn upon and whether or not a charge-back is provided for in the event of 
+difficulties in collection;
+(2)  as security for, or in total or partial satisfaction of, a preexisting claim;
+(3)  by accepting delivery under a preexisting contract for purchase; or
+(4)  in return for any consideration sufficient to support a simple contract.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

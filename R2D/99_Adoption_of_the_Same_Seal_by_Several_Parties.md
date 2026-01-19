@@ -1,0 +1,22 @@
+Restat 2d of Contracts, § 99
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 99 Adoption of the Same Seal by Several Parties
+Any number of parties to the same instrument may adopt one seal.
+## Comments & Illustrations
+### Illustration
+1.  A, B, C and D sign a subscription paper by which each agrees to pay a sum set opposite his name.  There is 
+one seal on the document which recites, "A seal is attached hereto which each of the subscribers adopts." The 
+promise of each of the subscribers is under seal.
+## Reporter'S Notes
+This is unchanged from former § 99.  See 1 Williston, Contracts § 208 (3d ed. 1957); 1A Corbin, Contracts § 
+241 (1963).  Illustration 1 was Illustration 1 to former § 99; see Gildenhorn v. Columbia Real Estate Title Ins. 
+Co., 271 Md. 387, 317 A.2d 836 (1974); McNulty v. Medical Serv. of D.C., 176 A.2d 783 (D.C. Ct. App. 1962), 
+and authorities cited in these cases.
+Cross Reference
+### Digest System Key Numbers
+Contracts 36
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

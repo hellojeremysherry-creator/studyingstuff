@@ -1,0 +1,22 @@
+## U.C.C. § 9-501
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 5. FILING  
+## >  Subpart 1. Filing Office; Contents And Effectiveness Of Financing Statement
+## § 9-501. Filing Office
+(a) [Filing offices.]  Except as otherwise provided in subsection (b), if the local law of this State governs 
+perfection of a security interest or agricultural lien, the office in which to file a financing statement to perfect 
+### the security interest or agricultural lien is
+(1)  the office designated for the filing or recording of a record of a mortgage on the related real 
+### property, if
+(A)  the collateral is as-extracted collateral or timber to be cut; or
+(B)  the financing statement is filed as a fixture filing and the collateral is goods that are or are to 
+become fixtures; or
+(2)  the office of [] [or any office duly authorized by []], in all other cases, including a case in which the 
+collateral is goods that are or are to become fixtures and the financing statement is not filed as a fixture 
+filing.
+(b) [Filing office for transmitting utilities.]  The office in which to file a financing statement to perfect a 
+security interest in collateral, including fixtures, of a transmitting utility is the office of []. The financing 
+statement also constitutes a fixture filing as to the collateral indicated in the financing statement which is or 
+is to become fixtures.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

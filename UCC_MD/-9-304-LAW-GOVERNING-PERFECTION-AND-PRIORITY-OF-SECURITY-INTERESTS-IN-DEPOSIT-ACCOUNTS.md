@@ -1,0 +1,25 @@
+## U.C.C. § 9-304
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+## Perfection And Priority  >  Subpart 1. Law Governing Perfection And Priority
+## § 9-304. Law Governing Perfection And Priority Of Security
+## Interests In Deposit Accounts
+(a) [Law of bank's jurisdiction governs.]  The local law of a bank's jurisdiction governs perfection, the 
+effect of perfection or nonperfection, and the priority of a security interest in a deposit account maintained 
+with that bank.
+(b) [Bank's jurisdiction.]  The following rules determine a bank's jurisdiction for purposes of this part:
+(1)  If an agreement between the bank and the debtor governing the deposit account expressly 
+provides that a particular jurisdiction is the bank's jurisdiction for purposes of this part, this article, or 
+[the Uniform Commercial Code], that jurisdiction is the bank's jurisdiction.
+(2)  If paragraph (1) does not apply and an agreement between the bank and its customer governing 
+the deposit account expressly provides that the agreement is governed by the law of a particular 
+jurisdiction, that jurisdiction is the bank's jurisdiction.
+(3)  If neither paragraph (1) nor paragraph (2) applies and an agreement between the bank and its 
+customer governing the deposit account expressly provides that the deposit account is maintained at 
+an office in a particular jurisdiction, that jurisdiction is the bank's jurisdiction.
+(4)  If none of the preceding paragraphs applies, the bank's jurisdiction is the jurisdiction in which the 
+office identified in an account statement as the office serving the customer's account is located.
+(5)  If none of the preceding paragraphs applies, the bank's jurisdiction is the jurisdiction in which the 
+chief executive office of the bank is located.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

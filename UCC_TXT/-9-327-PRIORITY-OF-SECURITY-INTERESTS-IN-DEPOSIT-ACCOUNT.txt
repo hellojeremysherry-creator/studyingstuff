@@ -1,0 +1,17 @@
+U.C.C. § 9-327
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+PERFECTION AND PRIORITY  >  SUBPART 3. PRIORITY
+§ 9-327. PRIORITY OF SECURITY INTERESTS IN DEPOSIT ACCOUNT
+The following rules govern priority among conflicting security interests in the same deposit account:
+(1)  A security interest held by a secured party having control of the deposit account under Section 9-
+104 has priority over a conflicting security interest held by a secured party that does not have control.
+(2)  Except as otherwise provided in paragraphs (3) and (4), security interests perfected by control 
+under Section 9-314 rank according to priority in time of obtaining control.
+(3)  Except as otherwise provided in paragraph (4), a security interest held by the bank with which the 
+deposit account is maintained has priority over a conflicting security interest held by another secured 
+party.
+(4)  A security interest perfected by control under Section 9-104(a)(3) has priority over a security 
+interest held by the bank with which the deposit account is maintained.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

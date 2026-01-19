@@ -1,0 +1,26 @@
+## U.C.C. § 9-336
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+## Perfection And Priority  >  Subpart 3. Priority
+## § 9-336. Commingled Goods
+(a) ["Commingled goods."]  In this section, "commingled goods" means goods that are physically united 
+with other goods in such a manner that their identity is lost in a product or mass.
+(b) [No security interest in commingled goods as such.]  A security interest does not exist in 
+commingled goods as such. However, a security interest may attach to a product or mass that results when 
+goods become commingled goods.
+(c) [Attachment of security interest to product or mass.]  If collateral becomes commingled goods, a 
+security interest attaches to the product or mass.
+(d) [Perfection of security interest.]  If a security interest in collateral is perfected before the collateral 
+becomes commingled goods, the security interest that attaches to the product or mass under subsection (c) 
+is perfected.
+(e) [Priority of security interest.]  Except as otherwise provided in subsection (f), the other provisions of 
+this part determine the priority of a security interest that attaches to the product or mass under subsection 
+(c).
+(f) [Conflicting security interests in product or mass]  If more than one security interest attaches to the 
+### product or mass under subsection (c), the following rules determine priority
+(1)  A security interest that is perfected under subsection (d) has priority over a security interest that is 
+unperfected at the time the collateral becomes commingled goods.
+(2)  If more than one security interest is perfected under subsection (d), the security interests rank 
+equally in proportion to the value of the collateral at the time it became commingled goods.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

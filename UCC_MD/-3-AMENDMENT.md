@@ -1,0 +1,12 @@
+U.C.C. Art. 6 § 3
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 6. BULK SALES  >  ALTERNATIVE A [Including 
+repeal of Article 6]
+Notice
+Deleted: Red text with a strikethrough
+## § 3. Amendment.
+Section 2-403(4) of the Uniform Commercial Code is hereby amended to read as follows:
+(4)  The rights of other purchasers of goods and of lien creditors are governed by the Articles on 
+Secured Transactions (Article 9), Bulk Transfers (Article 6) and Documents of Title (Article 7).
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

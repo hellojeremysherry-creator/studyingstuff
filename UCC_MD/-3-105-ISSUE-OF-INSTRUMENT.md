@@ -1,0 +1,14 @@
+## U.C.C. § 3-105
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 1. 
+## General Provisions And Definitions
+## § 3-105. Issue Of Instrument
+(a)  "Issue" means the first delivery of an instrument by the maker or drawer, whether to a holder or 
+nonholder, for the purpose of giving rights on the instrument to any person.
+(b)  An unissued instrument, or an unissued incomplete instrument that is completed, is binding on the 
+maker or drawer, but nonissuance is a defense. An instrument that is conditionally issued or is issued for a 
+special purpose is binding on the maker or drawer, but failure of the condition or special purpose to be 
+fulfilled is a defense.
+(c)  "Issuer" applies to issued and unissued instruments and means a maker or drawer of an instrument.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

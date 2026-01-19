@@ -1,0 +1,272 @@
+Restat 2d of Contracts, § 131
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 5- The Statute of 
+Frauds          >            Topic 6- Satisfaction of the Statute by a Memorandum        
+§ 131 General Requisites of a Memorandum
+Unless additional requirements are prescribed by the particular statute, a contract within the Statute of 
+Frauds is enforceable if it is evidenced by any writing, signed by or on behalf of the party to be 
+charged, which
+(a)  reasonably identifies the subject matter of the contract,
+(b)  is sufficient to indicate that a contract with respect thereto has been made between the parties or 
+offered by the signer to the other party, and
+(c)  states with reasonable certainty the essential terms of the unperformed promises in the contract.
+## Comments & Illustrations
+### Comment
+a.  The statutory language.  This Section restates the law developed by judicial interpretation of the requirement 
+of § 4 of the English Statute of Frauds that "the agreement . . . or some memorandum or note thereof" be in 
+writing and signed.  Despite slight variations in wording in § 17 of the English Statute and in American statutes, 
+they have generally been read to establish the same requisites.  Where the statute requires that "the contract" 
+be in writing, however, a mere memorandum is not sufficient; and statutory provisions sometimes explicitly 
+require a statement of the consideration or explicitly negate such a requirement, either with respect to contracts 
+of suretyship or in all cases.
+b.  The Uniform Commercial Code.  Paragraphs (a) and (b) follow the phrasing of Uniform Commercial Code §§ 
+1-206 and 2-201.  Compare §§ 8-319, 9-203.  Section 1-206 requires in addition an indication that the contract 
+has been made "at a defined or stated price." Section 2-201 omits this requirement and also any reference to 
+identification of subject matter, and adds "A writing is not insufficient because it omits or incorrectly states a 
+term agreed upon but the contract is not enforceable under this paragraph beyond the quantity of goods shown 
+in such writing." Section 8-319 refers to "a stated quantity of described securities at a defined or stated price." 
+Section 9-203 requires "a security agreement which contains a description of the collateral" and in certain 
+cases "a description of the land concerned." The description is sufficient "if it reasonably identifies what is 
+described." See § 9-110.
+c.  Rationale.  The primary purpose of the Statute is evidentiary, to require reliable evidence of the existence 
+and terms of the contract and to prevent enforcement through fraud or perjury of contracts never in fact made.  
+The contents of the writing must be such as to make successful fraud unlikely, but the possibility need not be 
+excluded that some other subject matter or person than those intended will also fall within the words of the 
+writing.  Where only an evidentiary purpose is served, the requirement of a memorandum is read in the light of 
+the dispute which arises and the admissions of the party to be charged; there is no need for evidence on points 
+not in dispute.
+The suretyship and marriage provisions of the Statute perform a cautionary as well as an evidentiary function.  
+See §§ 112, 124.  The land contract provision performs a channeling function.  See Statutory Note preceding § 
+110.  Even where these provisions are involved, however, there is no evidence of a statutory purpose to 
+facilitate repudiation of firm oral agreements fairly made, to protect a promisor from temptation to perjure 
+himself by false denial of the promise, or to reward a candid contract-breaker by denying enforcement.
+d.  Types of documents.  The statutory memorandum may be a written contract, but under the traditional 
+statutory language any writing, formal or informal, may be sufficient, including a will, a notation on a check, a 
+
+§ 131 General Requisites of a Memorandum
+receipt, a pleading, or an informal letter.  Neither delivery nor communication is essential.  See § 133.  Writing 
+for this purpose includes any intentional reduction to tangible form.  See Uniform Commercial Code § 1-201.
+### Illustrations
+1.  A makes an oral contract with B to devise Blackacre to B, and executes a will containing the devise and a 
+recital of the contract.  The will is revoked by a later will.  The revoked will is a sufficient memorandum to 
+charge A's estate.
+2.  A publishes in a newspaper an offer to buy certain goods, stating the terms of his proposal, and his name is 
+printed under the advertisement.  B accepts the offer.  The advertisement is a sufficient memorandum to charge 
+A.  See § 136.
+3.  A writes and signs in pencil a receipt for $ 1,000 which recites that the money is received from B as part 
+payment of the price of $ 5,000 for a parcel of land.  The receipt is a sufficient memorandum to charge A on the 
+agreement recited.
+e.  Subject matter.  A memorandum, like a contract, must be read in its context and need not be 
+comprehensible to persons not familiar with the particular type of transaction.  Without reference to executory 
+oral promises, the memorandum in context must indicate with reasonable certainty the nature of the transaction 
+and must provide a basis for identifying the land, goods or other subject matter.
+### Illustrations
+4.  A Company executes a written contract with B by which B purchases certain accounts owned by A 
+Company.  As part of the same transaction, C, the president of A Company, signs a contract of guaranty printed 
+at the foot of the same paper: "In order to induce B to enter into an agreement dated     with     (hereinafter 
+referred to as the client), the undersigned agrees to be liable for due performance of all the client's agreements 
+with B." The blanks are not filled in.  The quoted words are sufficient to identify the obligation guaranteed.
+5.  A and B make an oral contract for the sale of goods and sign the following memorandum: 
+"Sept. 19th B, 12 mos.
+300 bales S. F. drills
+7 1/4 
+100 cases blue do
+8 3/4 
+Credit to commence when ship sails; not after December
+1 -- delivered free of charge for truckage.
+(Signed) A 
+B"
+If persons acquainted with the usages of the business would understand its meaning, the memorandum is 
+sufficient.
+6.  A and B enter into an oral contract by which A promises to sell and B to buy such of A's iron in his millyard 
+as he may decide to sell.  A memorandum describes the subject matter of the contract as "all A's iron which he 
+may decide to sell." The description is sufficient.
+7.  A and B enter into a contract by which A promises to sell and B to buy a certain lot of hops belonging to A.  
+A telegram from B refers to the subject matter as "number 13." This refers to a sample submitted by A to B by 
+mail with a numbered tag attached and referring by trade usage to a specific lot.  The description is sufficient.
+8.  A and B enter into an oral contract for the sale and purchase of Blackacre.  An otherwise sufficient 
+memorandum, signed by A and B, describes the subject matter as "the land on the corner of X and Y Streets," 
+omitting any statement as to the city or state.  A owns only one of the four lots at the intersection.  The 
+description is sufficient.
+9.  A and B enter into a written contract for the employment of B as A's sales manager for a term of two years.  
+At the end of the two years, A and B orally agree to extend the employment for three more years at an 
+increased salary.  A year later A signs the following memorandum: "It is understood that the arrangements 
+made for employment of B in our business on January 1, 1977, for a period of three years from that date at a 
+salary of $ 30,000 per year, continues in force until January 1, 1980." The memorandum sufficiently identifies 
+the nature of B's employment.
+
+§ 131 General Requisites of a Memorandum
+f.  Contract between the parties.  A memorandum must be sufficient to indicate that a contract has been made 
+between the parties with respect to an identified subject matter or that the signer has offered such a contract to 
+the other party.  The parties must be reasonably identified; the identification may consist of a name or initials, 
+even though there may be others with the same name or initials, or of any other reasonably accurate mode of 
+description.  Identification of the agent of a party in the memorandum sufficiently refers to the party, whether or 
+not the agent is himself a party.  See Restatement, Second, Agency § 153.  Where there is no dispute as to the 
+parties, a party may be sufficiently identified by possession of a memorandum signed by the other party.  A 
+signed written offer to the public may be sufficient even though the offeree is not identified.
+### Illustrations
+10.  A and B are negotiating for the sale of A's restaurant to B.  B gives A a check for $ 500 bearing the notation 
+"Tentative deposit on tentative purchase of 1415 City Line Ave., Phila.  Restaurant, Fixtures, Equipment, Good 
+Will." Later A and B orally agree on terms of sale.  The quoted memorandum is not sufficient to indicate that a 
+contract for sale has been made.
+11.  C and D make an oral contract for the sale of Blackacre and sign the following memorandum: "C agrees to 
+sell and D agrees to buy Blackacre for $ 10,000." C is agent for A, D is agent for B, and each is acting on behalf 
+of his principal.  The memorandum is sufficient to charge A and B.
+12.  An otherwise sufficient memorandum of an oral contract for the sale of Blackacre states that "the owner of 
+Blackacre" promises to sell it.  The memorandum is signed by B, and B is the agent of A, the owner of 
+Blackacre, acting on A's behalf.  The memorandum is sufficient to charge A.
+13.  A, president and principal stockholder of A Company, gives B his personal check for $ 10,000 and a written 
+offer to buy Blackacre from B on stated terms.  The offer, signed by A, states that "the offer to purchase is from 
+a company owned by A." B accepts the offer by a signed writing.  Neither the offer nor the acceptance identifies 
+the purchaser except by the quoted language.  The identification is sufficient.
+14.  A and B make an oral agreement for the sale of a parcel of land by A to B.  B pays A $ 50 and A signs and 
+delivers to B a receipt which identifies the parcel and accurately states the terms of payment but does not name 
+or describe B or his agent.  In B's suit for specific performance, A defends on the ground of B's inequitable 
+conduct in the negotiations.  B is sufficiently identified by his possession of the memorandum.
+g.  Terms; accuracy.  The degree of particularity with which the terms of the contract must be set out cannot be 
+reduced to a formula.  The writing must be the agreement or a memorandum "thereof"; a memorandum of a 
+different agreement will not suffice.  The "essential" terms of unperformed promises must be stated; "details or 
+particulars" need not.  What is essential depends on the agreement and its context and also on the subsequent 
+conduct of the parties, including the dispute which arises and the remedy sought.  Omission or erroneous 
+statement of an agreed term makes no difference if the same term is supplied by implication or by rule of law.  
+Erroneous statement of a term can sometimes be corrected by reformation.  See § 155.  Otherwise omission or 
+misstatement of an essential term means that the memorandum is insufficient.  Uniform Commercial Code § 2-
+201, however, states a different rule for sale of goods.
+### Illustrations
+15.  A and B enter into an oral contract for the sale of Blackacre by A to B.  A memorandum is made and signed 
+which states sufficiently the parties, subject matter and terms of the oral bargain except that, though the parties 
+in fact orally agreed that the price should be payable on delivery of a deed, the memorandum contains no 
+statement as to when the price is payable.  The memorandum is sufficient.
+16.  A and B enter into an oral contract for the sale of Blackacre by A to B, and both sign a memorandum 
+providing for a "purchase money mortgage in the amount of $ 18,000 payable for 15 years at 5%." B claims a 
+right to pay $ 142.35 per month; A claims a payment of $ 100 a month plus monthly interest at 5%.  No usage is 
+shown.  The memorandum is not sufficient to support an action by B for specific performance on his terms.
+h.  Statement of consideration.  In Wain v. Warlters, 5 East 10 (K.B. 1804), a promise in writing to pay the debt 
+of another was held unenforceable because the writing failed to state the consideration, which had been fully 
+executed.  Where that view is followed, the words "for value received" or an implication of consideration may 
+validate the memorandum.  But the decision has not been generally followed in the United States, and the 
+English law was changed by statute in 1856.  Uniform Commercial Code § 3-408 eliminates the requirement of 
+consideration for a negotiable instrument or obligation thereon given in payment of or as security for an 
+
+§ 131 General Requisites of a Memorandum
+antecedent obligation, and § 3-416 exempts from the Statute of Frauds any guaranty written on a negotiable 
+instrument.  Aside from explicit statutory provisions, the prevailing view is that error or omission in the recital of 
+past events does not affect the sufficiency of a memorandum.
+Where, on the other hand, the consideration for a promise consists of a return promise not yet performed, 
+performance of the return promise is commonly a condition of the promisor's duty, and an adequate 
+memorandum will ordinarily reveal the consideration.  A memorandum of a contract for the sale of land for an 
+agreed price is not sufficient unless it discloses the price.  Compare Uniform Commercial Code §§ 1-206 and 3-
+319, referring to "a defined or stated price" for intangible personal property or for investment securities.  But § 
+2-201 dispenses with statement of the price of goods sold.
+### Illustrations
+17.  A lends $ 1,000 to B, and as part of the transaction C orally agrees to guarantee repayment.  To evidence 
+the guaranty, C signs a written promise to pay A $ 1,000.  The written promise is a sufficient memorandum 
+without any statement of consideration.
+18.  A agrees not to sue B Company on a debt for goods sold and delivered, in consideration of C's guaranty of 
+payment for past and future deliveries to B up to $ 3,000.  C signs the following guaranty: "I, C, do hereby 
+guarantee to A the payment of any sums due or that may become due up to the sum of $ 3,000 on such goods 
+as B may have bought or shall buy from A.  [Signed] C." A makes no further deliveries.  The memorandum is 
+not sufficient to charge C, since it omits any mention of A's return promise.
+19.  A and B orally agree on the sale of a farm by A to B for $ 155 an acre.  A dates and signs the following 
+memorandum: "Received from B $ 100 as payment on 84 acres farm, [at $ 155 an acre] balance to be paid 
+when deed and abstract are presented." The memorandum is sufficient to charge A if the bracketed words are 
+included but not if they are omitted.
+## Reporter'S Notes
+This Section is restated from former § 207.  See 4 Williston Contracts §§ 567-78 (3d ed. 1961 & Supp. 1978); 2 
+Corbin, Contracts §§ 498-509 (1950 & Supps. 1971 & 1980).
+Comment a.  The Statute of Frauds in Iowa provides that "no evidence" of the contract "is competent" unless in 
+writing, but excepts "oral evidence of the maker against whom the unwritten contract is sought to be enforced." 
+A memorandum "expressing the consideration" is required in Minnesota, Nevada and Wisconsin.  The statutes 
+in the District of Columbia and Kentucky, provide that the memorandum need not state the consideration.  See 
+Statutory Note preceding § 110 for citations.
+Comment d.  Illustration 1 is based on Illustration 1 to former § 207; see Rape v. Lyerly, 287 N.C. 601, 215 
+S.E.2d 737 (1975), citing this Illustration in Tentative Draft; Note, Contracts to Devise Realty -- Sufficiency of 
+Will as Memo for Statute of Frauds, 54 N.C. L. Rev. 976 (1976); Annot., 94 A.L.R.2d 921 (1964). Illustration 2 is 
+based on Illustration 2 to former § 207; see Annot., 1 A.L.R.2d 841 (1948). Illustration 3 is modified from 
+Illustration 3 to former § 207; compare Langlois v. Oriole Land & Dev. Corp., 283 So.2d 143 (Fla. Dist. Ct. App. 
+1973) with Pettigrew v. Denwalt, 431 P.2d 333 (Okl. 1967); see Annots., 8 A.L.R. 1339 (1920) (pencil 
+signature), 20 A.L.R. 363 (1922) (check or note as memorandum), 153 A.L.R. 1112 (1944) (same).
+Comment e.  Illustration 4 is based on James Talcott, Inc. v. Fullerton Cotton Mills, Inc., 208 F.2d 81 (5th Cir. 
+1953); cf.  Ledford Constr. Co. v. Smith, 231 Md. 596, 191 A.2d 587 (1963). Illustration 5 is based on Illustration 
+4 to former § 207; cf.  Salmon Falls Mfg. Co. v. Goddard, 55 U.S. (14 How.) 446 (1852). Illustrations 6, 7 and 8 
+are based on Illustrations 7, 8 and 9 to former § 207.  As to Illustration 7, cf. Brewer v. Horst-Lachmund Co., 
+127 Cal. 643, 60 P. 418 (1900); see Annots., 29 A.L.R. 1218 (1924), 129 A.L.R. 1230 (1940). Illustration 8 was 
+followed in Nauman v. Powers, 147 Kan. 641, 78 P.2d 27 (1938); Cousbelis v. Alexander, 315 Mass. 729, 54 
+N.E.2d 47 (1944); compare Del Rio Land, Inc. v. Haumont, 118 Ariz. 1, 574 P.2d 469 (Ct. App. 1977). See also 
+Annots., 139 A.L.R. 965 (1942), 23 A.L.R.2d 6 (1952); cf. Annots., 141 A.L.R. 814 (1942) (sale of oil and gas 
+lease), 16 A.L.R.2d 621 (1951) (lease).  Illustration 9 is based on Marks v. Cowdin, 226 N.Y. 138, 123 N.E. 139 
+(1919).
+Comment f.  As to initials, see Annot., 159 A.L.R. 253 (1945). Illustration 10 is based on Arcuri v. Weiss, 198 
+Pa. Super. Ct. 506, 608, 184 A.2d 24 (1962); Mapes v. Kalva Corp., 68 Ill. App.3d 362, 24 Ill. Dec. 944, 386 
+N.E.2d 148 (1979); Progress Ent., Inc. v. Litwin Corp., 225 Kan. 212, 589 P.2d 583 (1979); Boddy v. Gray, 497 
+S.W.2d 600 (Tex. Civ. App. 1973), error ref.; Fraley v. Null, Inc., 244 Md. 567, 224 A.2d 448 (1966). Illustrations 
+
+§ 131 General Requisites of a Memorandum
+11 and 12 are based on Illustrations 5 and 6 to former § 207; see Annots., 23 A.L.R. 932 (1923); 70 A.L.R. 196 
+(1931); 138 A.L.R. 330 (1942). As to Illustration 11, see Del Rio Land, Inc. v. Haumont, 118 Ariz. 1, 574 P.2d 
+469 (Ct. App. 1977) (auctioneer at land sale or his clerk has broad authority to make memorandum on behalf of 
+both buyer and seller; real estate broker's authority must be specifically proved); Pettigrew v. Denwalt, 431 P.2d 
+333 (Okl. 1967) (husband's authority to sign memorandum of sale (by endorsing checks), so as to bind wife, 
+narrowly construed; the presence of a homestead statute was an important factor in the holding).  Illustration 13 
+is based on Looman Realty Corp. v. Broad St. Nat'l Bank, 32 N.J. 461, 161 A.2d 247 (1960); cf.  Dodge v. 
+Blood, 299 Mich. 364, 300 N.W. 121 (1941). But cf.  Irvmor Corp. v. Rodewald, 253 N.Y. 472, 171 N.E. 747 
+(1930). Illustration 14 is based on Randazzo v. Kroenke, 373 Mich. 61, 127 N.W.2d 880 (1964); cf.  Sanders v. 
+McNutt, 147 Ohio St. 408, 72 N.E.2d 72 (1947). But cf.  Pierce v. Rush, 210 Ga. 718, 82 S.E.2d 649 (1954); 
+Elliott v. Owen, 244 N.C. 684, 94 S.E.2d 833 (1956).
+Comment g.  Courts disagree on the degree of precision required and the degree to which gaps in the 
+memorandum may be filled by extrinsic evidence.  It is common for courts to state that no parol evidence may 
+be used, see, e.g., Dudley v. Boise Cascade Corp., 76 Wash.2d 466, 457 P.2d 586 (1969); Pettigrew v. 
+Denwalt, 431 P.2d 333 (Okl. 1967); Blue Valley Creamery Co. v. Consolidated Prods. Co., 81 F.2d 182 (8th Cir. 
+1936). In Rape v. Lyerly, 287 N.C. 601, 215 S.E.2d 737 (1975), the court did so while citing this Section in 
+Tentative Draft.  The rule of this Section, however, requires only that the "essential" terms be stated in the 
+memorandum.  More precise discussions appear, e.g., in ITT Cannon Elec., Inc. v. Brady, 141 Ind. App. 506, 
+230 N.E.2d 114 (1967); Progress Ent., Inc. v. Litwin Corp., 225 Kan. 212, 589 P.2d 583 (1979); and Del Rio 
+Land, Inc. v. Haumont, 118 Ariz. 1, 574 P.2d 469 (Ct. App. 1977); compare Rape v. Lyerly, supra, in which, 
+despite the dictum referred to earlier, the court relied heavily on testimony at trial for evidence of the services to 
+be rendered under an oral contract evidenced by a revoked will.  Cases with dicta requiring the memorandum 
+to be excessively precise often find that in fact no oral contract was made.  See, e.g., Trollope v. Koerner, 106 
+Ariz. 10, 470 P.2d 91 (1970); Fraley v. Null, Inc., 244 Md. 567, 224 A.2d 448 (1966).
+Illustration 15 is based on Illustration 12 to former § 207, but is changed to a contract for the sale of land 
+instead of goods.  The payment term is supplied by operation of law.  In accord with this approach is the New 
+York line of cases described in Flammia v. Mite Corp., 401 F. Supp. 1121 (E.D.N.Y. 1975), aff'd mem., 553 
+F.2d 93 (2d Cir. 1977); especially Morris Cohon & Co. v. Russell, 23 N.Y.2d 569, 297 N.Y.S.2d 947, 245 N.E.2d 
+712 (1969), in which a finder was permitted to recover in quantum meruit when a memorandum of an oral 
+agreement did not include the rate of compensation.  Illustration 16 is based on Montanaro v. Pandolfini, 148 
+Conn. 153, 168 A.2d 550 (1961). See also Del Rio Land, Inc. v. Haumont, 118 Ariz. 1, 574 P.2d 469 (Ct. App. 
+1977).
+Comment h.  The English statute of 1856 was the Mercantile Law Amendment Act, 19 & 20 Vict. c. 97, § 3.  As 
+to statement of consideration in a memorandum of sale of goods or choses in action; see Annots., 30 A.L.R. 
+1163 (1924), 59 A.L.R. 1422 (1929). Illustration 17 rejects the authority of Wain v. Warlters, 5 East 10 (K.B. 
+1804); see De Wolf v. Rabaud, 26 U.S. (1 Peters) 476 (1828). Illustration 18 is based on Standard Oil Co. v. 
+Koch, 260 N.Y. 150, 183 N.E. 278 (1932), reargument denied, 261 N.Y. 535, 185 N.E. 727 (1933). Illustration 
+19 is based on Hanlon v. Hayes, 404 Ill. 362, 89 N.E.2d 51 (1949); see Annot., 23 A.L.R.2d 164 (1952).
+Cross Reference
+### ALR Annotations
+Construction and application of UCC § 2-201(3)(b) rendering contract of sale enforceable notwithstanding 
+statute of frauds, to extent it is admitted in pleadings, testimony, or otherwise in court.  88 A.L.R.3d 416.
+Applicability of statute of frauds to agreement to rescind contract for sale of land.  42 A.L.R.3d 242.
+Contract to support, maintain, or educate a child as within provision of statute of frauds relating to contracts not 
+to be performed within a year.  49 A.L.R.2d 1293.
+Joint adventure agreement for acquisition, development, or sale of land as within provision of statute of frauds 
+governing broker's agreement for commission on real-estate sale.  48 A.L.R.2d 1042.
+
+§ 131 General Requisites of a Memorandum
+Sufficiency, under the statute of frauds, of description or designation of land in contract or memorandum of sale 
+which gives right to select the tract to be conveyed.  46 A.L.R.2d 894.
+Statute of frauds: promise by stockholder, officer, or director to pay debt of corporation.  35 A.L.R.2d 906.
+Effect of attempted cancelation or erasure in memorandum otherwise sufficient to satisfy statute of frauds.  31 
+A.L.R.2d 1112.
+Necessity and sufficiency of statement of consideration in contract or memorandum of sale of land, under 
+statute of frauds.  23 A.L.R.2d 164.
+Sufficiency of description or designation of land in contract or memorandum of sale, under statute of frauds.  23 
+A.L.R.2d 6.
+Sufficiency of memorandum of lease agreement to satisfy the statute of frauds, as regards terms and conditions 
+of lease.  16 A.L.R.2d 621.
+Undelivered lease or contract (other than for sale of land), or undelivered memorandum thereof, as satisfying 
+statute of frauds.  12 A.L.R.2d 508.
+Memorandum which will satisfy statute of frauds, as predicable in whole or part upon writings prior to the oral 
+agreement.  1 A.L.R.2d 841.
+### Digest System Key Numbers
+Frauds, Statute of 97 et seq.
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

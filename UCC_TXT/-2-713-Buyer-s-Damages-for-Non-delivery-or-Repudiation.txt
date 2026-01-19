@@ -1,0 +1,13 @@
+U.C.C. § 2-713
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 7. REMEDIES
+§ 2-713. Buyer's Damages for Non-delivery or Repudiation.
+(1)  Subject to the provisions of this Article with respect to proof of market price ( Section 2-723), the 
+measure of damages for non-delivery or repudiation by the seller is the difference between the market price 
+at the time when the buyer learned of the breach and the contract price together with any incidental and 
+consequential damages provided in this Article ( Section 2-715), but less expenses saved in consequence 
+of the seller's breach.
+(2)  Market price is to be determined as of the place for tender or, in cases of rejection after arrival or 
+revocation of acceptance, as of the place of arrival.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,24 @@
+Restat 2d of Contracts, § 93
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 2- Contracts Without Consideration        
+§ 93 Promises Enumerated in 82-85 Made in Ignorance of Facts
+A promise within the terms of §§ 82-85 is not binding unless the promisor knew or had reason to know 
+the essential facts of the previous transaction to which the promise relates, but his knowledge of the 
+legal effect of the facts is immaterial.
+## Comments & Illustrations
+### Illustrations
+1.  A secures from B a promise to pay $ 100 by fraudulently representing that a watch given as consideration 
+for the promise is made of gold.  B, knowing the facts but not knowing that A's fraud justifies him in avoiding the 
+transaction, promises to pay the $ 100.  The promise is binding.
+2.  A, an indorser of a note, did not receive due notification of its dishonor by the maker.  Subsequently, in 
+ignorance of the fact that the lack of notification had discharged him, A promises B, the holder of the note, to 
+pay it.  The promise is binding.
+## Reporter'S Notes
+This Section was former § 93.  See 1 Williston, Contracts § 204 (3d ed. 1957); 1A Corbin, Contracts § 228 
+(1963).  Illustrations 1 and 2 were Illustrations 1 and 2 to former § 93.
+Cross Reference
+### Digest System Key Numbers
+Contracts 80
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

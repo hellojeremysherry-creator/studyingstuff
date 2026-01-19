@@ -1,0 +1,7 @@
+## U.C.C. § 10-103
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 10. EFFECTIVE DATE AND REPEALER
+§ 10-103. General Repealer.
+Except as provided in the following section, all acts and parts of acts inconsistent with this Act are hereby repealed.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

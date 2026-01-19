@@ -1,0 +1,26 @@
+## U.C.C. § 4-303
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4. BANK DEPOSIT  >  PART 3. COLLECTION OF 
+## Items: Payor Banks
+## § 4-303. When Items Subject To Notice, Stop-Payment Order,
+## Legal Process, Or Setoff; Order In Which Items May Be
+## Changed Or Certified
+(a)  Any knowledge, notice, or stop-payment order received by, legal process served upon, or setoff 
+exercised by a payor bank comes too late to terminate, suspend, or modify the bank's right or duty to pay 
+an item or to charge its customer's account for the item if the knowledge, notice, stop-payment order, or 
+legal process is received or served and a reasonable time for the bank to act thereon expires or the setoff is 
+### exercised after the earliest of the following
+(1)  the bank accepts or certifies the item;
+(2)  the bank pays the item in cash;
+(3)  the bank settles for the item without having a right to revoke the settlement under statute, clearing-
+house rule, or agreement;
+(4)  the bank becomes accountable for the amount of the item under Section 4-302 dealing with the 
+payor bank's responsibility for late return of items; or
+(5)  with respect to checks, a cutoff hour no earlier than one hour after the opening of the next banking 
+day after the banking day on which the bank received the check and no later than the close of that next 
+banking day or, if no cutoff hour is fixed, the close of the next banking day after the banking day on 
+which the bank received the check.
+(b)  Subject to subsection (a), items may be accepted, paid, certified, or charged to the indicated account of 
+its customer in any order.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

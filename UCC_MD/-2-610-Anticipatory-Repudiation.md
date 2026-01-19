@@ -1,0 +1,15 @@
+## U.C.C. § 2-610
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 6. BREACH, REPUDIATION 
+## And Excuse
+§ 2-610. Anticipatory Repudiation.
+When either party repudiates the contract with respect to a performance not yet due the loss of which will 
+substantially impair the value of the contract to the other, the aggrieved party may
+(a)  for a commercially reasonable time await performance by the repudiating party; or
+(b)  resort to any remedy for breach ( Section 2-703 or Section 2-711), even though he has notified the 
+repudiating party that he would await the latter's performance and has urged retraction; and
+(c)  in either case suspend his own performance or proceed in accordance with the provisions of this 
+Article on the seller's right to identify goods to the contract notwithstanding breach or to salvage 
+unfinished goods ( Section 2-704).
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

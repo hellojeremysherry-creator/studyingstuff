@@ -1,0 +1,16 @@
+## U.C.C. § 9-319
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 3. 
+## Perfection And Priority  >  Subpart 3. Priority
+## § 9-319. Rights And Title Of Consignee With Respect To
+## Creditors And Purchasers
+(a) [Consignee has consignor's rights.]  Except as otherwise provided in subsection (b), for purposes of 
+determining the rights of creditors of, and purchasers for value of goods from, a consignee, while the goods 
+are in the possession of the consignee, the consignee is deemed to have rights and title to the goods 
+identical to those the consignor had or had power to transfer.
+(b) [Applicability of other law.]  For purposes of determining the rights of a creditor of a consignee, law 
+other than this article determines the rights and title of a consignee while goods are in the consignee's 
+possession if, under this part, a perfected security interest held by the consignor would have priority over 
+the rights of the creditor.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

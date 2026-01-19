@@ -1,0 +1,80 @@
+Restat 2d of Contracts, § 167
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 7- 
+Misrepresentation, Duress and Undue Influence          >            Topic 1- Misrepresentation        
+§ 167 When a Misrepresentation Is an Inducing Cause
+A misrepresentation induces a party's manifestation of assent if it substantially contributes to his 
+decision to manifest his assent.
+## Comments & Illustrations
+### Comment
+a.  Scope.  The rule stated in this Section determines whether a misrepresentation in fact induced a party's 
+actual or apparent manifestation of assent, as required under §§ 163, 164 and 166.  A misrepresentation is not 
+a cause of a party's making a contract unless he relied on the misrepresentation in manifesting his assent.  His 
+reliance will usually consist of his acceptance, an affirmative act, but may also consist of his refraining from 
+revoking an outstanding offer.  See Illustrations 8 and 9 to § 161.  It is not necessary that this reliance have 
+been the sole or even the predominant factor in influencing his conduct.  It is not even necessary that he would 
+not have acted as he did had he not relied on the assertion.  It is enough that the manifestation substantially 
+contributed to his decision to make the contract.  It is, therefore, immaterial that he may also have been 
+influenced by other considerations.  As to the effect of the recipient's fault, see § 172.  The misrepresentation 
+need not be made directly to the recipient but may be made to a third person for the purpose of having him 
+transmit it, or its substance, to the recipient in order to induce action.  See Illustration 1 to § 162.
+### Illustrations
+1.  A, seeking to induce B to make a contract to buy land, makes a fraudulent misrepresentation.  Although he 
+believes A's assertion, B wishes to confirm it and therefore inspects the land and inquires of third persons.  B 
+then makes the contract.  The misrepresentation substantially contributes to his decision to make the contract, 
+although he is also induced to do so by his investigation and inquiries.  B's manifestation of assent is induced 
+by the misrepresentation, and the contract is voidable by B.
+2.  A, seeking to induce B to make a contract to buy land, makes two statements to B about the land, one a true 
+assertion and one a fraudulent misrepresentation.  B makes the contract.  The fraudulent misrepresentation 
+substantially contributes to his decision to make the contract, although he is also induced to do so by the true 
+assertion.  B's manifestation of assent is induced by the misrepresentation, and the contract is voidable by B.
+b.  Criteria.  Circumstantial evidence is often important in determining whether a misrepresentation has been an 
+inducing cause.  The materiality of the misrepresentation is a particularly significant factor in this determination.  
+It is assumed, in the absence of facts showing the contrary, that the recipient attached importance to the truth 
+of a misrepresentation if it was material, but not if it was immaterial.  The extent of a party's investigation also 
+bears on the question of causation.  If he relies solely on his investigation and not on the misrepresentation, he 
+is not entitled to relief.  One who makes an investigation will often be taken to rely on it alone as to all facts 
+disclosed to him in the course of it.  On the other hand, if the fact is not one that the investigation disclosed or 
+would have been likely to disclose, the recipient may still be relying on the misrepresentation as well as on the 
+investigation.  Particularly when the investigation produces results that tend to confirm the misrepresentation 
+but are still somewhat inconclusive, it may be found that the recipient relied on both and that he attached 
+importance to the truth of the misrepresentation in making the contract.  A party who, having made a 
+misrepresentation, intentionally frustrates the other's investigation of its truth, will be precluded from claiming 
+that the other relied on the investigation to the exclusion of the misrepresentation.  See Restatement, Second, 
+Torts § 547(2).
+### Illustrations
+
+§ 167 When a Misrepresentation Is an Inducing Cause
+3.  A, seeking to induce B to make a contract to buy his race horse, tells him that the horse has run a mile in a 
+specified time.  A is honestly mistaken, and, unknown to him, the horse has never come close to that time.  B 
+makes the contract.  Because A's misrepresentation is material, it will be assumed, in the absence of facts 
+showing the contrary, that B attached importance to its truth in deciding to make the contract.  The contract is 
+therefore voidable by B.  See Illustration 3 to § 162.
+4.  A, seeking to induce B to make a contract to buy his race horse, tells him that the horse was bred in a 
+particular stable.  A knows that it was bred in another stable.  B makes the contract.  If A's misrepresentation is 
+not material, it will not be assumed that B attached importance to its truth in deciding to make the contract.  
+Unless other evidence shows that B relied on the misrepresentation, the contract is not voidable by B.  See 
+Illustration 4 to § 162.
+## Reporter'S Notes
+This Section is based on Restatement, Second, Torts § 546; see also former § 479 and Restatement, Second, 
+Torts §§ 547, 548.  See 12 Williston, Contracts §§ 1515, 1515A (3d ed. 1970).
+Comment a.  Illustration 1 is based on Illustration 2 to Restatement, Second, Torts § 546.  Illustration 2 is based 
+on Illustration 3 to Restatement, Second, Torts § 546.
+Comment b.  Illustration 3 is based on Illustration 1 to former § 479.  Illustration 4 is based on Illustration 2 to 
+former § 479.  The use of circumstantial evidence, inferences and assumptions to determine actual reliance is 
+illustrated by Fidelity Sav. and Loan Ass'n v. Aetna Life and Cas. Corp., 440 F. Supp. 862, 867-68 (N.D. Cal. 
+1977).
+Cross Reference
+### ALR Annotations
+What constitutes "affirmation of fact" giving rise to express warranty under UCC § 2-313(1)(a).  94 A.L.R.3d 
+729.
+Comment Note. -- "Out of pocket" or "benefit of bargain" as proper rule of damages for fraudulent 
+representations inducing contract for the transfer of property.  13 A.L.R.3d 875.
+Necessity of showing damage to establish fraud as defense to action on contract.  91 A.L.R.2d 346.
+False representations as to income, profits, or productivity of property as fraud.  27 A.L.R.2d 14.
+Proceeding under executory contract after discovering fraud as waiver of right to recover damages for the 
+fraud.  13 A.L.R.2d 807.
+### Digest System Key Numbers
+Contracts 94(5)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

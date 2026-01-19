@@ -1,0 +1,29 @@
+Restat 2d of Contracts, § Scope
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations        
+Introductory Note
+The typical contract is a bargain -- an agreement in which a promise is exchanged for a consideration; in atypical 
+cases a promise is binding because of its formal characteristics, because of reliance by the promisee, or for some 
+other reason.  See § 17.  The terms of the agreement or promise to a large extent define the obligation created.  
+Certain types of contracts or terms, however, are forbidden or otherwise regulated, and rules of law must fill the gap 
+when the parties have not provided for the situation which arises.  Where the parties have adopted a writing as the 
+final expression of all or part of their agreement, interpretation focuses on the writing, and its terms may supersede 
+other manifestations of intention.  Whether or not there is a writing, the parties' intention is read in its context, and 
+usages common to the parties are often an important part of the context.
+General rules relating to these matters are stated in this chapter.  Bargains unenforceable on grounds of public 
+policy, however, are the subject of a separate chapter.  See Chapter 8.  The scope of a contractual obligation may 
+be determined or affected by the meaning of the promise or agreement (Topic 1), by considerations of fairness and 
+the public interest (Topic 2), by the adoption of a writing (Topic 3), and by usage (Topic 4).  Some special rules 
+relating to conditions and their effect on the scope of contractual obligations are stated at the end of this Chapter 
+(Topic 5).
+This Chapter analyzes the process of interpreting and applying agreements, stating separately rules with respect to 
+various aspects of the process.  Such a separate statement may convey an erroneous impression of the 
+psychological reality of the judicial process in which many elements are typically combined in a single ruling.  
+Nevertheless, where evidence of an oral term is excluded in an action based on a written agreement with simply the 
+imprecise explanation that "the writing speaks for itself," the ruling, when analyzed, may sum up the following 
+determinations: the contract was integrated (§ 209); the integration was complete (§ 210); the oral term is 
+inconsistent with the written agreement, is within its scope, does not bear on its interpretation, and would not 
+naturally be omitted from the writing (§§ 213-16)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

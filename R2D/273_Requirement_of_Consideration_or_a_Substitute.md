@@ -1,0 +1,60 @@
+Restat 2d of Contracts, § 273
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 1- The Requirement of Consideration        
+§ 273 Requirement of Consideration or a Substitute
+Except as stated in §§ 274-77, an obligee's manifestation of assent to a discharge is not effective unless
+(a)  it is made for consideration,
+(b)  it is made in circumstances in which a promise would be enforceable without consideration, or
+(c)  it has induced such action or forbearance as would make a promise enforceable.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  This Section states the traditional requirement of consideration or one of its substitutes in order 
+that the obligee's assent to even a present discharge be effective.  The requirement is analogous to that of 
+consideration or some substitute in order that even a present transfer of a right by assignment be irrevocable (§ 
+332).  Subject to some exceptions, a gratuitous discharge is not effective, just as a gratuitous promise is not 
+enforceable and a gratuitous assignment is not irrevocable.  The use of words suggesting present transfer, 
+such as those of gift or of assignment, does not affect the result.  See Illustration 1.
+### Illustration
+1.  A, whom B owes $ 1,000 for goods delivered, gives B a signed writing that states, "I hereby irrevocably give, 
+transfer, assign and release my right to the $ 1,000 that you owe me." B's debt is not discharged.  Compare § 
+284 with § 332(1)(a).
+b.  Consideration and its substitutes.  For centuries the seal was used to make a discharge of a duty effective, 
+and in a few states the legislation that has generally deprived the seal of its effect makes an exception for 
+executed transactions such as releases.  See Reporter's Note to Introductory Note, Topic 3, Chapter 4.  In a 
+few other states legislation makes a signed writing a substitute for a seal in this respect.  Today, however, the 
+requirement stated in this Section is usually satisfied by consideration.  The rules on consideration that apply 
+generally to the enforceability of promises apply here.  These include those set out in Topic 2 of Chapter 4 for 
+situations where a promise is enforceable without consideration.  A transaction need not follow one of the 
+traditional forms set out in Topics 4 and 5 in order to be effective.  Furthermore, a discharge that is originally 
+ineffective may become effective if it has induced such action or forbearance as would make a promise 
+enforceable (§ 90).  See Illustration 2.  The rule stated in this Section does not preclude the discharge of a duty 
+by means of a gift of tangible property.  See Illustration 3.
+### Illustrations
+2.  A pays B $ 1,000 in return for B's promise to paint a landscape for A.  Before B is to begin, A says, "I don't 
+want the painting, but you can keep the $ 1,000." B relies on A's statement by making conflicting commitments 
+to do other work.  B's duty to A is discharged.  Compare § 275.
+3.  A contracts to sell to B a particular machine that B has in his possession as bailee in return for B's promise 
+to pay $ 1,000.  Before B pays the $ 1,000, A says, "You can keep the machine as a gift." Since A has made an 
+effective gift of the machine to B, B's duty to pay for it is discharged.  Compare § 276.
+## Reporter'S Notes
+This Section states a principle that was implicit in former Chapter 13.
+Comment a.  Illustration 1 is new.  On whether it would be affected by UCC § 2-209(1), permitting agreements 
+"modifying a contract" without consideration, compare UCC § 2-209(2), which appears to distinguish between 
+
+§ 273 Requirement of Consideration or a Substitute
+"modification" and "recission." On this point, see Rosenthal, Discord and Dissatisfaction: Section 1-207 of the 
+Uniform Commercial Code, 78 Colum. L. Rev. 48, 57 n. 41 (1978).
+Comment b.  Illustration 2 is based on Illustration 3 to former § 415; cf.  Fried v. Fisher, 328 Pa. 497, 196 A. 39 
+(1938); Gorge Lumber Co. v. Brazier Lumber Co., 6 Wash. App. 327, 493 P.2d 782 (1972); Jazlowiecki v. 
+Nicoletti, 34 Conn. Supp. 670, 387 A.2d 1081 (Super. Ct. 1977) (alternative holdings finding both consideration 
+for discharge and reliance upon it).  Illustration 3 is supported by Anderson v. Lord, 87 N.H. 474, 183 A. 269 
+(1936); Cravens v. Holliday, 198 Okl. 264, 177 P.2d 495 (1947).
+Cross Reference
+### ALR Annotations
+Effect of attempt to terminate employment or agency contract upon shorter notice than stipulated in contract.  
+96 A.L.R.2d 272.
+### Digest System Key Numbers
+Contracts 255
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

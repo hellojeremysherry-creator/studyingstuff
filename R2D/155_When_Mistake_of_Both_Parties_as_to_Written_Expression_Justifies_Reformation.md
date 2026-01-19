@@ -1,0 +1,233 @@
+Restat 2d of Contracts, § 155
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 6- Mistake        
+§ 155 When Mistake of Both Parties as to Written Expression Justifies 
+Reformation
+Where a writing that evidences or embodies an agreement in whole or in part fails to express the 
+agreement because of a mistake of both parties as to the contents or effect of the writing, the court may 
+at the request of a party reform the writing to express the agreement, except to the extent that rights of 
+third parties such as good faith purchasers for value will be unfairly affected.
+## Comments & Illustrations
+### Comment
+a.  Scope.  The province of reformation is to make a writing express the agreement that the parties intended it 
+should.  Under the rule stated in this Section, reformation is available when the parties, having reached an 
+agreement and having then attempted to reduce it to writing, fail to express it correctly in the writing.  Their 
+mistake is one as to expression -- one that relates to the contents or effect of the writing that is intended to 
+express their agreement -- and the appropriate remedy is reformation of that writing properly to reflect their 
+agreement.  For the rule stated in this Section to be invoked, therefore, there must have been some agreement 
+between the parties prior to the writing.  The prior agreement need not, however, be complete and certain 
+enough to be a contract.  Compare § 1 with § 3; see § 33.  If the parties reach agreement as to only part of a 
+prospective bargain, and if they are later mistaken in their attempt to put in writing this agreement together with 
+such other terms as will make a contract, reformation is still an appropriate remedy.  The agreement must, of 
+course, be certain enough to permit a court to frame relief in terms of reformation.  The writing that is reformed 
+may purport to embody their entire agreement (i.e., a completely integrated agreement under § 210(1)), or only 
+part of their agreement (i.e., a partially integrated agreement under § 210(2)), since the parol evidence rule 
+does not preclude such a showing of mistake.  See § 214(d).  It may be a writing evidencing a contract within 
+the Statute of Frauds, since the Statute does not bar reformation.  See § 156.  (If neither the parol evidence rule 
+nor the Statute of Frauds applies, the writing itself will not ordinarily have sufficient legal significance for its 
+reformation to be necessary.) The error in expressing the agreement may consist in the omission or erroneous 
+reduction to writing of a term agreed upon or the inclusion of a term not agreed upon.  If the parties are 
+mistaken with respect to the legal effect of the language that they have used, the writing may be reformed to 
+reflect the intended effect.  Reformation is available even though the effect of the error is to make it appear from 
+the writing that there is no enforceable agreement.  See Illustration 2 and Comment a and Illustration 3 to § 
+156.  Reformation is not precluded by the mere fact that the party who seeks it failed to exercise reasonable 
+care in reading the writing, but the right to reformation is subject to the rule on fault stated in § 157.  With the 
+merger of law and equity under modern codes of procedure, it is generally unnecessary to seek reformation as 
+a condition to enforcing the true contract, and a party may be granted both reformation and enforcement in a 
+single suit.
+### Illustrations
+1.  A and B agree that A will sell and B will buy a tract of land for $ 100,000 and that B will assume an existing 
+mortgage of $ 50,000.  In reducing the agreement to writing, B's lawyer erroneously omits the provision for 
+assumption, and neither A nor B notices the omission.  At the request of either A or B, the court will reform the 
+writing to add the provision for assumption.
+2.  A and B agree that A will sell and B will buy all the coal that B shall require in his business during a five year 
+period.  In reducing the agreement to writing, B mistakenly provides that he will buy all the coal that he shall 
+desire to buy during that period, and A fails to notice the error.  At the request of either A or B, the court will 
+
+§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation
+reform the writing to provide that B will buy all the coal that he shall require rather than all that he shall desire to 
+buy.
+3.  A agrees with B to guarantee the collectibility of a debt owed by C to B.  In reducing the agreement to 
+writing, the parties mistakenly choose words that, unknown to both of them, have the effect of making A an 
+ordinary guarantor rather than a guarantor of collectibility only.  At the request of either A or B, the court will 
+reform the writing to limit A's obligation to that of a guarantor of collectibility.
+b.  Relation to other rules.  The rule stated in this Section applies only where both parties are mistaken with 
+respect to the reduction to writing.  (In the case of a promise under seal to make a gift, since the intention of 
+only one party is involved, his mistake alone will entitle him to reformation, at least if there has been no reliance 
+by the donee that cannot be compensated for.  See Comment d.) A mistake as to expression is a mistake as to 
+a basic assumption, but the contract is not voidable unless reformation is unavailable to protect the interests of 
+the parties.  See § 152.  One party may, therefore, seek reformation in order to prevent avoidance by the other.  
+See Comment e to this Section and Illustration 10 to § 152.  If, however, the parties make a written agreement 
+that they would not otherwise have made because of a mistake other than one as to expression, the court will 
+not reform a writing to reflect the agreement that it thinks they would have made.  The remedy in that case is 
+avoidance.  See Illustrations 4 and 5.  The discretionary relief authorized under the rule stated in § 158 may 
+involve some reshaping of the contract duties by the court but is different from reformation.
+Several other related cases must also be distinguished.  If one party sends to the other an offer which, because 
+of a mistake, does not reflect the offeror's intention, the rule stated in this Section does not apply both because 
+only one party is mistaken and because there was no prior agreement.  The mistaken party's remedy, if any, in 
+that case is not reformation but avoidance under the rule stated in § 153.  See Illustration 6 to § 153.  Similarly, 
+when the parties to a bargain, sufficiently certain to be a contract, are silent with respect to a term that is 
+essential to a determination of their rights and duties, the court will not decree reformation but will supply a term 
+under the rule stated in § 204.  See Illustration 6.  Furthermore, even where there is a prior agreement that is 
+not properly expressed in the writing, if only one party is mistaken and the other actually knows this, the 
+mistaken party's right to reformation is governed by the rule on fraudulent misrepresentation stated in § 166.
+In some instances where it might appear that both parties are mistaken with respect to the reduction to writing 
+of a prior agreement, interpretation of the writing will show that the mistake is only apparent and not real.  
+Where, for example, the parties use language in the writing in an unusual way, interpretation of the writing in 
+accord with the meaning attached by the parties will protect their expectations, and reformation is unnecessary.  
+See Illustration 7.  In a borderline case a court may avoid the necessity of reforming the writing by viewing the 
+issue as one of interpretation.  Finally, in the case of a standardized agreement, the special rule stated in § 
+211(3) may operate to exclude a term that is not only unknown to a party but beyond the range of reasonable 
+expectations.  See Comment f to § 211.
+### Illustrations
+4.  A and B make a written contract for the sale by A to B for $ 15,000 of a claim by A against C.  Both parties 
+mistakenly believe that the claim is an unliquidated one for about $ 20,000, but in fact it does not exceed $ 
+10,000.  A court will not, at the request of B, reform the writing, because the mistake of the parties was not one 
+as to its contents or effect.  B's right to avoidance is governed by the rule stated in § 152.  See Illustration 4 to § 
+152.
+5.  A contracts to sell and B to buy a tract of land, described in the contract as containing 100 acres, at a price 
+of $ 100,000.  Both parties believe that the area is 100 acres but in fact it is only 90 acres.  The court will not, at 
+the request of B, reform the writing, because the mistake of the parties was not one as to its contents or effect.  
+B's right to avoidance is governed by the rules stated in §§ 152 and 158.  See Illustration 11 to § 152 and 
+Illustration 1 to § 158.
+6.  A and B agree that A shall have the exclusive right to market goods manufactured by B and that A shall pay 
+B half of any profits he derives from their sale.  The agreement is then reduced to writing.  Each party 
+understands that A is to use best efforts to promote sale of the goods and that B will use best efforts to supply 
+them, but nothing is said on this subject.  Under the rule stated in § 204 a court will supply a term imposing on 
+both A and B an obligation to use best efforts, and it will not reform the writing.  See Illustration 9 to § 77 and 
+Uniform Commercial Code § 2-306(2).
+
+§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation
+7.  A agrees to sell and B to buy the American patent rights on an invention as to which A holds American, 
+British and French patent rights.  In reducing their agreement to writing, the parties use the term "all patent 
+rights," meaning all American rights.  A court will interpret the writing in the light of the circumstances to cover 
+only the American and not the British or French patent rights, and it will not reform the writing.  See Illustration 2 
+to § 212.
+c.  Proof required.  Because experience teaches that mistakes are the exception and not the rule, the trier of 
+the facts should examine the evidence with particular care when it relates to a party's assertion of mistake as 
+the basis for his claim or defense.  Care is all the more necessary when the asserted mistake relates to a 
+writing, because the law of contracts, as is indicated by the parol evidence rule and the Statute of Frauds, 
+attaches great weight to the written expression of an agreement.  This is commonly summarized in a standard 
+that requires the trier of the facts to be satisfied by "clear and convincing evidence" before reformation is 
+granted.  Each case must, however, turn on its particular facts, and the evidentiary weight to be attached to a 
+writing will depend, in part, on its inherent credibility in the light of those facts.  Once the court is convinced that 
+the writing fails to express the agreement of the parties, the writing loses its usual evidentiary effect with 
+respect to other matters, such as the ascertainment of the parties' actual agreement.  Because this 
+Restatement is concerned with rules of substantive law and not with rules of procedure, including proof, this 
+question of the proof required for reformation is not dealt with in this Section.
+d.  Equitable discretion.  This Section states the circumstances in which a court "may" grant reformation.  Since 
+the remedy of reformation is equitable in nature, a court has the discretion to withhold it, even if it would 
+otherwise be appropriate, on grounds that have traditionally justified courts of equity in withholding relief.  No 
+attempt is made here to define the limits of this traditional equitable discretion.  One such limit, however, has 
+been that equity will not ordinarily aid a volunteer, and it is for this reason that the promisee of a promise under 
+seal to make a gift is generally barred from obtaining reformation.  See Comment b.
+e.  Who is entitled to reformation.  Reformation may be granted at the request of any party to the contract, 
+including an intended beneficiary, or of a party's successor in interest.  In contrast to the rules for avoidance 
+stated in §§ 152 and 153, the party seeking relief need not show that the mistake has resulted in an inequality 
+that adversely affects him.  A party may, for example, seek and be granted reformation even though it makes 
+his own performance more onerous when, absent reformation, the agreement would be unenforceable for lack 
+of consideration (see Illustration 2) or where the agreement would be voidable by the other party (see 
+Illustration 10 to § 152).  A court will, however, deny reformation where the effect of the mistake is trivial.
+f.  Protection of innocent third parties.  The claim of a mistaken party to reformation, being equitable in its origin, 
+is subject to the rights of good faith purchasers for value and other third parties who have similarly relied on the 
+finality of a consensual transaction in which they have acquired an interest in property.  Cf. Restatement of 
+Restitution § 13.  Such other third parties include those who have given value and come within the definition of 
+"purchaser" in Uniform Commercial Code § 1-201(33), (32), notably mortgagees, pledgees and other holders of 
+a security interest.  Judgment creditors and trustees in bankruptcy are not included.
+### Illustrations
+8.  A gives B a note for $ 50,000, loaned to him by B, and also gives B a written contract by which A promises 
+to execute a mortgage on land that he owns as security for the note.  Because of a mistake of both parties as to 
+the contents of the writing, it fails to express their agreement that the mortgage is to be subject to another 
+mortgage for $ 30,000 for which A is then bargaining.  B negotiates the note and assigns the contract to C, a 
+good faith purchaser for value.  The court will not, at the request of A, reform the writing because to do so 
+would adversely affect C, a good faith purchaser.
+9.  The facts being otherwise as stated in Illustration 8, B does not transfer the note and contract to C, a good 
+faith purchaser, but D, a judgment creditor of B, attaches the claim.  The court will, at the request of A, reform 
+the writing so that the mortgage is to be subject to the $ 30,000 mortgage, because D is not a good faith 
+purchaser or other third party taking an interest in property in a voluntary transaction.  The result would be the 
+same if B instead went into bankruptcy and D were B's trustee.
+## Reporter'S Notes
+This Section is based on former § 504.  To the extent that former §§ 506, 507, and 511 are treated in this 
+Restatement, they are dealt with in this Section and its comments.  See 3 Corbin, Contracts §§ 580, 614, 619 
+
+§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation
+(1960 & Supp. 1980); 13 Williston, Contracts §§ 1542, 1547, 1549A, 1551-56, 1586 (3d ed. 1970).  For a 
+discussion of the effect of the parol evidence rule on reformation, see Palmer, Reformation and the Parol 
+Evidence Rule, 65 Mich. L. Rev. 833 (1967); 3 Corbin, supra, §§ 540, 599.
+Comment a.  Cases granting relief under the circumstances covered by this Section often speak of "scrivener's 
+errors" or similar terms that point up the mistake as one of transcription of the parties' actual agreement.  See, 
+e.g., Davenport v. Beck, 576 P.2d 1199 (Okl. Ct. App. 1977); Olds v. Jamison, 195 Neb. 388, 238 N.W.2d 459 
+(1976); Parrish v. City of Carbondale, 61 Ill. App.3d 500, 18 Ill. Dec. 779, 378 N.E.2d 243 (1978). Compare 
+Ekco Enterprises v. Remi Fortin Constr., Inc., 118 N.H. 37, 382 A.2d 368 (1978). For cases granting 
+reformation although it did not appear that the prior agreement amounted to a contract, see Bollinger v. Central 
+Pennsylvania Quarry Stripping & Constr. Co., 425 Pa. 430, 229 A.2d 741 (1967); Kelley v. Ward, 94 Tex. 289, 
+60 S.W. 311 (1901). Compare Sardo v. Fidelity & Deposit Co. of Maryland, 100 N.J. Eq. 332, 134 A. 774 
+(1926), denying reformation because of the absence of a prior agreement.  On the inapplicability of the parol 
+evidence rule, see Ekco Enterprises v. Remi Fortin Constr., Inc., supra. Compare Olds v. Jamison, supra. That 
+reformation is not precluded by a party's failure to check the documents, see Waite v. Salestrom, 201 Neb. 224, 
+266 N.W.2d 908 (1978); Collins v. Parkinson, 98 Idaho 871, 574 P.2d 913 (1978). That reformation is not a 
+condition to enforcement of the contract, see Langer v. Stegerwald Lumber Co., 262 Wis. 383, 55 N.W.2d 389 
+(1952), reh. denied, 262 Wis. 383, 56 N.W.2d 512 (1953). Illustration 1 is based on Illustration 1 to former § 
+504; see Skelton v. Federal Sur. Co., 15 F.2d 756 (8th Cir. 1926); Kroschel v. Martineau Hotels, 142 Or. 31, 18 
+P.2d 818 (1933); Bollinger v. Central Pennsylvania Quarry Stripping & Constr. Co., supra; Kaiser v. Carolina 
+Life Ins. Co., 219 S.C. 456, 65 S.E.2d 865 (1951); Searcy v. Tomlinson Interests, Inc., 358 So.2d 373 (Miss. 
+1978); cf.  Snipes Mountain Co. v. Benz Bros., 162 Wash. 334, 298 P. 714 (1931). Illustration 2 is based on 
+Illustration 3 to former § 504.  Illustration 3 is based on Illustration 5 to former § 504; see Rolph v. McGowan, 20 
+Wash. App. 251, 579 P.2d 1011 (1978); Kelley v. Ward, supra.
+Comment b.  Mistake of only one party, the donor, will justify reformation when the donor seeks to reduce the 
+size of a gift.  Cf.  Davidson v. Lane, 566 S.W.2d 891 (Tenn. App. 1978) (reformation of deed to restrict use of 
+property to conform with grantors' actual intent); Jonas v. Meyers, 410 Ill. 213, 101 N.E.2d 509 (1951) 
+(reformation of deed).  The distinction between a court's willingness to reform a contract because of the parties' 
+mistake in expression of their actual agreement and its refusal to speculate on what they would have agreed to 
+but for an underlying mistake is illustrated by Highlands Underwriters v. Elegante Inns, 361 So.2d 1060 (Ala. 
+1978), in which both situations existed as to different parts of a contract.  Compare the same court's more 
+questionable decision in Federated Guar. Life Ins. Co. v. Painter, 360 So.2d 309 (Ala. 1978). Courts do not 
+always sharply distinguish between mistake by both parties in expressing agreement and mistake of one plus 
+improper nondisclosure by the other.  Compare Rolph v. McGowan, 20 Wash. App. 251, 579 P.2d 1011 (1978) 
+with Waite v. Salestrom, 201 Neb. 224, 266 N.W.2d 908 (1978).
+The facts in Illustration 4 are suggested by Illustration 5 to § 152.  Illustration 5 is based on Illustration 9 to 
+former § 504.  Cf.  Biren v. Kluver, 35 Ill. App.3d 692, 342 N.E.2d 325 (1976); Booth v. Wilkinson, 195 Neb. 
+730, 240 N.W.2d 578 (1976), both distinguishing errors of identity of land from mistakes in description.  The 
+facts in Illustration 6 are suggested by Illustration 9 to § 79; cf. Illustration 3 to former § 507.  Illustration 7 is 
+based on Illustration 2 to § 238.  Compare General Discount Corp. v. Sadowski, 183 F.2d 542 (6th Cir. 1950) 
+(reformation granted after relief by means of interpretation had been refused in a prior suit).
+Comment c.  On the standard of "clear and convincing evidence," see former § 511, and, e.g., St. Louis County 
+Nat'l Bank v. Maryland Casualty Company, 564 S.W.2d 920 (Mo. Ct. App. 1978); Skelton v. Federal Sur. Co., 
+15 F.2d 756 (8th Cir. 1926). It is clear that the burden of proof is higher than in an ordinary civil action, Parrish 
+v. City of Carbondale, 61 Ill. App.3d 500, 18 Ill. Dec. 779, 378 N.E.2d 243 (1978), although the formulation 
+varies.  See, e.g., id. ("very strong, clear and convincing"); Skelton v. Federal Sur. Co., supra ("clear, 
+convincing and satisfactory"); Ed Sparks & Sons v. Joe Campbell Constr. Co., 99 Idaho 139, 578 P.2d 681 
+(1978) ("clear and satisfactory"); Philbin Inv. Inc. v. Orb Enterprises, 35 N.C. App. 622, 242 S.E.2d 176 (1978) 
+("strong, cogent and convincing").  Some courts have even required proof beyond a reasonable doubt.  See 
+Bemis v. Lamb, 135 Vt. 618, 383 A.2d 614 (1978). Some have assimilated that criminal law standard with the 
+"clear and convincing" standard.  See Federated Guar. Life Ins. Co. v. Painter, 360 So.2d 309 (Ala. 1978); 
+Dehner Urban Redev. Corp. v. Dun & Bradstreet, Inc., 567 S.W.2d 700 (Mo. Ct. App. 1978).
+
+§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation
+Comment d.  Reliance by the state was held justification for a court's refusal to grant rescission in Bartlett v. 
+Department of Transp., 40 Md. App. 47, 388 A.2d 930 (1978). That reformation is generally unavailable to a 
+donee, see former § 506; Marvin v. Kelsey, 373 Ill. 589, 27 N.E.2d 469 (1940). But cf. Restatement of 
+Restitution § 127.
+Comment e.  For a case where a contract was reformed at the instance of an intended beneficiary, see Hunt v. 
+Century Indem. Co., 58 R.I. 336, 192 A. 799 (1937). For reformation at the instance of the disinterested heirs of 
+the grantors of a charitable gift, see Davidson v. Lane, 566 S.W.2d 891 (Tenn. App. 1978). As to reformation at 
+the instance of a creditor, compare Brosam v. Employer's Mut. Cas. Co., 61 Ill. App.2d 183, 209 N.E.2d 350 
+(1965), with Security Sav. & Trust Co. v. Portland Flour Mills Co., 124 Or. 276, 261 P. 432 (1927). That the 
+contract need not be more burdensome or less advantageous to the party seeking reformation, see Livings v. 
+Tyo, 81 Colo. 58, 253 P. 385 (1927); Perron v. Lebel, 256 A.2d 663 (Me. 1969); Tenco, Inc. v. Manning, 59 
+Wash.2d 479, 368 P.2d 372 (1962).
+Comment f.  Illustration 8 is based on Illustration 6 to former § 504; see Dunham v. W. Steele Packing & 
+Provision Co., 100 Mich. 75, 58 N.W. 627 (1894) (dictum); First Bank of Russell County v. Wells, 358 So.2d 
+435 (Ala. 1978) (dictum); cf.  Mutual Life Ins. Co. v. Metzger, 167 Md. 27, 172 A. 610 (1934). But cf.  Korosic v. 
+Pearson, 377 Ill. 413, 36 N.E.2d 744 (1941). Illustration 9 is based on Illustration 6 to former § 504; cf.  Searcy 
+v. Tomlinson Interests, Inc., 358 So. 2d 373 (Miss. 1978). But cf.  Stoneham Five Cents Sav. Bank v. Johnson, 
+295 Mass. 390, 3 N.E.2d 730 (1936).
+Cross Reference
+### ALR Annotations
+Negligence in executing contract as affecting right to have it reformed.  81 A.L.R.2d 7.
+Right to reformation of contract or instrument as affected by intervening rights of third persons.  79 A.L.R.2d 
+1180.
+### Digest System Key Numbers
+Reformation of Instruments 17-20
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,81 @@
+Restat 2d of Contracts, § 365
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 3- Enforcement by Specific Performance and Injunction        
+§ 365 Effect of Public Policy
+Specific performance or an injunction will not be granted if the act or forbearance that would be 
+compelled or the use of compulsion is contrary to public policy.
+## Comments & Illustrations
+### Comment
+a.  Act or forbearance against public policy.  If the performance of a contract is contrary to public policy, the 
+contract will often be unenforceable under the rules stated in Chapter 8, Unenforceability on Grounds of Public 
+Policy.  Its performance may, for example, involve a breach of a duty to a third person arising under tort law, out 
+of a fiduciary relation or under a contract.  See §§ 192, 193 and 194.  There are, however, situations in which 
+the contract is enforceable but it would be an improper use of judicial power to grant specific performance or an 
+injunction because the act or forbearance that would be compelled would adversely affect some aspect of the 
+public interest or would otherwise be contrary to public policy.  In such situations, equitable relief will be refused 
+even though a judgment for damages will be granted.  See Illustration 1.
+### Illustration
+1.  A is induced to make a contract to sell land to B, to be paid for out of funds of C that B holds as trustee, by 
+B's false representation that such use of C's money is within B's authority as trustee.  A sues B for specific 
+performance.  Specific performance will be refused on grounds of public policy, since the act that would be 
+ordered would involve a breach of trust, even though B will be held liable in damage for breach of contract.
+b.  Compulsion against public policy.  Even though the act or forbearance that would be compelled is not 
+contrary to public policy, the use of compulsion to require that act or forbearance may be contrary to public 
+policy.  One example of this general principle is the rule under which a court will refuse to grant specific 
+performance if the character of performance is such that enforcement will impose a disproportionate burden on 
+the court (§ 366).  Another is the rule under which a court will refuse to grant specific performance of a promise 
+to render personal services or supervision (§ 367).  The general principle is not, however, limited to these 
+situations and another important application occurs where equitable relief is denied on the ground that to grant 
+it would give a preference with respect to the assets of an insolvent party.
+### Illustrations
+2.  A contracts to give B, a railroad company, a right of way in return for B's promise to locate a station and stop 
+its express trains at a designated place.  It later turns out that that place is an inconvenient one for the public 
+and that the disadvantage to B as well as the public of B's promise is performed will be disproportionate to any 
+advantage to A.  B refuses to locate the station as promised, and A sues B for specific performance.  Specific 
+performance will be refused on grounds of public policy, even though B will be held liable in damages for 
+breach of contract.
+3.  A borrows money from B and contracts to transfer to him as security 100 shares of stock in X Corporation 
+but does not create a security interest in specific shares.  A dies insolvent without having kept his promise.  B 
+sues A's administrator for specific performance.  Specific performance will be refused on grounds of public 
+policy because it would compel the administrator to commit a breach of his duty as trustee of the asset in his 
+charge, even though A's estate will be held liable in damages for breach of contract.
+4.  A contracts to manufacture and deliver to B, for a price paid in advance, 100 articles as to which A has a 
+monopoly under a patent.  A manufactures 1,000 such articles but refuses to deliver any of them to B.  B sues 
+A for specific performance.  A becomes insolvent and his other creditors file a petition in bankruptcy.  A's 
+
+§ 365 Effect of Public Policy
+trustee intervenes in the suit to protect A's assets.  Specific performance will be refused because it would result 
+in a preference, even though A will be held liable for breach of contract.  But see Uniform Commercial Code § 
+2-502.
+## Reporter'S Notes
+This Section is based on former § 369 and on parts of former §§ 362 and 368.  See 5A Corbin, Contracts § 
+1169 (1964); 11 Williston, Contracts § 1429 (3d ed. 1968).
+Comment a.  Illustration 1 is based on Illustration 2 to former § 368.
+Comment b.  As to the policy against preferences, see former § 362.  Illustration 2 is based on Illustration 2 to 
+former § 369.  Illustration 3 is based on Illustration 1 to former § 362.  Illustration 4 is based on Illustration 2 to 
+former § 362; Jamison Coal & Coke Co. v. Gottra, 143 F.2d 889 (8th Cir.), cert. denied, 323 U.S. 769 (1944).
+Cross Reference
+### ALR Annotations
+Specific performance of agreement for sale of private franchise.  82 A.L.R.3d 1102.
+Enforceability, insofar as restrictions would be reasonable, of contract containing unreasonable restrictions on 
+competition.
+Enforceability of covenant not to compete in infant's employment contract.  17 A.L.R.3d 863.
+Failure of artisan or construction contractor to procure occupational or business license or permit as affecting 
+validity or enforceability of contract.  82 A.L.R.2d 1429.
+Enforceability of covenant against competition, ancillary to sale or other transfer of business, practice, or 
+property, as affected by territorial extent of restriction.  46 A.L.R.2d 119.
+Enforceability of covenant against competition, ancillary to sale or other transfer of business, practice, or 
+property, as affected by duration of restriction.  45 A.L.R.2d 77.
+Specific performance of provisions of separation agreement other than those for support or alimony.  44 
+A.L.R.2d 1091.
+Enforceability of restrictive covenant, ancillary to employment contract, as affected by territorial extent of 
+restriction.  43 A.L.R.2d 94.
+Validity and enforceability of agreement to drop or compromise will contest or withdraw objections to probate, or 
+of agreement to induce others to do so.  42 A.L.R.2d 1319.
+Rights and remedies under contract by party to procure insurance on his own life.  12 A.L.R.2d 983.
+### Digest System Key Numbers
+Injunctions 24
+Specific Performance 12
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

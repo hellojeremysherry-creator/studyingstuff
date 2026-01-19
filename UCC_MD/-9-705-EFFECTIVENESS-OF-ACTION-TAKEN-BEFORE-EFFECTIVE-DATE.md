@@ -1,0 +1,40 @@
+## U.C.C. § 9-705
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 7. 
+## Transition
+## § 9-705. Effectiveness Of Action Taken Before Effective Date
+(a) [Pre-effective-date action; one-year perfection period unless reperfected.]  If action, other than the 
+filing of a financing statement, is taken before this [Act] takes effect and the action would have resulted in 
+priority of a security interest over the rights of a person that becomes a lien creditor had the security interest 
+become enforceable before this [Act] takes effect, the action is effective to perfect a security interest that 
+attaches under this [Act] within one year after this [Act] takes effect. An attached security interest becomes 
+unperfected one year after this [Act] takes effect unless the security interest becomes a perfected security 
+interest under this [Act] before the expiration of that period.
+(b) [Pre-effective-date filing.]  The filing of a financing statement before this [Act] takes effect is effective 
+to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection 
+under this [Act].
+(c) [Pre-effective-date filing in jurisdiction formerly governing perfection.]  This [Act] does not render 
+ineffective an effective financing statement that, before this [Act] takes effect, is filed and satisfies the 
+applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in 
+[former Section 9-103]. However, except as otherwise provided in subsections (d) and (e) and Section 9-
+### 706, the financing statement ceases to be effective at the earlier of
+(1)  the time the financing statement would have ceased to be effective under the law of the jurisdiction 
+in which it is filed; or
+(2)  June 30, 2006.
+(d) [Continuation statement.]  The filing of a continuation statement after this [Act] takes effect does not 
+continue the effectiveness of the financing statement filed before this [Act] takes effect. However, upon the 
+timely filing of a continuation statement after this [Act] takes effect and in accordance with the law of the 
+jurisdiction governing perfection as provided in Part 3, the effectiveness of a financing statement filed in the 
+same office in that jurisdiction before this [Act] takes effect continues for the period provided by the law of 
+that jurisdiction.
+(e) [Application of subsection (c)(2) to transmitting utility financing statement.]  Subsection (c)(2) 
+applies to a financing statement that, before this [Act] takes effect, is filed against a transmitting utility and 
+satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as 
+provided in [former Section 9-103] only to the extent that Part 3 provides that the law of a jurisdiction other 
+than the jurisdiction in which the financing statement is filed governs perfection of a security interest in 
+collateral covered by the financing statement.
+(f) [Application of Part 5.]  A financing statement that includes a financing statement filed before this [Act] 
+takes effect and a continuation statement filed after this [Act] takes effect is effective only to the extent that 
+it satisfies the requirements of Part 5 for an initial financing statement.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

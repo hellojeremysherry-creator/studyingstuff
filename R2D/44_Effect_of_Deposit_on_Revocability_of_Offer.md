@@ -1,0 +1,31 @@
+Restat 2d of Contracts, § 44
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 4- Duration of the Offeree’s Power of Acceptance        
+§ 44 Effect of Deposit on Revocability of Offer
+An offeror's power of revocation is not limited by the deposit of money or other property to be forfeited 
+in the event of revocation, but the deposit may be forfeited to the extent that it is not a penalty.
+## Comments & Illustrations
+### Comment
+a.  Deposits.  Money or other property is often transferred by an offeror to the account of the offeree, and such 
+property may ordinarily be recovered if the offer is not accepted.  See Restatement of Restitution § 56.  If it is 
+agreed that the property may be forfeited in the event of revocation of the offer, the agreement is subject to the 
+rules governing liquidated damages and penalties.  See § 356; Uniform Commercial Code § 2-718.  The 
+agreement may be valid as a provision for liquidated damages, or as a provision of security for the payment of 
+actual damages.  In either case, the offer is treated as irrevocable for the purpose of determining rights in the 
+deposit, but the offeror's power of revocation is not otherwise impaired.  In cases of bids on government 
+contracts, statutes often authorize forfeiture without regard to the distinction between liquidated damages and 
+penalty.
+### Illustration
+1.  A offers to buy Blackacre from B for $ 10,000 and deposits $ 500 to be forfeited in the event of revocation.  
+A revokes the offer before acceptance, and the market value of the land at the time for conveyance fixed in the 
+offer is $ 9,000.  B's power of acceptance is terminated, but B may retain the $ 500.
+## Reporter'S Notes
+This Section is new.  See 1 Williston, Contracts § 61 (3d ed. 1957); 1 Corbin, Contracts § 47 (1963); 5 id. § 
+1074 (1964).
+Comment a.  Illustration 1 is based on Scott v. United States, 44 Ct. Cl. 524 (1909).
+Cross Reference
+### Digest System Key Numbers
+Contracts 19
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

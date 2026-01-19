@@ -1,0 +1,58 @@
+Restat 2d of Contracts, § 343
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 15- Assignment 
+and Delegation          >            Topic 5- Priorities Between Assignee and Adverse Claimants        
+§ 343 Latent Equities
+If an assignor's right against the obligor is held in trust or constructive trust for or subject to a right of 
+avoidance or equitable lien of another than the obligor, an assignee does not so hold it if he gives value 
+and becomes an assignee in good faith and without notice of the right of the other.
+## Comments & Illustrations
+### Comment
+a.  Scope.  The rule stated in this Section is an application to contractual rights of the rules stated in 
+Restatement, Second, Trusts §§ 284-85 and Restatement of Restitution § 172 as applying to property 
+generally.  See also Restatement, Second, Agency § 307A.  The rule does not apply to defenses or claims of 
+the obligor, but protects the bona fide purchaser against all other equitable claims adverse to the right of the 
+assignor.  The bona fide purchaser may be a purchaser for value of the entire right or only of a fractional or 
+otherwise limited interest, such as a security interest.  But the rule does not apply to cases of successive 
+assignments by the same assignor, and does not protect a promisee or beneficiary of a contract to assign or a 
+declaration of trust until he becomes an assignee.  See Restatement, Second, Trusts § 286; Restatement of 
+Restitution § 175.
+### Illustrations
+1.  A, as trustee for X, has a right against B.  In violation of his trust A assigns the right gratuitously to C.  C 
+assigns to D, a purchaser for value in good faith and without notice of the breach of trust.  D holds the right free 
+of the trust.
+2.  A has a right against B and is induced to assign it to C by C's fraud.  C assigns it to D, a purchaser for value 
+in good faith and without notice of the fraud.  Even after discovering the fraud D can enforce the right against B 
+and retain the proceeds free of A's claim.
+b.  Equities of the obligor.  The rule of this Section is not applied where the protection of the bona fide 
+purchaser would impair the rights of the obligor.  Thus where the assignor of a debt holds collateral in 
+constructive trust for the assignee under the rule stated in § 340, a subsequent bona fide purchaser of the 
+collateral from the assignor takes subject to the debtor's right to redeem the collateral by paying the debt to the 
+assignee; the rule of this Section is not applicable unless the collateral is negotiable or the debtor is bound by 
+agreement or estoppel.  See Restatement of Security §§ 29, 31.  Again, where a surety for the assignor is 
+subrogated to the rights of the obligor, the assignee does not have priority by virtue of the rule stated in this 
+Section.  Priorities in such cases arising in connection with public construction contracts are affected by statute 
+and are beyond the scope of this Restatement.  Compare Restatement of Restitution § 162; Restatement of 
+Security §§ 141, 165-68.
+c.  Negotiable instruments and documents.  The rule of this Section is negated with respect to negotiable 
+instruments and documents of title which are transferred but not duly negotiated by Uniform Commercial Code 
+§§ 3-306, 7-504, 8-301.  Compare § 9-308 (chattel paper).
+d.  Value.  As to what constitutes value, see Comments c and d to § 338.
+## Reporter'S Notes
+This Section is substantially the same as former § 174.  See 3 Williston, Contracts § 438 (3d ed. 1960); 4 
+Corbin, Contracts §§ 900-01 (1951 & Supp. 1980); Note, 20 U. Chi. L. Rev. 693 (1953).
+Comment a.  Illustration 1 is based on Illustration 2 to former § 174; cf.  Lasser v. Philadelphia Nat'l Bank, 321 
+Pa. 189, 183 A. 791 (1936). Contra: Levenbaum v. Hanover Trust Co., 253 Mass. 19, 148 N.E. 227 (1925). 
+
+§ 343 Latent Equities
+Illustration 2 is based on Illustration 1 to former § 174; cf.  People's Banking Co. v. Fidelity & Deposit Co., 165 
+Md. 657, 170 A. 544, 171 A. 345 (1934).
+Comment b.  Former § 174 was relied on to support a decision for an assignee bank against a construction 
+surety in Maryland Cas. Co. v. National Bank, 320 Pa. 129, 182 A. 362 (1936); compare Aetna Cas. & Sur. Co. 
+v. Harvard Trust Co., 344 Mass. 169, 181 N.E.2d 673 (1962); see Notes, 20 U. Chi. L. Rev. 119 (1952), 71 Yale 
+## L.J. 1274 (1962).
+Cross Reference
+### Digest System Key Numbers
+Assignments 104
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

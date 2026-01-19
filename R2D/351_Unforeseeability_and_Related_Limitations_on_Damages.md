@@ -1,0 +1,291 @@
+Restat 2d of Contracts, § 351
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 2- Enforcement by Award of Damages        
+§ 351 Unforeseeability and Related Limitations on Damages
+(1) Damages are not recoverable for loss that the party in breach did not have reason to foresee as a 
+probable result of the breach when the contract was made.
+(2) Loss may be foreseeable as a probable result of a breach because it follows from the breach
+(a) in the ordinary course of events, or
+(b) as a result of special circumstances, beyond the ordinary course of events, that the party in breach 
+had reason to know.
+(3) A court may limit damages for foreseeable loss by excluding recovery for loss of profits, by allowing 
+recovery only for loss incurred in reliance, or otherwise if it concludes that in the circumstances justice 
+so requires in order to avoid disproportionate compensation.
+## Comments & Illustrations
+### Comment
+a.  Requirement of foreseeability.  A contracting party is generally expected to take account of those risks that 
+are foreseeable at the time he makes the contract.  He is not, however, liable in the event of breach for loss that 
+he did not at the time of contracting have reason to foresee as a probable result of such a breach.  The mere 
+circumstance that some loss was foreseeable, or even that some loss of the same general kind was 
+foreseeable, will not suffice if the loss that actually occurred was not foreseeable.  It is enough, however, that 
+the loss was foreseeable as a probable, as distinguished from a necessary, result of his breach.  Furthermore, 
+the party in breach need not have made a "tacit agreement" to be liable for the loss.  Nor must he have had the 
+loss in mind when making the contract, for the test is an objective one based on what he had reason to foresee.  
+There is no requirement of foreseeability with respect to the injured party.  In spite of these qualifications, the 
+requirement of foreseeability is a more severe limitation of liability than is the requirement of substantial or 
+"proximate" cause in the case of an action in tort or for breach of warranty.  Compare Restatement, Second, 
+Torts § 431; Uniform Commercial Code § 2-715(2)(b).  Although the recovery that is precluded by the limitation 
+of foreseeability is usually based on the expectation interest and takes the form of lost profits (see Illustration 
+1), the limitation may also preclude recovery based on the reliance interest (see Illustration 2).
+### Illustrations
+1.  A, a carrier, contracts with B, a miller, to carry B's broken crankshaft to its manufacturer for repair.  B tells A 
+when they make the contract that the crankshaft is part of B's milling machine and that it must be sent at once, 
+but not that the mill is stopped because B has no replacement.  Because A delays in carrying the crankshaft, B 
+loses profit during an additional period while the mill is stopped because of the delay.  A is not liable for B's loss 
+of profit.  That loss was not foreseeable by A as a probable result of the breach at the time the contract was 
+made because A did not know that the broken crankshaft was necessary for the operation of the mill.
+2.  A contracts to sell land to B and to give B possession on a stated date.  Because A delays a short time in 
+giving B possession, B incurs unusual expenses in providing for cattle that he had already purchased to stock 
+the land as a ranch.  A had no reason to know when they made the contract that B had planned to purchase 
+cattle for this purpose.  A is not liable for B's expenses in providing for the cattle because that loss was not 
+foreseeable by A as a probable result of the breach at the time the contract was made.
+
+§ 351 Unforeseeability and Related Limitations on Damages
+b.  "General" and"special" damages.  Loss that results from a breach in the ordinary course of events is 
+foreseeable as the probable result of the breach.  See Uniform Commercial Code § 2-714(1).  Such loss is 
+sometimes said to be the "natural" result of the breach, in the sense that its occurrence accords with the 
+common experience of ordinary persons.  For example, a seller of a commodity to a wholesaler usually has 
+reason to foresee that his failure to deliver the commodity as agreed will probably cause the wholesaler to lose 
+a reasonable profit on it.  See Illustrations 3 and 4.  Similarly, a seller of a machine to a manufacturer usually 
+has reason to foresee that his delay in delivering the machine as agreed will probably cause the manufacturer 
+to lose a reasonable profit from its use, although courts have been somewhat more cautious in allowing the 
+manufacturer recovery for loss of such profits than in allowing a middleman recovery for loss of profits on an 
+intended resale.  See Illustration 5.  The damages recoverable for such loss that results in the ordinary course 
+of events are sometimes called "general" damages.
+If loss results other than in the ordinary course of events, there can be no recovery for it unless it was 
+foreseeable by the party in breach because of special circumstances that he had reason to know when he 
+made the contract.  See Uniform Commercial Code § 2-715(2)(a).  For example, a seller who fails to deliver a 
+commodity to a wholesaler is not liable for the wholesaler's loss of profit to the extent that it is extraordinary nor 
+for his loss due to unusual terms in his resale contracts unless the seller had reason to know of these special 
+circumstances.  See Illustration 6.  Similarly, a seller who delays in delivering a machine to a manufacturer is 
+not liable for the manufacturer's loss of profit to the extent that it results from an intended use that was 
+abnormal unless the seller had reason to know of this special circumstance.  See Illustration 7.  In the case of a 
+written agreement, foreseeability is sometimes established by the use of recitals in the agreement itself.  The 
+parol evidence rule (§ 213) does not, however, preclude the use of negotiations prior to the making of the 
+contract to show for this purpose circumstances that were then known to a party.  The damages recoverable for 
+loss that results other than in the ordinary course of events are sometimes called "special" or "consequential" 
+damages.  These terms are often misleading, however, and it is not necessary to distinguish between "general" 
+and "special" or "consequential" damages for the purpose of the rule stated in this Section.
+### Illustrations
+3.  A and B make a written contract under which A is to recondition by a stated date a used machine owned by 
+B so that it will be suitable for sale by B to C.  A knows when they make the contract that B has contracted to 
+sell the machine to C but knows nothing of the terms of B's contract with C.  Because A delays in returning the 
+machine to B, B is unable to sell it to C and loses the profit that he would have made on that sale.  B's loss of 
+reasonable profit was foreseeable by A as a probable result of the breach at the time the contract was made.
+4.  A, a manufacturer of machines, contracts to make B his exclusive selling agent in a specified area for the 
+period of a year.  Because A fails to deliver any machines, B loses the profit on contracts that he would have 
+made for their resale.  B's loss of reasonable profit was foreseeable by A as a probable result of the breach at 
+the time the contract was made.
+5.  A and B make a contract under which A is to recondition by a stated date a used machine owned by B so 
+that it will be suitable for use in B's canning factory.  A knows that the machine must be reconditioned by that 
+date if B's factory is to operate at full capacity during the canning season, but nothing is said of this in the 
+written contract.  Because A delays in returning the machine to B, B loses its use for the entire canning season 
+and loses the profit that he would have made had his factory operated at full capacity.  B's loss of reasonable 
+profit was foreseeable by A as a probable result of the breach at the time the contract was made.
+6.  The facts being otherwise as stated in Illustration 3, the profit that B would have made under his contract 
+with A was extraordinarily large because C promised to pay an exceptionally high price as a result of a special 
+need for the machine of which A was unaware.  A is not liable for B's loss of profit to the extent that it exceeds 
+what would ordinarily result from such a contract.  To that extent the loss was not foreseeable by A as a 
+probable result of the breach at the time the contract was made.
+7.  The facts being otherwise as stated in Illustration 5, the profit that B would have made from the use of the 
+machine was unusually large because of an abnormal use to which he planned to put it of which A was 
+unaware.  A is not liable for B's loss of profit to the extent that it exceeds what would ordinarily result from the 
+use of such a machine.  To that extent the loss was not foreseeable by A at the time the contract was made as 
+a probable result of the breach.
+
+§ 351 Unforeseeability and Related Limitations on Damages
+c.  Litigation or settlement caused by breach.  Sometimes a breach of contract results in claims by third persons 
+against the injured party.  The party in breach is liable for the amount of any judgment against the injured party 
+together with his reasonable expenditures in the litigation, if the party in breach had reason to foresee such 
+expenditures as the probable result of his breach at the time he made the contract.  See Illustrations 8, 10, 11 
+and 12.  This is so even if the judgment in the litigation is based on a liquidated damage clause in the injured 
+party's contract with the third party.  See Illustration 8.  A failure to notify the party in breach in advance of the 
+litigation may prevent the result of the litigation from being conclusive as to him.  But to the extent that the 
+injured party's loss resulting from litigation is reasonable, thefact that the party in breach was not notified does 
+not prevent the inclusion of that loss in the damages assessed against him.  In furtherance of the policy 
+favoring private settlement of disputes, the injured party is also allowed to recover the reasonable amount of 
+any settlement made to avoid litigation, together with the costs of settlement.  See Illustration 9.
+### Illustrations
+8.  The facts being otherwise as stated in Illustration 3, B not only loses the profit that he would have made on 
+sale of the machine to C, but is held liable for damages in an action brought by C for breach of contract.  The 
+damages paid to C and B's reasonable expenses in defending the action were also foreseeable by A as a 
+probable result of the breach at the time he made the contract with B.  The result is the same even though they 
+were based on a liquidated damage clause in the contract between B and C if A knew of the clause or if the use 
+of such a clause in the contract between B and C was foreseeable by A at the time he made the contract with 
+B.
+9.  The facts being otherwise as stated in Illustration 3, B not only loses the profit that he would have made on 
+sale of the machine to C, but settles with C by paying C a reasonable sum of money to avoid litigation.  The 
+amount of the settlement paid to C and B's reasonable expenses in settling were also foreseeable by A at the 
+time he made the contract with B as a probable result of the breach.
+10.  A contracts to supply B with machinery for unloading cargo.  A, in breach of contract, furnishes defective 
+machinery, and C, an employee of B, is injured.  C sues B and gets a judgment, which B pays.  The amount of 
+the judgment and B's reasonable expenditures in defending the action were foreseeable by A at the time the 
+contract was made as a probable result of the breach.
+11.  A contracts to procure a right of way for B, for a railroad.  Because A, in breach of contract, fails to do this, 
+B has to acquire the right of way by condemnation proceedings.  B's reasonable expenditures in those 
+proceedings were foreseeable by A at the time the contract was made as a probable result of the breach.
+12.  A leases land to B with a covenant for quiet enjoyment.  C brings an action of ejectment against B and gets 
+judgment.  B's reasonable expenditures in defending the action were foreseeable by A as the probable result of 
+the breach at the time the contract was made.
+d.  Unavailability of substitute.  If several circumstances have contributed to cause a loss, the party in breach is 
+not liable for it unless he had reason to foresee all of them.  Sometimes a loss would not have occurred if the 
+injured party had been able to make substitute arrangements after breach, as, for example, by "cover" through 
+purchase of substitute goods in the case of a buyer of goods (see Uniform Commercial Code § 2-712).  If the 
+inability of the injured party to make such arrangements was foreseeable by the party in breach at the time he 
+made the contract, the resulting loss was foreseeable.  See Illustration 13.  On the impact of this principle on 
+contracts to lend money, see Comment e.
+### Illustration
+13.  A contracts with B, a farmer, to lease B a machine to be used harvesting B's crop, delivery to be made on 
+July 30.  A knows when he makes the contract that B's crop will be ready on that date and that B cannot obtain 
+another machine elsewhere.  Because A delays delivery until August 10, B's crop is damaged and he loses 
+profit.  B's loss of profit was foreseeable by A at the time the contract was made as aprobable result of the 
+breach.
+e.  Breach of contract to lend money.  The limitation of foreseeability is often applied in actions for damages for 
+breach of contracts to lend money.  Because credit is so widely available, a lender often has no reason to 
+foresee at the time the contract is made that the borrower will be unable to make substitute arrangements in the 
+event of breach.  See Comment d.  In most cases, then, the lender's liability will be limited to the relatively small 
+additional amount that it would ordinarily cost to get a similar loan from another lender.  However, in the less 
+
+§ 351 Unforeseeability and Related Limitations on Damages
+common situation in which the lender has reason to foresee that the borrower will be unable to borrow 
+elsewhere or will be delayed in borrowing elsewhere, the lender may be liable for much heavier damages 
+based on the borrower's inability to take advantage of a specific opportunity (see Illustration 14), his having to 
+postpone or abandon a profitable project (see Illustration 15), or his forfeiture of security for failure to make 
+prompt payment (see Illustration 16).
+### Illustrations
+14.  A contracts to lend B $ 100,000 for one year at eight percent interest for the stated purpose of buying a 
+specific lot of goods for resale.  B can resell the goods at a $ 20,000 profit.  A delays in making the loan, and 
+although B can borrow money on the market at ten percent interest, he is unable to do so in time and loses the 
+opportunity to buy the goods.  Unless A had reason to foresee at the time that he made the contract that such a 
+delay in making the loan would probably cause B to lose the opportunity, B can only recover damages based 
+on two percent of the amount of the loan.
+15.  A contracts to lend $ 1,000,000 to B for the stated purpose of enabling B to build a building and takes 
+property of B as security.  After construction is begun, A refuses to make the loan or release the security.  
+Because B lacks further security, he is unable to complete the building, which becomes a total loss.  B's loss 
+incurred in partial construction of the building was foreseeable by A at the time of the contract as a probable 
+result of the breach.
+16.  A, who holds B's land as security for a loan, contracts to lend B a sum of money sufficient to pay off other 
+liens on the land at the current rate of interest.  A repudiates and informs B in time to obtain money elsewhere 
+on the market, but B is unable to do so.  The liens are foreclosed and the land sold at a loss.  Unless A knew 
+when he made the contract that B would probably be unable to borrow the money elsewhere, B's loss on the 
+foreclosure sale was not foreseeable as a probable result of A's breach.
+f.  Other limitations on damages.  It is not always in the interest of justice to require the party in breach to pay 
+damages for all of the foreseeable loss that he has caused.  There are unusual instances in which it appears 
+from the circumstances either that the parties assumed that one of them would not bear the risk of a particular 
+loss or that, although there was no such assumption, it would be unjust to put the risk on that party.  One such 
+circumstance is an extreme disproportion between the loss and the price charged by the party whose liability for 
+that loss is in question.  The fact that the price is relatively small suggests that it was not intended to cover the 
+risk of such liability.  Another such circumstance is an informality of dealing, including the absence of a detailed 
+written contract, which indicates that there was no careful attempt to allocate all of the risks.  The fact that the 
+parties did not attempt to delineate with precision all of the risks justifies a court in attempting to allocate them 
+fairly.  The limitations dealt with in this Section are more likely to be imposed in connection with contracts that 
+do not arise in a commercial setting.  Typical examples of limitations imposed on damages under this 
+discretionary power involve the denial of recovery for loss of profits and the restriction of damages to loss 
+incurred in reliance on the contract.  Sometimes these limits are covertly imposed, by means of an especially 
+demanding requirement of foreseeability or of certainty.  The rule stated in this Section recognizes that what is 
+done in such cases is the imposition of a limitation in the interests of justice.
+### Illustrations
+17.  A, a private trucker, contracts with B to deliver to B's factory a machine that has just been repaired and 
+without which B's factory, as A knows, cannot reopen.  Delivery is delayed because A's truck breaks down.  In 
+an action by B against A for breach of contract the court may, after taking into consideration such factors as the 
+absence of an elaborate written contract and the extreme disproportion between B's loss of profits during the 
+delay and the price of the trucker's services, exclude recovery for loss of profits.
+18.  A, a retail hardware dealer, contracts to sell B an inexpensive lighting attachment, which, as A knows, B 
+needs in order to use his tractor at night on his farm.  A is delayed in obtaining the attachment and, since no 
+substitute is available, B is unable to use the tractor at night during the delay.  In an action by B against A for 
+breach of contract, the court may, after taking into consideration such factors as the absence of an elaborate 
+written contract and the extreme disproportion between B's loss of profits during the delay and the price of the 
+attachment, exclude recovery for loss of profits.
+19.  A, a plastic surgeon, makes a contract with B, a professional entertainer, to perform plastic surgery on her 
+face in order to improve her appearance.  The result of the surgery is, however, to disfigure her face and to 
+
+§ 351 Unforeseeability and Related Limitations on Damages
+require a second operation.  In an action by B against A for breach of contract, the court may limit damages by 
+allowing recovery only for loss incurred by B in reliance on the contract, including the fees paid by B and 
+expenses for hospitalization, nursing care and medicine for both operations, together with any damages for the 
+worsening of B's appearance if these can be proved with reasonable certainty, but not including any loss 
+resulting from the failure to improve her appearance.
+## Reporter'S Notes
+Subsections (1) and (2) are based on former § 330, with changes in language to conform to the language of 
+Uniform Commercial Code §§ 2-714(1) and 2-715(2)(a).  Subsection (3) is new.  See 5 Corbin, Contracts §§ 
+1006-19 (1964 & Supp. 1980); 11 Williston, Contracts §§ 1344-44A, 1347, 1355-57 (3d ed. 1968); Danzig, 
+Hadley v. Baxendale:  A Study in the Industrialization of the Law, 4 J. Legal Stud. 249 (1975).
+Comment a.  This Comment rejects the "tacit agreement" test of Globe Ref. Co. v. Landa Cotton Oil Co., 190 
+U.S. 540 (1903). See Comment 2 to Uniform Commercial Code § 2-715; R.I. Lampus Co. v. Neville Cement 
+Prods. Corp., 474 Pa. 199, 378 A.2d 288 (1977). When parties expressly exclude or limit consequential 
+damages, the basic principles of freedom of contract counsel that the agreed upon provision should be 
+enforced.  Nonetheless, courts are often asked after the fact not to enforce such provisions and may construe a 
+provision narrowly or find it unenforceable because of lack of bargain, bad faith, unconscionability or public 
+policy.  See Note, "No Damage" Clauses in Construction Contracts: A Critique, 53 Wash. L. Rev. 471 (1978); 
+Annot., 74 A.L.R.3d 187 (1976). See also Siefford v. Housing Auth., 192 Neb. 643, 223 N.W.2d 816 (1974); 
+American Elec. Power Co. v. Westinghouse Elec. Corp., 418 F. Supp. 435 (S.D.N.Y. 1976). Illustration 1 is 
+based on Hadley v. Baxendale, 9 Exch. 341, 156 Eng. Rep. 145 (1854); cf.  Kerr S.S. Co. v. Radio Corp. of 
+America, 245 N.Y. 284, 157 N.E. 140, cert. denied, 275 U.S. 557 (1927). But cf.  Armstrong v. Bangor Mill 
+Supply Corp., 128 Me. 75, 145 A. 741 (1929). Illustration 2 is based on Sitlington v. Fulton, 281 F.2d 552 (10th 
+Cir. 1960); see also Rochester Lantern Co. v. Stiles & Parker Co., 135 N.Y. 209, 31 N.E. 1018 (1892).
+Comment b.  Illustration 3 is based on Illustration 9 to former § 330; see also Brewer v. Custom Builders Corp., 
+42 Ill. App.3d 668, 1 Ill. Dec. 377, 356 N.E.2d 565 (1976) (builder liable for water damage to drywall installed by 
+homeowner after assurance by builder that roof was watertight).  But cf.  Berlin Dev. Corp. v. Vermont 
+Structural Steel Corp., 127 Vt. 367, 250 A.2d 189 (1968). Illustration 4 is based on Illustration 3 to former § 330; 
+see Appliances v. Queen Stove Works, 228 Minn. 55, 36 N.W.2d 121 (1949). Illustration 5 is based on 
+Illustration 6 to former § 330; Victoria Laundry (Windsor) v. Newman Indus., [1949] 2 K.B. 528; cf.  Spang 
+Indus. v. Aetna Cas. and Sur. Co., 512 F.2d 365 (2d Cir. 1975); Armstrong v. Bangor Mill Supply Corp., 128 
+Me. 75, 145 A. 741 (1929). Illustration 6 is based on Illustration 7 to former § 330; Guetzkow Bros. v. A.H. 
+Andrews & Co., 92 Wis. 214, 66 N.W. 119 (1896); cf.  Booth v. Spuyten Duyvil Rolling Mill Co., 60 N.Y. 487 
+(1875). But cf.  Hill's, Inc. v. William B. Kessler, Inc., 41 Wash.2d 42, 246 P.2d 1099 (1952). Illustration 7 is 
+based on Cory v. Thames Ironworks & Shipbuilding Co., L.R. 3 Q.B. 181 (1868); see Adams Express Co. v. 
+Allen, 125 Va. 530, 100 S.E. 473 (1919).
+Comment c.  This Comment is based on former § 334.  Illustration 8 is based on Illustration 1 to former § 334; 
+see also Verhagen v. Platt, 1 N.J. 85, 61 A.2d 892 (1948). As to liquidated damages, it is based on Illustration 
+11 to former § 330; Krauss v. Greenbarg, 137 F.2d 569 (3d Cir.), cert. denied, 320 U.S. 791 (1943). But cf.  
+Albany Phosphate Co. v. Hugger Bros., 4 Ga. App. 771, 62 S.E. 533 (1908); Longview Constr. and Dev. v. 
+Loggins Constr. Co., 523 S.W.2d 771 (Tex. Civ. App. 1975). Illustration 9 is supported by Verhagen v. Platt, 
+supra. But cf.  Chrysler Corp. v. E. Shavitz & Sons, 536 F.2d 743 (7th Cir. 1976); Czarnikow-Rionda Co. v. 
+Federal Sugar Ref. Co., 255 N.Y. 33, 173 N.E. 913 (1930). Illustrations 10, 11 and 12 are based on Illustrations 
+5, 4 and 2 to former § 334.  See also Stone, Recovery of Consequential Damages for Product Recall 
+Expenditures, 1980 B.Y.U.L. Rev. 485.
+Comment d.  Illustration 13 is based on Illustration 10 to former § 330; see also Murarka v. Bachrack Bros., 215 
+F.2d 547 (2d Cir. 1954); Kelley, Maus & Co. v. La Crosse Carriage Co., 120 Wis. 84, 97 N.W. 674 (1903). But 
+cf.  Marcus & Co. v. K.L.G. Baking Co., 122 N.J.L. 202, 3 A.2d 627 (1939).
+Comment e.  This Comment is based on former § 343.  Illustration 14 is based on Illustration 1 to former § 343.  
+Illustration 15 is based on Illustration 3 to former § 343; Stanish v. Polish Roman Catholic Union of America, 
+484 F.2d 713 (7th Cir. 1973); Spiese v. MutualTrust Co., 258 Pa. 414, 102 A. 119 (1917). But cf.  McMillain 
+Lumber Co. v. First Nat'l Bank of Eutaw, 215 Ala. 379, 110 So. 602 (1926). Illustration 16 is based on 
+Illustration 2 to former § 343; Doushkess v. Burger Brewing Co., 20 A. D. 375, 47 N.Y.S. 312 (1897).
+
+§ 351 Unforeseeability and Related Limitations on Damages
+Comment f.  Illustration 17 is suggested by Kerr S.S. Co. v. Radio Corp. of America, 245 N.Y. 284, 157 N.E. 
+140, cert. denied, 275 U.S. 557 (1927); Newsome v. Western Union Tel. Co., 153 N.C. 153, 69 S.E. 10 (1910). 
+Reasoning such as that in Harper Furniture Co. v. Southern Express Co., 148 N.C. 87, 62 S.E. 145 (Super. Ct. 
+1908), aff'd by equally divided ct., 151 N.C. 739, 67 S.E. 1132 (1909), is rejected.  Illustration 18 is based on 
+Lamkins v. International Harvester Co., 207 Ark. 637, 182 S.W.2d 203 (1944). Illustration 19 is based on 
+Sullivan v. O'Connor, 363 Mass. 579, 296 N.E.2d 183 (1973).
+Cross Reference
+### ALR Annotations
+Measure and elements of damages in action against physician for breach of contract to achieve particular result 
+or cure.  99 A.L.R.3d 303.
+Recovery by writer, artist, or entertainer for loss of publicity or reputation resulting from breach of contract.  96 
+A.L.R.3d 437.
+Buyer's incidental and consequential damages from seller's breach under UCC § 2-715.  96 A.L.R.3d 299.
+Construction contract provision excusing delay caused by "severe weather".  85 A.L.R.3d 1085.
+Enforceability of voluntary promise of additional compensation because of unforeseen difficulties in 
+performance of existing contract.  85 A.L.R.3d 259.
+Damages to franchisee for failure of franchisor of national brand or service to provide the services or facilities 
+contracted for.  41 A.L.R.3d 1436.
+Comment Note. -- "Out of pocket" or "benefit of bargain" as proper rule of damages for fraudulent 
+representations inducing contract for the transfer of property.  13 A.L.R.3d 875.
+Construction contractor's liability to contractee for defects or insufficiency of work attributable to the latter's 
+plans and specifications.  6 A.L.R.3d 1394.
+Attorneys' fees incurred in litigation with third person as damages in action for breach of contract.  4 A.L.R.3d 
+270.
+Measure of damages, to advertiser, for radio or television station's breach or wrongful termination of contract.  
+90 A.L.R.2d 1199.
+Pleading mitigation of damages, or the like, in employee's action for breach of employment contract.  41 
+A.L.R.2d 955.
+Right to recover, in action for breach of contract, expenditures incurred in preparation for performance.  17 
+A.L.R.2d 1300.
+### Digest System Key Numbers
+Damages 22
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,23 @@
+## U.C.C. § 9-526
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 5. FILING  
+## >  Subpart 2. Duties And Operation Of Filing Office
+## § 9-526. Filing-Office Rules
+(a) [Adoption of filing-office rules.]  The [insert appropriate governmental official or agency] shall adopt 
+### and publish rules to implement this article. The filing-office rules must be[
+(1)]  consistent with this article[; and
+(2)  adopted and published in accordance with the [insert any applicable state administrative 
+procedure act]].
+(b) [Harmonization of rules.]  To keep the filing-office rules and practices of the filing office in harmony 
+with the rules and practices of filing offices in other jurisdictions that enact substantially this part, and to 
+keep the technology used by the filing office compatible with the technology used by filing offices in other 
+jurisdictions that enact substantially this part, the [insert appropriate governmental official or agency], so far 
+as is consistent with the purposes, policies, and provisions of this article, in adopting, amending, and 
+### repealing filing-office rules, shall
+(1)  consult with filing offices in other jurisdictions that enact substantially this part; and
+(2)  consult the most recent version of the Model Rules promulgated by the International Association of 
+Corporate Administrators or any successor organization; and
+(3)  take into consideration the rules and practices of, and the technology used by, filing offices in other 
+jurisdictions that enact substantially this part.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

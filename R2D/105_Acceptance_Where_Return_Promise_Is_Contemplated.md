@@ -1,0 +1,48 @@
+Restat 2d of Contracts, § 105
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 4- Formation of 
+Contracts -- Consideration          >            Topic 3- Contracts Under Seal; Writing as a Statutory 
+Substitute for the Seal        
+§ 105 Acceptance Where Return Promise Is Contemplated
+Where a conveyance or a document containing a promise also purports to contain a return promise by 
+the grantee or promisee, acceptance by the grantee or promisee is essential to create any contractual 
+obligation other than an option contract binding on the grantor or promisor.
+## Comments & Illustrations
+### Comment
+a.  Exchange of promises.  Where one promise is to be exchanged for another, it is essential that each 
+promisor manifest assent.  Compare §§ 17, 50.  Moreover, it is ordinarily not contemplated that one promise 
+shall be made without the other.  But if consideration is given or is not required and an intention is manifested to 
+create an option contract, one promise may be made irrevocable, the promisee remaining free to accept or 
+reject.  See § 25.  The intention may be manifested either by the terms of the document or by the terms on 
+which it is delivered.
+### Illustrations
+1.  A signs and seals a document containing promises by him and by B and hands it to B for execution.  Until B 
+executes it, neither party is bound.
+2.  A signs and seals a written promise to pay B $ 30,000 on B's completion of a building and delivers the 
+document to C, instructing C that the promise is to be irrevocable for 30 days and is to be effective thereafter 
+only if within that time B files with C specified written promises and other documents.  A is bound by an option 
+contract.
+b.  Promise by grantee.  The same principles apply to a promise by the grantee contained in a conveyance.  
+Compare § 55.  The grantee is not bound unless he accepts, and ordinarily the grantor is not bound before the 
+grantee accepts.  But if the grantor, either in the conveyance or in the terms on which it is delivered, manifests 
+an intention that the conveyance shall be irrevocable pending acceptance, delivery may have that effect.
+### Illustration
+3.  A makes a deed of conveyance of Blackacre to his son B.  The deed contains this clause: "This conveyance 
+is subject to a mortgage of $ 10,000 to D which the said B assumes and agrees to pay." A delivers the deed 
+unconditionally to C to hold on behalf of B.  B is subject to no duty to pay the mortgage unless he accepts the 
+deed.
+## Reporter'S Notes
+This Section is based on former § 105; the reference to an option contract is new.  See 1 Williston, Contracts 
+§§ 213-14 (3d ed. 1957); 1A Corbin, Contracts § 245 (1963).
+Comment a.  Illustrations 1 and 2 are new; see Humble Oil & Ref. Co. v. Cox, 207 Va. 197, 148 S.E.2d 756 
+(1966), discussed in Reporter's Note to Comment c to § 103.  In Humble Oil the court quoted, in Tentative 
+Draft, this Section, Comment a and Illustrations 1 and 2, and explained that the transaction involved there was 
+governed by Illustration 1 rather than Illustration 2.
+Comment b.  Illustration 3 was Illustration 1 to former § 105.
+Cross Reference
+
+§ 105 Acceptance Where Return Promise Is Contemplated
+### Digest System Key Numbers
+Contracts 43
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

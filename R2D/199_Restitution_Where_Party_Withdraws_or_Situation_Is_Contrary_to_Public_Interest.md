@@ -1,0 +1,89 @@
+Restat 2d of Contracts, § 199
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 5- Restitution        
+§ 199 Restitution Where Party Withdraws or Situation Is Contrary to Public 
+Interest
+A party has a claim in restitution for performance that he has rendered under or in return for a promise 
+that is unenforceable on grounds of public policy if he did not engage in serious misconduct and
+(a)  he withdraws from the transaction before the improper purpose has been achieved, or
+(b)  allowance of the claim would put an end to a continuing situation that is contrary to the public 
+interest.
+## Comments & Illustrations
+### Comment
+a.  Restitution on withdrawal.  The rule stated in paragraph (a) gives a right of restitution to a party, who, after 
+having become involved in an improper transaction, withdraws from the transaction before the improper 
+purpose has been achieved.  There are two reasons for giving a party such a "time for repentance," or locus 
+poenitentiae, as it is sometimes called.  First, the rule may encourage a party to abandon an improper 
+transaction before the improper purpose is carried out.  Second, the granting of relief may not be regarded as a 
+misuse of official authority if the wrongdoer who asks for relief has withdrawn in time.  To come within the rule, 
+a party must actually withdraw by refusing any further participation in or benefits from the transaction.  It is not 
+enough that the achievement of the purpose has been prevented by circumstances beyond his control.  The 
+time when an improper purpose has been so substantially achieved that withdrawal should no longer give a 
+right to restitution depends on the gravity of the social harm threatened under the facts of the particular case.  
+The exception is not available in favor of a party whose misconduct is serious when viewed in the light of the 
+threatened social harm.  Restitution under this Section is subject to the rules stated in §§ 370-77.
+### Illustrations
+1.  A, an insurance company, issues a policy of fire insurance to B on a building.  A state statute makes A's 
+promise unenforceable as a wager because B has no legally insurable interest in the building.  B pays A the 
+premium but, before the coverage becomes effective, B notifies A that he cancels the policy.  Although A's 
+promise is unenforceable on grounds of public policy, B withdrew from the transaction before the improper 
+purpose had been achieved.  B has a claim in restitution against A for the amount of the premium paid.
+2.  A lends money to B for the purpose of enabling B to bet on a horse race in return for B's promise to repay it 
+in six months.  A state statute makes betting on a horse race a crime.  Before B has made the bet, A tells B that 
+he wants the money back so that it will not be used for this purpose.  Although B's promise to repay the money 
+is unenforceable on grounds of public policy (§ 178), A withdrew from the transaction before the improper 
+purpose had been achieved.  A is entitled to restitution from B of the amount lent.  The result does not depend 
+on whether or not B makes the bet.
+3.  A, who is engaged in organizing a prize contest, promises B that if B pays A $ 500, A will see that B wins a $ 
+5,000 automobile in the contest.  Although organizing the contest is not itself a crime, a state statute makes 
+participation in the fraudulent operation of such a contest a crime.  B pays A $ 500, but when A demands 
+another $ 100 from B, before the contest, B refuses, tells A that he does not want the automobile, and demands 
+the return of the $ 500.  Although A's promise that B will get an automobile is unenforceable on grounds of 
+public policy, B withdrew from the transaction before the improper purpose had been achieved.  B has a claim 
+in restitution against A for $ 500.
+
+§ 199 Restitution Where Party Withdraws or Situation Is Contrary to Public Interest
+b.  Situation against public interest.  The exception stated in paragraph (b) is applicable when the denial of 
+restitution would leave property in the hands of one whose control of it would be contrary to the public interest, 
+for example, because its status would be rendered so uncertain as seriously to restrain its alienation.  The 
+exception may be invoked to recover money deposited with a stakeholder under an unenforceable wagering 
+agreement.  Even after the event that is the subject of the wager has occurred, either party can claim restitution 
+from the stakeholder.  The stakeholder is not, however, liable to the loser for anything that he pays over to the 
+winner before notice by the loser of his claim.
+### Illustrations
+4.  A and B make a wagering agreement under which each deposits $ 1,000 with C, who as a stakeholder 
+promises to pay the total sum of $ 2,000 to the winner.  Under a state statute it is a crime to make such a 
+wager.  A wins the wager, but before C has paid A, B notifies C that he claims restitution.  B has a claim in 
+restitution against C for $ 1,000, the amount that he paid C.  The result is the same even if C pays A after 
+notice from B.
+5.  The facts being otherwise as stated in Illustration 4, C refuses to pay A, although not requested by B to do 
+so.  Although C's promise to pay the total sum of $ 2,000 to A is unenforceable on grounds of public policy, A 
+has a claim in restitution against C for $ 1,000, the amount that he paid C.
+## Reporter'S Notes
+This Section is based on former §§ 605 and 524.  See 6A Corbin, Contracts § 1541 (1962); 15 Williston, 
+Contracts § 1788 (3d ed. 1972); Wade, Restitution of Benefits Acquired Through Illegal Transactions, 95 U. Pa. 
+L. Rev. 261, 282-92 (1947); Wade, Legal Status of Property Transferred Under an Illegal Transaction, 41 Ill. L. 
+Rev. 487 (1946).
+Comment a.  The rule of paragraph (a) makes no reference to any actual repentance; the party's act of 
+withdrawal from the transaction, not his state of mind, is what governs.  On this issue, see the debate between 
+Judge Augustus N. Hand and Judge Jerome Frank in Adams-Mitchell Co. v. Cambridge Distrib. Co., 189 F.2d 
+913 (2d Cir. 1951), and 2 Palmer, Law of Restitution § 8.7 (1978), discussing Adams-Mitchell, other cases and 
+the rule of former § 605.  Illustration 1 is based in part on Illustration 8 to former § 520.  Illustration 2 is based 
+on Illustration 2 to former § 605.  Illustration 3 is based on Greenberg v. Evening Post Ass'n, 91 Conn. 371, 99 
+## A. 1037 (1917).
+Comment b.  Illustration 4 is based on Illustration 1 to former § 524; cf.  Gheres v. Ater, 148 Ohio St. 89, 73 
+N.E.2d 513 (1947). Illustration 5 is based on Illustration 2 to former § 524.
+Cross Reference
+### ALR Annotations
+Law of forum against wagering transactions as precluding enforcement of claim based on gambling 
+transactions valid under applicable foreign law.  71 A.L.R.3d 178.
+Recovery of money paid, or property transferred, as a bribe.  60 A.L.R.2d 1273.
+Recovery of money or property lost through cheating or fraud in forbidden gambling or game.  39 A.L.R.2d 
+1213.
+Restitution of property conveyed in consideration of previous reconciliation, as condition of entertaining divorce 
+action.  4 A.L.R.2d 1210.
+### Digest System Key Numbers
+Implied and Constructive Contracts 61
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

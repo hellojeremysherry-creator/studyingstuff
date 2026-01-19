@@ -1,0 +1,12 @@
+## U.C.C. § 2A-509
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2A. LEASES  >  PART 5. DEFAULT  >   B. 
+## Default By Lessor
+§ 2A-509. Lessee's Rights on Improper Delivery; Rightful Rejection.
+(1)  Subject to the provisions of Section 2A-510 on default in installment lease contracts, if the goods or the 
+tender or delivery fail in any respect to conform to the lease contract, the lessee may reject or accept the 
+goods or accept any commercial unit or units and reject the rest of the goods.
+(2)  Rejection of goods is ineffective unless it is within a reasonable time after tender or delivery of the 
+goods and the lessee seasonably notifies the lessor.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

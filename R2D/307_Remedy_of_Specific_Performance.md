@@ -1,0 +1,66 @@
+Restat 2d of Contracts, § 307
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 14- Contract 
+Beneficiaries        
+§ 307 Remedy of Specific Performance
+Where specific performance is otherwise an appropriate remedy, either the promisee or the beneficiary 
+may maintain a suit for specific enforcement of a duty owed to an intended beneficiary.
+## Comments & Illustrations
+### Comment
+a.  Suit by beneficiary.  Whether specific performance is an appropriate remedy is determined by the rules 
+stated in §§ 357-69.  Where a contract creates a duty to a beneficiary under the rule stated in § 304, the 
+beneficiary is a proper party plaintiff either in an action for damages or in a suit for specific performance.  He is 
+the real party in interest within the meaning of any statute requiring suit to be brought by such a party.  There is 
+no general requirement that the promisee be made a party, but the promisee is ordinarily a proper party and the 
+circumstances may be such that a final decree should await joinder of the promisee.  As to grant of an 
+injunction instead of specific performance, see § 357(2).
+b.  Suit by promisee.  Even though a contract creates a duty to a beneficiary, the promisee has a right to 
+performance.  See § 305.  The promisee cannot recover damages suffered by the beneficiary, but the promisee 
+is a proper party to sue for specific performance if that remedy is otherwise appropriate under the rules stated 
+in §§ 357-69.  Where a statute requires suit to be prosecuted in the name of the real party in interest, the 
+promisee is commonly permitted to sue either as the "trustee of an express trust" or by an express provision for 
+"a party with whom or in whose name a contract has been made for the benefit of another." See Federal Rules 
+of Civil Procedure Rule 17.  There is no general requirement that the beneficiary be joined in such a suit; 
+whether he should or must be made a party depends on the circumstances.
+c.  Promise to pay the promisee's debt.  Where the promised performance will satisfy an obligation of the 
+promisee to pay money to the beneficiary, the promisee may suffer substantial damages as a result of breach.  
+He is entitled to recover such damages so long as there is no conflict with rights of the beneficiary or the 
+promisor.  But the promisee as surety for the promisor is not permitted to compete with the beneficiary for the 
+assets of the promisor, and the promisor is ordinarily entitled to protection against enforced double liability.  See 
+§§ 305, 310.  These difficulties can be avoided by specific performance of the surety's right to exoneration.  See 
+Restatement of Security § 112.
+### Illustration
+1.  A, a stockholder of X, a corporation, guarantees payment of a debt owed by X to C.  A sells his stock to B, 
+who agrees to assume and pay A's obligation on the guaranty.  B fails to pay, and C sues A on the guaranty.  A 
+may obtain a decree directing B to pay the debt to C.
+d.  Gift promise.  Where the promisee intends to make a gift of the promised performance to the beneficiary, the 
+beneficiary ordinarily has an economic interest in the performance but the promisee does not.  Thus the 
+promisee may suffer no damages as the result of breach by the promisor.  In such cases the promisee's 
+remedy in damages is not an adequate remedy within the rules stated in §§ 359 and 360, and specific 
+performance may be appropriate.  See Illustration 1 to § 305.  The court may of course so fashion its decree as 
+to protect the interests of the promisee and beneficiary without unnecessary injury to the promisor or innocent 
+third persons.  See § 358.
+### Illustration
+2.  As part of a separation agreement B promises his wife A not to change the provision in B's will for C, their 
+son.  A dies and B changes his will to C's detriment, adding also a provision that C will forfeit any bequest if he 
+
+§ 307 Remedy of Specific Performance
+questions the change before any tribunal.  A's personal representative may sue for specific performance of B's 
+promise.
+## Reporter'S Notes
+This Section is based on former § 138.  See 2 Williston, Contracts §§ 358-59, 366, 390-92 (3d ed. 1959); 4 
+Corbin, Contracts §§ 810, 812, 824-25 (1951 & Supp. 1980).
+Comment a.  See Oman v. Yates, 70 Wash.2d 181, 422 P.2d 489 (1967).
+Comment c.  Illustration 1 is based on Schneider v. Armour & Co., 323 Mass. 28, 80 N.E.2d 34 (1948); cf.  
+Johnson Serv. Co. v. E. H. Monin, Inc., 253 N.Y. 417, 171 N.E. 692 (1930); as to the procedure, see 
+Nissenberg v. Felleman, 339 Mass.717, 162 N.E.2d 304 (1959).
+Comment d.  Illustration 2 is based on Drewen v. Bank of Manhattan Co., 31 N.J. 110, 155 A.2d 529 (1959); 
+see also Stegall v. Stegall, 571 S.W.2d 564 (Tex. Civ. App. 1978); Annot., 76 A.L.R.2d 231 (1961).
+Cross Reference
+### ALR Annotations
+Power and standing of personal representative of deceased promisee to enforce a contract made for benefit of 
+a third party.  76 A.L.R.2d 231.
+### Digest System Key Numbers
+Specific Performance 17
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

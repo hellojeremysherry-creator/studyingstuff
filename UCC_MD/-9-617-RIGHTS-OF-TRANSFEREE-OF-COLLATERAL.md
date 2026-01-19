@@ -1,0 +1,20 @@
+## U.C.C. § 9-617
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 6. 
+## Default  >  Subpart 1. Default And Enforcement Of Security Interest
+## § 9-617. Rights Of Transferee Of Collateral
+### (a) [Effects of disposition.]  A secured party's disposition of collateral after default
+(1)  transfers to a transferee for value all of the debtor's rights in the collateral;
+(2)  discharges the security interest under which the disposition is made; and
+(3)  discharges any subordinate security interest or other subordinate lien [other than liens created 
+under [cite acts or statutes providing for liens, if any, that are not to be discharged]].
+(b) [Rights of good-faith transferee.]  A transferee that acts in good faith takes free of the rights and 
+interests described in subsection (a), even if the secured party fails to comply with this article or the 
+requirements of any judicial proceeding.
+(c) [Rights of other transferee.]  If a transferee does not take free of the rights and interests described in 
+### subsection (a), the transferee takes the collateral subject to
+(1)  the debtor's rights in the collateral;
+(2)  the security interest or agricultural lien under which the disposition is made; and
+(3)  any other security interest or other lien.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

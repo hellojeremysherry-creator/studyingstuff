@@ -1,0 +1,121 @@
+Restat 2d of Contracts, § 253
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 3- Effect of Prospective Non-Performance        
+§ 253 Effect of a Repudiation as a Breach and on Other Party's Duties
+(1)  Where an obligor repudiates a duty before he has committed a breach by non-performance and 
+before he has received all of the agreed exchange for it, his repudiation alone gives rise to a claim for 
+damages for total breach.
+(2)  Where performances are to be exchanged under an exchange of promises, one party's repudiation 
+of a duty to render performance discharges the other party's remaining duties to render performance.
+## Comments & Illustrations
+### Comment
+a.  Breach.  An obligee under a contract is ordinarily entitled to the protection of his expectation that the obligor 
+will perform.  For this reason, a repudiation by the obligor under § 250 or § 251 generally gives rise to a claim 
+for damages for total breach even though it is not accompanied or preceded by a breach by non-performance.  
+Such a repudiation is sometimes elliptically called an "anticipatory breach," meaning a breach by anticipatory 
+repudiation, because it occurs before there is any breach by non-performance.  If there is a breach by non-
+performance, in addition to the repudiation under § 250 or § 251 the breach is not one by repudiation alone and 
+the rules stated in § 243 rather than those stated in Subsection (1) apply.  If, under § 251, it was a breach by 
+non-performance that gave the obligee grounds to believe that the obligor would commit a more serious 
+breach, the obligor's failure to give assurances cannot give rise to a breach by repudiation alone.  The measure 
+of damages in the case of a claim under this Section is governed by the rules stated in Topic 2 of Chapter 16.
+### Illustrations
+1.  On April 1, A and B make a contract under which B is to work for A for three months beginning on June 1.  
+On May 1, A repudiates by telling B he will not employ him.  On May 15, B commences an action against A.  B's 
+duty to work for A is discharged and he has a claim against A for damages for total breach.
+2.  On July 1, A contracts to sell and B to buy a quantity of barrel staves, delivery and payment to be on 
+December 1.  On August 1, A repudiates by writing B that he will be unable to deliver staves at the contract 
+price.  On September 1, B commences an action against A.  B's duty to pay for the staves is discharged and he 
+has a claim against A for damages for total breach.  See Uniform Commercial Code § 2-610.
+b.  Discharge.  Under Subsection (1) a breach by repudiation alone can only give rise to a claim for total 
+breach, although a breach by non-performance, even if coupled with a repudiation, can generally give rise to 
+either a claim for partial breach or to one for total breach (§§ 236, 237).  Of course, in appropriate 
+circumstances, the injured party can, after a breach by repudiation alone, pursue alternative relief by seeking, 
+for example, a decree of specific performance or an injunction.  See Topic 3 of Chapter 16.  Nevertheless, the 
+rule stated in Subsection (1) is one of those rules that are peculiar to breach by repudiation alone and differ 
+from those applicable to a breach by non-performance.  (Another such rule is that a breach by repudiation 
+alone can be totally nullified by the party in breach (§ 257), while a breach by non-performance, whether 
+coupled with a repudiation or not, cannot be.) Subsection (2) states a corollary of this rule that a breach by 
+repudiation always gives rise to a claim for damages for total breach: where performances are to be exchanged 
+under an exchange of promises, one party's repudiation discharges any remaining duties of performance of the 
+other party with respect to the expected exchange.
+c.  Scope.  If an obligor repudiates under § 250 or § 251 before he has received all of the agreed exchange for 
+his promise, the repudiation alone gives rise to a claim for damages for total breach under Subsection (1).  The 
+most important example of such a case occurs when performances are to be exchanged under an exchange of 
+
+§ 253 Effect of a Repudiation as a Breach and on Other Party’s Duties
+promises and one party repudiates a duty with respect to the expected exchange before the other party has 
+fully performed that exchange.  See Illustrations 1 and 2.  (A repudiation of a duty whose performance is not 
+part of the expected exchange, and for which there is therefore no agreed exchange, does not come within the 
+rule stated in Subsection (1).  See, e.g., Illustration 3 to § 232.) Another example occurs when one party 
+repudiates a duty under an option contract before the other party has exercised the option by giving the agreed 
+exchange.  See Illustration 3.  However, it is one of the established limits on the doctrine of "anticipatory 
+breach" that an obligor's repudiation alone, whether under § 250 or § 251, gives rise to no claim for damages at 
+all if he has already received all of the agreed exchange for it.  The rule stated in Subsection (1) does not, 
+therefore, allow a claim for damages for total breach in such a case.
+### Illustrations
+3.  On February 1, A and B make an option contract under which, in consideration for B's payment of $ 100, A 
+promises to convey to B a parcel of land on May 1 for $ 50,000, if B tenders that sum by that date.  On March 1, 
+A repudiates by selling the parcel to C.  On April 1, B commences an action against A.  Since A has not 
+received the $ 50,000, the agreed exchange for his duty to sell the parcel to B, B has a claim against A for 
+damages for total breach.
+4.  On February 1, A and B make a contract under which, as consideration for B's immediate payment of $ 
+50,000, A promises to convey to B a parcel of land on May 1.  On March 1, A repudiates by selling the parcel to 
+C.  On April 1, B commences an action against A.  Since A has received the $ 50,000, the agreed exchange for 
+his duty to sell the parcel to B, B has no claim against A for damages for breach of contract until performance is 
+due on May 1.
+5.  On February 1, A and B make a contract under which, as consideration for A's conveying a parcel of land to 
+B, B promises to make annual payments of $ 10,000 for five years.  B makes the payments for the first two 
+years and on March 1 of the third year repudiates by telling A that he will not make any further payments.  A 
+commences an action against B.  Since B has received the land, the agreed exchange for his duty to pay the 
+remaining installments, A has no claim against B for damages for breach of contract until performance is due 
+on the following February 1.
+6.  On January 15, A and B make a contract under which A promises to convey to B a parcel of land on 
+February 1, and B promises to pay A $ 10,000 at that time and the balance of $ 40,000 in four annual 
+installments.  A conveys the parcel to B and B pays A $ 10,000.  On March 1, B repudiates by telling A that he 
+will not make any further payments.  A commences an action against B.  Since B has received the land, the 
+agreed exchange for his duty to make the remaining payments, A has no claim against B for damages for 
+breach of contract, until performance is due on the following February 1.
+d.  Avoiding harsh results of limitation.  The limitation described in Comment c sometimes avoids difficult 
+problems of forecasting damages and is supported by the clear weight of authority.  It has, however, been 
+subjected to considerable criticism, and instances of its actual application are infrequent.  Compare, for 
+example, Illustration 3 with Illustration 4.  A court can often avoid harsh results by making available other types 
+of relief, such as a declaratory judgment or restitution.  See §§ 345, 373 and Comment a to § 373.  Insurance 
+contracts are subject to special considerations which may make it appropriate to grant equitable relief in, for 
+example, a suit for reinstatement.  The degree to which the limitationmight yield on a showing of manifest 
+injustice, as where the refusal to pay is not in good faith, is unclear.  Compare Comment d to § 243.  
+Furthermore, if the repudiation is coupled with a breach by non-performance that would otherwise give rise to a 
+claim for damages for only partial breach, it may give rise instead to a claim for damages for total breach, but 
+whether it does so is governed by § 243 and not by this Section.
+## Reporter'S Notes
+Subsection (1) is based on former § 318, as amended in 1948.  Restatement of the Law, 1948 Supplement 251 
+(1949).  See also Uniform Commercial Code § 2-610; 4 Corbin, Contracts §§ 962-70 (1951 & Supp. 1980); 11 
+Williston, Contracts §§ 1326-30 (3d ed. 1968).  Subsection (2) is based on former § 280.  See also former §§ 
+397 and 398.  Former § 321, on the time when a repudiation by mail or telegram becomes a breach, is omitted 
+and this Restatement takes no position on that point.  Former § 322, on the time when the period of the statute 
+of limitations begins to run in the case of "anticipatory breach," is also omitted because this Restatement does 
+not attempt to state rules on when that period begins to run in other situations.
+
+§ 253 Effect of a Repudiation as a Breach and on Other Party’s Duties
+Comment a.  That repudiation following partial breach by non-performance is to be treated as a total breach 
+and not as an "anticipatory breach," see Fox v. Dehn, 42 Cal. App.3d 165, 116 Cal. Rptr. 786 (1974). 
+Illustration 1 is based on Hochster v. De la Tour, 2 E. & B. 678, 118 Eng. Rep. 922 (1853). The facts in 
+Illustration 2 are suggested by Reliance Cooperage Corp. v. Treat, 195 F.2d 977 (8th Cir. 1952).
+Comment c.  On the rationale for the limit discussed here, compare the opinion of Denison, J., dissenting in 
+Federal Life Ins. Co. v. Rascoe, 12 F.2d 693 (6th Cir.), cert. denied, 273 U.S. 722 (1926), with that of L. Hand, 
+J., in Equitable Trust Co. v. Western Pac. Ry., 244 F. 485 (S.D.N.Y. 1917), aff'd, 250 F. 327 (2d Cir.), cert. 
+denied, 246 U.S. 672 (1918). The Rascoe case was expressly disapproved in New York Life Ins. Co. v. Viglas, 
+297 U.S. 672 (1936). See also the Comment and Reason for Changes in Restatement of the Law, 1948 
+Supplement 252-53 (1949).  Illustration 3 is based on Illustration 9 to former § 318; cf.  Long Island R.R. Co. v. 
+Northville Indus., 41 N.Y.2d 455, 393 N.Y.S.2d 925, 362 N.E.2d 558 (1977), citing this Comment in Tentative 
+Draft.  Illustration 4 is based on Illustration 10 to former § 318; cf.  Diamond v. University of Southern California, 
+11 Cal. App.3d 49, 89 Cal. Rptr. 302 (1970). Illustration 5 is suggested by Phelps v. Herro, 215 Md. 223, 137 
+A.2d 159 (1957). Illustration 6 is new; compare Phelps v. Herro, supra.
+Comment d.  Cases dealing with remedies for wrongful cancellation of life, health, and accident insurance are 
+collected in Annot., 34 A.L.R.3d 245 (1970).
+Cross Reference
+### Digest System Key Numbers
+Contracts 313(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,45 @@
+Restat 2d of Contracts, § 300
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 13- Joint and 
+Several Promisors and Promisees          >            Topic 2- Joint and Several Promisees        
+§ 300 Effect of Violation of Duty to a Co-Obligee
+(1)  If an obligee attempts or threatens to discharge the promisor in violation of his duty to a co-obligee 
+of the same performance, the co-obligee may obtain an injunction forbidding the discharge.
+(2)  A discharge of the promisor by an obligee in violation of his duty to a co-obligee of the same 
+performance is voidable to the extent necessary to protect the co-obligee's interest in the performance, 
+except to the extent that the promisor has given value or otherwise changed his position in good faith 
+and without knowledge or reason to know of the violation.
+## Comments & Illustrations
+### Comment
+a.  Duties among co-obligees.  The interests of co-obligees among themselves depend upon the agreement or 
+other relation among them.  Commonly each has a beneficial interest, but one or more may be a nominal party 
+or a mere agent.  An obligee who has power to affect the rights of co-obligees has at least a duty to act in good 
+faith; often he is subject to more rigorous fiduciary duties.  For example, he may be an agent for a co-obligee, 
+or they may be partners or co-trustees.
+b.  Liability of the promisor.  A promisor who participates in a breach of a duty owed by one co-obligee to 
+another cannot retain any advantage thereby obtained at the expense of the injured co-obligee unless he is in 
+the position of a bona fide purchaser.  See Restatement of Restitution §§ 202, 208; compare Restatement, 
+Second, Agency §§ 27, 159-78, 300.  Where the promise is to pay money, an improper discharge is effective to 
+the extent of the interest of the obligee giving it.  But in a case of improper discharge of a duty to convey land, 
+the injured co-obligee may nevertheless be granted specific performance on such terms as may be equitable in 
+the circumstances.
+### Illustration
+1.  A owes a single payment of $ 1,000 to B, C and D.  As A knows, B, C and D have agreed to share the 
+money equally.  In exchange for a discharge by A of $ 1,000 owed him by B individually, B purports to release 
+A from the obligation to B, C and D.  The release is operative only to the extent of B's one-third interest.
+## Reporter'S Notes
+Former § 131 spoke of "fraud." "Violation of duty" is substituted as a more accurate term.
+See 2 Williston, Contracts § 343 (3d ed. 1959); 4 Corbin, Contracts § 941 (1951); Annot., 142 A.L.R. 371 
+(1943). Illustration 1 is substantially the same as Illustration 1 to former § 131, which was doubted and not 
+applied by the trial court in Freedman v. Montague Assocs., Inc., 18 Misc.2d 1, 187 N.Y.S.2d 636 (1959), with 
+an exhaustive discussion of the authorities.  The decision was reversed mem., 9 A.D.2d 936, 195 N.Y.S.2d 392 
+(2d Dep't 1959), leave to appeal denied, 10 A.D.2d 637, 197 N.Y.S.2d 441 (1960). Cf.  In re Lester, 87 Misc.2d 
+717, 386 N.Y.S.2d 509 (1976).
+Cross Reference
+### Digest System Key Numbers
+Injunctions 57
+Release 4
+
+§ 300 Effect of Violation of Duty to a Co-Obligee
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

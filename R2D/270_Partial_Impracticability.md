@@ -1,0 +1,90 @@
+Restat 2d of Contracts, § 270
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 11- 
+Impracticability of Performance and Frustration of Purpose        
+§ 270 Partial Impracticability
+Where only part of an obligor's performance is impracticable, his duty to render the remaining part is 
+unaffected if
+(a)  it is still practicable for him to render performance that is substantial, taking account of any 
+reasonable substitute performance that he is under a duty to render; or
+(b)  the obligee, within a reasonable time, agrees to render any remaining performance in full and to 
+allow the obligor to retain any performance that has already been rendered.
+## Comments & Illustrations
+### Comment
+a.  Relation to other rules.  An obligor's performance may be impracticable only in part.  (If impracticability as to 
+part makes his performance of the rest so much more burdensome that it is also impracticable, then the entire 
+performance is impracticable and the rules stated in §§ 261 and 266 apply.) If he has done all that is 
+practicable, he may have a claim for relief including restitution under the rules stated in §§ 240 and 370-77.  
+See § 272(1) and Comment a.  If, however, further performance is practicable, it may be possible to salvage at 
+least some of the unexecuted part of the agreement.  This Section states rules for two situations in which it is 
+relatively easy to do this because the obligee has already performed in full, or is willing to do so, or can be 
+required to do so.  In more complex situations where the obligee's duty to perform must be adjusted to avoid 
+injustice, a court may nevertheless salvage some of the agreement by supplying a term under the rule stated in 
+§ 272(2).  Analogous problems involving frustration of purpose are also dealt with in § 272(2).
+b.  Substantial performance practicable.  If the part of the obligor's performance that is impracticable is so minor 
+that it is still practicable for him to render substantial performance, his duty to do so is unaffected.  Whether his 
+performance would be substantial depends on the impact on the reasonable expectations of the obligee, who 
+either has performed in full or remains liable to perform in full (§ 237).  Two means of reducing this impact are 
+significant.  First, if the obligor can render a reasonable substitute performance in place of the impracticable 
+part, he must do so under his duty of good faith in performance (§ 205), and that substitute performance will be 
+considered in determining whether his performance would be substantial.  Second, if the obligee has a claim in 
+restitution against the obligor under the rules stated in § 272(1), on the ground that the obligor will otherwise 
+receive a performance from the obligee for which he has not rendered the agreed exchange in full, the 
+adequacy of this claim as compensation for the obligee must also be considered in determining whether the 
+obligor's performance would be substantial.  In the common case where performances are to be exchanged 
+under an exchange of promises, performance would be substantial if the failure of performance would not be 
+material.  See Comment d to § 237.  Both parties then remain bound to complete the exchange, subject to 
+discharge of the duty to perform the impracticable part and a compensating claim for restitution.
+### Illustrations
+1.  A contracts to build a supermarket for B for $ 250,000.  Included in the plans are numerous lighted signs, 
+including one next to an adjacent highway.  Before A begins performance, a local ordinance prohibits the 
+installation of this sign.  Since A's failure to install it would not be material, his performance would be 
+substantial, and A's duty to build the rest of the supermarket is unaffected.  B is still under a duty to pay $ 
+250,000, subject to a claim under the rule stated in § 272(1) based on A's failure to build the sign for which he 
+has been paid.
+
+§ 270 Partial Impracticability
+2.  A contracts with B to deliver all of B's requirements of milk during the following year at B's loading platform 
+at 200 Lincoln Street.  Before A begins performance, the loading platform is accidentally destroyed by fire, but 
+B has an equally suitable platform across the street at 201 Lincoln Street.  Neither A's nor B's duties are 
+affected, except that A is to deliver and B is to accept milk at 201 Lincoln Street.
+3.  A contracts to sell and B to buy a quantity of wheat "f.o.b. Kosmos Steamer at Seattle." Before delivery, an 
+outbreak of war makes Kosmos line ships unavailable at Seattle, but delivery on that line's loading dock 
+remains possible and is a commercially reasonable substitute.  Neither A's nor B's duties are affected, except 
+that A is to deliver and B is to accept wheat at the Kosmos line's loading dock.  B may have a claim under the 
+rules stated in § 272(1) based on A's failure to load the wheat for which he has been paid.
+c.  Agreement.  Even if it is not practicable to render substantial performance, the obligee may salvage the 
+agreement under the rule stated in Subsection (b).  If he assures the obligor that the latter will receive in full the 
+performance that he originally expected from the obligee, the obligor must render the rest of his performance.  
+The obligee can make a legally binding commitment of this kind by agreeing (cf. § 3) to render to the obligor 
+any remaining performance and to allow the obligor to retain any performance that has already been rendered.  
+See §§ 18, 19, 89.  When performances are to be exchanged under an exchange of promises, and the obligor's 
+non-performance will be a material failure, such agreement will prevent the discharge of the obligee's duties (§§ 
+237, 238) and the consequent discharge of the obligor's duties, and the agreement will be salvaged.  It will also 
+bar any claim for restitution with respect to the obligor's non-performance.  See Comment b.  Under an 
+exchange of any type, such agreement will bar a claim by the obligee for restitution with respect to any 
+performance that he has already rendered.
+### Illustration
+4.  A contracts with B to service seven different areas at B's airport for a lump sum.  Before performance is to 
+begin, a government regulation forbids the servicing of one of the areas, discharging A's duty as to that area 
+under the rules stated in §§ 261 and 264.  Under § 267(1), A's non-performance would operate as a failure of 
+performance for the purpose of the rule stated in § 237, and B's remaining duties would be discharged.  If, 
+however, B within a reasonable time agrees to pay A the lump sum in full, B's remaining duties are not 
+discharged and A's duty to service the other six areas is unaffected.
+## Reporter'S Notes
+This Section is based on former §§ 460(2) and 463.  See 18 Williston, Contracts § 1956 (3d ed. 1978).
+Comment b.  Illustration 1 is new.  Illustration 2 is based on Illustration 2 to former § 463 and on Whitman v. 
+Anglum, 92 Conn. 392, 103 A. 114 (1918). But cf.  Daburlos v. Commercial Ins. Co., 521 F.2d 18 (3d Cir. 1975) 
+(applying Pennsylvania law in insurance coverage case).  Illustration 3 is based on Comment 1 to Uniform 
+Commercial Code § 2-614 and on Meyer v. Sullivan, 40 Cal. App. 723, 181 P. 847 (1919).
+Comment c.  The facts in Illustration 4 are suggested by Van Dusen Aircraft Supplies of New England v. 
+Massachusetts Port Auth., 361 Mass. 131, 279 N.E.2d 717 (1972); compare Illustration 2 to § 272.
+Cross Reference
+### ALR Annotations
+Construction contract provision excusing delay caused by "severe weather".  85 A.L.R.3d 1085.
+Enforceability of voluntary promise of additional compensation because of unforeseen difficulties in 
+performance of existing contract.  85 A.L.R.3d 259.
+### Digest System Key Numbers
+Contracts 309
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

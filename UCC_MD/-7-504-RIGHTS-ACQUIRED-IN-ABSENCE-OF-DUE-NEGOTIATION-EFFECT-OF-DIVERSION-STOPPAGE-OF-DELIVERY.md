@@ -1,0 +1,28 @@
+## U.C.C. § 7-504
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 7. DOCUMENTS OF TITLE  >  PART 5. 
+## Warehouse Receipts And Bills Of Lading: Negotiation And Transfer
+## § 7-504. Rights Acquired In Absence Of Due Negotiation; Effect
+## Of Diversion; Stoppage Of Delivery
+(a)  A transferee of a document of title, whether negotiable or nonnegotiable, to which the document has 
+been delivered but not duly negotiated, acquires the title and rights that its transferor had or had actual 
+authority to convey.
+(b)  In the case of a transfer of a nonnegotiable document of title, until but not after the bailee receives 
+### notice of the transfer, the rights of the transferee may be defeated
+(1)  by those creditors of the transferor which could treat the transfer as void under Section 2-402 or 
+## 2A-308;
+(2)  by a buyer from the transferor in ordinary course of business if the bailee has delivered the goods 
+to the buyer or received notification of the buyer's rights;
+(3)  by a lessee from the transferor in ordinary course of business if the bailee has delivered the goods 
+to the lessee or received notification of the lessee's rights; or
+(4)  as against the bailee, by good-faith dealings of the bailee with the transferor.
+(c)  A diversion or other change of shipping instructions by the consignor in a nonnegotiable bill of lading 
+which causes the bailee not to deliver the goods to the consignee defeats the consignee's title to the goods 
+if the goods have been delivered to a buyer in ordinary course of business or a lessee in ordinary course of 
+business and, in any event, defeats the consignee's rights against the bailee.
+(d)  Delivery of the goods pursuant to a nonnegotiable document of title may be stopped by a seller under 
+Section 2-705 or a lessor under Section 2A-526, subject to the requirements of due notification in those 
+sections. A bailee that honors the seller's or lessor's instructions is entitled to be indemnified by the seller or 
+lessor against any resulting loss or expense.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

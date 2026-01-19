@@ -1,0 +1,17 @@
+U.C.C. § 4-407
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4. BANK DEPOSIT  >  PART 4. RELATIONSHIP 
+BETWEEN PAYOR BANK AND ITS CUSTOMER
+§ 4-407. PAYOR BANK'S RIGHT TO SUBROGATION ON IMPROPER 
+PAYMENT
+If a payor bank has paid an item over the order of the drawer or maker to stop payment, or after an account 
+has been closed, or otherwise under circumstances giving a basis for objection by the drawer or maker, to 
+prevent unjust enrichment and only to the extent necessary to prevent loss to the bank by reason of its 
+payment of the item, the payor bank is subrogated to the rights
+(1)  of any holder in due course on the item against the drawer or maker;
+(2)  of the payee or any other holder of the item against the drawer or maker either on the item or under 
+the transaction out of which the item arose; and
+(3)  of the drawer or maker against the payee or any other holder of the item with respect to the 
+transaction out of which the item arose.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,17 @@
+U.C.C. Art. 9, Appx. I, 2-326
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >   APPENDIX I. 
+## Conforming Amendments To Other Articles
+## 2-326. Sale On Approval And Sale Or Return; Rights Of
+## Creditors
+(1)  Unless otherwise agreed, if delivered goods may be returned by the buyer even though they conform to 
+the contract, the transaction is
+(a)  a "sale on approval" if the goods are delivered primarily for use, and
+(b)  a "sale or return" if the goods are delivered primarily for resale.
+(2)  Goods held on approval are not subject to the claims of the buyer's creditors until acceptance; goods 
+held on sale or return are subject to such claims while in the buyer's possession.
+(3)  Any "or return" term of a contract for sale is to be treated as a separate contract for sale within the 
+statute of frauds section of this Article ( Section 2-201) and as contradicting the sale aspect of the contract 
+within the provisions of this Article on parol or extrinsic evidence ( Section 2-202).
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

@@ -1,0 +1,19 @@
+U.C.C. § 4-106
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 4. BANK DEPOSIT  >  PART 1. GENERAL 
+PROVISIONS AND DEFINITIONS
+§ 4-106. PAYABLE THROUGH OR PAYABLE AT BANK: COLLECTING BANK
+(a)  If an item states that it is "payable through" a bank identified in the item, (i) the item designates the 
+bank as a collecting bank and does not by itself authorize the bank to pay the item, and (ii) the item may be 
+presented for payment only by or through the bank.
+ALTERNATIVE A
+(b)  If an item states that it is "payable at" a bank identified in the item, the item is equivalent to a draft 
+drawn on the bank.
+ALTERNATIVE B
+(b)  If an item states that it is "payable at" a bank identified in the item, (i) the item designates the bank as a 
+collecting bank and does not by itself authorize the bank to pay the item, and (ii) the item may be presented 
+for payment only by or through the bank.
+(c)  If a draft names a nonbank drawee and it is unclear whether a bank named in the draft is a co-drawee 
+or a collecting bank, the bank is a collecting bank.
+UNIFORM COMMERCIAL CODE
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

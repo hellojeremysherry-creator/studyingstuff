@@ -1,0 +1,29 @@
+## U.C.C. § 9-409
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 4. 
+## Rights Of Third Parties
+## § 9-409. Restrictions On Assignment Of Letter-Of-Credit Rights
+## Ineffective
+(a) [Term or law restricting assignment generally ineffective.]  A term in a letter of credit or a rule of 
+law, statute, regulation, custom, or practice applicable to the letter of credit which prohibits, restricts, or 
+requires the consent of an applicant, issuer, or nominated person to a beneficiary's assignment of or 
+creation of a security interest in a letter-of-credit right is ineffective to the extent that the term or rule of law, 
+### statute, regulation, custom, or practice
+(1)  would impair the creation, attachment, or perfection of a security interest in the letter-of-credit right; 
+or
+(2)  provides that the assignment or the creation, attachment, or perfection of the security interest may 
+give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or 
+remedy under the letter-of-credit right.
+(b) [Limitation on ineffectiveness under subsection (a).]  To the extent that a term in a letter of credit is 
+ineffective under subsection (a) but would be effective under law other than this article or a custom or 
+practice applicable to the letter of credit, to the transfer of a right to draw or otherwise demand performance 
+under the letter of credit, or to the assignment of a right to proceeds of the letter of credit, the creation, 
+### attachment, or perfection of a security interest in the letter-of-credit right
+(1)  is not enforceable against the applicant, issuer, nominated person, or transferee beneficiary;
+(2)  imposes no duties or obligations on the applicant, issuer, nominated person, or transferee 
+beneficiary; and
+(3)  does not require the applicant, issuer, nominated person, or transferee beneficiary to recognize the 
+security interest, pay or render performance to the secured party, or accept payment or other 
+performance from the secured party.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

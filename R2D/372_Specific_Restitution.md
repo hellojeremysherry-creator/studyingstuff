@@ -1,0 +1,104 @@
+Restat 2d of Contracts, § 372
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 16- Remedies          
+>            Topic 4- Restitution        
+§ 372 Specific Restitution
+(1) Specific restitution will be granted to a party who is entitled to restitution, except that:
+(a) specific restitution based on a breach by the other party under the rule stated in § 373 may be 
+refused in the discretion of the court if it would unduly interfere with the certainty of title to land or 
+otherwise cause injustice, and
+(b) specific restitution in favor of the party in breach under the rule stated in § 374 will not be granted.
+(2) A decree of specific restitution may be made conditional on return of or compensation for anything 
+that the party claiming restitution has received.
+(3) If specific restitution, with or without a sum of money, will be substantially as effective as restitution 
+in money in putting the party claiming restitution in the position he was in before rendering any 
+performance, the other party can discharge his duty by tendering such restitution before suit is brought 
+and keeping his tender good.
+## Comments & Illustrations
+### Comment
+a.  Specific restitution on avoidance or in similar circumstances.  A party who has a right to restitution under the 
+rule stated in § 376 because he has avoided the contract, generally has a choice of either claiming a sum of 
+money in restitution or seeking specific restitution if the benefit is something that can be returned to him.  The 
+same is true of a party who has a right to restitution under the rule stated in § 377 on one of the grounds there 
+stated, even though this rule does not, strictly speaking, result in avoidance of the contract.  The right to specific 
+restitution may, however, be subject to rights of third parties.  Their rights are not dealt with in this Restatement.  
+For special rules governing the right of a seller under a contract for the sale of goods, see Uniform Commercial 
+Code §§ 2-507, 2-702.
+### Illustration
+1.  A is induced by B's misrepresentation to sell a tract of land to B for $ 100,000.  On discovery of the 
+misrepresentation, A tenders back the $ 100,000 and sues B for specific restitution of the land.  Specific 
+restitution will be granted.
+b.  Specific restitution on other grounds.  A party whose right to restitution is based on the other party's breach 
+also has a right to specific restitution, subject to the limitation stated in Paragraph (a).  In the case of a contract 
+for the sale of goods, the Uniform Commercial Code limits much more severely the seller's right to specific 
+restitution, although the seller can protect himself by taking a security interest in the goods.  See Uniform 
+Commercial Code § 2-703.  The most important problems of specific restitution that remain usually arise in 
+connection with contracts to transfer land.  If the buyer of land fails or refuses to pay the price after the transfer 
+of the land to him, the seller is limited to his claim for the price, which may be secured by a vendor's lien as a 
+matter of law or by a security interest that he has reserved.  The question of his right to specific restitution does 
+not arise in that situation (§ 373(2)).  Specific restitution may, however, be appropriate where there is a right to 
+restitution because the return promise is to do something other than pay money.  See Illustrations 2 and 3.  In 
+that case, however, a court may refuse specific restitution if it would unduly interfere with the certainty of title to 
+the land.  In resolving that question, a court will take into account all the circumstances, including the 
+inadequacy of other relief.  A court may also refuse specific restitution if it would otherwise cause injustice as 
+
+§ 372 Specific Restitution
+where, for example, it would result in a preference over other creditors in bankruptcy.  Specific restitution under 
+the rule stated in this Section is available to the injured party even though enforcement of the contract is barred 
+by the Statute of Frauds.  See § 375.  Under the exception stated in Paragraph (b), however, it is never 
+available to a party who is himself in breach.  See § 374.
+### Illustrations
+2.  A contracts to transfer a tract of land to B in return for B's promise to transfer a tract of land to A at the same 
+time.  After A has transferred his tract to B and received a deed from B, A learns that B does not have title to 
+the other tract.  A sues B for specific restitution.  Specific restitution will be granted, together with compensation 
+to A for the value to B of the use of the land, because the right to specific restitution will not unduly interfere with 
+the certainty of title to land.  If B's promise is to transfer his tract to A ten years after A's transfer of his tract, 
+specific restitution will be denied because a right to specific restitution would unduly interfere with the certainty 
+of title to land during the ten years.
+3.  A contracts to transfer a tract of land to B in return for B's promise to support A for life.  B repudiates the 
+contract after he has supported A for a time and A has transferred the land to him, and A sues B for specific 
+restitution.  Specific restitution will be granted, conditional on compensation by A for any support that he has 
+received less the value to B of the use of the land, because the right to specific restitution will not unduly 
+interfere with the certainty of title to land given the inadequacy of A's right to damages because of the difficulty 
+of proving damages with sufficient certainty (§ 352).
+4.  A contracts to transfer a tract of land to B in return for B's promise to transfer a tract of land to A at a later 
+date.  After A has transferred his tract of land to B, B sells both tracts to C, a good faith purchaser for value, 
+taking a mortgage to secure the balance of the price on the tract transferred by A.  A sues B and C for specific 
+restitution.  Specific restitution will be denied but A can get a decree subrogating him to B's right to the balance 
+of the price and to his rights under the purchase money mortgage that secures it.
+5.  A contracts to transfer to B half of his 20,000 shares of stock in the X Corporation in return for B's promise to 
+pay $ 100,000, to organize a holding company to control X Corporation and to protect A's remaining interest as 
+a shareholder.  After A has transferred the stock and B has paid the $ 100,000, B refuses to organize the 
+holding company.  A sues B for specific restitution.  Specific restitution may properly be granted conditional on 
+repayment by A of the $ 100,000.
+c.  Tender off specific restitution.  In some circumstances, a party who is liable for restitution can discharge his 
+duty by tendering specific restitution and keeping his tender good.  The tender has this result only if specific 
+restitution will be substantially as effective as restitution in money in putting the party claiming restitution in the 
+position he was in before rendering any performance.  If tender of a sum of money in addition to specific 
+restitution will do this, such a tender discharges the other party's duty.  See Illustration 6.  The tender must, 
+however, be made before suit has been brought.
+### Illustration
+6.  A makes an oral contract with B under which A transfers 1,000 shares of stock to B in return for B's promise 
+to convey a tract of land to A.  B repudiates the contract before he has conveyed the land and tenders back the 
+stock and the dividends received from it and keeps his tender good.  A rejects the tender and sues B for 
+restitution of the value to B of the stock.  A cannot recover the value of the stock.
+## Reporter'S Notes
+This Section is based on former §§ 354, 355(2), 468(1) and 489.  It enlarges the right to specific restitution and 
+abandons the adequacy test.  See 1 Palmer, The Law of Restitution §§ 4.7, 4.19, 4.20 (1978); see also 5 
+Corbin, Contracts § 1120 (1964); 12 Williston, Contracts §§ 1456, 1458 (3d ed. 1968).
+Comment a.  Illustration 1 is based on State St. Bank & Trust Co. v. Beale, 353 Mass. 103, 227 N.E.2d 924 
+(1967).
+Comment b.  Illustration 2 is based on Illustration 3 to former § 354 and on the discussion of Benassi v. Harris, 
+147 Conn. 451, 162 A.2d 521 (1960), in Palmer, supra, at § 4.19.  Illustration 3 is based on Illustration 1 to 
+former § 354; Brimson v. Pearrow, 218 Ark. 27, 234 S.W.2d 214 (1950); Myers v. Diehl, 365 P.2d 717 (Okl. 
+1961). Illustration 4 is based on Illustration 4 to former § 354.  Illustration 5 is based on Illustration 5 to former § 
+354; Therm-O-Proof Insulation Mfg. Co. v. Hoffman, 329 Ill. App. 645, 69 N.E.2d 725 (1946); Maytag Co. v. 
+Alward, 253 Iowa 455, 112 N.W.2d 654 (1962).
+
+§ 372 Specific Restitution
+Comment c.  Illustration 6 is based on Illustration 6 to former § 355.
+Cross Reference
+### Digest System Key Numbers
+Cancellation of Instruments 3, 23, 24, 58
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

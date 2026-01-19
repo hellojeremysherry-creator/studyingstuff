@@ -1,0 +1,49 @@
+Restat 2d of Contracts, § 58
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 3- Formation of 
+Contracts -- Mutual Assent          >            Topic 5- Acceptance of Offers        
+§ 58 Necessity of Acceptance Complying with Terms of Offer
+An acceptance must comply with the requirements of the offer as to the promise to be made or the 
+performance to be rendered.
+## Comments & Illustrations
+### Comment
+a.  Scope.  This rule applies to the substance of the bargain the basic principle that the offeror is the master of 
+his offer.  See Comment a to § 29.  That principle rests on the concept of private autonomy underlying contract 
+law.  It is mitigated by the interpretation of offers, in accordance with common understanding, as inviting 
+acceptance in any reasonable manner unless there is contrary indication.  See §§ 20, 30(2), 32.  Usage of 
+trade or course of dealing may permit inconsequential variations; or a variation clearly to the offeror's 
+advantage, such as a reduction in the price of ordered goods, may be within the scope of theoffer.  But even in 
+such cases the offeror is entitled, if he makes his meaning clear, to insist on a prescribed type of acceptance.
+### Illustrations
+1.  A offers to sell a book to B for $ 5 and states that no other acceptance will be honored but the mailing of B's 
+personal check for exactly $ 5.  B personally tenders $ 5 in legal tender, or mails a personal check for $ 10.  
+There is no contract.
+2.  A offers to pay B $ 100 for plowing Flodden field, and states that acceptance is to be made only by posting a 
+letter before beginning work and before the next Monday noon.  Before Monday noon B completes the 
+requested plowing and mails to A a letter stating that the work is complete.  There is no contract.
+## Reporter'S Notes
+This Section is reworded from former § 59.  The qualification of the rule of that Section by former §§ 45, 63, and 
+72 is omitted.  Sections 45 and 69 of the present Restatement, successors to former §§ 45 and 72, protect the 
+offeror against noncomplying acceptances, and hence are not exceptions.  The rule of former § 63 is 
+abandoned.  See Reporter's Note to § 62.  The word "exactly," found in former § 59, is omitted as redundant in 
+view of the word "requirement." See 1 Williston, Contracts § 73 (3d ed. 1957); 1 Corbin, Contracts § 86 (1963).
+Comment a.  On the basic principle, see Maddox v. Northern Natural Gas Co., 259 F. Supp. 781 (S.D. Okla. 
+1966). As to inconsequential variations, see Franco Western Oil Co. v. Fariss, 259 Cal. App.2d 325, 66 Cal. 
+Rptr. 458 (1968). Illustration 1 is new.  Illustration 2 is based on Illustration 1 to former § 63.  See Civic Plaza 
+Nat'l Bank v. First Nat'l Bank, 401 F.2d 193 (8th Cir. 1968); Kurio v. United States, 429 F. Supp. 42, 63-64 (S.D. 
+Tex. 1970).
+Cross Reference
+### ALR Annotations
+Reward for disproving commercial claim.  96 A.L.R.3d 907.
+Advertisement addressed to public relating to sale or purchase of goods at specified price as an offer the 
+acceptance of which will consummate a contract.  43 A.L.R.3d 1102.
+Variance between offer and acceptance in regard to title as affecting consummation of contract for sale of real 
+property.  16 A.L.R.3d 1424.
+
+§ 58 Necessity of Acceptance Complying with Terms of Offer
+Difference between offer and acceptance as regards place of payment or of delivery as variance preventing 
+consummation of contract.  3 A.L.R.2d 256.
+### Digest System Key Numbers
+Contracts 24
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

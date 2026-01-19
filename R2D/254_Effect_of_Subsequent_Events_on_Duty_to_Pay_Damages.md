@@ -1,0 +1,53 @@
+Restat 2d of Contracts, § 254
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 10- Performance 
+and Non-Performance          >            Topic 3- Effect of Prospective Non-Performance        
+§ 254 Effect of Subsequent Events on Duty to Pay Damages
+(1)  A party's duty to pay damages for total breach by repudiation is discharged if it appears after the 
+breach that there would have been a total failure by the injured party to perform his return promise.
+(2)  A party's duty to pay damages for total breach by repudiation is discharged if it appears after the 
+breach that the duty that he repudiated would have been discharged by impracticability or frustration 
+before any breach by non-performance.
+## Comments & Illustrations
+### Comment
+a.  Non-performance by injured party after repudiation.  If the parties are to exchange performances under an 
+exchange of promises, each party's duties to render performance are generally regarded as conditional on the 
+other party's performance, or at least on his readiness to perform (§§ 237, 238, 251, 253).  This principle 
+applies even though one party is already in breach by repudiation.  His duty to pay damages is discharged if it 
+subsequently appears that there would have been a total failure of performance by the injured party.  A failure 
+is total in this context if it would have been sufficient to have discharged any remaining duties of the party in 
+breach to render his performance.  See § 242.  The result follows even if it appears that the failure would have 
+been justified and not a breach.  Cf. § 244.
+### Illustration
+1.  On April 1, A and B make a personal service contract under which A promises to employ B for six months 
+beginning July 1 and B promises to work for A during that period.  On May 1, A repudiates the contract.  On 
+June 1, B falls ill and is unable to perform during the entire period.  A's duty to pay B damages for total breach 
+by repudiation is discharged.
+b.  Impracticability or frustration after repudiation.  Under the rule stated in § 253(1), a party's breach by 
+anticipatory repudiation immediately gives rise to a claim for damages for total breach.  If it subsequently 
+appears that the duty that he repudiated would have been discharged by supervening impracticability (§ 261) or 
+frustration (§ 265) before any breach by non-performance, his duty to pay damages is discharged.  
+Impracticability or frustration that would have occurred after breach by non-performance may affect the 
+measure of damages but does not discharge the duty to pay damages; cf. §§ 344, 347, 352.
+### Illustration
+2.  On April 1, A and B make a personal service contract under which A promises to employ B for 6 months 
+beginning July 1 and B promises to work for A during that period.  On May 1, B repudiates the contract.  On 
+June 1, B falls ill and is unable to perform during the entire period.  B's duty to pay damages to A for his 
+anticipatory repudiation is discharged.
+## Reporter'S Notes
+Subsection (1) is based on former §§ 277 and 399(2).  Subsection (2) is based on former § 457.  See 6 Corbin, 
+Contracts § 1256 (1962); 6 Williston, Contracts § 884 (3d ed. 1962).
+Comment a.  Illustration 1 is based on Illustration 2 to former § 277; see also New York Trust Co. v. Island Oil & 
+Transp. Corp., 34 F.2d 649 (2d Cir. 1929), cert. denied, 281 U.S. 724 (1930); Hodes v. Hoffman Int'l Corp., 280 
+F. Supp. 252 (S.D.N.Y. 1968). In Gherman v. Colburn, 72 Cal. App.3d 544, 585-86, 140 Cal. Rptr. 330, 357 
+(1977), the court said that "[a] defendant may not justify a repudiation by proof of subsequent failure of 
+consideration. . . ."
+
+§ 254 Effect of Subsequent Events on Duty to Pay Damages
+Comment b.  Illustration 2 is based on Illustration 12 to former § 459; see also Alabama Football, Inc. v. 
+Greenwood, 452 F. Supp. 1191 (W.D. Pa. 1978).
+Cross Reference
+### Digest System Key Numbers
+Contracts 313(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

@@ -1,0 +1,13 @@
+## U.C.C. § 2-712
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 2. SALES  >  PART 7. REMEDIES
+§ 2-712. "Cover"; Buyer's Procurement of Substitute Goods.
+(1)  After a breach within the preceding section the buyer may "cover" by making in good faith and without 
+unreasonable delay any reasonable purchase of or contract to purchase goods in substitution for those due 
+from the seller.
+(2)  The buyer may recover from the seller as damages the difference between the cost of cover and the 
+contract price together with any incidental or consequential damages as hereinafter defined ( Section 2-
+715), but less expenses saved in consequence of the seller's breach.
+(3)  Failure of the buyer to effect cover within this section does not bar him from any other remedy.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

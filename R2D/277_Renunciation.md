@@ -1,0 +1,98 @@
+Restat 2d of Contracts, § 277
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 12- Discharge by 
+Assent or Alteration          >            Topic 1- The Requirement of Consideration        
+§ 277 Renunciation
+(1)  A written renunciation signed and delivered by the obligee discharges without consideration a duty 
+arising out of a breach of contract.
+(2)  A renunciation by the obligee on his acceptance from the obligor of some performance under a 
+contract discharges without consideration a duty to pay damages for a breach that gives rise only to a 
+claim for damages for partial breach of contract.
+## Comments & Illustrations
+### Comment
+a.  Scope.  Under the rules stated in this Section, a party injured by a breach of contract can renounce his claim 
+for damages for that breach and thereby discharge without consideration the other party's duty.  He can do so 
+in whole or in part.  The concept of renunciation presupposes that the injured party is aware of his claim at the 
+time he renounces it.  Furthermore, because these rules apply only to duties arising under a contract, the 
+obligor is held to a duty of good faith and fair dealing with respect to the obligee (§ 205).  Discharge by 
+renunciation of a negotiable instrument is beyond the scope of this Restatement.  See Uniform Commercial 
+Code § 3-605.
+b.  Written renunciation.  Under the rule stated in Subsection (1), the obligee can renounce a claim arising out 
+of a breach of contract, including a claim for damages for either partial or total breach (§ 236), and may do so 
+even though the obligor renders no further performance under the contract.  Although no consideration is 
+required, the obligee must deliver a signed writing to the obligor.
+### Illustrations
+1.  A and B make a contract under which A promises to employ B and B promises to work for A for six months 
+beginning on June 1.  After B has begun work, A wrongfully discharges B.  B writes A, "I am glad to leave you 
+and I give up any right to sue you." A's duty to pay B damages for total breach is discharged.  A's duty to pay B 
+wages earned during the time B has worked is not discharged.
+2.  A contracts to sell and B to buy wheat to be delivered on June 1.  A fails to deliver the wheat on that day.  
+After sufficient delay to discharge B's remaining duties of performance, B writes A, "Since you are so late in 
+delivery, I cancel our deal and waive all my rights against you." A's duty to pay B damages for total breach is 
+discharged.
+3.  A and B make a contract under which A promises to build a house on B's land and B promises to pay A $ 
+50,000.  A fails to follow the plans in some particulars, giving B a claim against A for damages for partial 
+breach.  After B takes possession of the house, he gives a signed writing to A stating, "I do not care about 
+these specified defects in your performance; you have done pretty well on the whole, and I am satisfied with the 
+house." A's duty to pay B damages for partial breach is discharged.  As to B's right to restitution, see § 253.
+c.  Oral renunciation.  Under the rule stated in Subsection (2), the obligee can renounce his right to damages 
+for a breach that is sufficient to give rise to a claim for damages for partial breach but not serious enough to 
+give rise to a claim for damages for total breach (§ 236).  However, he can do so only on his acceptance from 
+the obligor of some performance under the contract.  A renunciation may occur before performance as long as 
+it continues to the time of performance.  No consideration is required and the renunciation may be oral.  Mere 
+silent acceptance, however, is not a renunciation.  A claim for the unpaid balance of a debt is not one for 
+damages for partial breach under the rule stated in this Section, but a claim for damages caused by delay in 
+
+§ 277 Renunciation
+payment of a debt is such a claim.  See Illustration 3 to § 278.  See § 246 for the effect of acceptance of 
+performance on the obligee's right to claim damages for total breach.
+### Illustrations
+4.  The facts being otherwise as stated in Illustration 3, B's renunciation is oral rather than written and occurs 
+before B has taken possession of the house rather than after.  A's duty to pay B damages for partial breach is 
+discharged.  The result does not depend on whether or not B has paid the price in full before his renunciation.  
+As to B's right to restitution, see § 253.
+5.  A and B make a contract under which A promises to employ B and B promises to work for A for six months.  
+After B has begun work, he commits a breach of the contract giving A a claim for damages for partial breach.  A 
+says, "Never mind, I excuse that failure in view of your generally excellent performance," and B continues to 
+work for A.  A's claim for damages for partial breach is discharged.  The result would be different if A's 
+renunciation occurred after B had finished working for A.
+d.  Other situations distinguished.  If the injured party's renunciation is supported by consideration or by 
+reliance, it can be sustained without resort to the rule stated in this Section.  If, for example, each of the parties 
+believes that he has a claim against the other for damages for total breach, the renunciation by one of his 
+disputed claim for damages will furnish the consideration for the renunciation by the other of his disputed claim.  
+If a party having a claim for damages for partial breach renounces his claim and the other party relies on the 
+renunciation so that it would be unjust not to enforce the renunciation, the reliance will make the renunciation 
+enforceable.
+### Illustration
+6.  The facts being otherwise as stated in Illustration 3, B's statement to A is oral rather than written.  A's duty to 
+pay damages for partial breach is not discharged.  If, however, A relied on the statement by moving from the 
+site men and material that might have been used to remedy the defects, a court might hold that A's reliance 
+was such that his duty to pay B damages for partial breach was discharged.
+## Reporter'S Notes
+Subsection (1) is based on Uniform Commercial Code § 1-107 and replaces former § 410.  Subsection (2) is 
+based on former § 411.  See 5A Corbin, Contracts §§ 1240-47 (1964); 15 Williston, Contracts § 1826 (3d ed. 
+1972).
+Comment b.  Illustration 1 is based on Illustrations 1 and 3 to former § 410.  Illustration 2 is based on Illustration 
+2 to former § 410.  Illustration 3 is based in part on Illustration 1 to former § 411.
+Comment c.  Illustrations 4 and 5 are based on Illustrations 1 and 2 to former § 411.
+Comment d.  Illustration 6 is new.  As to the effect of failure of a buyer of goods to give notice of breach to the 
+seller, see Uniform Commercial Code § 2-607(3).
+Cross Reference
+### ALR Annotations
+What constitutes "substantial impairment" entitling buyer to revoke his acceptance of goods under UCC § 2-
+608(1).  98 A.L.R.3d 1183.
+Damages for wrongful termination of automobile dealership contracts.  54 A.L.R.3d 324.
+Purchaser's misrepresentations as to intended use of real property as ground for vendor's equitable relief from 
+contract and deed.  35 A.L.R.3d 1369.
+Infants misrepresentation as to his age as estopping him from disaffirming his voidable transaction.  29 
+A.L.R.3d 1270.
+Revocation, prior to execution of formal written contract, of vote or decision of public body awarding contract to 
+bidder.  3 A.L.R.3d 864.
+Asserted right to rescission or cancellation of contract with decedent as claim which must be presented to his 
+personal representative.  73 A.L.R.2d 883.
+### Digest System Key Numbers
+
+§ 277 Renunciation
+Contracts 313(1)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

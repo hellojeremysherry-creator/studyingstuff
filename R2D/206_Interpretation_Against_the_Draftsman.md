@@ -1,0 +1,65 @@
+Restat 2d of Contracts, § 206
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 9- The Scope of 
+Contractual Obligations          >            Topic 2- Considerations of Fairness and the Public Interest        
+§ 206 Interpretation Against the Draftsman
+In choosing among the reasonable meanings of a promise or agreement or a term thereof, that meaning 
+is generally preferred which operates against the party who supplies the words or from whom a writing 
+otherwise proceeds.
+## Comments & Illustrations
+### Comment
+a.  Rationale.  Where one party chooses the terms of a contract, he is likely to provide more carefully for the 
+protection of his own interests than for those of the other party.  He is also more likely than the other party to 
+have reason to know of uncertainties of meaning.  Indeed, he may leave meaning deliberately obscure, 
+intending to decide ata later date what meaning to assert.  In cases of doubt, therefore, so long as other factors 
+are not decisive, there is substantial reason for preferring the meaning of the other party.  The rule is often 
+invoked in cases of standardized contracts and in cases where the drafting party has the stronger bargaining 
+position, but it is not limited to such cases.  It is in strictness a rule of legal effect, sometimes called 
+construction, as well as interpretation: its operation depends on the positions of the parties as they appear in 
+litigation, and sometimes the result is hard to distinguish from a denial of effect to an unconscionable clause.
+b.  Compulsory contract or term.  The rule that language is interpreted against the party who chose it has no 
+direct application to cases where the language is prescribed by law, as is sometimes true with respect to 
+insurance policies, bills of lading and other standardized documents.  In some cases, however, the statute or 
+regulation adopts language which was previously used without compulsion and was interpreted against the 
+drafting party, and there is normally no intention to change the established meaning.  Moreover, insurers are 
+more likely than insureds to participate in drafting prescribed forms and to review them carefully before putting 
+them into use.
+## Reporter'S Notes
+This Section carries forward the substance of former § 236(d).  See 3 Corbin, Contracts § 559 (1960 & Supp. 
+1980); 4 Williston, Contracts § 621 (3d ed. 1961).
+Comment a.  On the general rule, see, e.g., Semmes Motors, Inc. v. Ford Motor Co., 429 F.2d 1197, 1206-07 
+(2d Cir. 1970), quoting from this Comment in Tentative Draft; Goddard v. South Bay Union High School Dist., 
+79 Cal. App.3d 98, 144 Cal. Rptr. 701 (1978); Pappas v. Bever, 219 N.W.2d 720 (Iowa 1974). That it has less 
+force when the other party has taken an active role in the drafting process, or is particularly knowledgeable, see 
+Centennial Ent., Inc. v. Mansfield Dev. Co., 568 P.2d 50 (Colo. 1977); Crestview Bowl, Inc. v. Womer Constr. 
+Co., 225 Kan. 335, 592 P.2d 74 (1979); Graziano v. Tortora Agency, Inc., 78 Misc.2d 1094, 359 N.Y.S.2d 489 
+(Civ. Ct. 1974). As the text of the Section makes clear, the rule does not apply if the non-drafting party's 
+interpretation is unreasonable.  See Intertherm, Inc. v. Coronet Imp. Corp., 558 S.W.2d 344 (Mo. Ct. App. 
+1977), quoting from this Comment in Tentative Draft; Perry and Wallis, Inc. v. United States, 192 Ct. Cl. 310, 
+427 F.2d 722 (1970). Nonetheless, one may doubt that the rule is "the last one to be resorted to, and never to 
+be applied except when other rules of interpretation fail," Quad Constr., Inc. v. Wm. A. Smith Contr. Co., 534 
+F.2d 1391 (10th Cir. 1976), quoting (in a diversity case) from Patterson v. Gage, 11 Colo. 50, 16 P. 560 (1888).
+Comment b.  The substance of this Comment was contained in former § 236(d) as a qualification of the general 
+rule concerning terms prescribed by law.
+Cross Reference
+
+§ 206 Interpretation Against the Draftsman
+### ALR Annotations
+Modern status as to duration of employment where contract specifies no term but fixes daily or longer 
+compensation.  93 A.L.R.3d 659.
+Doctrine of unconscionability as applied to insurance contracts.  86 A.L.R.3d 862.
+Validity and construction of "No Damage" clause with respect to delay in building or construction contract.  74 
+A.L.R.3d 187.
+Landlord and tenant: What amounts to "sale" of property for purposes of provision giving tenant right of first 
+refusal if landlord desires to sell.  70 A.L.R.3d 203.
+Construction and effect of tenure provisions of contract or statute governing employment of college or university 
+faculty member.  66 A.L.R.3d 1018.
+Validity, construction, and effect of clause in franchise contract prohibiting transfer of franchise or contract.  59 
+A.L.R.3d 244.
+Who is "employee" under employee stock-option plan or contract.  57 A.L.R.3d 787.
+Validity and construction of restrictive covenant not to compete ancillary to franchise agreement.  50 A.L.R.3d 
+746.
+### Digest System Key Numbers
+Contracts 155
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

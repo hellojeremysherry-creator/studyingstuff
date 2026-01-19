@@ -1,0 +1,20 @@
+## U.C.C. § 9-702
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 9. SECURED TRANSACTIONS  >  PART 7. 
+## Transition
+## § 9-702. Savings Clause
+(a) [Pre-effective-date transactions or liens.]  Except as otherwise provided in this part, this [Act] applies 
+to a transaction or lien within its scope, even if the transaction or lien was entered into or created before this 
+[Act] takes effect.
+(b) [Continuing validity.]  Except as otherwise provided in subsection (c) and Sections 9-703 through 9-
+### 709
+(1)  transactions and liens that were not governed by [former Article 9], were validly entered into or 
+created before this [Act] takes effect, and would be subject to this [Act] if they had been entered into or 
+created after this [Act] takes effect, and the rights, duties, and interests flowing from those transactions 
+and liens remain valid after this [Act] takes effect; and
+(2)  the transactions and liens may be terminated, completed, consummated, and enforced as required 
+or permitted by this [Act] or by the law that otherwise would apply if this [Act] had not taken effect.
+(c) [Pre-effective-date proceedings.]  This [Act] does not affect an action, case, or proceeding 
+commenced before this [Act] takes effect.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document

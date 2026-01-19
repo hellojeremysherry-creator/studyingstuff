@@ -1,0 +1,73 @@
+Restat 2d of Contracts, § 182
+          Restatement of the Law, Contracts 2d - Official Text          >            Chapter 8- 
+Unenforceability on Grounds of Public Policy          >            Topic 1- Unenforceability in General        
+§ 182 Effect of Performance If Intended Use Is Improper
+If the promisee has substantially performed, enforcement of a promise is not precluded on grounds of 
+public policy because of some improper use that the promisor intends to make of what he obtains 
+unless the promisee
+(a)  acted for the purpose of furthering the improper use, or
+(b)  knew of the use and the use involves grave social harm.
+## Comments & Illustrations
+### Comment
+a.  Scope.  A significant application of the general rule stated in § 178 occurs where one party intends to use 
+goods, money, or something else that he acquires in the transaction in a manner contrary to public policy.  
+Whether that party's promise to render his own performance is unenforceable on grounds of public policy 
+depends on the balancing process required under that rule.  Even if his promise would be unenforceable if the 
+agreement were wholly executory, however, his receipt of performance may justify enforcement.  This Section 
+states a rule that determines when this is so by resolving the problem of balancing in such a case.  Situations 
+that do not come within it because the promisee has not substantially performed are governed by the general 
+rule stated in § 178.
+b.  Action for purpose of furthering use.  If the improper use involves grave social harm, as where it threatens 
+human life, the promisee's mere knowledge of the use is sufficient to bar him from recovering for his 
+performance.  If the improper use does not involve grave social harm, the promisee is not barred from recovery 
+unless he not only knew of the use but acted for the purpose of furthering it.  Whether the promisee acted for 
+such a purpose is a question of fact.  It may be evidenced by his doing of specific acts to facilitate the improper 
+use.  It may also be evidenced by a course of dealing with persons engaged in improper conduct.  In close 
+cases, a court will consider whether denial of recovery will deter the improper conduct or, on the contrary, 
+encourage persons engaging in such conduct to enter into transactions knowing that their promises are 
+unenforceable.
+### Illustrations
+1.  A sells and delivers to B a shotgun on credit.  The sale of firearms is legal, but B plans to use the gun in 
+hunting without a license required by law and A knows this.  Enforcement of B's promise to pay the price is not 
+precluded on grounds of public policy.  If B planned to use the gun to commit a robbery and A knew this, B's 
+promise to pay the price would be unenforceable on those grounds.
+2.  A, who has lost $ 1,000 by playing faro, promises B, who regularly makes loans to gamblers, that he will 
+repay B with interest in thirty days if B will make him three loans: $ 1,000 to cover his losses, $ 4,000 to recoup 
+them by continuing to play faro, and $ 2,000 to support his family while he does so.  B lends A a total of $ 
+7,000, and A loses it all playing faro.  A state statute makes playing faro for money a crime.  Enforcement of A's 
+promise to repay the $ 1,000 to cover his losses and the $ 2,000 to support his family is not precluded on 
+grounds of public policy.  Since A lent him the $ 4,000 for the purpose of furthering B's gambling, B's promise to 
+repay the $ 4,000 is unenforceable on those grounds.
+3.  A sells and delivers to B a quantity of plants.  The sale of such plants is legal, but B plans to transport them 
+to a country where quarantine regulations forbid their importation.  A not only knows this, but so packs and 
+
+§ 182 Effect of Performance If Intended Use Is Improper
+marks them as to conceal their character in order to aid B's plan.  B's promise to pay the price is unenforceable 
+on grounds of public policy.
+## Reporter'S Notes
+This Section is based on former § 602 and incorporates former § 525.  See 6A Corbin, Contracts §§ 1518-19, 
+1538-39 (1962); 15 Williston, Contracts §§ 1754-57, 1760 (3d ed. 1972).  Illustration 1 is based on Illustration 1 
+to former § 602; see also Illustration 3 to former § 594.  Illustration 2 is based on Illustrations 1 and 2 to former 
+§ 525.  Illustration 3 is based on Illustration 2 to former § 602; as to contracts in violation of foreign law, 
+generally, see Comment a to § 178.  In Hendrix v. McKee, 281 Or. 123, 575 P.2d 134 (1978), an electrical 
+engineer was not permitted to recover under an employment contract covering his work on amusement devices 
+that the court found were clearly intended for gambling.  The court emphasized the strong inference that the 
+engineer knew that the promisor supplied the machines to gamblers.  The court did not discuss the gravity of 
+gambling by slot machines.  The issue of grave social harm may be affected in the future by the increasing 
+legalization of various forms of gambling such as lotteries, off-track betting and casino gambling.  See also 
+Comments a and b to § 178.  Compare the treatment of the parallel problem in a criminal prosecution in People 
+v. Lauria, 251 Cal. App.2d 471, 59 Cal. Rptr. 628 (1967) (answering service proprietor may not be prosecuted 
+for conspiracy to commit prostitution despite his knowledge of customers' use of his answering service).  
+Accord, Perkins, Criminal Law 666 (1969); La Fave & Scott, Criminal Law 507-09 (1972); see also Kadish & 
+Paulsen, Criminal Law and its Processes 377-79 (3d ed. 1975) (discussing changes in Model Penal Code 
+approach); 2 Palmer, Law of Restitution §§ 8.4-.5 (1978).
+Cross Reference
+### ALR Annotations
+Validity of pyramid distribution plan.  54 A.L.R.3d 217.
+Effect of execution of foreign corporation's contract which, while executory, was enforceable because of 
+noncompliance with conditions of doing business in state.  7 A.L.R.2d 256.
+### Digest System Key Numbers
+Contracts 138(2)
+Restatement of the Law, Second, Contracts
+Copyright (c) 1981, The American Law Institute
+End of Document

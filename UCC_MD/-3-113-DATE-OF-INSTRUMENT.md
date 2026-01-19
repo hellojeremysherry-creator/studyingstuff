@@ -1,0 +1,12 @@
+## U.C.C. § 3-113
+Uniform Commercial Code (U.C.C.)  >  ARTICLE 3. NEGOTIABLE INSTRUMENTS  >  PART 1. 
+## General Provisions And Definitions
+## § 3-113. Date Of Instrument
+(a)  An instrument may be antedated or postdated. The date stated determines the time of payment if the 
+instrument is payable at a fixed period after date. Except as provided in Section 4-401(c), an instrument 
+payable on demand is not payable before the date of the instrument.
+(b)  If an instrument is undated, its date is the date of its issue or, in the case of an unissued instrument, the 
+date it first comes into possession of a holder.
+## Uniform Commercial Code
+Copyright 2025, by The American Law Institute and National Conference of Commissioners on Uniform State Laws
+End of Document
