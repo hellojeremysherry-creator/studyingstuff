@@ -1,0 +1,21 @@
+studyingstuff
+├── contracts
+├── docs
+│   ├── contracts
+│   │   ├── acceptance.md
+│   │   ├── anticipatory_repudiation.md
+│   │   ├── duress.md
+│   │   ├── express_conditions.md
+│   │   ├── interpretation_of_contracts.md
+│   │   ├── limitations_on_contract_damages.md
+│   │   ├── liquidated_damages.md
+│   │   ├── misrepresentation_fraud.md
+│   │   ├── misunderstanding_mistake.md
+│   │   ├── nonparty_rights.md
+│   │   ├── other_measures_of_recovery_and_review.md
+│   │   ├── specific_performance.md
+│   │   └── warranty_liability.md
+│   └── index.md
+├── requirements.txt
+└── studytools
+    └── out

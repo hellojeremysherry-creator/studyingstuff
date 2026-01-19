@@ -1,0 +1,664 @@
+309 Chapter 11: Duress
+
+■ ■ ■
+
+Another formation defense is that of duress. The law of duress developed
+in much the same way as the law of mistake. The early common law judges
+and lawyers wanted to find a way to hold that no contract had been
+formed, but they also wanted to avoid appearing to create any new law.
+So they said that because an offer or an acceptance required free will,
+a person was not capable of forming a binding contract where the other
+party had robbed him of his free will by a threat of death,
+imprisonment, or serious physical injury.
+
+The cases that follow demonstrate that the types of threats that will
+allow a party to avoid a contract have been expanded rather considerably
+to include, among other things, the notion of economic duress in the
+face of no alternative source of supply. The courts, however, still hang
+on to the old language about free will despite the often corporate
+nature of the parties, which makes the reference rather quaint.
+
+---------
+
+Austin Instrument, Inc. v. Loral Corp.
+
+Court of Appeals of New York 29 N.Y.2d 124, 324 N.Y.S.2d 22, 272 N.E.2d
+533 (1971)
+
+Fuld, Chief Judge.
+
+\[1\]The defendant, Loral Corporation, seeks to recover payment for
+goods delivered under a contract which it had with the plaintiff Austin
+Instrument, Inc., on the ground that the evidence establishes, as a
+matter of law, that it was forced to agree to an increase in price on
+the items in question under circumstances amounting to economic duress.
+
+\[2\]In July of 1965, Loral was awarded a \$6,000,000 contract by the
+Navy for the production of radar sets. The contract contained a schedule
+of deliveries, a liquidated damages clause applying to late deliveries
+and a cancellation clause in case of default by Loral.1 The latter
+thereupon solicited bids for some 40 precision gear components needed to
+produce the 310 radar sets, and awarded Austin a subcontract to supply
+23 such parts. That party commenced delivery in early 1966.
+
+\[3\]In May, 1966, Loral was awarded a second Navy contract for the
+production of more radar sets and again went about soliciting bids.
+Austin bid on all 40 gear components but, on July 15, a representative
+from Loral informed Austin's president, Mr. Krauss, that his company
+would be awarded the subcontract only for those items on which it was
+low bidder. The Austin officer refused to accept an order for less than
+all 40 of the gear parts and on the next day he told Loral that Austin
+would cease deliveries of the parts due under the existing subcontract
+unless Loral consented to substantial increases in the prices provided
+for by that agreement---both retroactively for parts already delivered
+and prospectively on those not yet shipped---and placed with Austin the
+order for all 40 parts needed under Loral's second Navy contract.
+Shortly thereafter, Austin did, indeed, stop delivery. After contacting
+10 manufacturers of precision gears and finding none who could produce
+the parts in time to meet its commitments to the Navy,2 Loral acceded to
+Austin's demands; in a letter dated July 22, Loral wrote to Austin that
+"We have feverishly surveyed other sources of supply and find that
+because of the prevailing military exigencies, were they to start from
+scratch as would have to be the case, they could not even remotely begin
+to deliver on time to meet the delivery requirements established by the
+Government . . . Accordingly, we are left with no choice or alternative
+but to meet your conditions."
+
+\[4\]Loral thereupon consented to the price increases insisted upon by
+Austin under the first subcontract and the latter was awarded a second
+subcontract making it the supplier of all 40 gear parts for Loral's
+second contract with the Navy. Although Austin was granted until
+September to resume deliveries, Loral did, in fact, receive parts in
+August and was able to produce the radar sets in time to meet its
+commitments to the Navy on both contracts. After Austin's last delivery
+under the second subcontract in July, 1967, Loral notified it of its
+intention to seek recovery of the price increases.
+
+\[5\]On September 15, 1967, Austin instituted this action against Loral
+to recover an amount in excess of \$17,750 which was still due on the
+second subcontract. On the same day, Loral commenced an action against
+Austin claiming damages of some \$22,2503---the aggregate of the price
+increases under the first subcontract---on the ground of economic
+duress. The two actions were consolidated and, following a trial, Austin
+was awarded the sum it requested and Loral's complaint against Austin
+was dismissed on the ground that it was not shown that "it could not
+have 311 obtained the items in question from other sources in time to
+meet its commitment to the Navy under the first contract." A closely
+divided Appellate Division affirmed (35 A.D.2d 387, 316 N.Y.S.2d 528,
+532). There was no material disagreement concerning the facts; as
+Justice Steuer stated in the course of his dissent below, "(t)he facts
+are virtually undisputed, nor is there any serious question of law. The
+difficulty lies in the application of the law to these facts." (35
+A.D.2d 392, 316 N.Y.S.2d 534.)
+
+\[6\]The applicable law is clear and, indeed, is not disputed by the
+parties. A contract is voidable on the ground of duress when it is
+established that the party making the claim was forced to agree to it by
+means of a wrongful threat precluding the exercise of his free will. The
+existence of economic duress or business compulsion is demonstrated by
+proof that "immediate possession of needful goods is threatened,"
+Mercury Mach. Importing Corp. v. City of New York, 3 N.Y.2d 418, 425,
+165 N.Y.S.2d 517, 520, 144 N.E.2d 400, or more particularly, in cases
+such as the one before us, by proof that one party to a contract has
+threatened to breach the agreement by withholding goods unless the other
+party agrees to some further demand. However, a mere threat by one party
+to breach the contract by not delivering the required items, though
+wrongful, does not in itself constitute economic duress. It must also
+appear that the threatened party could not obtain the goods from another
+source of supply and that the ordinary remedy of an action for breach of
+contract would not be adequate.
+
+\[7\]We find without any support in the record the conclusion reached by
+the courts below that Loral failed to establish that it was the victim
+of economic duress. On the contrary, the evidence makes out a classic
+case, as a matter of law, of such duress.
+
+\[8\]It is manifest that Austin's threat---to stop deliveries unless the
+prices were increased---deprived Loral of its free will. As bearing on
+this, Loral's relationship with the Government is most significant. As
+mentioned above, its contract called for staggered monthly deliveries of
+the radar sets, with clauses calling for liquidated damages and possible
+cancellation on default. Because of its production schedule, Loral was,
+in July, 1966, concerned with meeting its delivery requirements in
+September, October and November, and it was for the sets to be delivered
+in those months that the withheld gears were needed. Loral had to plan
+ahead, and the substantial liquidated damages for which it would be
+liable, plus the threat of default, were genuine possibilities.
+Moreover, Loral did a substantial portion of its business with the
+Government, and it feared that a failure to deliver as agreed upon would
+jeopardize its chances for future contracts. These genuine concerns do
+not merit the label "self-imposed, undisclosed and subjective" which the
+Appellate Division majority placed upon them. It was perfectly
+reasonable for Loral, or any other party similarly placed, to consider
+itself in an emergency, duress situation. 312 \[9\]Austin, however,
+claims that the fact that Loral extended its time to resume deliveries
+until September negates its alleged dire need for the parts. A Loral
+official testified on this point that Austin's president told him he
+could deliver some parts in August and that the extension of deliveries
+was a formality. In any event, the parts necessary for production of the
+radar sets to be delivered in September were delivered to Loral on
+September 1, and the parts needed for the October schedule were
+delivered in late August and early September. Even so, Loral had to
+"work . . . around the clock" to meet its commitments. Considering that
+the best offer Loral received from the other vendors it contacted was
+commencement of delivery sometime in October, which, as the record
+shows, would have made it late in its deliveries to the Navy in both
+September and October, Loral's claim that it had no choice but to accede
+to Austin's demands is conclusively demonstrated.
+
+\[10\]We find unconvincing Austin's contention that Loral, in order to
+meet its burden, should have contacted the Government and asked for an
+extension of its delivery dates so as to enable it to purchase the parts
+from another vendor. Aside from the consideration that Loral was anxious
+to perform well in the Government's eyes, it could not be sure when it
+would obtain enough parts from a substitute vendor to meet its
+commitments. The only promise which it received from the companies it
+contacted was for commencement of deliveries, not full supply, and, with
+vendor delay common in this field, it would have been nearly impossible
+to know the length of the extension it should request. It must be
+remembered that Loral was producing a needed item of military hardware.
+Moreover, there is authority for Loral's position that nonperformance by
+a subcontractor is not an excuse for default in the main contract. In
+light of all this, Loral's claim should not be held insufficiently
+supported because it did not request an extension from the Government.
+
+\[11\]Loral, as indicated above, also had the burden of demonstrating
+that it could not obtain the parts elsewhere within a reasonable time,
+and there can be no doubt that it met this burden. The 10 manufacturers
+whom Loral contacted comprised its entire list of "approved vendors" for
+precision gears, and none was able to commence delivery soon enough.4 As
+Loral was producing a highly sophisticated item of military machinery
+requiring parts made to the strictest engineering standards, it would be
+unreasonable to hold that Loral should have gone to other vendors, with
+whom it was either unfamiliar or dissatisfied, to procure the needed
+parts. As Justice Steuer noted in his dissent, Loral "contacted all the
+manufacturers whom it believed capable of making these parts," 35 A.D.2d
+at 393, 316 N.Y.S.2d at 534, and this was all the law requires.
+
+313 \[12\]It is hardly necessary to add that Loral's normal legal remedy
+of accepting Austin's breach of the contract and then suing for damages
+would have been inadequate under the circumstances, as Loral would still
+have had to obtain the gears elsewhere with all the concomitant
+consequences mentioned above. In other words, Loral actually had no
+choice, when the prices were raised by Austin, except to take the gears
+at the "coerced" prices and then sue to get the excess back.
+
+\[13\]Austin's final argument is that Loral, even if it did enter into
+the contract under duress, lost any rights it had to a refund of money
+by waiting until July, 1967, long after the termination date of the
+contract, to disaffirm it. It is true that one who would recover moneys
+allegedly paid under duress must act promptly to make his claim known.
+In this case, Loral delayed making its demand for a refund until three
+days after Austin's last delivery on the second subcontract. Loral's
+reason---for waiting until that time---is that it feared another
+stoppage of deliveries which would again put it in an untenable
+situation. Considering Austin's conduct in the past, this was perfectly
+reasonable, as the possibility of an application by Austin of further
+business compulsion still existed until all of the parts were delivered.
+
+\[14\]In sum, the record before us demonstrates that Loral agreed to the
+price increases in consequence of the economic duress employed by
+Austin. Accordingly, the matter should be remanded to the trial court
+for a computation of its damages.
+
+\[15\]The order appealed from should be modified, with costs, by
+reversing so much thereof as affirms the dismissal of defendant Loral
+Corporation's claim and, except as so modified, affirmed.
+
+\[The dissenting opinion of Judge Bergan is omitted.---Eds.\]
+
+Notes
+
+1.In paragraph 3 the court quotes from Loral's letter of July 22. Review
+that quoted language. This letter is a perfect example of good lawyering
+behind the scenes to create a factual record for later litigation. The
+letter, and the response it elicited, serves as evidence to prove the
+second main element of economic duress: no alternative source of supply
+and a need to accede to the wrongful demand.
+
+2.One of the jobs of a lawyer handling a transaction is to shape the
+parties' relationship and create a record of events for later litigation
+should that relationship deteriorate. Not only is this useful when it
+comes to litigation, but being prepared to litigate can actually help
+avoid litigation: the other side may sense this preparedness and
+evaluate the weaknesses in its own position accordingly. Thus, as in
+rock climbing, counsel should mind the ascent and be forward looking
+while all the while creating a useful record and preparing to "fall
+correctly" if falling becomes necessary.
+
+314 ---------
+
+Totem Marine Tug & Barge, Inc. v. Alyeska Pipeline Service Co.
+
+Supreme Court of Alaska 584 P.2d 15 (1978)
+
+Burke, Justice.
+
+\[1\]This appeal arises from the superior court's granting of summary
+judgment in favor of defendants-appellees Alyeska Pipeline Services, et
+al., in a contract action brought by plaintiffs-appellants Totem Marine
+Tug & Barge, Inc., Pacific, Inc., and Richard Stair.
+
+\[2\]The following summary of events is derived from the materials
+submitted in the summary judgment proceedings below.
+
+\[3\]Totem is a closely held Alaska corporation which began operations
+in March of 1975. Richard Stair, at all times relevant to this case, was
+vice-president of Totem. In June of 1975, Totem entered into a contract
+with Alyeska under which Totem was to transport pipeline construction
+materials from Houston, Texas, to a designated port in southern Alaska,
+with the possibility of one or two cargo stops along the way. In order
+to carry out this contract, which was Totem's first, Totem chartered a
+barge (the "Marine Flasher") and an ocean-going tug (the "Kirt
+Chouest"). These charters and other initial operations costs were made
+possible by loans to Totem from Richard Stair individually and Pacific,
+Inc., a corporation of which Stair was principal stockholder and
+officer, as well as by guarantees by Stair and Pacific.
+
+\[4\]By the terms of the contract, Totem was to have completed
+performance by approximately August 15, 1975. From the start, however,
+there were numerous problems which impeded Totem's performance of the
+contract. For example, according to Totem, Alyeska represented that
+approximately 1,800 to 2,100 tons of regular uncoated pipe were to be
+loaded in Houston, and that perhaps another 6,000 or 7,000 tons of
+materials would be put on the barge at later stops along the west coast.
+Upon the arrival of the tug and barge in Houston, however, Totem found
+that about 6,700 to 7,200 tons of coated pipe, steel beams and valves,
+haphazardly and improperly piled, were in the yard to be loaded. This
+situation called for remodeling of the barge and extra cranes and
+stevedores, and resulted in the loading taking thirty days rather than
+the three days which Totem had anticipated it would take to load 2,000
+tons. The lengthy loading period was also caused in part by Alyeska's
+delay in assuring Totem that it would pay for the additional expenses,
+bad weather and other administrative problems. 315 \[5\]The difficulties
+continued after the tug and barge left Houston. It soon became apparent
+that the vessels were traveling more slowly than anticipated because of
+the extra load. In response to Alyeska's complaints and with its verbal
+consent, on August 13, 1975, Totem chartered a second tug, the "N.
+Joseph Guidry." When the "Guidry" reached the Panama Canal, however,
+Alyeska had not yet furnished the written amendment to the parties'
+contract. Afraid that Alyeska would not agree to cover the cost of the
+second tug, Stair notified the "Guidry" not to go through the Canal.
+After some discussions in which Alyeska complained of the delays and
+accused Totem of lying about the horsepower of the first tug, Alyeska
+executed the amendment on August 21, 1975.
+
+\[6\]By this time the "Guidry" had lost its preferred passage through
+the Canal and had to wait two or three additional days before it could
+go through. Upon finally meeting, the three vessels encountered the tail
+of a hurricane which lasted for about eight or nine days and which
+substantially impeded their progress.
+
+\[7\]The three vessels finally arrived in the vicinity of San Pedro,
+California, where Totem planned to change crews and refuel. On Alyeska's
+orders, however, the vessels instead pulled into port at Long Beach,
+California. At this point, Alyeska's agents commenced off-loading the
+barge, without Totem's consent, without the necessary load survey, and
+without a marine survey, the absence of which voided Totem's insurance.
+After much wrangling and some concessions by Alyeska, the freight was
+off-loaded. Thereafter, on or about September 14, 1975, Alyeska
+terminated the contract. Although there was talk by an Alyeska official
+of reinstating the contract, the termination was affirmed a few days
+later at a meeting at which Alyeska officials refused to give a reason
+for the termination.
+
+\[8\]Following termination of the contract, Totem submitted termination
+invoices to Alyeska and began pressing the latter for payment. The
+invoices came to something between \$260,000 and \$300,000. An official
+from Alyeska told Totem that they would look over the invoices but that
+they were not sure when payment would be made perhaps in a day or
+perhaps in six to eight months. Totem was in urgent need of cash as the
+invoices represented debts which the company had incurred on 10--30 day
+payment schedules. Totem's creditors were demanding payment and
+according to Stair, without immediate cash, Totem would go bankrupt.
+Totem then turned over the collection to its attorney, Roy Bell,
+directing him to advise Alyeska of Totem's financial straits.
+Thereafter, Bell met with Alyeska officials in Seattle, and after some
+negotiations, Totem received a settlement offer from Alyeska for
+\$97,500. On November 6, 1975, Totem, through its president Stair,
+signed an agreement releasing Alyeska from all claims by Totem in
+exchange for \$97,500.
+
+316 \[9\]Five months later, on March 26, 1976, Totem, Richard Stair, and
+Pacific filed a complaint against Alyeska, which was subsequently
+amended. In the amended complaint, the plaintiffs sought to rescind the
+settlement and release on the ground of economic duress and to recover
+the balance allegedly due on the original contract. In addition, they
+alleged that Alyeska had wrongfully terminated the contract and sought
+miscellaneous other compensatory and punitive damages.
+
+\[10\]Before filing an answer, Alyeska moved for summary judgment
+against the plaintiffs on the ground that Totem had executed a binding
+release of all claims against Alyeska and that as a matter of law, Totem
+could not prevail on its claim of economic duress. In opposition,
+plaintiffs contended that the purported release was executed under
+duress in that Alyeska wrongfully terminated the contract; that Alyeska
+knew that Totem was faced with large debts and impending bankruptcy;
+that Alyeska withheld funds admittedly owed knowing the effect this
+would have on plaintiffs and that plaintiffs had no alternative but to
+involuntarily accept the \$97,500 in order to avoid bankruptcy.
+Plaintiffs maintained that they had thus raised genuine issues of
+material fact such that trial was necessary, and that Alyeska was not
+entitled to judgment as a matter of law. Alyeska disputed the
+plaintiffs' assertions.
+
+\[11\]On November 30, 1976, the superior court granted the defendant's
+motion for summary judgment. This appeal followed. \[We
+reverse.---Eds.\]
+
+\* \* \*
+
+\[12\]\[A\] court's initial task in deciding motions for summary
+judgment is to determine whether there exist genuine issues of material
+fact. In order to decide whether such issues exist in this case, we must
+examine the doctrine allowing avoidance of a release on grounds of
+economic duress.
+
+\[13\]This court has not yet decided a case involving a claim of
+economic duress or what is also called business compulsion. At early
+common law, a contract could be avoided on the ground of duress only if
+a party could show that the agreement was entered into for fear of loss
+of life or limb, mayhem or imprisonment. The threat had to be such as to
+overcome the will of a person of ordinary firmness and courage.
+Subsequently, however, the concept has been broadened to include myriad
+forms of economic coercion which force a person to involuntarily enter
+into a particular transaction. The test has come to be whether the will
+of the person induced by the threat was overcome rather than that of a
+reasonably firm person.
+
+\[14\]At the outset it is helpful to acknowledge the various policy
+considerations which are involved in cases involving economic duress.
+Typically, those claiming such coercion are attempting to avoid the
+consequences of a modification of an original contract or of a
+settlement and release agreement. On the one hand, courts are reluctant
+to set aside 317 agreements because of the notion of freedom of contract
+and because of the desirability of having private dispute resolutions be
+final. On the other hand, there is an increasing recognition of the
+law's role in correcting inequitable or unequal exchanges between
+parties of disproportionate bargaining power and a greater willingness
+to not enforce agreements which were entered into under coercive
+circumstances.
+
+\[15\]There are various statements of what constitutes economic duress,
+but as noted by one commentator, "The history of generalization in this
+field offers no great encouragement for those who seek to summarize
+results in any single formula." Dawson, Economic Duress An Essay in
+Perspective, 45 Mich.L.Rev. 253, 289 (1947). Section 492(b) of the
+Restatement of Contracts defines duress as:
+
+any wrongful threat of one person by words or other conduct that induces
+another to enter into a transaction under the influence of such fear as
+precludes him from exercising free will and judgment, if the threat was
+intended or should reasonably have been expected to operate as an
+inducement.
+
+\[16\]Professor Williston states the basic elements of economic duress
+in the following manner:
+
+1.The party alleging economic duress must show that he has been the
+victim of a wrongful or unlawful act or threat, and
+
+2.Such act or threat must be one which deprives the victim of his
+unfettered will. 13 Williston on Contracts, § 1617 at 704 (footnotes
+omitted).
+
+\[17\]Many courts state the test somewhat differently, eliminating use
+of the vague term "free will," but retaining the same basic idea. Under
+this standard, duress exists where: (1) one party involuntarily accepted
+the terms of another, (2) circumstances permitted no other alternative,
+and (3) such circumstances were the result of coercive acts of the other
+party.
+
+The third element is further explained as follows:
+
+In order to substantiate the allegation of economic duress or business
+compulsion, the plaintiff must go beyond the mere showing of reluctance
+to accept and of financial embarrassment. There must be a showing of
+acts on the part of the defendant which produced these two factors. The
+assertion of duress must be proven by evidence that the duress resulted
+from defendant's wrongful and oppressive conduct and not by the
+plaintiff's necessities.
+
+W. R. Grimshaw Co., supra, 248 F.2d at 904.
+
+\[18\]As the above indicates, one essential element of economic duress
+is that the plaintiff show that the other party by wrongful acts or
+threats, 318 intentionally caused him to involuntarily enter into a
+particular transaction. Courts have not attempted to define exactly what
+constitutes a wrongful or coercive act, as wrongfulness depends on the
+particular facts in each case. This requirement may be satisfied where
+the alleged wrongdoer's conduct is criminal or tortious but an act or
+threat may also be considered wrongful if it is wrongful in the moral
+sense. Restatement of Contracts, § 492, comment (g); Gerber v. First
+National Bank of Lincolnwood, 30 Ill.App.3d 776, 332 N.E.2d 615, 618
+(1975); Fowler v. Mumford, 48 Del. 282, 9 Terry 282, 102 A.2d 535, 538
+(Del. Super. 1954).
+
+\[19\]In many cases, a threat to breach a contract or to withhold
+payment of an admitted debt has constituted a wrongful act. Implicit in
+such cases is the additional requirement that the threat to breach the
+contract or withhold payment be done in bad faith.
+
+\[20\]Economic duress does not exist, however, merely because a person
+has been the victim of a wrongful act; in addition, the victim must have
+no choice but to agree to the other party's terms or face serious
+financial hardship. Thus, in order to avoid a contract, a party must
+also show that he had no reasonable alternative to agreeing to the other
+party's terms, or, as it is often stated, that he had no adequate remedy
+if the threat were to be carried out. What constitutes a reasonable
+alternative is a question of fact, depending on the circumstances of
+each case. An available legal remedy, such as an action for breach of
+contract, may provide such an alternative. Where one party wrongfully
+threatens to withhold goods, services or money from another unless
+certain demands are met, the availability on the market of similar goods
+and services or of other sources of funds may also provide an
+alternative to succumbing to the coercing party's demands. Generally, it
+has been said that "(t)he adequacy of the remedy is to be tested by a
+practical standard which takes into consideration the exigencies of the
+situation in which the alleged victim finds himself." Ross Systems, 173
+A.2d at 262.
+
+\[21\]An available alternative or remedy may not be adequate where the
+delay involved in pursuing that remedy would cause immediate and
+irreparable loss to one's economic or business interest. For example, in
+Austin Instrument, supra, and Gallagher Switchboard Corp. v. Heckler
+Electric Co., 36 Misc.2d 225, 232 N.Y.S.2d 590 (N.Y. Sup. Ct. 1962),
+duress was found in the following circumstances: A subcontractor
+threatened to refuse further delivery under a contract unless the
+contractor agreed to modify the existing contract between the parties.
+The contractor was unable to obtain the necessary materials elsewhere
+without delay, and if it did not have the materials promptly, it would
+have been in default on its main contract with the government. In each
+case such default would have had grave economic consequences for the
+contractor and hence it agreed to the modifications. In both, the courts
+found that the alternatives to agreeing to the modification were
+inadequate (i.e., suing for breach of 319 contract or obtaining the
+materials elsewhere) and that modifications therefore were signed under
+duress and voidable.
+
+\[22\]Professor Dalzell, in Duress By Economic Pressure II, 20 N.
+Carolina L. Rev. 340, 370 (1942), notes the following with regard to the
+adequacy of legal remedies where one party refuses to pay a contract
+claim:
+
+Nowadays, a wait of even a few weeks in collecting on a contract claim
+is sometimes serious or fatal for an enterprise at a crisis in its
+history. The business of a creditor in financial straits is at the mercy
+of an unscrupulous debtor, who need only suggest that if the creditor
+does not care to settle on the debtor's own hard terms, he can sue. This
+situation, in which promptness in payment is vastly more important than
+even approximate justice in the settlement terms, is too common in
+modern business relations to be ignored by society and the courts.
+
+\[23\]This view finds support in Capps v. Georgia Pacific Corporation,
+253 Or. 248, 453 P.2d 935 (1969). There, the plaintiff was owed
+\$157,000 as a commission for finding a lessee for defendant's property
+but in exchange for \$5,000, the plaintiff signed a release of his claim
+against defendant. The plaintiff sued for the balance of the commission,
+alleging that the release had been executed under duress. His complaint,
+however, was dismissed. On appeal, the court held that the plaintiff had
+stated a claim where he alleged that he had accepted the grossly
+inadequate sum because he was in danger of immediately losing his home
+by mortgage foreclosure and other property by foreclosure and
+repossession if he did not obtain immediate funds from the defendant.
+One basis for its holding was found in the following quote by a leading
+commentator in the area of economic duress:
+
+The most that can be claimed (regarding the law of economic duress) is
+that change has been broadly toward acceptance of a general conclusion
+that in the absence of specific countervailing factors of policy or
+administrative feasibility, restitution is required of any excessive
+gain that results, in a bargain transaction, from impaired bargaining
+power, whether the impairment consists of economic necessity, mental or
+physical disability, or a wide disparity in knowledge or experience.
+
+Dawson, Economic Duress---An Essay In Perspective, 45 Mich. L. Rev. 253,
+289 (1947).
+
+\[24\]Turning to the instant case, we believe that Totem's allegations,
+if proved, would support a finding that it executed a release of its
+contract claims against Alyeska under economic duress. Totem has alleged
+that Alyeska deliberately withheld payment of an acknowledged debt,
+knowing that Totem had no choice but to accept an inadequate sum in
+settlement of that debt; that Totem was faced with impending bankruptcy;
+that Totem 320 was unable to meet its pressing debts other than by
+accepting the immediate cash payment offered by Alyeska; and that
+through necessity, Totem thus involuntarily accepted an inadequate
+settlement offer from Alyeska and executed a release of all claims under
+the contract. If the release was in fact executed under these
+circumstances,5 we think that under the legal principles discussed above
+that this would constitute the type of wrongful conduct and lack of
+alternatives that would render the release voidable by Totem on the
+ground of economic duress. We would add that although Totem need not
+necessarily prove its allegation that Alyeska's termination of the
+contract was wrongful in order to sustain a claim of economic duress,
+the events leading to the termination would be probative as to whether
+Alyeska exerted any wrongful pressure on Totem and whether Alyeska
+wrongfully withheld payment from Totem.6
+
+REVERSED and REMANDED.
+
+---------
+
+Notes and Questions
+
+1.The R2d §§ 175 and 176 state the modern law of duress, stripped of all
+the old common law baggage. Be sure to analyze these two cases under
+these rules. Would the results be the same?
+
+2.The UNIDROIT principles cover duress in articles 3.9 (threat) and 3.10
+(gross disparity). How do these standards differ from those of the R2d?
+Be sure to analyze these two cases under the principles, too.
+
+3.Could the Alaska Packers case from Chapter 7 (on pre-existing duty)
+have been decided as a duress case? If so, does that take away from the
+policy argument in favor of the pre-existing duty rule?
+
+4.If Alaska Packers and these economic duress cases were decided under
+the U.C.C. (no pre-existing duty rule but the modification must be in
+good faith), is there any need for the defense of economic duress? Isn't
+lack of good faith a lesser, necessarily included standard within
+economic duress?
+
+---------
+
+Problem 11-1
+
+Mary Inventor developed a new program for screening e-mail to eliminate
+spam. She got a federally-guaranteed loan from Bank to market the
+program. Her marketing effort encountered considerable resistance at
+first, but early in 321 2010 it took off and it began to look as if her
+product would be a major success. Unfortunately, the government
+guarantee expired in June 2010, and her loan came due at that time. Bank
+refused to renew the loan and demanded payment. Ms. Inventor tried a
+number of other lending institutions, but none of them was willing to
+lend her the money she needed to pay off the loan from Bank and to
+continue her marketing efforts because she had neither collateral nor a
+track record. The only person who would give her the money she needed
+was Shark, who demanded a 51% percent ownership interest in the business
+as compensation for the "risk" he was taking. Ms. Inventor reluctantly
+agreed to the deal Shark proposed. Now the business is doing well and
+Ms. Inventor has come to you to ask if you can help her "get back all
+that Shark has pressured me out of."
+
+(a)Will the doctrine of duress help her case under the approach of the
+R2d? Under the UNIDROIT principles?
+
+(b)Does she have a claim against Bank or only against Shark?
+
+Problem 11-2
+
+In 1917, the United States entered World War I. At that time German
+submarines were inflicting heavy losses on ships crossing the Atlantic.
+The need to get American troops and supplies to Europe made it
+imperative for the United States government to get a large number of
+ships built in the shortest possible time. The government approached the
+nation's largest shipbuilder and was told that the shipbuilder would
+build ships for the government only if it was compensated under a plan
+that provided (i) the shipbuilder was paid the cost of construction plus
+an additional percentage of cost as its profit, (ii) if the actual cost
+of construction of any ship was greater than the estimated cost, the
+government paid the actual cost plus the profit percentage based on the
+actual cost, (iii) if the actual cost was less than the estimated cost,
+the shipbuilder got its profit computed on the estimated cost plus it
+got half the difference between the actual cost and the estimated cost
+as a bonus for saving the government money, and (iv) the shipbuilder got
+to estimate the costs all by itself. The government agreed to the
+contract, and when the shipbuilder made a claim for its enormous profit,
+the government claimed the defense of duress.
+
+How should the court decide the case under the approach of the R2d?
+Under the UNIDROIT principles?
+
+Lawyering Skills Problem
+
+You are general counsel for an insurance company (again). The company's
+standard-form release to be signed by people whom the company has
+compensated for injuries allegedly caused by its insured reads:
+
+Releasor hereby releases, acquits and forever discharges Releasee and
+any other persons and entities of and from any and all actions, causes
+of action, claims, demands, damages, costs, loss of services, expenses
+and compensation on account of or in any way growing out 322 of any and
+all known and unknown personal injuries resulting or to result from the
+accident that occurred on or about \[date and time\], at or about
+\[location\].
+
+In spite of the language of the release, you are worried that there are
+some courts that might hold that it does NOT release claims for
+injuries, known or unknown, based on the doctrine of duress.
+
+You have been asked to re-write the release to make it more likely that
+courts will enforce the release as written and reject any duress
+challenge to it. Explain what you would do. Specific examples of how you
+would redraft it are preferred.
+
+NOTE: Don't worry about the California Civil Code section discussed
+earlier in the book. You will have local counsel draft a
+California-specific release. You will also, of course, have a law clerk
+do research to see if there are other states that have unusual
+requirements. But your job here is just to draft a basic release that
+will do the job in the ordinary run-of-the-mill state.
+
+1\[A liquidated damages clause provides that if there is a breach, the
+breaching party will pay a specific ("liquidated") amount in damages.
+Liquidated damages are covered in Chapter 21.---‍Eds.\]
+
+2The best reply Loral received was from a vendor who stated he could
+commence deliveries sometime in October.
+
+3\[\$22,250 in 1971 dollars is roughly the equivalent of \$138,000 in
+2019 dollars using the CPI and the GNP Deflator.---Eds.\]
+
+4Loral, as do many manufacturers, maintains a list of "approved
+vendors," that is, vendors whose products, facilities, techniques and
+performance have been inspected and found satisfactory.
+
+5By way of clarification, we would note that Totem would not have to
+prove that Alyeska admitted to owing the precise sum Totem claimed it
+was owed upon termination of the contract but only that Alyeska
+acknowledged that it owed Totem approximately that amount which Totem
+sought.
+
+6We make no comment as to whether Alyeska's termination of the contract
+was wrongful nor as to the truth of Totem's other allegations.

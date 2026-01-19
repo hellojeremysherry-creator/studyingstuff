@@ -8,4 +8,15 @@ nav:
   - Home: index.md
   - Contracts:
       - Acceptance: contracts/acceptance.md
-
+      - Anticipatory Repudiation: contracts/anticipatory_repudiation.md
+      - Duress: contracts/duress.md
+      - Express Conditions: contracts/express_conditions.md
+      - Interpretation of Contracts: contracts/interpretation_of_contracts.md
+      - Limitations on Contract Damages: contracts/limitations_on_contract_damages.md
+      - Liquidated Damages: contracts/liquidated_damages.md
+      - Misrepresentation & Fraud: contracts/misrepresentation_fraud.md
+      - Mistake & Misunderstanding: contracts/misunderstanding_mistake.md
+      - Nonparty Rights: contracts/nonparty_rights.md
+      - Other Measures of Recovery: contracts/other_measures_of_recovery_and_review.md
+      - Specific Performance: contracts/specific_performance.md
+      - Warranty Liability: contracts/warranty_liability.md

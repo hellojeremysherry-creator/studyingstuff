@@ -1,0 +1,883 @@
+Chapter 26: Anticipatory Repudiation
+
+■ ■ ■
+
+If one party to a contract decides not to perform under the contract,
+must the other party wait until the time for performance to either sue
+for breach or to make other arrangements to mitigate damages? No.
+
+Anticipatory repudiation---equivalent to a breach of a contract before
+performance is due---occurs when a party unequivocally communicates an
+intention not to perform or, by actions, renders performance impossible
+by, for example, selling to a third party a unique item that is the
+subject of the contract. To constitute repudiation, the prospective
+non-performance must substantially impair the value of the contract to
+the non-repudiating party. Upon repudiation, the other parties to the
+contract may either wait a reasonable time for performance or treat the
+contract as breached and resort to their remedies. The other parties may
+also suspend further performance of their duties, whether they elect to
+treat the repudiation as a breach or merely wait a reasonable time
+before doing so.
+
+The R2d outlines the common law of repudiation in sections 250 to 257.
+UNIDROIT articles 7.3.3 and 7.3.4 do the same in a more summary fashion.
+The Uniform Commercial Code codified the rules regarding anticipatory
+repudiation in sections 2--610 and 2--611 and the CISG does so in
+articles 71 to 73; both codes are substantially similar in this area.
+
+The acts or statements that constitute sufficient unequivocal
+communication of an intention not to perform vary from case to case. It
+has been characterized as an overt communication of intention that
+renders performance impossible or demonstrates a clear determination not
+to continue performance. Performance need not be absolutely, utterly
+impossible. If a party states that it will not perform unless it
+receives a performance to which it is not entitled (or fails to provide
+adequate assurance of performance when that has been properly demanded
+under U.C.C. section 2--609), repudiation has occurred. After
+repudiation, the aggrieved party may immediately resort to any remedy
+provided the actions are undertaken in good faith.
+
+An anticipatory repudiation can itself be retracted up to the moment
+that the repudiating party's next performance under the contract is due
+so long as the non-repudiating party has not yet cancelled the contract
+or materially changed his position or otherwise indicated that he
+considers the repudiation final. Retraction may be by any method that
+indicates 748 clearly to the other party that the previous repudiation
+is withdrawn and the party now intends to perform. A retraction must
+include any assurance of future performance justifiably demanded by the
+nonrepudiating party.
+
+These are good, common sense rules that appear to provide a reasonable
+framework within which the parties can operate when one fears that one
+or more of the parties may not perform. The following cases trace the
+development of the doctrine and illustrate its modern application. This
+is another area where it is critical that the communications with the
+other side be handled in a coordinated, calculated fashion. It is all
+too easy for a party that thought it was the non-repudiating party to be
+characterized as the repudiating party because of overly hasty or
+inadequately documented actions. Lawyers should be thinking about
+creating an adequate record to stand on to support the claim that the
+other side anticipatorally repudiated.
+
+---------
+
+Hochster v. De La Tour, Queen's Bench, 2 El. & Bl. 678, 118 Eng. Rep.
+922 (1853)
+
+\[1\]Lord Campbell C. J. now delivered the judgment of the Court. On
+this motion in arrest of judgment,1 the question arises, Whether, if
+there be an agreement between A. and B., whereby B. engages to employ A.
+on and from a future day for a given period of time, to travel with him
+into a foreign country as a courier, and to start with him in that
+capacity on that day, A. being to receive a monthly salary during the
+continuance of such service, B. may, before the day, refuse to perform
+the agreement and break and renounce it, so as to entitle A. before the
+day to commence an action against B. to recover damages for breach of
+the agreement; A. having been ready and willing to perform it, till it
+was broken and renounced by B. The defendant's counsel very powerfully
+contended that, if the plaintiff was not contented to dissolve the
+contract, and to abandon all remedy upon it, he was bound to remain
+ready and willing to perform it till the day when the actual employment
+as courier in the service of the defendant was to begin; and that there
+could be no breach of the agreement, before that day, to give a right of
+action. But it cannot be laid down as a universal rule that, where by
+agreement an act is to be done on a future day, no action can be brought
+for a breach of the agreement till the day for doing the act has
+arrived. If a man promises to marry a woman on a future day, and before
+that day marries another woman, he is instantly liable to an action for
+breach of promise of marriage; Short v. Stone (8 Q.B. 358). If a man
+contracts to execute a lease on and from a future day for a certain
+term, 749 and, before that day, executes a lease to another for the same
+term, he may be immediately sued for breaking the contract; Ford v.
+Tiley (6 B. & C. 325). So, if a man contracts to sell and deliver
+specific goods on a future day, and before the day he sells and delivers
+them to another, he is immediately liable to an action at the suit of
+the person with whom he first contracted to sell and deliver them;
+Bowdell v. Parsons (10 East, 359). One reason alleged in support of such
+an action is, that the defendant has, before the day, rendered it
+impossible for him to perform the contract at the day: but this does not
+necessarily follow; for, prior to the day fixed for doing the act, the
+first wife may have died, a surrender of the lease executed might be
+obtained, and the defendant might have repurchased the goods so as to be
+in a situation to sell and deliver them to the plaintiff. Another reason
+may be, that, where there is a contract to do an act on a future day,
+there is a relation constituted between the parties in the meantime by
+the contract, and that they impliedly promise that in the meantime
+neither will do anything to the prejudice of the other inconsistent with
+that relation. As an example, a man and woman engaged to marry are
+affianced to one another during the period between the time of the
+engagement and the celebration of the marriage. In this very case, of
+traveler and courier, from the day of the hiring till the day when the
+employment was to begin, they were engaged to each other; and it seems
+to be a breach of an implied contract if either of them renounces the
+engagement. This reasoning seems in accordance with the unanimous
+decision of the Exchequer Chamber in Elderton v. Emmens, which we have
+followed in subsequent cases in this Court. The declaration in the
+present case, in alleging a breach, states a great deal more than a
+passing intention on the part of the defendant which he may repent of,
+and could only be proved by evidence that he had utterly renounced the
+contract, or done some act which rendered it impossible for him to
+perform it. If the plaintiff has no remedy for breach of the contract
+unless he treats the contract as in force, and acts upon it down to the
+1st June 1852, it follows that, till then, he must enter into no
+employment which will interfere with his promise "to start with the
+defendant on such travels on the day and year," and that he must then be
+properly equipped in all respects as a courier for a three months' tour
+on the continent of Europe. But it is surely much more rational, and
+more for the benefit of both parties, that, after the renunciation of
+the agreement by the defendant, the plaintiff should be at liberty to
+consider himself absolved from any future performance of it, retaining
+his right to sue for any damage he has suffered from the breach of it.
+Thus, instead of remaining idle and laying out money in preparations
+which must be useless, he is at liberty to seek service under another
+employer, which would go in mitigation of the damages to which he would
+otherwise be entitled to for a breach of the contract. It seems strange
+that the defendant, after renouncing the contract, and absolutely
+declaring that he will never act under it, should be permitted to object
+that faith is given to his assertion, and that an 750 opportunity is not
+left to him of changing his mind. If the plaintiff is barred of any
+remedy by entering into an engagement inconsistent with starting as a
+courier with the defendant on the 1st June, he is prejudiced by putting
+faith in the defendant's assertion: and it would be more consonant with
+principle, if the defendant were precluded from saying that he had not
+broken the contract when he declared that he entirely renounced it.
+Suppose that the defendant, at the time of his renunciation, had
+embarked on a voyage for Australia, so as to render it physically
+impossible for him to employ the plaintiff as a courier on the continent
+of Europe in the months of June, July and August 1852: according to
+decided cases, the action might have been brought before the 1st June;
+but the renunciation may have been founded on other facts, to be given
+in evidence, which would equally have rendered the defendant's
+performance of the contract impossible. The man who wrongfully renounces
+a contract into which he has deliberately entered cannot justly complain
+if he is immediately sued for a compensation in damages by the man whom
+he has injured: and it seems reasonable to allow an option to the
+injured party, either to sue immediately, or to wait till the time when
+the act was to be done, still holding it as prospectively binding for
+the exercise of this option, which may be advantageous to the innocent
+party, and cannot be prejudicial to the wrongdoer. An argument against
+the action before the 1st of June is urged from the difficulty of
+calculating the damages: but this argument is equally strong against an
+action before the 1st of September, when the three months would expire.
+In either case, the jury in assessing the damages would be justified in
+looking to all that had happened, or was likely to happen, to increase
+or mitigate the loss of the plaintiff down to the day of trial.
+
+\* \* \*
+
+\[2\]Upon the whole, we think that the declaration in this case is
+sufficient. It gives us great satisfaction to reflect that, the question
+being on the record, our opinion may be reviewed in a Court of Error. In
+the meantime we must give judgment for the plaintiff.
+
+Judgment for plaintiff.
+
+---------
+
+Notes and Questions
+
+1.The Hochster opinion, among other things, should make it plain how
+important paragraphs and headings can be in making text easily readable.
+The opinion featured neither and is not. Remember that when taking
+exams.
+
+2.Hochster v. De La Tour is considered the seminal or ovular case for
+the doctrine of anticipatory repudiation. What two things does it allow
+a party to a contract to do upon the other party's repudiation?
+
+751 3.At the time this case was decided, it was well accepted that
+courts didn't make law; they found it among the already-established
+rules. How does this court explain that anticipatory repudiation is not
+really a new rule, but just an application of well-established rules?
+
+---------
+
+AMF, Inc. v. McDonald's Corp., United States Court of Appeals, Seventh
+Circuit, 536 F.2d 1167 (1976)
+
+Cummings, Circuit Judge.
+
+\[1\]AMF, Incorporated, filed this case in the Southern District of New
+York in April 1972. It was transferred to the Northern District of
+Illinois in May 1973. AMF seeks damages for the alleged wrongful
+cancellation and repudiation of McDonald's Corporation's ("Mc-Donald's")
+orders for sixteen computerized cash registers for installation in
+restaurants owned by wholly-owned subsidiaries of McDonald's and for
+seven such registers ordered by licensees of McDonald's for their
+restaurants. In July 1972, McDonald's of Elk Grove, Inc. sued AMF to
+recover the \$20,385.282 purchase price paid for a prototype
+computerized cash register and losses sustained as a result of failure
+of the equipment to function satisfactorily. Both cases were tried
+together during a fortnight in December 1974. A few months after the
+completion of the bench trial, the district court rendered a memorandum
+opinion and order in both cases in favor of each defendant. The only
+appeal is from the eight judgment orders dismissing AMF's complaints
+against McDonald's and the seven licensees. We affirm.
+
+\[2\]The district court's memorandum opinion and order are unreported.
+Our statement of the pertinent facts is culled from the 124 findings of
+fact contained therein or from the record itself.
+
+\[3\]In 1966, AMF began to market individual components of a completely
+automated restaurant system, including its model 72C computerized cash
+register involved here. The 72C cash register then consisted of a
+central computer, one to four input stations, each with a keyboard and
+cathode ray tube display, plus the necessary cables and controls.
+
+\[4\]In 1967, McDonald's representatives visited AMF's plant in
+Springdale, Connecticut, to view a working "breadboard" model 72C to
+decide whether to use it in McDonald's restaurant system. Later that
+year, it was agreed that a 72C should be placed in a McDonald's
+restaurant for evaluation purposes.
+
+752 \[5\]In April 1968, a 72C unit accommodating six input stations was
+installed in McDonald's restaurant in Elk Grove, Illinois. This
+restaurant was a wholly-owned subsidiary of McDonald's and was its
+busiest restaurant. Besides functioning as a cash register, the 72C was
+intended to enable counter personnel to work faster and to assist in
+providing data for accounting reports and bookkeeping. McDonald's of Elk
+Grove, Inc. paid some \$20,000 for this prototype register on January 3,
+1969. AMF never gave McDonald's warranties governing reliability or
+performance standards for the prototype.
+
+\[6\]At a meeting in Chicago on August 29, 1968, McDonald's concluded to
+order sixteen 72C's for its company-owned restaurants and to cooperate
+with AMF to obtain additional orders from its licensees. In December
+1968, AMF accepted McDonald's purchase orders for those sixteen 72C's.
+In late January 1969, AMF accepted seven additional orders for 72C's
+from McDonald's licensees for their restaurants. Under the contract for
+the sale of all the units, there was a warranty for parts and service.
+AMF proposed to deliver the first unit in February 1969, with
+installation of the remaining twenty-two units in the first half of
+1969. However, AMF established a new delivery schedule in February 1969,
+providing for deliveries to commence at the end of July 1969 and to be
+completed in January 1970, assuming that the first test unit being built
+at AMF's Vandalia, Ohio, plant was built and satisfactorily tested by
+the end of July 1969. This was never accomplished.
+
+\[7\]During the operation of the prototype 72C at McDonald's Elk Grove
+restaurant, many problems resulted, requiring frequent service calls by
+AMF and others. Because of its poor performance, McDonald's had AMF
+remove the prototype unit from its Elk Grove restaurant in late April
+1969.
+
+\[8\]At a March 18, 1969, meeting, McDonald's and AMF personnel met to
+discuss the performance of the Elk Grove prototype. AMF agreed to
+formulate a set of performance and reliability standards for the future
+72C's, including "the number of failures permitted at various degrees of
+seriousness, total permitted downtime, maximum service hours and cost."
+Pending mutual agreement on such standards, McDonald's personnel asked
+that production of the twenty-three units be held up and AMF agreed.
+
+\[9\]On May 1, 1969, AMF met with McDonald's personnel to provide them
+with performance and reliability standards. However, the parties never
+agreed upon such standards. At that time, AMF did not have a working
+machine and could not produce one within a reasonable time because its
+Vandalia, Ohio, personnel were too inexperienced. After the May 1st
+meeting, AMF concluded that McDonald's had canceled all 72C orders. The
+reasons for the cancellation were the poor performance of the prototype,
+the lack of assurances that a workable machine was available 753 and the
+unsatisfactory conditions at AMF's Vandalia, Ohio, plant where the
+twenty-three 72C's were to be built.
+
+\[10\]On July 29, 1969, McDonald's and AMF representatives met in New
+York. At this meeting it was mutually understood that the 72C orders
+were canceled and that none would be delivered.
+
+\[11\]In its conclusions of law, the district court held that
+Mc-Donald's and its licensees had entered into contracts for
+twenty-three 72C cash registers but that AMF was not able to perform its
+obligations under the contracts. Citing Section 2--610 of the Uniform
+Commercial Code (Ill. Rev. Stats. (1975) ch. 26, § 2--610) and Comment 1
+thereunder, the court concluded that on July 29, McDonald's justifiably
+repudiated the contracts to purchase all twenty-three 72C's.
+
+\[12\]Relying on Section 2--609 and 2--610 of the Uniform Commercial
+Code (Ill. Rev. Stats. (1975) ch. 26, §§ 2--609 and 2--610),the court
+decided that McDonald's was warranted in repudiating the contracts and
+therefore had a right to cancel the orders by virtue of Section 2--711
+of the Uniform Commercial Code. (Ill. Rev. Stats. (1975) ch. 26, §
+2--711). Accordingly, judgment was entered for McDonald's.
+
+\[13\]The findings of fact adopted by the district court were a mixture
+of the court's own findings and findings proposed by the parties, some
+of them modified by the court. AMF has assailed ten of the 124 findings
+of fact, but our examination of the record satisfies us that all have
+adequate support in the record and support the conclusions of law.
+
+\[14\]Whether in a specific case a buyer has reasonable grounds for
+insecurity is a question of fact. Comment 3 to UCC § 2--609; Anderson,
+Uniform Commercial Code, § 2--609 (2d ed. 1971). On this record,
+McDonald's clearly had "reasonable grounds for insecurity" with respect
+to AMF's performance. At the time of the March 18, 1969, meeting, the
+prototype unit had performed unsatisfactorily ever since its April 1968
+installation. Although AMF had projected delivery of all twenty-three
+units by the first half of 1969, AMF later scheduled delivery from the
+end of July 1969 until January 1970. When McDonald's personnel visited
+AMF's Vandalia, Ohio, plant on March 4, 1969, they saw that none of the
+72C systems was being assembled and learned that a pilot unit would not
+be ready until the end of July of that year. They were informed that the
+engineer assigned to the project was not to commence work until March
+17th. AMF's own personnel were also troubled about the design of the
+72C, causing them to attempt to reduce McDonald's order to five units.
+Therefore, under Section 2--609 McDonald's was entitled to demand
+adequate assurance of performance by AMF.
+
+\[15\]However, AMF urges that Section 2--609 of the UCC is inapplicable
+because McDonald's did not make a written demand of adequate assurance
+of due performance. In Pittsburgh-Des Moines Steel 754 Co. v. Brookhaven
+Manor Water Co., 532 F.2d 572, 581 (7th Cir. 1976), we noted that the
+Code should be liberally construed3 and therefore rejected such "a
+formalistic approach" to Section 2--609. McDonald's failure to make a
+written demand was excusable because AMF's Mr. Dubosque's testimony and
+his April 2 and 18, 1969, memoranda about the March 18th meeting showed
+AMF's clear understanding that McDonald's had suspended performance
+until it should receive adequate assurance of due performance from AMF
+(Tr. 395; AMF Exhibit 79; McD. Exhibit 232).
+
+\[16\]After the March 18th demand, AMF never repaired the Elk Grove unit
+satisfactorily nor replaced it. Similarly, it was unable to satisfy
+McDonald's that the twenty-three machines on order would work. At the
+May 1st meeting, AMF offered unsatisfactory assurances for only five
+units instead of twenty-three. The performance standards AMF tendered to
+McDonald's were unacceptable because they would have permitted the 72C's
+not to function properly for 90 hours per year, permitting as much as
+one failure in every fifteen days in a busy McDonald's restaurant. Also,
+as the district court found, AMF's Vandalia, Ohio, personnel were too
+inexperienced to produce a proper machine. Since AMF did not provide
+adequate assurance of performance after McDonald's March 18th demand,
+UCC Section 2--609(1) permitted McDonald's to suspend performance. When
+AMF did not furnish adequate assurance of due performance at the May 1st
+meeting, it thereby repudiated the contract under Section 2--609(4). At
+that point, Section 2--610(b) permitted McDonald's to cancel the orders
+pursuant to Section 2--711, as it finally did on July 29, 1969.
+
+\* \* \*
+
+JUDGMENT AFFIRMED.
+
+---------
+
+Notes and Questions
+
+1.The R2d contains a provision similar to U.C.C. § 2--609, R2d § 251, as
+does the CISG, article 71(3), and UNDROIT, article 7.3.4. These
+authorities do NOT require the demand for assurances to be in writing as
+the U.C.C. does.
+
+2.Not all courts are this liberal when confronted with the explicit
+statutory requirement of a writing contained in U.C.C. § 2--609. In fact
+most are not, as many lawyers who have failed to follow the statutory
+requirements have found. Eastern Airlines won a \$25 million judgment
+against McDonnell Douglas on account of late deliveries of airplanes
+that put Eastern at a severe competitive disadvantage. The judgment was
+reversed because Eastern had not followed all the statutory formalities
+in giving McDonnell Douglas notice 755 that they had defaulted. Eastern
+Air Lines v. McDonnell Douglas Corp., 532 F.2d 957 (5th Cir. 1976). On
+the specific question of whether a demand for adequate assurance under
+Article 2 must be in writing, the majority of the courts that have
+addressed the issue have held that it must. The Illinois Appellate Court
+said: "The record contains no indication that \[the buyer\] at any time
+placed a demand for assurances of future performance on the part of
+\[the seller\] in writing, and a demand for assurances of future
+performance is ineffectual unless placed in writing." Bodine Sewer, Inc.
+v. Eastern Illinois Precast, Inc., 143 Ill. App. 3d 920, 97 Ill. Dec.
+898, 493 N.E.2d 705, 1 UCC Rep. Serv. 2d 1480, 1489 (1986). U.C.C. §
+2--609 is very explicit and should be followed mechanically in every
+case; unfortunately, commercial lawyers and clients, like police
+required to "Mirandize" their suspects, all too often fail to do so
+properly, with serious results.
+
+---------
+
+Hope's Architectural Products, Inc. v. Lundy's Construction, Inc.
+
+United States District Court, District of Kansas 781 F. Supp. 711 (1991)
+
+Lungstrum, J.
+
+Memorandum and Order
+
+\[1\]This case presents a familiar situation in the field of
+construction contracts. Two parties, who disagreed over the meaning of
+their contract, held their positions to the brink, with litigation and
+loss the predictable result of the dispute. What is rarely predictable,
+however, (and what leads to a compromise resolution of many construction
+disputes when cool heads hold sway) is which party will ultimately
+prevail. The stakes become winner-take-all.
+
+\[2\]Plaintiff Hope's Architectural Products (Hope's) is a New York
+corporation that manufactures and installs custom window fixtures.
+Defendant Lundy's Construction (Lundy's) is a Kansas corporation that
+contracted to buy windows from Hope's for a school remodeling project.
+Defendant Bank IV Olathe (Bank IV) is a national banking organization
+with its principal place of business in Kansas. Bank IV acted as surety
+for a statutory bond obtained by Lundy's for the remodeling project.4
+
+\[3\]Hope's contends that Lundy's breached the contract to buy windows,
+entitling Hope's to damages in the amount of the contract price 756 of
+\$55,000.5 Hope's also contends that Bank IV wrongfully refused to pay
+Hope's on the bond when Lundy's breached the contract. Hope's has sued
+for breach of contract, and in the alternative, for recovery under the
+theory of quantum meruit. A trial to the Court was held December 4 and
+5, 1991. Two issues emerged as pivotal to the resolution of this case:
+(1) when was delivery of the windows due, and (2) if delivery was late,
+could Hope's lawfully suspend performance and demand certain assurances,
+(including ultimately, a demand for prepayment in full) that Lundy's
+would not back charge for the late delivery under the authority of
+K.S.A. § 84--2--609? Because the Court finds that a determination of
+these issues leads to the conclusion that Hope's was the party in breach
+of this contract, the plaintiff's request for relief is denied.
+
+I.Facts
+
+\[4\]The following findings of fact are entered pursuant to Fed. R. Civ.
+P. 52. On June 13, 1988, defendant Lundy's entered into a contract with
+the Shawnee Mission School District as general contractor for the
+construction of an addition to the Rushton Elementary School. Lundy's
+provided a public works bond in connection with the Rushton project as
+required by K.S.A. § 60--1111 (1983). The purpose of the bond was to
+insure that Lundy's paid any outstanding indebtedness it incurred in the
+construction of the project. The statutory bond was secured through
+defendant Bank IV.
+
+\[5\]Plaintiff Hope's is a manufacturer of custom-built windows. The
+initial contact between Hope's and Lundy's occurred through Mr. Richard
+Odor, a regional agent for Hope's in Kansas City. On June 29, 1988,
+Hope's contracted with Lundy's to manufacture ninety-three windows for
+the Rushton project. The contract price, including the cost of labor and
+materials for the windows, was \$55,000.
+
+\[6\]Although the contract included a term pertaining to the time for
+delivering the windows, there is some controversy over the meaning of
+this provision. Even under the most favorable interpretation to Hope's,
+however, delivery was due twelve to fourteen weeks after Hope's received
+approved shop drawings from Lundy's on July 18. Thus, delivery was due
+no later than October 24, 1988.
+
+\[7\]During the late summer and fall of 1988, several discussions took
+place between Hope's and Lundy's concerning when the windows would be
+delivered to the job site. Production of the windows was delayed by
+events that, according to the testimony of Mr. Odor, were not the fault
+of Lundy's. On September 27, 1988, Mark Hannah, vice president of
+Lundy's, wrote to Hope's requesting that installation of the windows
+begin by October 19, and be completed by October 26. On October 14
+Hannah again wrote to 757 Hope's, threatening to withhold "liquidated
+damages" from the contract price if Hope's did not comply with these
+deadlines. Although there was no provision in the contract for
+liquidated damages, Hope's did not make any response to the October 14
+letter.
+
+\[8\]The windows were shipped from Hopes' New York plant to Kansas City
+on October 28. Delivery to the Rushton site was anticipated on November
+4. On November 1, Hannah called Hopes' office in New York to inquire
+about the windows. He spoke to Kathy Anderson, Hopes' customer service
+manager. The substance of this conversation is disputed. Hope's claims
+that Hannah threatened a back charge of \$11,000 (20% of the contract
+price) for late delivery of the windows. Hannah testified, however, that
+although the possibility of a back charge was discussed, no specific
+dollar amount was mentioned. Hannah specifically denies that he
+threatened to withhold \$11,000 from the contract.
+
+\[9\]After her conversation with Hannah, Anderson immediately informed
+Chris Arvantinos, vice president of Hope's, of the threatened back
+charge. Arvantinos called Hannah to discuss the back charge, but he does
+not recall hearing Hannah mention the \$11,000 figure. Arvantinos
+requested that Hannah provide assurances that Lundy's would not back
+charge Hope's, but Hannah was unwilling to provide such assurances.
+
+\[10\]In a letter written on November 2, Arvantinos informed Hannah that
+Hope's was suspending delivery of the windows until Lundy's provided
+assurances that there would be no back charge. Hannah received this
+letter on the morning of November 3, shortly before Mr. Odor visited
+Hannah at Lundy's. Odor, who had spoken with Arvantinos about the back
+charge, issued a new demand that Lundy's had to meet before Hope's would
+deliver the windows. He gave Hannah an invoice for the full amount of
+the contract price, demanding prepayment before the windows would be
+delivered.
+
+\[11\]Odor set out three ways that Lundy's could meet this demand: (1)
+payment of the contract price in full by cashier's check; (2) placement
+of the full contract price in an escrow account until the windows were
+installed; or (3) delivery of the full contract amount to the architect
+to hold until the windows were installed. All three options required
+Lundy's to come up with \$55,000 before the windows would be delivered.
+Hannah believed that the demand presented by Odor superseded the letter
+from Arvantinos he received earlier that morning.
+
+\[12\]Hannah informed Odor that there was no way for Lundy's to get an
+advance from the school district at that time to comply with Hopes'
+request. The meeting ended, Lundy's did not prepay, and Hope's did not
+deliver the windows. On November 7, 1988, Lundy's terminated the
+contract with Hope's. Thereafter, Lundy's obtained an alternate supplier
+of the windows.
+
+758 \[13\]On February 15, 1989, Hope's notified defendant Bank IV of
+Lundy's failure to pay the contract price and demanded payment from Bank
+IV on the public works bond. Bank IV refused to pay Hopes' claim. This
+action was filed by Hope's on March 20, 1989. Jurisdiction of the matter
+rests with this Court pursuant to 28 U.S.C. § 1332.
+
+II.Discussion
+
+\[14\]At the outset, the Court concludes that the Uniform Commercial
+Code (UCC) governs this transaction. Article 2 of the UCC applies to
+transactions in goods. K.S.A. § 84--2--102 (1983). The contract at issue
+in this case involved a mixed goods/services transaction. Whether the
+UCC applies to hybrid transactions such as this depends upon " 'whether
+their predominant factor, their thrust, their purpose, reasonably
+stated, is the rendition of service, with goods incidentally involved or
+is a transaction of sale, with labor incidentally involved.' " Systems
+Design & Management Information, Inc. v. Kansas City Post Office
+Employees Credit Union, 14 Kan. App. 2d 266, 270--71, 788 P.2d 878
+(1990). If the UCC applies, it applies to all facets of the transaction.
+The transaction at issue in this case primarily involved a sale of
+windows, with installation and manufacturing services provided as an
+incidental component. Therefore, the UCC applies.
+
+A.Plaintiff's Contract Claim Against Defendant Lundy's
+
+\[15\]This case turns on the resolution of two central and interrelated
+issues: (1) when was delivery due under the contract, and (2) could
+Hope's lawfully demand the assurances it demanded from Lundy's under
+K.S.A. § 84--2--609 \[UCC § 2--609\]. If the demands for assurances were
+proper, then Hope's would have been justified in suspending its
+performance and withholding delivery and Lundy's failure to provide
+assurances and subsequent termination of the contract amounted to a
+total breach. If, however, the demands for assurances were not proper
+under \[§ 2--609\], then Hope's breached the contract by wrongfully
+withholding delivery of the windows and Lundy's was entitled to cancel
+the contract. The delivery date issue is addressed first because the
+matter of whether or not Hope's was already in breach for late delivery
+goes directly to the propriety of its demand for assurances.
+
+1.Delivery Date
+
+\[16\]Even under Hope's interpretation of the delivery term, delivery of
+the windows was not timely.6 At trial, Chris Arvantinos, Hope's vice
+president, testified that Hope's committed to deliver the windows twelve
+to 759 fourteen weeks after July 18, 1988, the day Hope's received
+approved shop drawings. This would make delivery due between October 10
+and October 24. In fact, the windows did not arrive in Kansas City until
+November 4, fifteen and one-half weeks after July 18. Hope's claims that
+this delay was "immaterial" and did not excuse Lundy's from its duties
+under the contract. Hope's is unable to cite any controlling authority
+to support this argument, however. Moreover, this argument misses the
+point. Even if an "immaterial" delay did not excuse future performance
+by Lundy's, no performance was due from Lundy's until the windows were
+delivered to the job site, which never occurred.
+
+\[17\]Hope's also argues, almost in passing, that the delay was caused
+by problems that were outside of its control, thus excusing Hope's from
+responsibility for the late delivery. Under a clause in the contract,
+Hope's disclaimed responsibility "for delayed shipments and deliveries
+occasioned by strikes, fires, accidents, delays of common carriers or
+other causes beyond our control . . ." (Plaintiff's exhibit 11, para.
+3). During the course of production, Hope's experienced problems with
+its "bonderizing" and prime paint system, which resulted in a delay in
+production of approximately two weeks. (Defendants' exhibit 403). Hope's
+produced no evidence at trial, however, to show that this was a matter
+which was beyond its control. Moreover, it is interesting to note that
+Hope's did not contemporaneously seek from Lundy's any extension of the
+delivery date under this provision or notify Lundy's that it might
+result in a delay beyond October 24. It appears that reference to this
+clause is more of an afterthought born of litigation than a bona fide
+excuse for modifying the delivery date.
+
+\[18\]Hope's also contends that a three to four day delay resulted when
+Lundy's asked for a change in the design of the windows to include "weep
+holes" after production had already begun. However, Hopes'
+representative, Odor, testified that nothing Lundy's did delayed Hopes'
+manufacturing. Moreover, even accounting for this delay, Hope's was a
+week late delivering the windows.
+
+2.Section 2--609 Demand for Assurances
+
+\[19\]The framework for judging demands for assurances under \[§
+2--609\] was set forth in LNS Investment Co., Inc. v. Phillips 66 Co.,
+731 F. Supp. 1484, 1487 (D. Kan. 1990):
+
+To suspend its performance pursuant to \[§ 2--609\], defendant must (1)
+have had reasonable grounds for insecurity regarding plaintiff's
+performance under the contract, (2) have demanded in writing adequate
+assurance of plaintiff's future performance and (3) have not received
+from plaintiff such assurance.
+
+\[20\]White and Summers note that what constitutes a "reasonable ground"
+for insecurity and an "adequate assurance" are fact questions. J. 760
+White & R. Summers, Uniform Commercial Code § 6--2, at 236 (3d ed.
+1988). Reasonableness and adequacy are determined according to
+commercial standards when, as is the case here, the parties are
+merchants. \[U.C.C. § 2--609\] K.S.A. § 84--2--609(2) (1983).
+
+\[21\]Although nothing in the record indicates that Hope's expressly
+claimed any rights under \[§ 2--609\] during the course of this
+transaction, Hope's asserted at trial that the October 14 letter from
+Lundy's demanding delivery by October 16 and threatening liquidated
+damages gave Hope reasonable grounds for insecurity. Delivery was not
+due until October 24 under Hopes' version of the parties' agreement, and
+Lundy's had no right to demand performance early, let alone broach the
+withholding of liquidated damages. This letter might have justified a
+demand for assurances under \[§ 2--609\]. However, Hope's made no such
+demand after receiving the letter. Instead of invoking its rights under
+\[2--609\], Hope's chose not to respond at all to Lundy's threat of
+liquidated damages. This event merely came and went without any legal
+consequence.
+
+\[22\]Hope's in effect invoked its rights under \[§ 2--609\] in response
+to Lundys' threat of a back charge during the November 1 phone
+conversations. Two separate demands for assurances were made in response
+to this threat. Initially, Chris Arvantinos demanded assurances that
+Lundy's would not back charge Hope's for the delayed shipment in a
+telephone conversation with Mark Hannah later in the day on November 1.
+Arvantinos memorialized this demand in a letter composed on that day and
+mailed on the second of November. In their telephone conversation,
+Hannah refused to provide assurances that Lundy's would not back charge
+Hope's.
+
+\[23\]Hope's made a second demand for assurances on November 3, when
+Richard Odor presented Hopes' invoice to Hannah demanding payment in
+full. Thus, Hope's demanded assurances that it would not be back charged
+on November 1, and when that demand was refused, Hope's made a second
+demand on November 3. The Court finds that Hope's was not entitled to
+invoke \[§ 2--609\] on either occasion.
+
+\[24\]When Hope's made its first demand for assurances on November 1, it
+was already in breach of the parties' agreement. Delivery of the windows
+was due by October 24, but the windows did not arrive in Kansas City
+until November 4. A party already in breach is not entitled to invoke
+section 2--609 by demanding assurances. United States v. Great Plains
+Gasification Associates, 819 F.2d 831, 835 (8th Cir. 1987); cf. Sumner
+v. Fel-Air, Inc., 680 P.2d 1109 (Alaska 1984) (2--609 does not apply
+after a breach has already occurred). To hold otherwise would allow a
+party to avoid liability for breaching its contract by invoking 2--609
+to extract from the nonbreaching party an assurance that no damages will
+be sought for the breach. A nonbreaching party in need of prompt
+performance could be 761 coerced into giving up its right to damages for
+the breach by giving in to the demands in order to receive the needed
+performance. This Court refuses to endorse such a result.
+
+\[25\]The assurances which Hope's demanded, moreover, were excessive.
+"What constitutes 'adequate assurance' is to be determined by factual
+conditions; the seller must exercise good faith and observe commercial
+standards; his satisfaction must be based upon reason and must not be
+arbitrary or capricious." Richmond Leasing Co. v. Capital Bank, N.A.,
+762 F.2d 1303, 1310 (5th Cir. 1985). "If the assurances he demands are
+more than 'adequate' and the other party refuses to accede to the
+excessive demands, the court may find that the demanding party was in
+breach or a repudiator." J. White & R. Summers, supra, § 6--2, at 236.
+
+\[26\]Lundy's argues that Hopes' demand for assurances in the November 2
+letter from Arvantinos was overly broad and unreasonable. The letter
+informed Lundy's that Hope's would not deliver the windows to the job
+site until it received assurances that it would not "be backcharged or
+otherwise held responsible for liquidated damages, delay charges or any
+extra costs on account of time of delivery of the windows."
+((Plaintiff's exhibit 23) (emphasis added)). When this demand was made,
+the windows had not yet arrived in Kansas City. Therefore, the parties
+did not know at this time whether the proper quantity of windows had
+been shipped, whether the windows were the correct size, or whether they
+otherwise met Lundy's specifications. If there were any nonconformities
+in the shipment, there could have been another delay in the time of
+delivery while Hope's corrected the problem. Yet, Hope's demanded a
+blanket assurance that it would not be held responsible for any extra
+costs incurred because of "time of delivery of the windows." This demand
+was overly broad on its face and unreasonable under \[§ 2--609\].
+
+\[27\]The assurances Hope's demanded on November 3 were also excessive.
+In his meeting with Mark Hannah, Richard Odor insisted that Lundy's
+prepay the contract price, deliver a cashier's check to the architect,
+or place the full contract price in an escrow account before the windows
+would be delivered. Yet, Lundy's never gave any indication that it was
+unable or unwilling to pay the amount it owed to Hope's when the windows
+were delivered and the bond stood as security for Lundy's obligation.
+Such a demand was unreasonable and amounted to a breach by Hope's. See
+Pittsburgh-Des Moines Steel v. Brookhaven Manor Water Co., 532 F.2d 572,
+578--82 (7th Cir. 1976) (demanding under § 2--609 a personal guarantee
+of payment from a shareholder, or that other party escrow the entire
+amount of the contract price before it was due, absent any showing of an
+inability to pay, was unreasonable); Scott v. Crown, 765 P.2d 1043
+(Colo. Ct. App. 1988) (demanding payment in full before it was due was
+unreasonable demand under § 2--609 and amounted to anticipatory breach).
+The payment terms under the contract were "Progress payments by the 10th
+of 762 each month covering 90% of the total value of materials delivered
+and installation performed during the previous month with final payment
+upon completion of our \[Hopes'\] work." (Plaintiff's exhibit 11.) By
+demanding prepayment, Hope's essentially attempted to rewrite this term
+of the contract. Pittsburgh-Des Moines Steel, 532 F.2d 572 at 578--82 (§
+2--609 may not be used to force a contract modification); Scott, 765
+P.2d 1043 (same).
+
+\[28\]Although Hope's contends that a threatened back charge of \$11,000
+for a one week delay in shipment justified its demand for prepayment,
+the Court is not persuaded that Lundy's made any specific demand for
+\$11,000. The testimony on this issue was controverted, but only Kathy
+Anderson, Hopes' customer service manager, testified, in a perfunctory
+manner, that an \$11,000 back charge was threatened. Mark Hannah
+specifically denied making such a demand. Neither Chris Arvantinos nor
+Richard Odor testified to recalling receiving such a demand. There was
+also testimony at trial from one witness for Hope's that the threatened
+back charge was in the amount of \$5,000. The Court is not persuaded
+that Lundy's went beyond making unspecified threats of a back charge for
+possible damages it would incur because of Hopes' delay.
+
+\[29\]By threatening to withhold damages from the contract price,
+Lundy's was merely exercising its rights under K.S.A. § 84--2--717 \[UCC
+§ 2--717\] which entitles a buyer to deduct from the amount owing on the
+contract any damages from the seller's breach. Giving notice of its
+intention to avail itself of a legal right did not indicate that Lundy's
+was unwilling or unable to perform under the contract. Indeed, the very
+nature of the right invoked by Lundy's manifests an intention that it
+would continue performing and pay the contract price due, less damages
+caused by Hopes' delay. Thus, the demand for prepayment was unreasonably
+excessive when there was no indication that Lundy's would not pay Hope's
+when performance was due.
+
+\[30\]Both Hopes' delay in delivering the windows and Hopes' excessive
+demands entitled Lundy's to treat Hope's as in breach and to cancel the
+contract, which it did on November 7, 1988. K.S.A. § 84--2--711 (1983)
+("Where the seller fails to make delivery or repudiates . . . the buyer
+may cancel . . ."). Thus, Hope's is not entitled to recover under its
+claim for breach of contract.
+
+\* \* \*
+
+B.Plaintiff's Quantum Meruit Claim
+
+\[31\]Hope's also claims that it is entitled to compensation from
+Lundy's under the theory of quantum meruit. "Quantum meruit," which
+literally means "as much as he deserves," is a phrase used often in
+older cases to describe an equitable doctrine premised on the theories
+of unjust 763 enrichment and restitution. Black's Law Dictionary 1119
+(5th ed. 1979). Recovery was allowed under this theory when a benefit
+had been received by a party and it would be inequitable to allow the
+party to retain it. E. Farnsworth, Contracts § 2.20, at 103 n.4 (2d ed.
+1990). Instead of labeling it quantum meruit, courts today speak in
+terms of restitution. See Pioneer Operations Co. v. Brandeberry, 14 Kan.
+App. 2d 289, 789 P.2d 1182 (1990).
+
+\[32\]To recover in restitution, a breaching plaintiff must have
+conferred a benefit on the nonbreaching party. See Walker v. Ireton,
+221Kan. 314, 559 P.2d 340 (1977) (right to restitution limited to
+expenditures or services that benefitted disregard other party);
+Restatement (Second) of Contracts § 374 (1979). The burden is on the
+breaching party to prove the extent of the benefit conferred, and doubts
+will be resolved against him. Restatement (Second) of Contracts § 374
+cmt. b (1977).
+
+\[33\]In this case, Hope's conferred no benefit on Lundy's. The windows
+manufactured by Hope's were never used in the Rushton project, and the
+Court is not persuaded that the installation advice provided by
+Christiansen Steel Erection for Hope's improved the project. Hope's
+admits that the only labor it claims to have provided at the Rushton job
+site was consultation work performed by Christiansen Steel Erection, a
+company Hope's subcontracted with to install the windows. Mike and John
+Christiansen visited the job site on several occasions to advise Lundy's
+on how to prepare the window openings for installation. The advice they
+provided, however, related to the installation of windows that were
+never used on the project. When Lundy's canceled its contract with
+Hope's, it obtained an alternate supplier of a different type of
+windows. These windows did not require the same careful preparation of
+the window openings as the Hope's windows. Lundy's job foreman testified
+that the Christiansens' advice became moot when the alternate supplier
+was obtained. "\[A\] party's expenditures in preparation for performance
+that do not confer a benefit on the other party do not give rise to a
+restitution interest." Restatement (Second) of Contracts § 370 cmt. a
+(1977). Thus, because no benefit was conferred upon Lundy's, Hope's has
+no valid claim to restitution.
+
+III.Conclusion
+
+\[34\]After careful consideration of the facts and law, this Court holds
+that Hope's breached the contract in question. Therefore, defendant
+Lundy's was entitled to cancel its performance and defendant Bank IV was
+not obligated to pay Hope's under the statutory bond.
+
+\[35\]IT IS THEREFORE ORDERED that plaintiff's claims for relief are
+hereby denied, and judgment is entered in favor of defendants.
+
+---------
+
+764 Notes and Questions
+
+1.Re-read the first paragraph of the opinion. As it indicates,
+situations very similar to that presented by the case are likely to come
+up in your practice.
+
+2.What would have been the effect of the October 14 letter discussed in
+paragraph 7 if: (a) the contract did not require Hope's to meet those
+deadlines or (b) the contract did require Hope's to meet them?
+
+---------
+
+Problem 26-1
+
+Grower had a contract to deliver carrots to Soup Company for \$300 a
+ton. Because of a drought, Grower's crop was much smaller than usual. He
+still had enough carrots to perform his contract with Soup Company, but
+he didn't have many left over to sell on the open market. As a result,
+it looked as if he was going to suffer a loss for the year. Because of
+the drought, the market price for this type of carrot was \$450 a ton.
+If he could sell the carrots for \$450 a ton, he could make enough of a
+profit to keep his daughter in law school. He consulted with his
+daughter, who told him that the doctrine of impracticability relieved
+him of his obligations under the contract. Unfortunately, the daughter
+was wrong when she told her father he could get out of the contract on
+the basis of impracticability.
+
+Grower called Soup Company's purchasing manager and told her that "on
+advice of counsel," he didn't have to perform, and he wouldn't perform
+if she didn't agree to amend the contract to raise the price to \$400 a
+ton. The purchasing manager told him, "We expect your carrots to be
+delivered in accordance with our contract. If not, we'll see you in
+court."
+
+(a)Did Grower's threat constitute a repudiation?
+
+(b)Does Soup Company have to take steps to mitigate its damages, or can
+it just wait to see if Grower delivers his carrots? See U.C.C. § 2--610.
+
+(c)If there are no further communications between Grower and Soup
+Company and Grower delivers the carrots the day before the last day for
+performance under the contract, can Soup Company refuse to accept them?
+See U.C.C. § 2--611.
+
+(d)If the purchasing manager decided that Grower probably wasn't going
+to perform and purchased substitute carrots from a farm in Brazil, is
+there any need to give Grower notice of this fact?
+
+1\[A motion in arrest of judgment was a motion to stay a judgment on the
+ground that it was clear from the record that the judgment was
+wrong.---Eds.\]
+
+2\[\$20,385.28 in 1976 dollars is roughly the equivalent of \$90,000 in
+2019 dollars using the CPI and the GNP Deflator.---Eds.\]
+
+3UCC § 1--102(1) provides that the Code "shall be liberally construed
+and applied to promote its underlying purposes and policies" (Ill. Rev.
+Stats. ch. 26, § 1--102(1) (1975)). \[This provision is now section
+1--103(a). The language has been changed slightly.---Eds.\]
+
+4\[On a construction project, a person who supplies materials and is not
+paid is entitled to a materialman's lien on the property as security for
+any amounts owed it. If the property is owned by the government, the
+materialman's lien is not available. To give suppliers comparable
+protection, statutes provide that the contractor post a payment bond.
+This is in essence an insurance policy that assures that all of the
+materialmen will be paid. A materialman who is not paid has a cause of
+action against the issuer of the bond, which is why Bank IV is a
+defendant.---‍Eds.\]
+
+5\[\$55,000 in 1991 is roughly the equivalent of \$101,000 in 2019
+dollars using the CPI and the GNP Deflator.---Eds.\]
+
+6"Delivery" is defined by Black's Law Dictionary as "the act by which
+the res or substance thereof is placed within the actual or constructive
+possession or control of another . . . What constitutes delivery depends
+largely on the intent of the parties." Black's Law Dictionary 385 (5th
+ed. 1979). In this case, the parties bargained for more than mere
+shipment of the windows. Arvantinos testified that Hope's committed to
+delivering the windows to the job site between October 10 and October
+24. Thus, delivery was to occur under the parties' agreement when the
+windows arrived in Kansas City and were available for installation at
+the Rushton job site.

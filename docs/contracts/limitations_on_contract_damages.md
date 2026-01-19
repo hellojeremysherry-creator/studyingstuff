@@ -1,0 +1,1724 @@
+Chapter 19: Limitations on Contract Damages
+
+■ ■ ■
+
+The basic rules of expectancy damages for breach of contract are subject
+to three principal limitations: foreseeability, certainty, and
+avoidability. Under the foreseeability limitation, damages are
+disallowed unless they were foreseen or reasonably foreseeable to the
+parties at the time of contracting. This rule of foreseeability thus
+draws on the objective theory of contract to define and then respect the
+risk allocations that the parties reasonably and objectively made when
+they entered into the contract. If, for example, you know that my profit
+of \$1,000 depends on your delivery of a certain part to my Chicago
+customers in 24 hours and you undertake to provide overnight delivery
+without limiting or disclaiming liability for delay, you have probably
+assumed the risk and can be held to pay me my lost \$1,000 in profits
+should you breach and fail to deliver the part in a timely manner. If,
+on the other hand, you are not aware of the time-sensitive nature of the
+delivery, it is difficult to fairly charge you for those damages.
+
+The second limitation is certainty. It is considered unfair to award
+damages that are speculative, insofar as one is entitled to the benefit
+one would have received for one's bargain---not the benefit one might
+have received. Certainty, however, is a relative term that does not
+require absolute certainty, just reasonable certainty. Further,
+uncertainty is generally part of the defense's burden and, if unable to
+carry this burden, the plaintiff's initial proof of the expectancy
+interest will carry the day.
+
+Finally, there is the limit of avoidability. Put another way, there is a
+duty on the part of the non-breaching party to behave reasonably and
+minimize damages. This is just good policy, as providing an incentive to
+minimize loss is more efficient than maximizing it, no matter who must
+bear the burden of compensation.
+
+The cases in this chapter explore the parameters of these limiting
+doctrines on expectancy damages.
+
+p\. 534 A.FORESEEABILITY
+
+Hadley v. Baxendale
+
+Court of Exchequer 9 Ex. 341 (1854)
+
+\[1\]At the trial before Crompton, J., at the last Gloucester Assizes,
+it appeared that the plaintiffs carried on an extensive business as
+millers at Gloucester; and that, on the 11th of May, their mill was
+stopped by a breakage of the crank shaft by which the mill was worked.
+The steam-engine was manufactured by Messrs. Joyce & Co., the engineers,
+at Greenwich, and it became necessary to send the shaft as a pattern for
+a new one to Greenwich. The fracture was discovered on the 12th, and on
+the 13th, the plaintiffs sent one of their servants to the office of the
+defendants, who are the well known carriers trading under the name of
+Pickford & Co., for the purpose of having the shaft carried to
+Greenwich. The plaintiff's servant told the clerk that the mill was
+stopped, and that the shaft must be sent immediately; and in answer to
+the inquiry when the shaft would be taken, the answer was, that if it
+was sent up by twelve o'clock any day, it would be delivered at
+Greenwich on the following day. On the following day the shaft was taken
+by the defendants, before noon, for the purpose of being conveyed to
+Greenwich, and the sum of 2£. 4s. was paid for its carriage for the
+whole distance; at the same time the defendant's clerk was told that a
+special entry, if required, should be made to hasten its delivery. The
+delivery of the shaft at Greenwich was delayed by some neglect; and the
+consequence was, that the plaintiffs did not receive the new shaft for
+several days after they would otherwise have done, and the working of
+their mill was thereby delayed and they thereby lost the profits they
+would otherwise have received.
+
+\[2\]\[The defendants\] object that these damages were too remote, and
+that the defendants were not liable with respect to them. The learned
+Judge left the case generally to the jury, who found a verdict with 25£
+damages beyond the amount paid into Court.
+
+\[3\]Whateley, in last Michaelmas Term, obtained a rule nisi for a new
+trial, on the ground of misdirection.
+
+\[4\]Keating and Dowdeswell (Feb. 1) showed cause.---The plaintiffs are
+entitled to the amount awarded by the jury as damages. These damages are
+not too remote, for they are not only the natural and necessary
+consequence of the defendants' default, but they are the only loss which
+the plaintiffs have actually sustained. The principle upon which damages
+are assessed is founded upon that of rendering compensation to the
+injured p. 535 party . . . \[PARKE, B.1---The sensible rule appears to
+be that which has been laid down in France, and which is declared in
+their code \[and\] translated in Sedgwick: "The damages due to the
+creditor consist in general of the loss that he has sustained, and the
+profit which he has been prevented from acquiring . . . The debtor is
+only liable for the damages foreseen, or which might have been foreseen,
+at the time of the execution of the contract, when it is not owing to
+his fraud that the agreement has been violated. Even in the case of
+nonperformance of the contract, resulting from the fraud of the debtor,
+the damages only comprise so much of the loss sustained by the creditor,
+and so much of the profit which he has been prevented from acquiring, as
+directly and immediately results from the non-performance of the
+contract."\] If that rule is to be adopted, there was ample evidence in
+the present case of the defendants' knowledge of such a state of things
+as would necessarily result in the damage of the plaintiffs suffered
+through the defendant's default. . . .
+
+\[5\]Alderson, B. We think that there ought to be a new trial in this
+case; but in so doing, we deem it to be expedient and necessary to state
+explicitly the rule which the Judge, at the next trial, ought, in our
+opinion, to direct the jury to be governed by when they estimate the
+damages. It is, indeed, of the last importance that we should do this;
+for if the jury are left without any definite rule to guide them, it
+will, in such cases as these, manifestly lead to the greatest injustice
+. . .
+
+\[6\]Now we think the proper rule in such a case as the present is
+this:---Where two parties have made a contract which one of them has
+broken, the damages which the other party ought to receive in respect of
+such breach of contract should be such as may fairly and reasonably be
+considered either arising naturally, i.e., according to the usual course
+of things, from such breach of contract itself, or such as may
+reasonably be supposed to have been in the contemplation of both
+parties, at the time they made the contract, as the probable result of
+the breach of it. Now, if the special circumstances under which the
+contract was actually made were communicated by the plaintiffs to the
+defendants, and thus known to both parties, the damages resulting from
+the breach of such a contract, which they would reasonably contemplate,
+would be the amount of injury which would ordinarily follow from a
+breach of contract under these special circumstances so known and
+communicated. But, on the other hand, if these special circumstances
+were wholly unknown to the party breaking the contract, he, at the most,
+could only be supposed to have had in his contemplation the amount of
+injury which would arise generally, and in the great multitude of cases
+not affected by any special circumstances, from such a breach of
+contract. For, had the special circumstances been known, p. 536 the
+parties might have specially provided for the breach of contract by
+special terms as to the damages in that case; and of this advantage it
+would be very unjust to deprive them. Now the above principles are those
+by which we think the jury ought to be guided in estimating the damages
+arising out of any breach of contract. It is said, that other cases such
+as breaches of contract in the nonpayment of money, or in the not making
+a good title to land, are to be treated as exceptions from this, and as
+governed by a conventional rule. But as, in such cases, both parties
+must be supposed to be cognizant of that well-known rule, these cases
+may, we think be more properly classed under the rule above enunciated
+as to cases under known special circumstances, because there both
+parties may reasonably be presumed to contemplate the estimation of the
+amount of damages according to the conventional rule.
+
+\[7\]Now, in the present case, if we are to apply the principles above
+laid down, we find that the only circumstances here communicated by the
+plaintiffs to the defendants at the time the contract was made, were,
+that the article to be carried was the broken shaft of a mill, and that
+the plaintiffs were the millers of that mill. But how do these
+circumstances show reasonably that the profits of the mill must be
+stopped by an unreasonable delay in the delivery of the broken shaft by
+the carrier to the third person? Suppose the plaintiffs had another
+shaft in their possession put up or putting up at the time, and that
+they only wished to send back the broken shaft to the engineer who made
+it; it is clear that this would be quite consistent with the above
+circumstances, and yet the unreasonable delay in the delivery would have
+no effect upon the intermediate profits of the mill. Or, again, suppose,
+that, at the time of the delivery to the carrier, the machinery of the
+mill had been in other respects defective, then, also, the same results
+would follow. Here it is true that the shaft was actually sent back to
+serve as a model for a new one, and that the want of a new one was the
+only cause of the stoppage of the mill, and that the loss of profits
+really arose from the delay in delivering the broken one to serve as a
+model. But it is obvious that, in the great multitude of cases of
+millers sending off broken shafts to third persons by a carrier under
+ordinary circumstances, such consequences would not, in all probability,
+have occurred; and these special circumstances were here never
+communicated by the plaintiffs to the defendants. It follows, therefore,
+that the loss of profits here cannot reasonably be considered such a
+consequence of the breach of contract as could have been fairly and
+reasonably contemplated by both the parties when they made this
+contract. For such loss would neither have flowed naturally from the
+breach of this contract in the great multitude of such cases occurring
+under ordinary circumstances, nor were the special circumstances, which,
+perhaps, would have made it a reasonable and natural consequence of such
+breach of contract, communicated to or known by the defendants. The
+Judge ought, therefore, to have told the jury that, upon the facts then
+before them, they ought not to take the loss of profits p. 537 into
+consideration at all in estimating the damages. There must therefore be
+a new trial in this case.
+
+Rule absolute.
+
+---------
+
+Notes and Questions
+
+The foreseeability limitation of Hadley v. Baxendale is found in section
+351 of the R2d and article 7.4.4 of the UNIDROIT Principles. One is
+phrased in the negative, the other in the positive. Apart from this, is
+the standard that is expressed the same? Is there a difference in
+meaning caused by stating the standard in the positive or the negative?
+
+---------
+
+Marquette Cement Manufacturing v. Louisville & Nashville R.R.
+
+United States District Court, Eastern District, Tennessee 281 F. Supp.
+944 (1967)
+
+Wilson, District Judge.
+
+\[Marquette Cement sold cement to Vulcan Materials. Vulcan had two
+divisions: Rock Products, which made Ready-Mix concrete and Concrete
+Pipe, which made Concrete Pipe. Concrete Pipe always purchased
+air-entrained cement and Rock Products never did. Rock Products added
+its own air to specification after it received the cement. Because of a
+mistake by a railroad clerk, a carload of air-entrained cement intended
+for the Concrete Pipe Division was routed to the Rock Products
+Division.---‍Eds.\]
+
+\[1\]The carload of "air-entrained" cement was delivered to the Rock
+Products Division and was used by it in its ready-mix cement plant. At
+the time Rock Products Division had under order from Marquette more than
+one carload of cement. However, Rock Products Division did not expect to
+receive "air-entrained" cement and it is not possible to determine
+merely from appearance whether cement already contains an air-entraining
+agent or not. Accordingly, the Rock Products Division added an
+air-entraining agent to the cement after it had been unloaded and before
+receiving the notice of delivery from the L & N Railroad which would
+show that the cement was already air-entrained. On March 31st the cement
+was processed by Rock Products Division and delivered to certain job
+sites in and around Chattanooga. The majority of it went to the
+construction site of the Calsted Nursing Home in Chattanooga to be used
+by the H. E. Collins Contracting Company in the structural floor system
+thereof. Another portion of the concrete went to the J. C. Miller
+Construction Company for the purpose of constructing a small cement
+floor in a garage. The concrete p. 538 used in both of these jobs showed
+deficiencies and it was necessary that the same be removed in each
+instance.
+
+\[2\]The bill of lading showed that the cement was air-entrained, but
+the train clerk at the L & N who re-routed the shipment from Concrete
+Pipe to Rock Products had not noted that the cement was air-entrained,
+and in fact was uninformed as to what the designation meant. He was
+likewise uninformed as to what use the Vulcan Materials Company made of
+the concrete it received at either of its two divisions or as to any
+difference in the concrete received at the two divisions.
+
+\[3\]The value of the carload of cement was \$1,408.16 and the freight
+charges amounted to \$91.10. The cost to the plaintiffs for replacing
+the Calsted Nursing Home floor slab was \$9,558.30 and the cost of
+replacing the floor slab in the garage was \$167.00. The plaintiffs
+incurred additional costs of \$197.00 to a concrete testing laboratory.
+The plaintiffs seek to recover damages in the total sum of \$11,416.56,2
+being the total of the above items of cost, plus interest.
+
+\[4\]First, there can be no doubt that the defendant is liable unto the
+plaintiffs for breach of contract by virtue of its misdelivery of the
+carload of cement. It was the duty of the carrier to deliver the freight
+at the destination designated in the contract of shipment. The error in
+routing instructions would not relieve the carrier of the duty of making
+delivery to the destination designated on the bill of lading, nor permit
+the carrier to change the destination. The real question with which we
+are here concerned is the damages to which plaintiffs are entitled by
+virtue of the breach. Before discussing the rules governing the measure
+of damage in a breach of contract action for misdelivery, it is
+appropriate to consider the plaintiffs' alternate contention that a
+negligence action would also lie for misdelivery. No authority is cited
+by the plaintiff in support of its tort theory. While a contract may
+create a state of affairs in which a general duty arises the breach of
+which may constitute actionable negligence, negligence will not lie
+where the only duty breached is one created by contract. It is only
+where there is a breach of a general duty, even though it may arise out
+of a relationship created by contract, that breach of duty may
+constitute actionable negligence. Here the only duty breached was the
+duty to deliver under a contract of carriage. Accordingly, the Court
+need not consider the rules of law governing the measure of damage in a
+tort action.
+
+\[5\]Returning to the plaintiffs' claim for damage for breach of
+contract, the plaintiffs claim the following elements of damages: (1)
+the cost of shipping charges (\$91.10), (2) the value of the carload of
+air-entrained cement (\$1,408.16), (3) the cost of removing the
+adulterated concrete from p. 539 the construction sites (\$9,725.30),
+and (4) the cost of the tests performed by the laboratory (\$197.00).
+
+\[6\]The Court had occasion to examine the rules with respect to damages
+for breach of contract in the case of Clark v. Ferro Corp., 237 F.Supp.
+230 (D.C.Tenn., 1964). To summarize briefly the principles involved, the
+general purpose of the law is to place the plaintiff in the position he
+would have been in had the contract been fulfilled in accordance with
+its terms. More specifically, under the rule of Hadley v. Baxendale, 9
+Ex. 341, 156 Eng. Reprint 145, 5 Eng.Rul.Cas. 502 (1854), damages
+recoverable for breach of contract are (1) such as may fairly and
+reasonably be considered as arising in the usual course of events from
+the breach of the contract itself or (2) such as may reasonably be
+supposed to have been in the contemplation of the parties at the time
+they made the contract. This is the rule in Tennessee. The rule has been
+stated in terms of "foreseeability" in the Restatement of Contracts
+(Sec. 330):
+
+In awarding damages, compensation is given for only those injuries that
+the defendant had reason to foresee as a probable result of his breach
+when the contract was made. If the injury is one that follows the breach
+in the usual course of events, there is sufficient reason for the
+defendant to foresee it; otherwise it must be shown specifically that
+the defendant had reason to know the facts and to foresee the injury.
+
+\[7\]The statement providing for "special" or "consequential" damages is
+merely a further extension of "foreseeability." McCormick, in speaking
+of the rule of Hadley v. Baxendale, observes:
+
+This standard is in the main an objective one. It takes account of what
+the defendant who made the contract might then have foreseen as a
+reasonable man, in the light of the facts known to him, and does not
+confine the inquiry to what he actually did foresee. It the loss claimed
+is unusual, then it becomes necessary to ascertain whether the
+defaulting party was notified of the special circumstances'
+
+McCormick on Damages, p. 565, sec. 138.
+
+\[The court then discussed and rejected arguments that special rules,
+rather the common law rules of contract damages, should apply.---Eds.\]
+
+\[8\]There remains to be considered which of the elements of damage
+claimed by the plaintiff fall within the common law rules of damage for
+breach of contract. In this regard it would appear clear that the
+plaintiff would be entitled to recover any damages sustained by it which
+may fairly be supposed to have been within the contemplation of the
+parties at the time the contract was made. These would be such damages
+as might naturally be expected to follow the breach of contract and
+would include p. 540 the value of the shipment and the transportation
+charges paid thereon. Thus the plaintiff would be entitled to recover
+the sum of \$1,408.16 as the value of the shipment and the sum of
+\$91.10 as the cost of shipment paid.
+
+\[9\]With respect to the remaining items of damage claimed by the
+plaintiffs, that is the cost of testing and removing the defective
+concrete from construction sites, such damages may only be considered as
+special or consequential damages. With respect to their recovery the
+issue then arises as to whether the special circumstances giving rise to
+the damages were communicated to or known by the defendant at the time
+the contract of carriage was made. In order to recover special damages
+under the circumstances of this case, it must appear that at the time of
+the making of the contract of carriage the defendant had reasonable
+notice or knowledge of the special conditions rendering such damages the
+natural and probable result of the breach. The Court is of the opinion
+that the evidence does not establish such notice or knowledge upon the
+part of the defendant. It is true that the bill of lading did designate
+the shipment as "air-entrained cement." This information is not
+sufficient, however, to put the carrier on notice as to the use for
+which it was to be put. Nor was it sufficient to put the carrier on
+notice that an additional air-entraining agent would be added to the
+cement by the plaintiff, thereby rendering it unsuited for structural
+use. The notice here received by the carrier by the inclusion of the
+words "air-entrained cement" upon the bill of lading was not sufficient
+to render reasonably foreseeable the subsequent events which resulted in
+the expenses incurred by the plaintiff in testing and in removing the
+defective concrete. The defendant accordingly would not be liable for
+the sum of \$197.00 incurred by the plaintiff in having concrete tests
+performed nor the sum of \$9,725.30 incurred by the plaintiff in having
+defective concrete removed. The plaintiff would be entitled to recover
+the value of the shipment of cement and the shipping costs paid thereon,
+or the total sum of \$1,499.26.
+
+A judgment will enter accordingly.
+
+---------
+
+Stroh Brewery v. Grand Trunk Western R.R.
+
+United States District Court, Eastern District Michigan 513 F. Supp. 827
+(1981)
+
+Cook, Jr., Judge.
+
+Memorandum Opinion
+
+\[1\]This is an action for damages brought against a common carrier
+under the provisions of 49 U.S.C. § 20(11), which is often referred to
+as the Carmack Amendments. Plaintiff, The Stroh Brewery Company (Stroh),
+is an Arizona corporation which does business within the State of
+Michigan. p. 541 Grand Trunk Western Railroad Company (Grand Trunk), is
+a Michigan corporation which does business within the State of Michigan.
+
+\[2\]On or about September 14, 1976, a carload of "Stroh Bulk Type
+Malt," which had been ordered by Stroh from the Rahr Malting Company in
+Shakopee, Minnesota, was placed in hopper car number CNW 172379 (Stroh
+Malt Car) and shipped by rail to Detroit. The malt was to be delivered
+to Stroh at Greater Northern Feed, Inc. (Great Northern) which, in
+addition to being a wholly owned subsidiary, was Stroh's agent for
+taking delivery of railroad cars.
+
+\[3\]On or about September 9, 1976, a carload of barley, which had been
+ordered by Rickel Malting Company, Inc. (Rickel) from Fleischmann
+Malting Company, in Minneapolis, Minnesota, was placed in hopper car
+number CNW 173379 (Rickel Barley Car) and shipped by rail to Rickel.
+
+\[4\]Both cars were transferred to the Grand Trunk line in Chicago.
+Thereafter, they were transported to Grand Trunk's Farnsworth Siding in
+Detroit, Michigan, arriving on or about September 20, 1976. Farnsworth
+Siding has eight tracks upon which Grand Trunk stores railroad cars
+until delivery. The only "hopper cars" that were stored on the
+Farnsworth Siding were those cars which were scheduled for delivery to
+Stroh and Rickel.
+
+\[5\]Simultaneously with, or prior to, the arrival of the Stroh Malt Car
+and the Rickel Barley Car at Farnsworth Siding, Grand Trunk sent
+"Constructive Placement Notices" (which had been prepared from inbound
+billings) to Stroh and Rickel, informing them that their respective cars
+had arrived. (These inbound billings described the respective contents
+as "Bulk Stroh Type Malt" and "Bulk Barley.")
+
+\[6\]During the morning of September 21, 1976, Stroh called William
+Abbey, the Yardmaster of the Farnsworth Yard and an employee of Grand
+Trunk, and, according to the usual practices of these two parties,
+requested delivery of eight cars (six hopper cars and two empty boxcars)
+in a specific order at Great Northern. The Stroh Malt Car was included
+in that list of cars. Abbey transcribed the car numbers on his "Switch
+List" in the order, as requested by Stroh. In the afternoon of September
+21st, a copy of the "Switch List" was given to the switch crew (Joseph
+Lippai, John Wrubel, a third unknown individual and an engineer).
+Instead of delivering the Stroh Malt Car at Great Northern as requested,
+the switch crew mistakenly placed the Rickel Barley Car upon the Great
+Northern Siding for use and consumption by Stroh.
+
+\[7\]Although Great Northern had expected delivery of the Stroh Malt
+Car, its employees did not notice that the Rickel Barley Car had been
+delivered in its place. On Wednesday, September 22, 1976, Parrinello, a
+Stroh employee, was instructed to unload all of the cars. Stroh's
+standard procedures for unloading cars at Great Northern were as
+follows:
+
+p\. 542 Covered hopper cars of malt or grits are placed on GNFI (Great
+Northern Feed, Inc.) rail siding for unloading into malt and grit
+storage bins. Before unloading procedure begins, material is inspected
+in each compartment of each car. Car numbers are checked to ensure each
+car is placed on siding in sequence for unloading. Records are kept such
+as a "Daily Loading & Unloading" track sheet which the employees fill
+out as they unload cars, recording the seal numbers, card number and bin
+number. One sample is taken from each compartment and labeled
+appropriately as to the car number, date unloaded, supplier, type of
+material and compartment number.
+
+Deposition Exhibit 6.
+
+\[8\]At all times that are relevant hereto, Stroh had the correct car
+number on its business records. It had an opportunity to discover that
+(1) one of the cars bore the wrong car number and (2) the contents
+within the car was barley, not malt.
+
+\[9\]The content from the Rickel Barley Car was unloaded, transported to
+Stroh and placed into the brewing process where it was mixed with
+existing Rahr Malt, which resulted in the contamination of the Rahr Malt
+and the burning out of certain grinding engines due to the texture of
+the barley. All of the contaminated Rahr Malt had to be removed from the
+bin by vacuum, and the grinding engines were replaced. On September 24,
+1976, Stroh ultimately received the Stroh Malt Car. Stroh subsequently
+sold the contaminated malt-barley mixture as feed and paid Rickel for
+the value of the bulk barley.
+
+\[10\]At all times that are pertinent to this inquiry, including the
+time at which the contracts of carriage were executed, the Yardmaster
+and members of the switch crew who misdelivered the Rickel Barley Car to
+Stroh at Great Northern knew that (1) the only hopper cars that were
+stored in Farnsworth Yard were those which had been consigned to Stroh
+or Rickel, (2) the Rickel hopper cars contained only barley, (3) the
+Stroh hopper cars, which were scheduled for delivery at Great Northern,
+contained only malt or corn grits, (4) the only hopper cars at Great
+Northern which contained either malt or corn grits, were for use by
+Stroh, (5) Rahr, Ladisch, Shrot and Lauhoff were names of some of the
+manufacturers of the malt and corn grits, (6) all of the Stroh hopper
+cars had to be delivered in a specific order because of the different
+contents in the cars, (7) Great Northern had two unloading pits over
+which the hopper cars would be placed by Grand Trunk, (8) each car would
+be emptied into one of two pits and then, by means of a screw elevator,
+its contents would be placed in a separate above ground storage bin from
+which the malt or corn grits would be deposited in a truck for delivery
+to Stroh, (9) the malt and corn grits would be utilized in the process
+of brewing Stroh's beer, and p. 543 (10) the malt and corn grits would
+be returned wet to Great Northern after the brewing process as a
+byproduct ("spent grain Mash") where it would then be dried, blown into
+Grand Trunk boxcars and shipped to a specific designation.
+
+\[11\]Plaintiff has two claims for breach of contract against Defendant.
+The first contract of carriage involved the shipment of the Stroh Malt
+Car and the wrongful delivery of the Rickel Barley Car. Damages sought
+for this breach are for those out of pocket costs (e.g., the cost of the
+Rahr malt which was contaminated when mixed with the bulk barley; the
+cost of removing that mixture from brewing facility; the cost of the
+bulk barley delivered, less the amount received for the malt-barley
+mixture) which were allegedly caused by the misdelivery. Inasmuch as
+Stroh did receive the Stroh Malt Car, no claim has been made for the
+value of its contents.
+
+\[12\]The second breach of contract of carriage is based upon
+Defendant's alleged failure to deliver the Rickel Barley Car to Rickel.
+Damages for both claims amount to \$19,198.99.
+
+\[13\]The damages sought for the breach of the Stroh contract of
+carriage are considered special or consequential damages and must be
+decided upon the ability of a "reasonable man" to foresee the damages.
+The principles involved regarding the issue of "foreseeability" are
+aptly summarized in Marquette Cement Manufacturing Company v. Louisville
+and Nashville Railroad Company, 281 F.Supp. 944 (E.D. Tenn.1967):
+
+Under the rule of Hadley v. Baxendale, (1854) 9 Ex. 314, 156 Eng.
+Reprint 145, 5 Eng.Rul.Cas. 502, damages recoverable for breach of
+contract are (1) such as may fairly and reasonably be considered as
+arising in the usual course of events from the breach of the contract
+itself or (2) such as may reasonably be supposed to have been in the
+contemplation of the parties at the time they made the contract . . .
+The rule has been stated in terms of "foreseeability" in the Restatement
+of Contracts (Sec. 330):
+
+In awarding damages, compensation is given for only those injuries that
+the defendant had reason to foresee as a probable result of his breach
+when the contract was made. If the injury is one that follows the breach
+in the usual course of events, there is sufficient reason for the
+defendant to foresee it; otherwise it must be shown specifically that
+the defendant had reason to know the facts and to foresee the injury.
+
+The statement providing for "special" or "consequential" damages is
+merely a further extension of "foreseeability." McCormick, in speaking
+of the rule of Hadley v. Baxendale, observes:
+
+p\. 544 This standard is in the main an objective one. It takes account
+of what the defendant who made the contract might have foreseen as a
+reasonable man, in the light of the facts known to him, and does not
+confine the inquiry to what he actually did foresee. I(f) the loss
+claimed is unusual, then it becomes necessary to ascertain whether the
+defaulting party was notified of the special circumstances.
+
+McCormick on Damages, p. 565, sec. 138.
+
+\[14\]Defendant had vast experience in the hauling and the delivery of
+grain. It, through employees, knew the importance of the order in which
+the cars were to be delivered, and that Stroh received malt and corn
+grits for the purpose of making beer.
+
+\[15\]Thus, applying the Marquette principles to the instant cause, the
+Court is of the opinion that the damages, which resulted from the
+misdelivery of barley to Stroh, were reasonably foreseeable.
+
+\[16\]The reasonable foreseeableness that the mistake would not be
+caught is increased because of the similarities in the numbers on the
+cars and the similarities in the appearance of the contents within the
+cars.
+
+\[17\]Although it is clearly obvious that Plaintiff was not free from
+negligence, the Court disagrees with Defendant's position that the only
+foreseeable consequence which would normally arise from the misdelivery
+of the cars was that (1) Stroh would have discovered the wrong car and
+(2) rejected delivery, resulting in only a minor inconvenience to Stroh
+and Grand Trunk. The Court believes that implicit in such a defense is
+the admission that it was also foreseeable that the mistake would not be
+caught by Stroh.
+
+\[18\]The Court believes that the Marquette case, wherein the
+Plaintiffs' claims for special or consequential damages under the
+Carmack Amendment was not allowed by the Court, is similar to, but
+distinguishable from, the instant case. In Marquette, the plaintiff
+regularly sold and shipped cement to Vulcan Materials Company at its two
+separate Chattanooga plants. One of the plants manufactured ready-mix
+concrete while the other manufactured only concrete pipe. A carload of
+"air-entrained" cement, suitable only for utilization in making concrete
+pipe, was shipped by Marquette via a bill of lading consigning it to
+Vulcan's concrete pipe division. Due to an error in routing, the
+railroad misdelivered the carload of "air-entrained" cement, sending it
+to Chattanooga Rock Products, the ready-mix concrete division. The
+ready-mix concrete made from this cement was defective and had to be
+replaced. Chattanooga Rock Products and Marquette then brought suit
+against the railroad to recover the damages which resulted when the
+contents of the misdelivered shipment were used in the manufacturing
+process for which they were unsuited. The Court awarded the Plaintiff
+the value of the shipment and p. 545 the freight charges but refused to
+award any other damages. With regard to the special or consequential
+damages that were not awarded, the Court stated as follows:
+
+With respect to the remaining items of damage claimed by the plaintiffs,
+that is the cost of testing and removing the defective concrete from
+construction sites, such damages may only be considered as special or
+consequential damages. With respect to their recovery the issue then a
+rises as to whether the special circumstances giving rise to the damages
+were communicated to or known by the defendant at the time the contract
+of carriage was made. In order to recover special damages under the
+circumstances of this case, it must appear that at the time of the
+making of the contract of carriage the defendant had reasonable notice
+or knowledge of the special conditions rendering such damages the
+natural and probable result of the breach. The Court is of the opinion
+that the evidence does not establish such notice or knowledge upon the
+part of the defendant. It is true that the bill of lading did designate
+the shipment as "air-entrained cement." This information is not
+sufficient, however, to put the carrier on notice as to the use for
+which it was to be put. Nor was it sufficient to put the carrier on
+notice that an additional air-entraining agent would be added to the
+cement by the plaintiff, thereby rendering it unsuited for structural
+use. The notice here received by the carrier by the inclusion of the
+words "air-entrained cement" upon the bill of lading was not sufficient
+to render reasonably foreseeable the subsequent events which resulted in
+the expenses incurred by the plaintiff in testing and removing the
+defective concrete.
+
+At Pages 950, 951.
+
+\[19\]In Marquette, unlike the case at bar, the only knowledge or notice
+that the defendant had with regard to the operation of the plaintiffs,
+the shipment or its intended use was the bill of lading which include
+the words "air-entrained" cement:
+
+The bill of lading showed that the cement was air-entrained, but the
+train clerk at the L & N who rerouted the shipment from Concrete Pipe to
+Rock Products had not noted that the cement was air-entrained, and in
+fact was uninformed as to what the designation meant. He was likewise
+uninformed as to what use the Vulcan Materials Company made of the
+concrete it received at either of its two divisions or as to any
+difference in the concrete received at the two divisions.
+
+\[20\]In the instant case, Defendant had that much knowledge and more.
+It is not necessary that Defendant have detailed knowledge of the p. 546
+damages incurred. On the other hand, it is sufficient that Defendant
+possess sufficient notice of the facts and circumstances which would
+render damages probable.
+
+\[21\]In L. E. Whitlock Truck Service, Inc. v. Regal Drilling Company,
+supra, the Court affirmed an Order of the district court which granted
+an award of special damages of lost profits for delay in delivery. In
+that case, an oil rig was being transported by a carrier who specialized
+in, and was experienced in, hauling oil rigs. The carrier knew it was
+the shipper's only oil rig. In finding for the shipper, the Court
+reasoned as follows:
+
+There is adequate testimony in the record to support the award of
+special damages. The appellant specialized in and was experienced in the
+hauling of oil well equipment and was aware of the importance of time to
+those engaged in the drilling business. There is adequate evidence in
+the record to support the finding that the appellant knew of the need
+and the importance to the appellee of delivery of the rig on time and of
+damages which would result in the event appellee did not have the use of
+it. The appellant knew that the appellee had only the one drilling rig.
+Thus the appellant knew the circumstances upon which the special damages
+here awarded are based.
+
+At Page 492.
+
+\[22\]Based upon the foregoing analysis, it is, therefore, ordered that
+Stroh shall be, and is, allowed to recover the sum of \$19,198.993 from
+Grand Trunk for the breach of the Stroh and Rickel contracts of
+carriage.
+
+\[23\]The foregoing constitutes the Court's findings of fact and
+conclusions of law as required by Fed. R. Civ. P. 52.
+
+---------
+
+Notes and Questions
+
+Stroh Brewery Company was founded in 1949 and closed down after a
+50-year run in 1999. In 1996, it had about 10% of the United States beer
+market, producing its own brands like Stroh's, Augsburger, and Northern
+Plains, and serving as a contract brewer for August Brewery, Boston Beer
+Company, Fischer Brewing, and Pete's Brewing Company.
+
+---------
+
+p\. 547 Linc Equipment Services v. Signal Medical Services
+
+United States Court of Appeals, Seventh Circuit 319 F.3d 288 (2003)
+
+Easterbrook, Circuit Judge.
+
+\[1\]Signal Medical leased from Linc Equipment a mobile magnetic
+resonance imager (MRI), an expensive device that had a monthly net
+rental in the \$30,000 range. (The "net" signifies that Signal covered
+expenses, including insurance and taxes, on top of the \$30,000.) Signal
+promised to return the MRI at the end of the lease in good condition,
+less normal wear and tear. Signal, which like Linc is a merchant in the
+business of renting medical equipment, subleased this MRI to a hospital,
+which later returned the machine directly to Linc. Unfortunately, the
+MRI was left on during transit, which damaged the magnet and required
+the machine to be taken out of service for 10 months while it was
+repaired. The repairs, which cost about \$130,000, were paid for by the
+insurance carrier. Linc sued in state court both Signal and the firm
+that handled the machine's transportation; the insurer intervened to
+make a third-party claim in subrogation against Signal.
+
+\[2\]After the parties agreed to a bench trial, the district judge
+tackled damages ahead of the merits. The judge assumed that Signal is
+responsible for any harm to the MRI and held a hearing to explore the
+question whether it is liable for consequential damages (repair costs
+already having been resolved). As the judge understood Illinois law,
+which the parties agree governs, consequential damages may be awarded
+only if the signatories "expressly contemplated" them. The contract does
+not in so many words entitle Linc to consequential damages, and at the
+evidentiary hearing the persons who negotiated the lease testified that
+they had not discussed or thought about this subject. As a result, the
+judge concluded, consequential damages could not have been "expressly
+contemplated." This finding led to judgment on the merits in Signal's
+favor.
+
+\[3\]We doubt that Illinois requires "express contemplation" of
+consequential damages---or that, if it does, this phrase implies a
+subjective as opposed to an objective inquiry. Although the district
+judge and the parties did not mention it, Hadley v. Baxendale, 9 Ex.
+341, 156 Eng. Rep. 145 (1854), remains the dominant source of law on the
+recovery of consequential damages for breach of contract, and we have
+held that Illinois follows Hadley's approach. What Hadley holds is that
+a consequential loss is compensable only if "reasonably foreseeable,"
+not that it must be "expressly contemplated." Although the phrase
+"expressly contemplated" crops up in some Illinois cases, that state's
+judiciary has explained that it is used as a synonym for foreseeability.
+Signal, which like Linc was a merchant in the medical-equipment-rental
+business, reasonably could have foreseen that return of the MRI in bad
+condition would cost Linc p. 548 rental revenue while it was being
+repaired. That the lease excluded consequential damages in an action by
+Signal, but not in an action by Linc, shows that the parties must have
+understood this possibility.
+
+\[4\]What is more, it is hard to see why income lost because of
+inability to rent a chattel should be classified as "consequential"
+damages at all. Lost rental value is a direct outcome of the broken
+promise and does not depend on the details of Linc's business or any
+idiosyncratic way that Linc would employ the MRI---things that Signal
+might not know and therefore could not consider when deciding how much
+care to take with Linc's machine. To see this, suppose that Linc wanted
+to sell rather than rent the MRI immediately after its return from
+Signal's customer. The selling price of a MRI depends on expected net
+income (rental or billings to patients, less costs), plus scrap value at
+the end of its economically useful life, all discounted to present
+value. Suppose that this MRI in good condition would have had 60 months
+of service remaining before becoming obsolete. The same machine, with
+the damage actually sustained, would have had only 50 months' service
+remaining (deferred for 10 months) and required a \$130,000 capital
+investment to repair. It therefore would have sold for less than the
+same machine in operable condition. The difference between what the MRI
+would have fetched in a sale immediately after its return in damaged
+condition, and what it could have been sold for had Signal kept its
+promise to return it in good condition, is the real economic loss caused
+by transporting the machine with the magnet on. It fits nicely within
+standard measures of damages in contract cases. See generally E. Allan
+Farnsworth, III Farnsworth on Contracts § 12.9 (2d ed. 1990).
+
+\[5\]Because the market price of rental equipment capitalizes the
+expected rental stream---not only reducing cash flows to present value
+but also taking into account the probability that some months will not
+fetch rentals, when machines are between customers or demand is
+slack---it would be double counting to award a lessor anything extra for
+lost rental income. Consider what should happen if one of Hertz's
+customers has an accident and the car must be taken out of the fleet for
+a month while being repaired. Would Hertz recover not only the cost of
+repair (say, \$1,000) but also the \$50 daily rental during that month
+(\$50 x 30 = \$1,500)? Such a measure frequently would overcompensate
+the lessor. If the accident caused the value of the used car to decline
+by, say, \$1,500 (from \$15,000 in good condition to \$13,500 with
+repairs pending), Hertz could sell the damaged car for \$13,500, invest
+an extra \$1,500, buy a used car equal in value to the one it expected
+to receive at the end of the rental, and rent that car for \$50 per day.
+Its full loss would be \$1,500 (the difference in resale prices); if
+Hertz neglected to cover in the market, and instead claimed a loss of
+\$2,500, it would be met with the defense that it had failed to mitigate
+damages. Just so with Linc. If it had a ready market for MRI machines,
+it could have covered when it learned of the problem and leased out the
+newly p. 549 purchased machine; then its full loss would have been the
+difference between the cost of cover and the amount it could have
+realized when selling the damaged machine.
+
+\[6\]One must consider as well the possibility that MRI machines have
+lives that depend on accumulated use (wear and tear) rather than
+technological obsolescence. In that event, taking the machine out of
+service did not cost Linc ten months' rental but only postponed its
+receipt. Then damages would be limited to the time value of money (that
+is, to interest on the deferral of income). The magnet's rebuilding
+might even have extended the machine's useful life. All of this is
+captured automatically in the difference between the sale prices of
+sound and damaged MRI devices, which makes this calculation preferable
+to judicial attempts to determine how likely it was that a particular
+machine would have been rented during these particular months, what its
+expected useful life may have been, and so on. Best to take advantage of
+market prices that reflect this information, rather than try to generate
+the information on the witness stand. We know that this MRI was sold for
+\$475,000 immediately after the repairs were completed; such a price for
+a fully functional MRI, with many future months of rental in store,
+strongly implies that \$300,0004 would be an excessive award for the
+loss of 10 months' use.
+
+\[7\]So the district court was right to conclude that Linc is not
+entitled to damages measured by the monthly rental times the number of
+months required for repair, but wrong to think that the cost of making
+repairs sets a cap on damages. The judgment is vacated, and the case is
+remanded for further proceedings consistent with this opinion.
+
+---------
+
+Problem 19-1
+
+Precision Sound, Inc. ("Seller") enters into a contract to sell an item
+of recording equipment to Solid Gold Recording Studios ("Buyer"). A few
+days later, Seller learns that Buyer needs this piece of equipment in
+order to fulfill its obligations under a major contract. Seller had no
+reason to foresee this at the time the contract was made. Shortly after
+learning this fact, Seller's general manager places the order for the
+equipment with the manufacturer. He makes a mistake in filling out the
+order form, and the manufacturer ships the wrong equipment. By the time
+the mistake has been rectified, the time for Seller to deliver the
+equipment to Buyer has passed and Buyer has lost the big contract. Can
+Buyer recover damages resulting from the loss of the contract? What is
+the policy behind this result?
+
+---------
+
+p\. 550 B.CERTAINTY
+
+Chicago Coliseum Club v. Dempsey
+
+Court of Appeals of Illinois 265 Ill. App. 542 (1932)
+
+Mr. Justice Wilson delivered the opinion of the court.
+
+\[1\]Chicago Coliseum Club, a corporation, as plaintiff, brought its
+action against William Harrison Dempsey, to recover damages for breach
+of a written contract executed March 13, 1926, but bearing date of March
+6 of that year.
+
+\[2\]Plaintiff was incorporated as an Illinois corporation for the
+promotion of general pleasure and athletic purposes and to conduct
+boxing, sparring and wrestling matches and exhibitions for prizes or
+purses. The defendant William Harrison Dempsey was well known in the
+pugilistic world and, at the time of the making and execution of the
+contract in question, held the title of world's Champion Heavy Weight
+Boxer.
+
+\[3\]Under the terms of the written agreement, the plaintiff was to
+promote a public boxing exhibition in Chicago or some suitable place to
+be selected by the promoter, and had engaged the services of one Harry
+Wills, another well known boxer and pugilist, to engage in a boxing
+match with the defendant Dempsey for the championship of the world. By
+the terms of the agreement Dempsey was to receive \$10, receipt of which
+was acknowledged, and the plaintiff further agreed to pay to Dempsey the
+sum of \$30,000 on the 5th day of August 1926---\$500,000 in cash at
+least 10 days before the date fixed for the contest, and a sum equal to
+50 per cent of the net profits over and above the sum \$2,000,000 in the
+event the gate receipts should exceed that amount. In addition the
+defendant was to receive 50 per cent of the net revenue derived from
+moving picture concessions or royalties received by the plaintiff, and
+defendant agreed to have his life and health insured in favor of the
+plaintiff in a manner and at a place to be designated by the plaintiff.
+Defendant further agreed not to engage in any boxing match after the
+date of the agreement and prior to the date on which the contest was to
+be held. Certain agreements previously entered into by the defendant
+with one Floyd Fitzsimmons for a Dempsey-Wills boxing match were
+declared to be void and of no force and effect. Certain other mutual
+agreements were contained in the written contract which are not
+necessary in a consideration of this case.
+
+\[4\]March 6, 1926, the plaintiff entered into an agreement with Harry
+Wills, in which Wills agreed to engage in a boxing match with the Jack
+Dempsey named in the agreement hereinbefore referred to. Under this
+agreement the plaintiff, Chicago Coliseum Club was to deposit \$50,000
+in escrow in the National City Bank of New York City, New York, to be
+paid over to Wills on the 10th day prior to the date fixed for the
+holding of the p. 551 boxing contest. Further conditions were provided
+in said contract with Wills, which, however, are not necessary to set
+out in detail. There is no evidence in the record showing that the
+\$50,0005 was deposited nor that it has ever been paid, nor is there any
+evidence in the record showing the financial standing of the Chicago
+Coliseum Club, a corporation, plaintiff in this suit. This contract
+between the plaintiff and Wills appears to have been entered into
+several days before the contract with Dempsey.
+
+\[5\]March 8, 1926, the plaintiff entered into a contract with one
+Andrew C. Weisberg, under which it appears that it was necessary for the
+plaintiff to have the services of an experienced person skilled in
+promoting boxing exhibitions and that the said Weisberg was possessed of
+such qualifications and that it was necessary for the plaintiff to
+procure his help in the promoting of the exhibition. It appears further
+from the agreement that it was necessary to incur expenditures in the
+way of traveling expenses, legal services and other costs in and about
+the promotion of the boxing match, and Weisberg agreed to investigate,
+canvass and organize the various hotel associations and other business
+organizations for the purpose of securing accommodations for spectators
+and to procure subscriptions and contributions from such hotels and
+associations and others for the erection of an arena and other necessary
+expense in order to carry out the enterprise and to promote the boxing
+match in question. Under these agreements Weisberg was to furnish the
+funds for such purposes and was to be reimbursed out of the receipts
+from the sale of tickets for the expenses incurred by him, together with
+a certain amount for his services.
+
+\[6\]Both the Wills contract and the Weisberg contract are referred to
+at some length, inasmuch as claims for damages by plaintiff are
+predicated upon these two agreements. Under the terms of the contract
+between the plaintiff and Dempsey and the plaintiff and Wills, the
+contest was to be held during the month of September, 1926.
+
+\[7\]July 10, 1926, plaintiff wired Dempsey at Colorado Springs,
+Colorado, stating that representatives of life and accident insurance
+companies would call on him for the purpose of examining him for
+insurance in favor of the Chicago Coliseum Club, in accordance with the
+terms of his contract, and also requesting the defendant to begin
+training for the contest not later than August 1, 1926. In answer to
+this communication plaintiff received a telegram from Dempsey, as
+follows:
+
+BM Colorado Springs Colo B. E. Clements July 10th 1926
+
+President Chicago Coliseum Club Chgo Entirely too busy training for my
+coming Tunney match to waste time on insurance p. 552 representatives
+stop as you have no contract suggest you stop kidding yourself and me
+also.
+
+Jack Dempsey
+
+\[8\]We are unable to conceive upon what theory the defendant could
+contend that there was no contract, as it appears to be admitted in the
+proceeding here and bears his signature and the amounts involved are
+sufficiently large to have created a rather lasting impression on the
+mind of anyone signing such an agreement. It amounts, however, to a
+repudiation of the agreement and from that time on Dempsey refused to
+take any steps to carry out his undertaking. It appears that Dempsey at
+this time was engaged in preparing himself for a contest with Tunney to
+be held at Philadelphia, Pennsylvania, sometime in September, and on
+August 3, 1926, plaintiff, as complainant, filed a bill in the superior
+court of Marion county, Indiana, asking to have Dempsey restrained and
+enjoined from engaging in the contest with Tunney, which complainant was
+informed and believed was to be held on the 16th day of September, and
+which contest would be in violation of the terms of the agreement
+entered into between the plaintiff and defendant at Los Angeles, March
+13, 1926.
+
+\[9\]Personal service was had upon the defendant Dempsey in the
+proceeding in the Indiana court and on August 27, 1926, he entered his
+general appearance, by his attorneys, and filed his answer in said
+cause. September 13, 1926, a decree was entered in the superior court of
+Marion county, finding that the contract was a valid and subsisting
+contract between the parties, and that the complainant had expended
+large sums of money in carrying out the terms of the agreement, and
+entering a decree that Dempsey be perpetually restrained and enjoined
+from in any way, wise, or manner, training or preparing for or
+participating in any contracts or engagements in furtherance of any
+boxing match, prize fight or any exhibition of like nature, and
+particularly from engaging or entering into any boxing match with one
+Gene Tunney, or with any person other than the one designated by
+plaintiff.
+
+\[10\]It is insisted among other things that the costs incurred by the
+plaintiff in procuring the injunctional order in Marion county, Indiana,
+were properly chargeable against Dempsey for his breach of contract and
+recoverable in this proceeding. Under the evidence in the record in this
+proceeding there appears to have been a valid subsisting agreement
+between the plaintiff and Dempsey, in which Dempsey was to perform
+according to the terms of the agreement and which he refused to do, and
+the plaintiff, as a matter of law, was entitled at least to nominal
+damages. For this reason, if for no other, judgment should have been for
+the plaintiff.
+
+\[11\]During the proceeding in the circuit court of this county it was
+sought to introduce evidence for the purpose of showing damages, other
+p. 553 than nominal damages, and in view of the fact that the case has
+to be retried, this court is asked to consider the various items of
+expense claimed to have been incurred and various offers of proof made
+to establish damages for breach of the agreement. Under the proof
+offered, the question of damages naturally divides itself into the four
+following propositions:
+
+1st.Loss of profits which would have been derived by the plaintiff in
+the event of the holding of the contest in question;
+
+2nd.Expenses incurred by the plaintiff prior to the signing of the
+agreement between the plaintiff and Dempsey;
+
+3rd.Expenses incurred in attempting to restrain the defendant from
+engaging in other contests and to force him into a compliance with the
+terms of his agreement with the plaintiff; and
+
+4th.Expenses incurred after the signing of the agreement and before the
+breach of July 10, 1926.
+
+\[12\]Proposition 1. Plaintiff offered to prove by one Mullins that a
+boxing exhibition between Dempsey and Wills held in the City of Chicago
+on September 22, 1926, would bring a gross receipt of \$3,000,000, and
+that the expense incurred would be \$1,400,000, leaving a net profit to
+the promoter of \$1,600,000. The court properly sustained an objection
+to this testimony. The character of the undertaking was such that it
+would be impossible to produce evidence of a probative character
+sufficient to establish any amount which could be reasonably
+ascertainable by reason of the character of the undertaking. The profits
+from a boxing contest of this character, open to the public, is
+dependent upon so many different circumstances that they are not
+susceptible of definite legal determination. The success or failure of
+such an undertaking depends largely upon the ability of the promoters,
+the reputation of the contestants and the conditions of the weather at
+and prior to the holding of the contest, the accessibility of the place,
+the extent of the publicity, the possibility of other and counter
+attractions and many other questions which would enter into
+consideration. Such an entertainment lacks utterly the element of
+stability which exists in regular organized business. This fact was
+practically admitted by the plaintiff by the allegation of its bill
+filed in the Marion county court of Indiana asking for an injunction
+against Dempsey. Plaintiff in its bill in that proceeding charged, as
+follows:
+
+\[13\]"That by virtue of the premises aforesaid, the plaintiff will,
+unless it secures the injunctive relief herein prayed for, suffer great
+and irreparable injury and damages, not compensable by any action at law
+in damages, the damages being incapable of commensuration, and
+plaintiff, therefore, has no adequate remedy at law."
+
+\[14\]Compensation for damages for a breach of contract must be
+established by evidence from which a court or jury are able to ascertain
+the p. 554 extent of such damages by the usual rules of evidence and to
+a reasonable degree of certainly. We are of the opinion that the
+performance in question is not susceptible of proof sufficient to
+satisfy the requirements and that the damages, if any, are purely
+speculative.
+
+\[15\]Proposition 2: Expenses incurred by the plaintiff prior to the
+signing of the agreement between the plaintiff and Dempsey.
+
+\[16\]The general rule is that in an action for a breach of contract a
+party can recover only on damages which naturally flow from and are the
+result of the act complained of. The Wills contract was entered into
+prior to the contract with the defendant and was not made contingent
+upon the plaintiff's obtaining a similar agreement with the defendant
+Dempsey. Under the circumstances the plaintiff speculated as to the
+result of his efforts to procure the Dempsey contract. It may be argued
+that there had been negotiations pending between plaintiff and Dempsey
+which clearly indicated an agreement between them, but the agreement in
+fact was never consummated until sometime later. The action is based
+upon the written agreement which was entered into in Los Angeles. Any
+obligations assumed by the plaintiff prior to that time are not
+chargeable to the defendant. Moreover, an examination of the record
+discloses that the \$50,000 named in the contract with Wills, which was
+to be payable upon a signing of the agreement, was not and never has
+been paid. There is no evidence in the record showing that the plaintiff
+is responsible financially, and, even though there were, we consider
+that it is not an element of damage which can be recovered for breach of
+the contract in question.
+
+\[17\]Proposition 3: Expenses incurred in attempting to restrain the
+defendant from engaging in other contests and to force him into a
+compliance with the terms of his agreement with the plaintiff.
+
+\[18\]After the repudiation of the agreement by the defendant, plaintiff
+was advised of defendant's match with Tunney which, from the evidence,
+it appears, was to take place in Philadelphia in the month of September
+and was in direct conflict with the terms of the agreement entered into
+between plaintiff and defendant. Plaintiff's bill, filed in the superior
+court of Marion county, Indiana, was an effort on the part of the
+plaintiff to compel defendant to live up to the terms of his agreement.
+The chancellor in the Indiana court entered his decree, which apparently
+is in full force and effect, and the defendant in violating the terms of
+that decree, after personal service, is answerable to that court for a
+violation of the injunctional order entered in said proceeding. The
+expenses incurred, however, by the plaintiff in procuring that decree
+are not collectible in an action for damages in this proceeding; neither
+are such similar expenses as were incurred in the trips to Colorado and
+Philadelphia, nor the attorney's fees and other expenses thereby
+incurred. The plaintiff having been informed that the defendant intended
+to proceed no further under his p. 555 agreement, took such steps at its
+own financial risk. There was nothing in the agreement regarding
+attorney's fees and there was nothing in the contract in regard to the
+services of the defendant from which it would appear that the action for
+specific performance would lie. After the clear breach of contract by
+the defendant, the plaintiff proceeded with this character of litigation
+at its own risk. We are of the opinion that the trial court properly
+held that this was an element of damages which was not recoverable.
+
+\[19\]Proposition 4: Expenses incurred after the signing of the
+agreement and before the breach of July 10, 1926.
+
+\[20\]After the signing of the agreement plaintiff attempted to show
+expenses incurred by one Weisberg in and about the furtherance of the
+project. Weisberg testified that he had taken an active part in
+promoting sports for a number of years and was in the employ of the
+Chicago Coliseum Club under a written contract during all of the time
+that his services were rendered in furtherance of this proposition. This
+contract was introduced in evidence and bore the date of March 8, 1926.
+Under its terms Weisberg was to be reimbursed out of the gate receipts
+and profits derived from the performance. His compensation depended
+entirely upon the success of the exhibition. Under his agreement with
+the plaintiff there was nothing to charge the plaintiff unconditionally
+with the costs and expenses of Weisberg's services. The court properly
+ruled against the admissibility of the evidence.
+
+\[21\]We find in the record, however, certain evidence which should have
+been submitted to the jury on the question of damages sustained by the
+plaintiff. The contract on which the breach of the action is predicated
+shows a payment of \$10 by the plaintiff to the defendant and the
+receipt acknowledged. It appears that the stadium located in the South
+Park District, known as Soldier's Field, was considered as a site for
+the holding of the contest and plaintiff testified that it paid \$300 to
+an architect for plans in the event the stadium was to be used for the
+performance. This item of damage might have been made more specific and
+may not have been the best evidence in the case but, standing alone, it
+was sufficient to go to the jury. There were certain elements in regard
+to wages paid assistant secretaries which may be substantiated by
+evidence showing that they were necessary in furtherance of the
+undertaking. If these expenses were incurred they are recoverable if in
+furtherance of the general scheme. The defendant should not be required
+to answer in damages for salaries paid regular officials of the
+corporation who were presumed to be receiving such salaries by reason of
+their position, but special expenses incurred are recoverable. The
+expenses of Hoffman in going to Colorado for the purpose of having
+Dempsey take his physical examination for insurance, if before the
+breach and reasonable, are recoverable. The railroad fares for those who
+went to Los Angeles for the purpose of procuring the signing of the p.
+556 agreement are not recoverable as they were incurred in a furtherance
+of the procuring of the contract and not after the agreement was entered
+into. The services of Shank in looking after railroad facilities and
+making arrangements with the railroad for publicity and special trains
+and accommodations were items which should be considered and if it
+develops that they were incurred in a furtherance of the general plan
+and properly proven, are items for which the plaintiff should be
+reimbursed.
+
+\[22\]The items recoverable are such items of expense as were incurred
+between the date of the signing of the agreement and the breach of July
+10, 1926, by the defendant and such as were incurred as a necessary
+expense in furtherance of the performance. Proof of such items should be
+made subject to the usual rules of evidence.
+
+\[23\]For the reasons stated in this opinion the judgment of the circuit
+court is reversed and the cause remanded for a new trial.
+
+Judgment reversed and cause remanded.
+
+Hebel, P. J., and Friend, J., concur.
+
+---------
+
+Notes and Questions
+
+1.In the 1920s, a heavyweight championship fight was America's leading
+sporting event, what the Super Bowl is today. Jack Dempsey was, with the
+possible exception of Babe Ruth, the leading sports celebrity of the
+day. If you were Dempsey's manager, what would you have done to make
+sure that Dempsey (and of course, Dempsey's manager is reputed to have
+taken an outsize portion of Dempsey's pay), rather than the promoter,
+got most of the profits from the fight?
+
+2.Around 1970, a group of oil company engineers identified a phenomenon
+that has come to be called "the winner's curse." The engineers noticed
+that every time their company won an auction for an oil lease, it ended
+up losing money on the deal. As they thought about it, the engineers
+realized that because no one knew exactly how much oil was recoverable
+under the lease, some bidders would overestimate the oil and some would
+underestimate it. The winner of the auction would normally be the
+company that overestimated by the largest margin and thus bid too much.
+Since that time the winner's curse has been the subject of several books
+and numerous Ph.D. dissertations. Businesses have hired consultants to
+help them structure their bids to avoid the winner's curse. But when the
+Chicago Coliseum Club signed its contract, no one had heard of the
+winner's curse. Is it possible Dempsey did the plaintiff a favor by
+breaching the contract?
+
+3.The certainty limitation is found in section 352 of the R2d and
+article 7.4.3 of the UNIDROIT principles. They are phrased differently.
+What are the p. 557 substantive differences? Which is likely to lead to
+greater recovery by the non-breaching party?
+
+4.Under the so-called "American Rule" attorneys' fees incurred in
+obtaining and enforcing a contract damage judgment are not recoverable
+absent a provision providing for them as allowable damages in the
+contract itself. This is in contrast with the so-called "English Rule"
+under which the prevailing party may recover its attorneys' fees from
+the other party. As a result of the American Rule, contract clauses
+providing for attorneys fees are common in American contracts. They are
+often, but need not be, in the form of a prevailing party attorneys' fee
+clause, which operates like the English Rule. But some contracts provide
+for attorneys' fee recovery for only one party to the contract. Should
+such "one way" clauses be enforceable? Some states say, "yes, but." For
+instance, the California Civil Code's section 1717 converts a one way
+clause into a bilateral clause allowing recovery by either party---so
+the clause is enforceable as modified by the statute. Is this good
+policy? What sort of incentives does the presence or absence of an
+enforceable attorneys' fee provision produce?
+
+---------
+
+Ericson v. Playgirl
+
+Court of Appeal of California 73 Cal. App. 3d 850, 140 Cal. Rptr. 921
+(1977)
+
+Fleming, Acting P.J.
+
+\[1\]Were damages awarded here for breach of contract speculative and
+conjectural, or were they clearly ascertainable and reasonably certain,
+both in nature and in origin?
+
+\[2\]The breach of contract arose from the following circumstances:
+plaintiff John Ericson, in order to boost his career as an actor, agreed
+that defendant Playgirl, Inc., could publish without compensation as the
+centerfold of its January 1974 issue of Playgirl photographs of Ericson
+posing naked at Lion Country Safari. No immediate career boost to
+Ericson resulted from the publication. In April 1974 defendant wished to
+use the pictures again for its annual edition entitled Best of Playgirl,
+a publication with half the circulation of Playgirl and without
+advertising. Ericson agreed to a rerun of his pictures in Best of
+Playgirl on two conditions: that certain of them be cropped to more
+modest exposure, and that Ericson's photograph occupy a quarter of the
+front cover, which would contain photographs of five other persons on
+its remaining three-quarters. Defendant honored the first of these
+conditions but not the second, in that as the result of an editorial
+mixup Ericson's photograph did not appear on the cover of Best of
+Playgirl. Ericson thereupon sued for damages, not for invasion of
+privacy from unauthorized publication of his pictures, but for p. 558
+loss of the publicity he would have received if defendant had put
+Ericson's picture on the cover as it had agreed to do.
+
+\[3\]All witnesses testified that the front cover of a magazine is not
+for sale, that a publisher reserves exclusive control over the front
+cover because its format is crucial to circulation, that consequently it
+is impossible to quote a direct price for front cover space. Witnesses
+also agreed that a picture on the front cover of a national magazine can
+provide valuable publicity for an actor or entertainer, but that it is
+difficult to put a price on this publicity. Analogies were sought in the
+cost of advertising space inside and on the back cover of national
+magazines. In July 1974 a full-page advertisement in Playgirl cost
+\$7,500 to \$8,000, a quarter page \$2,500, and the back cover \$11,000.
+However, Best of Playgirl carried no advertising and enjoyed only half
+the circulation of its parent magazine.
+
+\[4\]The trial court awarded plaintiff damages of \$12,500,6 expressly
+basing its award on the testimony of Richard Cook, western advertising
+manager for TV Guide. According to Cook, the value to an entertainer of
+an appearance on the cover of a national magazine is "probably close to
+\$50,000, and I base that on this: That magazine lays on the newsstand,
+a lot of people that never buy it see it, and everybody that does buy it
+certainly sees it." Cook said that the circulation of a magazine affects
+the value of a cover appearance, as does the magazine's demographics,
+i.e., the specific audience it reaches. He based his opinion on his
+knowledge of Playgirl, for he had no knowledge of the circulation,
+demographics, or even existence of Best of Playgirl. He also quantified
+his opinion by stating that if the picture only occupied a quarter of
+the cover instead of the full cover, the value of the appearance would
+be only a fourth of \$50,000, which was the figure used by the trial
+court in fixing plaintiff's damages for loss of publicity at \$12,500.
+
+I
+
+\[5\]On appeal the sole substantial issue is that of damages, for it is
+clear the parties entered a contract which defendant breached.7
+
+\[6\]In reviewing the issue of damages we first note that the cause of
+action is for breach of contract and not for a tort such as invasion of
+privacy. Defendant is not charged with committing a civil wrong but
+merely with failing to keep its promise. From this classification of the
+action as breach
+
+p\. 559 of contract, three important consequences affecting the measure
+of damages follow:
+
+1.Damages may not be punitive or exemplary and may not be imposed as a
+form of chastisement.
+
+2.Damages are limited to losses that might reasonably be contemplated or
+foreseen by the parties.
+
+3.Damages must be clearly ascertainable and reasonably certain, both in
+their nature and origin.
+
+\[7\]In each of these respects damages for breach of contract differ
+from damages in tort; accordingly, tort precedents on the measure of
+damages have no direct relevancy here. Of limited application, too, is
+the tort rule that when calculation of the fact and amount of damages
+has been made difficult by defendant's wrong, courts will adopt whatever
+means are at hand to right the wrong.
+
+\[8\]Plaintiff's claim of damages for breach of contract was based
+entirely on the loss of general publicity he would have received by
+having his photograph appear, alongside those of five others, on the
+cover of Best of Playgirl. Plaintiff proved that advertising is
+expensive to buy, that publicity has value for an actor. But what he did
+not prove was that loss of publicity as the result of his nonappearance
+on the cover of Best of Playgirl did in fact damage him in any
+substantial way or in any specific amount. Plaintiff's claim sharply
+contrasts with those few breach of contract cases that have found
+damages for loss of publicity reasonably certain and reasonably
+calculable, as in refusals to continue an advertising contract. In such
+cases the court has assessed damages at the market value of the
+advertising, less the agreed contract price. Plaintiff's claim for
+damages more closely resembles those which have been held speculative
+and conjectural, as in the analogous cases of Jones v. San Bernardino
+Real Estate Board (1959) 168 Cal.App.2d 661, 665, where the court
+declined to award purely conjectural damages for loss of commissions,
+contacts, business associations, and clientele allegedly occasioned by
+plaintiff's expulsion from a local realty board; and of Fisher v.
+Hampton (1975) 44 Cal.App.3d 741, where the court rejected an award of
+damages for defendant's failure to drill a \$35,000 oil well when
+geological reports opined that oil would not be found and no evidence
+whatever established that plaintiff had been damaged. Under normal legal
+rules plaintiff's claim for damages failed to satisfy the requirements
+of reasonable foreseeability and reasonable certainty, and therefore
+took on a punitive hue.
+
+\[The court discussed special damage rules applicable to entertainers
+and decided they didn't help the plaintiff.---Eds.\]
+
+p\. 560 III
+
+\[9\]Plaintiff, however, is entitled to recover nominal damages for
+breach of contract. We evaluate plaintiff's right to nominal damages by
+analogy to Civil Code section 3344, which provides minimum statutory
+damages of \$300 for knowing commercial use of a person's name or
+likeness without his consent. The statute's obvious purpose is to
+specify an amount for nominal damages in situations where actual damages
+are impossible to assess. Accordingly, although we find no support for
+any assessment of compensatory damages in plaintiff's favor because of
+the wholly speculative nature of the detriment suffered by plaintiff as
+a result of his nonappearance on a fourth of the cover of Best of
+Playgirl, plaintiff is entitled to nominal damages for breach of
+contract, which we fix in the sum of \$300.
+
+\[10\]The judgment is modified to reduce the amount of damages to \$300,
+and, as so modified, the judgment is affirmed. Costs on appeal to
+plaintiff.
+
+---------
+
+Fera v. Village Plaza Inc.
+
+Supreme Court of Michigan 396 Mich. 639, 242 N.W.2d 372 (1976)
+
+Kavanagh, C.J.
+
+\[1\]Plaintiffs received a jury award of \$200,0008 for loss of
+anticipated profits in their proposed new business as a result of
+defendants' breach of a lease. The Court of Appeals reversed. 52 Mich.
+App. 532, 218 N.W.2d 155 (1974). We reverse and reinstate the jury's
+award.
+
+Facts
+
+\[2\]On August 20, 1965 plaintiffs and agents of Fairborn-Village Plaza
+executed a ten-year lease for a "book and bottle" shop in defendants'
+proposed shopping center. This lease provided for occupancy of a
+specific location at a rental of \$1,000 minimum monthly rent plus 5% of
+annual receipts in excess of \$240,000. A \$1,000 deposit was paid by
+plaintiffs.
+
+\[3\]After this lease was executed, plaintiffs gave up approximately 600
+square feet of their leased space so that it could be leased to another
+tenant. In exchange, it was agreed that liquor sales would be excluded
+from the percentage rent override provision of the lease.
+
+\[4\]Complications arose, including numerous work stoppages. Bank of the
+Commonwealth received a deed in lieu of foreclosure after default by
+
+p\. 561 Fairborn and Village Plaza. Schostak Brothers managed the
+property for the bank.
+
+\[5\]When the space was finally ready for occupancy, plaintiffs were
+refused the space for which they had contracted because the lease had
+been misplaced, and the space rented to other tenants. Alternative space
+was offered but refused by plaintiffs as unsuitable for their planned
+business venture.
+
+\[6\]Plaintiffs initiated suit in Wayne Circuit Court, alleging inter
+alia a claim for anticipated lost profits. The jury returned a verdict
+for plaintiffs against all defendants for \$200,000.
+
+\[7\]The Court of Appeals reversed and remanded for new trial on the
+issue of damages only, holding that the trial court "erroneously
+permitted lost profits as the measure of damages for breach of the
+lease." 52 Mich. App. 532, 542, 218 N.W.2d 155, 160.
+
+\[8\]In Jarrait v. Peters, 145 Mich. 29, 31--32, 108 N.W. 432 (1906),
+plaintiff was prevented from taking possession of the leased premises.
+The jury gave plaintiff a judgment which included damages for lost
+profits. This Court reversed:
+
+It is well settled upon authority that the measure of damages when a
+lessor fails to give possession of the leased premises is the difference
+between the actual rental value and the rent reserved. 1 Sedgwick on
+Damages (8th ed.), § 185. Mr. Sedgwick says:
+
+If the business were a new one, since there could be no basis on which
+to estimate profits, the plaintiff must be content to recover according
+to the general rule.
+
+The rule is different where the business of the lessee has been
+interrupted.
+
+\* \* \*
+
+The evidence admitted tending to show the prospective profits plaintiff
+might have made for the ensuing two years should therefore have been
+excluded under the objections made by defendant, and the jury should
+have been instructed that the plaintiff's damages, if any, would be the
+difference between the actual rental value of the premises and the rent
+reserved in the lease.
+
+\[9\]Six years later, in Isbell v. Anderson Carriage Co, 170 Mich. 304,
+318, 136 N.W. 457 (1912), the Court wrote:
+
+It has sometimes been stated as a rule of law that prospective profits
+are so speculative and uncertain that they cannot be recognized in the
+measure of damages. This is not because they p. 562 are profits, but
+because they are so often not susceptible of proof to a reasonable
+degree of certainty. Where the proof is available, prospective profits
+may be recovered, when proven, as other damages. But the jury cannot be
+asked to guess. They are to try the case upon evidence, not upon
+conjecture.
+
+\[10\]These cases and others since should not be read as stating a rule
+of law which prevents every new business from recovering anticipated
+lost profits for breach of contract. The rule is merely an application
+of the doctrine that "\[i\]n order to be entitled to a verdict, or a
+judgment, for damages for breach of contract, the plaintiff must lay a
+basis for a reasonable estimate of the extent of his harm, measured in
+money." 5 Corbin on Contracts, § 1020, p. 124. The issue becomes one of
+sufficiency of proof. "The jury should not \[be\] allowed to speculate
+or guess upon this question of the amount of loss of profits." Kezeli v.
+River Rouge Lodge IOOF, 195 Mich. 181, 188, 161 N.W. 838 (1917).
+
+Assuming, therefore, that profits prevented may be considered in
+measuring the damages, are profits to be divided into classes and kinds?
+Does the term "speculative profits" express one of these classes,
+differing in nature from nonspeculative profits? Do "uncertain" profits
+differ in kind from "certain" profits? The answer is assuredly, No.
+There is little that can be regarded as "certain," especially with
+respect to what would have happened if the march of events had been
+other than it in fact has been. Neither court nor jury is required to
+attain "certainty" in awarding damages; and this is just as true with
+respect to "value" as with respect to "profits." Therefore, the term
+"speculative and uncertain profits" is not really a classification of
+profits, but is instead a characterization of the evidence that is
+introduced to prove that they would have been made if the defendant had
+not committed a breach of contract. The law requires that this evidence
+shall not be so meager or uncertain as to afford no reasonable basis for
+inference, leaving the damages to be determined by sympathy and feelings
+alone. The amount of evidence required and the degree of its strength as
+a basis of inference varies with circumstances.
+
+5 Corbin on Contracts, § 1022, pp. 139--40.
+
+\[11\]The rule was succinctly stated in Shropshire v. Adams, 40
+Tex.Civ.App. 339, 344, 89 S.W. 448, 450 (1905):
+
+Future profits as an element of damage are in no case excluded merely
+because they are profits but because they are uncertain. In any case
+when by reason of the nature of the situation they may be established
+with reasonable certainty they are allowed.
+
+p\. 563 \[12\]It is from these principles that the "new
+business"/"interrupted business" distinction has arisen.
+
+If a business is one that has already been established a reasonable
+prediction can often be made as to its future on the basis of its past
+history . . . If the business . . . has not had such a history as to
+make it possible to prove with reasonable accuracy what its profits have
+been in fact, the profits prevented are often but not necessarily too
+uncertain for recovery.
+
+5 Corbin on Contracts, § 1023, pp. 147, 150--51.
+
+\[13\]The Court of Appeals based its opinion reversing the jury's award
+on two grounds. First, that a new business cannot recover damages for
+lost profits for breach of a lease. We have expressed our disapproval of
+that rule. Secondly, the Court of Appeals held plaintiffs barred from
+recovery because the proof of lost profits was entirely speculative. We
+disagree.
+
+\[14\]The trial judge in a thorough opinion made the following
+observations upon completion of the trial.
+
+On the issue of lost profits, there were days and days of testimony. The
+defendants called experts from the Michigan Liquor Control Commission
+and from Cunningham Drug Stores, who have a store in the area, and a man
+who ran many other stores. The plaintiffs called experts and they,
+themselves, had experience in the liquor sales business, in the book
+sales business and had been representatives of liquor distribution firms
+in the area.
+
+The issue of the speculative, conjectural nature of future profits was
+probably the most completely tried issue in the whole case. Both sides
+covered this point for days on direct and cross-examination. The proofs
+ranged from no lost profits to two hundred and seventy thousand dollars
+over a ten-year period as the highest in the testimony. A witness for
+the defendants, an expert from Cunningham Drug Company, testified the
+plaintiffs probably would lose money. Mr. Fera, an expert in his own
+right, testified the profits would probably be two hundred and seventy
+thousand dollars. The jury found two hundred thousand dollars. This is
+well within the limits of the high and the low testimony presented by
+both sides, and a judgment was granted by the jury.
+
+The court cannot invade the finding of fact by the jury, unless there is
+no testimony to support the jury's finding. There is testimony to
+support the jury's finding. We must realize that witness Stein is an
+interested party in this case, personally. He is an officer or owner in
+Schostak Brothers. He may personally lose money as a result of this
+case. The jury had to weigh this in determining his credibility. How
+much credibility they gave his p. 564 testimony was up to them. How much
+weight they gave to counter-evidence was up to them. . . .
+
+The court must decide whether or not the jury had enough testimony to
+take this fact from the speculative-conjecture category and find enough
+facts to be able to make a legal finding of fact. This issue \[damages
+for lost profits\] was the most completely tried issue in the whole
+case. Both sides put in testimony that took up days and encompassed
+experts on both sides. This fact was adequately taken from the category
+of speculation and conjecture by the testimony and placed in the
+position of those cases that hold that even though loss of profits is
+hard to prove, if proven they should be awarded by the jury. In this
+case, the jury had ample testimony to make this decision from both
+sides.
+
+The jury award was approximately seventy thousand dollars less than the
+plaintiffs asked and their proofs showed they were entitled to. The
+award of the jury was well within the range of the proofs and the court
+cannot legally alter it, as determination of damages is a jury function
+and their finding is justified by the law in light of the evidence in
+this case.
+
+The loss of profits are often speculative and conjectural on the part of
+witnesses. When this is true, the court should deny loss of profits
+because of the speculative nature of the testimony and the proofs.
+However, the law is also clear that where lost profits are shown, and
+there is ample proof on this point, they should not be denied merely
+because they are hard to prove. In this case, both parties presented
+testimony on this issue for days. This testimony took the lost profits
+issue out of the category of speculation and conjecture. The jury was
+given an instruction on loss of profits and what the proofs must show,
+and the nature of the proofs, and if they found them to be speculative
+they could not award damages therefor. The jury, having found damages to
+exist, and awarded the same in this case in accord with the proper
+instructions, the court cannot, now, overrule the jury's finding.
+
+\[15\]As Judge Wickens observed, the jury was instructed on the law
+concerning speculative damages. The case was thoroughly tried by all the
+parties. Apparently, the jury believed the plaintiffs. That is its
+prerogative.
+
+\[16\]The testimony presented during the trial was conflicting. The
+weaknesses of plaintiffs' specially prepared budget were thoroughly
+explored on cross-examination. Defendants' witnesses testified
+concerning the likelihood that plaintiffs would not have made profits if
+the contract had been performed. There was conflicting testimony
+concerning the availability of a liquor license. All this was spread
+before the jury. The jury p. 565 weighed the conflicting testimony and
+determined that plaintiffs were entitled to damages of \$200,000.
+
+\* \* \*
+
+\[17\]The Court of Appeals is reversed and the trial court's judgment on
+the verdict is reinstated.
+
+\[18\]Costs to plaintiffs.
+
+Coleman, J. (concurring in part, dissenting in part).
+
+\[19\]Although anticipated profits from a new business may be determined
+with a reasonable degree of certainty such was not the situation
+regarding loss of profits from liquor sales as proposed by plaintiffs.
+
+\[20\]First, plaintiffs had no license and a Liquor Control Commission
+regional supervisor and a former commissioner testified that the
+described book and bottle store could not obtain a license. Further, the
+proofs of possible profits from possible liquor sales---if a license
+could have been obtained---were too speculative. The speculation of
+possible licensing plus the speculation of profits in this case combine
+to cause my opinion that profits from liquor sales should not have been
+submitted to the jury.
+
+\[21\]I agree with Judge O'Hara in his Court of Appeals dissent and
+would have allowed proof of loss from the bookstore operation to go to
+the jury, but not proof of loss from liquor sales. His remedy is also
+approved. I would affirm the trial court judgment conditioned upon
+plaintiffs' consenting within 30 days following the release of this
+opinion, to "remitting that portion of the judgment in excess of
+\$60,000. Otherwise, the judgment should be reversed and a new trial
+had." Plaintiffs are also entitled to the \$1,000 deposit.
+
+---------
+
+Question
+
+Have you ever seen a "book and bottle" shop in your neighborhood? Does
+that tell you something about the plaintiffs' business model?
+
+---------
+
+p\. 566 C.AVOIDABILITY
+
+Restatement (Second) Section 3509 reads as follows:
+
+Avoidability as a Limitation on Damages
+
+(1)Except as stated in Subsection (2), damages are not recoverable for
+loss that the injured party could have avoided without undue risk,
+burden or humiliation.
+
+(2)The injured party is not precluded from recovery by the rule stated
+in Subsection (1) to the extent that he has made reasonable but
+unsuccessful efforts to avoid loss.
+
+---------
+
+In re WorldCom, Inc.
+
+United States Bankruptcy Court, Southern District of New York 361 B.R.
+675 (2007)
+
+Arthur J. Gonzalez, Bankruptcy Judge.
+
+Introduction
+
+\[1\]Before the Court are cross-motions for summary judgment separately
+brought by Michael Jordan ("Jordan") and WorldCom, Inc. (hereafter
+referred to as the "Debtors" or "MCI").
+
+Background
+
+\[2\]On or about July 10, 1995, Jordan and the Debtors entered into an
+endorsement agreement (the "Agreement"). At that time, Jordan was
+considered to be one of the most popular athletes in the world. The
+Agreement granted MCI a ten-year license to use Jordan's name, likeness,
+"other attributes," and personal services to advertise and promote MCI's
+telecommunications products and services beginning in September 1995 and
+ending in August 2005. The Agreement did not prevent Jordan from
+endorsing most other products or services, although he could not endorse
+the same products or services that MCI produced. In addition to a \$5
+million signing bonus, the Agreement provided an annual base
+compensation of \$2 million for Jordan. The Agreement provided that
+Jordan would be treated as an independent contractor and that MCI would
+not withhold any amount from Jordan's compensation for tax purposes. The
+Agreement provided that Jordan was to make himself available for four
+days, not to exceed four hours per day, during each contract year to
+produce television commercials and print advertising and for promotional
+appearances. The parties agreed that the advertising and promotional
+materials would be submitted to Jordan for his approval, which could not
+p. 567 be unreasonably withheld, fourteen days prior to their release to
+the general public. From 1995 to 2000, Jordan appeared in several
+television commercials and a large number of print ads for MCI.
+
+\[3\]On July 1, 2002, MCI commenced a case under chapter 11 of \[the
+Bankruptcy Code. In the case, Jordan sought compensation for MCI's
+breach of his endorsement contract.---Eds.\]
+
+The Parties' Contentions10
+
+\[4\]MCI asserts two bases for disallowance of the Claim. One, MCI
+contends that the Agreement is an "employment contract" within the
+meaning of section 502(b)(7) of the Bankruptcy Code and that Jordan's
+claim is "capped" pursuant to that section. Second, MCI argues that
+Jordan had an obligation to mitigate his damages and failed to do so.
+MCI argues that these two bases entitle it to summary judgment with
+respect to its objection to the Claim, and assert that either under
+section 502(b)(7) or as a result of Jordan's failure to mitigate damages
+following the Debtors' rejection, the Claim should be reduced to \$4
+million. MCI argues that it is under no obligation to pay Jordan for
+contract years 2004 and 2005.
+
+\[5\]Jordan argues for summary judgment allowing the Claim in full and
+overruling and dismissing MCI's objections to the Claim. Jordan argues
+that because he was not an "employee" of MCI and because the Agreement
+was not an "employment agreement," section 502(b)(7) does not apply to
+cap his claim. Regarding MCI's mitigation argument, Jordan argues that
+the objection should be overruled and dismissed for three independent
+reasons (1) Jordan was a "lost volume seller" and thus mitigation does
+not apply, (2) there is no evidence that Jordan could have entered into
+a "substantially similar" endorsement agreement, and (3) Jordan acted
+reasonably when he decided not to pursue other endorsements after MCI's
+rejection of the Agreement.
+
+Discussion
+
+A.Summary Judgment Standard
+
+\[6\]Under Federal Rule of Civil Procedure 56(c), made applicable to
+this proceeding by Federal Rule of Bankruptcy 7056, summary judgment is
+only appropriate where the record shows that "there is no genuine issue
+as to any material fact and that the moving party is entitled to
+judgment as a matter of law." See Fed. R. Civ. P. 56(c)
+
+\* \* \*
+
+B.Application of Section 502(b)(7)
+
+\[7\]Jordan argues that section 502(b)(7) does not apply to his claim
+because he was an independent contractor and not an employee of MCI. p.
+568 MCI argues that section 502(b)(7) does apply to the Claim because
+the Agreement was an Employment Contract and Jordan was an "employee"
+within the meaning of that statute.
+
+\* \* \*
+
+\[8\]Based upon a review of aforementioned, most specifically the
+factors cited in the case law, the Court finds that Jordan was not an
+"employee" and the Agreement was not an "employment contract" pursuant
+to section 502(b)(7). Therefore, there being no genuine issue of
+material facts as to Jordan's status, the Court grants summary judgment
+to Jordan on this point and holds that this basis for MCI's objection to
+the Claim is overruled and denied.
+
+C.Mitigation
+
+\[9\]The doctrine of avoidable consequences, which has also been
+referred to as the duty to mitigate damages, bars recovery for losses
+suffered by a non-breaching party that could have been avoided by
+reasonable effort and without risk of substantial loss or injury. The
+burden of proving that the damages could have been avoided or mitigated
+rests with the party that committed the breach.
+
+\[10\]Jordan argues that as a "lost volume seller" he was under no
+obligation to mitigate damages. Alternatively, Jordan argues that MCI
+failed to establish that Jordan could have entered a "substantially
+similar" endorsement contract and that Jordan acted reasonably in not
+entering another endorsement agreement after MCI's breach. MCI counters
+that Jordan is not a lost volume seller and that MCI has shown that
+Jordan failed to take reasonable steps to mitigate damages.
+
+\[11\]The damages for a contract's rejection are determined in
+accordance with the law that would govern the value of the claim outside
+the context of bankruptcy.
+
+\[12\]The Court will look to the District of Columbia ("D.C.") as the
+applicable state law for mitigation and other consequences of MCI's
+rejection of the Agreement. The parties, under Section 16 of the
+Agreement, "Arbitration; Governing Law," provided that any controversy
+would be submitted to arbitration to be governed in accordance with D.C.
+law.
+
+\[13\]The Court was not furnished nor did research reveal D.C. cases
+precisely on point. Therefore, the Court will discuss and rely on cases
+from other jurisdictions where needed.
+
+1.Whether Jordan Was a "Lost Volume Seller"
+
+\[14\]Jordan argues that MCI's mitigation defense does not apply here
+because Jordan is akin to a "lost volume seller." Jordan points to
+testimony demonstrating that he could have entered into additional
+endorsement contracts even if MCI had not rejected the Agreement.
