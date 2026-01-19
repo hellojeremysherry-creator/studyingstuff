@@ -1,0 +1,565 @@
+﻿The Statute of Frauds
+
+
+■   ■   ■
+
+
+The statute of frauds was born in England in 1677. Generally speaking, it requires either that the entire contract or its essential terms be represented in a writing “signed by the party to be charged”—i.e., the party against whom enforcement is sought—if the contract is:
+
+
+(1)for the sale of land;
+
+
+(2)for the sale of goods for over $500 (U.C.C. version);
+
+
+(3)to be performed in over one year;
+
+
+(4)to answer for the debt of another (i.e., a guarantee or surety arrangement);
+
+
+(5)in consideration of marriage.
+
+
+The purpose of the statute was to avoid fraud by false claims of oral contracts for these “major” types of contracts and the legislative determination that a writing requirement would eliminate or substantially suppress this sort of fraud. The marriage provision also serves a personal decision cautionary function. As so often occurs, the law of unintended consequences took hold and, instead of preventing fraud, the statute was soon used to perpetuate a different kind of fraud: wrongful denial of actual oral contracts that fall within its scope. Squeezing a lightly inflated balloon does not remove the air from it, it just moves it around; just so with human behaviors like fraud when subjected to legislation.
+
+
+The statute has found considerable criticism and has been largely repealed worldwide, including in its birthplace, England, in the 1950s. The CISG, for example, provides explicitly that a contract may be proven in any manner possible—in addition to eliminating the parol evidence rule to be covered in Chapter 14, this provision eliminates the statute of frauds for contracts covered by the CISG. The UNIDROIT Principles are in accord with the CISG.
+364
+Despite this, the statute of frauds remains part of the law of the United States. Law students are thus obligated to learn the rule and its permutations, which are a favorite of law professors and bar examiners nationwide. The cases that follow illustrate its application. As you read them, note how the analysis has four steps: 
+(1) does the statute appear to apply to the transaction at hand?; 
+(2) if so, is there a “technical” argument that removes the contract from the statute’s coverage - e.g., a contract that will, but is not required to, take more than a year to perform?; 
+(3) is there a writing that is sufficient to meet the statute’s requirements? and 
+(4), if not, is there an argument for waiver, estoppel or some other evasionary doctrine to ameliorate what would otherwise be a harsh application of the statute?
+
+
+Read carefully Restatement (Second) §§ 110 and 130.
+
+
+———
+
+
+Note
+
+
+The case that follows deals with the U.C.C. Article 2’s statute of frauds, section 2–201. At the time Article 2 was written, the statute of frauds had been the subject of a great deal of criticism. Rather than eliminating any writing requirement entirely, the drafters decided to draft a provision that would retain the benefits of the statute of frauds but eliminate many of the problems associated with it. Read section 2–201 carefully to see how it differs from the general statute of frauds provisions in R2d § 110 and 130.
+
+
+———
+
+
+Azevedo v. Minister
+
+
+Supreme Court of Nevada
+86 Nev. 576, 471 P.2d 661 (1970)
+
+
+Mowbray, J.
+
+
+[1]This case centers about the enforceability of an oral agreement to purchase 1,500 tons of hay. The principal issue presented for our determination is whether the periodic accountings prepared by the seller and sent to the buyer covering the sale of the hay constituted confirming memoranda within the provisions of NRS 104.2201(2)1 of the Uniform Commercial Code and, if so, whether the seller sent them within a reasonable time as required by that statute so that the oral agreement is not barred by the statute of frauds. The district judge ruled that the mandates of NRS 104.2201(2) had been satisfied, and he upheld the validity of the agreement. We agree, and we affirm the judgment of the lower court.
+
+
+1.The Facts.
+
+
+[2]Appellant J. L. Azevedo is a rancher who buys and sells hay. He is licensed to do so, and he is bonded by appellant United States Fidelity and Guaranty Company.2 Respondent Bolton F. Minister operates the
+365
+Minister Ranch near Yerington, Nevada, where he raises and sells large quantities of hay.
+
+
+[3]In early November 1967, Azevedo approached Minister for the purpose of buying hay. Terms were discussed. Several days later an agreement was reached by telephone. Both parties acknowledge that Azevedo agreed to purchase hay from Minister at a price of $26.50 per ton for the first and second cuttings and $28 per ton for the third cutting and that the parties opened an escrow account in a Yerington bank in Minister’s favor, where Azevedo agreed to deposit sufficient funds to cover the cost of the hay as he hauled it from the Minister Ranch. The parties are in dispute as to the total quantity of hay Azevedo agreed to purchase. Minister claims Azevedo contracted to purchase 1,500 tons. Azevedo maintains that they never had an agreement as to quantity. Soon after this telephone conversation, Azevedo deposited $20,000 in the designated escrow account and began hauling hay from the Minister Ranch. As Azevedo hauled the hay, Minister furnished him with periodic accountings, commencing December 4, which specified the dates the hay was hauled, names of the truckers, bale count, and weight. This arrangement was satisfactory to the parties, and it continued until the latter part of March 1968, when Minister loaded only two of four trucks sent by Azevedo for hay, because the funds on deposit in the escrow account were insufficient to cover all four loads. Azevedo then refused to buy any more hay, and Minister commenced this action in district court.
+
+
+2.The Statute of Frauds.
+
+
+[4]The determination of the legal issues presented for our consideration will turn on our interpretation of NRS 104.2201(2) of the Uniform Commercial Code. Since the enactment of the Uniform Commercial Code, sweeping changes have been effectuated in the law of commercial transactions. NRS 104.2201 provides:
+
+
+1.Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable [sic] by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by his authorized agent or broker. A writing is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable [sic] under this subsection beyond the quantity of goods shown in such writing.
+
+
+2.Between merchants if within a reasonable time a writing in confirmation of the contract and sufficient against the sender is 
+
+
+366
+received and the party receiving it has reason to know its contents, it satisfies the requirements of subsection 1 against such party unless written notice of objection to its contents is given within 10 days after it is received.
+
+
+3.A contract which does not satisfy the requirements of subsection 1 but which is valid in other respects is enforceable [sic]:
+
+
+(a)If the goods are to be specially manufactured for the buyer and are not suitable for sale to others in the ordinary course of the seller’s business and the seller, before notice of repudiation is received and under circumstances which reasonably indicate that the goods are for the buyer, has made either a substantial beginning of their manufacture or commitments for their procurement; or
+
+
+(b)If the party against whom enforcement is sought admits in his pleading, testimony or otherwise in court that a contract for sale was made, but the contract is not enforceable [sic] under this provision beyond the quantity of goods admitted; or
+
+
+(c)With respect to goods for which payment has been made and accepted or which have been received and accepted (NRS 104.2606).
+
+
+[5]As with all codifications, it was impossible for the Uniform Commercial Code to encompass every conceivable factual situation. Realizing this limitation, its drafters couched much of the language of the text and comments in broad generalities, leaving many problems to be answered by future litigation.
+
+
+[6]The development of the action of assumpsit in the fourteenth century gave rise to the enforceability of the oral promise. Although parties to an action could not be witnesses, the alleged promise could be enforced on the strength of oral testimony of others not concerned with the litigation. Because of this practice, a party could readily suborn perjured testimony, resulting in marked injustice to innocent parties who were held legally obligated to promises they had never made. The statute of frauds was enacted to preclude this practice.3 The passage of the statute did not eliminate the problem, but rather, has precipitated a controversy as to the relative merits of the statute. Those favoring the statute of frauds insist that it prevents fraud by prohibiting the introduction of perjured testimony. They also suggest that it deters hasty action, in that the formality of a writing will prevent a person from obligating himself without
+367
+a full appreciation of the nature of his acts. Moreover, it is said, since business customs almost entirely conform to the mandates of the statute, an abolition of the statute would seriously disrupt such affairs.
+
+
+[7]On the other hand, in England the statute of frauds has been repealed. The English base their position upon the reasoning that the assertion of the technical defense of the statute aids a person in breaking a contract and effects immeasurable harm upon those who have meritorious claims.
+
+
+[8]It is further maintained by the advocates of the English position that the rationale for the necessity of the statute has been vitiated, because parties engaged in litigation today may testify as witnesses and readily defend against perjured testimony.
+
+
+[9]The Uniform Commercial Code, however, has attempted to strike a balance between the two positions by seeking to limit the defense of the statute to only those cases where there is a definite possibility of fraud.
+
+
+[10]It is in the light of this historical background that we turn to consider whether the oral agreement of the parties in this case is barred by the statute of frauds.
+
+
+[11]There is no question that the Azevedo-Minister agreement was oral and that its enforceability is governed by NRS 104.2201(2), supra. The sale of hay is included within the definition of the sale of “goods” as defined by NRS 104.2105(1) and NRS 104.2107(2), which when read together provide that the sale of “growing crops,” when they are to be “severed by the buyer or by the seller,” constitutes the sale of goods within the definition of that expression in the Uniform Commercial Code. The parties agree that they are “merchants” within the meaning of that term as defined in the Code.
+
+
+[12]It is also true that the statute of frauds is no defense to that portion of the contract that has been performed under the provisions of NRS 104.2201(3)(c), supra, which makes enforceable an oral contract “[w]ith respect to goods . . . which have been received and accepted.”
+
+
+[13]The legal issues are, therefore, (1) whether Minister’s accountings constituted confirming memoranda within the standards of NRS 104.2201(2) and, if so, (2) whether Minister sent them within a reasonable time as required by the statute. [We answer these questions “yes” and “yes.”—Eds.]
+
+
+3.The Confirming Memoranda.
+
+
+(a)The accounting of January 21, 1968.
+
+
+[14]In addition to the data set forth in the periodic accountings covering the dates on which hay was hauled, the names of the truckers,
+368
+and the bale counts and weights, Minister added the following statement in his January 21 accounting to Azevedo:
+
+
+From your original deposit of $20,000.00 there is now a balance of $1819.76. At this time there remains [sic] approximately 16,600 bales of hay yet to be hauled on your purchase, about 9200 of which are first crop, 7400 of which are second crop.
+
+
+We would appreciate hearing when you plan to haul the balance of the hay. Also please make a deposit to cover the hay, sufficient in amount to pay for the hay you will be currently hauling. At this time you have only about $2.25 deposit per ton on the remaining balance of the hay, and we cannot permit a lower deposit per ton and still consider the hay as being sold.
+
+
+[15]Azevedo did not challenge or reply to Minister’s accountancy of January 21. Rather, he deposited an additional $3,000 in the escrow account and continued hauling hay.
+
+
+(b)The accounting of February 22, 1968.
+
+
+[16]In the regular accounting of February 22, Minister added the following: “Balance of deposit on approximately 14,000 bales remaining to be hauled—$1635.26.”
+
+
+[17]Azevedo did not challenge or reply to the February 22 accounting.
+
+
+[18]It is these two accountings that the district judge found constituted confirming memoranda within the meaning of NRS 104.2201(2). There is little authority articulating the meaning of a confirming memorandum as used in the Code. The official Comment, Uniform Laws Annotated, Uniform Commercial Code § 2–201 (1968), states at 90, 91:
+
+
+Only three definite and invariable requirements as to the [confirming] memorandum are made by this subsection. First, it must evidence a contract for the sale of goods; second, it must be “signed,” a word which includes any authentication which identifies the party to be charged; and third, it must specify a quantity.
+
+
+The parties concede that the memoranda were “signed” within the meaning of the statute, but appellant Azevedo urges that neither memorandum confirms the existence of an oral contract.
+[19]While § 2–201(2) of the Code is entirely new in the commercial law field, its only effect is to eliminate the defense of the statute of frauds. The party alleging the contract still has the burden of proving that an oral contract was entered into before the written confirmation. The purpose of the subsection of the Code is to rectify an abuse that had developed in the law of commerce. The custom arose among business people of confirming
+369
+oral contracts by sending a letter of confirmation. This letter was binding as a memorandum on the sender, but not on the recipient, because he had not signed it.4 The abuse was that the recipient, not being bound, could perform or not, according to his whim and the market, whereas the seller had to perform.5 Obviously, under these circumstances, sending any confirming memorandum was a dangerous practice. Subsection (2) of section 2–201 of the Code cures the abuse by holding a recipient bound unless he communicates his objection within 10 days.
+
+
+[20]Appellant urges that the January and February accountings do not meet the standards of the subsection because neither memorandum makes reference to any oral agreement between the parties. A fair reading of the memoranda shows otherwise. The January memorandum states that, “At this time there remains [sic] approximately 16,600 bales of hay yet to be hauled on your purchase,” and, further, that, “We [Minister] would appreciate hearing when you plan to haul the balance of the hay.” Although neither the January nor the February memorandum refers to the previous November agreement by telephone, the language clearly demonstrates that the referred-to agreement between the parties was not an in future arrangement, but a pre-existing agreement between Azevedo and Minister. As the court said in Harry Rubin & Sons, Inc. v. Consolidated Pipe Co., 153 A.2d 472, 476 (Pa. 1959), in ruling on a case involving subsection (2) of section 2–201: “Under the statute of frauds as revised in the Code[,] ‘All that is required is that the writing afford a basis for believing that the offered oral evidence rests on a real transaction.’ ” (footnote omitted.)
+
+
+[21]The district judge found that it did so in the instant case, and the record supports his finding.
+
+
+4.The “Reasonable Time” Factor.
+
+
+[22]Subsection 2 of NRS 104.2201 provides that the confirming memorandum must be sent within a reasonable time after the oral contract is made. Appellant argues that the delay of 10 weeks (November 9 to January 21) as a matter of law is an unreasonable time. We do not agree. What is reasonable must be decided by the trier of the facts under all the circumstances of the case under consideration. Subsection 2 of NRS 104.1204 provides:
+
+
+What is a reasonable time for taking any action depends on the nature, purpose and circumstances of such action.
+
+
+[23]In this case, the parties commenced performance of their oral agreement almost immediately after it was made in early November. Azevedo deposited $20,000 in the designated escrow account and began
+370
+hauling hay. Minister commenced sending his periodic accounting reports to Azevedo on December 14.6 It is true that the accounting containing the confirming memorandum was not sent until January 21. It was at that time that Azevedo’s deposit of $20,000 was nearing depletion. Minister so advised Azevedo in the January memorandum. Azevedo responded by making an additional deposit. He did not object to the memorandum, and he continued to haul the hay until the latter part of March. Under “the nature, purpose and circumstances” of the case, we agree with the district judge that the delay was not unreasonable.
+
+
+[24]The judgment is affirmed.
+
+
+———
+
+
+Problem 13-1
+
+
+A young Hollywood star and the star’s personal trainer enter into an oral contract under the terms of which the trainer will work for the star for the rest of his life. Is this contract subject to the statute of frauds?
+
+
+Is there an unclear pronoun reference in the statement of this problem’s facts? If so, does it affect the answer?
+
+
+Problem 13-2
+
+
+A world renowned operatic tenor and an elderly opera fan enter into an oral contract under the terms of which the tenor will be paid $499 for performing at the fan’s 80th birthday party. The fan is now 78 years old. Is this contract subject to the statute of frauds?
+
+
+Problem 13-3
+
+
+Buyer and Seller enter into an oral contract for the sale of a vacant lot that Seller owns. Buyer sends Seller a signed letter that states:
+
+
+This will confirm our agreement that you will sell to me and I will buy from you the lot at 123 Main Street, legally described as “Lot 99 in the Toxic Waste Subdivision, as per Map 44 recorded in the office of the Register of Deeds of Bigfoot County, California.” The price will be $100,000 and all other terms will be as we have previously agreed.
+
+
+Seller receives the letter but does not respond to it.
+
+
+Can the contract be enforced against Seller? Can the contract be enforced against Buyer?
+
+
+371
+Problem 13-4
+
+
+Buyer and Seller enter into an oral contract for the sale of a vacant lot that Seller owns. Buyer sends Seller a signed letter that states:
+
+
+This will confirm our agreement that you will sell to me and I will buy from you the lot at 123 Main Street, legally described as “Lot 99 in the Toxic Waste Subdivision, as per Map 44 recorded in the office of the Register of Deeds of Bigfoot County, California.”
+
+
+The letter goes on to spell out in detail all of the important terms of the transaction. Seller receives the letter but does not respond to it.
+
+
+Can the contract be enforced against Seller? Can the contract be enforced against Buyer?
+
+
+Problem 13-5
+
+
+Farmer and Broker enter into an oral contract for the purchase and sale of 10,000 bushels of hops at a price of $3.00 per bushel. Broker sends Farmer a note that reads in full:
+
+
+This will confirm our agreement that you will sell me 10,000 bushels of hops at $2.75 a bushel.
+
+
+
+
+
+
+Farmer does not respond to the note. Farmer decides he doesn’t want to deal with someone whose word can’t be trusted, and he refuses to deliver the hops. Broker sues, and Farmer defends on the basis that the statute of frauds precludes enforcement of the contract. Will this defense be successful?
+
+
+Problem 13-6
+
+
+Farmer and Broker enter into an oral contract for the purchase and sale of 10,000 bushels of hops at a price of $3.00 per bushel. Broker sends Farmer a note that reads in full:
+
+
+This will confirm our agreement that you will sell me 10,000 bushels of hops at $2.75 a bushel.
+
+
+### Farmer mails the note back to Broker with the following annotation
+
+
+“The price was 3 bucks—you jerk.” /s/ Farmer.
+
+
+Farmer decides he doesn’t want to deal with someone whose word can’t be trusted, and he refuses to deliver the hops. Broker sues, and Farmer defends on the basis that the statute of frauds precludes enforcement of the contract. Will this defense be successful?
+
+
+———
+
+
+372
+Waddle v. Elrod
+
+
+Supreme Court of Tennessee, at Nashville
+367 S.W.3d 217 (2012)
+
+
+[1]In this appeal we must determine whether the Statute of Frauds, Tenn.Code Ann. § 29–2–101(a)(4) (Supp.2011), applies to a settlement agreement requiring the transfer of an interest in real property; and, if so, whether emails exchanged by the parties’ attorneys satisfy the Statute of Frauds under the Uniform Electronic Transactions Act (“UETA”), Tenn.Code Ann. §§ 47–10–101 to –123 (2001 & Supp.2011). We hold that the Statue of Frauds applies to settlement agreements requiring the transfer of an interest in real property and that the emails, along with a legal description of the property contained in the cross-claim, satisfy the Statute of Frauds. Accordingly, we affirm the judgment of the Court of Appeals enforcing the settlement agreement.
+
+
+Facts and Procedural History
+
+
+[2]On January 29, 2007, Regent Investments 1, LLC (“Regent”) sued octogenarian Earline Waddle, and her niece, Lorene Elrod. According to the allegations of the complaint, Regent contracted to purchase from Ms. Waddle approximately four acres of real property located at 2268 Prim Lane, in Rutherford County, Tennessee (“the Prim Lane property”), for $230,000. Regent paid Ms. Waddle $10,000 earnest money when the contract was signed. However, in preparing to close the deal, Regent learned of a quitclaim deed by which Ms. Waddle had conveyed one-half of her interest in the Prim Lane property to Ms. Elrod. Regent sued Ms. Waddle, alleging breach of contract, fraud, and intentional and negligent misrepresentation. Regent requested specific performance, $1,000,000 in damages, attorney’s fees, costs, and pre-judgment interest. Regent also asked the trial court to set aside the quitclaim deed, arguing that Ms. Elrod had wrongfully obtained her one-half interest by exercising undue influence over Ms. Waddle.
+
+
+[3]On May 14, 2007, Ms. Waddle filed a cross-claim against Ms. Elrod, also alleging that Ms. Elrod had acquired her one-half interest in the Prim Lane property through undue influence. The cross-claim included a legal description of the Prim Lane property. According to the allegations of the cross-claim, after Ms. Waddle’s husband of more than fifty years died on February 12, 2001, Ms. Elrod began frequently visiting Ms. Waddle. In early March 2001, Ms. Elrod arranged for her own attorney, whom Ms. Waddle did not know, to draft both the quitclaim deed conveying a one-half interest in the Prim Lane property to Ms. Elrod and a durable power of attorney naming Ms. Elrod as Ms. Waddle’s attorney-in-fact. On March 15, 2001, Ms. Elrod drove Ms. Waddle to the attorney’s office and persuaded her to sign both documents. Ms. Waddle alleged that she did not have the benefit of independent legal counsel prior to signing the documents, that
+373
+Ms. Elrod provided no money or consideration for the interest she acquired in the Prim Lane property, that she did not willingly or knowingly intend to convey any interest in the Prim Lane property to Ms. Elrod, and that the power of attorney executed contemporaneously with the quitclaim deed created a confidential relationship giving rise a to presumption of undue influence with respect to the quitclaim deed. Ms. Waddle asked the trial court to set aside the quitclaim deed and to award her “any and all damages” caused by Ms. Elrod’s undue influence, including, and in particular, the damages resulting from Ms. Waddle’s inability to convey Regent marketable title to the Prim Lane property.
+
+
+[4]On July 10, 2007, Ms. Elrod filed an answer to the cross-claim, denying all allegations of undue influence and wrongdoing and arguing that the assistance she had provided Ms. Waddle served as consideration for the quitclaim deed.
+
+
+[5]On April 28, 2009, Regent agreed to dismiss with prejudice its claims against Ms. Waddle and Ms. Elrod. In exchange, Ms. Waddle agreed to return Regent’s $10,000 earnest money, and both Ms. Waddle and Ms. Elrod agreed that Regent would not be responsible for any portion of the court costs Ms. Waddle’s cross-claim against Ms. Elrod remained pending, however, with a jury trial scheduled for June 2 to June 4, 2009.
+
+
+[6]The day before trial, Ms. Elrod’s attorney, Mr. Gregory Reed, advised Ms. Hagan, counsel for Ms. Waddle, that Ms. Elrod was willing to return her one-half interest in the Prim Lane property to avoid going to trial if Ms. Waddle would settle the case and release all other claims against her. Through her attorney, Ms. Waddle agreed to settle the case on the condition that she would not be responsible for any of the court costs. Around 4:00 p.m., Mr. Reed advised Ms. Hagan that Ms. Elrod had agreed to settle the case with Ms. Waddle’s condition. At 4:34 p.m., Ms. Hagan sent the following email to Mr. Reed:
+
+
+Greg,
+
+
+### This confirms that we have settled this case on the following terms
+
+
+Elrod deeds property interest back to Waddle, Both [sic] parties sign full release, Waddle bears no court costs.
+
+
+Let me know if I have correctly stated our agreement.
+
+
+Thanks,
+
+
+Mary Beth
+
+
+374
+374
+### [7]At 5:02 p.m., Mr. Reed responded
+
+
+That is the agreement. I understand that you will draft the deed and take a shot at the court’s order. No admission of guilt is to be included.
+
+
+Greg Reed
+
+
+[8]The attorneys thereafter advised the trial court of the terms of the agreement. Believing that a settlement had been reached and that a written order memorializing the settlement would be entered later, the trial court cancelled the jury trial and excused prospective jurors. Counsel for Ms. Waddle prepared and forwarded the settlement documents to counsel for Ms. Elrod. Ms. Waddle, understanding that the settlement had returned sole ownership of the Prim Lane property to her, paid all outstanding property taxes. Approximately three weeks later, however, Ms. Elrod advised her attorney that she had changed her mind and no longer wanted to settle the case. When Ms. Elrod refused to sign the settlement documents, Mr. Reed moved to withdraw from further representation, and the trial court granted Mr. Reed’s motion.
+
+
+[9]On July 13, 2009, Ms. Waddle filed a motion asking the trial court to enforce the settlement agreement. On September 2, 2009, Ms. Elrod filed a response, arguing that the discussions on June 1, 2009, resulted merely in an agreement to agree, with many important material terms unresolved. Alternatively, Ms. Elrod argued that the Statute of Frauds, Tenn.Code Ann. § 29–2–101 (Supp.2011), bars enforcement of the settlement agreement because it required the transfer of an interest in real property and was not evidenced by a writing signed by Ms. Elrod or her attorney describing with specificity the terms of the agreement and the property at issue. Relying on the Uniform Electronic Transactions Act (“UETA”), see Tenn.Code Ann. §§ 47–10–101 to –123 (2001 & Supp.2011), Ms. Waddle argued in response that the email from Ms. Elrod’s attorney, which confirmed the terms of the settlement and included Mr. Reed’s typewritten name, constituted a writing signed by an agent of the party to be charged and satisfied the Statute of Frauds.
+
+
+[10]Following a hearing, the trial court entered an order on September 15, 2009, enforcing the settlement agreement. The trial court found that Ms. Elrod had agreed through her attorney and authorized agent to settle the case on the terms set out in June 1, 2009 email. As a result, the trial court divested Ms. Elrod of any right, title, or interest in the Prim Lane property and vested ownership of the property in Ms. Waddle. The trial court also dismissed with prejudice Ms. Waddle’s remaining claims against Ms. Elrod, ordered each party to bear her own attorney’s fees and discretionary costs, and taxed court costs to Ms. Waddle. The trial court’s order did not expressly address either Ms. Elrod’s argument that the Statute of Frauds precluded enforcement of the
+375
+settlement or Ms. Waddle’s argument that the emails constituted writings signed by the party to be charged under the UETA and satisfied the Statute of Frauds.
+
+
+[11]Ms. Elrod appealed, but she did not challenge the trial court’s factual finding that the parties had reached an agreement to settle the case. Rather, she argued that the Statute of Frauds precludes enforcement of the settlement agreement. The Court of Appeals rejected this argument and affirmed the trial court’s judgment enforcing the settlement agreements, reasoning that the Statute of Frauds applies only to “any contract for the sale of lands,” Tenn.Code Ann. § 29–2–101(a)(4) (emphasis added), and does not apply to a settlement agreement requiring the transfer of an interest in real property.
+
+
+[12]We granted Ms. Elrod’s application for permission to appeal.
+
+
+[13]As the Court of Appeals recognized, Ms. Elrod does not dispute that the parties reached an agreement; rather, she argues that the Statute of Frauds applies and precludes enforcement of the settlement agreement because it required the transfer of an interest in real property. In contrast, Ms. Waddle argues that the Court of Appeals’ judgment should be affirmed because the relevant portion of the Statute of Frauds applies only to contracts for the sale of land. Alternatively, Ms. Waddle maintains that the emails counsel exchanged and the legal description of the Prim Lane property in Ms. Waddle’s cross-claim satisfy the Statute of Frauds.
+
+
+[14]A settlement agreement made during the course of litigation is a contract between the parties, and as such, contract law governs disputes concerning the formation, construction, and enforceability of the settlement agreement. Like other contracts, a settlement agreement may be subject to the Statute of Frauds. The Statute of Frauds precludes actions to enforce certain types of patrol contracts unless the action is supported by written evidence of the parties’ agreement.
+
+
+[15]The settlement agreement in the present case requires a conveyance of real property. With respect to real property, Tennessee’s Statute of Frauds provides:
+
+
+No action shall be brought . . . [u]pon any contract for the sale of lands, tenements, or hereditaments, . . . unless the promise or agreement, upon which such action shall be brought, or some memorandum or note thereof, shall be in writing, and signed by the party to be charged therewith, or some other person lawfully authorized by such party. In a contract for the sale of lands, tenements, or hereditaments, the party to be charged is the party against whom enforcement of the contracts is sought.
+
+
+Tenn.Code Ann. § 29–2–101(a)(4).
+
+
+376
+[16]The primary purpose of the Statute of Frauds is to reduce the risk of fraud and perjury associated with oral testimony. The Statutes of Frauds also fosters certainty in transactions by ensuring that contract formation is not based upon loose statements or innuendoes long after witnesses have become unavailable or when memories of the precise agreement have been dimmed by the passage of time. Another purpose of the Statute of Frauds is to protect property owners against hasty or inconsiderate agreements concerning a valuable species of property and misunderstandings as to the nature and extent of such agreements.
+
+
+[17]While this Court has long emphasized that the Statute of Frauds should be strictly adhered to and construed to accomplish its intended purposes, Newman v. Carroll, 11 Tenn. (3 Yer.) 18, 26 (1832), the Statute of Frauds is an affirmative defense. See Tenn. R. Civ. P. 8.03. In other words, parol agreements within the Statute of Frauds are not void ab initio, and enforcement of such agreements may be barred only if a party pleads the Statute of Frauds. Parties may choose to abide by parol contracts for the sale of land. Indeed, the Statute of Frauds was not enacted for the purpose of permitting a person to avoid a contract. Its object was not to grant a privilege to a person to refuse to perform what he has agreed to do. It was not enacted as a shield to the dishonest.
+
+
+[18]The word “sale,” used in the statutory phrase “contract for the sale of lands, tenements, or hereditaments,” has long been broadly interpreted to mean any alienation of real property, including even a donation of realty. This Court has previously explained that such a broad construction is consistent both with the purposes of the Statute of Frauds and with the common law understanding of the term:
+
+
+The word “sale in our statute of frauds (section 3142, Shannon’s Code) means alienation, and an action on a parol contract made by the owner binding him to give or donate land to another, would, we think, fall within the terms of that statute. A contrary holding would open a wide door to perjury and fraud, and defeat, as we think, one of the purposes of the statute.
+Plaintiff insists that a parol done of land does not, in legal contemplation, stand upon a parity with a parol vendee. . . . We cannot assent to this proposition. . . . At common law the word “purchase” in its largest and most extensive sense is defined by Littleton to be the possession of lands and tenements which a man hath as by his own act or agreement, and not by descent by any of his ancestors or kindred. In this sense it is contradistinguished from acquisition by right of blood, and includes every other method of coming to an estate by but merely that of inheritance, wherein the title is vested in a person, not by his own act or
+377
+agreement, but by the single operation of law. And says Mr. Blackstone: “Purchase, indeed, in its vulgar and confined acceptation, is applied only to such acquisitions of land as are to be obtained by way of bargain and sale for money, or some other valuable consideration; but this falls far short of the legal idea of purchase, for if I give land freely to another, he is in the eyes of the law a purchaser, and falls within Littleton’s definition, for he comes to the estate by his own agreement; that is, he consents to the gift.”
+
+
+[Citation omitted.—Eds.]
+
+
+[19]In the century since the Tennessee General Assembly has not amended the Statute of Frauds to ascribe a more narrow meaning to the word “sale.” Relying on a legal dictionary, Ms. Waddle asks this Court to construe “sale” as meaning “[t]he transfer of property or title for a price . . . in money paid or promised.” See Black’s Law Dictionary 1364 (8th ed.2004) (emphasis added). However, Ms. Waddle has failed to provide any persuasive rationale for overruling our past precedent and we decline to do so. We conclude that the Court of Appeals erred by holding that the Statute of Frauds does not apply to this settlement agreement.
+
+
+[20]Consistent with the rule applied by a majority of jurisdictions, we hereby hold that the Statute of Frauds applies to any settlement agreement requiring a transfer of an interest in real property. [Extensive string citation omitted.—Eds.] We emphasize, however, that in determining whether the Statute of Frauds applies, courts must consider the terms of the settlement agreement, not the subject matter of the litigation. Settlement agreements arising from litigation that involves real property are subject to the Statute of Frauds only if the terms of the settlement agreement herein required Ms. Elrod to transfer her one-half interest in the Prim Lane property to Ms. Waddle, the Statute of Frauds applies.
+
+
+[21]We next consider whether the Statute of Frauds bars enforcement of the settlement agreement at issue in this appeal. As already explained, parol contracts are enforceable if “some memorandum or note thereof, shall be in writing and signed by the party to be charged therewith, or some other person lawfully authorized by such party.” Tenn.Code Ann. § 29–2–101(a)(4). The Statute of Frauds does not require a written contract, only a written memorandum or note evidencing the parties’ agreement. Additionally, while the writing required by the Statute of Frauds must contain the essential terms of the contract, it need not be in a single document. See Lambert v. Home Fed. Sav. & Loan Ass’n, 481 S.W.2d 770, 773 (Tenn.1972). As this Court explained in Lambert:
+
+
+The general rule is that the memorandum, in order to satisfy the statute, must contain the essential terms of the contract, expressed with such certainty that they may be understood from
+378
+the memorandum itself or some other writing to which it refers or with which it is connected, without resorting to parol evidence. A memorandum disclosing merely that a contract had been made, without showing what the contract is, is not sufficient to satisfy the requirement of the Statute of Frauds that there be a memorandum in writing of the contract.
+
+
+[22]Of course, even if one or more memoranda are produced sufficiently describing the terms of a parol agreement, the Statute of Frauds also requires that one of the writings be signed by the party to be charged or by some other person authorized to act on that party’s behalf. The authority of the agent or the evidence of his agency need not be in writing, however. While the Statute of Frauds does not define “signed,” many years ago the Court of Appeals considered whether a party’s printed name on a bill of sale satisfied the signature requirement. See Gessler v. Winton, 24 Tenn. App. 411, 145 S.W.2d 789 (1940). In holding that the printed name was sufficient, the Court of Appeals stated:
+
+
+The [S]tatute [of frauds] does not specify any particular form of signing. It merely requires that the party to be charged shall have signed the memorandum. It has been held that a cross mark is a good signature; also initials; even numerals, when used with the intention of constituting a signature; and a typewritten name or imprint made by a rubber stamp has the same effect; and this is equally true, though the typewriting or stamp impression be made by another, if the person to be charged has directed it.
+
+
+. . .
+
+
+This has been the law in England for more than a century, and has been followed quite generally in this country.
+Id. at 794 (citations and internal quotation marks omitted).
+
+
+[23]While Gessler predates email, its holding appears broad enough to encompass typed names appearing in emails. However, we need not rely upon Gessler to determine whether the email that includes the name of Ms. Elrod’s attorney satisfies the Statutes of Frauds requirement of a writing signed by the party to be charged. In 2001 the General Assembly enacted the UETA. Ms. Waddle relied upon the UETA in the trial court when arguing that the email constituted a writing for purposes of the Statute of Frauds and that Mr. Reed’s name on the email constitutes the signature of an agent of Ms. Elrod, the party to be charged. She has continued to advance these arguments on appeal.
+
+
+[24]The UETA “applies to electronic records and electronic signatures relating to a transaction.” Tenn.Code Ann. § 47–10–103(a). The General Assembly has declared that the UETA:
+
+
+379
+### Must be construed and applied to
+
+
+(1) Facilitate electronic transactions consistent with other applicable law;
+(2) Be consistent with reasonable practices concerning electronic transactions and with the continued expansion of those practices; and
+(3) Effectuate its general purpose to make uniform the law with respect to the subject of [the UETA] among states enacting it.
+Tenn.Code Ann. § 47–10–106. The UETA does not require parties to conduct transactions by electronic means. Tenn.Code Ann. § 47–10–105(a). Rather, the UETA governs “transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.” Tenn.Code Ann. § 47–10–105(a)–(b). “Transaction means an action or set of actions occurring between two (2) or more persons relating to the conduct of business, commercial, or governmental affairs.” Tenn.Code Ann. § 47–10–102(16). Under the UETA:
+
+
+(a) A record or signature may not be denied legal effect or enforceability solely because it is in electronic form.
+(b) A contract may not be denied legal effect or enforceability sole because an electronic record was used in its formation.
+(c) If a law requires a record to be in writing, an electronic record satisfies the law.
+(d) If a law requires a signature, an electronic signature satisfies the law.
+Tenn. Code Ann. § 47–10–107(a)–(d). “Electronic signature” includes “an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record. Tenn.Code Ann. § 47–10–102(8); see also id. cmt. 7 (“[T]he mere inclusion of one’s name as part of an email message” qualifies as an electronic signature “so long as in each case the signer executed or adopted the symbol with the intent to sign.”).
+
+
+[25]Applying the foregoing principles, we conclude that the Statute of Frauds does not bar enforcement of the settlement agreement at issue in this appeal. The parties, through their attorneys, evidenced an intent to finalize the settlement by electronic means; thus, the UETA applies. Pursuant to section 47–10–107(c), the emails counsel exchanged constitute a signed memorandum, note, or writing for purposes of the Statute of Frauds.
+
+
+380
+[26]Additionally, under the principles discussed in Lambert, the emails, considered along with the legal description of the Prim Lane property in the cross-claim, described the terms of the parol agreement with sufficient specificity to satisfy the Statute of Frauds. In particular, the emails described the following four material terms of the settlement: (1) Ms. Elrod would convey her interest “in the property” back to Ms. Waddle; (2) each party would sign a release giving up any claims she may have had against the other party; (3) Ms. Waddle would not be responsible for court costs; and (4) Ms. Elrod would not admit guilt. Ms. Elrod’s attorney confirmed the settlement, responding electronically “[t]hat is our agreement.” While the emails referred only to “the property,” the Prim Lane property was the only realty at issue in the litigation, and Ms. Waddle’s cross-claim included a full legal description of the Prim Lane property. As stated in Lambert, a writing is sufficient if the terms of the agreement may be understood either from the writing itself or from some other writing connected with it. The emails and cross-claim satisfy this standard.
+
+
+[27]Furthermore, although Ms. Elrod did not sign the email, there is no dispute that Mr. Reed was acting as her agent when he negotiated the settlement. He had written his signature on a printed version of the email, rather than typed his name at the end of the email, his signature would undoubtedly have been sufficient to satisfy the Statute of Frauds. The UETA, recognizing that all sorts of transactions are now routinely conducted by electronic means on a daily basis, obviates the need for a handwritten signature. Mr. Reed’s typed name at the end of the email constitutes an “electronic signature.” Tenn.Code Ann. § 47–10–107(d). As the agent of Ms. Elrod, Mr. Reed’s electronic signature on the email confirming the terms of the settlement agreement satisfies the signature requirement of the Statute of Frauds.
+
+
+Conclusion
+
+
+[28]The Statute of Frauds applies to settlement agreements requiring the transfer of an interest in real property. However, the Statute of Frauds does not bar enforcement of the settlement agreement at issue in this appeal. The emails counsel for the parties exchanged, along with the legal description of the Prim Lane property included in the cross-claim, constitute a sufficiently definite writing, note, or memorandum, and the email confirming the terms of the settlement agreement included the electronic signature of the attorney and authorized agent of Ms. Elrod, the party to be charged. Thus, on these alternate grounds we affirm the Court of Appeals’ judgment enforcing the settlement agreement, including the taxing of court costs to Ms. Elrod. Costs of this appeal also are taxed to Ms. Elrod, for which execution may issue if necessary.
+
+
+———
+
+
+381
+Note
+
+
+1.Not since the days of the telegraph have we had as many disputes about offer, acceptance, and the statute of frauds based upon uncontroverted facts as we do in the e-mail and Internet age. Once the telephone was invented, much business was conducted verbally, which generated often conflicting notes and memories of the conversations involved and the practice of sending self-serving confirming letters. But with the rise of e-mail, people are contemporaneously documenting their conversations and events all around them, creating a robust record that can be used to document or litigate over a contract just as was the case in the telegraph offer and acceptance cases featured earlier in this text. Keep this in mind when e-mailing, texting, instant messaging or otherwise posting words and images on the Internet. You are making a record that can be used for or against you or your client.
+
+
+2.What happens if a written agreement or memorandum is lost or destroyed? Can it still be used to satisfy the statute of frauds? Would it make sense to allow verbal testimony to establish the former existence and terms of such a writing? The Nevada Supreme Court thought so in Khan v. Bakhsh, 306 P.3d 411 (Nev. 2013).
+
+
+3.Satisfying the strict electronic signature requirement of the UETA is not always as simple as the previous case makes it appear. In Waddle, the court found that “the parties, through their attorneys, evidenced an intent to finalize the settlement by electronic means; thus, the UETA applies.” But, it is not always that simple.
+
+
+In J.B.B. Investment Partners, Ltd. v. Fair, 232 Cal. App. 4th 974 (Cal. Ct. App. 2014), a California trial court granted plaintiff investors’ motion to enforce a settlement agreement between the plaintiffs and defendants, limited liability companies and their principal. The court determined that the defendant satisfied the electronic signature requirement under California’s Uniform Electronic Transaction Act (UETA) because the principal printed his name at the bottom of his e-mail responding to the plaintiff’s e-mail containing the settlement offer. See Civ. Code, § 1633.1–1633.17. On appeal, the Court of Appeal of California reviewed the case to determine whether the defendant’s signature on this email satisfied the strict signature requirement of the UETA.
+
+
+Under [the] UETA . . . an electronic record satisfies the requirement that a record be in writing, and an electronic signature satisfies the requirement that the writing be signed. ‘An electronic record or electronic signature is attributable to a person if it was the act of the person . . . . [A]n ‘electronic signature’ [is defined] as ‘an electronic sound, symbol, or process attached to or logically associated with an electronic record and executed or adopted by a person with the intent to sign the electronic record. [The] UETA applies, however, only when the parties consent to conduct the transaction by electronic means. Whether the parties consent to conduct a contract by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.
+
+
+382
+The plaintiffs invested $250,000 in Boulevard and Cameron, a business owned by the defendant, Tom Fair (who besides being a businessman was also a licensed attorney). After discovering that Fair had made various fraudulent misrepresentations and omissions to them regarding their investment and his business, the plaintiffs had their attorneys contact Fair and attempt to negotiate a settlement to avoid filing a civil suit against him and his company.
+
+
+The parties had been negotiating back and forth via email, and on July 4, Russo, counsel for one plaintiff, emailed Fair a ten paragraph settlement agreement. The last paragraph of the settlement agreement contained the following language: “WE require a YES or NO on this proposal; you need to say ‘I accept.’ . . . Anything less shifts all focus to litigation . . . .” This settlement agreement did not include a signature line or signature block, and the signatures of the plaintiffs were also not on the document.
+
+
+On July 5, at 10:17 a.m., Fair replied to Russo’s email: “. . . I agree. Tom [F]air.”
+
+
+Haliburton, counsel for the other plaintiff, promptly replied to Fair via e-mail asking him to provide a less ambiguous response because he could not decide whether Fair was accepting or rejecting their settlement offer. Also, Haliburton advised Fair that he was prepared to file the complaint against him unless Fair provided them with a clear, unambiguous acceptance.
+
+
+The plaintiffs filed the complaint against Fair on July 5, just before noon. Haliburton and Russo emailed a copy of the complaint to Fair at 12:25 p.m.
+
+
+At 1:02 p.m., Fair responded to Haliburton via text message saying: “I said I agree. Took wording right from [Russo’s] e-mail. I agree.” After sending this text message, Fair promptly called Haliburton and left the following voicemail: “Hey, I just got your email . . . I thought I was quite clear on my first response, I made another response by e-mail, I said I agree with [plaintiffs’ counsel’s] terms. You know? So, that’s it.”
+
+
+At 1:07 p.m., Fair sent yet another text message to Haliburton saying: “I do not believe you gave proper notice. Also, I agreed with your terms. You should not have filed. We clearly have an agreement. [T]om [F]air.”
+
+
+At 1:36 p.m., Fair sent a text message to Russo that said: “Filing does not obviate agreement/acceptance. Pls acknowledge.”
+
+
+### At 1:53 p.m., Russo responded to Fair via e-mail saying
+
+
+This confirms full agreement. I will work on the formal settlement paperwork which will confirm to the settlement agreement made today based on the 10 numbered paragraphs below with no admission of liability or wrongdoing by anyone. I will seek to get that settlement paperwork to you for review by Monday with the goal of getting it all finalized and signed next week. The settlement is otherwise binding . . . .
+
+
+Two minutes later, at 1:55 p.m., Fair sent Haliburton the following text message: “I have accepted by phone, and [e-mail]. Stop proceeding. I said accept
+383
+which is the same as ‘agree.’ You must stop and you must tell the court we have an agreement.”
+
+
+On July 11, Haliburton sent Fair a written draft of the final settlement agreement which contained the names of the plaintiffs and defendants. “It advised that the agreement could be ‘signed and delivered by facsimile’ and that it could be ‘electronically signed’ by each party.” It also included signature blocks for each party, but neither plaintiff had signed the agreement.
+
+
+Fair never signed the July 11 settlement agreement. The plaintiffs sued Fair to enforce the settlement agreement.
+
+
+The Court of Appeal pointed out that the trial court ignored a provision in the UETA requiring the electronic signature be “executed or adopted by a person with the intent to sign the electronic record.” See § 1633.2(h). Regarding the e-mail Fair sent on July 5 at 10:17 a.m., Fair testified that he believed he had agreed to the terms that Russo suggested in an e-mail that morning, but because the plaintiffs filed the lawsuit those terms became moot and he changed his mind. He also stated that he did not consider his name at the bottom of the e-mail to be a signature to a settlement agreement because he never signed important documents, like settlement agreements, without his attorney present.
+
+
+The Court of Appeal concluded, “as a matter of law, that [the record] does not show that Fair printed his name at the end of his e-mail with any intent to formalize an electronic transaction. Indeed, substantial evidence in the record refutes such a finding.” The court concluded that the e-mail exchange between the parties indicated that they agreed to negotiate via e-mail, but nothing more.
+
+
+The July 4 settlement offer did not contain a statement indicating that the parties agreed to enter into a final settlement by electronic means. The plain language of the July 4 offer clarified that no signature was requested as the offer did not include a signature line or signature block, nor did it contain a signature by either of the plaintiffs, and advised that future paperwork was forthcoming.
+
+
+The Court of Appeal ultimately held, as a matter of law, the record contained insufficient evidence to conclude that Fair electronically signed the settlement agreement, and it reversed the trial court’s judgment.
+
+
+Lawyering Skills Problem
+
+
+One law firm’s computer system adds the following disclaimer on every email its lawyers send:
+
+
+This communication does not reflect an intention by the sender or the sender’s client or principal to conduct a transaction or make any agreement by electronic means. Nothing contained in this message or in any attachment shall satisfy the requirements for a writing, and nothing contained herein shall constitute a contract or electronic
+384
+signature under the Electronic Signatures in Global and National Commerce Act, any version of the Uniform Electronic Transactions Act or any other statute governing electronic transactions.
+
+
+What do you do if you receive an e-mail from an attorney in this firm stating that she agrees to give you an additional 10 days to file an answer to her complaint?
+
+
+1[This is a reference to U.C.C. § 2–201(2) as enacted in Nevada’s statutes.—Eds.]
+
+
+2[As a condition to licensing people to engage in certain businesses, states often require that they post a surety bond. In essence, a surety bond is an insurance policy issued in favor of any member of the public who might be damaged by the licensee’s dishonesty, insolvency, or, in some cases, incompetence. When Azevedo didn’t pay for the hay, Minister apparently sued not only him, but also the company that issued his bond.—Eds.]
+
+
+3 Statute of Frauds, 1677, 29 Car. 2, c. 3 (repealed). The amount of the transaction necessary to bring the sale within the statute was 10 pounds.
+
+
+4 As indicated in the instant case, Minister, who signed the memorandum, could be held to deliver to Azevedo the balance of the hay on the terms indicated.
+
+
+5 The record reflects the price of hay was lower in March than in the previous November, when the parties had agreed on a tonnage price.
+
+
+6 Azevedo concedes that he never challenged or replied to any of the accountings.

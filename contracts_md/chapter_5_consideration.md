@@ -1,0 +1,915 @@
+﻿Chapter 5: Consideration: The Bargain Requirement
+
+
+Anglo-American law has long taken the position that a promise will not be a legally enforceable contract unless it is “supported by consideration.” In essence, this means that something has been given in return for the promise. Another way it is often stated is that “gratuitous promises” (promises that are merely gratuities or gifts) will not be enforced. For example, if an uncle promises his nephew “I’ll give you $5,000 when you turn 21,” and the uncle asks nothing in return, this is a gratuitous promise and is not enforceable. This doesn’t mean the uncle can’t go ahead and give the nephew the money if the uncle wants to. What it does mean, however, is that if the uncle changes his mind, the nephew can’t use the courts to enforce the promise. He can, of course, use the other members of the family to put moral pressure on the uncle. Most people still believe you should keep your promises, even if they aren’t legally enforceable.
+
+
+Once the money has been paid, however, the giver can’t take it back on the basis that there’s no consideration. It’s no longer a matter of contract law because contract law is concerned with promises, which are said to be executory (i.e., not yet “executed” or performed). There’s no longer any promise involved. Whatever was to be done is done. Whose property the money is becomes the issue. It’s now a matter of property—not contract—law. The general rule from property law is that when the property is intentionally turned over (“delivered” with “donative intent”) to the recipient, the gift is “complete” or “executed” and the giver can’t force the recipient to give it back.
+
+
+For many law students, understanding exactly what is necessary to have a promise “supported by consideration” is one of the biggest mysteries of the first year. The concept isn’t really that difficult but people have conspired to make it hard for you to learn it. First, understand that the purpose of the consideration doctrine is to serve as a screening device to separate those agreements that the law will enforce from those that it won’t. In the past, other filters have been used to accomplish this task. For example, previously an agreement that had been sealed with a wax imprint was enforceable (see note at end of chapter). Seals are now obsolete and the requirement of consideration remains in its role as a filter separating legally enforceable agreements from those that are not.
+
+
+160
+Second, if you took a business law course, your business law teacher may have been a member of the conspiracy. To avoid the tough issues, business law teachers sometimes define consideration as “benefit to the promisor or detriment to the promisee.” If you learned this definition, unlearn it!
+
+
+Some of the other members of the conspiracy are dead. They are the judges who wrote the opinions that are still quoted even though they define consideration in outmoded ways. The concept of consideration has changed over the years and many old opinions contain statements about consideration that were correct when they were written but are not correct under the modern concept of consideration.
+
+
+Modern judges have joined the conspiracy, too. As you have probably figured out by now, many judicial opinions contain loose language that is correct in the context of the particular case but is not correct as a statement of a universal principle of law. This happens with alarming frequency when courts talk about consideration.
+
+
+The key to understanding consideration is the word “bargain.” Read carefully R2d § 71(1). It tells us we need two things in order for there to be consideration: (1) The person making the promise must get in return for this promise either (a) another promise or (b) a performance and (2) the return promise or performance she receives must be “bargained for.” The first requirement, phrased in the alternative, is easy. It is the second that has caused mischief in law school for years.
+
+
+R2d § 71(2) attempts to explain what is meant by the requirement that it be “bargained for.” It doesn’t mean you have to haggle over it! What it really means is that (1) the promisor must want it (the performance or return promise) in return for the promise (that is, the prospect of getting the performance or return promise must be at least part of the reason she is making the promise in the first place) and (2) getting this performance or return promise has to be a condition to her performing her promise. Put another way, each side of the deal either changed its position or promised to change its position in exchange for the other side’s change in position or promise to change position.
+
+
+A tells B: “I’ll give you my car if you’ll pay me $1,000.” A’s promise is supported by consideration because (1) he is making the promise to give his car in order to get (a) the payment of $1,000 or (b) B’s return promise to pay $1,000 and (2) A doesn’t have to give B the car unless B pays the money or promises to pay it.
+
+
+Lobbyist tells Congressperson: “I’ll contribute $100,000 to your campaign.” Let’s suppose Lobbyist is doing this only because she believes Congressperson is really the best person for the job. She doesn’t expect anything in return. The promise to pay the $100,000 is not enforceable
+161
+because there was no consideration. There was no consideration because Lobbyist didn’t bargain for anything in return.
+
+
+Now let’s get back to the real world. Lobbyist tells Congressperson: “I’ll contribute $500,000 to your campaign.” Lobbyist promises the contribution because Lobbyist has a bill she wants passed and she knows that Congressperson is more likely to vote for the bill if Lobbyist makes a big campaign contribution. Is there consideration for Lobbyist’s promise to make the contribution? No. Even though Lobbyist met the first of our requirements for consideration (she was motivated to make the promise by the prospect of getting Congressperson’s vote), she didn’t require Congressperson to vote for her bill as a condition to performing her promise.
+
+
+Suppose Lobbyist tells Congressperson: “I’ll contribute $900,000 to your campaign if you’ll vote for my bill.” Now we have a proposed deal consisting of a promise (to pay $900,000) supported by consideration (the return promise to vote for the bill)! Of course we also have a bribe, and Congressperson and Lobbyist will both go to jail if they are convicted.
+
+
+The thing that is bargained for may be a promise or a performance. Usually, it’s a promise and we have a bilateral contract. R2d § 71(3) explains what we mean when we talk about a bargained-for “performance.” Read that section carefully. Performance can be positive (something that is to be affirmatively done) or negative (refraining from doing something). The latter is called a “forbearance.” The case that follows the next two problems illustrates what is meant by a “forbearance.”
+
+
+But before we get to the case, let’s look a little more at the bargain requirement in a series of problems.
+
+
+———
+
+
+Problem 5-1
+
+
+The owners of a major league baseball team were thinking about moving the franchise. A group of civic boosters wanted a team in their city. The boosters told the team owners, “If you’ll move the team to Salt Lake, we’ll build a new stadium.” The parties agreed to this, and a formal document was executed in which the team agreed to move to Salt Lake City and remain there for at least five years and the city agreed to build a new stadium in accordance with certain specifications set forth in the document.
+
+
+(a)What was the consideration flowing from the city to the team?
+
+
+(b)What was the consideration flowing from the team to the city?
+
+
+162
+Problem 5-2
+
+
+The owners of the professional football team were thinking about moving the franchise. A group of civic boosters wanted a team in their city. The boosters told the owners “if you’ll move the team to Portland, we’ll build a new stadium.” The owners said “we’re keeping our options open. If you build a new stadium, that will make your city very attractive to us.” Over the opposition of citizens who thought the city had needs more pressing than a new stadium, the city government built a new stadium. When the stadium was completed, the team sent the city a letter promising to move the team. The mayor replied with a letter thanking the team but making no promises. (An earlier draft had the city promising all sorts of things, but someone showed it to the city attorney, who edited out all commitments of any kind by the city, saying the mayor had no authority to promise these things without the approval of the city council.)
+
+
+(a)Is the team’s promise to move binding?
+
+
+(b)If so, what is the consideration that makes the promise binding?
+
+
+———
+Notes
+
+
+1.The preceding problems are made up, but here is a story that is true. The Cincinnati Bengals threatened to leave town because a new stadium had been built for the Cincinnati Reds, but none had been built for the Bengals. So the county built the Bengals a new stadium at a cost of $450 million. The stadium agreement, which the Bengals signed, stated that a half-cent increase in the county’s sales tax was needed to keep “competitive and viable major-league football and baseball teams in Cincinnati by construction of a new football stadium.”
+
+
+After the Bengals compiled a terrible record over several seasons, the county commission voted unanimously to ask the county’s attorney to look into the question: “Has the [Bengals’] long losing record of poor performances on the field risen to violate the express or implied conditions of the agreement?”
+
+
+## Practice Tip
+
+
+Be careful of the language you put in your contracts. Think of the way that even innocuous statements like “competitive and viable teams” or “best efforts” might come back to bite you. This may seem like paranoia, but in terms of a legal career, it’s a healthy paranoia. As Henry Kissinger, Secretary of State in the Nixon administration, once said: “Even paranoids have enemies.”
+
+
+2.Although the R2d devotes 10 sections to consideration and 14 sections to contracts without consideration, in the real world, consideration is usually not an issue. And outside the United States, consideration is often not required
+163
+at all. Both the CISG and UNIDROIT make no provision for it. It remains a fixture of United States law and the United States law school experience, largely out of tradition and an apparent belief that working with the doctrine is a good method for teaching students how to think like a lawyer.
+
+
+———
+
+
+Hamer v. Sidway, Court of Appeals of New York, 124 N.Y. 538, 27 N.E. 256 (1891)
+
+
+[1]Appeal from the order of the General Term of the Supreme Court in the fourth judicial department, made July 1, 1890, which reversed a judgment in favor of plaintiff entered upon a decision of the court on trial at Special Term and granted a new trial.
+
+
+[2]The plaintiff presented a claim [on an alleged contract] to the executor of William E. Story, Sr., for $5,000 and interest from the 6th day of February, 1875. She acquired it through several mesne assignments from William E. Story, 2d.1 The claim being rejected by the executor, this action was brought. It appears that William E. Story, Sr., was the uncle of William E. Story, 2d; that at the celebration of the golden wedding of Samuel Story and wife, father and mother of William E. Story, Sr., on the 20th day of March, 1869, in the presence of the family and invited guests, he promised his nephew that if he would refrain from drinking, using tobacco, swearing, and playing cards or billiards for money until he became twenty-one years of age he would pay him a sum of $5,000.2 The nephew assented thereto and fully performed the conditions inducing the promise. When the nephew arrived at the age of twenty-one years and on the 31st day of January, 1875, he wrote to his uncle informing him that he had performed his part of the agreement and had thereby become entitled to the sum of $5,000. The uncle received the letter and a few days later on the sixth of February, [1875,] he wrote and mailed to his nephew the following letter:
+### W. E. Story, Jr.
+
+
+Dear Nephew—
+
+
+Your letter of the 31st ult. came to hand all right, saying that you had lived up to the promise made to me several years ago. I have no doubt but you have, for which you shall have five thousand dollars as I promised you. I had the money in the bank the day you was 21 years old that I intend for you, and you shall have the
+164
+money certain. Now, Willie, I do not intend to interfere with this money in any way till I think you are capable of taking care of it and the sooner that time comes the better it will please me. I would hate very much to have you start out in some adventure that you thought all right and lose this money in one year. The first five thousand dollars that I got together cost me a heap of hard work. You would hardly believe me when I tell you that to obtain this I shoved a jackplane many a day, butchered three or four years, then came to this city, and after three months perseverance I obtained a situation in a grocery store. I opened this store early, closed late, slept in the fourth story of the building in a room 30 by 40 feet and not a human being in the building but myself. All this I done to live as cheap as I could to save something. I don’t want you to take up with this kind of fare. I was here in the cholera season ’49 and ’52 and the deaths averaged 80 to 125 daily and plenty of smallpox. I wanted to go home, but Mr. Fisk, the gentleman I was working for, told me if I left then, after it got healthy he probably would not want me. I stayed. All the money I have saved I know just how I got it. It did not come to me in any mysterious way, and the reason I speak of this is that money got in this way stops longer with the fellow that gets it with hard knocks than it does when he finds it. Willie, you are 21 and you have many a thing to learn yet. This money you have earned much easier than I did besides acquiring good habits at the same time and you are quite welcome to the money; hope you will make good use of it. I was ten long years getting this together after I was your age. Now hoping this will be satisfactory, I stop. . . .
+
+
+Truly Yours,
+W. E. Story.
+
+
+P.S.—You can consider this money on interest.
+
+
+[3]The nephew received the letter and thereafter consented that the money should remain with his uncle in accordance with the terms and conditions of the letter. The uncle died on the 29th day of January 1887, without having paid over to his nephew any portion of the said $5,000 and interest.
+
+
+[4]Parker, J. The question which provoked the most discussion by counsel on this appeal, and which lies at the foundation of plaintiffs asserted right of recovery, is whether by virtue of a contract defendant’s testator William E. Story became indebted to his nephew William E. Story, 2d on his twenty-first birthday in the sum of five thousand dollars. The trial court found as a fact that “on the 20th day of March, 1869, . . . William E. Story agreed to and with William E. Story, 2d, that if he would refrain from drinking liquor, using tobacco, swearing, and playing cards or
+
+
+165
+
+
+billiards for money until he should become 21 years of age then he, the said William E. Story, would at that time pay him, the said William E. Story, 2d, the sum of $5,000 for such refraining, to which the said William E. Story, 2d, agreed,” and that he “in all things fully performed his part of said agreement.”
+
+
+[5]The defendant contends that the contract was without consideration to support it, and therefore, invalid. He asserts that the promise by refraining from the use of liquor and tobacco was not harmed but benefitted; that which he did was best for him to do independently of his uncle’s promise, and insists that it follows that unless the promisor was benefitted, the contract was without consideration. A contention, which if well founded, would seem to leave open for controversy in many cases whether that which the promisee did or omitted to do was, in fact, of such benefit to him as to leave no consideration to support the enforcement of the promisor’s agreement. Such a rule could not be tolerated, and is without foundation in the law. The Exchequer Chamber, in 1875, defined consideration as follows: “A valuable consideration in the sense of the law may consist either in some right, interest, profit or benefit accruing to the one party, or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other.” Courts “will not ask whether the thing which forms the consideration does in fact benefit the promisee or a third party, or is of any substantial value to anyone. It is enough that something is promised, done, forborne or suffered by the party to whom the promise is made as consideration for the promise made to him.” (Anson’s Prin. Of Con. 63.)
+[6]“In general a waiver of any legal right at the request of another party is a sufficient consideration for a promise.” (Parsons on Contracts, 444.) “Any damage, or suspension, or forbearance of a right will be sufficient to sustain a promise.” (Kent, vol. 2,465, 12th ed.)
+
+
+[7]Pollock, in his work on contracts, page 166, after citing the definition given by the Exchequer Chamber already quoted, says: “The second branch of this judicial description is really the most important one. Consideration means not so much that one party is profiting as that the other abandons some legal right in the present or limits his legal freedom of action in the future as an inducement for the promise of the first.”
+
+
+[8]Now, applying this rule to the facts before us, the promisee used tobacco, occasionally drank liquor, and he had a legal right to do so. That right he abandoned for a period of years upon the strength of the promise of the testator that for such forbearance he would give him $5,000. We need not speculate on the effort which may have been required to give up the use of those stimulants. It is sufficient that he restricted his lawful freedom of action within certain prescribed limits upon the faith of his uncle’s agreement, and now having fully performed the conditions imposed, it is of
+166
+no moment whether such performance actually proved a benefit to the promissor, and the court will not inquire into it, but were it a proper subject of inquiry, we see nothing in this record that would permit a determination that the uncle was not benefitted in a legal sense. . . .
+
+
+[9]The order appealed from should be reversed and the judgement of the Special Term affirmed, with costs payable out of the estate.
+
+
+———
+
+
+Notes and Questions
+
+
+1.Willie was not the litigious sort, at least not within the family. After his uncle’s death, when money did not seem to be forthcoming from the estate, he sold the right to the money, his claim, to a third party who, it appears, sold it as well and so on (the series of “mesne agreements”) until it reached the plaintiff. Discounting and transferring contract claims—taking less than their face amount for them and transferring them on—is an old business that continues today. One of the most powerful inventions of modern business law is the ability to slice, dice, and sell contract rights, debt, equity, and other entitlements to payment streams into different tranches with different priorities and different risks and rates of return. These are the techniques used to “securitize” something. So, remember, if you or your client has a contract claim, there are more than the two alternatives of pursuing it or dropping it; you may also be able to sell it, subject to some restrictions. The sale of personal tort claims is generally prohibited and the purported sale or assignment of those claims will generally have no legal effect.
+
+
+2.Suppose the uncle had said, “I’ll give you $5,000, no strings attached, but hope that out of gratitude you’ll refrain from drinking.” Would there have been a contract?
+
+
+3.Suppose the uncle had said, “I’ll give you $5,000 right now if you’ll promise not to drink until you’re 21?” Would there have been a contract?
+
+
+4.What is wrong with the argument that there was no consideration because Willie was benefitted rather than harmed by doing what his uncle wanted?
+
+
+———
+
+
+Batsakis v. Demotsis, Court of Civil Appeals of Texas, 226 S.W.2d 673 (1949)
+
+
+McGill, Justice.
+
+
+[1]This is an appeal from a judgment of the 57th judicial District Court of Bexar County. Appellant was plaintiff and appellee was defendant in the trial court. The parties will be so designated.
+
+
+167
+[2]Plaintiff sued defendant to recover $2,000 with interest at the rate of 8% per annum from April 2, 1942, alleged to be due on the following instrument, being a translation from the original, which is written in the Greek language:
+
+
+Peiraeus
+April 2, 1942
+
+
+Mr. George Batsakis Konstantinou Diadohou #7 Peiraeus
+
+
+### Mr. Batsakis
+
+
+I state by my present (letter) that I received today from you the amount of two thousand dollars ($2,000.00) of United States of America money, which I borrowed from you for the support of my family during these difficult days and because it is impossible for me to transfer dollars of my own from America.
+
+
+The above amount I accept with the expressed promise that I will return to you again in American dollars either at the end of the present war or even before in the event that you might be able to find a way to collect them (dollars) from my representative in America to whom I shall write and give him an order relative to this.
+
+
+You understand until the final execution (payment) to the above amount an eight per cent interest will be added and paid together with the principal.
+
+
+I thank you and I remain yours with respects.
+
+
+The recipient,
+
+
+(Signed) Eugenia The. Demotsis
+
+
+[3]Trial to the court without the intervention of a jury resulted in a judgment in favor of plaintiff for $750.00 principal and interest at the rate of 8% per annum from April 2, 1942 to the date of judgment, totaling $1163.83, with interest thereon at the rate of 8% per annum until paid. Plaintiff has perfected his appeal.
+
+
+[4]The court sustained certain special exceptions of plaintiff to defendant’s first amended original answer on which the case was tried, and struck there from paragraphs II, III and V. Defendant excepted to such action of the court, but has not cross-assigned error here. The answer, stripped of such paragraphs, consisted of a general denial contained in paragraph I thereof, and of paragraph IV, which is as follows:
+
+
+IV.That under the circumstances alleged in Paragraph II of this answer, the consideration upon which said written instrument sued upon by plaintiff herein is founded, is wanting and has failed to the extent of $1975.00, and defendant pleads specially under
+168
+the verification hereinafter made the want and failure of consideration stated, and now tenders, as defendant has heretofore tendered to plaintiff, $25.00 as the value of the loan of money received by defendant from plaintiff, together with interest thereon.
+
+
+Further, in connection with this plea of want and failure of consideration defendant alleges that she at no time received from plaintiff himself or from anyone for plaintiff any money or thing of value other than, as hereinbefore alleged, the original loan of 500,000 drachmae. That at the time of the loan by plaintiff to defendant of said 500,000 drachmae the value of 500,000 drachmae in the Kingdom of Greece in dollars of money of the United States of America, was $25.00, and also at said time the value of 500,000 drachmae of Greek money in the United States of America in dollars was $25.00. The plea of want and failure of consideration is verified by defendant as follows.
+
+
+[5]The allegations in paragraph II which were stricken, referred to in paragraph IV, were that the instrument sued on was signed and delivered in the Kingdom of Greece on or about April 2, 1942, at which time both plaintiff [Batsakis] and defendant [Demotsis] were residents of and residing in the Kingdom of Greece, and [Demotsis] avers that on or about April 12, 1942 she owned money and property and had credit in the United States of America, but was then and there in the Kingdom of Greece in straitened financial circumstances due to the conditions produced by World War II and could not make use of her money and property and credit existing in the United States of America. That in the circumstances the plaintiff agreed to and did lend to defendant the sum of 500,000 drachmae, which at that time, on or about April 12, 1942, had the value of $25.00 in money of the United States of America. That the said plaintiff, knowing defendant’s financial distress and desire to return to the United States of America, exacted of her the written instrument plaintiff sues upon, which was a promise by her to pay to him the sum of $2,000.00 of United States of America money.
+[6][Batsakis] specially excepted to paragraph IV because the allegations thereof were insufficient to allege either want of consideration or failure of consideration, in that it affirmatively appears therefrom that [Demotsis] received what was agreed to be delivered to her, and that [Batsakis] breached no agreement. The court overruled this exception, and such action is assigned as error. Error is also assigned because of the court’s failure to enter judgment for the whole unpaid balance of the principal of the instrument with interest as therein provided.
+
+
+[7]Defendant testified that she did receive 500,000 drachmae from plaintiff. It is not clear whether she received all the 500,000 drachmae or
+169
+only a portion of them before she signed the instrument in question. Her testimony clearly shows that the understanding of the parties was that plaintiff would give her the 500,000 drachmae if she would sign the instrument. She testified:
+
+
+Q.Who suggested the figure of $2,000.00?
+
+
+A.That was how he asked me from the beginning. He said he will give me five hundred thousand drachmae provided I signed that I would pay him $2,000.00 American money.
+
+
+[8]The transaction amounted to a sale by plaintiff of the 500,000 drachmae in consideration of the execution of the instrument sued on, by defendant. It is not contended that the drachmae had no value. Indeed, the judgment indicates that the trial court placed a value of $750.00 on them or on the other consideration which plaintiff gave defendant for the instrument if he believed plaintiff’s testimony. Therefore the plea of want of consideration was unavailing. A plea of want of consideration amounts to a contention that the instrument never became a valid obligation in the first place.
+
+
+[9]Mere inadequacy of consideration will not void a contract.
+
+
+[10]Nor was the plea of failure of consideration3 availing. Defendant got exactly what she contracted for according to her own testimony. The court should have rendered judgment in favor of plaintiff against defendant for the principal sum of $2,000.00 evidenced by the instrument sued on, with interest as therein provided. We construe the provision relating to interest as providing for interest at the rate of 8% per annum. The judgment is reformed so as to award appellant a recovery against appellee of $2,000.00 with interest thereon at the rate of 8% per annum from April 2, 1942. Such judgment will bear interest at the rate of 8% per annum until paid on $2,000.00 thereof and on the balance interest at the rate of 6% per annum. As so reformed, the judgment is affirmed.
+
+
+Reformed and affirmed.
+
+
+———
+
+
+Questions
+
+
+1.The court says “mere inadequacy of consideration will not void a contract.” What does that mean?
+
+
+2.Does it matter whether the 500,000 drachmae had a market value of $25 (as Ms. Demotsis claimed) or $750 (as the trial court found)?
+
+
+170
+3.Let’s assume that (i) the 500,000 drachmae was worth only $25, (ii) the court accepts the R2d’s position that nominal consideration will not make a contract enforceable, and (iii) $25 was such a small sum as to be nominal. Would these assumptions change the outcome in the case?
+
+
+———
+Nominal Consideration
+
+
+The historical rule has been that “courts will not look into the adequacy of consideration.” What this means is that as long as there is some consideration, it does not matter that the exchange is grossly unfair. It was even said that one could agree to exchange a great estate for a peppercorn. This sort of consideration where the value of what is given as consideration is not significant in relation to what is received, is called “nominal consideration” or sometimes “peppercorn consideration” because Blackstone used the peppercorn as an example in his 1766 treatise.
+
+
+“Nominal” doesn’t just mean “small” in English; it also means “in name only.” Often, things that are offered “in name only” are “small”—so it is easy to adopt “small” as the test, but that is not what the consideration doctrine is focusing upon. So, when you think about “nominal consideration” think in terms of whether the consideration was really bargained for, not its size. Confusion arises when folks notice that consideration that is recited and not really bargained for is often small and then they think that “nominal” is being used in its “small” sense.
+
+
+As you can imagine, there are very few cases involving nominal consideration. Nevertheless, the use of nominal consideration to support contracts seemed so generally accepted that until fairly recently it used to be common for lawyers to begin the promises in a written contract with the phrase “for $1 in hand paid and other good and valuable consideration, the receipt of which is hereby acknowledged, the undersigned promises . . .” This technique continues to be used, although language of this sort generally marks a lawyer as being rather backward. There are, however, jurisdictions in which a recitation of consideration, even nominal consideration, creates a rebuttable presumption that consideration to support the contract was present. See, e.g., Cal. Civ. Code § 1614.
+
+
+The justification for allowing enforcement of promises supported by nominal consideration was that it allowed a person to make (or rely on) a promise without having to worry about questions of consideration. It also allowed a person to make an enforceable gift promise. The first Restatement took this position. Illustration 1 to Section 84 read as follows:
+
+
+A wishes to make a binding promise to his son B to convey to B Blackacre, which is worth $5,000. Being advised that a gratuitous promise is not binding, A writes to B an offer to sell Blackacre for $1. B accepts. B’s promise to pay $1 is sufficient consideration.
+
+
+171
+The R2d takes a different position. The R2d looks solely at the bargain requirement. The $1 (or the peppercorn) is consideration only if it is actually bargained for, that is only if the person making the promise actually wants it and only if the prospect of receiving it is part of the motivation for entering into the contract. The key to understanding the modern doctrine of consideration, thus, is to focus on the “bargained for” element.
+
+
+Conversely, if nominal consideration is not bargained for, it will not support a promise as a matter of contract law. Illustration 5 to R2d § 71 reads as follows:
+
+
+A desires to make a binding promise to give $1,000 to his son. Being advised that a gratuitous promise is not binding, A offers to buy from B for $1,000 a book worth less than $1. B accepts the offer knowing that the purchase of the book is a mere pretense. There is no consideration for A’s promise to pay $1,000.
+
+
+Is the illustrated “contract” one to pay $1,000 in exchange for a $1 book? Or is it really a promise of a $999 gift? Pay attention to form, but do not let it blind you to substance.
+
+
+In the limited context of option contracts, however, the R2d does recognize nominal consideration. Read R2d § 87(1) and the Comment following it.
+
+
+———
+
+
+Schnell v. Nell, Supreme Court of Indiana, 17 Ind. 29 (1861)
+
+
+Perkins, Justice.
+
+
+### [1]Action by J. B. Nell against Zacharias Schnell, upon the following instrument
+
+
+This agreement, entered into this 13th day of February, 1856, between Zacharias Schnell, of Indianapolis, Marion county, State of Indiana, as party of the first part, and J. B. Nell, of the same place, Wendelin Lorenz, of Stilesville, Hendricks county, State of Indiana, and Donata Lorenz, of Frickinger, Grand Duchy of Baden, Germany, as parties of the second part, witnesseth: The said Zacharias Schnell agrees as follows: whereas his wife, Theresa Schnell, now deceased, has made a last will and testament, in which, among other provisions, it was ordained that every one of the above named second parties, should receive the sum of $200; and whereas the said provisions of the will must remain a nullity, for the reason that no property, real or personal,
+172
+was in the possession of the said Theresa Schnell, deceased, in her own name, at the time of her death, and all property held by Zacharias and Theresa Schnell jointly, therefore reverts to her husband; and whereas the said Theresa Schnell has also been a dutiful and loving wife to the said Zach. Schnell, and has materially aided him in the acquisition of all property, real and personal, now possessed by him; for, and in consideration of all of this, and the love and respect he bears to his wife; and, furthermore, in consideration of one cent, received by him of the second parties, he then said Zach Schnell, agrees to pay the above named sums of money to the parties of the second part, to wit: $200 to the said J. B. Nell; $200 to the said Wendelin Lorenz; and $200 to the said Donna Lorenz, in the following installment, viz., $200 in one year from the date of these presents; $200 in two years, and $200 in three years; to be divided between the parties in equal portions $66 2/3 each year, or as they may agree, till each one has received his full sum of $200.
+
+
+And said parties of the second part, for, and in consideration of this, agree to pay the above named sum of money [one cent], and to deliver up to said Schnell, and abstain from collecting any real or supposed claims upon him or his estate, arising from the said last will and testament of the said Theresa Schnell, deceased.
+
+
+In witness whereof, the said parties on this 13th day of February, 1856, set hereunto their hands and seals
+
+
+Zacharias Schnell, [SEAL]
+
+
+J. B. Nell, [SEAL]
+
+
+Wen. Lorenz, [SEAL]
+
+
+[2]The complaint contained no averment of a consideration for the instrument, outside of those expressed in it; and did not aver that the one cent agreed to be paid, had been paid or tendered.
+
+
+[3]A demurrer to the complaint was overruled.
+
+
+[4]The defendant answered, that the instrument sued on was given for no consideration whatever.
+
+
+[5]He further answered, that it was given for no consideration, because his said wife, Theresa, at the time she made the will mentioned, and at the time of her death, owned, neither separately, nor jointly with her husband, or anyone else (except so far as the law gave her an interest in her husband’s property), any property, real or personal, etc.
+
+
+[6]The will is copied into the record, but need not be into this opinion.
+
+
+[7]The Court sustained a demurrer to these answers, evidently on the ground that they were regarded as contradicting the instrument sued
+173
+on, which particularly set out the considerations upon which it was executed. But the instrument is latently ambiguous on this point.
+
+
+[8]The case turned below, and must turn here, upon the question whether the instrument sued on does express a consideration sufficient to give it legal obligation, as against Zacharias Schnell. It specifies three distinct considerations for his promise to pay $600:
+
+
+(1)A promise, on the part of plaintiffs, to pay him one cent.
+
+
+(2)The love and affection he bore his deceased wife, and the fact that she had done her part, as his wife, in the acquisition of property.
+
+
+(3)The fact that she had expressed her desire, in the form of an inoperative will that the persons named therein should have the sums of money specified.
+
+
+[9]The consideration of one cent will not support the promise of Schnell. It is true, that as a general preposition, inadequacy of consideration will not vitiate an agreement. But this doctrine does not apply to a mere exchange of sums of money, of coin, whose value is exactly fixed, but to the exchange of something of, in itself, indeterminate value. In this case, had the one cent mentioned, been some particular one cent, a family piece, or ancient, remarkable coin, possessing an indeterminate value, extrinsic from its simple money value, a different view might be taken. As it is, the mere promise to pay six hundred dollars for one cent, even had the portion of that cent due from the plaintiff been tendered, is an unconscionable contract, void, at first blush, upon its face, if it be regarded as an earnest one. The consideration of one cent is, plainly, in this case, merely nominal, and intended to be so. As the will and testament of Schnell’s wife imposed no legal obligation upon him to discharge her bequests out of his property, and as she had done none of her own, his promise to discharge them was not legally binding upon him, on that ground. A moral consideration, only, will not support a promise. And for the same reason, a valid consideration for his promise cannot be found in the fact of a compromise of a disputed claim; for where such claim is legally groundless, a promise upon a compromise of it, or of a suit upon it, is not legally binding. There was no mistake of law or fact in this case, as the agreement admits the will inoperative and void. The promise was simply one to make a gift. The services of his wife, and the love and affection he had borne her, are objectionable as legal considerations for Schnell’s promise on two grounds:
+The fact that Schnell loved his wife, and that she had been industrious, constituted no consideration for his promise to pay J. B. Nell, and the Lorenzes, a sum of money. Whether, if his wife in her lifetime, and made a bargain with Schnell, that, in consideration of his promising to pay, after her death, to the
+174
+persons named, a sum of money, she would be industrious, and worthy of his affection, such a promise would have been valid and consistent with public policy, we need not decide. Nor is the fact that Schnell now venerates the memory of his deceased wife, a legal consideration for a promise to pay any third person money.
+
+
+[10]The instrument sued on, interpreted in the light of the facts alleged in the second paragraph of the answer, will not support an action. The demurrer to the answer should have been overruled.
+
+
+[11]Per Curiam. The judgment is reversed, with costs. Cause remanded, etc.
+
+
+———
+
+
+Questions
+
+
+1.Is this just an early case rejecting nominal consideration or is there more to it?
+
+
+2.Suppose that instead of promising to give the plaintiffs $600 for one cent, Schnell had agreed to sell them 40 acres of land for one cent. Would the result have been different in 1861? Would it be different today?
+
+
+3.In the next to last paragraph of the document, the plaintiffs agree to give up any claims they may have under the will. Why isn’t this consideration under R2d § 74(1)? Why isn’t it consideration under § 74(2)? What do you suppose is the purpose of R2d § 74(2)?
+
+
+———
+
+
+Illusory Promises
+
+
+Suppose that Young Mr. Story had said to Old Mr. Story: “Promise to pay me $5,000 and I may give up smoking.” Would this promise to maybe give up smoking be consideration for the promise to pay $5,000? The answer is no. To be consideration, it has to be a real promise. What Young Mr. Story gave in our hypothetical is sometimes called an “illusory promise.” He hasn’t bound himself to anything. He has just as much legal right to continue smoking after he makes the deal as he had before. Illusory promises are not consideration.
+
+
+Conditional Promises
+
+
+Conditional promises, such as “I promise to pay you $10,000 if X happens,” present a more difficult case. But there is a fairly easy basic rule that applies: A conditional promise is consideration if the condition is outside the control of the promissor. One way to understand the reason for this is to consider this case: Suppose I say “I’ll promise to pay you $100 if the coin I’m going to flip comes up heads.” A mathematician would say that
+175
+promise is the equivalent of a promise to pay $50, because the mathematical value of a 50–50 chance of getting $100 is $50.
+
+
+Contracts of the kind described above are called “aleatory contracts.” “Aleatory” is another word for “gambling.” But aleatory contracts are actually quite important in business. Many people have become very wealthy by devising new types of financial derivatives which were nothing more than very sophisticated aleatory contracts.
+
+
+One common type of aleatory contract is an insurance policy. The insurance company promises to pay to repair your car if it is damaged (a condition over which the insurance company has no control).
+
+
+What happens if the condition is within the control of the promissor? That’s a more difficult case, and we will consider it after covering some other points.
+
+
+Alternative Promises
+Suppose a person says: “If you promise to pay me $10,000, I’ll promise to do either A or B, my choice.” Is that promise consideration, or is it an illusory promise? It depends. If both A and B, taken separately, would be consideration, then the promise is consideration. But if either of them would not be consideration, then the promise to do one or the other is not consideration. This makes sense; if one alternative is illusory consideration, then the requirement of consideration is not met.
+
+
+For example, a real estate developer might want to make sure she has financing lined up before she commits to starting a project. So she could go to a lending institution and enter into an agreement where the lender agrees to make her a loan of ten million dollars and she agrees to repay the loan with interest at the annual rate of six per cent. The consideration for the lender’s promise to make the loan would be the borrower’s promise to pay interest. But if the borrower thinks that interest rates will be lower at the time the loan is to be made, she may want the freedom to shop for lower rates at that time. In that case, she might negotiate for a deal whereby she agrees to either (i) take the loan and pay the lender interest at the rate of 8 percent per annum or (ii) pay the lender a commitment fee of $100,000. Because either the interest or the commitment fee would be consideration for a promise to loan money, the lender’s promise is supported by consideration and the lender’s promise is enforceable.
+
+
+———
+
+
+Problem 5-3
+
+
+Term life insurance is the original form of life insurance. It is a temporary policy that builds no cash value and covers only a specific term or period of time. It is earned in exchange for a premium payment and, if the insured dies
+176
+during the term, the death benefit will be paid to the beneficiary. In a term life insurance policy, what is:
+
+
+(a)the promise made by the insurance company?
+
+
+(b)the consideration for that promise?
+
+
+Problem 5-4
+
+
+A real estate developer who is building a project will often require the contractor who is doing the actual building to purchase a “completion bond.” (Actually, it is usually the lender who is financing the project who requires the bond in order to ensure that the building will be completed so that, if the lender later forecloses, they are not foreclosing on a half completed building. But to avoid making the problem unnecessarily complex, let’s keep the lender out of it for now.) The terms of the bond provide that if the contractor does not finish the project, the bonding company will (at the bonding company’s expense) hire another contractor to complete the project. If the bond is a bilateral contract in which the contractor agrees to pay the bonding company a fee (called the “premium”), what is the consideration for the contractor’s promise? What is the consideration for the bonding company’s promise?
+
+
+Problem 5-5
+
+
+In the natural gas industry, “take-or-pay” contracts are common. A gas producer and a pipeline company will enter into a contract under the terms of which the gas producer will promise to sell the pipeline gas at a price of X dollars per million cubic feet of gas. The pipeline company will promise to either (a) take the gas and pay for it or (b) pay a cancellation fee of Y dollars. What is the consideration for the producer’s promise to sell the gas?
+
+
+Problem 5-6
+
+
+Sherlock Holmes lets (rents) his lodgings at 221B Baker Street from Mrs. Hudson at a rent of £4 per month. For many years, Holmes has taken the lodgings on a month-to-month basis, but recently Mrs. Hudson became your client, and you advised her to put Holmes on an annual lease. Holmes insisted that the lease contain a provision allowing him to vacate the premises at any time and have no further obligation for paying any further rent upon the payment of a “cancellation fee.” Against your advice, this clause was included in the lease.
+
+
+Mrs. Hudson has just discovered the secret behind Holmes’ high energy level and she has told you in no uncertain terms that you have to find a way to “get that dope fiend out of my house.” After reviewing the lease, you discover that you neglected to include a provision that would allow Mrs. Hudson to evict
+177
+Holmes on the basis of his pharmacological predilections. Can she avoid the lease on the basis that there is no consideration:
+
+
+(a)if the cancellation fee is £10?
+
+
+(b)if the cancellation fee is sixpence?
+
+
+———
+
+
+More on Conditional Promises
+
+
+We said that a conditional promise is consideration if the condition is outside the control of the promissor. You now have enough background to consider the question of a condition that is within the control of the promissor.
+
+
+The easiest way to look at this question is to note that if the condition is within the control of the promissor, what we really have is alternative promises. In other words, suppose the promise is “I’ll buy a hundred tons of coal from you if I buy any coal this year.” This could be framed as “I’ll (1) buy a hundred tons of coal from you, or (2) not buy any coal this year.” Applying our rule about alternative promises, this promise is consideration only if both of the promises could be consideration. A promise to buy a hundred tons of coal is clearly consideration. The promise to not buy any coal is more of a problem. But we can solve the problem using a nominal consideration analysis. If the promissor is someone who normally buys coal, the promise to not buy any coal this year is a substantial one. It is a major change in his way of doing things. It can then be consideration. If the promissor is someone who does not normally buy coal, then the promise not to buy any (in other words, to just keep doing what he has always done) has no substance and is merely nominal consideration.
+
+
+———
+
+
+Problem 5-7
+
+
+Gourmet Cheeses, LLC sells expensive cheeses by mail. To keep its customers happy, it is always looking for new cheeses. It discovered a small family-owned dairy and cheese factory in Iowa that produced a wonderful sharp cheddar. The factory had been in business for more than one hundred years and had over 30 full time employees. Gourmet Cheeses entered into an agreement with the owners of the factory. Under the terms of the agreement, the factory would sell, and Gourmet would purchase, all of the cheese produced by the factory over the next three years at a price specified in the contract. After Gourmet entered into the agreement, it discovered that its customers would not pay Gourmet’s premium prices for cheese produced in Iowa. They seemed to think that it could be good cheddar only if it was produced a few miles away in Wisconsin.
+
+
+178
+Gourmet is now arguing that the agreement is not enforceable because the factory’s promise is an illusory promise. The factory can avoid its obligations under the contract by going out of the cheese business for three years. Evaluate that argument.
+
+
+Problem 5-8
+
+
+Real estate developer is contracting to purchase parcels of land for a shopping center. Worried that he may not be able to get enough tenants, however, he expressly conditions each of his contracts to purchase on getting leases that he finds are satisfactory to him in his sole discretion within 120 days. When, before 120 days are up, one of his sellers changes her mind and tells him that she is not selling, he sues.
+
+
+The seller defends the suit based upon an illusory consideration theory. She argues that all she got in return for her agreement to sell was Developer’s illusory promise, one which he could get out of merely by claiming that the leases obtained were not satisfactory or by not making any effort to get leases in the first place.
+
+
+Who should win? See Mattei v. Hopper, 51 Cal. 2d 119, 330 P.2d 625 (1958).
+
+
+———
+Wood v. Lucy, Lady Duff-Gordon
+
+
+Court of Appeals of New York
+## 222 N.Y. 88, 118 N.E. 214 (1917)
+
+
+Cardozo, J.
+
+
+[1]The defendant styles herself “a creator of fashions.” Her favor helps a sale. Manufacturers of dresses, millinery, and like articles are glad to pay for a certificate of her approval. The things which she designs, fabrics, parasols, and what not, have a new value in the public mind when issued in her name. She employed the plaintiff to help her to turn this vogue into money. He was to have the exclusive right, subject always to her approval, to place her endorsements on the designs of others. He was also to have the exclusive right to place her own designs on sale, or to license others to market them. In return she was to have one-half of “all profits and revenues” derived from any contracts he might make. The exclusive right was to last at least one year from April 1, 1915, and thereafter from year to year unless terminated by notice of 90 days. The plaintiff says that he kept the contract on his part, and that the defendant broke it. She placed her endorsement on fabrics, dresses, and millinery without his knowledge, and withheld the profits. He sues her for the damages, and the case comes here on demurrer.
+
+
+179
+[2]The agreement of employment is signed by both parties. It has a wealth of recitals. The defendant insists, however, that it lacks the elements of a contract. She says that the plaintiff does not bind himself to anything. It is true that he does not promise in so many words that he will use reasonable efforts to place the defendant’s endorsements and market her designs. We think, however, that such a promise is fairly to be implied. The law has outgrown its primitive stage of formalism when the precise word was the sovereign talisman, and every slip was fatal. It takes a broader view today. A promise may be lacking, and yet the whole writing may be “instinct with an obligation,” imperfectly expressed. (Scott, J., in McCall Co. v. Wright, 133 App.Div. 62, 117 N.Y. Supp. 775; Moran v. Standard Oil Co., 211 N.Y. 187, 198, 105 N.E. 217). If that is so, there is a contract.
+
+
+[3]The implication of a promise here finds support in many circumstances. The defendant gave an exclusive privilege. She was to have no right for at least a year to place her own endorsements or market her own designs except through the agency of the plaintiff. The acceptance of the exclusive agency was an assumption of its duties. We are not to suppose that one party was to be placed at the mercy of the other. Many other terms of the agreement point the same way. We are told at the outset by way of recital that:
+
+
+The said Otis F. Wood possesses a business organization adapted to the placing of such endorsements as the said Lucy, Lady Duff-Gordon, has approved.
+
+
+[4]The implication is that the plaintiff’s business organization will be used for the purpose for which it is adapted. But the terms of the defendant’s compensation are even more significant. Her sole compensation for the grant of an exclusive agency is to be one-half of all the profits resulting from the plaintiff’s efforts. Unless he gave his efforts, she could never get anything. Without an implied promise, the transaction cannot have such business “efficacy, as both parties must have intended that at all events it should have.” Bowen, L.J., in the Moorcock, 14 P.D. 64, 68. But the contract does not stop there. The plaintiff goes on to promise that he will account monthly for all moneys received by him, and that he will take out all such patents and copyrights and trade-marks as may in his judgment be necessary to protect the rights and articles affected by the agreement. It is true, of course, as the Appellate Division has said, that if he was under no duty to try to market designs or to place certificates of endorsement, his promise to account for profits or take out copyrights would be valueless. But in determining the intention of the parties the promise has a value. It helps to enforce the conclusion that the plaintiff had some duties. His promise to pay the defendant one-half of the profits and revenues resulting from the exclusive agency and to render accounts
+180
+monthly was a promise to use reasonable efforts to bring profits and revenues into existence. For this conclusion the authorities are ample.
+
+
+[5]The judgment of the Appellate Division should be reversed, and the order of the Special Term affirmed, with costs in the Appellate Division and in this court.
+
+
+Cuddeback, McLaughlin, and Andrews, JJ., concur. Hiscock, C. J., and Chase and Crane, JJ., dissent.
+
+
+Order reversed, etc.
+
+
+———
+Notes and Questions
+
+
+1.There appears to be more than a little misogyny or anti-British sentiment or both underlying Cardozo’s opinion in the Lady Duff-Gordon case. Consider whether views like these may have had an effect on the outcome of the case.
+
+
+2.Professor James A. Wooten of the University at Buffalo Law School has noted that the irony of the Lady Duff-Gordon case is that Cardozo states that it would place the lady at Wood’s mercy if he failed to impute a duty on Wood’s part to use best efforts. [para 3]. This is the opposite of the truth: If he did not impose the duty to use best efforts, the contract would fail for lack of consideration, in which case she would be free. It is precisely the imputation of the best efforts clause that puts her at his mercy. Cardozo was, by all accounts, a smart man. We think he knew exactly what he was doing.
+
+
+———
+
+
+Karl N. Llewellyn, A Lecture on Appellate Advocacy
+
+
+29 University of Chicago Law Review 627, 637–38 (1962)
+
+
+[T]he statement of facts, be it in the brief or be it oral, is the complete guts of your case. And I’m going to give you two statements of fact, one by an utter master, and another in the exactly same case, as an effort to show you how it can be done just the other way on the same facts and the same case.
+
+
+The statement by the master is Cardozo in Wood against Lady Duff-Gordon. And you will get that, as I read it to you. You must remember that Cardozo was a truly great advocate, and the fact that he became a great judge didn’t at all change the fact that he was a great advocate. And if you will watch, in the very process of your listening to the facts, you will find two things happening. The one is that according to principle number one, you arrive at the conclusion that the case has to come out one way. And the
+181
+other is, that it fits into a legal frame that says, “How comfortable it will be, to bring it out that way. No trouble at all. No trouble at all.”
+
+
+“The defendant styles herself”—now watch the way in which she is subtly made into a nasty person—“ ‘The defendant styles herself ‘a creator of fashions.’ ” Her favor helps a sale. Manufacturers of dresses, millinery, and like articles are glad to pay for a certificate of her approval. The things which she designs, fabrics, parasols, and what not, have a new value in the public mind when issued in her name. She employed the plaintiff to help her turn this vogue into money.”
+
+
+Does this sound—this is an interposition—does this sound like a business deal? Does a business deal sound like a legally enforceable view? Nothing is being said about that. But watch it grow on you. And if I hadn’t stopped to tell you about it, it would have grown until you just took it, without a word.
+
+
+“He was to have the exclusive right”—watch this language—“exclusive right”—what wonderful legal language, to make it legally enforceable—“He was to have the exclusive right . . . to place her own designs on sale, or to license others to market them. In return, she was to have one-half of ‘all profits and revenues’ derived from any contracts he might make. The exclusive right was to last at least one year from April 1, 1915, and thereafter from year to year unless terminated by notice of ninety days.”
+
+
+My heavens, isn’t this legal?
+
+
+“The plaintiff says that he kept the contract on his part, and that the defendant broke it. She placed her indorsement on fabrics, dresses and millinery. . . .”
+
+
+“The agreement of employment is signed by both parties. It has a wealth of recitals. The defendant insists, however, that it lacks the elements of a contract. She says that the plaintiff does not bind himself to anything. It is true that he does not promise in so many words that he will use reasonable efforts to place the defendant’s indorsement and market her designs.”
+
+
+Now, is there any way to bring that case out, except one? Isn’t it obvious that we are going to imply a promise on the part of the plaintiff which will satisfy the requirement of consideration and the decency of the situation.
+
+
+All right, now try this: “The plaintiff in this action rests his case upon his own carefully prepared form agreement, which has as its first essence his own omission of any expression whatsoever of any obligation of any kind on the part of this same plaintiff. We thus have the familiar situation of a venture in which one party, here the defendant, has an asset, with what is, in advance, of purely speculative value. The other party, the present plaintiff, who drew the agreement, is a marketer eager for profit,
+182
+but chary of risk. The legal question presented is whether the plaintiff, while carefully avoiding all risk in the event of failure, can nevertheless claim full profit in the event that the market may prove favorable in its response. The law of consideration joins with the principles of business decency in giving the answer. And the answer is no.”
+
+
+Same case. Entirely the same case. But it brings me to the next fundamental point, which is that if you have an intelligent appellant, to rest upon his statement of the facts, if you are the respondent, is suicide. Did you hear me? If he is any good, you’re cooked. (Laughter.) You have a positive case to make, and you can only make it by restating the facts so that they fit into your picture of what the whole thing is. And I think with that I can practically stop, can’t I, because I’ve made the fundamental point.
+
+
+———
+
+
+Notes and Questions
+
+
+1.At the beginning of this chapter, there was a hypothetical in which a lobbyist tells a congressperson whose vote she wants: “I’ll contribute $500,000 to your campaign.” Why wouldn’t the court imply a return promise in the same way Cardozo did in Wood v. Lucy, Lady Duff-Gordon?
+
+
+2.In a case that was featured in a prior edition of this casebook, the court examined the situation where a bank had made a loan to a company based, in part, upon the guaranties of five wealthy individuals. Under the guaranties, the guarantors were to pay any unpaid obligations of the company under the loan. The traditional way for such a transaction to be conducted is to have the guarantors sign their guaranties first and deliver them to the bank, which then obtains the borrower’s signature on the loan agreement and then funds the loan. This chain of events makes it clear that the guaranties were given in consideration of the loan being funded and that the loan was made in consideration of the guaranties. In this case, however, one of the guarantors did not sign his guaranty before the bank funded the loan. After the company defaulted on the loan, the court held that that guarantor that had not signed before the loan was funded was not liable for the original loan balance and accrued interest due to lack of consideration. The guarantor was, however, liable for additional advances of funds by the bank to the company after he had signed. Frishman v. Canadian Imperial Bank of Commerce, 407 F.2d 299 (D.C. Cir. 1968).
+
+
+Additionally, note that, in situations like the Frishman case, it is a good idea to confirm the authenticity of a signer’s signature, perhaps by having it notarized by a notary public. Make sure no one can claim their signature was forged. It’s more common than you think for business people to forge signatures of their associates. Sometimes they do it with no thought of defrauding anyone. They figure the person would sign anyway and it’s easier to forge the signature than to wait until the person gets back from a trip. Other times it is real fraud.
+183
+Martha Stewart’s colleague Sam Waksal was sentenced to five years in prison for securities fraud. Part of what he pled guilty to was forging a banker’s signature on a letter stating he still owned stock when he had actually sold it. In the Parmalat scandal in Italy, the perps forged a letter from Bank of America saying that one of Parmalat’s subsidiaries had a billion dollars on deposit. The accountants accepted the letter, apparently without verifying its accuracy and legitimacy with the bank.
+
+
+———
+
+
+Palmer v. Dehn, Court of Appeals of Tennessee, 29 Tenn. App. 597, 198 S.W.2d 827 (1946)
+
+
+Burnett, Judge.
+
+
+[1]This suit is based on a two count declaration. The first count is to recover damages for personal injuries due to the negligence of the plaintiff in error. The second count is for breach of contract based on a promise of the plaintiff in error to compensate the defendant in error for the personal injuries received in the accident as set forth in the first count.
+
+
+[2]Pleas of not guilty and non-assumpsit were plead to this declaration.
+[3]The case was tried to a jury. At the conclusion of the plaintiff’s proof and at the conclusion of all proof the defendant (plaintiff in error) moved specially for a directed verdict as to each count. Both motions were overruled and a verdict was returned by the jury against the defendant.
+
+
+[4]The facts and legitimate inferences to be drawn therefrom, as viewed from the plaintiff’s (defendant in error’s) standpoint, are: On October 31, 1944 (summons herein was issued October 24, 1945), Mr. Dehn, a skilled mechanic and traveling representative of Transit Bus Sales Company of St. Louis, Missouri, made one of his quarterly trips to Knoxville. On this trip he contacted Mr. Palmer who had formerly purchased a motor bus from the company Mr. Dehn represented. On being informed that Mr. Palmer was having mechanical trouble with this bus, Dehn went with him to the place the bus was parked. Dehn inspected the bus and told Palmer a belt was too loose. Palmer’s driver went away and got the belt tightened. When the driver returned with the tightened belt, the three, Palmer, Dehn and the driver, discussed the matter at length. Dehn was then attempting to show Palmer how tight it should be when the driver started the motor cutting off two of Dehn’s fingers. Dehn thought all the time that the driver was out of the car and that no one was inside that could start the motor. Before putting his fingers in their position of peril Dehn did not throw a safety switch which he knew was there so as to prevent injury to him. His explanation for not using this safety switch was
+184
+that it was to be used when men were working at opposite ends of the bus and since he thought the driver was with him he did not deem it necessary to take this precaution.
+
+
+[5]Palmer immediately rushed Dehn to a local hospital. On the way to the hospital Palmer said: “I am awful sorry this happened, but don’t worry a minute. I will see you are compensated for the loss of your finger, take care of your expenses for the loss of your finger, and all.” Later Palmer made a similar assurance.
+
+
+[6]It is very earnestly and ably argued that the trial judge should have directed a verdict on behalf of the defendant as to the second count (one based on above contract) because there is no consideration for said promise or contract.
+
+
+[7]For there to be a consideration in a contract between parties to the contract it is not necessary that something concrete and tangible move from one to the other. Any benefit to one and detriment to the other may be a sufficient consideration. The jury may draw any reasonable and natural inference from the proof and if by inference from the proof a benefit to the promissor and detriment to the promisee might be inferred this will constitute a valid consideration. In the instant case the jury was justified in inferring that the promisee accepted this promise if it were performed within a reasonable time; that foregoing his right of action for a reasonable time was a good consideration moving to the promissor; they were clearly justified in inferring that the basis of the promise of the promissor was for forbearance in bringing suit. By forbearing he might have readily born a detriment. The promissor might easily have gained a benefit by such a forbearance. See 12 Am. Jur., Sec. 85, page 580.
+
+
+An agreement to forbear, for a time, proceedings at law or in equity, to enforce a well-founded claim, is a valid consideration for a promise . . . Nor need the agreement to delay be for a time certain, for it may be a reasonable time only, and yet be a sufficient consideration for a promise.
+
+
+Beasley v. Gregory, 2 Tenn. Ct. App. 378, 382, opinion by Faw, P. J., in which he cites ample authority for the statement.
+
+
+[8]It is next insisted that the motion for a directed verdict should have been sustained as to the first count because of the contributory negligence of the plaintiff.
+
+
+[9]It is true there was introduced herein very positive proof contrary to that heretofore detailed which tended to show the plaintiff guilty of contributory negligence. This though merely made a question for the jury who under proper instructions on the subject decided in favor of the plaintiff. We think there was material evidence to support the verdict. We must “not lightly . . . assume the primary duty of determining liability or
+185
+nonliability, in actions of tort, but . . . leave that duty where the Constitution has placed it, with the jury, as triers of facts, and if they act capriciously and arbitrarily to supervise their action.” Jackson v. B. Lowenstein & Bros., 175 Tenn. 535, 136 S.W.2d 495, 496; Wilenzick v. Austin, 180 Tenn. 591, 177 S. W.2d 548.
+
+
+[10]The result is all assignments must be overruled and the judgment below affirmed.
+
+
+Hale, J., concurs.
+
+
+McAmis, Judge (dissenting).
+
+
+[11]I am unable to follow the majority in holding that an enforceable contract arises from the circumstances of the case or the language quoted in the majority opinion.
+
+
+[12]I cannot think there was any intention to make a binding contract but, if so, there was no consideration moving from plaintiff to defendant. There was no detriment to plaintiff and no benefit to the defendant. The plaintiff had the same right to sue in tort after the promise was made that he had before as indicated by the fact that he is still asserting his tort action in the first count of the declaration and it follows that defendant was not benefitted by being relieved of tort liability.
+
+
+[13]I can find no basis for holding that there was an inference of a forbearance to sue which would furnish a sufficient supporting consideration. There is no suggestion that this was a condition of the promise and the tort action was not lost to plaintiff as a result of being induced to delay bringing suit beyond the limitation period.
+
+
+———
+
+
+Whitten v. Greeley-Shaw, Supreme Judicial Court of Maine, 520 A.2d 1307 (1987)
+
+
+Nichols, Justice.
+
+
+[1]On appeal the Defendant, Shirley C. Greeley-Shaw, contends that the Superior Court (Cumberland County) committed error when it entered judgment against her upon a promissory note in favor of the Plaintiff, George D. Whitten, in a foreclosure action, and when the court refused to recognize a certain writing entered into by the parties as a valid contract, that writing being the basis of the Defendant’s counterclaim.
+
+
+[2]We reject both of the Defendant’s claims of error and deny the appeal.
+
+
+[3]The Defendant’s first claim of error originates from the foreclosure action brought by the Plaintiff. As assignee of a promissory note secured
+186
+by a mortgage deed of a home in Harpswell, he sought to foreclose due to the Defendant’s failure to pay any portion of the $64,000.00 long since overdue him on the promissory note. The Defendant alleged that she was the owner of the home, that it was given to her by the Plaintiff as an incident of their four-year romantic relationship, and as assistance toward her efforts to start life anew with her fiancée. While the Defendant admits to having executed both the promissory note and the mortgage deed in favor of the Plaintiff’s assignor, she argues that neither the Plaintiff, nor his attorney (who was the assignor), had informed her of what the documents were that she was signing, their legal significance, or that she would be responsible for annual payments on the note. She claims that it was not until a week later, when photocopying the documents, that she thoroughly examined them and realized their legal significance. Not until the foreclosure action was commenced, however, did she make known to the Plaintiff her misunderstanding.
+
+
+[4]The Plaintiff asserts that at all times the funds he advanced to the Defendant to purchase the home was in the form of a loan, and that both he and his attorney made this clear to the Defendant. He testified that he had encouraged her to purchase a home in Maine and that he originally had his attorney’s name on the deed and note to save himself possible embarrassment.
+[5]While she alleges facts that might possibly give rise to claims of misrepresentation or breach of fiduciary duty, the Defendant does not expressly claim either ground for relief. Based upon evidence adduced at trial, that included the deposition of a second attorney who actually conducted the closing, there was ample evidence to support the finding of the Superior Court that the Defendant was aware of the nature of the documents and her legal responsibilities, and entered into the contract voluntarily. It is to no avail that the Defendant objects to the contents of a contract, that she admits she “barely looked at,” despite having been given the opportunity, and indeed encouragement, to read.
+
+
+[6]Emerging as a counterclaim to the Plaintiff’s foreclosure action is the Defendant’s request that the court enforce the terms of a written “agreement” entered into by the parties. The parties had engaged in an intermittent extra-marital affair from 1972 until March, 1980. At the time of this writing the Plaintiff, a Massachusetts contractor, had traveled to his Bermuda [Maine] home to vacation with friends, and expected to soon be joined there by his wife. The precise facts surrounding the creation of the agreement are in dispute. However, it is the testimony of the Defendant that she wanted to have “something in writing” because of all the past promises to her that she said the Plaintiff had broken. She testified that the Plaintiff told her, “You figure out what you want and I will sign it.” She added that she unilaterally drew up the “agreement” while in Bermuda,
+187
+and the Plaintiff signed it without objection. There was an original and a copy, and only he signed the original.
+
+
+[7]On his part the Plaintiff testified that he had agreed to visit with the Defendant, who had come to his Bermuda home uninvited, because “[S]he demanded I see her or she would come up and raise hell with my friends” and embarrass him in front of his wife.
+
+
+[8]Basically, the “agreement” is a one-page typewritten document, prepared by the Defendant, that begins “I, George D. Whitten . . . agree to the following conditions made by Mrs. Shirley C. Shaw . . .” and then goes on to list four “conditions” required of the Plaintiff. The “conditions” require the Plaintiff to make payments to the Defendant of $500.00 per month for an indeterminate period, make any “major repairs” to the Harpswell home, pay for any medical needs, take one trip with the Defendant and supply her with one piece of jewelry per year, and visit and phone the Defendant at various stated intervals. The only “condition” that approaches the recital of a promise or duty of the Defendant is the statement “[U]nder no circumstances will there be any calls made to my homes or offices without prior permission from me.”
+
+
+[9]The Plaintiff contends that, inter alia, this writing is unenforceable because of a lack of consideration. The Defendant argues that the writing is enforceable because there is the necessary objective manifestation of assent on each side, supported by the “stated” consideration of the Defendant not to call the Plaintiff without his prior permission, that, she asserts, constituted her “promise.”
+
+
+[10]The Superior Court found that no legally enforceable contract had been created. We agree. Every contract requires “consideration” to support it, and any promise not supported by consideration is unenforceable. The Defendant asks this Court to recognize the “agreement” as an enforceable bilateral contract, where the necessary consideration is the parties’ promise of performance. Generally, the Defendant’s promise to forbear from engaging in an activity that she had the legal right to engage in, can provide her necessary consideration for the Plaintiffs return promises. However, the Plaintiff’s allegation of lack of consideration draws attention to the bargaining process; although the Defendant’s promise to forbear could constitute consideration, it cannot if it was not sought after by the Plaintiff, and motivated by his request that the Defendant not disturb him. Of this there was no evidence whatsoever. This clause, the only one that operates in the Plaintiff’s favor, was only included in the contract by the Defendant, because, she asserts, she felt the Plaintiff should get something in exchange for his promises. Clearly, this clause was not “bargained for” by the Plaintiff, and not given in exchange for his promises, and as such cannot constitute the consideration necessary to support a contract.
+
+
+Judgment affirmed.
+
+
+188
+———
+
+
+Notes and Questions
+1.The Hamer court said that giving up a legal right can be consideration. Did Ms. Greeley-Shaw have a legal right to call Mr. Whitten without prior permission?
+
+
+2.In the roofing case, we saw that the customer was deemed to have made the offer even though she just signed a form the roofing company stuck in front of her. Is that a valid analogy? If so, how does it affect the court’s reasoning?
+
+
+3.Wasn’t the real consideration for his signing an implicit agreement that she would not cause a disturbance and embarrass him in front of his wife and friends?
+
+
+4.Of the last four cases, there have been two in which the court was willing to imply a return promise and two in which it was not. In each of the cases, try to identify the factors that influenced the court to imply or not to imply a return promise.
+
+
+5.The statement in the previous question might not be entirely correct. Is it clear that the Palmer v. Dehn court was implying a return promise or is there another way to read the opinion?
+
+
+———
+
+
+Implied Promise of Consideration
+
+
+The cases involving implied promises as consideration (Wood, Frishman, Palmer, and Whitten) present a simple legal principle together with a difficult factual determination.
+
+
+The simple legal principle is this. If A makes a promise in return for B’s promise, B’s promise is the consideration that makes A’s promise binding. On the other hand, if B does not promise anything, A’s promise was given without consideration and therefore is not binding.
+
+
+In most cases, it is easy to tell whether B has made a promise in return. The four cases set out above involve the relatively uncommon situation in which it is not. In each of these cases, one party didn’t expressly promise something, but the circumstances were such that by accepting what was offered, the person might have impliedly promised to give something in return. In Wood, Col. Wood might have promised to use his best efforts to market the products when he accepted Lady Duff-Gordon’s promise of exclusive rights to her creations. In Frishman, the bank might have agreed to forbear from making demand on the loan when they accepted Frishman’s guarantee. In Palmer, the mechanic might have agreed to forbear from suing when he accepted the bus company owner’s promise to pay his medical expenses.
+
+
+189
+Whitten is a little different. In that case there was an express promise not to make any uninvited calls. The court dismisses that as not being bargained for, but it ignores the fact that the real consideration was the mistress’s implied promise not to make a scene.
+
+
+In most of the cases, the court acts as if it is obvious—just common sense—that a promise was (or was not, as the case may be) made. It is not that obvious, as Llewellyn pointed out. The only thing that is obvious is that when you are setting up a deal like this you need to be sure that your client promises the other party something that they want. There is no real test you can apply to determine whether or not a return promise should be implied. The best way to analyze it may be to ask what would happen if the person who allegedly made the implied promise had failed to perform. For instance, in Wood, if Col. Wood had induced Lady Duff-Gordon to give him an exclusive right to sell her creations and then done nothing to sell them, a court probably would have found that he promised to make a reasonable effort to sell them and breached that promise. So perhaps Cardozo was right. On the other hand, in Palmer, if the mechanic had taken the money and then turned around and sued for more, few courts would have dismissed his suit on the ground that he promised not to sue in return for the promise to pay his medical expenses. Palmer seems to be the kind of case that “legal realists” love to talk about. To reach a just result, a court bends the rules of contract law, finding a promise where there was none. Frishman can be analyzed the same way. If the bank had accepted Frishman’s guaranty and then turned around and declared the loan due and payable, would a court have found that the bank breached an implied promise not to demand payment? It’s a tough question, and so it’s not surprising that the reported cases involving the Frishman fact pattern (there are several—it’s one of the few situations in which consideration questions come up in business transactions) have split fairly evenly between those finding an implied promise and those not finding one.
+
+
+In dealing with cases like these, it’s not important whether you decide there was or was not an implied promise. What is important is that you recognize the situation as one where there is consideration for the express promise by one party only if an implied promise on the part of the other party can be found. Note also that each promise must be bargained for. That is, each party must have given their promise in return for the other’s promise.
+
+
+———
+
+
+190
+Kirksey v. Kirksey, Supreme Court of Alabama, 8 Ala. 131 (1845)
+
+
+[1]Assumpsit by the defendant, against the plaintiff in error. The question is presented in this Court, upon a case agreed, which shows the following facts:
+
+
+[2]The plaintiff was the wife of defendant’s brother, but had for some time been a widow, and had several children. In 1840, the plaintiff resided on public land, under a contract of lease, she had held over, and was comfortably settled, and would have attempted to secure the land she lived on. The defendant resided in Talladega county, some sixty, or seventy miles off. On the 10th of October, 1840, he wrote to her the following letter:
+
+
+Dear sister Antillico—
+
+
+Much to my mortification, I heard, that brother Henry was dead, and one of his children. I know that your situation is one of grief, and difficulty. You had a bad chance before, but a great deal worse now. I should like to come and see you, but cannot with convenience at present. I do not know whether you have a preference on the place you live on, or not. If you had, I would advise you to obtain your preference, and sell the land and quit the country, as I understand it is very unhealthy, and I know society is very bad. If you will come down and see me, I will let you have a place to raise your family, and I have more open land than I can tend; and on the account of your situation, and that of your family, I feel like I want you and the children to do well.
+
+
+[3]Within a month or two after the receipt of this letter, the plaintiff abandoned her possession, without disposing of it, and removed with her family, to the residence of the defendant, who put her in comfortable houses, and gave her land to cultivate for two years, at the end of which time he notified her to remove, and put her in a house, not comfortable, in the woods, which he afterwards required her to leave.
+
+
+[4]A verdict being found for the plaintiff, for two hundred dollars, the above facts were agreed, and if they will sustain the action, the judgment is to be affirmed, otherwise it is to be reversed.
+
+
+[5]Ormond, J. The inclination of my mind is, that the loss and inconvenience, which the plaintiff sustained in breaking up, and moving to the defendant’s a distance of sixty miles, is a sufficient consideration to support the promise, to furnish her with a house, and land to cultivate, until she could raise her family. My brothers, however, think that the promise on the part of the defendant, was a mere gratuity, and that an action will not lie for its breach. The judgment of the Court below must therefore be reversed, pursuant to the agreement of the parties.
+
+
+191
+———
+
+
+Note
+
+
+Kirksey seems like a relic of a bygone day. But a similar case was being litigated just recently. Instead of the uncle inviting his nieces and nephews to come and live close to him, a nephew invited his uncle and aunt to come and live close to him.
+
+
+According to news reports, Marshall B. Mathers, III was sued by his aunt and uncle, Betti and Jack Schmitt, who alleged that Mr. Mathers agreed to build them a house “worth up to $350,000” on a lot he owned and to pay them $100,000 per year for five years if they would leave their home in Missouri and move to Michigan. The Schmitts claimed Mr. Mathers’ motivation was that he wanted them “to be near him and his daughter, while also providing him the intimate support from a loving family member who cared for ‘Marshall Mathers’ long before the world came to care about Eminem.” According to news reports, Mr. Schmitt quit his job after receiving the offer and the couple sold their home and moved to Michigan, where Mr. Mathers bought a lot and built a home for them. But he kept title to the property in his own name, and after they had been living there for two years, he evicted them.
+
+
+———
+
+
+Problem 5-9
+
+
+Frank hears that his brother Jesse has been shot dead. He writes Jesse’s widow and states that if she moves to the state where he lives, he will give her a tract of land and a home to live in until the children are grown. He says he wants her to move “so that my nieces and nephews will be close by. I am getting old and lonely.” After she has been there two years, he kicks her off the property. Can she stay until the kids are grown?
+
+
+Problem 5-10
+The president of a company writes the following letter to a retired employee:
+
+
+### Dear Frank
+
+
+Because you worked so hard for the company for so many years, the Board of Directors has authorized me to grant you a pension of Two Thousand Dollars ($2000) per month commencing immediately. Thank you for your faithful service.
+
+
+Sincerely yours,
+
+
+## Acme Manufacturing Corp.
+
+
+
+
+
+
+President
+
+
+192
+After Frank has been retired for three years, Acme Manufacturing Corp., now presided over by John’s successor, Tom, ceases to pay the pension. Can Frank recover future pension payments?
+
+
+Problem 5-11
+
+
+A wealthy man sees a homeless person freezing in the cold on the street. He says, “If you’ll walk over to that store over there with me, I’ll buy you a coat.” Is there consideration for his promise?
+
+
+Problem 5-12
+
+
+A grandfather promises to pay his granddaughter $100,000 saying: “None of my grandchildren work, and I am making sure that you don’t have to.” Is there consideration for his promise?
+
+
+Problem 5-13
+
+
+Suppose the grandfather in the previous problem had said: “It’s a matter of pride with me that none of my grandchildren work. I’ll give you $100,000 so you can quit your job.” Is there consideration?
+
+
+———
+
+
+Note About Seals
+
+
+Consideration is a screening device that separates, at least in theory, executory deals the law will enforce from executory deals that it will not. Another device that served this purpose was the seal, a melted bit of wax dripped on a document and then stamped with the promissor’s emblem. This formality was sufficiently definite and intentional that the law took it to mean that the promissor really intended to be bound by his promise and, thus, would enforce it (even without consideration). Essentially, the seal ceremony was an elaborate oath swearing ritual.
+
+
+Over time, the use of seals became more common and steps were taken to make the process of sealing a document more efficient. Today we would say that the market demanded that transaction costs be lowered and transactional attorneys complied. Eventually, the seal was reduced to a printed “L.S.” (for “locus sigilli,” place of the seal) near the signature line on a contract or other document. As the ceremony of the seal gave way to this mere formality in printing, the seal began to be abolished. By the early 20th century, its significance as a consideration substitute or otherwise was nil in all 50 of the United States. To the extent that seals remain in use (on, for instance, certificates of incorporation), they are meaningless window dressing and have no legal significance.
+
+
+From time to time, bar examiners and law professors pose a question about seals, which you can respond to with the information in the two paragraphs above. Apart from that, seals are unimportant except as an
+193
+example of an obsolete mechanism that the law embraced to sort enforceable commitments from unenforceable ones and that, over time, was eroded from a meaningful device to an utterly empty ritual, at which point it was discarded.
+
+
+Lawyering Skills Problem
+
+
+You are visiting an old friend, Max, when Max’s nephew Shelby stops by with good news. Shelby has been accepted to Cal Tech, his undergraduate institution of choice, where he hopes to major in Physics. Unfortunately, he did not receive a very generous scholarship offer, but Shelby tells Max that, if he can maintain a 3.6 or better GPA in his freshman year, he should be able to obtain a better scholarship package for his sophomore year.
+
+
+Max tells Shelby how proud he is of him for being accepted to the school and notes that he expects to come into a little money at the close of the quarter, when a company that formerly characterized its equity as a “growth stock” will begin paying a dividend. Max says he would like to contribute to Shelby’s college fund with that money. Shelby is very appreciative.
+
+
+Max says, “let’s make this binding, in case I get hit by a bus before the end of the quarter” (Max has always had a somber streak to his humor). He takes some note paper and writes:
+
+
+For value received, I, Max Faber, promise to pay my nephew, Shelby Lynn, $5,000 on or before June 30, 2011.
+
+
+He signs his name to the paper and starts to give it to Max, but stops and hands it to you, asking if he has done it right. You ask him, what is the “value received”? He says he doesn’t know, but that phrase has been at the start of every promissory note he has ever seen. You explain that consideration doesn’t work that way, and that if there isn’t any, it won’t be enforceable. He offers you the note pad and a pen and says, “You do it for me—I want it to be enforceable.”
+
+
+Can you oblige Max?
+
+
+1[“Several mesne assignments” is an old idiom meaning that it passed through several people before she acquired it.—Eds.]
+
+
+2[$5,000 in 1869 was worth approximately $95,000 in 2019 dollars, computed using the CPI and the GDP Deflator.—Eds.]
+
+
+3[Failure of consideration is a misleading term that courts sometimes use. It does not mean there was no consideration. It means that the promise that constituted consideration was never performed. It has nothing to do with what we’re studying. It involves conditions to the obligation to perform, which will be covered in Chapter 7.—Eds.]

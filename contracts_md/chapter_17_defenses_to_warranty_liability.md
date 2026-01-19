@@ -1,0 +1,755 @@
+﻿483
+Chapter 17 Defenses to Warranty Liability
+
+
+■   ■   ■
+
+
+The implied warranties of merchantability and fitness arise automatically if the requirements of U.C.C. §§ 2–314 and 2–315 are satisfied. Article 2, however, gives sellers the ability to keep those warranties out of their transactions. As noted in the introduction to Chapter 16, clauses that prevent these warranties from arising are often called “disclaimers” because they disclaim the warranties.
+
+
+Even more common than disclaimers are limitations on remedies, often referred to as “exclusionary clauses.” These are addressed in U.C.C. § 2–719. These clauses may be used in place of disclaimers, they may be used with limited disclaimers (those which disclaim some but not all warranties), or they may be used as “belt and suspenders lawyering” to protect the seller should the disclaimer for some reason be ineffective.
+
+
+Exclusionary clauses state that the buyer’s remedies for breach of the contract are limited. Some merely say that the seller will not be liable for consequential damages. Other say that the buyer’s only remedy is replacement of the defective goods. For instance, if your wedding pictures don’t turn out because of defective photographic film, they’ll buy you some new film. (You can use it for your next wedding.)
+
+
+Problem 17-1
+
+
+Read carefully U.C.C. § 2–316(2) & (3).
+
+
+(a)Is it possible to have an oral disclaimer of the warranty of fitness for a particular purpose? What about merchantability?
+
+
+(b)Is the warranty of merchantability excluded by the statement: “There are no warranties which extend beyond the description on the face hereof?”
+
+
+As you read the case that follows, look for the differences between disclaimers and exclusionary clauses.
+
+
+———
+
+
+484
+Schroeder v. Fageol Motors
+
+
+Supreme Court of Washington
+86 Wash. 2d 256, 544 P.2d 20 (1975)
+
+
+Hunter, J.
+
+
+[1]In June of 1970, the plaintiff (respondent), John Schroeder, purchased a used 1970 White truck from the defendant (petitioner), Fageol Motors, Inc., to be used in the hauling of automobiles between California and Washington. The odometer showed 6,180 miles, and Fageol assured the plaintiff that the original warranty, which was still in effect, would cover the vehicle for an additional 94,000 miles. The new truck warranties were set out in an “Owner Book” which was separate from the purchase order signed by the plaintiff. While the plaintiff admitted that he would not have purchased the truck without the warranties, it is evident that Fageol did not go through the “Owner Book” and explain the intricacies of the warranties and the various disclaimers. In fact, the plaintiff was not advised of the existence of any disclaimers or exclusionary clauses. Upon signing the order, the plaintiff was given his “Owner Book” and directed to place it in the glove box.
+
+
+[2]On October 5, 1970, while the truck was in California, the engine exploded. At this time the vehicle still had more than 50,000 miles remaining on the warranty. The plaintiff notified Cummins Engine Co., Inc., also a defendant (petitioner) herein, whose separate warranty appeared in the “Owner Book.” At its direction, the plaintiff took the truck to a local Cummins dealer, who undertook repairs without cost to the plaintiff. It was then determined that the engine failure was the result of a casting defect in a piston rod cap.
+
+
+[3]Upon completion of the repairs, the truck was returned to the plaintiff, yet it never functioned properly. The plaintiff, experiencing heating and vibration Problems, made repeated complaints to both Cummins and Fageol. While numerous attempts were made to correct the Problems, neither defendant was ever successful.
+
+
+[4]The plaintiff ultimately brought suit against Fageol and Cummins for damages resulting from the defendants’ failure to properly effectuate repairs in accordance with their own respective warranties. The complaint alleged that the plaintiff had incurred $8,431.45 in repair bills, and $12,160 in lost profits. The trial court concluded that the defendants had both made independent express warranties to repair the vehicle and that the damages alleged were proximately caused by a failure to fulfill these warranties. In reaching its decision, the court refused to recognize Fageol’s claim that it was protected from any consequential damages due to an exclusionary clause contained in the White truck comprehensive warranty, which stated in normal size print: “In no event shall the Seller be liable for special or consequential damages.” Relying on Berg v.
+485
+Stromme, 79 Wash. 2d 184, 484 P.2d 380 (1971), the court held that there had been no discussion nor explicit negotiations between Fageol and the plaintiff regarding limitations or disclaimers of liability, but rather that the plaintiff had merely been handed the “Owner Book” and instructed to keep it in the truck. Furthermore, there was no showing of a bargain and the clause was neither conspicuous nor were the limitations set forth with particularity. Secondly, the trial court held that Fageol was not entitled to indemnity against Cummins since both defendants had actively attempted, and failed, to make proper repairs.
+
+
+[5]The Court of Appeals affirmed all of the holdings of the trial court, Schroeder v. Fageol, 12 Wash. App. 161, 528 P.2d 992 (1974), and this court granted the defendants’ petition for review.
+
+
+[6]The facts of this case present a question of first impression arising under the Washington state adaptation of the Uniform Commercial Code, to wit: whether a clause excluding consequential damages under [U.C.C. §] 2–719(3) must be negotiated between the parties and set forth with particularity in a conspicuous manner. Put another way, do the requirements set forth in Berg v. Stromme, supra apply with equal force to an exclusionary clause under [U.C.C. §] 2–719(3)?1 The defendant Fageol contends that the criteria utilized by the trial court is limited to cases arising under [U.C.C. §] 2–316, and is not intended to apply to cases pertaining to [U.C.C. §] 2–719(3). Furthermore, the defendant argues that “negotiations” and “conspicuousness” are only relevant in those instances involving consumers as opposed to a purely commercial transaction between businessmen.
+
+
+[7]We agree that the trial court and the Court of Appeals failed to properly distinguish between disclaimer and exclusionary clauses.
+
+
+A disclaimer clause is a device used to exclude or limit the seller’s warranties; it attempts to control the seller’s liability by reducing the number of situations in which the seller can be in breach. An exclusionary clause, on the other hand, restricts the remedies available to one or both parties once a breach is established.
+
+
+J. White & R. Summers, Handbook of the Law under the Uniform Commercial Code, § 12–11, at 383–84 (1972). The functional purpose of RCW 62A.2–719(3) is to allow the parties to allocate their risks. Official Comment 1, [U.C.C. §] 2–719.
+
+
+[8]While the two sections are clearly distinguishable, they are not mutually exclusive, since both disclaimers and exclusionary clauses can be invalidated upon being declared unconscionable under [U.C.C. §] 2–302. In fact, by its use of the word “unconscionable,” [U.C.C. §] 2–719(3) conditions
+486
+the validity of an exclusionary clause on one factor—the standards set forth in [U.C.C. §] 2–302. Therefore, once placed in its proper perspective, the true issue becomes whether “conspicuousness” and “the presence of negotiation” are relevant when defining the elusive concept of unconscionability.
+
+
+[9]While it is extremely difficult to articulate an operational definition of unconscionability, those cases interpreting the doctrine appear to fall within two classifications: (1) substantive unconscionability; and (2) procedural unconscionability. Substantive unconscionability involves those cases where a clause or term in the contract is alleged to be one-sided or overly harsh, while procedural unconscionability relates to impropriety during the process of forming a contract. J. White & R. Summers, Handbook of The Law under the Uniform Commercial Code, § 4–2, at 117 (1972). In Williams v. Walker-Thomas Furniture Co., 121 U.S. App. D.C. 315, 350 F.2d 445 (1965), the court pronounced that procedural unconscionability was best described as a lack of “meaningful choice.” In discussing the various factors to be considered in determining whether a meaningful choice is present, the court noted that consideration must be given to “all the circumstances surrounding the transaction,” including “[t]he manner in which the contract was entered,” whether each party had “a reasonable opportunity to understand the terms of the contract,” and whether “the important terms [were] hidden in a maze of fine print . . .” Williams v. Walker-Thomas Furniture Co., supra at 449. It is readily apparent that both “conspicuousness” and “negotiations” are factors, albeit not conclusive, which are certainly relevant when determining the issue of conscionability in light of all the surrounding circumstances. Furthermore, the question of un-conscionability cannot be judged in the abstract, but rather it must be determined in light of the general commercial setting. Kohlenberger Inc. v. Tyson’s Foods Inc., 510 S.W.2d 555 (Ark. 1974); Dow Corning Corp. v. Capitol Aviation Inc., 411 F.2d 622 (7th Cir. 1969). Therefore, several additional factors which must be considered, especially in purely commercial transactions, are prior course of dealings between the parties and usage of trade. RCW 62A.1–205(1) and (2); Reynolds v. Preferred Mutual Ins. Co., supra. Placing the above criteria within the context of the instant case, we must consider whether the plaintiff and Fageol, through prior contracts had established a consistently adhered to policy of excluding consequential damages, or whether it is a recognized practice within the trade to exclude consequential damages. The presence of either of these elements, unless the trade practice as related to the plaintiff was clearly unreasonable,2 would support a finding of
+487
+conscionability in spite of a lack of “negotiations” or the “inconspicuous” appearance of the clause.
+
+
+[10]We are fully aware that the rule enunciated in Berg v. Stromme, supra was premised predominately on policy grounds. However, this does not support Fageol’s contention that the Berg rule is limited to disclaimer cases involving innocent consumers as contrasted with purely commercial transactions involving businessmen. In Dobias v. Western Farmers Ass’n, 6 Wash. App. 194, 491 P.2d 1346 (1971), the Court of Appeals applied Berg to a commercial transaction, and in Baker v. Seattle, 79 Wash.2d 198, 484 P.2d 405 (1971), a case involving an injured consumer, we recognized that this public policy regarding disclaimers of liability, extended to cases involving exclusionary clauses under RCW 62A.2–719(3). We now find no persuasive reason why this same public policy should not extend to cases arising under RCW 62A.2–719(3), in which the litigants are both businessmen.
+
+
+- * *
+
+
+[11]The issue of unconscionability presents a question of law for the court; not an issue of fact for the jury. [U.C.C. §] 2–302 states:
+
+
+(1)If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.
+
+
+(2)When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.
+
+
+(Italics ours.)
+
+
+[12]In accordance with the requisites set forth above, a court is not authorized to dispose of this issue under the rules governing summary judgment. Instead, [U.C.C. §] 2–302 envisions a full hearing at which time each party will have a “reasonable opportunity” to present evidence bearing on the question of unconscionability. Since exclusionary clauses in purely commercial transactions are prima facie conscionable, the burden of establishing that a clause is unconscionable lies upon the party attacking it. In view of the fact that the trial court based its decision entirely on Berg v. Stromme, supra, without addressing the fundamental question of
+488
+unconscionability in a manner required under the provisions of RCW 62A.2–302, we hold that the decisions of the trial court and the Court of Appeals are reversed, and this cause is remanded for a hearing consistent with the requirements set forth herein.
+
+
+———
+
+
+Notes and Questions
+
+
+1.What is the difference between a disclaimer and an exclusionary clause?
+
+
+2.Most commentators agree that Article 2 treats disclaimers and exclusionary clauses as two different animals. Disclaimers are governed by section U.C.C. § 2–316, which is in Part 3 of Article 2, the same part that governs the creation of warranties. (Do you see how the organization of the article can be important to its interpretation?) Exclusionary clauses are governed by U.C.C. § 2–719, which is in Part 7, the remedies part. But does this result necessarily follow from the language of the particular sections? Consider an exclusionary clause that prevents the buyer from obtaining any real recovery for a breach of the implied warranty of merchantability. Isn’t it within the express language of U.C.C. § 2–316(2)? See U.C.C. § 2–316(4) and comment 2. How much weight should be given this comment?
+
+
+———
+
+
+Read the Statute!
+
+
+As stated in Chapter 4, U.C.C. contract law often differs greatly from general contract law principals. The U.C.C. is more of a civil law system because it is a statutory system rather than a common law, case law system like the general law of contracts. When applying a U.C.C. statute to the facts of a case, you should look first and primarily to the statute for guidance unless the statute is ambiguous or vague. If the statute is ambiguous or vague, turn to case law for guidance on resolving the issue.
+
+
+Generally, then, one resolves U.C.C. statutory issues by looking at the language of the statute. For example, as you know from Problem 17-1, if a party is trying to disclaim warranties of fitness for a particular purpose, he or she MUST do so in writing, and it must be conspicuous. One can make this determination by simply reading U.C.C. § 2–316(2) carefully. However, what if the question is whether the written disclaimer was conspicuous? Section 2–316(2) does not define “conspicuousness,” but U.C.C. § 1–201(10) does. So, one would refer to the statutory definition of the term and interpret and apply it without reference to caselaw for guidance. To bolster the analysis, one could also turn to case law for supporting interpretations, but the primary analysis should begin with the statute.
+
+
+489
+Also, following most sections of the U.C.C. (and sometimes in the version of the U.C.C. that has been enacted in a particular state) is a section titled, “Official Comments.” These comments provide additional guidance and explanation of the meaning and application of the statutes. Although these comments do not have the same authority as the statutes themselves, many courts and legal scholars frequently cite to these comments as persuasive authority.
+
+
+So, when dealing with issues under the U.C.C., the first thing to you do is ask yourself, “what does the statute say?” If the statute is clear and unambiguous, then apply and interpret the language of the statute to the facts of your case. Avoid being the reason a law school professor (or a judge for that matter) yells across the room, “READ THE STATUTE!” They do not care what a reasonable person would generally do in a similar situation (unless the statute uses that standard). They care about what the statute says, and so should you.
+
+
+———
+
+
+Problem 17-2
+
+
+### A manufacturer’s standard form agreement for a farm tractor provides
+
+
+Manufacturer’s sole obligation with respect to the warranties arising out of the sale of this vehicle is limited to the repair of the vehicle and the replacement of defective parts for a period of 24 months from the date of purchase. In no event shall Manufacturer be liable for any consequential loss or damage of any nature arising from any cause whatsoever.
+
+
+Is this clause subject to the requirements of U.C.C. § 2–316(2)? Is this clause prima facie unconscionable under U.C.C. § 2–719(3)? If so, is it substantive or procedural unconscionability?
+
+
+Problem 17-3
+
+
+Unbeknownst to her wicked step-sisters, Cinderella has been running an Internet auction site from her dismal quarters in the basement. As a result, when the Prince’s ball was announced, she had more than enough ready cash to buy a coach and six horses to pull it. She went to Honest Earls Used Coaches and picked out a coach and six horses to pull it. The sales contract she signed provided in large red letters:
+
+
+## In The Event That The Goods Sold Shall Prove Defective Or Otherwise Fail To Conform To The Contract, Buyer’S Sole Remedy Shall Be The Refund Of The Purchase Price Paid. It Is Expressly Understood That This Is In Lieu Of All Other Remedies And That In No Event Shall Seller Be Liable For Consequential Damages.
+
+
+490
+Cindy took the coach to the ball and the Prince was entranced by her charms. Sometime after midnight (it’s not clear exactly when; they had both consumed considerable champagne) the Prince escorted Cindy back to her coach, dropping subtle hints about marriage and not-so-subtle hints that they should take a ride together in the country. When they got to the spot where the coach was parked, however, they discovered that the coach had turned into a pumpkin and the horses into mice.
+
+
+Cindy has, of course, sued Honest Earl. She is seeking damages for the humiliation she suffered and also for the loss of the chance to become wife of the ruler of the principality. (It was a small principality, but it had considerable mineral resources.) Honest Earl has asked for a ruling that even if Cindy prevails on her argument that the coach and horses were unmerchantable (something Earl is not yet willing to concede) the most Cindy would be entitled to recover is the amount she paid for the coach and horses.
+
+
+How should the court rule on this motion?
+
+
+Problem 17-4
+
+
+A clause in a contract for the sale of a used car provides, “This vehicle is not warranted in any way.” The clause is in small print on the back of the form, but the seller specifically draws the buyer’s attention to the clause. Is it adequate to exclude the implied warranty of merchantability? See Harriman School Dist. v. Southwestern Petroleum, 757 S.W.2d 669 (Tenn. Ct. App. 1988), and Hull-Dobbs, Inc. v. Mallicoat, 57 Tenn. App. 100, 415 S.W.2d 344 (1966).
+
+
+———
+
+
+Jaskey Finance & Leasing v. Display Data Corp.
+
+
+United States District Court, Eastern District of Pennsylvania
+564 F. Supp. 160 (1983)
+
+
+[1]In this diversity action, defendant, Display Data Corporation (“Display Data”), a Maryland corporation with its principal place of business in Maryland, moves to dismiss pursuant to Fed. R. Civ. P. 12(b)(6) the claims of plaintiffs, Jaskey Finance and Leasing (“Jaskey”) and Samrus Corporation (“Samrus”), both Pennsylvania corporations with their principal places of business in Pennsylvania, for breach of express warranties, warranties of fitness and for negligent design of a computer system. For the reasons set forth in this memorandum, the Court will grant the defendant’s motion to dismiss the express warranty claims, the implied warranty of fitness claims, and the negligent design claim.
+
+
+[2]The subject of this suit is a 32K computer purchased by Jaskey and Samrus from Display Data in October 1977. The parties entered into two contracts, one for the sale of the equipment, programming and installation services and another for maintenance of the computer system. Plaintiffs, who were dissatisfied with the operation of the computer, sued
+491
+alleging that the computer and its component parts failed to operate properly, resulting in damages and the further economic loss of obtaining alternate computer time. In their lawsuit, plaintiffs allege that defendant’s conduct amounted to a breach of contract, a breach of express warranties, misrepresentation and negligence.
+
+
+[3]Two contracts are concerned: (a) an Equipment, Programming and Installation Services Contract, and (b) a Maintenance Contract. Each of these contracts is comprised of a single sheet of paper printed on both sides. The front side of the contracts contains blank spaces on which the name of the parties, the quantity, model number and the price of the goods were filled in. The bottom of the front side of the contracts states in bold type “Terms and Conditions on Reverse Side Are Part of This Contract.” Immediately under this phrase the signatures of the parties appear. The reverse side of the Equipment, Programming and Installation Services Contract is titled “Terms and Conditions” and contains six separately numbered and titled paragraphs. Two of the paragraphs are relevant to the present case. The first is paragraph 5 which is titled “warranties” and within it is the following warranty and disclaimer:
+
+
+(a)Seller warrants that it will provide maintenance service for Purchaser according to the terms and conditions of the separate maintenance contract executed by and between the parties.
+
+
+(b)For a period of one (1) year after the program is delivered, Seller will make every reasonable effort to remedy or correct any errors in the program which are brought to the attention of the Seller.
+
+
+(c)EXCEPT AS SPECIFICALLY PROVIDED HEREIN, THERE ARE NO WARRANTIES, EXPRESS OR IMPLIED, WHICH EXTEND BEYOND THE DESCRIPTION ON THE FACE OR REVERSE SIDE HEREOF.
+
+
+(d)IN NO EVENT SHALL SELLER BE LIABLE TO PURCHASER FOR LOSS OF PROFITS OR OTHER ECONOMIC LOSS, INCLUDING SPECIAL, CONSEQUENTIAL OR OTHER SIMILAR DAMAGES ARISING OUT OF ANY CLAIMED BREACH BY SELLER OF ITS OBLIGATIONS THEREUNDER.
+
+
+The other relevant provision in the Equipment, Programming and Installation Services Contract is under paragraph 6 which is entitled “Miscellaneous” and reads “This contract contains the entire agreement between the parties, and shall be binding upon both parties and their respective heirs, successors and/or assigns.” The Maintenance Contract in paragraph 7 contains a similar disclaimer clause which reads “EXCEPT AS SPECIFICALLY PROVIDED HEREIN, THERE ARE NO WARRANTIES, EXPRESS OR IMPLIED, WHICH EXTEND BEYOND
+492
+THE DESCRIPTION CONTAINED HEREIN.” The contracts between the parties contain provisions that Maryland law governs the agreement. . . .
+
+
+[4]As to the plaintiff’s express warranty claim, it is clear that the words employed in the disclaimer clause in the Equipment Contract, along with the integration clause, are sufficient to preclude express warranties. Plaintiff alleges that Display Data expressly warranted that the computer and programs which it was selling and leasing constituted a “turnkey” system that required plaintiff to perform only routine maintenance; was a system which was particularly suitable for use by an automobile dealership; was a system which was adaptable to businesses other than automobile dealerships and was a system in which all errors and malfunctions would be eliminated within a specified time period thereby resulting in an error-free system. The written contractual agreements described previously do not contain any of these alleged express warranties. The Equipment Contract warrants that the seller will provide maintenance service for the purchaser subject to the terms in the Maintenance Contract and that for a period of one year after the program is delivered, seller will make every reasonable effort to correct any errors in the program. These are the only express warranties that are created by the contracts. Moreover, the contracts expressly exclude any other express warranties. Paragraph 5(c) of the Equipment Contract reads “EXCEPT AS SPECIFICALLY PROVIDED HEREIN, THERE ARE NO WARRANTIES, EXPRESS OR IMPLIED, WHICH EXTEND BEYOND THE DESCRIPTION ON THE FACE OR THE REVERSE SIDE HEREOF.”
+
+
+[5]Paragraph 7 of the Maintenance Contract contains almost identical language. Although the parties have not brought to the Court’s attention any Maryland cases which are dispositive of the express warranty issue, Maryland has adopted the Uniform Commercial Code and cases in other states applying the Uniform Commercial Code are almost unanimous in holding that provisions disclaiming express warranties by the use of language similar to that in this case are effective disclaimers of express warranties. . . .
+
+
+[6]It is true, as plaintiff contends, that Maryland’s Commercial Code does not require that express warranties be made part of the written agreement but rather provides that “[a]ny affirmation of fact or promise made by the seller to the buyer which relates to the goods and becomes part of the basis of the bargain creates an express warranty that the goods shall conform to the affirmation or promise.” Md. [Com. Law] Code Ann. § 2–313(1)(a). Plaintiff in its brief states that the express warranties alleged were contained in advertising or promotional material that was received by the plaintiff. However, the plaintiff ignores the effect of the parol evidence rule on this transaction. Under Maryland’s Commercial Code if the parties intended the written contract to be a “final” expression of their agreement, then it may not be contradicted by evidence of any prior
+493
+agreement or contemporaneous oral agreement, and if the parties intended the contract to be the “complete and exclusive” statement of their agreement, it may not be supplemented even by non-contradictory terms. Md. [Com. Law] Code Ann. §§ 2–316(1), 2–202.
+
+
+[7]The Equipment Contract contains an integration provision which reads in relevant part, “[t]his contract contains the entire agreement between the parties.” Thus, the contract plainly states that it constitutes the entire understanding between the parties. Courts applying the Uniform Commercial Code’s provisions to similar integration provisions have found that such language is sufficient to render the contract the final and exclusive agreement of the parties, thereby preventing the introduction of parol evidence to vary the contract’s terms. . . . In reaching the same conclusion, this Court has considered that the parties involved are merchants who had equal bargaining power with respect to the subject matter of their transaction. There is no suggestion that the plaintiffs were unaware of the significance of the disclaimer and integration clauses which were part of the contracts. Because allowing plaintiffs to base an express warranty claim on language not present in the contract would be inconsistent with the integration clause, plaintiff’s express warranty claim fails to state a claim upon which relief may be granted and will be dismissed pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure.
+
+
+———
+
+
+Problem 17-5
+
+
+Mr. and Ms. Bear went to Grimm Bros. Discount Furniture to buy a chair for their cub. Mr. Bear saw an official NFL-sponsored child’s chair with the logo of his favorite team (the Chicago Bears) on it. He told Ms. Bear “now Teddy can pull up his chair next to my recliner when the ball games come on and we can engage in some male bonding.” Ms. Bear was not so impressed. She expressed concern that one of Papa Bear’s buddies might have a little too much to drink one night and sit in the kid’s chair.
+
+
+“Not to worry,” said the sales associate, “this chair will hold an adult. It’s not nearly as flimsy as it looks. It’s made of new space-age particle board.”
+
+
+Based on the sales associate’s assurance, Ms. Bear reluctantly agreed to the purchase of the chair. Mr. and Ms. Bear signed a sales contract that said in large red letters just above the signature line:
+
+
+## Except As Expressly Set Forth In This Contract, This Product Is Sold Without Any Warranties, Express Or Implied.
+
+
+A few days later, the Bear family returned from an outing and discovered that an intruder had sat in the child’s NFL-endorsed chair and broken it while eating porridge. The chair was made of ordinary particle board, and, while it
+494
+was quite satisfactory for use by a small child, there was no way it would support an adult or even a young golden-haired woman.
+
+
+Has there been a breach of an express warranty?
+
+
+Problem 17-6
+
+
+Ms. Muffett, a dairy products broker, entered into a contract with In The Dell Farms, Inc. The contract calls for In The Dell Farms, Inc. to deliver “one thousand gallons of USDA Number 1 curds and whey.” The contract contained a clause which conspicuously provided:
+
+
+Seller disclaims all warranties, express and implied, including without limitation all warranties of merchantability or fitness.
+
+
+In The Dell Farms, Inc. delivered 1000 gallons of USDA Number 2 curds and whey. Number 2 curds and whey are less valuable than Number 1 curds and whey.
+
+
+Does Ms. Muffett have a breach of warranty claim? See U.C.C. §§ 2–313(1) and 2–316(1).
+
+
+Problem 17-7
+
+
+Your client sold one of his customers a drill bit for oil drilling. (These bits are expensive. Howard Hughes was as rich as he was because his father had founded Hughes Tool Company, which made bits like the one in question.) The bit broke the first time the customer tried to use it, and the customer immediately brought it back and demanded the return of his money. Your client, being a typical oil patch good old boy, told the customer exactly what he could do with the broken drill bit.
+
+
+Not surprisingly, the customer sued, alleging breach of the implied warranty of merchantability. You asked the client what documentation there was for the sale, and he showed you his standard invoice. It contained no warranties, no disclaimers, and no exclusionary clauses. When you asked why these terms were not in the document, he told you that everybody in the oil business knew that when you buy a drill bit you get an “Oklahoma warranty.” You overcame your reluctance to admit your ignorance, and you asked what an “Oklahoma warranty” was. He explained with some condescension that “if it breaks, you got two bits instead of one. You don’t whine about it. You just buy another one from somebody else.” Your investigation indicates that this is in fact the way things are done in the oil patch.
+
+
+What is the effect, if any, of the fine tradition that is the “Oklahoma Warranty” if the buyer doesn’t take his medicine but instead hires a big-city lawyer and sues? See U.C.C. § 2–316(3)(c).
+
+
+———
+
+
+495
+Bishop Logging Co. v. John Deere Industrial Equipment Co.
+
+
+South Carolina Court of Appeals
+317 S.C. 520, 455 S.E.2d 183 (1995)
+
+
+[1]Respondent Bishop Logging Company (Bishop Logging) brought this action against John Deere Industrial Equipment Company (John Deere), Construction Equipment Sales, Inc. (CES), and Denharco, f/k/a Hurricana Metals, charging fraud, negligent misrepresentation, and breach of express warranty in connection with the sale of several pieces of heavy forestry equipment which were to be utilized in a novel swamp logging operation. The jury returned a verdict for Bishop Logging on each cause of action against John Deere, and awarded Bishop Logging $1,000,000 in actual damages and $1,200,000 in punitive damages. The trial court denied John Deere’s post-trial motions for judgment n.o.v., new trial, and new trial nisi. We affirm in part and reverse in part.
+
+
+Facts
+
+
+[2]Bishop Logging Company is a large, family owned logging contractor formed in 1980 in the low country of South Carolina. Bishop Logging has traditionally harvested pine timber. However, in 1988 Bishop Logging began investigating the feasibility of a fully mechanized hardwood swamp logging operation when its main customer, Stone Container Corporation, decided to expand hardwood production. In anticipating an increased demand for hardwood in conjunction with the operation of a new paper machine, Stone Container requested that Bishop Logging harvest and supply hardwood for processing at its mill. In South Carolina, most suitable hardwood is located deep in the swamplands. Because of the high accident risk in the swamp, Bishop Logging did not want to harvest hardwood by the conventional method of manual felling of trees.3 Since Bishop Logging had already been successful in its totally mechanized pine logging operation, it began a search for improved methods of hardwood swamp logging centered on mechanizing the process in order to reduce labor, minimize personal injury and insurance costs, and improve efficiency and productivity.
+
+
+[3]A fully mechanized swamp logging operation was a new concept in hardwood logging. As planned, it consisted of three components. First, a feller-buncher would cut the timber. The feller-buncher was a tractor-mounted mobile saw which would travel through the swamp to the timber. Second, a mobile stroke delimber would travel behind the feller-buncher to
+496
+the felled tree. It would remove the limbs, top the tree, and prepare it to be dragged from the swamp. Finally, grapple skidders would remove the logs from the swamp to log trucks.
+
+
+[4]As Bishop Logging knew that no fully mechanized swamp logging package of equipment was available for purchase, it launched a campaign to design a package to suit its needs. Its search began with a number of equipment companies and manufacturers. Adrian Bishop, the president of Bishop Logging, approached representatives of John Deere, Hurricana, and CES to determine if existing equipment could be modified to work in a swamp environment. In cooperation with the sales representatives, Bishop Logging investigated various types of equipment, including observing some of the equipment operating in different conditions.
+
+
+[5]Bishop Logging ultimately purchased several pieces of John Deere equipment to comprise the system. This equipment included a Model 693D excavator on which a Koehring feller-buncher was attached, a Model 690D excavator with an attached Hurricana stroke delimber, and three Model 548D grapple skidders with oversized tires. The gross sales price of the machinery was $608,899. All the equipment came with a written John Deere “New Equipment Warranty,” whereby John Deere agreed only to repair or replace the equipment during the warranty period, and did not warrant the suitability of the equipment. Hoping to sell more equipment if the Bishop Logging system was successful, however, John Deere agreed to assume part of the risk of the new enterprise by extending its standard equipment warranties notwithstanding the unusual use and modifications to the equipment.
+
+
+[6]Soon after being placed in operation in the swamp, the machinery began to experience numerous mechanical Problems. John Deere, through CES, made over $110,000 in warranty repairs on the equipment. However, Bishop Logging contended the swamp logging system failed to operate as represented by John Deere and, as a result, it suffered a substantial financial loss.4
+
+
+- * *
+
+
+[7]. . . . John Deere contends the court erred in failing to grant its trial motions on the cause of action for breach of express warranty. Specifically, John Deere claims the court erred in allowing Bishop Logging to receive lost profits and consequential damages for breach of express warranty because it effectively disclaimed express and implied warranties other than those contained in the John Deere “New Equipment Warranty,” and those warranty provisions limited Bishop Logging’s remedies for breach of the warranty to repair or replacement of defective parts, and
+497
+explicitly excluded liability for consequential damages. Bishop Logging, on the other hand, maintains the exclusive remedy as limited “failed of its essential purpose,” S.C. Code Ann. § 36–2–719(2), thus entitling it to other remedies available under the Code, including consequential damages.
+
+
+[8]Following delivery of the equipment, Bishop Logging experienced many mechanical Problems, and although parts were replaced, the equipment continued to malfunction. Benizzi admitted that the equipment had a lot of down time. Barry Smith, who had sixteen years of experience and had driven all of the equipment, testified he had never seen equipment break down more times than this. He further testified the equipment malfunctioned continuously, John Deere unsuccessfully attempted on many occasions to repair it, and as a result Bishop Logging could never make production.
+
+
+[9]James E. Lyons, a mechanic responsible for warranty repairs to Bishop Logging’s swamp logging package, was qualified as an expert in heavy equipment repair. He testified that Bishop Logging always had Problems with the carrier on the Model 690 excavator, and it was a total failure for this application. He further testified the most chronic failure was the Model 548D skidders which experienced substantial breakdowns within a few weeks of being placed in the field. In Mr. Lyons’s view, the 548 skidders deteriorated because of the stress resulting from the forty four inch tires which had been approved by John Deere. The skidders were never “repaired to where they would work on a long term basis,” and according to Lyons, they simply were not durable in the swamp logging application.
+
+
+[10]In the “New Equipment Warranty,” John Deere expressly provided: (1) John Deere would repair or replace parts which were defective in material or workmanship; (2) a disclaimer of any express warranties or implied warranties of merchantability or fitness for a particular purpose; (3) an exclusion of all incidental or consequential damages; and (4) no authority for the dealer to make any representations, promises, modifications, or limitations of John Deere’s written warranty. John Deere argues that under this limited warranty, replacement of parts and repair of equipment were all that was required by it, and that this was, in fact, promptly performed upon request by Bishop with over $110,000 in warranty repairs.
+
+
+[11]Under the South Carolina Uniform Commercial Code (UCC), it is clear that the parties to a contract may establish exclusive, limited written warranties and limitation of damages as a remedy for breach thereof. S.C. Code Ann. § 36–2–719 (1977). Section 36–2–719(1) of the Code provides that the agreement may limit the buyer’s remedies to repair or replacement of nonconforming goods or parts, and if such remedy is expressly agreed to be exclusive, it is the sole remedy. Section 36–2–719(3) states that
+498
+consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable.
+
+
+[12]Despite the exclusive remedy provisions in § 36–2–719, in certain circumstances a party may nonetheless be entitled to the general remedies of the UCC. Section 36–2–719(2) states that when circumstances cause an exclusive remedy to “fail of its essential purpose, remedy may be had as provided in this Act.” The official comments under § 36–2–719 further provide that “under subsection (2), where an apparently fair and reasonable clause because of circumstances fails in its purpose or operates to deprive either party of the substantial value of the bargain, it must give way to the general remedy provisions of this Article.” Id. § 36–2–719 comment 1.
+
+
+[13]The purpose of the exclusive remedy of replacement or repair of defective parts from John Deere’s viewpoint was to give it an opportunity to make the equipment conform with the contract while limiting the risks to which it was subject by excluding direct and consequential damages that might otherwise arise. From Bishop Logging’s perspective, it was to insure that the equipment would be operable in the swamp application and if the equipment did not function properly, to insure John Deere would cure any defects within a reasonable time after they were discovered. Where a seller is given a reasonable chance to correct defects and the equipment still fails to function properly, the buyer is deprived of the benefits of the limited remedy and it therefore fails of its essential purpose. Beal v. General Motors Corp., 354 F.Supp. 423, 426 (D. Del. 1973). In such circumstances, § 36–2–719(2) permits the buyer to pursue the other remedies provided by the UCC if the defect substantially affects the value of the buyer’s bargain. S.C. Code Ann. § 36–2–719 comment 1; see also Clark v. Int’l Harvester Co., 99 Idaho 326, 581 P.2d 784, 798 (Idaho 1978).
+
+
+[14]In Riley v. Ford Motor Co., 442 F.2d 670 (5th Cir. 1971), the United States Fifth Circuit Court of Appeals held that under the circumstances of that case, which also involved a seller’s express warranty limiting the buyer’s recourse to the repair or replacement of defective parts, it was “unable to conclude that the jury was unjustified in its implicit finding that the warranty operated to deprive the purchaser ‘of the substantial value of the bargain.’ ” Like the instant case, Riley concerned a seller’s inability to remedy numerous major and minor defects within a reasonable time. Similarly, in Murray v. Holiday Rambler, Inc., 83 Wis. 2d 406, 265 N.W.2d 513 (Wis. 1978), it was held that a warrantor’s limited remedy to repair or replace defective parts failed in its essential purpose where the cumulative effect of a substantial number of defects substantially impaired the value of the goods to the buyer.
+
+
+[15]The evidence at trial was clearly sufficient for the jury to determine that John Deere did not effectively perform its obligation to
+499
+repair the equipment properly and within a reasonable time, and as a result, Bishop Logging was deprived of the substantial value of the equipment it contracted for. We therefore affirm the jury’s verdict on the warranty claim implicitly finding that the limited warranty failed in its essential purpose so as to deprive Bishop Logging of the substantial value of the bargain, and, as a consequence, gave Bishop Logging the right to pursue other remedies provided by the UCC.
+
+
+[16]Notwithstanding Bishop Logging’s ability to recover direct damages for breach of the warranty on the equipment due to the failure of its essential purposes, John Deere argues that the limitation of consequential damages expressed in the warranty has independent significance and should be effective to disclaim such damages under the facts of this case unless to do so would be unconscionable. In a purely commercial setting, as in this case, John Deere maintains that limitations on consequential damages are routinely upheld against challenges of unconscionability. Contrary to John Deere’s assertion, Bishop Logging contends the premise of “certainty of repair” underlies the entire contract, and consequently “the exclusion of consequential damages logically refers to losses incurred only during a reasonable time before which repairs are successful.” Since the attempted repairs never cured the defects in the equipment or made it operable as contemplated by the limited warranty, Bishop Logging argues the exclusion of consequential damages is inapplicable to those damages caused by John Deere’s breach of its obligation to repair or replace the defective equipment.
+
+
+[17]The effect of the failure of a limited remedy under § 36–2–719(2) upon a clause excluding liability for consequential damages is a major issue that has not been resolved by the appellate courts of this State. One line of cases holds that the exclusion of consequential damages is part of the limited remedy which has failed and hence allows the buyer to recover consequential damages. A second line of cases holds that the clause excluding consequential damages is entitled to independent significance and remains enforceable despite a failure of essential purpose unless the buyer can establish that the clause is unconscionable.
+
+
+[18]In Waters v. Massey-Ferguson, Inc., 775 F.2d 587 (4th Cir. 1985), the Fourth Circuit Court of Appeals, applying South Carolina law, addressed the issue of the effect that the failure of a repair or replacement remedy had upon the exclusion of consequential damages. In that case, Waters, a soybean farmer, purchased a Massey-Ferguson tractor to assist in his farming operation. He received a limited warranty with language limiting remedies similar in all practical respects with the John Deere Warranty. The tractor suffered chronic hydraulic failures, and the seller was unable to remedy its defects. Walters in turn suffered serious planting delays and alleged the defective tractor was responsible for consequential damages in the form of lost profits on his crops.
+
+
+500
+[19]Although the court held that the plaintiff-buyer could recover consequential damages, the court neither held that the exclusion was part of the failed limited remedy nor that the exclusion was unconscionable. Rather, the court interpreted the exclusion of consequential damages as applying only to those damages flowing directly from the breach of the warranty of quality and as inapplicable to those damages caused by the seller’s breach of its obligation to repair or replace the defective parts. Id. at 591–592. In reaching this conclusion, the court declared that the threshold inquiry was one of contractual construction, and in ascertaining the intent of the parties, the court sought to determine what expectations were aroused in the parties by their written language in light of the surrounding circumstances. The court examined the contract from three different interpretive perspectives: (1) the language used in the text of the written agreement; (2) the creative context of the contract to determine which party drafted the written terms in question in order to place upon that party the duty to articulate the agreement precisely; and (3) the commercial context with emphasis upon the precise nature and purpose of the contract and the type of goods involved. Id. The court concluded that the exclusion of consequential damages did not extend to the situation in which the seller failed to repair the tractor as required by the warranty, since the contract indicated that the parties contemplated repair would be possible, and thus, the parties did not anticipate any need to limit damages from the failure of this remedy. Id. at 592.
+
+
+[20]Likewise, the parties in the present case assumed that any mechanical Problems in the equipment could be corrected. In the context of the commercial nature of the transaction, John Deere’s agent knew the equipment would be used in the swamp application and knew that regular, certain repair was promised and expected in order that all of the equipment could be used for its purpose. In negotiating the sale, John Deere’s agent assured Bishop Logging that “those units would function properly in [the swamp] environment,” and that he would have “at [his] beck and call . . . factory support to make sure that the equipment functioned properly.” Therefore, we must interpret the exclusion of consequential damages in light of this premise of “certainty of repair” which underlies the entire contract. The parties obviously agreed to exclude consequential damages in the event that John Deere performed its obligation to repair or replace defects. However, Bishop Logging could reasonably have expected to recover consequential damages when, as here, the defects were never adequately corrected and the limited remedy proved ineffectual.
+
+
+[21]The failure of the limited remedy in this case materially altered the balance of risk set by the parties in the agreement. Therefore, we conclude that the court was correct in disregarding the other limitations and exclusions on John Deere’s warranties, and allowing the full array of remedies provided by the UCC, including recovery of consequential
+501
+damages and incidental losses under S.C. Code Ann. §§ 36–2–714 and 2–715.
+
+
+[22]Section 36–2–714 sets forth the normal measure of direct damages for breach of warranty. The formula for calculating direct damages is the value of the goods as warranted less the value of the goods as accepted. In addition to the recovery of direct damages, § 36–2–714(3) also provides for the recovery of incidental and consequential damages. Incidental damages resulting from the sellers’ breach include expenses reasonably incurred in inspection, receipt transportation, and care and custody of goods rightfully rejected as well as expenses incident to effecting cover. See S.C. Code Ann. § 36–2–715(1). Consequential damages include:
+
+
+(a)any loss resulting from general or particular requirements and needs of which the seller at the time of contracting had reason to know and which could not reasonably be prevented by cover or otherwise; and
+
+
+(b)injury to person or property proximately resulting from any breach of warranty.
+
+
+See S.C. Code Ann. § 36–2–715(2). Profits lost as a result of the breach are recoverable under this section as consequential damages. In Marshall and Williams Co. v. General Fibers and Fabrics, Inc., 270 S.C. 247, 241 S.E.2d 888 (1978) the court indicated that consequential damages could also include additional operating expenses caused by the breach. The burden of proving the extent of loss incurred by way of consequential damages is on the buyer. S.C. Code Ann. § 36–2–715, comment 4.
+
+
+[23]In the present case, the losses suffered by Bishop Logging were primarily lost anticipated profits. There was no personal injury and there was no injury to other property owned by Bishop Logging. According to Bishop Logging’s expert witness who was hired to make a study of the economic loss in this case, the total financial loss to Bishop Logging was either $540,921 or $723,323 for the three year estimated life of the equipment. The difference depended upon the price Bishop Logging received per cord of wood logged by it. The one million dollar actual damage award recovered by Bishop Logging, however, was not only for lost profits from not meeting expected production schedules, but also other unspecified damages which the jury awarded. Although mathematical precision is not required in the proof of loss, we believe the jury’s actual damage award lacked relation to the testimony in the record offered to establish damages and apparently included impermissible, noneconomic damages. To that extent, the actual damage award is reduced to the maximum total of economic damages claimed by Bishop Logging, $723,323. See Wiggins v. Todd, 296 S.C. 432, 373 S.E.2d 704 (Ct. App. 1988) (We may modify a judgment to reduce an award of damages where certain damages improperly allowed can be segregated).
+
+
+502
+———
+
+
+Problem 17-8
+
+
+### Trucker purchased a truck with a warranty that read as follows
+
+
+Manufacturer warrants to the owner each part of this vehicle to be free under normal use and service from defects in material and workmanship for a period of 12 months from the date of original retail delivery or first use.
+
+
+Manufacturer’s obligation under this warranty shall be limited to the repair of the vehicle and the replacement of defective parts.
+
+
+The warranties herein expressed are IN LIEU OF any other express or implied warranty, including without limitation any implied WARRANTY of MERCHANTABILITY or FITNESS, and of any other obligation on the part of Manufacturer or Dealer. In no event shall Manufacturer or Dealer be liable for any consequential loss or damage of any nature arising from any cause whatsoever.
+
+
+The contract also called for Trucker to pay for the truck in monthly installments over a period of three years.
+
+
+During the first year, the truck was in Dealer’s shop for a total of 60 days to remedy a variety of Problems, some major and some minor. Trucker loses $300 in profits every day the truck was in the shop. At the end of the year, seeing his warranty coverage coming to an end and his mechanical Problems not coming to an end, Trucker stopped making payments and returned the truck to Dealer. Is Trucker liable for the loan balance? See § 2–608(2). Is Dealer liable for consequential damages? See § 2–719(2).
+
+
+———
+
+
+Van Den Broeke v. Bellanca Aircraft Corp.
+
+
+United States Court of Appeals, Fifth Circuit
+576 F.2d 582 (1978)
+
+
+[1]In this diversity action, appellant contends that the district court erred in granting appellee’s [Bellanca Aircraft Corp.’s] motion for summary judgment. The district court held that express disclaimers of warranty precluded appellant’s [Broeke’s] reliance on implied warranties of merchantability and fitness and negligence in design. Because we hold that the disclaimers were not shown to be part of the agreement, however, we reverse.
+
+
+[2]The facts are simple. In April of 1973, appellant ordered an airplane from appellee through Abide Aero Service. In arriving at his decision to purchase this plane for use as a commercial crop duster, appellant was relying on advertising by Bellanca representing such a use.
+503
+Additionally, he made his purpose known to the agent at Abide Aero. When the aircraft was delivered on June 6, 1973 a warranty certificate purporting to disclaim implied warranties and limit damages was also delivered. A postcard notifying Bellanca of the purchase for the purpose of activating warranties was also delivered. This card was returned to Bellanca either by appellant’s office or by Abide Aero. Subsequently, appellant began experiencing mechanical difficulties with the aircraft and after absorbing business losses, sold the plane. Appellant then brought suit alleging breach of warranties and negligence in construction. Appellant asked for damages to include lost profits, cost of repairs, and loss on the resale of the aircraft. The district court granted appellee’s motion for summary judgment holding that appellee’s disclaimers of warranties precluded recovery. Appellant then appealed to this court.
+
+
+[3]Because this is a diversity case we, of course, apply Mississippi’s law. The particular law we look to is Mississippi’s version of the Uniform Commercial Code, Miss. Code Ann. (1972) § 75–1–101 et seq. Appellant bases his right to recovery under the Code on § 75–2–314, providing generally for implied warranties, and on § 75–2–315, providing for warranty of fitness for a particular purpose. Appellant also contended that the plane was negligently manufactured. Appellee contended, and the lower court agreed, however, that these warranties were excluded by virtue of the disclaimers in the warranty document, and that remedies were limited, pursuant to § 75–2–719, to preclude recovery for consequential damages or negligence.
+
+
+[4]The law with respect to limitation on exclusion of warranties in Mississippi was unclear at the time of the purchase of the airplane. Although both § 75–2–314 and § 75–2–315 provide that the implied warranties shall arise unless “excluded or modified,” the legislature failed to enact § 2–316, the section normally dealing with exclusion or modification of warranties. Happily, however, we need not purport to decide whether and to what limit warranties may have been able to be disclaimed in Mississippi, because we hold that the disclaimers were not shown to have become part of the contract.
+
+
+[5]Both historically and under the Code, the time for determining the terms of the contract is when the bargain is struck. Disclaimers of warranty are no different. Therefore, unless the disclaimers are disclosed prior to the agreement and agreed upon, thereby made part of the contract, they are not binding. In the instant situation this is reflected by the language of § 75–2–315 which refers to the time of contracting as the operative time, and by that of § 75–2–719 which requires agreement on the limitation of remedies. It is evident that under Mississippi authority, the time of contracting is the relevant point to determine limitations on warranties. As the record was developed below, the warranty was not delivered apparently until after the agreement had been made. The record
+504
+does not adequately reflect the time at which the contract was made in this case, and thus does not reveal whether the warranty document limiting warranties and remedies was delivered before the time of contracting or after that time. The parties are free to develop this factual issue on remand.
+
+
+[6]The requirements for modification are also provided by the Code, § 75–2–209. Because the aircraft in question cost in excess of $500, the sales contract is subject to § 75–2–201, the Code “statute of frauds.” Because the underlying contract is subject to § 75–2–201, § 75–2–209(1) and (3) requires a signed modification agreement. In the instant case, there appears to be neither an agreement by appellant accepting a modified warranty scheme, nor a signature of appellant signifying such acceptance. A warranty card was mailed notifying Bellanca of appellant’s purchase. This postcard, however, did not contain the warranty disclaimer, did not incorporate them by reference, and was not signed by appellant. Therefore, it would be impossible for us to hold that the mere action of returning a notice-type postcard was a modification of a contract.
+
+
+[7]Even though the postcard was ineffective to operate as a modification, § 75–2–209(3) provides that such an ineffective attempt can, under the proper facts, operate as a waiver. According to its accepted definition, a waiver is a voluntary and intentional relinquishment of a known right. Judged by this standard it would be impossible for us to hold that the sending of the postcard constituted a waiver as a matter of law. The postcard, by its terms merely notifies Bellanca that a sale has been made. Although it is denoted as a “Warranty Registration” and states “To place your Bellanca Warranty into effect you must mail this card to the factory within 7 days of delivery to original user or purchaser” there is nothing evidencing an intent on the part of appellant to relinquish his other warranties in favor of the Bellanca Warranty. The probable intent of the appellant, if indeed he sent the card, was to insure hassle-free service for whatever would be covered by the Bellanca Warranty. Because no one actively desires a law suit, until one is necessary it is eminently practical to give notice in order to insure that those repairs which may fortunately fall under the limited warranty would be promptly effected. The mere fact that one seeks to avoid a lawsuit until it is practically necessary however, should not imply the intent to waive other contractual rights. Based upon the record as developed, we therefore hold that appellant did not waive the implied warranties and remedies that arose upon the purchase of the aircraft.5
+
+
+Because the disclaimers were ineffective for the reasons states above, we REVERSE and REMAND.
+
+
+505
+———
+
+
+Problem 17-9
+
+
+Homer purchased a new sports car from Dealer. While he was driving a curving mountain road, wondering why it wasn’t as much fun as the television commercials made it seem, the car’s steering failed. Both Homer and the car were damaged in the resulting crash. Homer filed suit against Dealer alleging breach of the warranty of merchantability. Upon receipt of the summons and complaint, Dealer forwarded a copy to Manufacturer (from whom Dealer had purchased the car) along with a letter that read in full as follows:
+
+
+July 21, 2010
+
+
+Manufacturer
+99–1/2 Jitney Blvd.
+Detroit, Michigan 48100
+
+
+### Gentlemen
+
+
+Enclosed is a copy of a summons and complaint served upon us in connection with an allegedly defective automobile that you manufactured. Demand is hereby made that you appear in and defend in this action on behalf of my dealership.
+
+
+Very truly yours,
+/s/ Dealer
+
+
+Having better things to do, Manufacturer ignored the letter. The case was tried and judgment was entered against Dealer. The jury found as facts (1) the steering mechanism in the car was defective, and (2) this defect had caused the injury. Dealer then filed a separate action against Manufacturer for breach of the implied warranty of merchantability.
+
+
+In the Dealer-Manufacturer litigation, will Manufacturer be able to argue successfully that under § 2–607(5) it is not bound by the prior jury’s determinations that the steering mechanism was defective and that that defect caused the accident? Why or why not? See Bendix-Westinghouse Automotive Air Brake Co. v. Swan Rubber Co., 55 Cal. App. 3d 256, 127 Cal.Rptr. 571 (1976).
+
+
+———
+
+
+Note
+
+
+In Uniroyal, Inc. v. Chambers Gasket and Manufacturing Co., 177 Ind.App. 508, 380 N.E.2d 571 (1978), the court explained the purpose of the “vouching-in” procedure:
+
+
+The common-law right of a defendant to “vouch-in” a person liable over to him was set forth in the leading case of Littleton v. Richardson, 34 N.H. 179, 66 Am. Dec. 759, 760 (1856):
+
+
+506
+[W]hen a person is responsible over to another, either by operation of law or by express contract . . . and he is duly notified of the pendency of the suit, and requested to take upon him the defense of it, he is no longer regarded as a stranger, because he has the right to appear and defend the action, and has the same means and advantages of contravening the claim as if he was the real and nominal party upon the record. In every such case, if due notice is given to such person, the judgment, if obtained without fraud or collusion . . . will be conclusive against him, whether he has appeared or not. . . .
+
+
+“Voucher to warranty” has deep roots in common-law emanating from England. (See Comment, 29 Ark. L. Rev. 486 (1976)). Its application in America has flourished. In 1963, the General Assembly saw fit to codify the practice as it relates to the law of sales concerning “middlemen” by enacting § 2–607: [The court then quoted § 2–607(5).] Vouching-in is a “simple and expedient way for defendants who have a right over against another to avoid the necessity of relitigating the issues of liability to the plaintiff in the first suit.” IB Moore’s Federal Practice 0.405[9]. It has the unique advantage of not requiring personal service of process. Id.
+
+
+———
+
+
+Problem 17-10
+
+
+On July 8, 2007, Aerostar Aircraft purchased an aircraft engine from Oceanic Engines. The engine sat in Aerostar’s warehouse until 2009, when it was installed in a new airplane. The airplane was sold to Dealer, and it sat on Dealer’s lot until August 15, 2011, when it was sold to Purchaser. The first time Purchaser flew the plane, the engine failed. Purchaser made a crash landing in a cornfield. He was uninjured but the aircraft suffered extensive damage. So did the cornfield. It was determined that the cause of the crash was Oceanic’s failure to install a cotter key on a crucial nut. The cotter key is required by Federal Aviation Regulations, and because it was not installed the nut came loose in flight. Is Purchaser’s U.C.C. § 2–314 claim against Oceanic barred by U.C.C. § 2–725?
+
+
+Problem 17-11
+
+
+On March 1, 2005, Purchaser purchased a set of tires with a warranty that provides:
+
+
+“Manufacturer warrants that these tires will perform satisfactorily in normal service for a period of five years or until 50,000 miles have been driven on them, whichever comes first.”
+
+
+There were no disclaimers, exclusionary clauses, or other provisions concerning warranties in the sales contract.
+
+
+507
+(a)On September 1, 2009, the right front tire blew out causing a minor accident resulting in $4,000 worth of damage to Purchaser’s Mercedes. Purchaser replaced the right front tire, and the other three tires logged their 50,000th mile on December 1, 2009. Purchaser has sued, alleging a breach of the implied warranty of merchantability. Is his claim barred by § 2–725? (Read the question carefully.)
+
+
+(b)Suppose that on June 1, 2007, when the tires had been driven 55,000 miles a blowout occurred, causing a serious accident. The tires still had plenty of tread left, and the cause of the accident was determined to be a manufacturing defect. Could Purchaser assert a breach of warranty claim? If so, when would the statute run?
+
+
+———
+
+
+Using Other Law to Circumvent Warranty Defenses
+
+
+If the sellers have defenses to warranty claims, it may still be possible to recover under tort law. To do so, however, the plaintiff needs a basis for a tort law cause of action. Personal injury, wrongful death, or property damage is usually necessary. For the most part tort law does not allow recovery for “pure economic loss,” i.e., lost profits and the like not associated with personal injury or property damage.
+
+
+Restatement (Third) of Torts
+
+
+§ 18.Disclaimers, Limitations, Waivers, and Other Contractual Exculpations as Defenses to Products Liability Claims for Harm to Persons
+
+
+Disclaimers and limitations of remedies by product sellers or other distributors, waivers by product purchasers, and other similar contractual exculpations, oral or written, do not bar or reduce otherwise valid products liability claims against sellers or other distributors of new products for harm to persons.
+
+
+- * *
+
+
+§ 21.Definition of “Harm to Persons or Property:” Recovery for Economic Loss
+
+
+For purposes of this Restatement, harm to persons or property includes economic loss if caused by harm to:
+
+
+(a)the plaintiff’s person; or
+
+
+(b)the person of another when harm to the other interferes with an interest of the plaintiff protected by tort law; or
+
+
+(c)the plaintiff’s property other than the defective product itself.
+
+
+508
+### Comment
+
+
+f.Harm to other property: disclaimers and limitations of remedies. Although recovery for harm to property other than the defective product itself is governed by this Restatement, the Institute leaves to developing case law the questions of whether and under what circumstances contracting parties may disclaim or limit remedies for harm to other property. Of course, such contractual limitations would be effective only between the parties themselves. When a defective product causes harm to property owned by third persons, the contractual arrangements between the contracting parties should not shield the seller from liability to the third party. However, contractual limitations on tort liability for harm to property, when fairly bargained for, may provide an effective way for the contracting parties efficiently to allocate risks of such harm between themselves.
+
+
+———
+
+
+Problem 17-12
+
+
+(a)Manufacturer purchased a furnace from Furnace Co. and had it installed in its factory. The sale contract provided: “In no event shall Furnace Co. be liable for consequential loss or damage arising from any cause whatsoever.” The following January, a small but vital part in the furnace malfunctioned and the furnace stopped heating. Manufacturer was forced to close its plant for two weeks until a replacement part could be found. Can Manufacturer recover for the profits lost while the furnace was down?
+
+
+(b)What would be the result in Part (a) if the furnace exploded and destroyed Manufacturer’s computer system and the destruction of the computer system was the reason for the shutdown?
+
+
+(c)What would be the answer in Part (a) if the furnace exploded but did not damage anything other than the furnace itself?
+
+
+———
+
+
+Morris v. Mack’s Used Cars
+
+
+Supreme Court of Tennessee
+824 S.W.2d 538 (1992)
+
+
+[1]The purchaser, Darrell Morris, sued the seller, Mack’s Used Cars & Parts, Inc., for compensatory, treble, and punitive damages, alleging fraudulent concealment, breach of express warranty of title under T.C.A. § 47–2–312, breach of express warranty of description under T.C.A. § 47–2–313, breach of implied warranty of merchantability under T.C.A. § 47–2–314, and violation of the Tennessee Consumer Protection Act forbidding unfair or deceptive acts under T.C.A. § 47–18–104(b)(6), (7).
+
+
+509
+[2]The facts were not disputed. In September 1985 the defendant sold to Morris a vehicle described on the bill of sale as a 1979 Ford pickup truck. An older truck was traded in as a down payment, and the balance of the purchase price was financed over a term of three years with a retail installment contract and security agreement, pursuant to which the certificate of title was delivered by the defendant-seller directly to the lender. The bill of sale contained the following statement immediately above the purchaser’s signature, “This unit sold as is. No warranties have been expressed or implied.” At the time of sale, the truck had been wrecked or dismantled and was a “reconstructed” vehicle within the meaning of Title 55, Chapter 3, Part 26 of Tennessee Code Annotated. The seller knew but did not disclose to the purchaser that the pickup was a reconstructed vehicle. The purchaser obtained this information three years later when he received the certificate of title after paying the final installment on the sales contract. Being reconstructed reduced the vehicle’s fair market value 30 to 50 percent.
+
+
+[3]The seller’s defense was that the disclaimer contained in the bill of sale avoided any liability for its not disclosing to the purchaser the condition of the vehicle as revealed by the certificate of title.
+
+
+[4]The trial court agreed with the seller and dismissed the suit. On appeal of the count charging violation of the Consumer Protection Act, the Court of Appeals affirmed, stating,
+
+
+To hold the Defendant liable under the Tennessee Consumer Protection Act would, in effect, be creating liability under an “as is” sale which is waived under T.C.A. § 47–2–316(3)(a).
+
+
+The Court of Appeals held, in the words of Judge Franks, dissenting, “[T]here can be no claim for unfair or deceptive trade practices whenever a seller disclaims warranties under the Uniform Commercial Code . . . with an ‘as is’ clause.” [We reverse.—Eds.]
+
+
+[5]The trial court and the Court of Appeals misconstrued these statutes as they relate to the Consumer Protection Act. Disclaimers permitted by § 47–2–316 of the Uniform Commercial Code (UCC) may limit or modify liability otherwise imposed by the code, but such disclaimers do not defeat separate causes of action for unfair or deceptive acts or practices under the Consumer Protection act, T.C.A. § 47–18–101 to –5002.
+
+
+[6]The UCC contemplates the applicability of supplemental bodies of law to commercial transactions. Section 47–1–103, T.C.A., provides the following:
+
+
+Unless displaced by the particular provisions of chapters 1 through 9 of this title, the principles of law and equity, including
+510
+the law merchant and the law relative to capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, bankruptcy, or other validating or invalidating cause shall supplement its provisions.
+
+
+Also, the supplementary nature of the Consumer Protection Act is made clear by T.C.A. § 47–18–112, which states:
+
+
+The powers and remedies provided in this part shall be cumulative and supplementary to all other powers and remedies otherwise provided by law. The invocation of one power or remedy herein shall not be construed as excluding or prohibiting the use of any other available remedy.
+
+
+[7]A seller may disclaim all implied warranties pursuant to T.C.A. § 47–2–316, which provides in pertinent part:
+
+
+Exclusion or modification of warranties . . . (3)(a) unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is,” “with all faults” or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty.
+
+
+[8]The Consumer Protection Act recognizes this right of exclusion or modification of warranties under the UCC. Section 47–18–113, T.C.A., provides:
+
+
+Waiver of Rights. (a) No provision of this part may be limited or waived by contract, agreement, or otherwise, notwithstanding any other provision of law to the contrary; provided, however, the provisions of this part shall not alter, amend, or repeal the provisions of the Uniform Commercial Code relative to express or implied warranties or the exclusion or modification of such warranties.
+
+
+The above provision, however, also specifically precludes disclaimer of liability under the Consumer Protection Act. Furthermore, the UCC, pursuant to T.C.A. § 47–1–203, imposes an obligation of good faith in the performance or enforcement of every contract. Under T.C.A. § 47–1–102(3), this obligation may not be disclaimed.
+
+
+[9]Claims under the UCC and the Consumer Protection Act are distinct causes of action, with different components and defenses. The Consumer Protection Act is applicable to commercial transactions, also regulated by the UCC. The Court of Appeals in Skinner v. Steele, 730 S.W.2d 335 (Tenn. Ct. App. 1987), reached a similar conclusion with regard to the regulation of the insurance industry. The court held that the mere existence of a separate statute regulating the insurance industry does not create exemption from the Consumer Protection Act. 730 S.W.2d at 338.
+
+
+511
+[10]Other states have recognized that the disclaimer of warranty liabilities under the UCC does not preclude the advancement of non-warranty claims based on unfair trade practices. In V.S.H. Realty, Inc. v. Texaco, Inc., 757 F.2d 411 (1st Cir. 1985), the buyer of an oil storage facility under an “as is” contract sued the seller alleging misrepresentation, non-disclosure, and violation of the Massachusetts statute prohibiting unfair or deceptive practices. The district court dismissed the statutory claim on the basis of the “as is” disclaimer. The First Circuit Court of Appeals reversed, stating:
+
+
+We believe the district court’s view of the law regarding “as is” clauses is incorrect. Although the Uniform Commercial Code does expressly permit disclaimers in the sale of goods between merchants, § 2–316 refers specifically to disclaimers of implied warranties, suggesting to us that it was intended only to permit a seller to limit or modify the contractual bases of liability which the Code would otherwise impose on the transaction. The section does not appear to preclude claims based on fraud or other deceptive conduct.
+
+
+757 F.2d at 417.
+
+
+[11]Automobile sales cases from other jurisdictions have held that an “as is” disclaimer of warranties does not bar an action for deceptive trade practices. In Metro Ford Sales, Inc. v. Davis, 709 S.W.2d 785 (Tex. Ct. App.—Fort Worth 1986), the buyer of a used truck brought an action against the seller under the Texas Deceptive Trade Practices Consumer Protection Act (DTPA). The buyer alleged that the salesman falsely represented that the truck was in “top” condition and had not been wrecked. The seller contended that the warranty disclaimer signed by the buyer was admissible to counter the DTPA cause of action. The court concluded,
+
+
+We hold that the waiver of warranty did not waive [the buyer’s] cause of action for misrepresentation under the DTPA and that the waiver was properly excluded.
+
+
+709 S.W.2d at 790. In Attaway v. Tom’s Auto Sales, Inc., 242 S.E.2d 740 (Ga. Ct. App. 1978), the buyer of a used car brought suit against the seller, alleging breach of warranty and violation of the Georgia Fair Business Practices Act (Act). The sales contract provided “all cars sold as is . . . no guarantee.” The court stated that “the language in the contract would appear to prevent [the buyer] from recovering on the grounds of express or implied warranty” and concluded that “although [the buyer] might not be able to rescind the contract or otherwise set it aside, the Act itself is in no
+512
+way tied to contractual rights and is wholly self-sustaining.” 242 S.E.2d at 742. The court concluded:
+
+
+From an overview of [the Act], we find that there is thereby created a separate and distinct cause of action under its provisions. A consumer who is damaged thereby has an independent right to recover under the Act, regardless of any other theory of recovery.
+
+
+Id.
+
+
+[12]The Tennessee Consumer Protection Act is to be liberally construed to protect consumers and others from those who engage in deceptive acts or practices. Haverlah v. Memphis Aviation, Inc., 674 S.W.2d 297, 305 (Tenn. Ct. App. 1984). In a case similar to the one before the Court, the seller’s failure to disclose to the buyer that the vehicle had been in an accident and had been repaired constituted a violation of the Consumer Protection Act. See Patty v. Herb Adcox Chevrolet Co., 756 S.W.2d 697 (Tenn. Ct. App. 1988). To allow the seller here to avoid liability for unfair or deceptive acts or practices by disclaiming contractual warranties under the UCC would contravene the broad remedial intent of the Consumer Protection Act.
+
+
+[13]In summary, disclaimers permitted by T.C.A. § 47–2–316 do not prevent application of the Consumer Protection Act. The Consumer Protection Act creates a separate and distinct cause of action for unfair or deceptive acts or practices.
+
+
+[14]The judgments of the trial court and Court of Appeals dismissing the alleged violation of the Consumer Protection Act, therefore, are reversed and the case is remanded. The costs are taxed to the appellee.
+
+
+Lawyering Skills Problem
+
+
+In 2006, Penny King purchased a used 1995 model Ranch-Aire aerobatic airplane (one that is specially-designed for loops, rolls, and other air show-type maneuvers) from Uncle Sky’s Aircraft Sales, a dealer in new and used aircraft. Penny operates a small flying school, just herself and two or three part-time instructors. The part-time instructors turn over regularly as they get airline jobs (or give up trying to get airline jobs, as the case may be). At any given time Penny would own two or three aircraft. Typically, she would keep an eye out for good deals in used aircraft and when she saw a good deal, she would buy the plane, use it for a couple of years and sell it when something better came along.
+
+
+As an aviation professional, Penny knew that an aircraft that has been damaged (ever) is much less valuable than one that has never been damaged. Therefore, Penny required that the bill of sale she received from Uncle Sky provide “subject aircraft has never been damaged.”
+
+
+513
+Similarly, Penny knew that aircraft are subject to airworthiness directives. The Federal Aviation Administration from time to time issues airworthiness directives when it discovers unsafe design features in a particular type of airplane. These are like automobile recall notices, but with a couple of major differences—the owner (not the manufacturer) of the aircraft has to pay for the work done on the aircraft and it is illegal to fly the aircraft if the airworthiness directive has not been complied with. To make sure that there weren’t any airworthiness directives that had been issued with respect to the Ranch-Aire and not already incorporated into her airplane, Penny made sure that the bill of sale she got from Uncle Sky provided “all airworthiness directives pertaining to this aircraft have been complied with.”
+
+
+In 2010, Penny decided it was time to sell the old Ranch-Aire. Penny’s middle-aged body no longer took kindly to the g-forces generated by beginners incompetently attempting barrel rolls. Penny placed the following ad in an aviation magazine:
+
+
+1195 Ranch-Aire. Fun aerobatic airplane. New radios. Never damaged. All airworthiness directives complied with. Call 865.974.0681.
+
+
+Mike Grey saw the ad. He called Penny and told her he had seen the ad. She gave him a demonstration flight, and he decided he had to have the aircraft. They entered into a contract where he agreed to buy the aircraft subject to the express condition precedent that “Buyer shall be satisfied with the results of an inspection of the aircraft and its log books performed by a Federal Aviation Administration-licensed aircraft mechanic.”
+
+
+The contract was one page long and was prepared by Penny. The last line in the contract, in ordinary type, directly above the signature line, read: “no warranties.”
+
+
+After signing the contract, Mike hired a mechanic to inspect the aircraft and its log books. The inspection of the log books was important because federal regulations require that a log book be maintained for every aircraft and that all damage to the aircraft and all repairs to the aircraft be recorded in the log books, which are always transferred along with an airplane.
+
+
+Prior to signing the contract for the purchase of the aircraft, Mike glanced at the log book, but he did not review it thoroughly because he intended to have his mechanic, who knew better what to look for, take a very close look at it.
+
+
+The mechanic inspected the aircraft and its log book, and told Mike that there appeared to be nothing wrong with either. Mike thereupon paid for the airplane and took possession of it.
+
+
+Two years later, Mike went to sell the plane to buy a plane that was newer and more powerful. When his buyer had the plane inspected, her mechanic found two major problems with the plane. First, he found that the airplane had, in fact, been damaged some years earlier, before Penny bought the plane. The damage had been repaired so that it was not detectable even by the most careful inspection of the plane, but the repairs were logged in the log book, and
+514
+a careful reading of the log book by Penny, Mike, or the mechanics who inspected the airplane when Penny and Mike made their purchases would have revealed the damage. Unfortunately, none of these folks read the log book that carefully, and in spite of the quality of the repair, the fact that the aircraft had suffered this damage reduced its value. Also, the buyer’s mechanic discovered there was an airworthiness directive that had been issued three years before Penny bought the plane. The airworthiness directive required adding a stiffener to the wing to reduce metal fatigue in the wing. It would cost $2,000 comply with the airworthiness directive, and the fact that the airplane had flown so many years without the stiffener meant that the wing had suffered more than the usual amount of metal fatigue and this further detracted from the value of the plane.
+
+
+Mike’s mechanic could not have determined that there was an airworthiness directive that had not been complied with solely by looking at the log book, but a careful mechanic making an inspection such as this would have obtained a list of airworthiness directives applying to this particular model of aircraft and checked against the log book, where each repair made to comply with an airworthiness directive is logged, to make sure that every one of them had been complied with. Instead, Mike’s mechanic relied on entries made by Penny’s mechanic when he did his annual inspections of the aircraft. At each annual inspection, Penny’s mechanic had written in the log book: “All airworthiness directives complied with.” When he made this notation he did not actually check that all the airworthiness directives ever issued against the plane had been complied with. Instead, he went back to the similar entry made at the last annual inspection and then just checked to make sure no airworthiness directives had come out since that date or that if one had, it had been complied with. A very careful mechanic would have obtained a list of all the airworthiness directives ever issued against this model and checked that compliance with them had been logged in the log book before he made this notation the first time, but Penny’s mechanic had not done this. Instead he relied on the entry made by the previous owner’s mechanic and only looked for airworthiness directives issued since that entry. The previous owner’s mechanic had done the same thing. He had relied on the entries made by the mechanic before him. An earlier mechanic had overlooked an airworthiness directive, and nobody had picked it up.
+
+
+The discovery of these defects means that Mike won’t be able to sell the plane except at a much reduced price. He has come to you to see if he has any breach of warranty claims against Penny. Please advise him.
+
+
+1[Berg v. Stromme, a pre-U.C.C. case, held ineffective a disclaimer printed in small type on the back side of an automobile sales contract.—Eds.]
+
+
+2“(I)t is essential that ‘trade custom’ be considered a rule of thumb, to be disregarded when the crucial analysis of relative bargaining positions indicates that the consumer has been disadvantaged.” (Footnote omitted.) Terry and Fauvre, The Unconscionability Offense, 4 Ga. L. Rev. 469, 503 (1970).
+
+
+It is the unreasonableness and unfairness of a contract term which is the primary target of U.C.C. § 2–302. See Spanogle, Analyzing Unconscionability Problems, 117 U. Pa. L. Rev. 931, 943 (1969).
+
+
+3Conventional hardwood logging is very labor intensive requiring workers to walk through the woods and manually cut and delimb trees with a chainsaw. A tractor-like machine called a cable skidder approaches the cut tree and the operator of the skidder gets off the machine and manually places a cable around the log and hooks it up to the machine. The operator then gets back on the skidder and drags the tree to a log deck, which is a marshalling area for cut trees, and unloads.
+
+
+4According to its expert witness, the total financial loss to Bishop Logging was either $540,921 or $723,320 for the three year estimated life of the equipment. The difference depended upon the price Bishop Logging received per cord of wood logged by it.
+
+
+5Of course, appellee is free to prove on remand that appellant, as a matter of fact, did waive implied warranties. We merely hold that, on the record before us, appellee did not prove appellant’s waiver.
+
+
+6[This part covers certificates of title for wrecked, dismantled, or rebuilt motor vehicles.—‍Eds.]
