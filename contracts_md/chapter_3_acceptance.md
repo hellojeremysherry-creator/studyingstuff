@@ -298,7 +298,8 @@ treatise on contract law provides some guidance on this issue: “A [ ]4 problem
 (2)Where the beginning of a requested performance is a reasonable mode of acceptance an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance. (Ill. Rev. Stat.1989, ch. 26, par. 2–206.)
 
 
-[23]For the purposes of the present case, the key word in this statute is the term “unambiguously.” If defendant’s offer contained on the purchase order is unambiguous in inviting acceptance only by the signature of plaintiff’s “dealer,” no contract exists until the purchase order is signed accordingly. If, however, defendant’s offer is ambiguous in inviting
+[23]For the purposes of the present case, the key word in this statute is the term “unambiguously.” If defendant’s offer contained on the purchase order is unambiguous in inviting acceptance only by the signature of plaintiff’s “dealer,” no contract exists until the purchase order is signed accordingly. 
+If, however, defendant’s offer is ambiguous in inviting plaintiff’s acceptance, a contract between plaintiff and defendant could be found to exist.
 [24]On appeal, defendant has cited several cases supporting the argument that the purchase order he signed unambiguously invites acceptance only by signature of plaintiff’s “dealer.” One such case is Brophy v. City of Joliet (1957), 14 Ill. App. 2d 443, 144 N.E.2d 816, which involved the sale of revenue bonds. In that case, the court stated that where an offer requires an acceptance to be made in writing, no other form of acceptance can be made. The offer in Brophy read as follows:
 
 
